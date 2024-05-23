@@ -1,0 +1,7858 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-13 16:21+0900\n"
+"PO-Revision-Date: 2024-05-19 16:37+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
+
+msgid "$(C)"
+msgstr "(℃)"
+
+msgid "$(KG)"
+msgstr "(kg)"
+
+msgid "$(Rank #)"
+msgstr "(랭크 {0})"
+
+msgid "$(SHIELDED)"
+msgstr "(차폐됨)"
+
+msgid "$0 results found."
+msgstr "검색 결과 : 0개"
+
+msgid "$10 Mins"
+msgstr "10 분"
+
+msgid "$15 Mins"
+msgstr "15 분"
+
+msgid "$30 Mins"
+msgstr "30 분"
+
+msgid "$45 Mins"
+msgstr "45 분"
+
+msgid "$5 Mins"
+msgstr "5 분"
+
+msgid "$60 Mins"
+msgstr "60 분"
+
+msgid "$ABBREVIATED_ELECTRIC"
+msgstr "전기"
+
+msgid "$ABBREVIATED_ELECTROMAGNETIC"
+msgstr "전자기"
+
+msgid "$ABBREVIATED_ENERGY"
+msgstr "에너지"
+
+msgid "$ABBREVIATED_PHYSICAL"
+msgstr "물리"
+
+msgid "$ABORT"
+msgstr "취소"
+
+msgid "$ABORT JUMP"
+msgstr "도약 취소"
+
+msgid "$acc"
+msgstr "정확도"
+
+msgid "$ACCEPT"
+msgstr "승인"
+
+msgid "$ACCEPTTRADE"
+msgstr "거래 승인"
+
+msgid "$ACCURACY"
+msgstr "명중률"
+
+msgid "$ACCURACY_LRG"
+msgstr "명중"
+
+msgid "$Action"
+msgstr "행동"
+
+msgid "$ACTIVATE"
+msgstr "활성화"
+
+msgid "$Activate"
+msgstr "활성화"
+
+msgid "$ACTIVE_EFFECTS"
+msgstr "활성 효과"
+
+msgid "$Activity"
+msgstr "활동"
+
+msgid "$Actor Fade"
+msgstr "NPC 가시거리"
+
+msgid "$Actor Fade Desc"
+msgstr "NPC가 화면에 표시되기 시작하는 거리를 조절합니다."
+
+msgid "$ADD"
+msgstr "추가"
+
+msgid "$ADD ALL"
+msgstr "모두 추가"
+
+msgid "$ADD-ONS"
+msgstr "애드온"
+
+msgid "$ADJUST"
+msgstr "조절"
+
+msgid "$ADJUST HEIGHT"
+msgstr "높이 조절"
+
+msgid "$ADJUST_ZOOM"
+msgstr "카메라 확대/축소"
+
+msgid "$Advanced"
+msgstr "고급"
+
+msgid "$AGILITY"
+msgstr "민첩성"
+
+msgid "$Aim Horizontal Sensitivity"
+msgstr "수평 조준 감도"
+
+msgid "$Aim Horizontal Sensitivity Desc"
+msgstr "조준 시 수평 이동 감도를 조절합니다."
+
+msgid "$Aim Vertical Sensitivity"
+msgstr "수직 조준 감도"
+
+msgid "$Aim Vertical Sensitivity Desc"
+msgstr "조준 시 수직 이동 감도를 조절합니다."
+
+msgid "$ALL"
+msgstr "전체"
+
+msgid "$All"
+msgstr "전체"
+
+msgid "$Ally"
+msgstr "아군"
+
+msgid "$AlreadyAtThisBody"
+msgstr "이미 이 위치에 있음"
+
+msgid "$AltAttack"
+msgstr "보조 공격"
+
+msgid "$AltKey"
+msgstr "보조 키"
+
+msgid "$AMMO"
+msgstr "실탄"
+
+msgid "$AMMO_LRG"
+msgstr "실탄"
+
+msgid "$Ammunition"
+msgstr "실탄"
+
+msgid "$AP"
+msgstr "AP"
+
+msgid "$APPLY"
+msgstr "적용"
+
+msgid "$ARGOS EXTRACTORS MINING OUTPOST"
+msgstr "아르고스 익스트랙터 채굴 기지"
+
+msgid "$ARGOS_EXTRACTORS"
+msgstr "아르고스 익스트랙터"
+
+msgid "$Arrest"
+msgstr "체포"
+
+msgid "$ASCENDING"
+msgstr "상승"
+
+msgid "$Assign"
+msgstr "할당"
+
+msgid "$ASSIGN CREW"
+msgstr "승무원 배치"
+
+msgid "$ASSIGN FAVORITE"
+msgstr "즐겨찾기 할당"
+
+msgid "$Assign Weapons"
+msgstr "무기 할당"
+
+msgid "$ASSIGNED TO"
+msgstr "할당됨:"
+
+msgid "$ASSIGNED TO SLOT"
+msgstr "빈자리에 할당됨"
+
+msgid "$ASSIGNMENT"
+msgstr "할당"
+
+msgid "$assignment bonus"
+msgstr "할당 보너스"
+
+msgid "$AssignmentCategoryCurrentOutpost"
+msgstr "현재 전초기지"
+
+msgid "$AssignmentCategoryCurrentShip"
+msgstr "현재 함선"
+
+msgid "$AssignmentCategoryMisc"
+msgstr "기타"
+
+msgid "$AssignmentCategoryMiscDescription"
+msgstr "배치할 위치를 선택하세요"
+
+msgid "$AssignmentCategoryOutpost"
+msgstr "전초기지"
+
+msgid "$AssignmentCategoryOutpostDescription"
+msgstr "배치할 전초기지를 선택하세요"
+
+msgid "$AssignmentCategoryShip"
+msgstr "함선"
+
+msgid "$AssignmentCategoryShipDescription"
+msgstr "배치할 함선을 선택하세요"
+
+msgid "$Asteroid Belt"
+msgstr "소행성대"
+
+msgid "$ASTEROID BELTS"
+msgstr "소행성대"
+
+msgid "$ATMOSPHERE"
+msgstr "대기"
+
+msgid "$ATTACH"
+msgstr "부착"
+
+msgid "$Attach"
+msgstr "부착"
+
+msgid "$ATTACH MOD"
+msgstr "모드 부착"
+
+msgid "$ATTACH WIRE"
+msgstr "와이어 부착"
+
+msgid "$ATTACHMENTS"
+msgstr "부착물"
+
+msgid "$AttemptsRemaining:"
+msgstr "남은 시도 횟수:"
+
+msgid "$ATTRIBUTES"
+msgstr "특성"
+
+msgid "$AUDIO"
+msgstr "오디오"
+
+msgid "$Audio"
+msgstr "오디오"
+
+msgid "$Author:"
+msgstr "제작자:"
+
+msgid "$AUTO BUILD"
+msgstr "자동"
+
+msgid "$AUTO COOK"
+msgstr "자동 요리"
+
+msgid "$Auto Pilot Engaged"
+msgstr "오토파일럿 활성화"
+
+msgid "$Auto Slot"
+msgstr "자동 맞추기"
+
+msgid "$AutoMove"
+msgstr "자동 전진"
+
+msgid "$AUTOSAVE"
+msgstr "자동 저장"
+
+msgid "$AutosavingMsg"
+msgstr "자동 저장 중..."
+
+msgid "$AutoSlot"
+msgstr "자동 맞추기 ({0})"
+
+msgid "$AVAILABLE"
+msgstr "사용가능"
+
+msgid "$available"
+msgstr "사용가능"
+
+msgid "$available missions"
+msgstr "선택 가능 임무"
+
+msgid "$AVAILABLE MODS:"
+msgstr "선택 가능 모드:"
+
+msgid "$AVAILABLE OUTPOSTS"
+msgstr "선택 가능 기지:"
+
+msgid "$AVAILABLE PROJECTS:"
+msgstr "선택 가능 프로젝트"
+
+msgid "$AVAILABLE RECIPES:"
+msgstr "선택 가능 조리법:"
+
+msgid "$Available_Resources"
+msgstr "가용 자원"
+
+msgid "$BACK"
+msgstr "뒤로"
+
+msgid "$Back"
+msgstr "뒤로"
+
+msgid "$BACKGROUND"
+msgstr "배경"
+
+msgid "$BACKTOGALAXY"
+msgstr "은하계 지도로"
+
+msgid "$BACKTOSYSTEM"
+msgstr "항성계 지도로"
+
+msgid "$Basic"
+msgstr "기본"
+
+msgid "$BasicMenuNav"
+msgstr "메뉴 이동"
+
+msgid "$BasicMenuNav_Accept"
+msgstr "승인"
+
+msgid "$BasicMenuNav_Cancel"
+msgstr "취소"
+
+msgid "$BasicMenuNav_Down"
+msgstr "아래"
+
+msgid "$BasicMenuNav_Left"
+msgstr "왼쪽"
+
+msgid "$BasicMenuNav_Right"
+msgstr "오른쪽"
+
+msgid "$BasicMenuNav_Up"
+msgstr "위"
+
+msgid "$BEAM_DevAccountCreate"
+msgstr "임시 계정이 생성되었습니다. 이메일 확인 후 인증 링크의 안내에 따라 계정 생성 절차를 완료해주시기 바랍니다."
+
+msgid "$BEARD"
+msgstr "수염"
+
+msgid "$BEDS"
+msgstr "침대"
+
+msgid "$BETHESDA GAME STUDIOS"
+msgstr "BETHESDA GAME STUDIOS"
+
+msgid "$BETHESDA.NET"
+msgstr "모드"
+
+msgid "$BINDING CONFLICTS"
+msgstr "키 지정 충돌"
+
+msgid "$BIOME COMPLETE"
+msgstr "생물 군계 조사 완료"
+
+msgid "$BIOMETRIC ID"
+msgstr "생체인식 ID"
+
+msgid "$BIOSCAN"
+msgstr "스캔"
+
+msgid "$BlackFleet"
+msgstr "검은 함대"
+
+msgid "$Blend"
+msgstr "혼합"
+
+msgid "$Blocked"
+msgstr "불가"
+
+msgid "$BOARD"
+msgstr "승선"
+
+msgid "$BODY"
+msgstr "몸"
+
+msgid "$BODY INFO SUBTITLE MOON"
+msgstr "{0}의 위성"
+
+msgid "$BODY INSPECT"
+msgstr "은하계 지도로"
+
+msgid "$BODY MAP"
+msgstr "신체 지도"
+
+msgid "$BODY PART"
+msgstr "신체 부위"
+
+msgid "$BodyAlreadyAdded"
+msgstr "경로에 동일한 위치를 두 번 연속으로 추가할 수 없습니다."
+
+msgid "$BONUS"
+msgstr "보너스"
+
+msgid "$BOOST"
+msgstr "부스터"
+
+msgid "$BOOSTPACK"
+msgstr "부스터"
+
+msgid "$Both"
+msgstr "둘 다"
+
+msgid "$BOUNDARYREACHED_HEADER"
+msgstr "경계 도달"
+
+msgid "$BOUNDARYREACHED_MESSAGE"
+msgstr "지도를 열어 다른 지역을 탐색하거나, 함선으로 돌아가십시오."
+
+msgid "$BOUNTY"
+msgstr "현상금"
+
+msgid "$Bounty"
+msgstr "현상금"
+
+msgid "$BRIGHTNESS"
+msgstr "밝기"
+
+msgid "$Brightness"
+msgstr "밝기"
+
+msgid "$Build"
+msgstr "건설"
+
+msgid "$BUILD"
+msgstr "건설"
+
+msgid "$BUILD LIMIT"
+msgstr "건설 제한"
+
+msgid "$Build Mod?"
+msgstr "모드 제작?"
+
+msgid "$BUILD MODE"
+msgstr "건설 모드"
+
+msgid "$BUILD REQUIREMENTS:"
+msgstr "건설 필요조건:"
+
+msgid "$Build Requirements:"
+msgstr "건설 필요조건:"
+
+msgid "$BUILD RESOURCES NEEDED"
+msgstr "반입 필요 자원"
+
+msgid "$BUILD WITH"
+msgstr "BUILD WITH"
+
+msgid "$BuildBaseBot"
+msgstr "BUILD BASE BOT"
+
+msgid "$BuildConfirm1"
+msgstr "파트 제작:"
+
+msgid "$BuildConfirm2"
+msgstr "파트를 제거하시겠습니까?"
+
+msgid "$BuildConfirm3"
+msgstr "파트를 부착하시겠습니까?"
+
+msgid "$BuildConfirm4"
+msgstr "파트를 분리하시겠습니까?"
+
+msgid "$BUILDING SHADERS:"
+msgstr "건물 셰이더:"
+
+msgid "$BuildList"
+msgstr "생산 목록"
+
+msgid "$Built:"
+msgstr "건설:"
+
+msgid "$BULLDOZE"
+msgstr "철거"
+
+msgid "$BULLDOZE MODE"
+msgstr "철거 모드"
+
+msgid "$Bulldozers"
+msgstr "Bulldozers"
+
+msgid "$BUY"
+msgstr "상대의 것 구매"
+
+msgid "$BUY ALL"
+msgstr "전부 구매"
+
+msgid "$BUY BACK"
+msgstr "판매한 것 재구매"
+
+msgid "$BUY SHIPS"
+msgstr "함선 구매"
+
+msgid "$CAMERA"
+msgstr "카메라"
+
+msgid "$Camera"
+msgstr "카메라"
+
+msgid "$Camera Roll"
+msgstr "카메라 회전"
+
+msgid "$Camera Type"
+msgstr "카메라 유형"
+
+msgid "$CANCEL"
+msgstr "취소"
+
+msgid "$Cancel"
+msgstr "취소"
+
+msgid "$CANCEL AND EXIT"
+msgstr "취소 후 닫기"
+
+msgid "$CANCEL MODIFICATION"
+msgstr "개조 취소"
+
+msgid "$CANCEL TRADE"
+msgstr "거래 취소"
+
+msgid "$CancelTradeInProgress"
+msgstr "거래를 취소하시겠습니까?"
+
+msgid "$CANCEL_PICK"
+msgstr "되돌리기 ({0})"
+
+msgid "$CannotHackLockDifficulty"
+msgstr "{1}의 잠금을 해제하기엔 스킬이 너무 낮습니다."
+
+msgid "$CannotRemoveHomeShip"
+msgstr "거점 함선은 제거할 수 없습니다."
+
+msgid "$CannotSellHomeShip"
+msgstr "거점 함선은 판매할 수 없습니다."
+
+msgid "$CannotTravelToAnUnknownBody"
+msgstr "미확인 위치로 이동할 수 없습니다"
+
+msgid "$CannotTravelToAStar"
+msgstr "항성으로 여행할 수 없습니다"
+
+msgid "$CantFindQuickLoad"
+msgstr "빠른 저장을 찾을 수 없습니다."
+
+msgid "$CantInstallMod_Dependency"
+msgstr "이 모드는 존재하지 않는 파일에 의존하기에 설치할 수 없습니다."
+
+msgid "$CantInstallMod_Invalid"
+msgstr "이 모드는 활성화할 수 없으며 삭제해야 합니다."
+
+msgid "$CantLandUnlessOrbiting"
+msgstr "이곳에 착륙하려면 궤도 상에 있어야 합니다."
+
+msgid "$CantOpenMap"
+msgstr "지금은 지도를 열 수 없습니다."
+
+msgid "$CantPlotShipTravelBlocked"
+msgstr "여기서는 함선으로 빠른 이동할 수 없습니다."
+
+msgid "$CantSaveNow"
+msgstr "지금은 게임을 저장할 수 없습니다."
+
+msgid "$CAP"
+msgstr "CAP"
+
+msgid "$CAPACITY"
+msgstr "적재량"
+
+msgid "$CAPS"
+msgstr "CAPS"
+
+msgid "$Captured"
+msgstr "Captured"
+
+msgid "$Caravan"
+msgstr "캐러밴"
+
+msgid "$CarbonDioxideWarningString"
+msgstr "#NAME?"
+
+msgid "$CARGO"
+msgstr "화물"
+
+msgid "$CARGO CAPACITY"
+msgstr "화물 적재량"
+
+msgid "$CARGO HOLD"
+msgstr "화물 적재"
+
+msgid "$Cargo Hold Full"
+msgstr "화물 적재량 꽉 참"
+
+msgid "$CARGO SHIP"
+msgstr "화물선"
+
+msgid "$Cargo Value"
+msgstr "화물 가치"
+
+msgid "$CARGO_SHLD"
+msgstr "화물 (차폐됨)"
+
+msgid "$CARRYWT"
+msgstr "운반 중량"
+
+msgid "$CAS"
+msgstr "CAS"
+
+msgid "$CATEGORIES"
+msgstr "분류"
+
+msgid "$Category_Aid"
+msgstr "구호품"
+
+msgid "$Category_All"
+msgstr "전체"
+
+msgid "$Category_Ammo"
+msgstr "실탄"
+
+msgid "$Category_Apparel"
+msgstr "의류"
+
+msgid "$Category_Backpacks"
+msgstr "부스터 팩"
+
+msgid "$Category_Helmets"
+msgstr "헬멧"
+
+msgid "$Category_Misc"
+msgstr "기타"
+
+msgid "$Category_NewItems"
+msgstr "신규 아이템"
+
+msgid "$Category_NoFeaturedItem"
+msgstr "[미장착]"
+
+msgid "$Category_Notes"
+msgstr "노트"
+
+msgid "$Category_Resources"
+msgstr "자원"
+
+msgid "$Category_Spacesuits"
+msgstr "우주복"
+
+msgid "$Category_Throwables"
+msgstr "투척물"
+
+msgid "$Category_Weapons"
+msgstr "무기"
+
+msgid "$CERTIFICATION"
+msgstr "인증 진행도"
+
+msgid "$CHALLENGE PROGRESS"
+msgstr "도전 과제 진행도"
+
+msgid "$Challenge_Progress"
+msgstr "도전 과제 진행도"
+
+msgid "$CHANCE TO EVADE SCAN: 0%"
+msgstr "스캔 회피 확률: 0%"
+
+msgid "$CHANCE TO EVADE SCAN: {0}%"
+msgstr "스캔 회피 확률: {0}%"
+
+msgid "$CHANGE"
+msgstr "변경"
+
+msgid "$CHANGE FILTER (TODO)"
+msgstr "CHANGE FILTER (TODO)"
+
+msgid "$Change sex"
+msgstr "성별 변경"
+
+msgid "$ChangeColors"
+msgstr "색상 변경"
+
+msgid "$ChangedDLC_ConfirmReset"
+msgstr "다운로드 가능한 새 콘텐츠가 다운로드되었으며 메인 메뉴로 돌아가 활성화할 준비가 되었습니다. 지금 활성화하시겠습니까?"
+
+msgid "$ChangedDLC_WarnReset"
+msgstr "신규 콘텐츠가 있습니다. 활성화하시겠습니까?"
+
+msgid "$ChangedMods_ConfirmReset"
+msgstr "모드 정렬/불러오기 순서가 변경되었습니다. 게임에서 데이터 파일을 다시 불러오기 합니다."
+
+msgid "$CHANGEPRESET"
+msgstr "프리셋 변경"
+
+msgid "$CHANGESEX"
+msgstr "성별 변경"
+
+msgid "$CHANGEUSER"
+msgstr "프로필 변경"
+
+msgid "$CHARACTER"
+msgstr "캐릭터"
+
+msgid "$Character"
+msgstr "캐릭터"
+
+msgid "$charge"
+msgstr "Charge"
+
+msgid "$Chargen"
+msgstr "캐릭생성"
+
+msgid "$ChargenBackForward"
+msgstr "뒤로 - 앞으로"
+
+msgid "$CharGenConfirmExit"
+msgstr "저장하시겠습니까?"
+
+msgid "$ChargenDownUp"
+msgstr "아래 - 위"
+
+msgid "$ChargenLeftRight"
+msgstr "왼쪽 - 오른쪽"
+
+msgid "$CharGenMustChooseBackgroundMessage"
+msgstr "배경을 선택해주세요."
+
+msgid "$CharGenMustRenamePlayerMessage"
+msgstr "캐릭터 이름을 지어주세요."
+
+msgid "$ChargenNarrowWide"
+msgstr "좁게 - 넓게"
+
+msgid "$ChargenNoseTipDownUp"
+msgstr "코끝 아래 - 위"
+
+msgid "$ChargenNostrilsInOut"
+msgstr "콧볼 좁게 - 넓게"
+
+msgid "$ChargenNostrilsUpDown"
+msgstr "콧볼 아래 - 위"
+
+msgid "$ChargenRidgeInOut"
+msgstr "콧대 안 - 밖"
+
+msgid "$ChargenRidgeNarrowWide"
+msgstr "콧대 좁게 - 넓게"
+
+msgid "$ChargenScaleDownUp"
+msgstr "작게 - 크게"
+
+msgid "$ChargenShortLong"
+msgstr "짧게 - 길게"
+
+msgid "$ChargenUnderbiteOverbite"
+msgstr "하악 - 상악"
+
+msgid "$ChargenWattleInOut"
+msgstr "턱선 붙음 - 처짐"
+
+msgid "$CHARGEN_BIOMETRIC_TEXT"
+msgstr "추신: 생체 커스터마이징은 추후 유전학 시설에서 변경할 수 있습니다."
+
+msgid "$Chargen_BodyType"
+msgstr "몸통 유형"
+
+msgid "$Chargen_Locomotion"
+msgstr "걸음걸이"
+
+msgid "$Chargen_PreviewHabSuit"
+msgstr "격실내 의상 토글"
+
+msgid "$Chargen_Rotate"
+msgstr "모델 회전"
+
+msgid "$CHARGEN_TRAITS"
+msgstr "특성"
+
+msgid "$Chargen_WalkStyle"
+msgstr "걸음걸이"
+
+msgid "$CHARISMA"
+msgstr "카리스마"
+
+msgid "$Cheeks"
+msgstr "뺨"
+
+msgid "$CHEEKS1"
+msgstr "뺨 1"
+
+msgid "$CHEEKS2"
+msgstr "뺨 2"
+
+msgid "$Chin"
+msgstr "턱끝"
+
+msgid "$Choose"
+msgstr "선택"
+
+msgid "$Choose (#)"
+msgstr "선택 (#)"
+
+msgid "$CHOOSE COMPONENTS"
+msgstr "부품 고르기"
+
+msgid "$Cinematic"
+msgstr "시네마틱"
+
+msgid "$CLAIM"
+msgstr "CLAIM"
+
+msgid "$CLASS"
+msgstr "등급"
+
+msgid "$CLEAR"
+msgstr "CLEAR"
+
+msgid "$CLEAR MODE"
+msgstr "제거 모드"
+
+msgid "$CLEAR ROUTE"
+msgstr "경로 제거"
+
+msgid "$ClearRoute_Confirm"
+msgstr "Are you sure you want to remove all jumps?"
+
+msgid "$CLEAR_TRANSACTION"
+msgstr "거래 초기화"
+
+msgid "$CLOSE"
+msgstr "닫기"
+
+msgid "$CloseModManager_Confirm"
+msgstr "아직 다운로드 중입니다. 정말 종료하시겠습니까?"
+
+msgid "$CoastalBiome"
+msgstr "{1} (해안)"
+
+msgid "$Cockpit"
+msgstr "조종실"
+
+msgid "$Colony Goods"
+msgstr "Colony Goods"
+
+msgid "$COLOR"
+msgstr "색상"
+
+msgid "$COLOR 1"
+msgstr "색상 1"
+
+msgid "$COLOR 2"
+msgstr "색상 2"
+
+msgid "$COLOR 3"
+msgstr "색상 3"
+
+msgid "$COLOR MODE"
+msgstr "색상 모드"
+
+msgid "$COMBAT"
+msgstr "전투"
+
+msgid "$Combat"
+msgstr "전투"
+
+msgid "$COMBAT_SKILLS"
+msgstr "전투 스킬"
+
+msgid "$COMBAT_SKILLS_ADVANCED"
+msgstr "숙련 전투 스킬"
+
+msgid "$COMBAT_SKILLS_EXPERT"
+msgstr "전문 전투 스킬"
+
+msgid "$COMBAT_SKILLS_MASTER"
+msgstr "달인 전투 스킬"
+
+msgid "$COMING SOON"
+msgstr "COMING SOON"
+
+msgid "$CommandModeFail_Generic"
+msgstr "불가능한 행동입니다."
+
+msgid "$CommandModeFail_Moral"
+msgstr "할 수 없는 행동입니다."
+
+msgid "$Common"
+msgstr "'커먼'"
+
+msgid "$Companion"
+msgstr "동료"
+
+msgid "$Companion Enabled"
+msgstr "핍보이 앱 활성화"
+
+msgid "$COMPARE TO EQUIPPED"
+msgstr "현재 장비와 비교하기"
+
+msgid "$COMPARE TO EQUIPPED_LRG"
+msgstr "비교"
+
+msgid "$Compass_East"
+msgstr "동"
+
+msgid "$Compass_North"
+msgstr "북"
+
+msgid "$Compass_South"
+msgstr "남"
+
+msgid "$Compass_West"
+msgstr "서"
+
+msgid "$COMPLETE PROFILE"
+msgstr "프로필 작성 완료"
+
+msgid "$Completed"
+msgstr "완료됨"
+
+msgid "$Complete_Previous_Rank"
+msgstr "이 랭크를 해제하려면 이전 랭크 도전 과제를 완료하세요."
+
+msgid "$COMPLETE_TRANSACTION"
+msgstr "거래 완료"
+
+msgid "$COMPLEXIONBLEMISHES"
+msgstr "잡티"
+
+msgid "$COMPLEXIONCOLORTEMP"
+msgstr "안색"
+
+msgid "$COMPONENT VIEW"
+msgstr "COMPONENT VIEW"
+
+msgid "$COMPONENTS"
+msgstr "부품"
+
+msgid "$CONDITION"
+msgstr "CONDITION"
+
+msgid "$Confirm"
+msgstr "확인"
+
+msgid "$CONFIRM"
+msgstr "확인"
+
+msgid "$Confirm change preset"
+msgstr "현재 변경 사항을 폐기하고 새로운 프리셋을 고르시겠습니까?"
+
+msgid "$Confirm character"
+msgstr "이대로 캐릭터를 적용하시겠습니까?"
+
+msgid "$Confirm character changes"
+msgstr "이대로 캐릭터를 변경하시겠습니까?"
+
+msgid "$CONFIRM SETTINGS"
+msgstr "설정을 결정"
+
+msgid "$CONFIRMATION"
+msgstr "확인"
+
+msgid "$ConfirmContinue"
+msgstr "마지막에 저장한 게임에서 계속할까요?"
+
+msgid "$ConfirmCraftPrompt"
+msgstr "이 부품들을 사용해서 물건을 만드시겠습니까?"
+
+msgid "$ConfirmFastTravel"
+msgstr "선택한 곳으로 빠른 이동할까요?"
+
+msgid "$ConfirmFastTravelFuel"
+msgstr "{1} 헬륨3을 소모해 선택한 곳으로 이동할까요?"
+
+msgid "$ConfirmInstallPrompt"
+msgstr "이 리소스를 사용하여 모드를 설치하시겠습니까?"
+
+msgid "$ConfirmLoad"
+msgstr "이 세이브를 불러오시겠습니까?"
+
+msgid "$ConfirmModification"
+msgstr "개조할까요?"
+
+msgid "$ConfirmModificationWithWarnings"
+msgstr "비행 점검 결과 함선에 경고가 있습니다. 그래도 개조할까요?"
+
+msgid "$ConfirmNew"
+msgstr "게임을 새로 시작할까요?"
+
+msgid "$ConfirmNewHomeShipInSpace"
+msgstr ""
+"{1} 함선을 거점 함선으로 지정하시겠습니까? {2} 함선은 보관되고 나중에 사용할 수 있습니다. 모든 화물과 승무원이 거점 함선으로 "
+"이동됩니다."
+
+msgid "$ConfirmNew_HC"
+msgstr "게임을 생존 모드로 새로 시작할까요?"
+
+msgid "$ConfirmNew_HC_Mods"
+msgstr "게임을 생존 모드로 새로 시작할까요? 모드가 설치되어 도전 과제가 잠겼습니다."
+
+msgid "$ConfirmNew_Mods"
+msgstr "게임을 새로 시작할까요? 모드가 설치되어 도전 과제가 잠겼습니다."
+
+msgid "$ConfirmOutpostRemoval"
+msgstr "전초기지를 영구히 제거합니다. 정말 제거하시겠습니까?"
+
+msgid "$ConfirmPerkSelect"
+msgstr "선택을 확정하시겠습니까?"
+
+msgid "$ConfirmSellShip"
+msgstr "이 함선을 {1} 크레딧에 판매하시겠습니까?"
+
+msgid "$ConfirmSellShipInsufficientFunds"
+msgstr "이 상인은 크레딧을 충분히 가지고 있지 않습니다. 이 함선을 {1} 크레딧에 판매하시겠습니까?"
+
+msgid "$ConfirmStarborn"
+msgstr "게임을 스타본인 상태로 새로 시작할까요?"
+
+msgid "$CONNECT INPUT"
+msgstr "입력 연결"
+
+msgid "$CONNECT OUTPUT"
+msgstr "출력 연결"
+
+msgid "$ConsoleOpening"
+msgstr "디버그"
+
+msgid "$ConsoleOpening_Screenshot_KBM"
+msgstr "스크린샷"
+
+msgid "$Constellation"
+msgstr "컨스텔레이션"
+
+msgid "$CONSUME"
+msgstr "먹기"
+
+msgid "$CONTAINER"
+msgstr "컨테이너"
+
+msgid "$Container_Weight"
+msgstr "컨테이너 중량"
+
+msgid "$CONTEST"
+msgstr "CONTEST"
+
+msgid "$ContextForSaveHeader"
+msgstr "이 세이브 게임에 대한 정보를 입력하세요"
+
+msgid "$ContextForSavePrompt"
+msgstr "Context for this save"
+
+msgid "$CONTINUE"
+msgstr "계속"
+
+msgid "$Contraband"
+msgstr "밀수품"
+
+msgid "$Contrast"
+msgstr "대비"
+
+msgid "$Controller"
+msgstr "컨트롤러"
+
+msgid "$Controller Cursor Sensitivity"
+msgstr "컨트롤러 커서 감도"
+
+msgid "$Controller Cursor Sensitivity Desc"
+msgstr "컨트롤러를 사용할 때 게임 커서의 속도를 조절합니다."
+
+msgid "$Controller Look Sensitivity"
+msgstr "컨트롤러 카메라 감도"
+
+msgid "$Controller Look Sensitivity Desc"
+msgstr "컨트롤러로 카메라 이동 감도를 조절합니다."
+
+msgid "$ControllerHotswap"
+msgstr "빠른 컨트롤러 전환"
+
+msgid "$ControllerHotswap Desc"
+msgstr "활성화하면, 컨트롤러 사용 시 키보드 조작이 해제됩니다. 반대도 마찬가지입니다."
+
+msgid "$CONTROLS"
+msgstr "CONTROLS"
+
+msgid "$Controls"
+msgstr "Controls"
+
+msgid "$COOK"
+msgstr "COOK"
+
+msgid "$CookConfirm1"
+msgstr "Prepare using:"
+
+msgid "$CookingStation"
+msgstr "Cooking Station"
+
+msgid "$COORDINATES:"
+msgstr "COORDINATES:"
+
+msgid "$CoppaText"
+msgstr "본인은 이용 약관, 개인정보 보호정책, 행위 준칙을 읽었으며 이에 동의합니다."
+
+msgid "$CORROSIVE RESISTANCE"
+msgstr "부식 저항"
+
+msgid "$COST"
+msgstr "소모 파워량"
+
+msgid "$Count"
+msgstr "수량"
+
+msgid "$CRAFT"
+msgstr "제작"
+
+msgid "$Craft"
+msgstr "제작"
+
+msgid "$CRAFTING"
+msgstr "제작"
+
+msgid "$Crafting"
+msgstr "제작"
+
+msgid "$CRATERFACE"
+msgstr "분화구"
+
+msgid "$CREATE CONNECTION"
+msgstr "연결 만들기"
+
+msgid "$CREATE OUTPUT LINK"
+msgstr "출력물 연결 만들기"
+
+msgid "$CREATE TRANSFER LINK"
+msgstr "전송 연결 만들기"
+
+msgid "$CreateAcct_BNET_BEAM_EMAIL_ADDRESS_ALREADY_TAKEN"
+msgstr "That email address has already been used to create an account."
+
+msgid "$CreateAcct_BNET_BEAM_INVALID_EMAIL_ADDRESS"
+msgstr "The email address entered was invalid."
+
+msgid "$CreateAcct_BNET_BEAM_INVALID_USERNAME"
+msgstr "The username entered was invalid."
+
+msgid "$CreateAcct_BNET_BEAM_USERNAME_ALREADY_TAKEN"
+msgstr "That username has already been used to create an account."
+
+msgid "$CreateAcct_BNET_CANNOT_CONNECT"
+msgstr "Couldn't connect to the Bethesda.net servers."
+
+msgid "$CreateAcct_BNET_TIMEOUT"
+msgstr "연결 시간이 초과되었습니다."
+
+msgid "$CreateOutputLink"
+msgstr "출력물 연결 만들기"
+
+msgid "$CreatePowerLink"
+msgstr "동력 연결 만들기"
+
+msgid "$Creating quick account..."
+msgstr "Creating quick account..."
+
+msgid "$CREDITS"
+msgstr "보유 크레딧"
+
+msgid "$CREW"
+msgstr "승무원"
+
+msgid "$CREW MAXIMUM"
+msgstr "최대 승무원 수"
+
+msgid "$CREW ROSTER"
+msgstr "승무원 명단"
+
+msgid "$Crime"
+msgstr "범죄"
+
+msgid "$CRIME"
+msgstr "범죄"
+
+msgid "$CrimsonFleet"
+msgstr "크림슨 함대"
+
+msgid "$CRIT"
+msgstr "치명타"
+
+msgid "$CRITICAL"
+msgstr "치명타"
+
+msgid "$CRITICAL SUCCESS!"
+msgstr "치명타 적중!"
+
+msgid "$Crosshair"
+msgstr "조준점"
+
+msgid "$Crosshair Desc"
+msgstr "HUD에서 조준점을 표시합니다."
+
+msgid "$CURRENT BIOME:"
+msgstr "현재 생물 군계:"
+
+msgid "$CURRENT MODS"
+msgstr "현재 부착물"
+
+msgid "$CURRENT MODS:"
+msgstr "현재 부착물:"
+
+msgid "$CurrentlyBuilt"
+msgstr "현재 생산 중"
+
+msgid "$CURRENT_LINK:"
+msgstr "현재 연결망:"
+
+msgid "$CURRENT_RANK"
+msgstr "현재 랭크"
+
+msgid "$CURRENT_RANK:"
+msgstr "현재 랭크"
+
+msgid "$CUSTOMIZE"
+msgstr "커스터마이즈"
+
+msgid "$CYCLE DAMAGE"
+msgstr "CYCLE DAMAGE"
+
+msgid "$Cycle Parts"
+msgstr "CYCLE PART"
+
+msgid "$CycleSystem"
+msgstr "순환 시스템"
+
+msgid "$CycleTarget"
+msgstr "CYCLE TARGET"
+
+msgid "$CYCLE_COLUMN"
+msgstr "CYCLE COLUMN"
+
+msgid "$DAMAGE"
+msgstr "피해"
+
+msgid "$Damage Rating:"
+msgstr "피해 등급:"
+
+msgid "$Damage Resistance"
+msgstr "피해 저항"
+
+msgid "$DAMAGE RESISTANCES"
+msgstr "피해 저항"
+
+msgid "$DAMAGE TYPES"
+msgstr "피해 유형"
+
+msgid "$DANGER"
+msgstr "위험"
+
+msgid "$DATA"
+msgstr "데이터"
+
+msgid "$DataMenu"
+msgstr "데이터 메뉴"
+
+msgid "$DataMenu_Cancel"
+msgstr "종료"
+
+msgid "$DataMenu_Pause"
+msgstr "일시정지 메뉴 열기"
+
+msgid "$DataSlate_AudioLog"
+msgstr "오디오 로그"
+
+msgid "$DataSlate_ImageLog"
+msgstr "이미지 로그"
+
+msgid "$DataSlate_TextLog"
+msgstr "텍스트 로그"
+
+msgid "$DAY"
+msgstr "일"
+
+msgid "$DAYS"
+msgstr "일"
+
+msgid "$DECLINE"
+msgstr "거절"
+
+msgid "$DeconnectedController"
+msgstr "컨트롤러를 연결하고 A 버튼을 눌러 계속하세요."
+
+msgid "$DECORATE"
+msgstr "장식"
+
+msgid "$Default"
+msgstr "기본"
+
+msgid "$DEFAULTS"
+msgstr "기본"
+
+msgid "$DEFAULT_COLOR"
+msgstr "기본"
+
+msgid "$DEFAULT_COLOR_ALL"
+msgstr "전체 기본"
+
+msgid "$DELETE"
+msgstr "삭제"
+
+msgid "$Delete"
+msgstr "삭제"
+
+msgid "$Delete Photo?"
+msgstr "사진을 삭제할까요?"
+
+msgid "$Delete this save?"
+msgstr "이 저장 내용을 삭제할까요?"
+
+msgid "$DeleteAllMods"
+msgstr "모든 모드 삭제"
+
+msgid "$DeleteAllMods_Confirm"
+msgstr "정말 다운로드한 모드를 전부 삭제하시겠습니까?"
+
+msgid "$DeleteLibraryMod_Confirm"
+msgstr "정말 이 모드를 삭제하시겠습니까? 이 모드가 베데스다넷에 등록되지 않은 경우 더 이상 복구할 수 없습니다."
+
+msgid "$DeleteMod_Confirm"
+msgstr "이 모드를 삭제하시겠습니까?"
+
+msgid "$DELETE_BINDING"
+msgstr "키 지정 제거"
+
+msgid "$Deleting"
+msgstr "삭제 중..."
+
+msgid "$Depth of Field"
+msgstr "피사계 심도"
+
+msgid "$DERMAESTHETIC"
+msgstr "피부 타입"
+
+msgid "$DESCENDING"
+msgstr "하강"
+
+msgid "$Description"
+msgstr "설명"
+
+msgid "$DescriptionLabel"
+msgstr "설명:"
+
+msgid "$DESELECT"
+msgstr "선택 해제"
+
+msgid "$Designation"
+msgstr "지역"
+
+msgid "$Desktop"
+msgstr "바탕화면"
+
+msgid "$DESKTOP"
+msgstr "바탕화면"
+
+msgid "$DEST"
+msgstr "목적지"
+
+msgid "$DESTINATION"
+msgstr "목적지"
+
+msgid "$Detach"
+msgstr "DETACH"
+
+msgid "$DETAILED SPECS"
+msgstr "DETAILED SPECS"
+
+msgid "$DETAILS"
+msgstr "DETAILS"
+
+msgid "$DetailsPageError_ExtractFail"
+msgstr "이 모드를 완전히 설치하지 못했습니다."
+
+msgid "$DetailsPageError_ExtractInvalidMod"
+msgstr "이 모드는 유효하지 않아 설치할 수 없습니다."
+
+msgid "$DetailsPageError_ExtractTooLarge"
+msgstr "이 모드를 설치할 수 있는 여유 메모리가 부족합니다."
+
+msgid "$DetailsPageError_Generic"
+msgstr "작업을 완료하지 못했습니다."
+
+msgid "$DetailsPageError_ModDeleted"
+msgstr "This mod is no longer available."
+
+msgid "$DetailsPageError_ModDownloadFail"
+msgstr "This mod has failed to download."
+
+msgid "$DetailsPageError_ModTooLarge"
+msgstr "이 모드를 다운로드 할 수 있는 여유 메모리가 부족합니다."
+
+msgid "$DETECTED"
+msgstr "발각됨"
+
+msgid "$DETECTION WARNING"
+msgstr "탐지 경고"
+
+msgid "$Detrimental"
+msgstr "유해함"
+
+msgid "$DEV_CREW"
+msgstr "승무원"
+
+msgid "$Dialogue Camera"
+msgstr "대화 카메라"
+
+msgid "$Dialogue Camera Desc"
+msgstr "대화 중에 화자 카메라를 활성화합니다."
+
+msgid "$Dialogue Subtitles"
+msgstr "대화 자막"
+
+msgid "$Dialogue Subtitles Desc"
+msgstr "대화 중 자막을 켭니다."
+
+msgid "$DialogueNegative"
+msgstr "부정적"
+
+msgid "$DialogueNeutral"
+msgstr "중립적"
+
+msgid "$DialoguePositive"
+msgstr "긍정적"
+
+msgid "$DialogueQuestion"
+msgstr "의문점"
+
+msgid "$Difficulty"
+msgstr "난이도"
+
+msgid "$DIGIPICKLINKED"
+msgstr "디지픽 링크됨"
+
+msgid "$DIGIPICKS"
+msgstr "디지픽"
+
+msgid "$Directory"
+msgstr "제조 부품 목록"
+
+msgid "$DIRT"
+msgstr "얼룩"
+
+msgid "$DisableAllMods"
+msgstr "모드 모두 비활성화"
+
+msgid "$Disabled"
+msgstr "비활성화"
+
+msgid "$DisableMod"
+msgstr "비활성"
+
+msgid "$Disarm"
+msgstr "무장해제"
+
+msgid "$DiscoveredText"
+msgstr "발견"
+
+msgid "$DISMISS"
+msgstr "해산"
+
+msgid "$DISPLAY"
+msgstr "배치"
+
+msgid "$Display"
+msgstr "배치"
+
+msgid "$DISTANCE"
+msgstr "거리"
+
+msgid "$Distance"
+msgstr "거리"
+
+msgid "$distance (ly)"
+msgstr "거리(광년)"
+
+msgid "$DLSS"
+msgstr "DLSS"
+
+msgid "$DLSS_G"
+msgstr "켬 (DLSS)"
+
+msgid "$dmg"
+msgstr "피해"
+
+msgid "$DMG"
+msgstr "피해"
+
+msgid "$DOCK"
+msgstr "도킹"
+
+msgid "$DOCKED"
+msgstr "도킹 완료"
+
+msgid "$DocsHeader"
+msgstr "업데이트 동의"
+
+msgid "$DocsInstructions"
+msgstr ""
+"'동의'를 클릭함으로써 본인은 제니맥스 미디어 개인정보 보호정책을 읽고 확인했으며, 제니맥스 미디어 이용 약관 및 행위 준칙에 동의함을 "
+"확인합니다"
+
+msgid "$DONE"
+msgstr "완료"
+
+msgid "$Download"
+msgstr "다운로드"
+
+msgid "$Downloading..."
+msgstr "다운로드 중..."
+
+msgid "$DownloadSize:"
+msgstr "다운로드 크기:"
+
+msgid "$DPS"
+msgstr "초당 피해"
+
+msgid "$dr"
+msgstr "피해 저항"
+
+msgid "$DRAirborne"
+msgstr "공기 오염"
+
+msgid "$DRAirborne_LRG"
+msgstr "공기 오염"
+
+msgid "$DRCorrosive"
+msgstr "부식"
+
+msgid "$DRCorrosive_LRG"
+msgstr "부식"
+
+msgid "$DRIVE DAMAGE"
+msgstr "DRIVE DAMAGE"
+
+msgid "$DROP"
+msgstr "떨어뜨리기"
+
+msgid "$Drop:"
+msgstr "Drop:"
+
+msgid "$DRRadiation"
+msgstr "방사능"
+
+msgid "$DRRadiation_LRG"
+msgstr "방사능"
+
+msgid "$DRThermal"
+msgstr "열"
+
+msgid "$DRThermal_LRG"
+msgstr "열"
+
+msgid "$DTI"
+msgstr "DTI"
+
+msgid "$DUPLICATE"
+msgstr "복제"
+
+msgid "$Easy"
+msgstr "쉬움"
+
+msgid "$Edit"
+msgstr "편집"
+
+msgid "$EDIT"
+msgstr "편집"
+
+msgid "$EDIT COLOR"
+msgstr "색상"
+
+msgid "$Effects"
+msgstr "효과음"
+
+msgid "$EFFECTS"
+msgstr "효과음"
+
+msgid "$Effects Audio Desc"
+msgstr "효과음 음량을 조절합니다."
+
+msgid "$ELC"
+msgstr "전자기"
+
+msgid "$ELECTROMAGNETIC"
+msgstr "전자기"
+
+msgid "$ELECTROMAGNETIC DAMAGE"
+msgstr "전자기 피해"
+
+msgid "$ELEMENTAL STATS"
+msgstr "ELEMENTAL STATS"
+
+msgid "$EliminateUnusedKeys"
+msgstr "필요 없는 복호화 키 제거"
+
+msgid "$ELM"
+msgstr "ELM"
+
+msgid "$EM"
+msgstr "EM"
+
+msgid "$Email Address"
+msgstr "이메일 주소"
+
+msgid "$EMPLOYEE NUMBER:"
+msgstr "직원 번호:"
+
+msgid "$EMPTY"
+msgstr "비어 있음"
+
+msgid "$EMPTY SLOT"
+msgstr "빈 자리"
+
+msgid "$Enable Depth of Field"
+msgstr "피사계 심도 활성화"
+
+msgid "$Enable Depth of Field Desc"
+msgstr "피사계 심도 효과를 활성화합니다."
+
+msgid "$Enable Motion Blur"
+msgstr "모션 블러 활성화"
+
+msgid "$Enable Motion Blur Desc"
+msgstr "모션 블러 효과를 활성화합니다."
+
+msgid "$Enable RTX"
+msgstr "레이트레이싱 전역 조명"
+
+msgid "$Enable RTX Desc"
+msgstr "간접광에 레이트레이싱을 활성화합니다. (*이 설정을 활성화/비활성화하려면 게임을 다시 시작해야 합니다.)"
+
+msgid "$Enable VRS"
+msgstr "VRS 활성화"
+
+msgid "$Enable VRS Desc"
+msgstr "렌더링 시 가변 레이트 셰이딩을 활성화합니다."
+
+msgid "$EnableMod"
+msgstr "활성"
+
+msgid "$ENDURANCE"
+msgstr "지구력"
+
+msgid "$ENERGY"
+msgstr "에너지"
+
+msgid "$ENG"
+msgstr "엔진"
+
+msgid "$ENGINES"
+msgstr "엔진"
+
+msgid "$English"
+msgstr "영어"
+
+msgid "$Enhancer"
+msgstr "강화제"
+
+msgid "$ENLARGE"
+msgstr "크게"
+
+msgid "$ENTER"
+msgstr "입력"
+
+msgid "$Enter name."
+msgstr "이름을 입력하세요."
+
+msgid "$ENTER SCAN RANGE"
+msgstr "신체 데이터 등록을 위한 스캔 범위 입력"
+
+msgid "$ENTER TEXT"
+msgstr "문자 입력"
+
+msgid "$Entering Patrolled Area"
+msgstr "감시 구역 진입 중"
+
+msgid "$ENTER_NAME"
+msgstr "이름 입력"
+
+msgid "$Environment"
+msgstr "환경"
+
+msgid "$ENVIRONMENT RATING"
+msgstr "환경 등급"
+
+msgid "$EQUIP"
+msgstr "장착"
+
+msgid "$EQUIP HOLD"
+msgstr "길게 눌러 장비"
+
+msgid "$EQUIP POWER"
+msgstr "최대 부하 동력"
+
+msgid "$Equipped Item"
+msgstr "장비한 아이템"
+
+msgid "$ERROR"
+msgstr "오류"
+
+msgid "$ERRORS"
+msgstr "오류"
+
+msgid "$Errors"
+msgstr "오류"
+
+msgid "$ET"
+msgstr "ET"
+
+msgid "$EULAHeader"
+msgstr "북우메리카 및 라틴 아메리카 거주 시 EULA 적용:"
+
+msgid "$Excessive Drive Damage"
+msgstr "Excessive Drive Damage"
+
+msgid "$EXECUTE"
+msgstr "EXECUTE"
+
+msgid "$Execute"
+msgstr "EXECUTE"
+
+msgid "$Execute Critical"
+msgstr "EXECUTE CRITICAL"
+
+msgid "$EXIT"
+msgstr "종료"
+
+msgid "$Exit"
+msgstr "종료"
+
+msgid "$EXIT AND CANCEL"
+msgstr "종료 및 취소"
+
+msgid "$EXIT ANYWAY"
+msgstr "무시하고 종료"
+
+msgid "$EXIT HOLD"
+msgstr "길게 눌러 종료"
+
+msgid "$EXIT HOLD_LRG"
+msgstr "종료"
+
+msgid "$Exit Monocle"
+msgstr "스캐너 종료"
+
+msgid "$EXIT SHIP"
+msgstr "함선 나가기"
+
+msgid "$Exit Targeting"
+msgstr "조준 모드 종료"
+
+msgid "$ExitConfirmHeader"
+msgstr "확인하고 종료"
+
+msgid "$EXITSAVE"
+msgstr "게임 종료시 저장됨"
+
+msgid "$ExitSurvivalConfirmMessage"
+msgstr "정말 난이도를 낮추시겠습니까? 이후 이 캐릭터로는 다시 생존 모드를 선택해 플레이할 수 없습니다."
+
+msgid "$Exotic"
+msgstr "'엑조틱'"
+
+msgid "$EXPERIENCE"
+msgstr "EXPERIENCE"
+
+msgid "$Expert"
+msgstr "전문가"
+
+msgid "$EXPLORATION"
+msgstr "탐사"
+
+msgid "$ExplorationBodiesExplored"
+msgstr "탐사한 행성/위성"
+
+msgid "$ExplorationBodiesScanned"
+msgstr "스캔한 행성/위성"
+
+msgid "$ExplorationOrganicsScanned"
+msgstr "스캔한 유기체"
+
+msgid "$ExplorationStarSystemsVisited"
+msgstr "가본 항성계"
+
+msgid "$Explored"
+msgstr "탐험 완료"
+
+msgid "$Expression"
+msgstr "Expression"
+
+msgid "$EXTRAS"
+msgstr "추가 메뉴"
+
+msgid "$EXTRAS HOLD"
+msgstr "길게 눌러 추가 메뉴 열기"
+
+msgid "$Extreme environment"
+msgstr "극한의 환경"
+
+msgid "$EYE COLOR"
+msgstr "눈 색상"
+
+msgid "$Eyebrows"
+msgstr "눈썹"
+
+msgid "$EYELINERLOWER"
+msgstr "아이라이너 밑"
+
+msgid "$EYELINERUPPER"
+msgstr "아이라이너 위"
+
+msgid "$Eyes"
+msgstr "눈"
+
+msgid "$EYESHADOWLOWER"
+msgstr "아이섀도우 밑"
+
+msgid "$EYESHADOWUPPER"
+msgstr "아이섀도우 위"
+
+msgid "$FACE"
+msgstr "얼굴"
+
+msgid "$FacePaint"
+msgstr "얼굴 페인팅"
+
+msgid "$FACEPAINT"
+msgstr "얼굴 페인팅"
+
+msgid "$FACIAL HAIR"
+msgstr "수염"
+
+msgid "$Facial Feature"
+msgstr "얼굴 특징"
+
+msgid "$FACIALFEATURES"
+msgstr "얼굴 특징"
+
+msgid "$FACIALFORMS"
+msgstr "얼굴 특징 2"
+
+msgid "$Faction"
+msgstr "세력"
+
+msgid "$FACTION"
+msgstr "세력권"
+
+msgid "$FACTIONS"
+msgstr "세력"
+
+msgid "$Fanfare_Epic"
+msgstr "'에픽' 등급 아이템 획득함"
+
+msgid "$Fanfare_Legendary"
+msgstr "'레전더리' 등급 아이템 획득함"
+
+msgid "$Fanfare_Rare"
+msgstr "'레어' 등급 아이템 획득함"
+
+msgid "$Fanfare_SkillBook"
+msgstr "스킬 보너스 획득"
+
+msgid "$Far Plane"
+msgstr "원경 효과 강도"
+
+msgid "$Far Start"
+msgstr "원경 효과 시작 거리"
+
+msgid "$FAR_TRAVEL"
+msgstr "빠른 이동"
+
+msgid "$FAST"
+msgstr "FAST"
+
+msgid "$FAST TRAVEL SHIP"
+msgstr "함선으로 빠른 이동"
+
+msgid "$FastTravel"
+msgstr "빠른 이동"
+
+msgid "$FastTravelContraband"
+msgstr "함선에 밀수품이 실려 있으므로 이 장소로 빠른 이동 할 수 없습니다."
+
+msgid "$FastTravelInsufficientFuel"
+msgstr "연료가 충분하지 않기 때문에 그 장소로 빠른 이동을 할 수 없습니다."
+
+msgid "$FastTravelOutOfRange"
+msgstr "중력 도약 범위 밖에 있으므로 이 위치로 빠르게 이동할 수 없습니다."
+
+msgid "$FastTravelUndiscoveredNotInOrbit"
+msgstr "아직 이 장소를 발견하지 못했습니다. 중력 도약 항로를 설정할까요?"
+
+msgid "$FastTravelUndiscoveredOnBody"
+msgstr "이 장소는 아직 발견하지 못했습니다."
+
+msgid "$FAUNA"
+msgstr "동물군"
+
+msgid "$FAV"
+msgstr "즐찾"
+
+msgid "$FAVORITE"
+msgstr "즐겨찾기"
+
+msgid "$Favorites"
+msgstr "즐겨찾기"
+
+msgid "$FEMALE"
+msgstr "여성"
+
+msgid "$FEMININE"
+msgstr "여성성"
+
+msgid "$Field of View"
+msgstr "화각"
+
+msgid "$FIELD RESEARCH TERMINAL"
+msgstr "연구 설비"
+
+msgid "$FIELD RESEARCH TERMINAL CATEGORY"
+msgstr "연구 설비 - {0}"
+
+msgid "$Film Grain"
+msgstr "필름 그레인 강도"
+
+msgid "$Film Grain Desc"
+msgstr "필름 그레인 효과의 강도를 설정합니다."
+
+msgid "$Filter"
+msgstr "필터"
+
+msgid "$FILTER"
+msgstr "필터"
+
+msgid "$Filter Intensity"
+msgstr "필터 강도"
+
+msgid "$Filters"
+msgstr "펠터"
+
+msgid "$FILTER_BIOME_ARCHIPELAGO"
+msgstr "군도"
+
+msgid "$FILTER_BIOME_CRATERED"
+msgstr "크레이터"
+
+msgid "$FILTER_BIOME_DESERT"
+msgstr "사막"
+
+msgid "$FILTER_BIOME_FOREST"
+msgstr "삼림"
+
+msgid "$FILTER_BIOME_HILL"
+msgstr "언덕"
+
+msgid "$FILTER_BIOME_MOUNTAIN"
+msgstr "산"
+
+msgid "$FILTER_BIOME_OCEAN"
+msgstr "해양"
+
+msgid "$FILTER_BIOME_POLAR"
+msgstr "극지"
+
+msgid "$FILTER_BIOME_SAVANNAH"
+msgstr "사바나"
+
+msgid "$FILTER_BIOME_SNOWFIELD"
+msgstr "설원"
+
+msgid "$FILTER_BIOME_TYPE"
+msgstr "생물 군계 유형"
+
+msgid "$FILTER_BIOME_VOLCANIC"
+msgstr "화산 지대"
+
+msgid "$FILTER_BIOME_WETLANDS"
+msgstr "습지"
+
+msgid "$FILTER_BODY_TYPE"
+msgstr "신체"
+
+msgid "$FILTER_BODY_TYPE_ASTEROID_BELT"
+msgstr "소행성대"
+
+msgid "$FILTER_BODY_TYPE_MOON"
+msgstr "위성"
+
+msgid "$FILTER_BODY_TYPE_PLANET"
+msgstr "행성"
+
+msgid "$FILTER_BODY_TYPE_SATELLITE"
+msgstr "인공위성"
+
+msgid "$FILTER_BODY_TYPE_STATION"
+msgstr "기지"
+
+msgid "$FILTER_IN_RANGE"
+msgstr "Filter: In Range"
+
+msgid "$FILTER_NONE"
+msgstr "Filter: None"
+
+msgid "$FILTER_SYSTEM_IN_RANGE"
+msgstr "중력 도약 가능 거리 안"
+
+msgid "$FILTER_SYSTEM_VISITED"
+msgstr "방문함"
+
+msgid "$FINISH"
+msgstr "끝내기"
+
+msgid "$FIRST"
+msgstr "FIRST"
+
+msgid "$Flashlight"
+msgstr "손전등"
+
+msgid "$FLIGHT CHECK"
+msgstr "비행 점검"
+
+msgid "$Flight Control Alternate Controls"
+msgstr "비행 대체 조작키"
+
+msgid "$Flight Control Alternate Controls_Desc"
+msgstr "비행 조작 대체 설정."
+
+msgid "$Flight Control Roll Dominant"
+msgstr "옆구르기 회전 조종간 설정"
+
+msgid "$Flight Control Roll Dominant_Desc"
+msgstr ""
+"비행 시 옆구르기 회전을 주 조종간이 제어할지 부 조종간이 제어할지 설정합니다. 다른 조종간은 좌우향 회전을 제어하게 됩니다."
+
+msgid "$Flight Control Stick Swap"
+msgstr "비행 조종간 바꾸기"
+
+msgid "$Flight Control Stick Swap_Desc"
+msgstr "비행 시 좌우 조종간을 바꿉니다."
+
+msgid "$FLIP"
+msgstr "교체"
+
+msgid "$FLIPPAGE"
+msgstr "페이지 넘기기"
+
+msgid "$FLOORDOWN"
+msgstr "편집 층 내림"
+
+msgid "$FLOORUP"
+msgstr "편집 층 올림"
+
+msgid "$FLORA"
+msgstr "식물군"
+
+msgid "$Focus Point Teleport"
+msgstr "Focus Point Teleport"
+
+msgid "$Focus Point Teleport Delta"
+msgstr "Focus Point Teleport Delta"
+
+msgid "$Focus_Point_Delta_Desc"
+msgstr "카메라 모드를 종료할 때 카메라 초점 지점과 플레이어 위치 사이에 순간이동을 위해 최소한의 간격이 있어야 합니다."
+
+msgid "$Focus_Point_Teleport_Desc"
+msgstr "전초기지 조감 시점을 종료할 때 카메라 초점 지점으로 순간 이동을 시도합니다."
+
+msgid "$Follow"
+msgstr "즐겨찾기"
+
+msgid "$Following"
+msgstr "즐겨찾기 중..."
+
+msgid "$FOOD"
+msgstr "음식"
+
+msgid "$Footsteps"
+msgstr "발자국(플레이어)"
+
+msgid "$Footsteps Audio Desc"
+msgstr "플레이어 발자국과 움직이는 소리 음량을 조절합니다."
+
+msgid "$FootstepsNPC"
+msgstr "발자국(기타)"
+
+msgid "$FootstepsNPC Audio Desc"
+msgstr "NPC 및 생물 발자국과 움직이는 소리 음량을 조절합니다."
+
+msgid "$FOR SALE"
+msgstr "판매 중"
+
+msgid "$Forward"
+msgstr "전진"
+
+msgid "$Frame"
+msgstr "프레임"
+
+msgid "$Frame Category"
+msgstr "프레임 범주"
+
+msgid "$FRECKLES"
+msgstr "주근깨"
+
+msgid "$Free"
+msgstr "자유"
+
+msgid "$FreeSpace:"
+msgstr "Free Space:"
+
+msgid "$FreestarCollective"
+msgstr "자유항성 공동체"
+
+msgid "$French"
+msgstr "프랑스어"
+
+msgid "$Friend"
+msgstr "친구"
+
+msgid "$FSR2"
+msgstr "FSR2"
+
+msgid "$FSR3"
+msgstr "FSR3"
+
+msgid "$FUEL"
+msgstr "연료"
+
+msgid "$Fuel (l)"
+msgstr "연료 (l)"
+
+msgid "$FUEL CAPACITY"
+msgstr "연료 용량"
+
+msgid "$FUEL CONSUMPTION"
+msgstr "연료 소모"
+
+msgid "$FuelFromOutpost"
+msgstr "전초기지에서 연료 사용"
+
+msgid "$Furrow Left"
+msgstr "주름(왼쪽)"
+
+msgid "$Furrow Right"
+msgstr "주름(오른쪽)"
+
+msgid "$GALAXY MAP"
+msgstr "은하계 지도"
+
+msgid "$GAMEPLAY"
+msgstr "게임플레이"
+
+msgid "$Gameplay"
+msgstr "게임플레이"
+
+msgid "$Gamma"
+msgstr "감마"
+
+msgid "$Gamma Desc"
+msgstr "밝기를 설정합니다."
+
+msgid "$GENDER"
+msgstr "성별"
+
+msgid "$GENDERID"
+msgstr "성별 ID"
+
+msgid "$GENERAL"
+msgstr "일반"
+
+msgid "$General"
+msgstr "일반"
+
+msgid "$General Subtitles"
+msgstr "일반 자막"
+
+msgid "$General Subtitles Desc"
+msgstr "캐릭터가 이동할 때 표시되는 자막을 켭니다."
+
+msgid "$German"
+msgstr "독일어"
+
+msgid "$GET UP"
+msgstr "일어나기"
+
+msgid "$GI"
+msgstr "성표 ID"
+
+msgid "$Go"
+msgstr "GO"
+
+msgid "$Grass Fade"
+msgstr "잔디 가시거리"
+
+msgid "$Grass Fade Desc"
+msgstr "잔디가 화면에 표시되기 시작하는 거리를 조절합니다."
+
+msgid "$GRAV"
+msgstr "중력"
+
+msgid "$GRAV JUMP Pending"
+msgstr "중력 도약 불가"
+
+msgid "$GRAVITY"
+msgstr "중력"
+
+msgid "$GravJumpAborted"
+msgstr "중력 도약 실패함."
+
+msgid "$GravJumpInProgress"
+msgstr "중력 도약 진행 중."
+
+msgid "$Grenade"
+msgstr "수류탄"
+
+msgid "$Grid View"
+msgstr "PERK CHART"
+
+msgid "$GRV"
+msgstr "중력 구동기"
+
+msgid "$GST"
+msgstr "GST"
+
+msgid "$GSTime_Suffix"
+msgstr "GST (24 HR)"
+
+msgid "$HAIL"
+msgstr "교신"
+
+msgid "$HAIR"
+msgstr "머리"
+
+msgid "$HAIR COLOR"
+msgstr "머리색"
+
+msgid "$HAPPINESS"
+msgstr "행복도"
+
+msgid "$HAPPY"
+msgstr "행복"
+
+msgid "$Hard"
+msgstr "어려움"
+
+msgid "$HardcorePreventedFastTravel"
+msgstr "여기로 빠른 이동할 수 없습니다. 마커를 찍을까요?"
+
+msgid "$HARVEST"
+msgstr "수확"
+
+msgid "$HEALTH"
+msgstr "체력"
+
+msgid "$health"
+msgstr "체력"
+
+msgid "$HEAVY"
+msgstr "육중함"
+
+msgid "$HELMET"
+msgstr "헬멧"
+
+msgid "$HELP"
+msgstr "도움말"
+
+msgid "$HE_HIM"
+msgstr "그"
+
+msgid "$HIDE"
+msgstr "자원 숨기기"
+
+msgid "$HIDE COMPLETED"
+msgstr "완료 숨기기"
+
+msgid "$HIDE EFFECTS"
+msgstr "효과 숨기기"
+
+msgid "$HIDE UI"
+msgstr "UI 숨기기"
+
+msgid "$HideCaravans"
+msgstr "보급선 숨기기"
+
+msgid "$HideQuestSummary"
+msgstr "요약 숨기기"
+
+msgid "$HighestRated"
+msgstr "Highest Rated"
+
+msgid "$Hold Breath"
+msgstr "숨 참기"
+
+msgid "$HOLD DISTANCE"
+msgstr "HOLD DISTANCE"
+
+msgid "$HOLD UP"
+msgstr "HOLD UP"
+
+msgid "$HolotapePlay"
+msgstr "재생"
+
+msgid "$HolotapeStop"
+msgstr "정지"
+
+msgid "$Hostile"
+msgstr "적"
+
+msgid "$HOUR"
+msgstr "시간"
+
+msgid "$hour."
+msgstr "시간."
+
+msgid "$HOURS"
+msgstr "시간"
+
+msgid "$hours."
+msgstr "시간."
+
+msgid "$Houseva'Ruun"
+msgstr "바룬 가문"
+
+msgid "$HouseVa’ruun"
+msgstr "바룬 가문"
+
+msgid "$HP"
+msgstr "HP"
+
+msgid "$HUD"
+msgstr "HUD"
+
+msgid "$Hud Alert Locked On"
+msgstr "적이 미사일을 락온함"
+
+msgid "$HUD Opacity"
+msgstr "HUD 투명도"
+
+msgid "$HUD Opacity Desc"
+msgstr "HUD의 투명도를 조절합니다."
+
+msgid "$HUDColorB"
+msgstr "HUD 색상 청색"
+
+msgid "$HUDColorG"
+msgstr "HUD 색상 녹색"
+
+msgid "$HUDColorR"
+msgstr "HUD 색상 적색"
+
+msgid "$HUDCommandAssign"
+msgstr "할당"
+
+msgid "$HUDCommandAttack"
+msgstr "공격"
+
+msgid "$HUDCommandCall"
+msgstr "부르기"
+
+msgid "$HUDCommandEnter"
+msgstr "진입"
+
+msgid "$HUDCommandFollow"
+msgstr "따르기"
+
+msgid "$HUDCommandHeal"
+msgstr "치료"
+
+msgid "$HUDCommandInspect"
+msgstr "조사"
+
+msgid "$HUDCommandMove"
+msgstr "이동"
+
+msgid "$HUDCommandRetrieve"
+msgstr "회수"
+
+msgid "$HUDCommandRide"
+msgstr "탑승"
+
+msgid "$HUDCommandStay"
+msgstr "대기"
+
+msgid "$HUDCompleted"
+msgstr "완료"
+
+msgid "$HUDDrink"
+msgstr "WATER\\nDRINK"
+
+msgid "$HUDFailed"
+msgstr "실패"
+
+msgid "$HUDMessage_InventoryDisabled"
+msgstr "인벤토리를 이용할 수 없습니다."
+
+msgid "$HUDRejected"
+msgstr "거부"
+
+msgid "$HUDStarted"
+msgstr "시작"
+
+msgid "$HUE"
+msgstr "색"
+
+msgid "$HULL"
+msgstr "선체"
+
+msgid "$HULL DAMAGE"
+msgstr "선체 손상"
+
+msgid "$HULL INTEGRITY"
+msgstr "선체 내구도"
+
+msgid "$HYDRATION"
+msgstr "수분 공급"
+
+msgid "$ICON_LABEL_CUSTOM"
+msgstr "C"
+
+msgid "$ICON_LABEL_DOCUMENT"
+msgstr "D"
+
+msgid "$ICON_LABEL_FOLDER"
+msgstr "F"
+
+msgid "$ICON_LABEL_KIOSK"
+msgstr "K"
+
+msgid "$IGNORE"
+msgstr "무시"
+
+msgid "$IN TRANSIT"
+msgstr "IN TRANSIT"
+
+msgid "$IN/OUT"
+msgstr "IN/OUT"
+
+msgid "$INCOMING HAIL"
+msgstr "수신한 교신"
+
+msgid "$INCOMING RESOURCES:"
+msgstr "반입 자원:"
+
+msgid "$Incoming Resources:"
+msgstr "반입 자원:"
+
+msgid "$INCOMING TRANSMISSION"
+msgstr "수신한 메시지"
+
+msgid "$IndustrialWorkbench"
+msgstr "공업용 작업대"
+
+msgid "$INGREDIENTS"
+msgstr "INGREDIENTS"
+
+msgid "$INIT EXIT CONFIRM"
+msgstr "종료 확인 초기화 중..."
+
+msgid "$Initializing..."
+msgstr "Initializing..."
+
+msgid "$INORGANIC"
+msgstr "INORGANIC"
+
+msgid "$Input"
+msgstr "투입 수량"
+
+msgid "$Input Mode"
+msgstr "투입 모드"
+
+msgid "$Input Mode Description"
+msgstr "선호하는 투입 모드 선택"
+
+msgid "$INPUT REQUIREMENTS:"
+msgstr "투입 요구 사항:"
+
+msgid "$Input Requirements:"
+msgstr "투입 요구 사항:"
+
+msgid "$Input:"
+msgstr "투입량:"
+
+msgid "$InputAmount"
+msgstr "투입 수량"
+
+msgid "$INSPECT"
+msgstr "조사"
+
+msgid "$INSTALL"
+msgstr "장착"
+
+msgid "$INSTALLED"
+msgstr "장착됨"
+
+msgid "$INSTALLED COMPONENT"
+msgstr "장착된 부품"
+
+msgid "$Installing"
+msgstr "장착:"
+
+msgid "$Insufficient Fuel"
+msgstr "중력 도약 연료 소모량 초과"
+
+msgid "$Insufficient Power"
+msgstr "동력 부족"
+
+msgid "$InsufficientFundsHeader"
+msgstr "자금 부족"
+
+msgid "$InsufficientPilotSkillForDesiredHomeShip"
+msgstr "이 함선을 조종하기에는 조종술 스킬이 낮습니다."
+
+msgid "$InsufficientPlayerFunds"
+msgstr "거래할 크레딧이 부족합니다."
+
+msgid "$InsufficientRegistrationFunds"
+msgstr "우주선을 등록할 크레딧이 부족합니다."
+
+msgid "$InsufficientVendorFunds"
+msgstr "이 상인은 크레딧을 충분히 가지고 있지 않습니다. 무시하고 거래를 승인하시겠습니까?"
+
+msgid "$INTEGRITY"
+msgstr "무결성"
+
+msgid "$Integrity"
+msgstr "무결성"
+
+msgid "$Integrity (%)"
+msgstr "무결성 (%)"
+
+msgid "$INTELLIGENCE"
+msgstr "지능"
+
+msgid "$INTENSITY"
+msgstr "강도"
+
+msgid "$INTERACT"
+msgstr "상호작용"
+
+msgid "$INV"
+msgstr "인벤"
+
+msgid "$InvalidTransaction"
+msgstr "거래를 완료하지 못했습니다."
+
+msgid "$InvCompareLabel_Ammo"
+msgstr "실탄"
+
+msgid "$InvCompareLabel_Dmg"
+msgstr "피해"
+
+msgid "$InvCompareLabel_DR"
+msgstr "피해저항"
+
+msgid "$InvCompareLabel_Mass"
+msgstr "질량"
+
+msgid "$InvCompareLabel_Value"
+msgstr "가치"
+
+msgid "$Inventory"
+msgstr "인벤토리"
+
+msgid "$INVENTORY"
+msgstr "인벤토리"
+
+msgid "$Inventory:"
+msgstr "인벤토리:"
+
+msgid "$InventoryAmount"
+msgstr "인벤토리 수량"
+
+msgid "$InventoryCategoryAid"
+msgstr "AID"
+
+msgid "$InventoryCategoryAidFood"
+msgstr "FOOD"
+
+msgid "$InventoryCategoryAidMine"
+msgstr "MY AID"
+
+msgid "$InventoryCategoryAmmo"
+msgstr "실탄"
+
+msgid "$InventoryCategoryAmmoMine"
+msgstr "내 실탄"
+
+msgid "$InventoryCategoryAmmoMisc"
+msgstr "실탄"
+
+msgid "$InventoryCategoryApparel"
+msgstr "의류"
+
+msgid "$InventoryCategoryApparelMine"
+msgstr "내 의류"
+
+msgid "$InventoryCategoryArmorBackpack"
+msgstr "배낭"
+
+msgid "$InventoryCategoryArmorHelmet"
+msgstr "헬멧"
+
+msgid "$InventoryCategoryArmorSuit"
+msgstr "Suits"
+
+msgid "$InventoryCategoryEquipment"
+msgstr "장비"
+
+msgid "$InventoryCategoryInfo"
+msgstr "정보"
+
+msgid "$InventoryCategoryInfoMisc"
+msgstr "정보"
+
+msgid "$InventoryCategoryJunk"
+msgstr "잡동사니"
+
+msgid "$InventoryCategoryJunkMine"
+msgstr "내 잡동사니"
+
+msgid "$InventoryCategoryMisc"
+msgstr "잡동사니"
+
+msgid "$InventoryCategoryMiscMine"
+msgstr "내 잡동사니"
+
+msgid "$InventoryCategoryMods"
+msgstr "부착물"
+
+msgid "$InventoryCategoryModsMine"
+msgstr "내 개조"
+
+msgid "$InventoryCategoryResources"
+msgstr "자원"
+
+msgid "$InventoryCategoryResourcesMisc"
+msgstr "자원"
+
+msgid "$InventoryCategoryWeaponMisc"
+msgstr "무기"
+
+msgid "$InventoryCategoryWeapons"
+msgstr "무기"
+
+msgid "$InventoryCategoryWeaponsMine"
+msgstr "내 무기"
+
+msgid "$InventoryCategoryWeaponThrowable"
+msgstr "폭발물"
+
+msgid "$INVENTORYMine"
+msgstr "내 인벤토리"
+
+msgid "$INVENTORYVendor"
+msgstr "Vendor"
+
+msgid "$INVENTORY_HELMET_HIDE"
+msgstr "호흡 가능 지역에서 헬멧 감추기"
+
+msgid "$INVENTORY_HELMET_HIDE_LRG"
+msgstr "감추기 (호흡 가능 지역 안에서)"
+
+msgid "$INVENTORY_HELMET_SHOW"
+msgstr "호흡 가능 지역에서 헬멧 보이기"
+
+msgid "$INVENTORY_HELMET_SHOW_LRG"
+msgstr "보이기 (항상)"
+
+msgid "$INVENTORY_SUIT_HIDE"
+msgstr "정착지에서 우주복 감추기"
+
+msgid "$INVENTORY_SUIT_HIDE_LRG"
+msgstr "감추기 (정착지 안에서)"
+
+msgid "$INVENTORY_SUIT_SHOW"
+msgstr "정착지에서 우주복 보이기"
+
+msgid "$INVENTORY_SUIT_SHOW_LRG"
+msgstr "보이기 (항상)"
+
+msgid "$Invert Flight X"
+msgstr "비행 중 X축 반전"
+
+msgid "$Invert Flight Y"
+msgstr "비행 Y축 반전"
+
+msgid "$Invert Menu X"
+msgstr "메뉴 카메라 X축 반전"
+
+msgid "$Invert Menu X Desc"
+msgstr "메뉴에서 카메라 X축을 뒤집습니다."
+
+msgid "$Invert Menu Y"
+msgstr "메뉴 카메라 Y축 반전"
+
+msgid "$Invert Menu Y Desc"
+msgstr "메뉴에서 카메라 Y축을 뒤집습니다."
+
+msgid "$Invert Pitch"
+msgstr "상하향 회전 반전"
+
+msgid "$Invert X"
+msgstr "보행 중 X축 반전"
+
+msgid "$Invert Y"
+msgstr "Y축 반전"
+
+msgid "$Invert Yaw"
+msgstr "좌우향 회전 반전"
+
+msgid "$Invert_Flight_X_Desc"
+msgstr "함선 조종 중 X축 방향의 시점 조작을 반전시킵니다."
+
+msgid "$Invert_Flight_Y_Desc"
+msgstr "우주선 조종 중 수직방향 카메라 축을 뒤집습니다."
+
+msgid "$Invert_Pitch_Flycam_Desc"
+msgstr "전초기지 조감 시점 중 수직방향 카메라 축을 뒤집습니다."
+
+msgid "$Invert_Yaw_Flycam_Desc"
+msgstr "전초기지 조감 시점 중 수평방향 카메라 축을 뒤집습니다."
+
+msgid "$Invert_X_Desc"
+msgstr "보행 중 X축 방향의 시점 조작을 반전시킵니다."
+
+msgid "$Invert_Y_Desc"
+msgstr "걸을 때 수직방향 카메라 축을 뒤집습니다."
+
+msgid "$INVEST"
+msgstr "조사"
+
+msgid "$Item Fade"
+msgstr "아이템 가시거리"
+
+msgid "$Item Fade Desc"
+msgstr "습득가능한 아이템이 화면에 표시되기 시작하는 거리를 조절합니다."
+
+msgid "$Item HoldAndDrag"
+msgstr "버튼을 누른채 드래그하는 아이템 회전 방식"
+
+msgid "$Item HoldAndDrag Desc"
+msgstr ""
+"메뉴에서 아이템 모델을 회전하는 방식을 마우스 버튼을 누른 상태에서 드래그하는 방식에서 마우스 버튼을 한번 클릭 후 마우스를 움직이는 "
+"방식으로 변경합니다."
+
+msgid "$Item Type"
+msgstr "아이템 유형"
+
+msgid "$ITEM VIEW"
+msgstr "아이템 보기"
+
+msgid "$ItemInfo_AR"
+msgstr "방어력"
+
+msgid "$ItemInfo_CND"
+msgstr "상태"
+
+msgid "$ItemInfo_DMG"
+msgstr "피해"
+
+msgid "$ItemInfo_Stolen"
+msgstr "장물"
+
+msgid "$ItemInfo_VAL"
+msgstr "가치"
+
+msgid "$ItemInfo_WT"
+msgstr "중량"
+
+msgid "$ItemNameInvalid"
+msgstr ""
+"Cannot rename item, item name is too long or contains invalid characters."
+
+msgid "$ItemRarity_Epic"
+msgstr "'에픽'"
+
+msgid "$ItemRarity_Legendary"
+msgstr "'레전더리'"
+
+msgid "$ItemRarity_Rare"
+msgstr "'레어'"
+
+msgid "$ItemRename"
+msgstr "아이템 이름 입력"
+
+msgid "$ITEMS:"
+msgstr "아이템:"
+
+msgid "$ItemsToCargoHold"
+msgstr "모든 아이템은 화물칸으로 옮겨집니다."
+
+msgid "$Japanese"
+msgstr "일본어"
+
+msgid "$Jaw Offset"
+msgstr "턱교정"
+
+msgid "$Jettison"
+msgstr "버리기"
+
+msgid "$JETTISON ALL"
+msgstr "모두 버리기"
+
+msgid "$Jump"
+msgstr "Jump"
+
+msgid "$JUMP"
+msgstr "도약"
+
+msgid "$JUMP DATA"
+msgstr "도약 데이터"
+
+msgid "$JUMP RANGE"
+msgstr "도약 범위"
+
+msgid "$JUMP TO"
+msgstr "이동"
+
+msgid "$JUMPS"
+msgstr "도약 횟수"
+
+msgid "$JUNK JET"
+msgstr "정크 제트"
+
+msgid "$KeyboardMouse"
+msgstr "키보드 및 마우스"
+
+msgid "$KG"
+msgstr "KG"
+
+msgid "$Kill On Sight"
+msgstr "즉시 사살"
+
+msgid "$KM"
+msgstr "KM"
+
+msgid "$LAND"
+msgstr "착륙"
+
+msgid "$LAND INSPECT"
+msgstr "착륙/조사하기"
+
+msgid "$LANDED"
+msgstr "착륙함"
+
+msgid "$LANDING"
+msgstr "착륙 중"
+
+msgid "$LANDING GRAV JUMPING"
+msgstr "중력도약 개시"
+
+msgid "$LANDING IN COMBAT"
+msgstr "전투 중"
+
+msgid "$LANDING INVALID POINT"
+msgstr "해당 지점에 착륙 불가"
+
+msgid "$LANDING NO MARKER"
+msgstr "착륙 마커 찍기"
+
+msgid "$LANDING NO SURFACE"
+msgstr "착륙에 적합한 지표면 없음"
+
+msgid "$LANDING NOT CLEARED"
+msgstr "착륙 불허됨"
+
+msgid "$LANDING OUT OF RANGE"
+msgstr "함선이 착륙 범위 내에 없음"
+
+msgid "$LANDING RECORDED"
+msgstr "착륙 기록됨"
+
+msgid "$LANDING UNAVAILABLE"
+msgstr "착륙 불가"
+
+msgid "$LANDING ZONE"
+msgstr "착륙 지점"
+
+msgid "$LandingBountyMoon"
+msgstr "목적지의 세력이 당신에게 현상금을 걸었습니다. 그래도 해당 위성 궤도를 목적지로 설정하시겠습니까?"
+
+msgid "$LandingBountyPlanet"
+msgstr "목적지의 세력이 당신에게 현상금을 걸었습니다. 그래도 목적지를 해당 궤도로 설정하시겠습니까?"
+
+msgid "$LandingContrabandMoon"
+msgstr ""
+"현재 밀수품이 있습니다. 개척 성계에서는 우주선이 행성에 착륙하기 전에 의무적으로 화물을 스캔합니다. 그래도 해당 위성 궤도를 목적지로 "
+"설정하시겠습니까?"
+
+msgid "$LandingContrabandPlanet"
+msgstr ""
+"현재 밀수품이 있습니다. 개척 성계에서는 우주선이 행성이나 위성에 착륙하기 전에 의무적으로 화물을 스캔합니다. 그래도 목적지를 해당 "
+"궤도로 설정하시겠습니까?"
+
+msgid "$LandingFailed"
+msgstr "이곳에 착륙할 수 없습니다."
+
+msgid "$LARGE"
+msgstr "크게"
+
+msgid "$Large Menu Fonts"
+msgstr "메뉴 폰트 크게"
+
+msgid "$Large Menu Fonts Desc"
+msgstr "가능하면 메뉴에서 큰 폰트를 씁니다. 메인 메뉴 폰트 크기만 바꿀 수 있습니다."
+
+msgid "$Last Used"
+msgstr "마지막 사용"
+
+msgid "$Latest"
+msgstr "최신"
+
+msgid "$LEAN"
+msgstr "마름"
+
+msgid "$LEARN HOLD"
+msgstr "길게 눌러 배우기"
+
+msgid "$LeaveMinigame"
+msgstr "게임을 나가시겠습니까?"
+
+msgid "$LegalScreen"
+msgstr ""
+"Starfield™ © 2023 ZeniMax Media Inc. Starfield, Bethesda, Bethesda "
+"Softworks, Bethesda Game Studios, ZeniMax 및 관련 로고는 미국 또는 기타 국가에서 제니맥스 미디어의 "
+"상표 또는 등록상표입니다. All Rights Reserved. Havok 소프트웨어는 ©2016 Microsoft. All rights"
+" reserved.\\n\\n달 지도 이미지 출처: NASA Scientific Visualization Studio. 목성 지도 이미지"
+" 출처: NASA Goddard Space Flight Center, Space Telescope Science Institute. 화성"
+" 데이터는 미국 지질조사국에서 수집한 자료를 바탕으로 제작됨.\\n\\n광과민성 경고: 간질이나 발작 병력이 없더라도 일부 소수의 "
+"사람들은 특정 빛, 패턴, 이미지에 노출되면 발작을 경험할 수 있습니다. 이용 약관에서 안전 정보를 검토하시기 바랍니다. "
+"https://bethesda.net/en/document/terms-of-service"
+
+msgid "$LEGENDARY EFFECT"
+msgstr "전설 효과"
+
+msgid "$Left Cheek"
+msgstr "뺨(왼쪽)"
+
+msgid "$Left Cheek Raise"
+msgstr "뺨을 올리기(왼쪽)"
+
+msgid "$Left Eye"
+msgstr "눈(왼쪽)"
+
+msgid "$Left Inner Eyebrow"
+msgstr "눈썹 안쪽(왼쪽)"
+
+msgid "$Left Lip Corner"
+msgstr "입꼬리(왼쪽)"
+
+msgid "$Left Lip In"
+msgstr "입맛 다시기(왼쪽)"
+
+msgid "$Left Outer Eyebrow"
+msgstr "눈썹 바깥쪽(왼쪽)"
+
+msgid "$Level"
+msgstr "레벨"
+
+msgid "$LEVEL"
+msgstr "레벨"
+
+msgid "$Level #"
+msgstr "레벨 #"
+
+msgid "$LEVEL UP"
+msgstr "레벨 업"
+
+msgid "$Level {0} Ship"
+msgstr "레벨 {0} 함선"
+
+msgid "$LEVELUP"
+msgstr "레벨 업"
+
+msgid "$LIFE"
+msgstr "LIFE"
+
+msgid "$Light Fade"
+msgstr "광원 가시거리"
+
+msgid "$LINER"
+msgstr "LINER"
+
+msgid "$LINER_1_TITLE"
+msgstr "PRIMARY LINER"
+
+msgid "$LINER_2_TITLE"
+msgstr "SECONDARY LINER"
+
+msgid "$LINER_3_TITLE"
+msgstr "TERTIARY LINER"
+
+msgid "$Linked outpost:"
+msgstr "연결된 기지:"
+
+msgid "$LINKED_OUTPOST:"
+msgstr "연결된 기지:"
+
+msgid "$Lip Funnel"
+msgstr "입술(뾰족하게)"
+
+msgid "$Lip Pucker"
+msgstr "입술(쪼그리기)"
+
+msgid "$Lip Suck"
+msgstr "입술(빨아먹기)"
+
+msgid "$LIPSTICKACCENTS"
+msgstr "립스틱 포인트"
+
+msgid "$LIPSTICKBASE"
+msgstr "립스틱 밑바탕"
+
+msgid "$List View"
+msgstr "LIST$"
+
+msgid "$LOAD"
+msgstr "불러오기"
+
+msgid "$Load this game? All unsaved progress will be lost."
+msgstr "이 세이브를 불러오시겠습니까? 저장하지 않은 게임 데이터는 사라집니다."
+
+msgid "$Loading"
+msgstr "불러오기 중"
+
+msgid "$Loading EULA..."
+msgstr "서비스 약관 불러오기 중"
+
+msgid "$Loading mods..."
+msgstr "모드 불러오기 중..."
+
+msgid "$LoadingModsIntro"
+msgstr ""
+"모드 설치 후 플레이하면서 발생하는 문제는 본인이 책임져야 합니다. 모드 사용 시 문제가 발생할 수 있습니다. 불러오기 순서에서 모드를 "
+"비활성화하고 불러오기 메뉴에서 캐릭터를 선택하여 언제든 원래 저장으로 돌아갈 수 있습니다. 모드 다운로드 및 모드 플레이는 이용 약관의 "
+"적용을 받습니다. 참고: 도전 과제는 비활성화됩니다."
+
+msgid "$LoadingModsIntro_PS4"
+msgstr ""
+"모드 설치 후 플레이하면서 발생하는 문제는 본인이 책임져야 합니다. 모드 사용 시 문제가 발생할 수 있습니다. 불러오기 순서에서 모드를 "
+"비활성화하고 불러오기 메뉴에서 캐릭터를 선택하여 언제든 원래 저장으로 돌아갈 수 있습니다. 모드 다운로드 및 모드 플레이는 이용 약관의 "
+"적용을 받습니다. 참고: 트로피는 비활성화됩니다."
+
+msgid "$LoadVanillaSaveWithMods"
+msgstr "현재 모드가 적용 중입니다. 주의: 도전 과제는 비활성화됩니다. 그래도 이 세이브를 불러오시겠습니까?"
+
+msgid "$LoadVanillaSaveWithMods_Orbis"
+msgstr "현재 모드가 적용 중입니다. 주의: 트로피는 비활성화됩니다. 그래도 이 세이브를 불러오시겠습니까?"
+
+msgid "$LOCAL HOUR"
+msgstr "현지 시간"
+
+msgid "$LOCAL HOURS"
+msgstr "현지 시간"
+
+msgid "$Local Map"
+msgstr "지역 지도"
+
+msgid "$LocalTime"
+msgstr "현지 시각"
+
+msgid "$LocalTime_Suffix"
+msgstr "({0}시간 태양활동주기)"
+
+msgid "$LocalTime_ZeroHoursPerDay"
+msgstr "--:-- ({0}시간 태양활동주기)"
+
+msgid "$LOCAL_HOUR"
+msgstr "현지 시간"
+
+msgid "$LOCAL_HOURS"
+msgstr "현지 시간"
+
+msgid "$LOCATION"
+msgstr "장소"
+
+msgid "$LocationCleared"
+msgstr "[완료함]"
+
+msgid "$LocationDiscovered"
+msgstr "장소 발견"
+
+msgid "$Lock"
+msgstr "잠금장치"
+
+msgid "$LOCKED"
+msgstr "잠김"
+
+msgid "$LockedContainer"
+msgstr "[잠김]"
+
+msgid "$LOCKED_SKILL_TEXT"
+msgstr "{2} 잠금 해제를 위해서는 {1} 계열 스킬에 {0} 포인트 더 투자하세요"
+
+msgid "$LOCKED_SKILL_TEXT_SINGLE"
+msgstr "{2} 잠금 해제를 위해서는 {1} 계열 스킬에 {0} 포인트 더 투자하세요"
+
+msgid "$LOCKING"
+msgstr "락온 중"
+
+msgid "$Lockpicks Left"
+msgstr "남은 머리핀"
+
+msgid "$Log"
+msgstr "로그"
+
+msgid "$LOG"
+msgstr "STATS"
+
+msgid "$Logging you in..."
+msgstr "로그인 중..."
+
+msgid "$Login failed."
+msgstr "로그인 실패."
+
+msgid "$LoginError_AgeRestrict"
+msgstr "자녀 보호 기능으로 인해 온라인 미디어 공유 기능이 제한되었습니다."
+
+msgid "$LoginError_BNET_CANNOT_CONNECT"
+msgstr "Bethesda.net 서버에 접속할 수 없습니다."
+
+msgid "$LoginError_BNET_CDP_AUTHENTICATION_FAILED"
+msgstr "Bethesda.net 서버에 로그인할 수 없습니다."
+
+msgid "$LoginError_BNET_CLIENT_ERROR"
+msgstr "작업을 완료하지 못했습니다."
+
+msgid "$LoginError_BNET_DNS_ERROR"
+msgstr "Bethesda.net 서버에 연결할 수 없습니다."
+
+msgid "$LoginError_BNET_INTERNAL"
+msgstr "Bethesda.net 서버에 로그인 할 수 없습니다."
+
+msgid "$LoginError_BNET_INVALID_CREDENTIALS"
+msgstr "유저 ID와 비밀번호가 유효하지 않습니다."
+
+msgid "$LoginError_BNET_OUTSIDE_GRACE_PERIOD"
+msgstr "Bethesda.net 계정 등록을 완료하고 이메일을 인증해 주세요."
+
+msgid "$LoginError_BNET_SERVER_ERROR"
+msgstr "Bethesda.net 서버에 로그인할 수 없습니다."
+
+msgid "$LoginError_BNET_TIMEOUT"
+msgstr "연결 시간이 초과되었습니다."
+
+msgid "$LoginError_BNET_UNACCEPTED_LEGAL_DOCUMENT"
+msgstr "최종 사용자 사용권 계약이 승인되지 않았습니다. 사용자 브라우저로 Bethesda.net에 로그인하십시오."
+
+msgid "$LoginError_BNET_UNKNOWN_ERROR"
+msgstr "작업을 완료하지 못했습니다."
+
+msgid "$LoginError_BNET_WINHTTP_INVALID_SERVER_RESPONSE"
+msgstr "Bethesda.net 서버에 연결할 수 없습니다."
+
+msgid "$LoginError_BNET_XBOX_ONE_USER_ERROR"
+msgstr "Bethesda.net 서버에 연결할 수 없습니다."
+
+msgid "$LoginError_Needs1stPartyUpdate"
+msgstr "계속하려면 업데이트가 필요합니다."
+
+msgid "$LoginError_NotSignedIn1stPartyDurango"
+msgstr "계속하려면 Xbox 계정에 로그인해야 합니다."
+
+msgid "$LoginError_NotSignedIn1stPartyOrbis"
+msgstr "계속하려면 소니 엔터테인먼트 네트워크 계정에 로그인해야 합니다."
+
+msgid "$LoginPage_Footer"
+msgstr ""
+"모드 설치 후 플레이하면서 발생하는 문제는 본인이 책임져야 합니다. 모드 사용 시 문제가 발생할 수 있습니다. 불러오기 순서에서 모드를 "
+"비활성화하고 불러오기 메뉴에서 캐릭터를 선택하여 언제든 원래 저장으로 돌아갈 수 있습니다. 모드 다운로드 및 모드 플레이는 이용 약관의 "
+"적용을 받습니다. 참고: 도전 과제는 비활성화됩니다."
+
+msgid "$LoginPage_Footer_PS4"
+msgstr ""
+"모드 설치 후 플레이하면서 발생하는 문제는 본인이 책임져야 합니다. 모드 사용 시 문제가 발생할 수 있습니다. 불러오기 순서에서 모드를 "
+"비활성화하고 불러오기 메뉴에서 캐릭터를 선택하여 언제든 원래 저장으로 돌아갈 수 있습니다. 모드 다운로드 및 모드 플레이는 이용 약관의 "
+"적용을 받습니다. 참고: 트로피는 비활성화됩니다."
+
+msgid "$LoginPage_Header"
+msgstr ""
+"Bethesda.net 커뮤니티에서 모드를 살펴보세요. 로그인하면 Bethesda.net 계정이 연동되어 자동으로 로그인 됩니다."
+
+msgid "$Login_CreateNew"
+msgstr "새 계정 만들기"
+
+msgid "$LOOK"
+msgstr "LOOK"
+
+msgid "$Look Horizontal Sensitivity"
+msgstr "수평 카메라 감도"
+
+msgid "$Look Horizontal Sensitivity Desc"
+msgstr "수평 카메라의 전반적인 감도를 조절합니다."
+
+msgid "$Look Sensitivity"
+msgstr "카메라 감도"
+
+msgid "$Look Vertical Sensitivity"
+msgstr "수직 카메라 감도"
+
+msgid "$Look Vertical Sensitivity Desc"
+msgstr "수직 카메라의 전반적인 감도를 조절합니다."
+
+msgid "$LOWER"
+msgstr "LOWER"
+
+msgid "$LUCK"
+msgstr "행운"
+
+msgid "$LY"
+msgstr "광년"
+
+msgid "$MAG"
+msgstr "탄창 용량"
+
+msgid "$MAGAZINE"
+msgstr "탄창"
+
+msgid "$MAGNETOSPHERE"
+msgstr "자기권"
+
+msgid "$MAGNITUDE"
+msgstr "절대 등급"
+
+msgid "$MAG_LRG"
+msgstr "탄창 용량"
+
+msgid "$Main"
+msgstr "메인"
+
+msgid "$MAIN MENU"
+msgstr "메인 메뉴"
+
+msgid "$Main Menu"
+msgstr "메인 메뉴"
+
+msgid "$MainGameplay"
+msgstr "주 게임플레이"
+
+msgid "$MainGameplay_Activate"
+msgstr "활성화"
+
+msgid "$MainGameplay_AltAttack"
+msgstr "수류탄 투척"
+
+msgid "$MainGameplay_AutoMove"
+msgstr "자동 전진"
+
+msgid "$MainGameplay_Back"
+msgstr "후진"
+
+msgid "$MainGameplay_DataMenu"
+msgstr "데이터 메뉴 열기"
+
+msgid "$MainGameplay_Flashlight"
+msgstr "손전등 토글"
+
+msgid "$MainGameplay_Forward"
+msgstr "전진"
+
+msgid "$MainGameplay_Jump"
+msgstr "점프"
+
+msgid "$MainGameplay_Melee"
+msgstr "근접 공격"
+
+msgid "$MainGameplay_Monocle"
+msgstr "휴대용 스캐너/손전등"
+
+msgid "$MainGameplay_Pause"
+msgstr "일시 정지"
+
+msgid "$MainGameplay_PrimaryAttack"
+msgstr "주 공격"
+
+msgid "$MainGameplay_QuickHeal"
+msgstr "빠른 치유"
+
+msgid "$MainGameplay_QuickInventory"
+msgstr "빠른 인벤토리"
+
+msgid "$MainGameplay_Quickkey1"
+msgstr "1번 즐겨찾기"
+
+msgid "$MainGameplay_Quickkey10"
+msgstr "10번 즐겨찾기"
+
+msgid "$MainGameplay_Quickkey11"
+msgstr "11번 즐겨찾기"
+
+msgid "$MainGameplay_Quickkey12"
+msgstr "12번 즐겨찾기"
+
+msgid "$MainGameplay_Quickkey2"
+msgstr "2번 즐겨찾기"
+
+msgid "$MainGameplay_Quickkey3"
+msgstr "3번 즐겨찾기"
+
+msgid "$MainGameplay_Quickkey4"
+msgstr "4번 즐겨찾기"
+
+msgid "$MainGameplay_Quickkey5"
+msgstr "5번 즐겨찾기"
+
+msgid "$MainGameplay_Quickkey6"
+msgstr "6번 즐겨찾기"
+
+msgid "$MainGameplay_Quickkey7"
+msgstr "7번 즐겨찾기"
+
+msgid "$MainGameplay_Quickkey8"
+msgstr "8번 즐겨찾기"
+
+msgid "$MainGameplay_Quickkey9"
+msgstr "9번 즐겨찾기"
+
+msgid "$MainGameplay_QuickkeyDown"
+msgstr "아래쪽 즐겨찾기"
+
+msgid "$MainGameplay_QuickkeyLeft"
+msgstr "왼쪽 즐겨찾기"
+
+msgid "$MainGameplay_QuickkeyRight"
+msgstr "오른쪽 즐겨찾기"
+
+msgid "$MainGameplay_Quickkeys"
+msgstr "즐겨찾기 열기"
+
+msgid "$MainGameplay_QuickkeyUp"
+msgstr "위쪽 즐겨찾기"
+
+msgid "$MainGameplay_Quickload"
+msgstr "빠른 불러오기"
+
+msgid "$MainGameplay_QuickMap"
+msgstr "빠른 지도"
+
+msgid "$MainGameplay_QuickMission"
+msgstr "빠른 임무"
+
+msgid "$MainGameplay_QuickPowers"
+msgstr "빠른 파워"
+
+msgid "$MainGameplay_QuickRadio"
+msgstr "빠른 라디오"
+
+msgid "$MainGameplay_Quicksave"
+msgstr "빠른 저장"
+
+msgid "$MainGameplay_QuickShip"
+msgstr "빠른 함선"
+
+msgid "$MainGameplay_QuickSkills"
+msgstr "빠른 스킬"
+
+msgid "$MainGameplay_QuickStats"
+msgstr "빠른 상태"
+
+msgid "$MainGameplay_ReadyWeapon"
+msgstr "무기 숨기기 토글"
+
+msgid "$MainGameplay_ReloadWeapon"
+msgstr "무기 재장전"
+
+msgid "$MainGameplay_Run"
+msgstr "길게 눌러 달리기"
+
+msgid "$MainGameplay_SecondaryAttack"
+msgstr "보조 공격"
+
+msgid "$MainGameplay_Sneak"
+msgstr "은신"
+
+msgid "$MainGameplay_Sprint"
+msgstr "전력 질주"
+
+msgid "$MainGameplay_StarbornPower"
+msgstr "파워"
+
+msgid "$MainGameplay_StrafeLeft"
+msgstr "왼쪽으로 이동"
+
+msgid "$MainGameplay_StrafeRight"
+msgstr "오른쪽으로 이동"
+
+msgid "$MainGameplay_ToggleAlwaysRun"
+msgstr "언제나 달리기 토글"
+
+msgid "$MainGameplay_TogglePOV"
+msgstr "시점 변경"
+
+msgid "$MainGameplay_WeaponReadyReload"
+msgstr "무기 꺼내기/재장전"
+
+msgid "$MainGameplay_ZoomIn"
+msgstr "카메라 확대"
+
+msgid "$MainGameplay_ZoomOut"
+msgstr "카메라 축소"
+
+msgid "$MainKey"
+msgstr "주요 키"
+
+msgid "$Make"
+msgstr "Make"
+
+msgid "$MAKE"
+msgstr "MAKE"
+
+msgid "$MAKE_HOME_SHIP"
+msgstr "거점 함선으로 지정"
+
+msgid "$MALE"
+msgstr "남성"
+
+msgid "$MANAGE GOODS"
+msgstr "Manage Goods"
+
+msgid "$ManualSaveMsg"
+msgstr "저장 중..."
+
+msgid "$Manufacturer_Generic"
+msgstr "GENERIC"
+
+msgid "$MAP"
+msgstr "MAP"
+
+msgid "$MapMarkerGenericTypeAsteroids"
+msgstr "소행성"
+
+msgid "$MapMarkerGenericTypeHazard"
+msgstr "위험지역"
+
+msgid "$MapMarkerGenericTypeLandmark"
+msgstr "자연물"
+
+msgid "$MapMarkerGenericTypeLifeSigns"
+msgstr "생체 신호"
+
+msgid "$MapMarkerGenericTypeShip"
+msgstr "함선"
+
+msgid "$MapMarkerGenericTypeSpaceLandmark"
+msgstr "이상 현상"
+
+msgid "$MapMarkerGenericTypeStation"
+msgstr "우주정거장"
+
+msgid "$MapMarkerGenericTypeStructure"
+msgstr "구조물"
+
+msgid "$MARKINGS"
+msgstr "표시"
+
+msgid "$MASCULINE"
+msgstr "남성성"
+
+msgid "$MASS"
+msgstr "질량"
+
+msgid "$mass"
+msgstr "질량"
+
+msgid "$Mass (All)"
+msgstr "질량(전체)"
+
+msgid "$MASS (KG)"
+msgstr "질량(kg)"
+
+msgid "$Mass (KG)"
+msgstr "질량(kg)"
+
+msgid "$MASS_LRG"
+msgstr "질량"
+
+msgid "$Master"
+msgstr "전체 음량"
+
+msgid "$Master Audio Desc"
+msgstr "전반적인 게임 음량을 조절합니다."
+
+msgid "$Mastered_Skill"
+msgstr "당신은 이 스킬에 통달했습니다."
+
+msgid "$Material"
+msgstr "재료"
+
+msgid "$Material Available"
+msgstr "사용 가능한 재료 있음"
+
+msgid "$MAX"
+msgstr "최대"
+
+msgid "$MAX HEALTH INCREASED BY"
+msgstr "최대 체력 {0} 증가"
+
+msgid "$Max Range Exceeded"
+msgstr "중력 도약 가능 거리 초과"
+
+msgid "$MAXIMUM_RANK"
+msgstr "최대 랭크"
+
+msgid "$Medical"
+msgstr "의료 용품"
+
+msgid "$MEDIUM"
+msgstr "MEDIUM"
+
+msgid "$Melee"
+msgstr "Bash/Power Attack"
+
+msgid "$MENU"
+msgstr "메뉴"
+
+msgid "$Menu3DModelRotation"
+msgstr "MENU 3D MODEL ROTATION"
+
+msgid "$Menu3DModelRotation_Rotate"
+msgstr "모델 회전"
+
+msgid "$Menu3DModelZoom"
+msgstr "메뉴 3D 모델 확대/축소"
+
+msgid "$Menu3DModelZoom_ZoomModelIn"
+msgstr "모델 확대"
+
+msgid "$Menu3DModelZoom_ZoomModelOut"
+msgstr "모델 축소"
+
+msgid "$MenuDisplayAutosaveName"
+msgstr "자동 저장"
+
+msgid "$MenuDisplayExitsaveName"
+msgstr "저장하고 게임 종료"
+
+msgid "$MenuDisplayQuicksaveName"
+msgstr "빠른 저장"
+
+msgid "$MenuDisplayUnknownLocationString"
+msgstr "알 수 없음"
+
+msgid "$MESSAGES"
+msgstr "메시지"
+
+msgid "$Meter_Abbreviation"
+msgstr "분"
+
+msgid "$MICROGEOMETRY"
+msgstr "얼굴 특징 1"
+
+msgid "$MINE"
+msgstr "MINE"
+
+msgid "$MINUTE"
+msgstr "분"
+
+msgid "$MinuteAbbreviation"
+msgstr "분"
+
+msgid "$MINUTES"
+msgstr "분"
+
+msgid "$Misc"
+msgstr "사이드"
+
+msgid "$Missing Requirements"
+msgstr "필수 요건 미충족"
+
+msgid "$MISSION"
+msgstr "임무"
+
+msgid "$MISSION COMPLETE"
+msgstr "임무 완수"
+
+msgid "$Mission Data"
+msgstr "임무 데이터"
+
+msgid "$MISSION FAILED"
+msgstr "임무 실패"
+
+msgid "$Mission Info"
+msgstr "임무 정보"
+
+msgid "$Mission name"
+msgstr "임무명"
+
+msgid "$MISSION REWARDS"
+msgstr "임무 보상"
+
+msgid "$MISSION STATUS"
+msgstr "임무 상태"
+
+msgid "$MISSION UPDATED"
+msgstr "임무 업데이트"
+
+msgid "$MissionAdded"
+msgstr "임무 메뉴에 추가됨"
+
+msgid "$MissionComplete"
+msgstr "임무 완수"
+
+msgid "$MissionFailed"
+msgstr "임무 실패"
+
+msgid "$MissionMenu"
+msgstr "임무 메뉴"
+
+msgid "$MissionMenu_ShowOnMap"
+msgstr "지도에서 보기"
+
+msgid "$MissionNew"
+msgstr "새 임무"
+
+msgid "$MISSIONS"
+msgstr "임무"
+
+msgid "$MissionUpdate"
+msgstr "임무 업데이트"
+
+msgid "$MOBILITY"
+msgstr "기동성"
+
+msgid "$MOD SLOTS"
+msgstr "모드 슬롯"
+
+msgid "$ModCurrentlyInstalled"
+msgstr "이미 설치됨"
+
+msgid "$ModHasNoRequirements"
+msgstr "이 모드에는 설치할 구성 요소가 필요하지 않습니다."
+
+msgid "$MODIFIER"
+msgstr "개조"
+
+msgid "$MODIFY"
+msgstr "개조"
+
+msgid "$MODIFY BODY SHAPE"
+msgstr "체형 변경"
+
+msgid "$MODIFY MODE"
+msgstr "모드 변경"
+
+msgid "$MODS"
+msgstr "부착물"
+
+msgid "$Mods"
+msgstr "모드"
+
+msgid "$MODS LOADED"
+msgstr "모드 불러오기됨"
+
+msgid "$ModSpace:"
+msgstr "합계:"
+
+msgid "$MODS_LRG"
+msgstr "부착물"
+
+msgid "$Mod_AccountSettings"
+msgstr "설정"
+
+msgid "$Mod_Details"
+msgstr "상세"
+
+msgid "$Mod_LibraryDelete"
+msgstr "삭제"
+
+msgid "$Mod_LibraryDisable"
+msgstr "비활성"
+
+msgid "$Mod_LibraryEnable"
+msgstr "활성"
+
+msgid "$Mod_MyLibrary"
+msgstr "정렬순서 불러오기"
+
+msgid "$Mod_Reorder"
+msgstr "재정렬"
+
+msgid "$Mod_Search"
+msgstr "수색"
+
+msgid "$MonitorSelect"
+msgstr "모니터 선택"
+
+msgid "$MonitorSelectDesc"
+msgstr "테두리 없는 창 모드를 사용할 모니터를 설정합니다."
+
+msgid "$Monocle"
+msgstr "휴대용 스캐너"
+
+msgid "$Moon"
+msgstr "위성"
+
+msgid "$MOON OF VECTERA"
+msgstr "벡테라 위성"
+
+msgid "$MOONS"
+msgstr "위성"
+
+msgid "$More..."
+msgstr "더 보기..."
+
+msgid "$MostFavorited"
+msgstr "최고 선호"
+
+msgid "$MostPopularAllTime"
+msgstr "최고 인기 - 모든 시간"
+
+msgid "$MostPopularThisMonth"
+msgstr "최고 인기 - 이번 달"
+
+msgid "$MostPopularThisWeek"
+msgstr "최고 인기 - 이번 주"
+
+msgid "$MostPopularToday"
+msgstr "최고 인기 - 오늘"
+
+msgid "$Mouse Look Sensitivity"
+msgstr "마우스 감도"
+
+msgid "$Mouse Look Sensitivity Desc"
+msgstr "마우스 감도를 조절합니다."
+
+msgid "$Mouse Move"
+msgstr "마우스 이동"
+
+msgid "$Mouth"
+msgstr "입"
+
+msgid "$Mouth Open"
+msgstr "입(벌리기)"
+
+msgid "$Move"
+msgstr "이동"
+
+msgid "$MOVE"
+msgstr "이동"
+
+msgid "$MoveMarker"
+msgstr "마커 이동하기"
+
+msgid "$MoveMarkerQuestion"
+msgstr "현재 마커를 이동하거나 제거하시겠습니까?"
+
+msgid "$MultiActivate_A_QCAButton"
+msgstr "아이템 습득"
+
+msgid "$MultiActivate_B_QCBButton"
+msgstr "특성 행동 2"
+
+msgid "$MultiActivate_X_QCXButton"
+msgstr "아이템 이동 메뉴 열기"
+
+msgid "$MultiActivate_Y_QCYButton"
+msgstr "특성 행동 1"
+
+msgid "$MUSCULAR"
+msgstr "근육질"
+
+msgid "$Music"
+msgstr "음악"
+
+msgid "$Music Audio Desc"
+msgstr "배경 음악 음량을 조절합니다."
+
+msgid "$My Creations"
+msgstr "My Creations"
+
+msgid "$My Favorites"
+msgstr "내 즐겨찾기"
+
+msgid "$My Home Ship"
+msgstr "거점 함선"
+
+msgid "$My Library"
+msgstr "My Library"
+
+msgid "$My Perks"
+msgstr "MY PERKS"
+
+msgid "$MY SHIP"
+msgstr "내 함선"
+
+msgid "$MY SHIPS"
+msgstr "내 함선 ({0}/{1})"
+
+msgid "$NAME"
+msgstr "이름"
+
+msgid "$Name:"
+msgstr "이름:"
+
+msgid "$NAME_CHARACTER"
+msgstr "이름 짓기"
+
+msgid "$NavigateObjectives"
+msgstr "NAVIGATE OBJECTIVES"
+
+msgid "$Near Plane"
+msgstr "근경 효과 강도"
+
+msgid "$Near Start"
+msgstr "근경 효과 시작 거리"
+
+msgid "$Need Updates"
+msgstr "업데이트 가능"
+
+msgid "$NEEDED PWR"
+msgstr "필요 동력"
+
+msgid "$Neutral"
+msgstr "Neutral"
+
+msgid "$NEW"
+msgstr "새 게임"
+
+msgid "$NEW DATA"
+msgstr "새 데이터"
+
+msgid "$New Game Difficulty"
+msgstr "새 게임 난이도"
+
+msgid "$NEW ORGANIC DISCOVERED"
+msgstr "새 유기물 발견됨"
+
+msgid "$New Perks"
+msgstr "ALL PERKS"
+
+msgid "$NewsOptInMessage"
+msgstr "Send me news about Bethesda!"
+
+msgid "$NEW_LINK:"
+msgstr "새 연결망:"
+
+msgid "$NEXT"
+msgstr "다음"
+
+msgid "$NEXT HAIL"
+msgstr "다음 교신"
+
+msgid "$NEXT PERK"
+msgstr "다음 랭크"
+
+msgid "$NEXTCATEGORY"
+msgstr "다음 범주"
+
+msgid "$NEXTVARIANT"
+msgstr "다음 변형"
+
+msgid "$NEXT_KEY"
+msgstr "NEXT KEY"
+
+msgid "$No"
+msgstr "아니오"
+
+msgid "$NO"
+msgstr "아니오"
+
+msgid "$No content found."
+msgstr "컨텐츠 찾지 못함."
+
+msgid "$NO CONTRABAND"
+msgstr "함선에 밀수품 없음"
+
+msgid "$No docking"
+msgstr "도킹 안됨"
+
+msgid "$NO ITEMS"
+msgstr "아이템 없음"
+
+msgid "$NO SYSTEM SELECTED"
+msgstr "선택한 시스템 없음"
+
+msgid "$NoDeviceSelected"
+msgstr ""
+"You have not selected a storage device.  You will need to select one before "
+"you can save.  Until then, Autosave is disabled."
+
+msgid "$NoGravDrivePower"
+msgstr "중력 구동기에 동력 공급되지 않음"
+
+msgid "$NoGravityToJump"
+msgstr "중력 도약을 하기 전에 중력 구동기에 동력을 공급하십시오."
+
+msgid "$NoJumpDuringScene"
+msgstr "교신 중에는 중력 도약할 수 없습니다."
+
+msgid "$Nominal"
+msgstr "정상"
+
+msgid "$NoModSelected"
+msgstr "선택한 개조 없음"
+
+msgid "$NON-BINARY"
+msgstr "논바이너리"
+
+msgid "$NONE"
+msgstr "없음"
+
+msgid "$None"
+msgstr "없음"
+
+msgid "$NoProfileSelected"
+msgstr ""
+"You have not signed into a profile. You will need to sign into a profile in "
+"order to save progress. Do you want to sign in now?"
+
+msgid "$Normal"
+msgstr "보통"
+
+msgid "$Nose"
+msgstr "코"
+
+msgid "$NOSHIPSAVAILABLE"
+msgstr "이용할 수 없는 함선 없음"
+
+msgid "$Nostrils"
+msgstr "작은 코"
+
+msgid "$NOT INSTALLED"
+msgstr "미설치"
+
+msgid "$NotEnoughFuelToJump"
+msgstr "해당 항로를 따라 중력 도약할 때 필요한 연료가 부족합니다."
+
+msgid "$NO_ITEM_EQUIPPED"
+msgstr "무기 미장착"
+
+msgid "$Nvidia_ReflexMode_LowLatencyWithBoost"
+msgstr "온+부스트"
+
+msgid "$O2"
+msgstr "산소"
+
+msgid "$O2 RATING"
+msgstr "산소 농도"
+
+msgid "$Object Fade"
+msgstr "오브젝트 가시거리"
+
+msgid "$Object Fade Desc"
+msgstr "아이템 외의 월드 사물 오브젝트가 화면에 표시되기 시작하는 거리를 조절합니다."
+
+msgid "$OFF"
+msgstr "끔"
+
+msgid "$OK"
+msgstr "확인"
+
+msgid "$ON"
+msgstr "켬"
+
+msgid "$OPEN"
+msgstr "열기"
+
+msgid "$Open"
+msgstr "열기"
+
+msgid "$OPEN_BUILDER"
+msgstr "함선 제작기"
+
+msgid "$OPEN_PLANET_MAP"
+msgstr "행성 지도 열기"
+
+msgid "$Operating Cost:"
+msgstr "운영 필요 자원:"
+
+msgid "$OPTION1"
+msgstr "1"
+
+msgid "$OPTION2"
+msgstr "2"
+
+msgid "$OPTIONS"
+msgstr "설정"
+
+msgid "$OR"
+msgstr "또는"
+
+msgid "$Orbit"
+msgstr "궤도"
+
+msgid "$Orbital"
+msgstr "궤도"
+
+msgid "$OTHER"
+msgstr "OTHER"
+
+msgid "$OUTBOUND TRANSMISSION"
+msgstr "송신할 메시지"
+
+msgid "$OUTGOING RESOURCES"
+msgstr "반출 자원"
+
+msgid "$Outpost"
+msgstr "전초기지"
+
+msgid "$OUTPOST"
+msgstr "전초기지"
+
+msgid "$OUTPOST CARGO LINK"
+msgstr "기지 화물 연계"
+
+msgid "$OUTPOST DEPLOYED:"
+msgstr "OUTPOST DEPLOYED:"
+
+msgid "$Outpost FlyCam Distance Speed"
+msgstr "전초기지 조감 시점 확대/축소 속도"
+
+msgid "$Outpost FlyCam Distance Speed Desc"
+msgstr "전초기지 모드에서 조감 시점으로 전환했을 때 카메라 확대/축소 속도를 설정합니다."
+
+msgid "$Outpost FlyCam Rotation Speed"
+msgstr "전초기지 조감 시점 회전 속도"
+
+msgid "$Outpost FlyCam Rotation Speed Desc"
+msgstr "전초기지 모드에서 조감 시점으로 전환했을 때 카메라 회전 속도를 설정합니다."
+
+msgid "$Outpost FlyCam Starting Distance"
+msgstr "전초기지 조감 시점 시작시 간격"
+
+msgid "$Outpost FlyCam Starting Distance Desc"
+msgstr "전초기지 모드에서 조감 시점으로 전환했을 때 카메라와 지면 간의 거리 간격을 설정합니다."
+
+msgid "$Outpost FlyCam Starting Pitch"
+msgstr "전초기지 조감 시점 시작시 상하향 각도"
+
+msgid "$Outpost FlyCam Starting Pitch Desc"
+msgstr "전초기지 모드에서 조감 시점으로 전환했을 때 카메라가 어느 정도 상하향 각도로 지면을 내려다보게 할지 설정합니다."
+
+msgid "$Outpost FlyCam Translation Speed"
+msgstr "전초기지 조감 시점 이동 속도"
+
+msgid "$Outpost FlyCam Translation Speed Desc"
+msgstr "전초기지 모드에서 조감 시점으로 전환했을 때 카메라 이동 속도를 설정합니다."
+
+msgid "$Outpost Item Rotation Speed"
+msgstr "전초기지 아이템 회전 속도"
+
+msgid "$Outpost Item Rotation Speed Desc"
+msgstr "아이템을 놓거나 건물을 지을 때 물체의 회전 속도를 조절합니다."
+
+msgid "$OutpostName"
+msgstr "{1} 전초기지 {2}"
+
+msgid "$OutpostQuickMenu"
+msgstr "길게 눌러 빠른 메뉴 열기"
+
+msgid "$OUTPOSTS"
+msgstr "전초기지"
+
+msgid "$OutpostTargetMenu_ChangeLink"
+msgstr "기지 연계를 바꾸시겠습니까?"
+
+msgid "$OutpostTargetMenu_CreateLink"
+msgstr "이 두 기지 사이에 연결망을 설정하시겠습니까?"
+
+msgid "$OutpostTargetMenu_RemoveLink"
+msgstr "두 기지 사이의 연결망을 제거하시겠습니까?"
+
+msgid "$Outpost_AvailableOutposts"
+msgstr "이용할 수 있는 기지"
+
+msgid "$Outpost_AvailableTargets"
+msgstr "Available Targets"
+
+msgid "$Outpost_ConfirmBreakLinks"
+msgstr "Confirm breaking invalid connections?"
+
+msgid "$Outpost_Rename"
+msgstr "기지 이름 입력"
+
+msgid "$Outpost_WarnBreakLinks"
+msgstr "Some connections will become invalid by changing to this item."
+
+msgid "$OutputLink"
+msgstr "내보내기"
+
+msgid "$OVERALL"
+msgstr "Overall"
+
+msgid "$OVERFLOW"
+msgstr "초과분"
+
+msgid "$Overlays"
+msgstr "Overlays"
+
+msgid "$Overwrite?"
+msgstr "덮어쓰시겠습니까?"
+
+msgid "$OWNED"
+msgstr "소유함"
+
+msgid "$OWNED [NEEDS GAME RESET]"
+msgstr "소유함 [활성화 준비됨]"
+
+msgid "$OWNED [NOT DOWNLOADED]"
+msgstr "소유함 [다운로드 안됨]"
+
+msgid "$PACK"
+msgstr "팩"
+
+msgid "$PAN"
+msgstr "카메라 이동"
+
+msgid "$PAN DISTANCE"
+msgstr "카메라 이동 거리"
+
+msgid "$PART"
+msgstr "PART"
+
+msgid "$PartiallyExplored"
+msgstr "일부 탐색됨"
+
+msgid "$Password"
+msgstr "비밀번호"
+
+msgid "$Pause"
+msgstr "일시 정지"
+
+msgid "$PC"
+msgstr "PC"
+
+msgid "$PENETRATION"
+msgstr "PENETRATION"
+
+msgid "$PEOPLE"
+msgstr "PEOPLE"
+
+msgid "$PERCEPTION"
+msgstr "PERCEPTION"
+
+msgid "$Performance mode"
+msgstr "퍼포먼스 모드"
+
+msgid "$Performance mode Desc"
+msgstr "활성화하면, 해상도를 50%로 낮추고 동적 해상도를 활성화합니다."
+
+msgid "$PerksLowReqs"
+msgstr "Requirements not met."
+
+msgid "$Perk_NextRankAvailable"
+msgstr "다음 랭크 상승 가능!"
+
+msgid "$PERSONNEL RECORD"
+msgstr "직원 기록"
+
+msgid "$PERSUASION"
+msgstr "설득"
+
+msgid "$Persuasion_AutoWin"
+msgstr "자동 설득"
+
+msgid "$PharmaceuticalLab"
+msgstr "Pharmaceutical Lab"
+
+msgid "$PHOTO GALLERY"
+msgstr "사진첩"
+
+msgid "$PhotoMode"
+msgstr "사진 모드"
+
+msgid "$PHOTOMODE"
+msgstr "사진 모드"
+
+msgid "$PhotoMode_Cancel"
+msgstr "종료"
+
+msgid "$PhotoMode_Down"
+msgstr "아래"
+
+msgid "$PhotoMode_HeadTrack"
+msgstr "헤드트래킹 전환"
+
+msgid "$PhotoMode_Left"
+msgstr "왼쪽"
+
+msgid "$PhotoMode_LShoulder"
+msgstr "이전 범주"
+
+msgid "$PhotoMode_MoveDown"
+msgstr "카메라 아래로 이동"
+
+msgid "$PhotoMode_MoveUp"
+msgstr "카메라 위로 이동"
+
+msgid "$PhotoMode_NextMode"
+msgstr "다음 모드"
+
+msgid "$PhotoMode_Reset"
+msgstr "설정 초기화"
+
+msgid "$PhotoMode_Right"
+msgstr "오른쪽"
+
+msgid "$PhotoMode_RShoulder"
+msgstr "다음 범주"
+
+msgid "$PhotoMode_Snapshot"
+msgstr "촬영"
+
+msgid "$PhotoMode_ToggleHelmet"
+msgstr "헬멧 감추기"
+
+msgid "$PhotoMode_ToggleUI"
+msgstr "UI 감추기"
+
+msgid "$PhotoMode_Up"
+msgstr "위"
+
+msgid "$PHY"
+msgstr "PHYS"
+
+msgid "$Physical"
+msgstr "신체"
+
+msgid "$PHYSICAL"
+msgstr "신체"
+
+msgid "$PHYSICAL_SKILLS"
+msgstr "신체 스킬"
+
+msgid "$PHYSICAL_SKILLS_ADVANCED"
+msgstr "숙련 신체 스킬"
+
+msgid "$PHYSICAL_SKILLS_EXPERT"
+msgstr "전문 신체 스킬"
+
+msgid "$PHYSICAL_SKILLS_MASTER"
+msgstr "달인 신체 스킬"
+
+msgid "$Pickpocket"
+msgstr "소매치기"
+
+msgid "$PICKPOCKET_EMPTYITEMMESSAGE"
+msgstr "훔칠 물건이 없음"
+
+msgid "$PIPBOY"
+msgstr "핍보이"
+
+msgid "$Pipboy"
+msgstr "핍보이"
+
+msgid "$PipboyColorB"
+msgstr "핍보이 청색"
+
+msgid "$PipboyColorG"
+msgstr "핍보이 녹색"
+
+msgid "$PipboyColorR"
+msgstr "핍보이 적색"
+
+msgid "$PipboyConditionCategory"
+msgstr "상태"
+
+msgid "$PipboyPerksCategory"
+msgstr "특성"
+
+msgid "$PipboySPECIALCategory"
+msgstr "SPECIAL"
+
+msgid "$PLACE"
+msgstr "PLACE"
+
+msgid "$Place"
+msgstr "Place"
+
+msgid "$PlaceMarker"
+msgstr "마커 찍기"
+
+msgid "$PLACEMARKER"
+msgstr "마커 찍기"
+
+msgid "$PLACE_BEACON"
+msgstr "신호기 설치"
+
+msgid "$PLANET"
+msgstr "행성"
+
+msgid "$Planet"
+msgstr "행성"
+
+msgid "$PlanetNotLandable"
+msgstr "착륙할 수 없는 곳입니다."
+
+msgid "$PLANETS"
+msgstr "행성"
+
+msgid "$PLANETS WITH LIFE"
+msgstr "PLANETS WITH LIFE"
+
+msgid "$PLAY"
+msgstr "PLAY"
+
+msgid "$Player"
+msgstr "플레이어"
+
+msgid "$PLAYER SHIP"
+msgstr "플레이어 함선"
+
+msgid "$Player Voice"
+msgstr "플레이어 음성"
+
+msgid "$PlayerSetMarkerName"
+msgstr "사용자 지정 위치"
+
+msgid "$PlayerSetMarkerReplaceRemove"
+msgstr "사용자 지정 위치를 제거하거나 교체하시겠습니까?"
+
+msgid "$PLOT"
+msgstr "목적지 추가"
+
+msgid "$PLOT AND TRANSFER"
+msgstr "TRANSFER FROM OUTPOST"
+
+msgid "$PLOT COURSE"
+msgstr "항로 설정"
+
+msgid "$PLOT HOLD ADD"
+msgstr "길게 눌러 궤도 추가"
+
+msgid "$PLOT HOLD REMOVE"
+msgstr "길게 눌러 궤도 삭제"
+
+msgid "$PLOT LANDINGMARKER"
+msgstr "착륙 목적지 설정"
+
+msgid "$PLOT ORBIT"
+msgstr "궤도 추가"
+
+msgid "$PLOT TRANSFER HOLD"
+msgstr "HOLD TO PLOT AND TRANSFER"
+
+msgid "$POCKS"
+msgstr "POCKMARKS"
+
+msgid "$POINT AVAILABLE"
+msgstr "포인트 이용 가능"
+
+msgid "$POINTS AVAILABLE"
+msgstr "포인트 이용 가능"
+
+msgid "$Pose"
+msgstr "포즈"
+
+msgid "$Pose Category"
+msgstr "포즈 범주"
+
+msgid "$POSITION"
+msgstr "POSITION"
+
+msgid "$Power"
+msgstr "파워"
+
+msgid "$POWER"
+msgstr "파워"
+
+msgid "$POWER NAMES"
+msgstr "파워 이름 켜기/끄기"
+
+msgid "$Power up GRav Drive"
+msgstr "중력 구동기에 동력 공급 필요"
+
+msgid "$Power:"
+msgstr "동력:"
+
+msgid "$PowerArmorMarkerName"
+msgstr "파워 아머"
+
+msgid "$PowerLink"
+msgstr "동력 연결"
+
+msgid "$POWERS"
+msgstr "능력"
+
+msgid "$POWERS_ACTIVATEESSENCE"
+msgstr "양자 정수 사용하기"
+
+msgid "$Powers_EssenceTooltip"
+msgstr ""
+"Quantum Essences grant invulnerability but wipe all Normal Skill Challenge "
+"Progress"
+
+msgid "$POWERS_HOVER"
+msgstr "(활성함)"
+
+msgid "$POWERS_UNDISCOVERED"
+msgstr "미발견 사원 {0} 개"
+
+msgid "$PrecogResponse_Empty"
+msgstr "(Future unclear...)"
+
+msgid "$PREPARE"
+msgstr "준비"
+
+msgid "$Present"
+msgstr "Present"
+
+msgid "$PRESENTS"
+msgstr "PRESENTS"
+
+msgid "$PRESETS"
+msgstr "PRESETS"
+
+msgid "$Press any button to start"
+msgstr "아무 버튼이나 눌러 시작"
+
+msgid "$PREV"
+msgstr "PREV"
+
+msgid "$PREV PERK"
+msgstr "이전 랭크"
+
+msgid "$PREVCATEGORY"
+msgstr "이전 범주"
+
+msgid "$PREVIOUS_KEY"
+msgstr "PREVIOUS KEY"
+
+msgid "$PREVVARIANT"
+msgstr "이전 변형"
+
+msgid "$PrimaryAttack"
+msgstr "공격"
+
+msgid "$PRODUCES"
+msgstr "생산물"
+
+msgid "$Produces:"
+msgstr "생산물:"
+
+msgid "$PRODUCES:"
+msgstr "생산물:"
+
+msgid "$PRODUCTION"
+msgstr "생산"
+
+msgid "$Progress"
+msgstr "진행도"
+
+msgid "$ProjectName"
+msgstr "프로젝트명"
+
+msgid "$PRONOUN"
+msgstr "지칭법"
+
+msgid "$PURCHASE SHIP"
+msgstr "함선 구매"
+
+msgid "$PURCHASE SHIP CANNOT PILOT PROMPT"
+msgstr "조종술 스킬이 낮아 이 함급의 함선을 조종할 수 없습니다. 그래도 {1} 크레딧에 함선을 구매하시겠습니까?"
+
+msgid "$PURCHASE SHIP PROMPT"
+msgstr "{1} 크레딧에 함선을 구매하시겠습니까?"
+
+msgid "$QUANTITY"
+msgstr "수량"
+
+msgid "$Quantity:"
+msgstr "수량:"
+
+msgid "$QuantityWarning_BadTransaction"
+msgstr "경고: 아이템의 가치보다 적은 크레딧을 받게 됩니다"
+
+msgid "$Quantity_BarterBuy"
+msgstr "살 수량 선택"
+
+msgid "$Quantity_BarterSell"
+msgstr "팔 수량 선택"
+
+msgid "$Quantity_ContainerTransfer"
+msgstr "수량 선택하기"
+
+msgid "$Quantity_InventoryDrop"
+msgstr "바닥에 버릴 수량 선택"
+
+msgid "$QUEST"
+msgstr "임무"
+
+msgid "$Quest"
+msgstr "임무"
+
+msgid "$QUESTS"
+msgstr "임무"
+
+msgid "$Queued..."
+msgstr "Queued..."
+
+msgid "$Quick Inventory"
+msgstr "빠른 인벤토리"
+
+msgid "$Quick Magic"
+msgstr "Quick Magic"
+
+msgid "$Quick Map"
+msgstr "Quick Map"
+
+msgid "$Quick Stats"
+msgstr "Quick Stats"
+
+msgid "$QuickContainer"
+msgstr "빠른 보관함"
+
+msgid "$QuickContainerTransfer"
+msgstr "물건 이동"
+
+msgid "$QuickContainer_Down"
+msgstr "아래"
+
+msgid "$QuickContainer_Left"
+msgstr "왼쪽"
+
+msgid "$QuickContainer_Right"
+msgstr "오른쪽"
+
+msgid "$QuickContainer_Up"
+msgstr "위"
+
+msgid "$QuickData"
+msgstr "Quick Data"
+
+msgid "$QuickHeal"
+msgstr "Quick Heal"
+
+msgid "$QuickInventory"
+msgstr "Quick Inventory"
+
+msgid "$Quickkeys"
+msgstr "즐겨찾기"
+
+msgid "$Quickload"
+msgstr "Quickload"
+
+msgid "$QuickMap"
+msgstr "Quick Map"
+
+msgid "$QuickMission"
+msgstr "Quick Mission"
+
+msgid "$QuickRadio"
+msgstr "Quick Radio"
+
+msgid "$QUICKSAVE"
+msgstr "빠른 저장"
+
+msgid "$Quicksave"
+msgstr "빠른 저장"
+
+msgid "$Quicksaving..."
+msgstr "빠른 저장 중..."
+
+msgid "$QuicksavingMsg"
+msgstr "빠른 저장 중..."
+
+msgid "$QuickShip"
+msgstr "Quick Ship"
+
+msgid "$QuickStats"
+msgstr "Quick Stats"
+
+msgid "$Quit"
+msgstr "끝내기"
+
+msgid "$QUIT"
+msgstr "끝내기"
+
+msgid "$QuitToDesktop"
+msgstr "바탕화면으로 나가시겠습니까?"
+
+msgid "$QuitToMainMenu"
+msgstr "저장하고 메인 메뉴로 나갈까요?"
+
+msgid "$RAD RESISTANCE"
+msgstr "RAD RESISTANCE"
+
+msgid "$Radaway"
+msgstr "RADAWAY"
+
+msgid "$Radio"
+msgstr "Radio"
+
+msgid "$RADIO"
+msgstr "RADIO"
+
+msgid "$RadioOff"
+msgstr "TURN OFF RADIO"
+
+msgid "$RADIUS"
+msgstr "반경"
+
+msgid "$RADS"
+msgstr "RADS"
+
+msgid "$RAISE"
+msgstr "RAISE"
+
+msgid "$RANDOM"
+msgstr "RANDOM"
+
+msgid "$Randomize"
+msgstr "Randomize"
+
+msgid "$RANGE"
+msgstr "사거리"
+
+msgid "$Range"
+msgstr "사거리"
+
+msgid "$RANGE_LRG"
+msgstr "사거리"
+
+msgid "$RANK"
+msgstr "랭크"
+
+msgid "$Rank {0}"
+msgstr "랭크 {0}"
+
+msgid "$Rank {0} Available"
+msgstr "랭크 {0} 상승 가능"
+
+msgid "$Rank:"
+msgstr "랭크:"
+
+msgid "$RANK_AVAILABLE"
+msgstr "랭크 상승 가능"
+
+msgid "$RANK_UP"
+msgstr "랭크 올리기"
+
+msgid "$Rare"
+msgstr "'레어'"
+
+msgid "$Rate"
+msgstr "Rate"
+
+msgid "$RATE_OF_FIRE"
+msgstr "연사력"
+
+msgid "$RATING"
+msgstr "RATING"
+
+msgid "$REACTOR"
+msgstr "반응로"
+
+msgid "$Reactor power"
+msgstr "반응로 동력"
+
+msgid "$REACTOR POWER"
+msgstr "반응로 동력"
+
+msgid "$READ"
+msgstr "읽기"
+
+msgid "$ReadyWeapon"
+msgstr "준비/재장전"
+
+msgid "$RECENT"
+msgstr "최근 사용"
+
+msgid "$RECENTER CAMERA"
+msgstr "카메라 초기화"
+
+msgid "$RECIPES"
+msgstr "제조법"
+
+msgid "$RECLAIM"
+msgstr "복구"
+
+msgid "$RECORD_LOCATOR"
+msgstr "기록 검색기"
+
+msgid "$REDO"
+msgstr "다시하기"
+
+msgid "$REFINE"
+msgstr "자세히"
+
+msgid "$REFINE SETTING"
+msgstr "설정 조정"
+
+msgid "$Refuel"
+msgstr "REFUEL"
+
+msgid "$Refuel Hold"
+msgstr "HOLD TO REFUEL"
+
+msgid "$Refuel Ship"
+msgstr "REFUEL SHIP"
+
+msgid "$Refuels"
+msgstr "REFUELS"
+
+msgid "$REGISTERED"
+msgstr "등록됨"
+
+msgid "$REGISTER_CONFIRM"
+msgstr "{1} 크레딧을 내고 함선을 등록하시겠습니까?"
+
+msgid "$REGISTER_SHIP"
+msgstr "등록"
+
+msgid "$REGISTRATION FORM"
+msgstr "등록 양식"
+
+msgid "$REJECT"
+msgstr "포기"
+
+msgid "$ReloadWeapon"
+msgstr "무기 재장전"
+
+msgid "$REMAINING PROGRESS"
+msgstr "남은 진행 상황"
+
+msgid "$Remap_BindingConflictsWarning"
+msgstr "키 지정 충돌이 있습니다. 무시하고 종료하시겠습니까?"
+
+msgid "$Remap_BindingRequiredHint"
+msgstr "별표 ( * ) 표시된 기능에는 반드시 단축키를 지정해야 합니다."
+
+msgid "$Remap_ButtonNotAllowedForEvent"
+msgstr "This key is not allowed for this mapping."
+
+msgid "$Remap_ButtonReservedError"
+msgstr "해당 버튼은 제한되어 있습니다."
+
+msgid "$Remap_ChordedButtonContextError"
+msgstr "Chorded buttons are not allowed for this context."
+
+msgid "$Remap_ChordedButtonDeviceError"
+msgstr "Chorded buttons are not allowed for this device."
+
+msgid "$Remap_InvalidDeviceError"
+msgstr "Remap interrupted by invalid device state or device mismatch."
+
+msgid "$Remap_MainBindingOverrideWarning"
+msgstr "버튼이 다른 항목에 지정되어 있습니다. 다시 키를 지정하시겠습니까?"
+
+msgid "$Remap_MissingBindingsError"
+msgstr "필수 기능에 키가 지정되지 않았습니다."
+
+msgid "$Remap_Prompt"
+msgstr "버튼을 눌러 해당 기능에 단축키를 지정하세요."
+
+msgid "$REMOVE"
+msgstr "제거"
+
+msgid "$REMOVE LINK"
+msgstr "연결망 제거"
+
+msgid "$REMOVE PLOT"
+msgstr "목적지 제거"
+
+msgid "$REMOVE PLOT ORBIT"
+msgstr "궤도 제거"
+
+msgid "$RemoveMarker"
+msgstr "표시 제거"
+
+msgid "$RemoveMoonDestination"
+msgstr "이미 목적지로 설정한 위성입니다. 제거할까요?"
+
+msgid "$RemoveOutpost"
+msgstr "기지 제거"
+
+msgid "$RemovePlanetDestination"
+msgstr "이미 목적지로 설정한 행성 또는 위성입니다. 제거할까요?"
+
+msgid "$RemoveShipPrompt"
+msgstr "Are you sure you want to remove this ship from your ownership?"
+
+msgid "$REMOVE_ALL"
+msgstr "모두 제거"
+
+msgid "$REMOVE_ALL_HOLD"
+msgstr "길게 눌러 모두 제거"
+
+msgid "$REMOVE_LAST"
+msgstr "REMOVE LAST"
+
+msgid "$RENAME"
+msgstr "이름 변경"
+
+msgid "$RENAME SHIP"
+msgstr "함선 이름 변경"
+
+msgid "$Repair"
+msgstr "수리"
+
+msgid "$REPAIR"
+msgstr "수리"
+
+msgid "$REPAIR HULL"
+msgstr "선체 수리"
+
+msgid "$REPAIR MODULES"
+msgstr "모듈 수리"
+
+msgid "$REPAIR WITH"
+msgstr "REPAIR WITH"
+
+msgid "$RepairConfirm"
+msgstr "Repair part using:"
+
+msgid "$REPLACE"
+msgstr "교체"
+
+msgid "$Report"
+msgstr "신고"
+
+msgid "$Reported"
+msgstr "신고됨"
+
+msgid "$Reporting..."
+msgstr "신고 중..."
+
+msgid "$ReportModCat_Explicit"
+msgstr "유해한 내용"
+
+msgid "$ReportModCat_General"
+msgstr "기타"
+
+msgid "$ReportModCat_Harassment"
+msgstr "괴롭힘"
+
+msgid "$ReportModCat_Impersonation"
+msgstr "사칭"
+
+msgid "$ReportModCat_PrivateInfo"
+msgstr "개인정보 사용"
+
+msgid "$ReportModCat_Profanity"
+msgstr "욕설"
+
+msgid "$ReportModCat_Racial"
+msgstr "인종차별"
+
+msgid "$ReportModCat_Religious"
+msgstr "종교차별"
+
+msgid "$ReportModCat_Slander"
+msgstr "명예훼손적인 발언"
+
+msgid "$ReportModCat_Spam"
+msgstr "스팸"
+
+msgid "$ReportMod_ChooseCategory"
+msgstr "어떤 이용 약관 위반으로 이 모드를 신고하시겠습니까?"
+
+msgid "$ReportMod_Confirm"
+msgstr "행위 준칙/이용 약관 위반과 관련해 노골적인 내용, 일반적인 학대 또는 폭력을 묘사한 모드를 신고하시겠습니까?"
+
+msgid "$Req:"
+msgstr "필요: 랭크"
+
+msgid "$REQUIRED ATTRIBUTES:"
+msgstr "필요 특성:"
+
+msgid "$REQUIRED SKILLS:"
+msgstr "필요 스킬:"
+
+msgid "$REQUIRED:"
+msgstr "필요:"
+
+msgid "$RequiredMaterials"
+msgstr "필요 재료"
+
+msgid "$RequiredResearch"
+msgstr "필요 연구"
+
+msgid "$RequiredSkills"
+msgstr "필요 스킬"
+
+msgid "$REQUIREMENTS"
+msgstr "필요 사항"
+
+msgid "$REQUIREMENTS:"
+msgstr "필요 사항:"
+
+msgid "$REQUIRES"
+msgstr "필요"
+
+msgid "$REQUIRES:"
+msgstr "필요:"
+
+msgid "$Requires_Scanning"
+msgstr "스캔 필요"
+
+msgid "$Research_AllMaterialsWillBeConsumed"
+msgstr "연구를 위해 투입한 재료가 모두 소비될 것입니다."
+
+msgid "$Research_AllResearchComplete"
+msgstr "모든 연구 완료"
+
+msgid "$RESEARCH_FILTER_CAN_COMPLETE"
+msgstr "필터 (모든 재료 있음)"
+
+msgid "$RESEARCH_FILTER_CAN_CONTRIBUTE"
+msgstr "필터 (사용 가능한 재료 있음)"
+
+msgid "$RESEARCH_FILTER_CAN_PROGRESS"
+msgstr "필터 (잠금 해제된 프로젝트)"
+
+msgid "$RESEARCH_FILTER_COMPLETED_ONLY"
+msgstr "필터 (완료됨)"
+
+msgid "$RESEARCH_FILTER_HIDE_COMPLETED"
+msgstr "필터 (완료됨 숨김)"
+
+msgid "$RESEARCH_FILTER_NONE"
+msgstr "필터 (없음)"
+
+msgid "$Research_InProgress"
+msgstr "진행 중인 프로젝트"
+
+msgid "$Research_Materials"
+msgstr "연구 재료"
+
+msgid "$Research_NewProjectUnlocked"
+msgstr "새로운 프로젝트가 열렸습니다!"
+
+msgid "$Research_NoneInProgress"
+msgstr "진행 중인 연구 없음"
+
+msgid "$Research_OverflowDetails"
+msgstr "연구 진행 상황 중에 발생한 재료 초과분은 프로젝트의 다른 항목에 분배됩니다."
+
+msgid "$Research_ProjectComplete"
+msgstr "프로젝트 완료"
+
+msgid "$Research_ProjectCompleted"
+msgstr "연구 프로젝트 {0} 완료됨"
+
+msgid "$Research_Projects"
+msgstr "연구 프로젝트"
+
+msgid "$RESEARCH_SORT_DEFAULT"
+msgstr "정렬 (기본)"
+
+msgid "$RESEARCH_SORT_INPUT_AMOUNT"
+msgstr "정렬 (투입 수량순)"
+
+msgid "$RESEARCH_SORT_NAME"
+msgstr "정렬 (이름순)"
+
+msgid "$RESEARCH_SORT_STATE"
+msgstr "정렬 (진행도순)"
+
+msgid "$Research_Tree"
+msgstr "연구 트리"
+
+msgid "$Reset"
+msgstr "초기화"
+
+msgid "$RESET"
+msgstr "초기화"
+
+msgid "$RESET CAMERA"
+msgstr "카메라 초기화"
+
+msgid "$RESET CATEGORY"
+msgstr "범주 초기화"
+
+msgid "$RESET SETTINGS"
+msgstr "설정 리셋"
+
+msgid "$Reset settings to default values?"
+msgstr "설정을 기본값으로 되돌릴까요?"
+
+msgid "$RESETTRADE"
+msgstr "거래 초기화"
+
+msgid "$Resistance"
+msgstr "Resistance"
+
+msgid "$RESOURCES"
+msgstr "자원"
+
+msgid "$RESPOND"
+msgstr "응답"
+
+msgid "$ResultsFor"
+msgstr "결과"
+
+msgid "$RESUME"
+msgstr "이어하기"
+
+msgid "$RETURN"
+msgstr "돌아가기"
+
+msgid "$RETURN TO BUILDER"
+msgstr "제작기로 돌아가기"
+
+msgid "$RETURN TO CONTROLS"
+msgstr "키 지정으로 돌아가기"
+
+msgid "$Return to Seat"
+msgstr "조종실로 돌아가기"
+
+msgid "$RETURNTOGAME"
+msgstr "게임으로"
+
+msgid "$REV"
+msgstr "후진"
+
+msgid "$REVERT"
+msgstr "REVERT"
+
+msgid "$Reward"
+msgstr "보상"
+
+msgid "$REWARD TITLE"
+msgstr "보상"
+
+msgid "$Rewards"
+msgstr "보상"
+
+msgid "$REWARDS"
+msgstr "보상"
+
+msgid "$Right Cheek"
+msgstr "오른쪽 볼(오른쪽)"
+
+msgid "$Right Cheek Raise"
+msgstr "뺨을 올리기(오른쪽)"
+
+msgid "$Right Eye"
+msgstr "눈(오른쪽)"
+
+msgid "$Right Inner Eyebrow"
+msgstr "눈썹 안쪽(오른쪽)"
+
+msgid "$Right Lip Corner"
+msgstr "입꼬리(오른쪽)"
+
+msgid "$Right Lip In"
+msgstr "입꼬리(오른쪽)"
+
+msgid "$Right Outer Eyebrow"
+msgstr "눈썹 바깥쪽(오른쪽)"
+
+msgid "$rng"
+msgstr "사거리"
+
+msgid "$ROF"
+msgstr "연사력"
+
+msgid "$ROF_LRG"
+msgstr "연사"
+
+msgid "$ROTATE"
+msgstr "회전"
+
+msgid "$ROTATE_DIGIPICK"
+msgstr "회전"
+
+msgid "$ROUND"
+msgstr "둥긂"
+
+msgid "$ROUNDS"
+msgstr "실탄 소지량"
+
+msgid "$ROUNDS_LRG"
+msgstr "탄량"
+
+msgid "$Run"
+msgstr "Run"
+
+msgid "$RyujinIndustries"
+msgstr "류진 인더스트리"
+
+msgid "$SAFETY"
+msgstr "방어"
+
+msgid "$Sanctuary"
+msgstr "생추어리"
+
+msgid "$SANCTUARY"
+msgstr "WORKSHOPS"
+
+msgid "$Satellite"
+msgstr "위성"
+
+msgid "$SATURATION"
+msgstr "채도"
+
+msgid "$Saturation"
+msgstr "채도"
+
+msgid "$SAVE"
+msgstr "저장"
+
+msgid "$SAVE AND EXIT"
+msgstr "저장하고 나가기"
+
+msgid "$SAVE CORRUPT"
+msgstr "SAVE CORRUPT"
+
+msgid "$Save in Pipboy"
+msgstr "Save in Pip-Boy"
+
+msgid "$SAVE OBSOLETE"
+msgstr "SAVE OBSOLETE"
+
+msgid "$Save on Pause"
+msgstr "일시정지 시 저장"
+
+msgid "$Save on Pause Desc"
+msgstr "일정 시간이 지난 후 게임을 일시정지 할 때 자동저장을 활성화합니다."
+
+msgid "$Save on Rest"
+msgstr "휴식 시 저장"
+
+msgid "$Save on Rest Desc"
+msgstr "잠을 잘 때 자동저장을 활성화합니다."
+
+msgid "$Save on Travel"
+msgstr "여행 시 저장"
+
+msgid "$Save on Travel Desc"
+msgstr "빠른 여행 시 자동저장을 활성화합니다."
+
+msgid "$Save on Wait"
+msgstr "대기 시 저장"
+
+msgid "$Save on Wait Desc"
+msgstr "대기 시 자동저장을 활성화합니다."
+
+msgid "$Save over this game?"
+msgstr "Save over this game?"
+
+msgid "$SaveGameDeviceError"
+msgstr "There was an error accessing the device.  Please try again."
+
+msgid "$SaveGameError_MissingFile"
+msgstr "The savegame cannot be loaded because it is missing."
+
+msgid "$SaveGameError_MissingFileHeader"
+msgstr "Missing File"
+
+msgid "$SaveGameFailed"
+msgstr "Failed to create save game."
+
+msgid "$SaveGameFailedOutOfDiskSpace"
+msgstr ""
+"Failed to create save game.  You are low on space to save your progress. "
+"Please delete some of your existing saved content."
+
+msgid "$SaveGameOutOfDiskSpace"
+msgstr ""
+"Caution!  You are low on space to save your progress. Please delete some of "
+"your existing saved content."
+
+msgid "$SaveUploaded"
+msgstr "세이브 업로드됨"
+
+msgid "$SaveUploadNotAllowed"
+msgstr "세이브 업로드 허용되지 않음"
+
+msgid "$Saving..."
+msgstr "저장 중..."
+
+msgid "$SB_ALL_SYSTEMS_NOMINAL"
+msgstr "모든 시스템 정상"
+
+msgid "$SB_ERRORBODY_COST"
+msgstr "함선 가격이 보유 크레딧을 초과합니다."
+
+msgid "$SB_ERRORBODY_COUNT"
+msgstr "함선에 모듈이 너무 많습니다."
+
+msgid "$SB_ERRORBODY_DOCKER_CANNOT_REACH_COCKPIT"
+msgstr "도킹 장치는 조종실과 내부적으로 연결되어야 합니다."
+
+msgid "$SB_ERRORBODY_DOCKER_INVALID_POSITION"
+msgstr "도킹 장치는 다른 모듈보다 함선 가장 바깥쪽에 부착되어야 합니다."
+
+msgid "$SB_ERRORBODY_DUPLICATION_EXCEEDED"
+msgstr "복제하려고 선택한 모듈이 너무 많습니다. 모듈을 선택 해제하고 다시 시도하세요."
+
+msgid "$SB_ERRORBODY_LANDINGBAY_CANNOT_REACH_COCKPIT"
+msgstr "착륙 출입구와 조종실은 모듈 등으로 연결되어야 합니다."
+
+msgid "$SB_ERRORBODY_LANDINGENGINE_NOT_ALIGNED_WITH_LANDINGBAY"
+msgstr "착륙 장치와 착륙 출입구는 지면과 맞닿는 동등한 높이에 위치해야 합니다."
+
+msgid "$SB_ERRORBODY_LIMIT_EXCEEDED"
+msgstr "이 작업을 수행하면 모듈 한도를 초과하게 됩니다. 이 모듈을 추가하려면 다른 모듈을 제거하세요."
+
+msgid "$SB_ERRORBODY_MODULE_BELOW_LANDINGBAY"
+msgstr "다른 모든 모듈이 착륙 출입구보다 위에 위치해야 합니다."
+
+msgid "$SB_ERRORBODY_NOT_ATTACHED"
+msgstr "함선에 부착되지 않은 모듈이 있습니다."
+
+msgid "$SB_ERRORBODY_REACTOR_CLASS"
+msgstr "함선에 반응로 등급을 초과하는 모듈이 포함되어 있습니다."
+
+msgid "$SB_ERRORBODY_SHIP_TOO_HEAVY_TO_GRAVJUMP"
+msgstr "함선이 너무 무거워 중력 도약을 할 수 없습니다. 질량을 줄이거나 중력 도약 추력을 높이세요."
+
+msgid "$SB_ERRORBODY_SIZE"
+msgstr "함선이 제한 길이 또는 너비 또는 높이를 초과합니다."
+
+msgid "$SB_ERRORHEADER_COST"
+msgstr "함선 비용"
+
+msgid "$SB_ERRORHEADER_COUNT"
+msgstr "함선 모듈 개수"
+
+msgid "$SB_ERRORHEADER_DOCKER_CANNOT_REACH_COCKPIT"
+msgstr "도킹 장치가 조종실에 연결되지 않음"
+
+msgid "$SB_ERRORHEADER_DOCKER_INVALID_POSITION"
+msgstr "도킹 장치 위치가 올바르지 않음"
+
+msgid "$SB_ERRORHEADER_LANDINGBAY_CANNOT_REACH_COCKPIT"
+msgstr "착륙 출입구와 조종실이 연결되지 않음"
+
+msgid "$SB_ERRORHEADER_LANDINGENGINE_NOT_ALIGNED_WITH_LANDINGBAY"
+msgstr "착륙 장치 위치 잘못됨"
+
+msgid "$SB_ERRORHEADER_MODULE_BELOW_LANDINGBAY"
+msgstr "착륙 출입구 밑에 모듈이 있음"
+
+msgid "$SB_ERRORHEADER_NOT_ATTACHED"
+msgstr "부착되지 않은 모듈"
+
+msgid "$SB_ERRORHEADER_REACTOR_CLASS"
+msgstr "함선 반응로 등급"
+
+msgid "$SB_ERRORHEADER_SHIP_TOO_HEAVY_TO_GRAVJUMP"
+msgstr "더 많은 중력 도약 추력 필요"
+
+msgid "$SB_ERRORHEADER_SIZE"
+msgstr "함선 크기 초과"
+
+msgid "$SB_LIMITBODY_EXCESS_POWER_ENGINE"
+msgstr "함선이 엔진에 동력을 너무 많이 씁니다. 엔진 수를 줄이세요."
+
+msgid "$SB_LIMITBODY_EXCESS_POWER_WEAPON"
+msgstr "함선이 무기에 동력을 너무 많이 씁니다. 무기 수를 줄이세요."
+
+msgid "$SB_LIMITBODY_MAX_COCKPIT"
+msgstr "조종실은 하나만 부착할 수 있습니다."
+
+msgid "$SB_LIMITBODY_MAX_DOCKER"
+msgstr "도킹 장치는 하나만 부착할 수 있습니다."
+
+msgid "$SB_LIMITBODY_MAX_GRAV_DRIVE"
+msgstr "중력 구동기는 하나만 부착할 수 있습니다."
+
+msgid "$SB_LIMITBODY_MAX_LANDING_BAY"
+msgstr "착륙 출입구는 하나만 부착할 수 있습니다."
+
+msgid "$SB_LIMITBODY_MAX_REACTOR"
+msgstr "반응로는 하나만 부착할 수 있습니다."
+
+msgid "$SB_LIMITBODY_MAX_SHIELD"
+msgstr "보호막 모듈은 하나만 부착할 수 있습니다."
+
+msgid "$SB_LIMITBODY_MAX_WEAPONS"
+msgstr "함선에 무기가 너무 많습니다."
+
+msgid "$SB_LIMITBODY_MAX_WEAPONS_TYPES"
+msgstr "함선에 세 종류를 초과하는 무기가 부착되었습니다."
+
+msgid "$SB_LIMITBODY_MIN_ENGINE"
+msgstr "함선에 엔진이 너무 적습니다."
+
+msgid "$SB_LIMITBODY_MIN_FUEL_TANK"
+msgstr "함선에 연료 탱크가 하나 이상 있어야 합니다."
+
+msgid "$SB_LIMITBODY_MIN_LANDING_GEAR"
+msgstr "함선에 착륙 장치가 부족합니다."
+
+msgid "$SB_LIMITBODY_MISSING_COCKPIT"
+msgstr "함선에 조종실이 없습니다."
+
+msgid "$SB_LIMITBODY_MISSING_DOCKER"
+msgstr "함선에 도킹 장치가 없습니다."
+
+msgid "$SB_LIMITBODY_MISSING_GRAV_DRIVE"
+msgstr "함선에 중력 구동기가 없습니다."
+
+msgid "$SB_LIMITBODY_MISSING_LANDING_BAY"
+msgstr "함선에 착륙 출입구가 없습니다."
+
+msgid "$SB_LIMITBODY_MISSING_REACTOR"
+msgstr "함선에 반응로가 없습니다."
+
+msgid "$SB_LIMITBODY_MISSING_SHIELD"
+msgstr "함선에 보호막이 없습니다."
+
+msgid "$SB_LIMITBODY_NOT_ENOUGH_TURN_POWER"
+msgstr "기동성을 높이려면 질량을 줄이거나 엔진을 추가하세요."
+
+msgid "$SB_LIMITHEADER_EXCESS_POWER_ENGINE"
+msgstr "Excess Engine Power Usage"
+
+msgid "$SB_LIMITHEADER_EXCESS_POWER_WEAPON"
+msgstr "Excess Weapon Power Usage"
+
+msgid "$SB_LIMITHEADER_MAX_COCKPIT"
+msgstr "조종실 중복됨"
+
+msgid "$SB_LIMITHEADER_MAX_DOCKER"
+msgstr "도킹 장치 중복됨"
+
+msgid "$SB_LIMITHEADER_MAX_GRAV_DRIVE"
+msgstr "중력 구동기 중복됨"
+
+msgid "$SB_LIMITHEADER_MAX_LANDING_BAY"
+msgstr "착륙 출입구 중복됨"
+
+msgid "$SB_LIMITHEADER_MAX_REACTOR"
+msgstr "반응로 중복됨"
+
+msgid "$SB_LIMITHEADER_MAX_SHIELD"
+msgstr "보호막 중복됨"
+
+msgid "$SB_LIMITHEADER_MAX_WEAPONS"
+msgstr "최대 무기 개수"
+
+msgid "$SB_LIMITHEADER_MIN_ENGINE"
+msgstr "최소 엔진 개수"
+
+msgid "$SB_LIMITHEADER_MIN_FUEL_TANK"
+msgstr "최소 연로 탱크 개수"
+
+msgid "$SB_LIMITHEADER_MIN_LANDING_GEAR"
+msgstr "최소 착륙 장치 개수"
+
+msgid "$SB_LIMITHEADER_MISSING_COCKPIT"
+msgstr "조종실 없음"
+
+msgid "$SB_LIMITHEADER_MISSING_DOCKER"
+msgstr "도킹 장치 없음"
+
+msgid "$SB_LIMITHEADER_MISSING_GRAV_DRIVE"
+msgstr "중력 구동기 없음"
+
+msgid "$SB_LIMITHEADER_MISSING_LANDING_BAY"
+msgstr "착륙 출입구 없음"
+
+msgid "$SB_LIMITHEADER_MISSING_REACTOR"
+msgstr "반응로 없음"
+
+msgid "$SB_LIMITHEADER_MISSING_SHIELD"
+msgstr "보호막 없음"
+
+msgid "$SB_LIMITHEADER_NOT_ENOUGH_TURN_POWER"
+msgstr "기동성 낮음"
+
+msgid "$SB_WEAPONBODY_MISSING_ASSIGNMENT"
+msgstr "함선에 무장을 할당하지 않았습니다."
+
+msgid "$SB_WEAPONBODY_WEAPONS_MUST_BE_DIFFERENT"
+msgstr "함선에 할당된 무장 동력 그룹이 3 그룹 미만입니다."
+
+msgid "$SB_WEAPONBODY_WEAPONS_UNASSIGNED"
+msgstr "함선 무장은 반드시 무장 동력 그룹을 할당해야 합니다."
+
+msgid "$SB_WEAPONHEADER_MISSING_ASSIGNMENT"
+msgstr "무장 할당되지 않음"
+
+msgid "$SB_WEAPONHEADER_WEAPONS_MUST_BE_DIFFERENT"
+msgstr "무장 종류"
+
+msgid "$SB_WEAPONHEADER_WEAPONS_UNASSIGNED"
+msgstr "미할당된 무장"
+
+msgid "$SCALE"
+msgstr "SCALE"
+
+msgid "$SCAN"
+msgstr "스캔"
+
+msgid "$SCAN ARCHIVE"
+msgstr "스캔 기록보관소"
+
+msgid "$SCAN COMPLETE"
+msgstr "100% 스캔 완료"
+
+msgid "$SCAN COMPLETE CONTRABAND"
+msgstr "스캔 완료"
+
+msgid "$SCAN DATA TYPE"
+msgstr "스캔 데이터 유형"
+
+msgid "$SCAN EVADED"
+msgstr "스캔 회피 성공"
+
+msgid "$SCAN IN PROGRESS"
+msgstr "스캔 중"
+
+msgid "$SCAN PASSED"
+msgstr "스캔 통과"
+
+msgid "$SCAN UNAVAILABLE"
+msgstr "스캔 불가"
+
+msgid "$ScanMapMarker_Unscanned"
+msgstr "알 수 없음"
+
+msgid "$SCANNED"
+msgstr "스캔함"
+
+msgid "$scanned"
+msgstr "스캔함"
+
+msgid "$SCANNING LANDED MUST ORBIT"
+msgstr "GO TO ORBIT TO SCAN"
+
+msgid "$SCANNING OUT OF RANGE"
+msgstr "SHIP NOT IN RANGE TO SCAN"
+
+msgid "$sCantSaveNow"
+msgstr "지금은 저장할 수 없습니다."
+
+msgid "$SCAN_RANGE:"
+msgstr "스캔 범위:"
+
+msgid "$SCAR"
+msgstr "SCAR"
+
+msgid "$SCARS"
+msgstr "흉터"
+
+msgid "$SCIENCE"
+msgstr "과학"
+
+msgid "$Science"
+msgstr "과학"
+
+msgid "$SCIENCE_SKILLS"
+msgstr "과학 스킬"
+
+msgid "$SCIENCE_SKILLS_ADVANCED"
+msgstr "숙련 과학 스킬"
+
+msgid "$SCIENCE_SKILLS_EXPERT"
+msgstr "전문 과학 스킬"
+
+msgid "$SCIENCE_SKILLS_MASTER"
+msgstr "달인 과학 스킬"
+
+msgid "$Scope"
+msgstr "조준경"
+
+msgid "$Scope_Steady"
+msgstr "정조준 숨 참기"
+
+msgid "$SCRAP"
+msgstr "SCRAP"
+
+msgid "$Scrap"
+msgstr "Scrap"
+
+msgid "$SCRAP VALUE"
+msgstr "SCRAP VALUE"
+
+msgid "$SCROLL"
+msgstr "SCROLL"
+
+msgid "$SCULPT"
+msgstr "SCULPT"
+
+msgid "$Search"
+msgstr "검색"
+
+msgid "$Season Pass"
+msgstr "시즌 패스"
+
+msgid "$SECOND"
+msgstr "SECOND"
+
+msgid "$SecondaryAttack"
+msgstr "조준/방어"
+
+msgid "$Security"
+msgstr "보안"
+
+msgid "$SECURITYLEVEL"
+msgstr "보안도"
+
+msgid "$SecurityMenuConfirmEliminateUnusedKeys"
+msgstr "필요 없는 복호화 키를 제거하시겠습니까? 디지픽 1개를 소모합니다."
+
+msgid "$SecurityMenuConfirmExit"
+msgstr "포기합니까? 재시도에는 디지픽이 소모됩니다."
+
+msgid "$Security_CancelPick"
+msgstr "디지픽 취소"
+
+msgid "$Security_EliminateUnusedKeys"
+msgstr "필요 없는 복호화 키 제거"
+
+msgid "$Security_Left"
+msgstr "왼쪽으로 회전"
+
+msgid "$Security_Right"
+msgstr "오른쪽으로 회전"
+
+msgid "$SELECT"
+msgstr "선택"
+
+msgid "$Select"
+msgstr "선택"
+
+msgid "$SELECT A QUICKSLOT"
+msgstr "퀵슬롯 선택"
+
+msgid "$SELECT CHARACTER"
+msgstr "캐릭터 선택"
+
+msgid "$SELECT DESTINATION"
+msgstr "목적지 선택"
+
+msgid "$SELECT MODE"
+msgstr "모드 선택"
+
+msgid "$SELECT PROFILE"
+msgstr "프로필 선택"
+
+msgid "$SELECT SYSTEM"
+msgstr "시스템 선택"
+
+msgid "$SELECT TARGET"
+msgstr "대상 선택"
+
+msgid "$SELECTALL"
+msgstr "전체 선택"
+
+msgid "$SELECTE PROFILE"
+msgstr "프로필 선택"
+
+msgid "$SelectL"
+msgstr "선택"
+
+msgid "$Selfie"
+msgstr "셀프 카메라"
+
+msgid "$SELL"
+msgstr "나의 것 판매"
+
+msgid "$SELL ALL"
+msgstr "모두 판매"
+
+msgid "$SELL FROM SHIP INVENTORY"
+msgstr "함선 적재 물품 판매"
+
+msgid "$SELL SHIP"
+msgstr "함선 판매"
+
+msgid "$SELL SHIPS"
+msgstr "함선 판매"
+
+msgid "$SELLFROM"
+msgstr "함선 적재 물품 판매 -"
+
+msgid "$SET COURSE"
+msgstr "항로 설정"
+
+msgid "$SET COURSE HOLD"
+msgstr "Hold to Set Course"
+
+msgid "$SET MISSION ACTIVE"
+msgstr "임무 활성화하기"
+
+msgid "$SetCourseToBody"
+msgstr "{1} 목적지로 가는 항로를 설정할까요?"
+
+msgid "$SettingDifficultyGuideText"
+msgstr "난이도는 피해량과 전설적인 적을 조우할 확률에 영향을 미칩니다."
+
+msgid "$SETTINGS"
+msgstr "설정"
+
+msgid "$Settings"
+msgstr "설정"
+
+msgid "$Settings_AllLayersUseAnisotropic"
+msgstr "모든 레이어에서 이방성 사용"
+
+msgid "$Settings_AllLayersUseAnisotropic Desc"
+msgstr ""
+"모든 머티리얼 레이어에서 항상 이방성 텍스처 필터링을 사용합니다. 끄면 퍼포먼스가 향상되고, 켜면 특정 머티리얼 레이어의 영상 퀄리티가 "
+"약간 향상됩니다."
+
+msgid "$Settings_AnisotropicFiltering"
+msgstr "이방성 필터링"
+
+msgid "$Settings_AnisotropicFiltering Desc"
+msgstr "이방성 텍스처 필터링의 품질을 설정합니다. 값을 낮추면 성능이 향상되고, 값을 높이면 텍스처의 화질이 개선됩니다."
+
+msgid "$Settings_Brightness"
+msgstr "밝기 조정"
+
+msgid "$Settings_Brightness Desc"
+msgstr "게임의 밝기를 조정합니다."
+
+msgid "$Settings_Brightness Left"
+msgstr "박스 안에 로고가 보이지 않도록 조정하십시오."
+
+msgid "$Settings_Brightness Right"
+msgstr "박스 안에 회색 로고가 보이도록 조정하십시오."
+
+msgid "$SETTINGS_CATEGORY_ACCESSIBILITY"
+msgstr "접근성"
+
+msgid "$SETTINGS_CATEGORY_AUDIO"
+msgstr "오디오"
+
+msgid "$SETTINGS_CATEGORY_CONTROLS"
+msgstr "조작"
+
+msgid "$SETTINGS_CATEGORY_CONTROL_MAPPINGS"
+msgstr "키 지정"
+
+msgid "$SETTINGS_CATEGORY_DISPLAY"
+msgstr "디스플레이"
+
+msgid "$SETTINGS_CATEGORY_GAMEPLAY"
+msgstr "게임플레이"
+
+msgid "$SETTINGS_CATEGORY_INTERFACE"
+msgstr "인터페이스"
+
+msgid "$SETTINGS_CATEGORY_PEO"
+msgstr "게임플레이 옵션"
+
+msgid "$Settings_ContactShadowQuality"
+msgstr "컨택트 섀도우"
+
+msgid "$Settings_ContactShadowQuality Desc"
+msgstr "접촉면 그림자의 품질을 설정합니다."
+
+msgid "$Settings_Contrast"
+msgstr "콘트라스트"
+
+msgid "$Settings_Contrast Desc"
+msgstr "게임의 콘트라스트를 조정합니다."
+
+msgid "$Settings_CrowdQuality"
+msgstr "군중 밀도"
+
+msgid "$Settings_CrowdQuality Desc"
+msgstr "군중의 밀도를 설정합니다."
+
+msgid "$Settings_DisplayResolution"
+msgstr "창 크기"
+
+msgid "$Settings_DisplayResolution Desc"
+msgstr "창 모드에서 게임의 해상도를 설정합니다."
+
+msgid "$Settings_DynamicResolution"
+msgstr "동적 해상도"
+
+msgid "$Settings_DynamicResolution Desc"
+msgstr "활성화하면, 요구사항이 많은 장면에서 프레임을 유지하기 위해 게임의 해상도를 실시간으로 낮춥니다."
+
+msgid "$Settings_FirstPersonFOV"
+msgstr "1인칭 시야각"
+
+msgid "$Settings_FirstPersonFOV Desc"
+msgstr "1인칭 카메라 시야각을 설정합니다. 이를 기본 설정 이상으로 조정하면 성능이나 시각적 문제가 발생할 수 있습니다."
+
+msgid "$Settings_FullScreenMode"
+msgstr "테두리 없는 창 모드"
+
+msgid "$Settings_FullScreenMode Desc"
+msgstr "게임 창의 테두리 유무를 결정합니다."
+
+msgid "$Settings_FrameCap"
+msgstr "프레임 속도 목표치"
+
+msgid "$Settings_FrameCap Desc"
+msgstr "가변 주사율 디스플레이(VRR)가 없는 경우 60FPS 이상을 선택하면 화면이 찢어지는 현상이 발생할 수 있습니다."
+
+msgid "$Settings_FrameCap_On"
+msgstr "30"
+
+msgid "$Settings_FrameCap_40"
+msgstr "40"
+
+msgid "$Settings_FrameCap_60"
+msgstr "60"
+
+msgid "$Settings_FrameCap_Off"
+msgstr "제한 없음"
+
+msgid "$Settings_VisualFidelity"
+msgstr "우선순위"
+
+msgid "$Settings_VisualFidelity Desc"
+msgstr ""
+"프레임 속도 목표치를 유지하기 위한 우선순위 설정\\n\\n 비주얼: 비주얼을 우선시하여 특수 효과, 조명, 군중 디테일을 최대로 "
+"유지하면서 최고 해상도를 유지합니다. 프레임 속도 목표치가 60 이상일 경우 권장하지 않음\\n\\n성능: 성능을 우선시하고 특수 효과,"
+" 조명, 군중의 내부 해상도 및 디테일 재현을 낮춥니다. 프레임 속도 목표치를 60 이상으로 설정할 때 사용합니다."
+
+msgid "$Settings_VisualFidelity_High"
+msgstr "비주얼"
+
+msgid "$Settings_VisualFidelity_Low"
+msgstr "퍼포먼스"
+
+msgid "$Settings_FrameGeneration"
+msgstr "프레임 생성"
+
+msgid "$Settings_FrameGenerationDesc"
+msgstr "DLSS 프레임 생성을 활성화합니다."
+
+msgid "$Settings_GraphicPreset"
+msgstr "그래픽 프리셋"
+
+msgid "$Settings_GraphicPreset Desc"
+msgstr "전반적인 그래픽 품질을 설정합니다."
+
+msgid "$Settings_GrassQuality"
+msgstr "수풀 품질"
+
+msgid "$Settings_GrassQuality Desc"
+msgstr "수풀의 양과 품질을 설정합니다."
+
+msgid "$Settings_GTAOQuality"
+msgstr "GTAO 품질"
+
+msgid "$Settings_GTAOQuality Desc"
+msgstr "앰비언트 오클루전의 품질을 설정합니다."
+
+msgid "$Settings_HDRBrightness"
+msgstr "HDR 밝기 조정"
+
+msgid "$Settings_HDRBrightness Desc"
+msgstr "HDR의 밝기를 조정합니다."
+
+msgid "$Settings_HDRConsole"
+msgstr "HDR 보정"
+
+msgid "$Settings_HDRConsole Desc"
+msgstr "눌러서 HDR 보정을 조정합니다."
+
+msgid "$Settings_IndirectLighting"
+msgstr "간접 조명"
+
+msgid "$Settings_IndirectLighting Desc"
+msgstr "간접 조명의 품질을 설정합니다."
+
+msgid "$Settings_MotionBlur"
+msgstr "모션 블러"
+
+msgid "$Settings_MotionBlur Desc"
+msgstr "잔상 효과의 품질을 설정합니다."
+
+msgid "$Settings_NvidiaReflex"
+msgstr "NVIDIA Reflex Low latency 모드"
+
+msgid "$Settings_NvidiaReflexDesc"
+msgstr "NVIDIA Reflex는 시스템 지연을 줄이고 PC의 응답성을 향상시킵니다."
+
+msgid "$Settings_ParticleQuality"
+msgstr "입자 품질"
+
+msgid "$Settings_ParticleQuality Desc"
+msgstr "입자에 대한 조명 품질을 설정합니다."
+
+msgid "$Settings_Quality_Custom"
+msgstr "커스텀"
+
+msgid "$Settings_Quality_High"
+msgstr "높음"
+
+msgid "$Settings_Quality_Low"
+msgstr "낮음"
+
+msgid "$Settings_Quality_Medium"
+msgstr "보통"
+
+msgid "$Settings_Quality_Off"
+msgstr "끔"
+
+msgid "$Settings_Quality_Ultra"
+msgstr "울트라"
+
+msgid "$Settings_Reflections"
+msgstr "반사"
+
+msgid "$Settings_Reflections Desc"
+msgstr "반사 효과의 품질을 설정합니다."
+
+msgid "$Settings_ResolutionRatio"
+msgstr "렌더링 해상도 비율"
+
+msgid "$Settings_ResolutionRatio Desc"
+msgstr "디스플레이 해상도의 몇 퍼센트로 게임을 렌더링할 지 결정합니다. 낮추면 성능이 향상됩니다."
+
+msgid "$Settings_ShadowQuality"
+msgstr "그림자 품질"
+
+msgid "$Settings_ShadowQuality Desc"
+msgstr "그림자의 품질을 설정합니다."
+
+msgid "$Settings_Sharpening"
+msgstr "샤프닝"
+
+msgid "$Settings_Sharpening Desc"
+msgstr "업스케일링 기법에 적용되는 샤프닝의 정도를 설정합니다."
+
+msgid "$Settings_ShipThirdPersonFOV"
+msgstr "우주선 3인칭 시야각"
+
+msgid "$Settings_ShipThirdPersonFOV Desc"
+msgstr ""
+"우주선을 조종할 때 3인칭 카메라의 시야각을 설정합니다. 기본 설정 이상으로 조정하면 성능 및 가시성 문제가 발생할 수 있습니다."
+
+msgid "$Settings_ThirdPersonFOV"
+msgstr "3인칭 시야각"
+
+msgid "$Settings_ThirdPersonFOV Desc"
+msgstr "3인칭 카메라 시야각을 설정합니다. 이를 기본 설정 이상으로 조정하면 성능이나 시각적 문제가 발생할 수 있습니다."
+
+msgid "$Settings_Upscaling"
+msgstr "업스케일링"
+
+msgid "$Settings_UpscalingDesc"
+msgstr ""
+"해상도 업스케일링 방식을 AMD FidelityFX Super Resolution 2 (FSR2), AMD FidelityFX "
+"Contrast Adaptive Sharpening (CAS), AMD FidelityFX Super Resolution 3 (FSR "
+"3), Nvidia Deep Learning Super Sampling (DLSS), Intel Xe Super Sampling "
+"(XeSS), 비활성화 중에 선택합니다. 비활성화를 선택하면 게임은 항상 최대 해상도로 실행됩니다."
+
+msgid "$Settings_UpscalingPreset"
+msgstr "업스케일링 품질 사전 설정"
+
+msgid "$Settings_UpscalingPresetDesc"
+msgstr ""
+"'Nvidia Deep Learning Super Sampling (DLSS)'과 'Intel XeSS'의 품질을 설정합니다."
+
+msgid "$Settings_UpscalingPreset_Auto"
+msgstr "자동"
+
+msgid "$Settings_UpscalingPreset_Balanced"
+msgstr "밸런스"
+
+msgid "$Settings_UpscalingPreset_DLAA"
+msgstr "DLAA"
+
+msgid "$Settings_UpscalingPreset_MaxPerformance"
+msgstr "성능"
+
+msgid "$Settings_UpscalingPreset_MaxQuality"
+msgstr "품질"
+
+msgid "$Settings_UpscalingPreset_Performance"
+msgstr "성능"
+
+msgid "$Settings_UpscalingPreset_Quality"
+msgstr "품질"
+
+msgid "$Settings_UpscalingPreset_UltraPerformance"
+msgstr "울트라 퍼포먼스"
+
+msgid "$Settings_UpscalingPreset_UltraQuality"
+msgstr "울트라 품질"
+
+msgid "$Settings_VolumetricLighting"
+msgstr "볼류메트릭 라이팅"
+
+msgid "$Settings_VolumetricLighting Desc"
+msgstr "체적 조명 효과(갓 레이)의 품질을 설정합니다."
+
+msgid "$Settings_VsyncEnabled"
+msgstr "수직 동기화"
+
+msgid "$Settings_VsyncEnabled Desc"
+msgstr "활성화하면 게임의 최대 프레임이 모니터의 주사율에 맞춰져, 화면이 찢어져 보이는 현상(테어링)을 방지합니다."
+
+msgid "$SETTLED SYSTEMS - FREESTAR COLLECTIVE SPACE"
+msgstr "SETTLED SYSTEMS - FREESTAR COLLECTIVE SPACE"
+
+msgid "$SETTLEMENTS"
+msgstr "정착지"
+
+msgid "$SetToSurvivalConfirmMessage"
+msgstr ""
+"Survival adds additional challenges including no fast travel, saving only "
+"when you sleep, increased lethality, sickness, fatigue & more. See the "
+"\"Survival\" entry in Help for details."
+
+msgid "$SEX"
+msgstr "성별"
+
+msgid "$SEXID"
+msgstr "성별 ID"
+
+msgid "$Shadow Distance"
+msgstr "그림자 거리"
+
+msgid "$SHD"
+msgstr "보호막"
+
+msgid "$SHE_HER"
+msgstr "그녀"
+
+msgid "$SHIELD"
+msgstr "보호막"
+
+msgid "$SHIELD DAMAGE"
+msgstr "보호막 피해"
+
+msgid "$SHIELD OFFLINE"
+msgstr "보호막 작동 정지"
+
+msgid "$shieldedcapacity"
+msgstr "차폐 화물 용량:"
+
+msgid "$SHIELDS"
+msgstr "SHIELDS"
+
+msgid "$SHIELDWT"
+msgstr "차폐됨"
+
+msgid "$SHIP"
+msgstr "함선"
+
+msgid "$Ship"
+msgstr "함선"
+
+msgid "$SHIP INFORMATION"
+msgstr "함선 정보"
+
+msgid "$Ship Overview"
+msgstr "함선 개관"
+
+msgid "$Ship Reticle Sensitivity"
+msgstr "함선 조준선 감도"
+
+msgid "$Ship Reticle Sensitivity Desc"
+msgstr "함선의 조준선 감도를 조절합니다."
+
+msgid "$SHIP SPECS"
+msgstr "함선 사양"
+
+msgid "$SHIP SYSTEMS"
+msgstr "함선 시스템"
+
+msgid "$SHIP TANK"
+msgstr "함선 탱크"
+
+msgid "$SHIP TOO LARGE"
+msgstr "함선 크기 초과"
+
+msgid "$ShipBuilderNoWarningsEncountered"
+msgstr "경고 없음"
+
+msgid "$ShipBuilderUnresolvedErrors"
+msgstr ""
+"비행 점검 오류로 인해 함선 작업을 완료할 수 없습니다. 종료하면 모든 변경 사항이 취소됩니다. 함선 제작기를 종료하시겠습니까?"
+
+msgid "$ShipBuilderUnresolvedErrorsTitle"
+msgstr "미해결 오류"
+
+msgid "$ShipBuilder_Add"
+msgstr "함선 제작기 (추가)"
+
+msgid "$ShipBuilder_Add_Change"
+msgstr "부품 변경"
+
+msgid "$ShipBuilder_Add_Down"
+msgstr "아래"
+
+msgid "$ShipBuilder_Add_Flip"
+msgstr "부품 교체"
+
+msgid "$ShipBuilder_Add_NextCategory"
+msgstr "다음 범주"
+
+msgid "$ShipBuilder_Add_NextModule"
+msgstr "다음 모듈"
+
+msgid "$ShipBuilder_Add_NextVariant"
+msgstr "다음 변형"
+
+msgid "$ShipBuilder_Add_PrevCategory"
+msgstr "이전 범주"
+
+msgid "$ShipBuilder_Add_PrevModule"
+msgstr "이전 모듈"
+
+msgid "$ShipBuilder_Add_PrevVariant"
+msgstr "이전 변형"
+
+msgid "$ShipBuilder_Add_Up"
+msgstr "위"
+
+msgid "$ShipBuilder_Color"
+msgstr "함선 제작기 (색상)"
+
+msgid "$ShipBuilder_Color_Accept"
+msgstr "승인"
+
+msgid "$ShipBuilder_Color_Cancel"
+msgstr "취소"
+
+msgid "$ShipBuilder_Color_Default"
+msgstr "기본"
+
+msgid "$ShipBuilder_Color_NextColor"
+msgstr "다음 색상"
+
+msgid "$ShipBuilder_Color_NextControl"
+msgstr "다음 컨트롤"
+
+msgid "$ShipBuilder_Color_NextValue"
+msgstr "다음 가치"
+
+msgid "$ShipBuilder_Color_PrevColor"
+msgstr "이전 색상"
+
+msgid "$ShipBuilder_Color_PrevControl"
+msgstr "이전 컨트롤"
+
+msgid "$ShipBuilder_Color_PrevValue"
+msgstr "이전 가치"
+
+msgid "$ShipBuilder_Edit"
+msgstr "함선 제작기 (편집)"
+
+msgid "$ShipBuilder_Edit_Accept"
+msgstr "승인"
+
+msgid "$ShipBuilder_Edit_Delete"
+msgstr "부품 제거"
+
+msgid "$ShipBuilder_Edit_Flip"
+msgstr "부품 교체"
+
+msgid "$ShipBuilder_Edit_FlipDelete"
+msgstr "부품 교체/삭제"
+
+msgid "$ShipBuilder_Edit_NextVariant"
+msgstr "다음 변형"
+
+msgid "$ShipBuilder_Edit_PrevVariant"
+msgstr "이전 변형"
+
+msgid "$ShipBuilder_Edit_Select"
+msgstr "부품 선택"
+
+msgid "$ShipBuilder_Empty"
+msgstr "함선 제작기 (비어 있음)"
+
+msgid "$ShipBuilder_Empty_Add"
+msgstr "추가"
+
+msgid "$ShipBuilder_Empty_Color"
+msgstr "색상"
+
+msgid "$ShipBuilder_Empty_Delete"
+msgstr "삭제"
+
+msgid "$ShipBuilder_Empty_Edit"
+msgstr "편집"
+
+msgid "$ShipBuilder_Empty_Exit"
+msgstr "종료"
+
+msgid "$ShipBuilder_Empty_FlightCheck"
+msgstr "비행 점검"
+
+msgid "$ShipBuilder_Empty_Redo"
+msgstr "다시하기"
+
+msgid "$ShipBuilder_Empty_Select"
+msgstr "선택"
+
+msgid "$ShipBuilder_Empty_TemplateColor"
+msgstr "견본 색상 모드"
+
+msgid "$ShipBuilder_Empty_TemplateColorApply"
+msgstr "견본 색상 적용"
+
+msgid "$ShipBuilder_Empty_TemplateColorSave"
+msgstr "견본 색상 저장"
+
+msgid "$ShipBuilder_Empty_Undo"
+msgstr "되돌리기"
+
+msgid "$ShipBuilder_ExitConfirm"
+msgstr "함선 제작기 (종료 확인)"
+
+msgid "$ShipBuilder_ExitConfirm_Accept"
+msgstr "승인"
+
+msgid "$ShipBuilder_ExitConfirm_Cancel"
+msgstr "취소"
+
+msgid "$ShipBuilder_ExitConfirm_Exit"
+msgstr "종료"
+
+msgid "$ShipBuilder_FlightCheck"
+msgstr "함선 제작기 (비행 점검)"
+
+msgid "$ShipBuilder_FlightCheck_Accept"
+msgstr "승인"
+
+msgid "$ShipBuilder_FlightCheck_Cancel"
+msgstr "취소"
+
+msgid "$ShipBuilder_FlightCheck_Exit"
+msgstr "종료"
+
+msgid "$ShipBuilder_FlightCheck_NextCategory"
+msgstr "다음 범주"
+
+msgid "$ShipBuilder_FlightCheck_PrevCategory"
+msgstr "이전 범주"
+
+msgid "$ShipBuilder_FlightCheck_Rename"
+msgstr "이름 변경"
+
+msgid "$ShipBuilder_Selection"
+msgstr "함선 제작기 (선택)"
+
+msgid "$ShipBuilder_Selection_Add"
+msgstr "추가"
+
+msgid "$ShipBuilder_Selection_Cancel"
+msgstr "취소"
+
+msgid "$ShipBuilder_Selection_Color"
+msgstr "색상"
+
+msgid "$ShipBuilder_Selection_Delete"
+msgstr "삭제"
+
+msgid "$ShipBuilder_Selection_Edit"
+msgstr "편집"
+
+msgid "$ShipBuilder_Selection_Redo"
+msgstr "다시하기"
+
+msgid "$ShipBuilder_Selection_Select"
+msgstr "선택"
+
+msgid "$ShipBuilder_Selection_Undo"
+msgstr "되돌리기"
+
+msgid "$ShipBuilder_Upgrade"
+msgstr "함선 제작기 (업그레이드)"
+
+msgid "$ShipBuilder_Upgrade_Accept"
+msgstr "승인"
+
+msgid "$ShipBuilder_Upgrade_Down"
+msgstr "아래"
+
+msgid "$ShipBuilder_Upgrade_Exit"
+msgstr "종료"
+
+msgid "$ShipBuilder_Upgrade_NextCategory"
+msgstr "다음 범주"
+
+msgid "$ShipBuilder_Upgrade_PrevCategory"
+msgstr "이전 범주"
+
+msgid "$ShipBuilder_Upgrade_Up"
+msgstr "위"
+
+msgid "$ShipBuilder_Upgrade_ZoomModelIn"
+msgstr "확대"
+
+msgid "$ShipBuilder_Upgrade_ZoomModelOut"
+msgstr "축소"
+
+msgid "$ShipCannotBeRemoved"
+msgstr "현재 이 함선은 제거할 수 없습니다."
+
+msgid "$ShipCannotBeSold"
+msgstr "현재 이 함선은 판매할 수 없습니다."
+
+msgid "$ShipCrewAssign"
+msgstr "{0}, 배정할 곳을 선택하세요."
+
+msgid "$ShipCrewAssignTo"
+msgstr "{0}, {1}에 배정합니까?"
+
+msgid "$ShipCrewChangeAssignment"
+msgstr "{0}, 배정한 곳을 변경해 {1}에 배정합니까?"
+
+msgid "$ShipCrewNoAssignments"
+msgstr "{0}, 현재 배정할 수 있는 곳이 없습니다."
+
+msgid "$ShipCrewNoAssignmentsTip"
+msgstr "어느 위치에 있는 승무원이든 착륙한 함선에 배정할 수 있습니다."
+
+msgid "$ShipCrewNoSpace"
+msgstr "{0}, 현재 승무원으로 배정할 수 없습니다."
+
+msgid "$ShipCrewUnassign"
+msgstr "{0}, {1}에 배정한 것을 해제합니까?"
+
+msgid "$ShipFlightCam_FreeRot"
+msgstr "함선 카메라(도킹/착륙 중)"
+
+msgid "$ShipFlightCam_FreeRot_FOVZoomIn"
+msgstr "카메라 확대"
+
+msgid "$ShipFlightCam_FreeRot_FOVZoomOut"
+msgstr "카메라 축소"
+
+msgid "$ShipHasDecorationsWarning"
+msgstr "함선을 개조하면 내부 장식이 제거됩니다."
+
+msgid "$ShipHUD"
+msgstr "우주선(비행)"
+
+msgid "$ShipHUD_AltHold"
+msgstr "함선 시스템 대체 조작키 (키 길게 누르기)"
+
+msgid "$ShipHUD_Boosters"
+msgstr "부스터 발진"
+
+msgid "$ShipHUD_Cancel"
+msgstr "취소"
+
+msgid "$ShipHUD_Cancel_Cancel"
+msgstr "취소"
+
+msgid "$ShipHUD_Down"
+msgstr "시스템 동력 감소"
+
+msgid "$ShipHUD_Left"
+msgstr "이전 시스템"
+
+msgid "$ShipHUD_PhotoMode"
+msgstr "사진 모드 열기"
+
+msgid "$ShipHUD_RepairShip_GP"
+msgstr "수리"
+
+msgid "$ShipHUD_RepairShip_KBM"
+msgstr "수리"
+
+msgid "$ShipHUD_Right"
+msgstr "다음 시스템"
+
+msgid "$ShipHUD_SelectTarget"
+msgstr "목표 선택"
+
+msgid "$ShipHUD_SHMonocle"
+msgstr "스캐너 열기"
+
+msgid "$ShipHUD_SwitchFlightModes"
+msgstr "추력기 비행 모드 변경"
+
+msgid "$ShipHUD_TogglePOV"
+msgstr "시점 변경"
+
+msgid "$ShipHUD_Up"
+msgstr "하위 시스템 동력 증가"
+
+msgid "$ShipHUD_WeaponGroup1"
+msgstr "무장 0 발사"
+
+msgid "$ShipHUD_WeaponGroup2"
+msgstr "무장 1 발사"
+
+msgid "$ShipHUD_WeaponGroup3"
+msgstr "무장 2 발사"
+
+msgid "$ShipHUD_XButton"
+msgstr "함선 동작 1"
+
+msgid "$ShipInfo"
+msgstr "함선 정보"
+
+msgid "$ShipInfo_BuySell"
+msgstr "함선 정보(거래)"
+
+msgid "$ShipInfo_BuySell_Exit"
+msgstr "종료"
+
+msgid "$ShipInfo_BuySell_ShipTransaction"
+msgstr "함선 거래"
+
+msgid "$ShipInfo_BuySell_SwitchCategory"
+msgstr "구매/판매 전환"
+
+msgid "$ShipInfo_CargoHold"
+msgstr "화물 적재"
+
+msgid "$ShipInfo_Crew"
+msgstr "승무원"
+
+msgid "$ShipInfo_Exit"
+msgstr "종료"
+
+msgid "$ShipInfo_HomeShip"
+msgstr "거점 함선"
+
+msgid "$ShipInfo_Inspect"
+msgstr "조사하기"
+
+msgid "$ShipInfo_Modify"
+msgstr "함선 정보(개조)"
+
+msgid "$ShipInfo_Modify_Crew"
+msgstr "승무원"
+
+msgid "$ShipInfo_Modify_Exit"
+msgstr "종료"
+
+msgid "$ShipInfo_Modify_HomeShip"
+msgstr "거점 함선"
+
+msgid "$ShipInfo_Modify_ShipBuilder"
+msgstr "함선 제작기 열기"
+
+msgid "$ShipInfo_Modify_UpgradeShip"
+msgstr "함선 부품 업그레이드"
+
+msgid "$ShipInfo_NextShip"
+msgstr "다음 함선"
+
+msgid "$ShipInfo_PreviousShip"
+msgstr "이전 함선"
+
+msgid "$ShipInfo_Remove"
+msgstr "제거"
+
+msgid "$ShipInfo_Repair"
+msgstr "수리"
+
+msgid "$ShipInfo_Rotate"
+msgstr "회전"
+
+msgid "$ShipInfo_ShipTransaction"
+msgstr "함선 등록"
+
+msgid "$ShipIsNotOwned"
+msgstr "소유하지 않은 함선입니다."
+
+msgid "$ShipNotAtLandingPad"
+msgstr "함선이 착륙장에 있지 않습니다."
+
+msgid "$ShipPower_A"
+msgstr "A"
+
+msgid "$ShipPower_B"
+msgstr "B"
+
+msgid "$ShipPower_C"
+msgstr "C"
+
+msgid "$ShipPower_M"
+msgstr "M"
+
+msgid "$ShipRenameHeader"
+msgstr "이름"
+
+msgid "$Ship_QuickContainer"
+msgstr "함선 빠른 보관함"
+
+msgid "$Ship_QuickContainer_Down"
+msgstr "스크롤 내림"
+
+msgid "$Ship_QuickContainer_Up"
+msgstr "스크롤 올림"
+
+msgid "$SHOW"
+msgstr "자원 표시"
+
+msgid "$Show Active Effects On HUD"
+msgstr "HUD에 활성 효과 표시"
+
+msgid "$SHOW ALL"
+msgstr "전체 보기"
+
+msgid "$Show All Saves"
+msgstr "모든 세이브 보기"
+
+msgid "$Show Damage Numbers"
+msgstr "피해 수치 표시"
+
+msgid "$Show Damage Numbers Desc"
+msgstr "피해 수치를 HUD 상에 표시합니다."
+
+msgid "$SHOW EFFECTS"
+msgstr "효과 표시"
+
+msgid "$Show Floating Markers"
+msgstr "공중 마커 표시"
+
+msgid "$Show Floating Markers Desc"
+msgstr "게임 월드 상에서 임무 마커를 공중에 표시합니다."
+
+msgid "$Show Item Info"
+msgstr "아이템 정보 표시"
+
+msgid "$Show Item Info Desc"
+msgstr "HUD에 아이템 정보가 적힌 아이템 카드가 표시됩니다."
+
+msgid "$SHOW ME"
+msgstr "내 위치 보기"
+
+msgid "$Show on Map"
+msgstr "지도에서 보기"
+
+msgid "$Show Character"
+msgstr "캐릭터 표시"
+
+msgid "$Show Player"
+msgstr "플레이어 보이기"
+
+msgid "$ShowCaravans"
+msgstr "SHOW SUPPLY LINES"
+
+msgid "$ShowEULA"
+msgstr "View Terms of Service"
+
+msgid "$SHOWOBJECTIVES"
+msgstr "Inspect Objectives"
+
+msgid "$SHOWOBJECTIVES"
+msgstr "SHOW OBJECTIVES"
+
+msgid "$SHOWONMAP"
+msgstr "지도에서 보기"
+
+msgid "$ShowQuestSummary"
+msgstr "요약 보기"
+
+msgid "$SHOW_QUEST_IN_HUD"
+msgstr "HUD에 임무 표시"
+
+msgid "$SHOW_QUEST_IN_HUD Desc"
+msgstr "Enables keeping the active mission visible on the HUD at all times."
+
+msgid "$SHOW_RESOURCES"
+msgstr "자원 표시"
+
+msgid "$SHRINK"
+msgstr "SHRINK"
+
+msgid "$Sign Up for An Account"
+msgstr "Sign Up for An Account"
+
+msgid "$Sit"
+msgstr "앉기"
+
+msgid "$SIZE"
+msgstr "SIZE"
+
+msgid "$SKILL POINT AVAILABLE"
+msgstr "스킬 포인트 이용 가능"
+
+msgid "$SKILL POINTS"
+msgstr "스킬 포인트"
+
+msgid "$SkillMaxedOut"
+msgstr "최대 랭크 도달"
+
+msgid "$SKILLPTS"
+msgstr "스킬 포인트"
+
+msgid "$SKILLS"
+msgstr "스킬"
+
+msgid "$SKILLSET:"
+msgstr "배경:"
+
+msgid "$SKIN TONE"
+msgstr "피부색"
+
+msgid "$SKIP"
+msgstr "건너뛰기"
+
+msgid "$SLEEP"
+msgstr "수면"
+
+msgid "$SleepPrompt"
+msgstr "얼마나 주무시겠습니까?"
+
+msgid "$SLOT"
+msgstr "슬롯"
+
+msgid "$SLOW"
+msgstr "SLOW"
+
+msgid "$SNAPLEFT"
+msgstr "SNAP LEFT"
+
+msgid "$SNAPRIGHT"
+msgstr "SNAP RIGHT"
+
+msgid "$Sneak"
+msgstr "은신"
+
+msgid "$SneakCaution"
+msgstr "주의"
+
+msgid "$SneakDanger"
+msgstr "위험"
+
+msgid "$SneakDetected"
+msgstr "발각됨"
+
+msgid "$SneakEvading"
+msgstr "주의"
+
+msgid "$SneakHidden"
+msgstr "은신함"
+
+msgid "$sNoExitSaveQuit"
+msgstr "현재 저장하고 게임 종료하기가 비활성화되어 있습니다. 주메뉴로 나갑니다."
+
+msgid "$sNoExitSaveQuitConfirm"
+msgstr "지금은 저장하고 게임 종료하기를 할 수 없습니다.  무시하고 주메뉴로 나가시겠습니까?"
+
+msgid "$sNoExitSaveQuitToDesktopConfirm"
+msgstr "지금은 저장하고 게임 종료하기를 할 수 없습니다.  무시하고 게임을 종료하시겠습니까?"
+
+msgid "$Social"
+msgstr "생활"
+
+msgid "$SOCIAL"
+msgstr "생활 스킬"
+
+msgid "$SOCIAL_ROBOT"
+msgstr "로봇 공학"
+
+msgid "$SOCIAL_SKILLS"
+msgstr "생활 스킬"
+
+msgid "$SOCIAL_SKILLS_ADVANCED"
+msgstr "숙련 생활 스킬"
+
+msgid "$SOCIAL_SKILLS_EXPERT"
+msgstr "전문 생활 스킬"
+
+msgid "$SOCIAL_SKILLS_MASTER"
+msgstr "달인 생활 스킬"
+
+msgid "$SOCIAL_XENO"
+msgstr "외계사회학"
+
+msgid "$SOL DATE: MAY 7, 2330"
+msgstr "태양계 날짜: 2330년 5월 7일"
+
+msgid "$SORT"
+msgstr "정렬"
+
+msgid "$SORT FILTER (TODO)"
+msgstr "SORT FILTER (TODO)"
+
+msgid "$SORT_ABC"
+msgstr "이름순"
+
+msgid "$SORT_ABC_DESC"
+msgstr "이름 설명순"
+
+msgid "$SORT_ACC"
+msgstr "명중률순"
+
+msgid "$SORT_AMMO"
+msgstr "실탄순"
+
+msgid "$SORT_ARMOR"
+msgstr "방어력순"
+
+msgid "$SORT_COLUMN"
+msgstr "칼럼순"
+
+msgid "$SORT_COLUMN_DESC"
+msgstr "칼럼 설명순"
+
+msgid "$SORT_DMG"
+msgstr "피해순"
+
+msgid "$SORT_RNG"
+msgstr "사거리순"
+
+msgid "$SORT_ROF"
+msgstr "연사력순"
+
+msgid "$SORT_TYPE"
+msgstr "유형순"
+
+msgid "$SORT_VAL"
+msgstr "가치순"
+
+msgid "$SORT_WT"
+msgstr "중량순"
+
+msgid "$Source:"
+msgstr "공급원:"
+
+msgid "$SPACEBAR)"
+msgstr "스페이스바)"
+
+msgid "$SPACESHIP EDITOR"
+msgstr "우주선 편집기"
+
+msgid "$SpaceshipEditor"
+msgstr "우주선 편집기"
+
+msgid "$SpaceshipEditorSimplified"
+msgstr "함선 제작기"
+
+msgid "$SpaceshipEditorSimplified_AddEdit"
+msgstr "추가/편집/확인"
+
+msgid "$SpaceshipEditorSimplified_Cancel"
+msgstr "취소"
+
+msgid "$SpaceshipEditorSimplified_Color"
+msgstr "색상"
+
+msgid "$SpaceshipEditorSimplified_Delete"
+msgstr "삭제"
+
+msgid "$SpaceshipEditorSimplified_Down"
+msgstr "편집 층 내림"
+
+msgid "$SpaceshipEditorSimplified_DuplicateFlip"
+msgstr "복제/교체"
+
+msgid "$SpaceshipEditorSimplified_FlightCheck"
+msgstr "비행 점검"
+
+msgid "$SpaceshipEditorSimplified_Left"
+msgstr "되돌리기/이전 변형"
+
+msgid "$SpaceshipEditorSimplified_LShoulder"
+msgstr "왼쪽 숄더키"
+
+msgid "$SpaceshipEditorSimplified_Right"
+msgstr "다시하기/다음 변형"
+
+msgid "$SpaceshipEditorSimplified_RShoulder"
+msgstr "오른쪽 숄더키"
+
+msgid "$SpaceshipEditorSimplified_Up"
+msgstr "편집 층 올림"
+
+msgid "$SpaceshipEditor_Accept"
+msgstr "승인"
+
+msgid "$SpaceshipEditor_EditorTCG"
+msgstr "에디터 TCG"
+
+msgid "$SpaceshipEditor_FloorDown"
+msgstr "편집 층 내림"
+
+msgid "$SpaceshipEditor_FloorUp"
+msgstr "편집 층 올림"
+
+msgid "$SpaceshipEditor_ModuleDetails"
+msgstr "모듈 세부 정보"
+
+msgid "$SpaceshipEditor_Options"
+msgstr "설정"
+
+msgid "$SpaceshipEditor_Pan"
+msgstr "카메라 이동"
+
+msgid "$SpaceshipEditor_PanDown"
+msgstr "카메라 아래로"
+
+msgid "$SpaceshipEditor_PanLeft"
+msgstr "카메라 왼쪽으로"
+
+msgid "$SpaceshipEditor_PanRight"
+msgstr "카메라 오른쪽으로"
+
+msgid "$SpaceshipEditor_PanUp"
+msgstr "카메라 위로"
+
+msgid "$SpaceshipEditor_Rotate"
+msgstr "회전"
+
+msgid "$SpaceshipEditor_ZoomIn"
+msgstr "확대"
+
+msgid "$SpaceshipEditor_ZoomOut"
+msgstr "축소"
+
+msgid "$Spaceship_Interaction"
+msgstr "우주선(도킹/착륙 중)"
+
+msgid "$Spaceship_Interaction_Cancel"
+msgstr "일어나기"
+
+msgid "$Spaceship_Interaction_ExitShip"
+msgstr "조종실에서 바로 우주선 나가기"
+
+msgid "$Spaceship_Interaction_TakeOff"
+msgstr "도킹 해제/우주선 이륙"
+
+msgid "$SpacesuitWorkbench"
+msgstr "Spacesuit Workbench"
+
+msgid "$Spanish"
+msgstr "스페인어"
+
+msgid "$SpecialConfirmResetPoints"
+msgstr "Reset point allocation and start over?"
+
+msgid "$SpecialIntroText"
+msgstr ""
+"Tell us about yourself! Vault-Tec needs to know what kind of citizen you are"
+" to ensure your future happiness."
+
+msgid "$SpecialNameCharacter"
+msgstr "The name contains forbidden characters."
+
+msgid "$SpecialNameEmpty"
+msgstr "You must name your character before proceeding."
+
+msgid "$SpecialPointsRemaining"
+msgstr "You must use all points before proceeding."
+
+msgid "$SPECIALTY"
+msgstr "Assignment Bonus"
+
+msgid "$Specularity Fade"
+msgstr "스펙큘러 가시거리"
+
+msgid "$SPEECH FAILED!"
+msgstr "설득 실패"
+
+msgid "$SPEECH SUCCESSFUL!"
+msgstr "설득 성공"
+
+msgid "$SpeechTag"
+msgstr "[설득]"
+
+msgid "$SPEED"
+msgstr "속도"
+
+msgid "$speed"
+msgstr "속력"
+
+msgid "$SpendAPointToUnlock"
+msgstr "1포인트를 써서 이 스킬 해제"
+
+msgid "$SPENDING"
+msgstr "SPENDING"
+
+msgid "$SPLOTCHY"
+msgstr "SPLOTCHY"
+
+msgid "$Sprint"
+msgstr "전력 질주"
+
+msgid "$SQUARE"
+msgstr "사각"
+
+msgid "$sQuestRejectConfirm"
+msgstr "정말 이 임무를 포기하시겠습니까?"
+
+msgid "$Squint Left"
+msgstr "눈을 가늘게 뜨기(왼쪽)"
+
+msgid "$Squint Right"
+msgstr "눈을 가늘게 뜨기(오른쪽)"
+
+msgid "$STANDING"
+msgstr "STANDING"
+
+msgid "$Star"
+msgstr "항성계"
+
+msgid "$STAR MAP"
+msgstr "항성계 지도"
+
+msgid "$STAR TYPE"
+msgstr "항성 분류"
+
+msgid "$STARBORN"
+msgstr "스타본"
+
+msgid "$StarbornNewGame"
+msgstr "스타본"
+
+msgid "$STARBORNPOWER"
+msgstr "파워"
+
+msgid "$STARMAP"
+msgstr "은하계 지도"
+
+msgid "$StarMap"
+msgstr "은하계 지도"
+
+msgid "$StarMap_ExecuteJump"
+msgstr "중력 도약 실행"
+
+msgid "$StarMap_Filter"
+msgstr "필터"
+
+msgid "$StarMap_Inspect"
+msgstr "은하계 지도 (조사하기)"
+
+msgid "$StarMap_Inspect_OpenResourceView"
+msgstr "자원 뷰 열기"
+
+msgid "$StarMap_Inspect_PlaceMarker"
+msgstr "마커 찍기"
+
+msgid "$StarMap_Interact"
+msgstr "STARMAP (INTERACT)"
+
+msgid "$StarMap_Interact_Inspect"
+msgstr "조사하기"
+
+msgid "$StarMap_OpenMissionMenu"
+msgstr "임무 메뉴 열기"
+
+msgid "$StarMap_OpenMissions"
+msgstr "임무 열기"
+
+msgid "$StarMap_OpenResourceView"
+msgstr "자원 뷰 열기"
+
+msgid "$StarMap_PanDown"
+msgstr "카메라 아래로"
+
+msgid "$StarMap_PanLeft"
+msgstr "카메라 왼쪽으로"
+
+msgid "$StarMap_PanRight"
+msgstr "카메라 오른쪽으로"
+
+msgid "$StarMap_PanUp"
+msgstr "카메라 위로"
+
+msgid "$StarMap_Select"
+msgstr "선택"
+
+msgid "$StarMap_SetRouteDestination"
+msgstr "항로 목적지 설정"
+
+msgid "$StarMap_ShowAllNameplates"
+msgstr "Show All Nameplates"
+
+msgid "$StarMap_ShowMe"
+msgstr "내 현재 위치"
+
+msgid "$StarMap_SurfaceMap"
+msgstr "지표면 지도"
+
+msgid "$StarMap_SystemInspect"
+msgstr "은하계 지도 (항성계 조사)"
+
+msgid "$StarMap_SystemInspect_AddRemovePlot"
+msgstr "Add/Remove Plot"
+
+msgid "$StarMap_SystemInspect_PlotAndTransfer"
+msgstr "Plot And Transfer"
+
+msgid "$StarMap_SystemInspect_ResetCamera"
+msgstr "시점 초기화"
+
+msgid "$StarMap_SystemSelect"
+msgstr "시스템 선택"
+
+msgid "$StarMap_ZoomIn"
+msgstr "확대"
+
+msgid "$StarMap_ZoomOut"
+msgstr "축소"
+
+msgid "$STARTING_SKILLS"
+msgstr "초기 스킬"
+
+msgid "$START_SECURITY_GAME"
+msgstr "시작 ({0})"
+
+msgid "$STAT"
+msgstr "STAT"
+
+msgid "$Station"
+msgstr "기지"
+
+msgid "$STATS"
+msgstr "STATS"
+
+msgid "$STATUS"
+msgstr "상태"
+
+msgid "$STATUS_EFFECTS"
+msgstr "상태 효과"
+
+msgid "$STEAL"
+msgstr "훔치기"
+
+msgid "$STICKER MODE"
+msgstr "STICKER MODE"
+
+msgid "$Stimpak"
+msgstr "스팀팩"
+
+msgid "$Stolen"
+msgstr "장물"
+
+msgid "$STORE"
+msgstr "보관하기"
+
+msgid "$STORE ALL"
+msgstr "전부 보관하기"
+
+msgid "$StoreAllJunk"
+msgstr "잡동사니 전부 보관하기"
+
+msgid "$StoreAllResources"
+msgstr "자원 전부 보관하기"
+
+msgid "$StrafeLeft"
+msgstr "왼쪽으로 이동"
+
+msgid "$StrafeRight"
+msgstr "오른쪽으로 이동"
+
+msgid "$StreamInstallCaption"
+msgstr "Installing"
+
+msgid "$Strength"
+msgstr "강도"
+
+msgid "$STRENGTH"
+msgstr "STRENGTH"
+
+msgid "$STYLE"
+msgstr "STYLE"
+
+msgid "$STYLE_BLENDS"
+msgstr "프리셋 혼합하기"
+
+msgid "$SUBJPrepend"
+msgstr "SUBJ:"
+
+msgid "$Subscribe"
+msgstr "구독"
+
+msgid "$Subscribing"
+msgstr "구독 중..."
+
+msgid "$Subscribing..."
+msgstr "구독 중..."
+
+msgid "$SUBTRACT"
+msgstr "SUBTRACT"
+
+msgid "$Sudden Development"
+msgstr "돌발 진전"
+
+msgid "$SUIT"
+msgstr "SUIT"
+
+msgid "$SUIT RESISTANCE"
+msgstr "슈트 저항"
+
+msgid "$Super Stimpak"
+msgstr "슈퍼 스팀팩"
+
+msgid "$Surface"
+msgstr "지표면"
+
+msgid "$SURFACE MAP"
+msgstr "지표면 지도"
+
+msgid "$SurfaceMap"
+msgstr "지표면 지도"
+
+msgid "$SurfaceMap_FastTravelShip"
+msgstr "함선으로 빠른 이동"
+
+msgid "$SURVEY"
+msgstr "환경 조사"
+
+msgid "$SURVEY LEVEL INCREASED"
+msgstr "환경 조사 레벨 오름"
+
+msgid "$SURVEYED"
+msgstr "환경 조사"
+
+msgid "$SURVEYOR"
+msgstr "SURVEYOR"
+
+msgid "$SURVEY_PCT:"
+msgstr "조사 진행도:"
+
+msgid "$Survival"
+msgstr "Survival"
+
+msgid "$Swap System Controls"
+msgstr "시스템 제어 전환"
+
+msgid "$SWITCH"
+msgstr "SWITCH"
+
+msgid "$SYRINGER"
+msgstr "SYRINGER"
+
+msgid "$System"
+msgstr "시스템"
+
+msgid "$SYSTEM"
+msgstr "항성계"
+
+msgid "$SYSTEM INFO"
+msgstr "시스템 정보"
+
+msgid "$SYSTEM MAP"
+msgstr "항성계 지도"
+
+msgid "$SYSTEM SUBTITLE"
+msgstr "{0} 항성계"
+
+msgid "$SYSTEM SUBTITLE MOON"
+msgstr "{1} 항성계, {0}의 위성"
+
+msgid "$SYSTEM SURVEY PCT"
+msgstr "시스템 조사 %"
+
+msgid "$TAG FOR SEARCH"
+msgstr "TAG FOR SEARCH"
+
+msgid "$TAKE"
+msgstr "가져가기"
+
+msgid "$TAKE ALL"
+msgstr "모두 갖기"
+
+msgid "$TAKE OFF"
+msgstr "이륙"
+
+msgid "$TAKE PHOTO"
+msgstr "사진 찍기"
+
+msgid "$TakeAllResources"
+msgstr "자원 모두 갖기"
+
+msgid "$TALK"
+msgstr "대화"
+
+msgid "$TARGET LOCK"
+msgstr "조준 대상 락온됨"
+
+msgid "$Target Ship System"
+msgstr "함선 조준 시스템"
+
+msgid "$Target:"
+msgstr "대상:"
+
+msgid "$TargetingDestroyed"
+msgstr "파괴됨"
+
+msgid "$TargetingNoAP"
+msgstr "조준 대상 놓침"
+
+msgid "$TargetingTargetLost"
+msgstr "조준 대상 놓침"
+
+msgid "$TATTOOS"
+msgstr "문신"
+
+msgid "$TECH"
+msgstr "공학"
+
+msgid "$Tech"
+msgstr "공학"
+
+msgid "$TECH_SKILLS"
+msgstr "공학 스킬"
+
+msgid "$TECH_SKILLS_ADVANCED"
+msgstr "숙련 공학 스킬"
+
+msgid "$TECH_SKILLS_EXPERT"
+msgstr "전문 공학 스킬"
+
+msgid "$TECH_SKILLS_MASTER"
+msgstr "달인 공학 스킬"
+
+msgid "$TEMP"
+msgstr "온도"
+
+msgid "$TEMP RESISTANCE"
+msgstr "온도 저항"
+
+msgid "$TEMPERATURE"
+msgstr "온도"
+
+msgid "$Terminal"
+msgstr "단말기"
+
+msgid "$Terminal_Left"
+msgstr "왼쪽"
+
+msgid "$Terminal_Right"
+msgstr "오른쪽"
+
+msgid "$Terminal_SwitchView"
+msgstr "화면 전환"
+
+msgid "$TERRAIN"
+msgstr "TERRAIN"
+
+msgid "$Texture"
+msgstr "텍스처"
+
+msgid "$Texture Category"
+msgstr "텍스처 범주"
+
+msgid "$Texture Intensity"
+msgstr "텍스처 강도"
+
+msgid "$That button is reserved."
+msgstr "해당 버튼은 제한되어 있습니다."
+
+msgid "$THEIR CREDITS"
+msgstr "THEIR CREDITS"
+
+msgid "$THEY_THEM"
+msgstr "그들"
+
+msgid "$THIN"
+msgstr "마름"
+
+msgid "$THIRD"
+msgstr "THIRD"
+
+msgid "$THR"
+msgstr "추력기"
+
+msgid "$THRUSTERS"
+msgstr "추력기 작동"
+
+msgid "$TIME"
+msgstr "TIME"
+
+msgid "$time"
+msgstr "TIME"
+
+msgid "$Time of Day"
+msgstr "Time of Day"
+
+msgid "$TimeFilterAll"
+msgstr "Filter By Time (All)"
+
+msgid "$TimeFilterMonth"
+msgstr "Filter By Time (Month)"
+
+msgid "$TimeFilterToday"
+msgstr "Filter By Time (Today)"
+
+msgid "$TimeFilterWeek"
+msgstr "Filter By Time (Week)"
+
+msgid "$TIMEREMAINING"
+msgstr "TIME REMAINING"
+
+msgid "$TO PLACE"
+msgstr "TO PLACE"
+
+msgid "$TO STEAL"
+msgstr "TO STEAL"
+
+msgid "$TOGGLE"
+msgstr "TOGGLE"
+
+msgid "$TOGGLE DISTANCE MODE"
+msgstr "TOGGLE DISTANCE MODE"
+
+msgid "$Toggle Edit"
+msgstr "Edit Mode"
+
+msgid "$Toggle Edit2"
+msgstr "Place Mode"
+
+msgid "$TOGGLE HEADTRACKING"
+msgstr "TOGGLE HEADTRACKING"
+
+msgid "$TOGGLE HELMET"
+msgstr "헬멧 감추기"
+
+msgid "$Toggle Ironsights"
+msgstr "정조준 토글"
+
+msgid "$Toggle Ironsights Desc"
+msgstr "무기 정조준을 꾹 누르는 대신 토글형으로 바꿉니다."
+
+msgid "$TOGGLE MENU"
+msgstr "메뉴 감추기"
+
+msgid "$TOGGLE VIEW"
+msgstr "시점 변경"
+
+msgid "$ToggleActive"
+msgstr "TOGGLE ACTIVE"
+
+msgid "$ToggleAlwaysRun"
+msgstr "Toggle Always Run"
+
+msgid "$TOGGLEGUIDE"
+msgstr "안내 감추기"
+
+msgid "$TogglePOV"
+msgstr "Toggle POV"
+
+msgid "$ToggleShowAllQTs"
+msgstr "모든 임무의 목표 표시하기"
+
+msgid "$ToggleShowOnlyActiveQTs"
+msgstr "활성화된 임무의 목표만 표시하기"
+
+msgid "$TOGGLETRACK"
+msgstr "Toggle Tracking"
+
+msgid "$Tongue"
+msgstr "혀"
+
+msgid "$TooManyOwnedShips"
+msgstr ""
+"You own the maximum allowed ships. You must sell some before more can be "
+"purchased."
+
+msgid "$TOP SPEED"
+msgstr "최고 속력"
+
+msgid "$total"
+msgstr "합계"
+
+msgid "$TOTAL"
+msgstr "총 파워량"
+
+msgid "$TOTAL COST"
+msgstr "총 비용"
+
+msgid "$TOTAL PWR"
+msgstr "총 동력"
+
+msgid "$Total XP"
+msgstr "총 XP"
+
+msgid "$TOTAL_DAMAGE"
+msgstr "피해"
+
+msgid "$TOTAL_RESISTANCE"
+msgstr "저항"
+
+msgid "$TRACK"
+msgstr "추적"
+
+msgid "$TRACK PROJECT"
+msgstr "프로젝트 추적"
+
+msgid "$TRADE"
+msgstr "거래"
+
+msgid "$TRAIT DISCOVERED"
+msgstr "행성 특성 발견"
+
+msgid "$TRAITS"
+msgstr "특성: {0}"
+
+msgid "$TraitSelection"
+msgstr "{선택 사항}"
+
+msgid "$TRAITSHEADER"
+msgstr "특성"
+
+msgid "$Transfer"
+msgstr "전송"
+
+msgid "$TransferContainerLabel"
+msgstr "컨테이너"
+
+msgid "$TransferLink"
+msgstr "전송 연결"
+
+msgid "$TransferPlayerLabel"
+msgstr "플레이어"
+
+msgid "$TRANSMISSION TERMINATED"
+msgstr "전송 종료"
+
+msgid "$TRAVEL"
+msgstr "이동"
+
+msgid "$TRAVEL DATA"
+msgstr "이동 데이터"
+
+msgid "$TRAVEL NOT ALLOWED"
+msgstr "이동 불가"
+
+msgid "$TravelRestricted"
+msgstr "현재 이 지역으로 이동이 제한됩니다."
+
+msgid "$TREATMENT"
+msgstr "치료제"
+
+msgid "$TuneToStation"
+msgstr "TUNE TO STATION"
+
+msgid "$TURNS"
+msgstr "턴 수"
+
+msgid "$TYPE"
+msgstr "유형"
+
+msgid "$UINamingError_InvalidCharacter"
+msgstr "This name contains unsupported characters."
+
+msgid "$Unable to Jump"
+msgstr "Unable to Jump"
+
+msgid "$UNASSIGN"
+msgstr "지정 취소"
+
+msgid "$UNASSIGN CREW"
+msgstr "승무원 배정 해제"
+
+msgid "$Unassigned"
+msgstr "미지정"
+
+msgid "$UNASSIGNED"
+msgstr "미지정"
+
+msgid "$Unavailable"
+msgstr "Unavailable"
+
+msgid "$UNCATEGORIZED"
+msgstr "UNCATEGORIZED"
+
+msgid "$Uncommon"
+msgstr "'언커먼'"
+
+msgid "$UNDO"
+msgstr "되돌리기"
+
+msgid "$UNDOCK"
+msgstr "도킹 해제"
+
+msgid "$UNEQUIP"
+msgstr "장착 해제"
+
+msgid "$UNEXPLORED ROUTE"
+msgstr "미탐험 항로"
+
+msgid "$UNEXPLORED ROUTE MSG"
+msgstr "미탐험 항성계를 통과하는 항로"
+
+msgid "$Unfollow"
+msgstr "즐겨찾기 해제"
+
+msgid "$Unfollowing"
+msgstr "즐겨찾기 해제 중..."
+
+msgid "$Unique"
+msgstr "'유니크'"
+
+msgid "$UnitedColonies"
+msgstr "식민지 연합"
+
+msgid "$UNIT_ATMOSPHERE"
+msgstr "atm"
+
+msgid "$UNIT_GRAVITY"
+msgstr "g"
+
+msgid "$UNIT_TEMPERATURE"
+msgstr "C"
+
+msgid "$UniversalTime_Suffix"
+msgstr "UT (24 HR)"
+
+msgid "$Unknown"
+msgstr "알 수 없음"
+
+msgid "$UNKNOWN"
+msgstr "알 수 없음"
+
+msgid "$UNKNOWN FAUNA"
+msgstr "미확인 동물"
+
+msgid "$UNKNOWN FLORA"
+msgstr "미확인 식물"
+
+msgid "$Unknown Location"
+msgstr "미확인 위치"
+
+msgid "$Unknown Type"
+msgstr "알 수 없음"
+
+msgid "$Unknown,"
+msgstr "알 수 없음."
+
+msgid "$UnlinkAccount"
+msgstr "Unlink Bethesda.net Account"
+
+msgid "$UNLOAD"
+msgstr "UNLOAD"
+
+msgid "$UNLOAD ALL"
+msgstr "UNLOAD ALL"
+
+msgid "$UNLOCK"
+msgstr "잠금 해제:"
+
+msgid "$UnlockedWithKey"
+msgstr "Unlocked with {1}."
+
+msgid "$UnlockMenuItem"
+msgstr "Hack {1} lock?"
+
+msgid "$UNLOCK_BUTTON"
+msgstr "잠금 해제"
+
+msgid "$Unlock_Rank"
+msgstr "이 랭크를 해제하면 스킬이 향상됩니다."
+
+msgid "$UNOWNED"
+msgstr "UNOWNED"
+
+msgid "$UNOWNED/NOT DOWNLOADED"
+msgstr "UNOWNED/NOT DOWNLOADED"
+
+msgid "$UNREGISTERED"
+msgstr "등록 안됨"
+
+msgid "$UNSELECT"
+msgstr "선택 해제"
+
+msgid "$UNSHIELDED CONTRABAND"
+msgstr "함선에 밀수품 있음"
+
+msgid "$Unsubscribe"
+msgstr "Unsubscribe"
+
+msgid "$Unsubscribing"
+msgstr "Unsubscribing..."
+
+msgid "$UNTRACK"
+msgstr "추적 해제"
+
+msgid "$UNTRACK PROJECT"
+msgstr "프로젝트 추적 해제"
+
+msgid "$UNVISITED"
+msgstr "UNVISITED"
+
+msgid "$Update"
+msgstr "Update"
+
+msgid "$UPGRADE_SHIP"
+msgstr "함선 업그레이드"
+
+msgid "$UPLOAD SAVE"
+msgstr "Upload Save"
+
+msgid "$Upper Lip Left"
+msgstr "윗입술(왼쪽)"
+
+msgid "$Upper Lip Right"
+msgstr "윗입술(오른쪽)"
+
+msgid "$USE"
+msgstr "사용"
+
+msgid "$USERID"
+msgstr "USER ID"
+
+msgid "$Username"
+msgstr "Username"
+
+msgid "$UserValidationCancelled"
+msgstr "Save storage sync cancelled by user."
+
+msgid "$UserValidationFailed"
+msgstr "User save storage could not be initialized.  Error code: {1}"
+
+msgid "$UserValidationOutOfSpace"
+msgstr "Storage out of local space."
+
+msgid "$USE_KEY"
+msgstr "키 맞추기"
+
+msgid "$UsingConsoleMayDisableAchievements"
+msgstr "이 콘솔 창에 특정 콘솔 명령어를 입력하면 도전 과제를 달성할 수 없게 됩니다."
+
+msgid "$UT"
+msgstr "우주 시각"
+
+msgid "$Va'ruun"
+msgstr "바룬"
+
+msgid "$val"
+msgstr "가치"
+
+msgid "$value"
+msgstr "가치"
+
+msgid "$VALUE"
+msgstr "가치"
+
+msgid "$Value (C)"
+msgstr "Value (C)"
+
+msgid "$VALUE (C)"
+msgstr "VALUE (C)"
+
+msgid "$VALUE_LRG"
+msgstr "가치"
+
+msgid "$Vanity Camera"
+msgstr "화면보호 카메라 회전"
+
+msgid "$Vanity Camera Desc"
+msgstr "일정 시간 동안 입력이 없을 때 자동으로 화면보호 카메라 회전을 활성화합니다."
+
+msgid "$Variant"
+msgstr "변형"
+
+msgid "$VARIANT"
+msgstr "변형"
+
+msgid "$VARIANTS"
+msgstr "변형"
+
+msgid "$VATS"
+msgstr "VATS"
+
+msgid "$VENDOR"
+msgstr "거래"
+
+msgid "$VENDOR CREDITS"
+msgstr "상인 크레딧"
+
+msgid "$Very Easy"
+msgstr "매우 쉬움"
+
+msgid "$VERY FAST"
+msgstr "V FAST"
+
+msgid "$Very Hard"
+msgstr "매우 어려움"
+
+msgid "$VERY SLOW"
+msgstr "V SLOW"
+
+msgid "$Vibration"
+msgstr "컨트롤러 진동"
+
+msgid "$Vibration Desc"
+msgstr "컨트롤러의 진동을 켜거나 끕니다."
+
+msgid "$VIEW_AVAILABLE"
+msgstr "View Available"
+
+msgid "$VIEW_DESKTOP"
+msgstr "바탕화면 보기"
+
+msgid "$VIEW_OWNED"
+msgstr "View Owned"
+
+msgid "$VIEW_WINDOWS"
+msgstr "창 보기"
+
+msgid "$Vignette Intensity"
+msgstr "비네팅 강도"
+
+msgid "$VirtualController"
+msgstr "VIRTUAL CONTROLLER"
+
+msgid "$VirtualController_L3"
+msgstr "UI 행동 4"
+
+msgid "$VirtualController_LShoulder"
+msgstr "이전 탭"
+
+msgid "$VirtualController_R3"
+msgstr "UI 행동 5"
+
+msgid "$VirtualController_RShoulder"
+msgstr "다음 탭"
+
+msgid "$VirtualController_Select"
+msgstr "UI 행동 3"
+
+msgid "$VirtualController_XButton"
+msgstr "UI 행동 1"
+
+msgid "$VirtualController_YButton"
+msgstr "UI 행동 2"
+
+msgid "$Voice"
+msgstr "음성"
+
+msgid "$Voice Audio Desc"
+msgstr "게임 음성 음량을 조절합니다."
+
+msgid "$VoiceLanguage"
+msgstr "음성 언어"
+
+msgid "$VoiceLanguageDesc"
+msgstr "게임 음성 언어를 변경합니다."
+
+msgid "$Volume Selection"
+msgstr "수량 선택"
+
+msgid "$W"
+msgstr "W{0}"
+
+msgid "$Wait"
+msgstr "대기"
+
+msgid "$WAIT FOR SCAN"
+msgstr "스캔 대기 중"
+
+msgid "$Waiting for data..."
+msgstr "게임 데이터를 불러올 때까지 기다립니다..."
+
+msgid "$WaitPrompt"
+msgstr "얼마나 대기하시겠습니까?"
+
+msgid "$WARNING"
+msgstr "경고"
+
+msgid "$WARNINGS"
+msgstr "경고"
+
+msgid "$WATER"
+msgstr "물"
+
+msgid "$WEAPON STATS"
+msgstr "WEAPON STATS"
+
+msgid "$WeaponAssignment"
+msgstr "무장 단축키 설정"
+
+msgid "$WEAPONGROUPONE"
+msgstr "무기 1번"
+
+msgid "$WEAPONGROUPTHREE"
+msgstr "무기 3번"
+
+msgid "$WEAPONGROUPTWO"
+msgstr "무기 2번"
+
+msgid "$WEAPONGROUPZERO"
+msgstr "무기 0번"
+
+msgid "$WeaponRarityAndType_Epic {0}"
+msgstr "'에픽' {0}"
+
+msgid "$WeaponRarityAndType_Legendary {0}"
+msgstr "'레전더리' {0}"
+
+msgid "$WeaponRarityAndType_Rare {0}"
+msgstr "'레어' {0}"
+
+msgid "$WEAPONS"
+msgstr "무기"
+
+msgid "$WeaponWorkbench"
+msgstr "무기 작업대"
+
+msgid "$WEATHER"
+msgstr "날씨"
+
+msgid "$Weight"
+msgstr "중량"
+
+msgid "$WIDE"
+msgstr "넓적"
+
+msgid "$WIND"
+msgstr "바람"
+
+msgid "$Wire"
+msgstr "와이어"
+
+msgid "$WIRE"
+msgstr "와이어"
+
+msgid "$WNPC_Caravan"
+msgstr "공급 경로"
+
+msgid "$WNPC_Caravan_Header"
+msgstr "장소 선택:"
+
+msgid "$WNPC_Command"
+msgstr "명령"
+
+msgid "$WNPC_Move"
+msgstr "이동"
+
+msgid "$Workshop"
+msgstr "전초기지"
+
+msgid "$WORKSHOP"
+msgstr "전초기지"
+
+msgid "$WorkshopBuilderMenu"
+msgstr "기지 생산 메뉴"
+
+msgid "$WorkshopBuilder_RequiresScanning"
+msgstr "추가 스캔 필요"
+
+msgid "$WorkshopPower"
+msgstr "동력"
+
+msgid "$WorkshopPower:"
+msgstr "동력:"
+
+msgid "$Workshop_AltMode"
+msgstr "대체 모드 토글"
+
+msgid "$Workshop_Cancel"
+msgstr "취소"
+
+msgid "$Workshop_ChangeMode"
+msgstr "모드 변경"
+
+msgid "$Workshop_Confirm"
+msgstr "건설/확인/편집"
+
+msgid "$Workshop_Down"
+msgstr "아래"
+
+msgid "$Workshop_Left"
+msgstr "이전 변형"
+
+msgid "$Workshop_LShoulder"
+msgstr "색상 변경/이전 범주"
+
+msgid "$Workshop_LTrigger"
+msgstr "오브젝트 왼쪽으로 회전"
+
+msgid "$Workshop_Right"
+msgstr "다음 변형"
+
+msgid "$Workshop_RShoulder"
+msgstr "오브젝트 수리/다음 범주"
+
+msgid "$Workshop_RTrigger"
+msgstr "오브젝트 오른쪽으로 회전/연결 만들기"
+
+msgid "$Workshop_ToggleDetails"
+msgstr "Toggle Details"
+
+msgid "$Workshop_ToggleDistance"
+msgstr "Toggle Distance Mode"
+
+msgid "$Workshop_ToggleView"
+msgstr "시점 변경"
+
+msgid "$Workshop_Up"
+msgstr "위"
+
+msgid "$Workshop_XButton"
+msgstr "삭제/대체 오브젝트"
+
+msgid "$World Map"
+msgstr "세계 지도"
+
+msgid "$Wrinkle Left"
+msgstr "주름(왼쪽)"
+
+msgid "$Wrinkle Right"
+msgstr "주름(오른쪽)"
+
+msgid "$WS_Beds"
+msgstr "침대"
+
+msgid "$WS_Food"
+msgstr "음식"
+
+msgid "$WS_Happy"
+msgstr "만족도"
+
+msgid "$WS_People"
+msgstr "인간"
+
+msgid "$WS_Power"
+msgstr "파워"
+
+msgid "$WS_Safety"
+msgstr "방어"
+
+msgid "$WS_Water"
+msgstr "물"
+
+msgid "$wt"
+msgstr "중량"
+
+msgid "$XESS"
+msgstr "XeSS"
+
+msgid "$XP"
+msgstr "경험치"
+
+msgid "$Yes"
+msgstr "네"
+
+msgid "$YES"
+msgstr "네"
+
+msgid "$YOU'VE_REACHED_LEVEL"
+msgstr "레벨에 도달했습니다"
+
+msgid "$YOUR CREDITS"
+msgstr "내 크레딧"
+
+msgid "$ZOOM"
+msgstr "카메라 확대/축소"
+
+msgid "$ZOOM IN"
+msgstr "확대"
+
+msgid "$ZOOM OUT"
+msgstr "축소"
+
+msgid "$ZoomIn"
+msgstr "확대"
+
+msgid "$ZoomOut"
+msgstr "축소"
+
+msgid "$[NEW SAVE]"
+msgstr "[새 저장 파일]"

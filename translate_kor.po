@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2024-05-19 16:37+0000\n"
+"PO-Revision-Date: 2024-05-26 07:19+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ko\n"
+"Language: kor\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -365,7 +365,7 @@ msgid "$BEDS"
 msgstr "침대"
 
 msgid "$BETHESDA GAME STUDIOS"
-msgstr "BETHESDA GAME STUDIOS"
+msgstr "베데스다 게임 스튜디오"
 
 msgid "$BETHESDA.NET"
 msgstr "모드"
@@ -467,10 +467,10 @@ msgid "$BUILD RESOURCES NEEDED"
 msgstr "반입 필요 자원"
 
 msgid "$BUILD WITH"
-msgstr "BUILD WITH"
+msgstr "제작에 사용"
 
 msgid "$BuildBaseBot"
-msgstr "BUILD BASE BOT"
+msgstr "기반 봇 제작"
 
 msgid "$BuildConfirm1"
 msgstr "파트 제작:"
@@ -584,22 +584,22 @@ msgid "$CantSaveNow"
 msgstr "지금은 게임을 저장할 수 없습니다."
 
 msgid "$CAP"
-msgstr "CAP"
+msgstr "캡"
 
 msgid "$CAPACITY"
 msgstr "적재량"
 
 msgid "$CAPS"
-msgstr "CAPS"
+msgstr "캡스"
 
 msgid "$Captured"
-msgstr "Captured"
+msgstr "캡처됨"
 
 msgid "$Caravan"
 msgstr "캐러밴"
 
 msgid "$CarbonDioxideWarningString"
-msgstr "#NAME?"
+msgstr "+이산화탄소"
 
 msgid "$CARGO"
 msgstr "화물"
@@ -692,7 +692,7 @@ msgid "$CHANGE"
 msgstr "변경"
 
 msgid "$CHANGE FILTER (TODO)"
-msgstr "CHANGE FILTER (TODO)"
+msgstr "필터 변경 (할 일)"
 
 msgid "$Change sex"
 msgstr "성별 변경"
@@ -725,7 +725,7 @@ msgid "$Character"
 msgstr "캐릭터"
 
 msgid "$charge"
-msgstr "Charge"
+msgstr "변경"
 
 msgid "$Chargen"
 msgstr "캐릭생성"
@@ -788,7 +788,7 @@ msgid "$Chargen_Locomotion"
 msgstr "걸음걸이"
 
 msgid "$Chargen_PreviewHabSuit"
-msgstr "격실내 의상 토글"
+msgstr "격실내 의상 보이기 전환"
 
 msgid "$Chargen_Rotate"
 msgstr "모델 회전"
@@ -827,13 +827,13 @@ msgid "$Cinematic"
 msgstr "시네마틱"
 
 msgid "$CLAIM"
-msgstr "CLAIM"
+msgstr "요청"
 
 msgid "$CLASS"
 msgstr "등급"
 
 msgid "$CLEAR"
-msgstr "CLEAR"
+msgstr "제거"
 
 msgid "$CLEAR MODE"
 msgstr "제거 모드"
@@ -842,7 +842,7 @@ msgid "$CLEAR ROUTE"
 msgstr "경로 제거"
 
 msgid "$ClearRoute_Confirm"
-msgstr "Are you sure you want to remove all jumps?"
+msgstr "모든 중력 도약 경로를 제거하시겠습니까?"
 
 msgid "$CLEAR_TRANSACTION"
 msgstr "거래 초기화"
@@ -1060,13 +1060,13 @@ msgid "$Container_Weight"
 msgstr "컨테이너 중량"
 
 msgid "$CONTEST"
-msgstr "CONTEST"
+msgstr "콘테스트"
 
 msgid "$ContextForSaveHeader"
-msgstr "이 세이브 게임에 대한 정보를 입력하세요"
+msgstr "이 게임 세이브 파일에 대한 정보를 입력하세요"
 
 msgid "$ContextForSavePrompt"
-msgstr "Context for this save"
+msgstr "세이브 파일에 내용 입력"
 
 msgid "$CONTINUE"
 msgstr "계속"
@@ -1099,22 +1099,22 @@ msgid "$ControllerHotswap Desc"
 msgstr "활성화하면, 컨트롤러 사용 시 키보드 조작이 해제됩니다. 반대도 마찬가지입니다."
 
 msgid "$CONTROLS"
-msgstr "CONTROLS"
+msgstr "컨트롤"
 
 msgid "$Controls"
-msgstr "Controls"
+msgstr "컨트롤"
 
 msgid "$COOK"
-msgstr "COOK"
+msgstr "조리"
 
 msgid "$CookConfirm1"
-msgstr "Prepare using:"
+msgstr "사용할 준비됨:"
 
 msgid "$CookingStation"
-msgstr "Cooking Station"
+msgstr "조리대"
 
 msgid "$COORDINATES:"
-msgstr "COORDINATES:"
+msgstr "좌표:"
 
 msgid "$CoppaText"
 msgstr "본인은 이용 약관, 개인정보 보호정책, 행위 준칙을 읽었으며 이에 동의합니다."
@@ -1153,19 +1153,19 @@ msgid "$CREATE TRANSFER LINK"
 msgstr "전송 연결 만들기"
 
 msgid "$CreateAcct_BNET_BEAM_EMAIL_ADDRESS_ALREADY_TAKEN"
-msgstr "That email address has already been used to create an account."
+msgstr "해당 이메일 주소는 이미 계정을 만드는 데 사용되었습니다."
 
 msgid "$CreateAcct_BNET_BEAM_INVALID_EMAIL_ADDRESS"
-msgstr "The email address entered was invalid."
+msgstr "입력한 이메일 주소가 잘못되었습니다."
 
 msgid "$CreateAcct_BNET_BEAM_INVALID_USERNAME"
-msgstr "The username entered was invalid."
+msgstr "입력한 사용자 이름은 사용할 수 없습니다."
 
 msgid "$CreateAcct_BNET_BEAM_USERNAME_ALREADY_TAKEN"
-msgstr "That username has already been used to create an account."
+msgstr "이 사용자 이름은 이미 계정을 만드는 데 사용되었습니다."
 
 msgid "$CreateAcct_BNET_CANNOT_CONNECT"
-msgstr "Couldn't connect to the Bethesda.net servers."
+msgstr "Bethesda.net 서버에 연결할 수 없습니다."
 
 msgid "$CreateAcct_BNET_TIMEOUT"
 msgstr "연결 시간이 초과되었습니다."
@@ -1177,7 +1177,7 @@ msgid "$CreatePowerLink"
 msgstr "동력 연결 만들기"
 
 msgid "$Creating quick account..."
-msgstr "Creating quick account..."
+msgstr "간편 계정 만드는 중..."
 
 msgid "$CREDITS"
 msgstr "보유 크레딧"
@@ -1213,7 +1213,7 @@ msgid "$Crosshair"
 msgstr "조준점"
 
 msgid "$Crosshair Desc"
-msgstr "HUD에서 조준점을 표시합니다."
+msgstr "HUD에 조준점을 표시합니다."
 
 msgid "$CURRENT BIOME:"
 msgstr "현재 생물 군계:"
@@ -1240,16 +1240,16 @@ msgid "$CUSTOMIZE"
 msgstr "커스터마이즈"
 
 msgid "$CYCLE DAMAGE"
-msgstr "CYCLE DAMAGE"
+msgstr "피해 유형 변경"
 
 msgid "$Cycle Parts"
-msgstr "CYCLE PART"
+msgstr "부분 변경"
 
 msgid "$CycleSystem"
 msgstr "순환 시스템"
 
 msgid "$CycleTarget"
-msgstr "CYCLE TARGET"
+msgstr "대상 변경"
 
 msgid "$CYCLE_COLUMN"
 msgstr "CYCLE COLUMN"
@@ -1384,13 +1384,13 @@ msgid "$DESTINATION"
 msgstr "목적지"
 
 msgid "$Detach"
-msgstr "DETACH"
+msgstr "분리"
 
 msgid "$DETAILED SPECS"
-msgstr "DETAILED SPECS"
+msgstr "상세 사양"
 
 msgid "$DETAILS"
-msgstr "DETAILS"
+msgstr "상세"
 
 msgid "$DetailsPageError_ExtractFail"
 msgstr "이 모드를 완전히 설치하지 못했습니다."
@@ -1405,10 +1405,10 @@ msgid "$DetailsPageError_Generic"
 msgstr "작업을 완료하지 못했습니다."
 
 msgid "$DetailsPageError_ModDeleted"
-msgstr "This mod is no longer available."
+msgstr "이 모드는 더 이상 사용할 수 없습니다."
 
 msgid "$DetailsPageError_ModDownloadFail"
-msgstr "This mod has failed to download."
+msgstr "이 모드를 다운로드하지 못했습니다."
 
 msgid "$DetailsPageError_ModTooLarge"
 msgstr "이 모드를 다운로드 할 수 있는 여유 메모리가 부족합니다."
@@ -1554,13 +1554,13 @@ msgid "$DRCorrosive_LRG"
 msgstr "부식"
 
 msgid "$DRIVE DAMAGE"
-msgstr "DRIVE DAMAGE"
+msgstr "드라이브 피해"
 
 msgid "$DROP"
-msgstr "떨어뜨리기"
+msgstr "떨구기"
 
 msgid "$Drop:"
-msgstr "Drop:"
+msgstr "떨굼:"
 
 msgid "$DRRadiation"
 msgstr "방사능"
@@ -1611,7 +1611,7 @@ msgid "$ELECTROMAGNETIC DAMAGE"
 msgstr "전자기 피해"
 
 msgid "$ELEMENTAL STATS"
-msgstr "ELEMENTAL STATS"
+msgstr "원소 현황"
 
 msgid "$EliminateUnusedKeys"
 msgstr "필요 없는 복호화 키 제거"
@@ -1731,7 +1731,7 @@ msgid "$ET"
 msgstr "ET"
 
 msgid "$EULAHeader"
-msgstr "북우메리카 및 라틴 아메리카 거주 시 EULA 적용:"
+msgstr "북아메리카 및 남아메리카 거주자에게 적용되는 최종 사용자 이용 약관입니다:"
 
 msgid "$Excessive Drive Damage"
 msgstr "Excessive Drive Damage"
@@ -2302,7 +2302,7 @@ msgid "$HIDE UI"
 msgstr "UI 숨기기"
 
 msgid "$HideCaravans"
-msgstr "보급선 숨기기"
+msgstr "공급 경로 숨기기"
 
 msgid "$HideQuestSummary"
 msgstr "요약 숨기기"
@@ -2407,7 +2407,9 @@ msgid "$HUDCompleted"
 msgstr "완료"
 
 msgid "$HUDDrink"
-msgstr "WATER\\nDRINK"
+msgstr ""
+"물\\n"
+"마시기"
 
 msgid "$HUDFailed"
 msgstr "실패"
@@ -2790,8 +2792,7 @@ msgid "$ItemInfo_WT"
 msgstr "중량"
 
 msgid "$ItemNameInvalid"
-msgstr ""
-"Cannot rename item, item name is too long or contains invalid characters."
+msgstr "아이템 이름을 변경할 수 없습니다. 아이템 이름이 너무 길거나 잘못된 문자가 포함되어 있습니다."
 
 msgid "$ItemRarity_Epic"
 msgstr "'에픽'"
@@ -3046,7 +3047,7 @@ msgid "$Loading"
 msgstr "불러오기 중"
 
 msgid "$Loading EULA..."
-msgstr "서비스 약관 불러오기 중"
+msgstr "최종 사용자 이용 약관 불러오기 중"
 
 msgid "$Loading mods..."
 msgstr "모드 불러오기 중..."
@@ -3148,13 +3149,13 @@ msgid "$LoginError_BNET_CLIENT_ERROR"
 msgstr "작업을 완료하지 못했습니다."
 
 msgid "$LoginError_BNET_DNS_ERROR"
-msgstr "Bethesda.net 서버에 연결할 수 없습니다."
+msgstr "Bethesda.net 서버에 접속할 수 없습니다."
 
 msgid "$LoginError_BNET_INTERNAL"
 msgstr "Bethesda.net 서버에 로그인 할 수 없습니다."
 
 msgid "$LoginError_BNET_INVALID_CREDENTIALS"
-msgstr "유저 ID와 비밀번호가 유효하지 않습니다."
+msgstr "사용자 ID와 비밀번호가 유효하지 않습니다."
 
 msgid "$LoginError_BNET_OUTSIDE_GRACE_PERIOD"
 msgstr "Bethesda.net 계정 등록을 완료하고 이메일을 인증해 주세요."
@@ -3166,7 +3167,7 @@ msgid "$LoginError_BNET_TIMEOUT"
 msgstr "연결 시간이 초과되었습니다."
 
 msgid "$LoginError_BNET_UNACCEPTED_LEGAL_DOCUMENT"
-msgstr "최종 사용자 사용권 계약이 승인되지 않았습니다. 사용자 브라우저로 Bethesda.net에 로그인하십시오."
+msgstr "최종 사용자 이용 약관이 승인되지 않았습니다. 사용자 브라우저로 Bethesda.net에 로그인하십시오."
 
 msgid "$LoginError_BNET_UNKNOWN_ERROR"
 msgstr "작업을 완료하지 못했습니다."
@@ -3275,7 +3276,7 @@ msgid "$MainGameplay_DataMenu"
 msgstr "데이터 메뉴 열기"
 
 msgid "$MainGameplay_Flashlight"
-msgstr "손전등 토글"
+msgstr "손전등 전원 전환"
 
 msgid "$MainGameplay_Forward"
 msgstr "전진"
@@ -3380,7 +3381,7 @@ msgid "$MainGameplay_QuickStats"
 msgstr "빠른 상태"
 
 msgid "$MainGameplay_ReadyWeapon"
-msgstr "무기 숨기기 토글"
+msgstr "무기 꺼내기 전환"
 
 msgid "$MainGameplay_ReloadWeapon"
 msgstr "무기 재장전"
@@ -3407,7 +3408,7 @@ msgid "$MainGameplay_StrafeRight"
 msgstr "오른쪽으로 이동"
 
 msgid "$MainGameplay_ToggleAlwaysRun"
-msgstr "언제나 달리기 토글"
+msgstr "항상 달리기 전환"
 
 msgid "$MainGameplay_TogglePOV"
 msgstr "시점 변경"
@@ -3851,7 +3852,7 @@ msgid "$New Perks"
 msgstr "ALL PERKS"
 
 msgid "$NewsOptInMessage"
-msgstr "Send me news about Bethesda!"
+msgstr "베데스다의 새 소식을 보내주세요!"
 
 msgid "$NEW_LINK:"
 msgstr "새 연결망:"
@@ -3896,9 +3897,7 @@ msgid "$NO SYSTEM SELECTED"
 msgstr "선택한 시스템 없음"
 
 msgid "$NoDeviceSelected"
-msgstr ""
-"You have not selected a storage device.  You will need to select one before "
-"you can save.  Until then, Autosave is disabled."
+msgstr "저장 장치를 선택하지 않았습니다. 저장하려면 저장 장치를 선택해야 합니다. 그때까지는 자동 저장이 비활성화됩니다."
 
 msgid "$NoGravDrivePower"
 msgstr "중력 구동기에 동력 공급되지 않음"
@@ -3925,9 +3924,7 @@ msgid "$None"
 msgstr "없음"
 
 msgid "$NoProfileSelected"
-msgstr ""
-"You have not signed into a profile. You will need to sign into a profile in "
-"order to save progress. Do you want to sign in now?"
+msgstr "프로필에 로그인하지 않았습니다. 진행 상황을 저장하려면 프로필에 로그인해야 합니다. 지금 로그인하시겠습니까?"
 
 msgid "$Normal"
 msgstr "보통"
@@ -3951,7 +3948,7 @@ msgid "$NO_ITEM_EQUIPPED"
 msgstr "무기 미장착"
 
 msgid "$Nvidia_ReflexMode_LowLatencyWithBoost"
-msgstr "온+부스트"
+msgstr "저지연+부스트"
 
 msgid "$O2"
 msgstr "산소"
@@ -4089,13 +4086,13 @@ msgid "$Outpost_AvailableTargets"
 msgstr "Available Targets"
 
 msgid "$Outpost_ConfirmBreakLinks"
-msgstr "Confirm breaking invalid connections?"
+msgstr "무효화된 연결망 연결을 제거하시겠습니까?"
 
 msgid "$Outpost_Rename"
 msgstr "기지 이름 입력"
 
 msgid "$Outpost_WarnBreakLinks"
-msgstr "Some connections will become invalid by changing to this item."
+msgstr "이 아이템을 변경하면 일부 연결망 연결이 무효화됩니다."
 
 msgid "$OutputLink"
 msgstr "내보내기"
@@ -4161,7 +4158,7 @@ msgid "$Performance mode Desc"
 msgstr "활성화하면, 해상도를 50%로 낮추고 동적 해상도를 활성화합니다."
 
 msgid "$PerksLowReqs"
-msgstr "Requirements not met."
+msgstr "요구 사항이 충족되지 않았습니다."
 
 msgid "$Perk_NextRankAvailable"
 msgstr "다음 랭크 상승 가능!"
@@ -4311,10 +4308,10 @@ msgid "$PLANETS"
 msgstr "행성"
 
 msgid "$PLANETS WITH LIFE"
-msgstr "PLANETS WITH LIFE"
+msgstr "생명체 있는 행성"
 
 msgid "$PLAY"
-msgstr "PLAY"
+msgstr "플레이"
 
 msgid "$Player"
 msgstr "플레이어"
@@ -4742,19 +4739,19 @@ msgid "$Remap_BindingRequiredHint"
 msgstr "별표 ( * ) 표시된 기능에는 반드시 단축키를 지정해야 합니다."
 
 msgid "$Remap_ButtonNotAllowedForEvent"
-msgstr "This key is not allowed for this mapping."
+msgstr "그 키는 이 기능에 지정할 수 없습니다."
 
 msgid "$Remap_ButtonReservedError"
 msgstr "해당 버튼은 제한되어 있습니다."
 
 msgid "$Remap_ChordedButtonContextError"
-msgstr "Chorded buttons are not allowed for this context."
+msgstr "이 컨텍스트에는 코딩된 버튼을 지정할 수 없습니다."
 
 msgid "$Remap_ChordedButtonDeviceError"
-msgstr "Chorded buttons are not allowed for this device."
+msgstr "이 장치에는 코딩된 버튼을 지정할 수 없습니다."
 
 msgid "$Remap_InvalidDeviceError"
-msgstr "Remap interrupted by invalid device state or device mismatch."
+msgstr "잘못된 장치 상태 또는 장치 불일치로 인해 키 지정이 중단되었습니다."
 
 msgid "$Remap_MainBindingOverrideWarning"
 msgstr "버튼이 다른 항목에 지정되어 있습니다. 다시 키를 지정하시겠습니까?"
@@ -4790,7 +4787,7 @@ msgid "$RemovePlanetDestination"
 msgstr "이미 목적지로 설정한 행성 또는 위성입니다. 제거할까요?"
 
 msgid "$RemoveShipPrompt"
-msgstr "Are you sure you want to remove this ship from your ownership?"
+msgstr "소유 함선 목록에서 이 함선을 제거하시겠습니까?"
 
 msgid "$REMOVE_ALL"
 msgstr "모두 제거"
@@ -4820,10 +4817,10 @@ msgid "$REPAIR MODULES"
 msgstr "모듈 수리"
 
 msgid "$REPAIR WITH"
-msgstr "REPAIR WITH"
+msgstr "수리에 사용"
 
 msgid "$RepairConfirm"
-msgstr "Repair part using:"
+msgstr "다음을 사용하여 부분 수리함:"
 
 msgid "$REPLACE"
 msgstr "교체"
@@ -5150,29 +5147,26 @@ msgid "$Save on Wait Desc"
 msgstr "대기 시 자동저장을 활성화합니다."
 
 msgid "$Save over this game?"
-msgstr "Save over this game?"
+msgstr "이 게임을 저장하시겠습니까?"
 
 msgid "$SaveGameDeviceError"
-msgstr "There was an error accessing the device.  Please try again."
+msgstr "장치에 접속하는 동안 오류가 발생했습니다. 다시 시도해 주세요."
 
 msgid "$SaveGameError_MissingFile"
-msgstr "The savegame cannot be loaded because it is missing."
+msgstr "게임 세이브 파일이 누락되어 불러오기 할 수 없습니다."
 
 msgid "$SaveGameError_MissingFileHeader"
-msgstr "Missing File"
+msgstr "세이브 파일 누락"
 
 msgid "$SaveGameFailed"
-msgstr "Failed to create save game."
+msgstr "게임 세이브 파일을 만드는데 실패했습니다."
 
 msgid "$SaveGameFailedOutOfDiskSpace"
 msgstr ""
-"Failed to create save game.  You are low on space to save your progress. "
-"Please delete some of your existing saved content."
+"게임 세이브 파일을 만드는 데 실패했습니다. 세이브 파일을 저장할 공간이 부족합니다. 기존에 저장한 콘텐츠 중 일부를 삭제하세요."
 
 msgid "$SaveGameOutOfDiskSpace"
-msgstr ""
-"Caution!  You are low on space to save your progress. Please delete some of "
-"your existing saved content."
+msgstr "주의! 세이브 파일을 저장할 공간이 부족합니다. 기존에 저장한 콘텐츠 중 일부를 삭제하세요."
 
 msgid "$SaveUploaded"
 msgstr "세이브 업로드됨"
@@ -5777,7 +5771,7 @@ msgid "$Settings_MotionBlur Desc"
 msgstr "잔상 효과의 품질을 설정합니다."
 
 msgid "$Settings_NvidiaReflex"
-msgstr "NVIDIA Reflex Low latency 모드"
+msgstr "NVIDIA Reflex 저지연 모드"
 
 msgid "$Settings_NvidiaReflexDesc"
 msgstr "NVIDIA Reflex는 시스템 지연을 줄이고 PC의 응답성을 향상시킵니다."
@@ -5907,9 +5901,8 @@ msgstr "정착지"
 
 msgid "$SetToSurvivalConfirmMessage"
 msgstr ""
-"Survival adds additional challenges including no fast travel, saving only "
-"when you sleep, increased lethality, sickness, fatigue & more. See the "
-"\"Survival\" entry in Help for details."
+"생존 모드에서는 다음과 같은 도전 요소가 추가됩니다. 빠른 이동 금지, 잠잘 때만 저장 가능, 죽을 확률 증가, 질병 증가, 피로 증가. "
+"자세한 내용은 도움말의 '생존' 항목을 참고하세요."
 
 msgid "$SEX"
 msgstr "성별"
@@ -6423,7 +6416,7 @@ msgid "$Show Item Info"
 msgstr "아이템 정보 표시"
 
 msgid "$Show Item Info Desc"
-msgstr "HUD에 아이템 정보가 적힌 아이템 카드가 표시됩니다."
+msgstr "HUD에 아이템 정보를 보여주는 아이템 카드가 표시됩니다."
 
 msgid "$SHOW ME"
 msgstr "내 위치 보기"
@@ -6438,16 +6431,17 @@ msgid "$Show Player"
 msgstr "플레이어 보이기"
 
 msgid "$ShowCaravans"
-msgstr "SHOW SUPPLY LINES"
+msgstr "공급 경로 보이기"
 
 msgid "$ShowEULA"
-msgstr "View Terms of Service"
+msgstr "최종 사용자 이용 약관 보기"
 
 msgid "$SHOWOBJECTIVES"
 msgstr "Inspect Objectives"
 
+#, fuzzy
 msgid "$SHOWOBJECTIVES"
-msgstr "SHOW OBJECTIVES"
+msgstr "대상 조사"
 
 msgid "$SHOWONMAP"
 msgstr "지도에서 보기"
@@ -6459,7 +6453,7 @@ msgid "$SHOW_QUEST_IN_HUD"
 msgstr "HUD에 임무 표시"
 
 msgid "$SHOW_QUEST_IN_HUD Desc"
-msgstr "Enables keeping the active mission visible on the HUD at all times."
+msgstr "활성 임무를 계속 HUD에 표시된 상태로 둡니다."
 
 msgid "$SHOW_RESOURCES"
 msgstr "자원 표시"
@@ -6729,24 +6723,22 @@ msgid "$Spanish"
 msgstr "스페인어"
 
 msgid "$SpecialConfirmResetPoints"
-msgstr "Reset point allocation and start over?"
+msgstr "스페셜에 할당한 포인트를 초기화하고 다시 할당하시겠습니까?"
 
 msgid "$SpecialIntroText"
-msgstr ""
-"Tell us about yourself! Vault-Tec needs to know what kind of citizen you are"
-" to ensure your future happiness."
+msgstr "당신에 대해 알려주세요! 볼트텍은 미래의 행복을 보장하기 위해 당신이 어떤 유형의 시민인지 알아야 합니다."
 
 msgid "$SpecialNameCharacter"
-msgstr "The name contains forbidden characters."
+msgstr "이름에 금지 문자가 포함되어 있습니다."
 
 msgid "$SpecialNameEmpty"
-msgstr "You must name your character before proceeding."
+msgstr "계속 진행하려면 캐릭터 이름을 입력해야 합니다."
 
 msgid "$SpecialPointsRemaining"
-msgstr "You must use all points before proceeding."
+msgstr "계속 진행하려면 포인트를 모두 사용해야 합니다."
 
 msgid "$SPECIALTY"
-msgstr "Assignment Bonus"
+msgstr "할당 보너스"
 
 msgid "$Specularity Fade"
 msgstr "스펙큘러 가시거리"
@@ -6947,7 +6939,7 @@ msgid "$StrafeRight"
 msgstr "오른쪽으로 이동"
 
 msgid "$StreamInstallCaption"
-msgstr "Installing"
+msgstr "설치 중"
 
 msgid "$Strength"
 msgstr "강도"
@@ -6974,13 +6966,13 @@ msgid "$Subscribing..."
 msgstr "구독 중..."
 
 msgid "$SUBTRACT"
-msgstr "SUBTRACT"
+msgstr "빼기"
 
 msgid "$Sudden Development"
 msgstr "돌발 진전"
 
 msgid "$SUIT"
-msgstr "SUIT"
+msgstr "슈트"
 
 msgid "$SUIT RESISTANCE"
 msgstr "슈트 저항"
@@ -7016,16 +7008,16 @@ msgid "$SURVEY_PCT:"
 msgstr "조사 진행도:"
 
 msgid "$Survival"
-msgstr "Survival"
+msgstr "생존"
 
 msgid "$Swap System Controls"
 msgstr "시스템 제어 전환"
 
 msgid "$SWITCH"
-msgstr "SWITCH"
+msgstr "스위치"
 
 msgid "$SYRINGER"
-msgstr "SYRINGER"
+msgstr "주사기"
 
 msgid "$System"
 msgstr "시스템"
@@ -7211,10 +7203,10 @@ msgid "$TOGGLE HELMET"
 msgstr "헬멧 감추기"
 
 msgid "$Toggle Ironsights"
-msgstr "정조준 토글"
+msgstr "정조준 전환"
 
 msgid "$Toggle Ironsights Desc"
-msgstr "무기 정조준을 꾹 누르는 대신 토글형으로 바꿉니다."
+msgstr "무기 정조준을 꾹 누르는 대신 전환형으로 바꿉니다."
 
 msgid "$TOGGLE MENU"
 msgstr "메뉴 감추기"
@@ -7223,16 +7215,16 @@ msgid "$TOGGLE VIEW"
 msgstr "시점 변경"
 
 msgid "$ToggleActive"
-msgstr "TOGGLE ACTIVE"
+msgstr "활성화 변경"
 
 msgid "$ToggleAlwaysRun"
-msgstr "Toggle Always Run"
+msgstr "항상 달리기 전환"
 
 msgid "$TOGGLEGUIDE"
-msgstr "안내 감추기"
+msgstr "안내 감추기 전환"
 
 msgid "$TogglePOV"
-msgstr "Toggle POV"
+msgstr "시점 전환"
 
 msgid "$ToggleShowAllQTs"
 msgstr "모든 임무의 목표 표시하기"
@@ -7241,15 +7233,13 @@ msgid "$ToggleShowOnlyActiveQTs"
 msgstr "활성화된 임무의 목표만 표시하기"
 
 msgid "$TOGGLETRACK"
-msgstr "Toggle Tracking"
+msgstr "추적 표시 전환"
 
 msgid "$Tongue"
 msgstr "혀"
 
 msgid "$TooManyOwnedShips"
-msgstr ""
-"You own the maximum allowed ships. You must sell some before more can be "
-"purchased."
+msgstr "소유 함선 목록 한도에 도달했습니다. 함선을 구매하려면 다른 함선을 판매해야 합니다."
 
 msgid "$TOP SPEED"
 msgstr "최고 속력"
@@ -7336,7 +7326,7 @@ msgid "$TYPE"
 msgstr "유형"
 
 msgid "$UINamingError_InvalidCharacter"
-msgstr "This name contains unsupported characters."
+msgstr "이름에 지원되지 않는 문자가 포함되어 있습니다."
 
 msgid "$Unable to Jump"
 msgstr "Unable to Jump"
@@ -7435,10 +7425,10 @@ msgid "$UNLOCK"
 msgstr "잠금 해제:"
 
 msgid "$UnlockedWithKey"
-msgstr "Unlocked with {1}."
+msgstr "{1} 이용해 잠금 해제함."
 
 msgid "$UnlockMenuItem"
-msgstr "Hack {1} lock?"
+msgstr "{1} 잠금을 해제하겠습니까?"
 
 msgid "$UNLOCK_BUTTON"
 msgstr "잠금 해제"
@@ -7447,10 +7437,10 @@ msgid "$Unlock_Rank"
 msgstr "이 랭크를 해제하면 스킬이 향상됩니다."
 
 msgid "$UNOWNED"
-msgstr "UNOWNED"
+msgstr "소유하지 않음"
 
 msgid "$UNOWNED/NOT DOWNLOADED"
-msgstr "UNOWNED/NOT DOWNLOADED"
+msgstr "소유하지 않음/다운로드하지 않음"
 
 msgid "$UNREGISTERED"
 msgstr "등록 안됨"
@@ -7462,10 +7452,10 @@ msgid "$UNSHIELDED CONTRABAND"
 msgstr "함선에 밀수품 있음"
 
 msgid "$Unsubscribe"
-msgstr "Unsubscribe"
+msgstr "구독 취소"
 
 msgid "$Unsubscribing"
-msgstr "Unsubscribing..."
+msgstr "구독 취소중..."
 
 msgid "$UNTRACK"
 msgstr "추적 해제"
@@ -7474,16 +7464,16 @@ msgid "$UNTRACK PROJECT"
 msgstr "프로젝트 추적 해제"
 
 msgid "$UNVISITED"
-msgstr "UNVISITED"
+msgstr "방문하지 않음"
 
 msgid "$Update"
-msgstr "Update"
+msgstr "업데이트"
 
 msgid "$UPGRADE_SHIP"
 msgstr "함선 업그레이드"
 
 msgid "$UPLOAD SAVE"
-msgstr "Upload Save"
+msgstr "세이브 업로드"
 
 msgid "$Upper Lip Left"
 msgstr "윗입술(왼쪽)"
@@ -7495,19 +7485,19 @@ msgid "$USE"
 msgstr "사용"
 
 msgid "$USERID"
-msgstr "USER ID"
+msgstr "사용자 ID"
 
 msgid "$Username"
-msgstr "Username"
+msgstr "사용자 이름"
 
 msgid "$UserValidationCancelled"
-msgstr "Save storage sync cancelled by user."
+msgstr "사용자가 저장 장치 동기화를 취소했습니다."
 
 msgid "$UserValidationFailed"
-msgstr "User save storage could not be initialized.  Error code: {1}"
+msgstr "사용자 저장 장치를 초기화할 수 없습니다. 오류 코드: {1}"
 
 msgid "$UserValidationOutOfSpace"
-msgstr "Storage out of local space."
+msgstr "로컬 저장 장치에 저장 공간이 부족합니다."
 
 msgid "$USE_KEY"
 msgstr "키 맞추기"
@@ -7741,7 +7731,7 @@ msgid "$WorkshopPower:"
 msgstr "동력:"
 
 msgid "$Workshop_AltMode"
-msgstr "대체 모드 토글"
+msgstr "대체 모드 전환"
 
 msgid "$Workshop_Cancel"
 msgstr "취소"

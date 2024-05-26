@@ -1,0 +1,1868 @@
+#
+msgid ""
+msgstr ""
+
+# List: 0, EDID: EncShip_StarbornGuardian04_Template, REC: GBFM:FULL
+msgctxt "007169"
+msgid "Starborn Guardian IV"
+msgstr ""
+
+# List: 0, EDID: Cargo_B_Generic_SpaceOX01_Template, REC: GBFM:FULL
+msgctxt "00716B"
+msgid "Space OX"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Deimos_Nebula02_Template, REC: GBFM:FULL
+msgctxt "007284"
+msgid "Nebula II"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Stroud_Privateer01_Template, REC: GBFM:FULL
+msgctxt "00731D"
+msgid "Privateer"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Stroud_Vindicator01_Template, REC: GBFM:FULL
+msgctxt "00736C"
+msgid "Vindicator"
+msgstr ""
+
+# List: 0, EDID: QDTempShipNEW, REC: GBFM:FULL
+msgctxt "007375"
+msgid "Ship"
+msgstr ""
+
+# List: 0, EDID: QDTempShipNEW, REC: GBFM:HULL
+msgctxt "007376"
+msgid "WJS-531"
+msgstr ""
+
+# List: 0, EDID: General_B_Taiyo_Dolphin01_Template, REC: GBFM:FULL
+msgctxt "007379"
+msgid "Dolphin"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Hopetech_Watchdog01_Template, REC: GBFM:FULL
+msgctxt "007385"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: Freighter_A_Hopetech_PikUp01_Template, REC: GBFM:FULL
+msgctxt "00739D"
+msgid "Pik Up"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Hopetech_Watchdog03_Template, REC: GBFM:FULL
+msgctxt "0073A6"
+msgid "Watchdog III"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Stroud_Privateer02_Template, REC: GBFM:FULL
+msgctxt "0073CF"
+msgid "Privateer II"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Taiyo_Hammerhead01_Template, REC: GBFM:FULL
+msgctxt "0073DA"
+msgid "Hammerhead"
+msgstr ""
+
+# List: 0, EDID: Satellite_GenericBeacon01, REC: GBFM:FULL
+msgctxt "0073DC"
+msgid "Satellite"
+msgstr ""
+
+# List: 0, EDID: StarStationPolvo, REC: GBFM:FULL
+msgctxt "0073E0"
+msgid "Polvo Station"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Nova_Nimitz02_Template, REC: GBFM:FULL
+msgctxt "007414"
+msgid "Nimitz II"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Nova_Kfir02_Template, REC: GBFM:FULL
+msgctxt "007445"
+msgid "Kfir II"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Deimos_Gladius01_Template, REC: GBFM:FULL
+msgctxt "007458"
+msgid "Gladius"
+msgstr ""
+
+# List: 0, EDID: MS05_Ship_Sensible_Template, REC: GBFM:FULL
+msgctxt "007461"
+msgid "Kepler S"
+msgstr ""
+
+# List: 0, EDID: Combat_B_Generic_Warhammer02_Template, REC: GBFM:FULL
+msgctxt "007469"
+msgid "Warhammer II"
+msgstr ""
+
+# List: 0, EDID: Cargo_C_Generic_Renegade01_Template, REC: GBFM:FULL
+msgctxt "007485"
+msgid "Renegade"
+msgstr ""
+
+# List: 0, EDID: Combat_B_Generic_Naginata01_Template, REC: GBFM:FULL
+msgctxt "0074A1"
+msgid "Naginata"
+msgstr ""
+
+# List: 0, EDID: UC01Startstation, REC: GBFM:FULL
+msgctxt "0074A2"
+msgid "Abandoned Starstation"
+msgstr ""
+
+# List: 0, EDID: Cargo_B_Generic_CarryALL02_Template, REC: GBFM:FULL
+msgctxt "0074A3"
+msgid "Carry ALL II"
+msgstr ""
+
+# List: 0, EDID: xDoNotUse_Cargo_B_Generic03_Template, REC: GBFM:FULL
+msgctxt "0074A4"
+msgid "Generic Class A 03"
+msgstr ""
+
+# List: 0, EDID: Combat_C_Generic_Stormrider01_Template, REC: GBFM:FULL
+msgctxt "0074A5"
+msgid "Stormrider"
+msgstr ""
+
+# List: 0, EDID: Combat_C_Generic_Crossbow01_Template, REC: GBFM:FULL
+msgctxt "0074A6"
+msgid "Crossbow"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Deimos_Chimera02_Template, REC: GBFM:FULL
+msgctxt "0074AB"
+msgid "Chimera II"
+msgstr ""
+
+# List: 0, EDID: UC01_SimEnemy_Tier06_UCNavy_C_Combat_01, REC: GBFM:FULL
+msgctxt "0074D9"
+msgid "Tier VI Simulated Ship"
+msgstr ""
+
+# List: 0, EDID: OutpostStarstation01, REC: GBFM:FULL
+msgctxt "007510"
+msgid "Outpost Starstation"
+msgstr ""
+
+# List: 0, EDID: Personnel_B_Generic_Sunsail01_Template, REC: GBFM:FULL
+msgctxt "007514"
+msgid "Sunsail"
+msgstr ""
+
+# List: 0, EDID: EncShip_StarbornGuardian03_Template, REC: GBFM:FULL
+msgctxt "007518"
+msgid "Starborn Guardian III"
+msgstr ""
+
+# List: 0, EDID: Freighter_B_Hopetech_BigRig01_Template, REC: GBFM:FULL
+msgctxt "00754C"
+msgid "Big Rig"
+msgstr ""
+
+# List: 0, EDID: EncShip_StarbornGuardian05_Template, REC: GBFM:FULL
+msgctxt "0075F6"
+msgid "Starborn Guardian V"
+msgstr ""
+
+# List: 0, EDID: Personnel_A_Generic_Transpo02_Template, REC: GBFM:FULL
+msgctxt "0075F9"
+msgid "Transpo II"
+msgstr ""
+
+# List: 0, EDID: Combat_A_Generic_Thresher01_Template, REC: GBFM:FULL
+msgctxt "007635"
+msgid "Thresher"
+msgstr ""
+
+# List: 0, EDID: Personnel_A_Generic_Responder01_Template, REC: GBFM:FULL
+msgctxt "007636"
+msgid "Responder"
+msgstr ""
+
+# List: 0, EDID: Personnel_A_Generic_SLoop01_Template, REC: GBFM:FULL
+msgctxt "007638"
+msgid "Sloop"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Deimos_Dagger02_Template, REC: GBFM:FULL
+msgctxt "00766F"
+msgid "Dagger II"
+msgstr ""
+
+# List: 0, EDID: Freighter_A_Nova_Econohaul01_Template, REC: GBFM:FULL
+msgctxt "007692"
+msgid "Econohaul"
+msgstr ""
+
+# List: 0, EDID: SpaceTurret_Particle01, REC: GBFM:FULL
+msgctxt "00773A"
+msgid "Particle Turret"
+msgstr ""
+
+# List: 0, EDID: Freighter_B_Hopetech_Spacetruk01_Template, REC: GBFM:FULL
+msgctxt "007780"
+msgid "Spacetruk"
+msgstr ""
+
+# List: 0, EDID: SEAF01_Stroud_Narcissus01_Template, REC: GBFM:FULL
+msgctxt "0077AB"
+msgid "Narcissus"
+msgstr ""
+
+# List: 0, EDID: Colony_C_Deimos_Polis01_Template, REC: GBFM:FULL
+msgctxt "0077B4"
+msgid "Polis"
+msgstr ""
+
+# List: 0, EDID: Asp_Personnel_B_Stroud_Roanoke_Wanderlust_Template, REC:
+# GBFM:FULL
+msgctxt "0077C7"
+msgid "Wanderlust"
+msgstr ""
+
+# List: 0, EDID: Personal_A_Stroud_Narcissus01_Template, REC: GBFM:FULL
+msgctxt "0077C8"
+msgid "Narcissus"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Taiyo_Stingray02_Template, REC: GBFM:FULL
+msgctxt "0077F5"
+msgid "Stingray II"
+msgstr ""
+
+# List: 0, EDID: StarbornGuardian_F01_Template, REC: GBFM:FULL
+msgctxt "00780F"
+msgid "Starborn Guardian"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Hopetech_Watchdog02_Template, REC: GBFM:FULL
+msgctxt "007813"
+msgid "Watchdog II"
+msgstr ""
+
+# List: 0, EDID: FerraroShip01_Template, REC: GBFM:FULL
+msgctxt "00781E"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: EncShip_MQ_Helix02_Template, REC: GBFM:FULL
+msgctxt "007820"
+msgid "Helix"
+msgstr ""
+
+# List: 0, EDID: EncShip_MQ_Scorpius02_Template, REC: GBFM:FULL
+msgctxt "00782D"
+msgid "Scorpius"
+msgstr ""
+
+# List: 0, EDID: LC132_Spacers_Ship_Template, REC: GBFM:FULL
+msgctxt "007832"
+msgid "Crimson Fleet Ship"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Stroud_Trebuchet01_Template, REC: GBFM:FULL
+msgctxt "007845"
+msgid "Trebuchet"
+msgstr ""
+
+# List: 0, EDID: Satellite_Camera01, REC: GBFM:FULL
+msgctxt "00784E"
+msgid "Satellite"
+msgstr ""
+
+# List: 0, EDID: GovHurstShip01_Template, REC: GBFM:FULL
+msgctxt "00787F"
+msgid "Governor Hurst's Ship"
+msgstr ""
+
+# List: 0, EDID: Stolen_HopeTechShip01_Template, REC: GBFM:FULL
+msgctxt "007883"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: MS05_Ship_Ridiculous_Template, REC: GBFM:FULL
+msgctxt "00788E"
+msgid "Kepler R"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Stroud_Warmonger02_Template, REC: GBFM:FULL
+msgctxt "007894"
+msgid "Warmonger II"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Nova_Mustang02_Template, REC: GBFM:FULL
+msgctxt "0078A3"
+msgid "Mustang II"
+msgstr ""
+
+# List: 0, EDID: Cargo_A_Generic_MULE02_Template, REC: GBFM:FULL
+msgctxt "0078F0"
+msgid "MULE II"
+msgstr ""
+
+# List: 0, EDID: Combat_B_Generic_Pterosaur02_Template, REC: GBFM:FULL
+msgctxt "0078F1"
+msgid "Pterosaur II"
+msgstr ""
+
+# List: 0, EDID: Personnel_B_Generic_Caravan01_Template, REC: GBFM:FULL
+msgctxt "0078F3"
+msgid "Caravan"
+msgstr ""
+
+# List: 0, EDID: Personnel_B_Generic_Slipstream01_Template, REC: GBFM:FULL
+msgctxt "0078F4"
+msgid "Slipstream"
+msgstr ""
+
+# List: 0, EDID: xDoNotUse_Cargo_B_Generic02_Template, REC: GBFM:FULL
+msgctxt "0078F5"
+msgid "Generic Class A 03"
+msgstr ""
+
+# List: 0, EDID: Combat_A_Generic_Wendigo01_Template, REC: GBFM:FULL
+msgctxt "00793F"
+msgid "Wendigo"
+msgstr ""
+
+# List: 0, EDID: DebugMaxLandable, REC: GBFM:FULL
+msgctxt "00794E"
+msgid "Test Max Landable"
+msgstr ""
+
+# List: 0, EDID: xDoNotUse_LvlShip_TridentLines, REC: GBFM:FULL
+msgctxt "007963"
+msgid "Freighter"
+msgstr ""
+
+# List: 0, EDID: EncShip_StarbornGuardian06_Template, REC: GBFM:FULL
+msgctxt "0079DA"
+msgid "Starborn Guardian VI"
+msgstr ""
+
+# List: 0, EDID: OutpostStarstationShip01_Template, REC: GBFM:FULL
+msgctxt "0079DD"
+msgid "Outpost Orbital Defense"
+msgstr ""
+
+# List: 0, EDID: UC01_SimEnemyShipModular_Template, REC: GBFM:FULL
+msgctxt "007A0D"
+msgid "Simulated Opponent"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Deimos_Phalanx02_Template, REC: GBFM:FULL
+msgctxt "007A62"
+msgid "Phalanx II"
+msgstr ""
+
+# List: 0, EDID: MQ207CSatellite, REC: GBFM:FULL
+msgctxt "007A89"
+msgid "Satellite"
+msgstr ""
+
+# List: 0, EDID: OutpostCargoLinkShip01_Template, REC: GBFM:FULL
+msgctxt "007A98"
+msgid "Freighter"
+msgstr ""
+
+# List: 0, EDID: SpaceTurret_Missile, REC: GBFM:FULL
+msgctxt "007AC7"
+msgid "Missile Turret"
+msgstr ""
+
+# List: 0, EDID: Freighter_B_Stroud_Venture01_Template, REC: GBFM:FULL
+msgctxt "007AD3"
+msgid "Venture"
+msgstr ""
+
+# List: 0, EDID: DefensiveBattery_Laser_Template, REC: GBFM:FULL
+msgctxt "007ADA"
+msgid "Defensive Battery"
+msgstr ""
+
+# List: 0, EDID: General_B_Deimos_Celestial01_Template, REC: GBFM:FULL
+msgctxt "007AE6"
+msgid "Celestial"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Deimos_Longsword01_Template, REC: GBFM:FULL
+msgctxt "007AE7"
+msgid "Longsword"
+msgstr ""
+
+# List: 0, EDID: Freighter_B_Deimos_Bireme01_Template, REC: GBFM:FULL
+msgctxt "007AE8"
+msgid "Bireme"
+msgstr ""
+
+# List: 0, EDID: Explorer_A_Stroud_Galileo01_Template, REC: GBFM:FULL
+msgctxt "007AEF"
+msgid "Galileo"
+msgstr ""
+
+# List: 0, EDID: OutpostCargoLinkShip02_Template, REC: GBFM:FULL
+msgctxt "007B14"
+msgid "Freighter"
+msgstr ""
+
+# List: 0, EDID: Colony_C_Taiyo_Reef01_Template, REC: GBFM:FULL
+msgctxt "007B25"
+msgid "Reef"
+msgstr ""
+
+# List: 0, EDID: Freighter_B_Taiyo_Pelican01_Template, REC: GBFM:FULL
+msgctxt "007B26"
+msgid "Pelican"
+msgstr ""
+
+# List: 0, EDID: Freighter_A_Hopetech_LilMuv01_Template, REC: GBFM:FULL
+msgctxt "007B30"
+msgid "Lil Muv"
+msgstr ""
+
+# List: 0, EDID: Freighter_B_Hopetech_PCH02_Template, REC: GBFM:FULL
+msgctxt "007B4D"
+msgid "PCH II"
+msgstr ""
+
+# List: 0, EDID: EncShip_StarbornGuardian01_Template, REC: GBFM:FULL
+msgctxt "007B4E"
+msgid "Starborn Guardian"
+msgstr ""
+
+# List: 0, EDID: CF03_ShuttleBayShuttle_Template, REC: GBFM:FULL
+msgctxt "007B4F"
+msgid "UC Prison Shuttle"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Deimos_Hoplite01_Template, REC: GBFM:FULL
+msgctxt "007B80"
+msgid "Hoplite"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Taiyo_Falcon01_Template, REC: GBFM:FULL
+msgctxt "007B84"
+msgid "Falcon"
+msgstr ""
+
+# List: 0, EDID: Combat_A_Generic_Achilles01_Template, REC: GBFM:FULL
+msgctxt "007B8C"
+msgid "Achilles"
+msgstr ""
+
+# List: 0, EDID: Cargo_A_Generic_Hulker01_Template, REC: GBFM:FULL
+msgctxt "007BDE"
+msgid "Hulker"
+msgstr ""
+
+# List: 0, EDID: Cargo_A_Generic_Railstar02_Template, REC: GBFM:FULL
+msgctxt "007BE9"
+msgid "Railstar II"
+msgstr ""
+
+# List: 0, EDID: Cargo_A_Generic_Atlas02_Template, REC: GBFM:FULL
+msgctxt "007BEA"
+msgid "Atlas II"
+msgstr ""
+
+# List: 0, EDID: Cargo_B_Generic_AsphaltCB01_Template, REC: GBFM:FULL
+msgctxt "007BEC"
+msgid "Asphalt CB"
+msgstr ""
+
+# List: 0, EDID: Combat_C_Generic_Dullahan01_Template, REC: GBFM:FULL
+msgctxt "007BEE"
+msgid "Dullahan"
+msgstr ""
+
+# List: 0, EDID: Asp_Personnel_C_Generic_Highlander_Stronghold_Template, REC:
+# GBFM:FULL
+msgctxt "007BEF"
+msgid "Stronghold"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Autobahn01_Template, REC: GBFM:FULL
+msgctxt "007BF1"
+msgid "Autobahn"
+msgstr ""
+
+# List: 0, EDID: Combat_C_Generic_Dragonfire01_Template, REC: GBFM:FULL
+msgctxt "007C14"
+msgid "Dragonfire"
+msgstr ""
+
+# List: 0, EDID: EncShip_StarbornGuardian02_Template, REC: GBFM:FULL
+msgctxt "007C51"
+msgid "Starborn Guardian II"
+msgstr ""
+
+# List: 0, EDID: DefaultBuildableShip, REC: GBFM:FULL
+msgctxt "007C54"
+msgid "Default Player Ship"
+msgstr ""
+
+# List: 0, EDID: Combat_A_Generic_Raptor01_Template, REC: GBFM:FULL
+msgctxt "007C72"
+msgid "Raptor"
+msgstr ""
+
+# List: 0, EDID: DR032DerelictStationLocationClonedLocation001EB454_000000001,
+# REC: LCTN:FULL
+msgctxt "02E238"
+msgid "The Sonder"
+msgstr ""
+
+# List: 0, EDID: DR019LocationClonedLocation0018A2E4_000000001, REC: LCTN:FULL
+msgctxt "02E243"
+msgid "Retrofitted Starstation"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Taiyo_Sparrow02_Template, REC: GBFM:FULL
+msgctxt "02E2E1"
+msgid "Sparrow II"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Taiyo_Sparrow03_Template, REC: GBFM:FULL
+msgctxt "02E2E7"
+msgid "Sparrow III"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Taiyo_Sparrow01_Template, REC: GBFM:FULL
+msgctxt "02E2EB"
+msgid "Sparrow"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Taiyo_Hammerhead03_Template, REC: GBFM:FULL
+msgctxt "02E2ED"
+msgid "Hammerhead III"
+msgstr ""
+
+# List: 0, EDID: Constellation_Frontier_Template, REC: GBFM:FULL
+msgctxt "02E2F5"
+msgid "Frontier"
+msgstr ""
+
+# List: 0, EDID: Constellation_Frontier_Template, REC: GBFM:HULL
+msgctxt "02E2F6"
+msgid "BSN-728"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Taiyo_Hammerhead02_Template, REC: GBFM:FULL
+msgctxt "02E2F8"
+msgid "Hammerhead II"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Deimos_Hoplite03_Template, REC: GBFM:FULL
+msgctxt "02E2FF"
+msgid "Hoplite III"
+msgstr ""
+
+# List: 0, EDID: Asp_Destroyer_B_Deimos_Hoplite_Aegis_Template, REC: GBFM:FULL
+msgctxt "02E305"
+msgid "Aegis"
+msgstr ""
+
+# List: 0, EDID: BlueprintExterior_BaseShipTemplateLocation, REC: LCTN:FULL
+msgctxt "02E9C4"
+msgid "Ship"
+msgstr ""
+
+# List: 0, EDID: Cargo_B_Generic_Wagontrain01_Template, REC: GBFM:FULL
+msgctxt "02ED4D"
+msgid "Wagontrain"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Babylon01_Template, REC: GBFM:FULL
+msgctxt "02ED4E"
+msgid "Babylon"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Taiyo_Falcon04_Template, REC: GBFM:FULL
+msgctxt "02ED56"
+msgid "Falcon IV"
+msgstr ""
+
+# List: 0, EDID: Combat_B_Generic_Starhawk02_Template, REC: GBFM:FULL
+msgctxt "02F40F"
+msgid "Starhawk II"
+msgstr ""
+
+# List: 0, EDID: Explorer_A_Nova_Endeavor02_Template, REC: GBFM:FULL
+msgctxt "02F413"
+msgid "Endeavor II"
+msgstr ""
+
+# List: 0, EDID: Colony_C_Deimos_Polis02_Template, REC: GBFM:FULL
+msgctxt "02FA06"
+msgid "Polis II"
+msgstr ""
+
+# List: 0, EDID: Freighter_B_Deimos_Bireme02_Template, REC: GBFM:FULL
+msgctxt "02FA0B"
+msgid "Bireme II"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Taiyo_Falcon03_Template, REC: GBFM:FULL
+msgctxt "02FA0D"
+msgid "Falcon III"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Taiyo_Falcon02_Template, REC: GBFM:FULL
+msgctxt "02FA0E"
+msgid "Falcon II"
+msgstr ""
+
+# List: 0, EDID: Freighter_B_Hopetech_BigRig02_Template, REC: GBFM:FULL
+msgctxt "02FA0F"
+msgid "Big Rig II"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Voyager01_Template, REC: GBFM:FULL
+msgctxt "02FA16"
+msgid "Voyager"
+msgstr ""
+
+# List: 0, EDID: MantisShip_Template, REC: GBFM:FULL
+msgctxt "02FF3F"
+msgid "Razorleaf"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Nova_Zumwalt01_Template, REC: GBFM:FULL
+msgctxt "03097F"
+msgid "Zumwalt"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Taiyo_Orca01_Template, REC: GBFM:FULL
+msgctxt "030DA7"
+msgid "Orca"
+msgstr ""
+
+# List: 0, EDID: Combat_B_Generic_Starhawk01_Template, REC: GBFM:FULL
+msgctxt "031247"
+msgid "Starhawk"
+msgstr ""
+
+# List: 0, EDID: Personnel_A_Generic_Rambler01_Template, REC: GBFM:FULL
+msgctxt "031248"
+msgid "Rambler"
+msgstr ""
+
+# List: 0, EDID: Personnel_A_Generic_Transpo01_Template, REC: GBFM:FULL
+msgctxt "031249"
+msgid "Transpo"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Deimos_Gladius04_Template, REC: GBFM:FULL
+msgctxt "03124A"
+msgid "Gladius IV"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Stroud_Vanquisher01_Template, REC: GBFM:FULL
+msgctxt "03124B"
+msgid "Vanquisher"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Stroud_Vanquisher01_Template, REC: GBFM:HULL
+msgctxt "03124C"
+msgid "BSN-728"
+msgstr ""
+
+# List: 0, EDID: Cargo_B_Generic_CarryALL03_Template, REC: GBFM:FULL
+msgctxt "03124E"
+msgid "Carry ALL III"
+msgstr ""
+
+# List: 0, EDID: Freighter_B_Hopetech_PCH01_Template, REC: GBFM:FULL
+msgctxt "031250"
+msgid "PCH"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Stroud_Warmonger01_Template, REC: GBFM:FULL
+msgctxt "031251"
+msgid "Warmonger"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Nova_Zumwalt03_Template, REC: GBFM:FULL
+msgctxt "031252"
+msgid "Zumwalt III"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Taiyo_Mako01_Template, REC: GBFM:FULL
+msgctxt "03125D"
+msgid "Mako"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Taiyo_Mako01_Template, REC: GBFM:HULL
+msgctxt "03125E"
+msgid "BSN-728"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Taiyo_Stingray01_Template, REC: GBFM:FULL
+msgctxt "03125F"
+msgid "Stingray"
+msgstr ""
+
+# List: 0, EDID: Combat_A_Generic_Wendigo02_Template, REC: GBFM:FULL
+msgctxt "031261"
+msgid "Wendigo II"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Deimos_Dagger01_Template, REC: GBFM:FULL
+msgctxt "031263"
+msgid "Dagger"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Deimos_Gladius02_Template, REC: GBFM:FULL
+msgctxt "031271"
+msgid "Gladius II"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Nova_Kfir01_Template, REC: GBFM:FULL
+msgctxt "031277"
+msgid "Kfir"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Stroud_Vanquisher03_Template, REC: GBFM:FULL
+msgctxt "03127B"
+msgid "Vanquisher III"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Stroud_Vanquisher03_Template, REC: GBFM:HULL
+msgctxt "03127C"
+msgid "BSN-728"
+msgstr ""
+
+# List: 0, EDID: Freighter_B_Hopetech_Spacetruk02_Template, REC: GBFM:FULL
+msgctxt "03127E"
+msgid "Spacetruk II"
+msgstr ""
+
+# List: 0, EDID: Cargo_A_Generic_Railstar01_Template, REC: GBFM:FULL
+msgctxt "03127F"
+msgid "Railstar"
+msgstr ""
+
+# List: 0, EDID: Combat_B_Generic_Pterosaur01_Template, REC: GBFM:FULL
+msgctxt "031280"
+msgid "Pterosaur"
+msgstr ""
+
+# List: 0, EDID: Combat_B_Generic_Warhammer01_Template, REC: GBFM:FULL
+msgctxt "031281"
+msgid "Warhammer"
+msgstr ""
+
+# List: 0, EDID: Cargo_B_Generic_CarryALL01_Template, REC: GBFM:FULL
+msgctxt "031282"
+msgid "Carry ALL"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Deimos_Dagger04_Template, REC: GBFM:FULL
+msgctxt "031287"
+msgid "Dagger IV"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Nova_Kfir04_Template, REC: GBFM:FULL
+msgctxt "031288"
+msgid "Kfir IV"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Stroud_Trebuchet03_Template, REC: GBFM:FULL
+msgctxt "03128A"
+msgid "Trebuchet III"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Taiyo_Mako02_Template, REC: GBFM:FULL
+msgctxt "03128B"
+msgid "Mako II"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Taiyo_Mako02_Template, REC: GBFM:HULL
+msgctxt "03128C"
+msgid "BSN-728"
+msgstr ""
+
+# List: 0, EDID: Freighter_A_Hopetech_PikUp02_Template, REC: GBFM:FULL
+msgctxt "03128D"
+msgid "Pik Up II"
+msgstr ""
+
+# List: 0, EDID: Personnel_A_Generic_Rambler02_Template, REC: GBFM:FULL
+msgctxt "03128E"
+msgid "Rambler II"
+msgstr ""
+
+# List: 0, EDID: Personnel_A_Generic_Transpo03_Template, REC: GBFM:FULL
+msgctxt "03128F"
+msgid "Transpo III"
+msgstr ""
+
+# List: 0, EDID: Combat_C_Generic_Crossbow02_Template, REC: GBFM:FULL
+msgctxt "031297"
+msgid "Crossbow II"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Civshuttle01_Template, REC: GBFM:FULL
+msgctxt "03129A"
+msgid "Civshuttle"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Nova_Kirov02_Template, REC: GBFM:FULL
+msgctxt "03129F"
+msgid "Kirov II"
+msgstr ""
+
+# List: 0, EDID: Combat_C_Generic_Stormrider03_Template, REC: GBFM:FULL
+msgctxt "0312A0"
+msgid "Stormrider III"
+msgstr ""
+
+# List: 0, EDID: Combat_C_Generic_Dullahan03_Template, REC: GBFM:FULL
+msgctxt "0312A1"
+msgid "Dullahan III"
+msgstr ""
+
+# List: 0, EDID: xDoNotUse_Combat_C_Generic_Crossbow04_Template, REC:
+# GBFM:FULL
+msgctxt "0312A2"
+msgid "Crossbow IV"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Taiyo_Orca02_Template, REC: GBFM:FULL
+msgctxt "0312A5"
+msgid "Orca II"
+msgstr ""
+
+# List: 0, EDID: Cargo_A_Generic_Hulker03_Template, REC: GBFM:FULL
+msgctxt "0312A6"
+msgid "Hulker III"
+msgstr ""
+
+# List: 0, EDID: Cargo_A_Generic_Railstar03_Template, REC: GBFM:FULL
+msgctxt "0312A7"
+msgid "Railstar III"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Nova_Kirov04_Template, REC: GBFM:FULL
+msgctxt "0312A8"
+msgid "Kirov IV"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Nova_Mustang03_Template, REC: GBFM:FULL
+msgctxt "0312B0"
+msgid "Mustang III"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Nova_Nimitz03_Template, REC: GBFM:FULL
+msgctxt "0312D0"
+msgid "Nimitz III"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Nova_Blackhawk02_Template, REC: GBFM:FULL
+msgctxt "0312EC"
+msgid "Blackhawk II"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Stroud_Privateer03_Template, REC: GBFM:FULL
+msgctxt "0312ED"
+msgid "Privateer III"
+msgstr ""
+
+# List: 0, EDID: Freighter_A_Nova_Econohaul02_Template, REC: GBFM:FULL
+msgctxt "0312F0"
+msgid "Econohaul II"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Nova_Kirov01_Template, REC: GBFM:FULL
+msgctxt "0312F1"
+msgid "Kirov"
+msgstr ""
+
+# List: 0, EDID: Personnel_B_Generic_Caravan03_Template, REC: GBFM:FULL
+msgctxt "0312F4"
+msgid "Caravan III"
+msgstr ""
+
+# List: 0, EDID: Personnel_B_Generic_Sunsail02_Template, REC: GBFM:FULL
+msgctxt "0312F6"
+msgid "Sunsail II"
+msgstr ""
+
+# List: 0, EDID: Personnel_B_Stroud_Roanoke03_Template, REC: GBFM:FULL
+msgctxt "0312F7"
+msgid "Roanoke III"
+msgstr ""
+
+# List: 0, EDID: Freighter_B_Hopetech_Spacetruk03_Template, REC: GBFM:FULL
+msgctxt "0312F8"
+msgid "Spacetruk III"
+msgstr ""
+
+# List: 0, EDID: Freighter_B_Stroud_Venture02_Template, REC: GBFM:FULL
+msgctxt "0312F9"
+msgid "Venture II"
+msgstr ""
+
+# List: 0, EDID: Freighter_B_Stroud_Venture03_Template, REC: GBFM:FULL
+msgctxt "0312FA"
+msgid "Venture III"
+msgstr ""
+
+# List: 0, EDID: Cargo_B_Generic_AsphaltCB03_Template, REC: GBFM:FULL
+msgctxt "0312FB"
+msgid "Asphalt CB III"
+msgstr ""
+
+# List: 0, EDID: Cargo_B_Generic_SpaceOX03_Template, REC: GBFM:FULL
+msgctxt "0312FC"
+msgid "Space OX III"
+msgstr ""
+
+# List: 0, EDID: Cargo_B_Generic_Wagontrain02_Template, REC: GBFM:FULL
+msgctxt "0312FD"
+msgid "Wagontrain II"
+msgstr ""
+
+# List: 0, EDID: Combat_A_Generic_Raptor03_Template, REC: GBFM:FULL
+msgctxt "0312FF"
+msgid "Raptor III"
+msgstr ""
+
+# List: 0, EDID: xDoNotUse_Combat_B_Generic_Starhawk03_Template, REC:
+# GBFM:FULL
+msgctxt "031300"
+msgid "Starhawk III"
+msgstr ""
+
+# List: 0, EDID: General_B_Deimos_Celestial02_Template, REC: GBFM:FULL
+msgctxt "031301"
+msgid "Celestial II"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Voyager02_Template, REC: GBFM:FULL
+msgctxt "031304"
+msgid "Voyager II"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Highlander02_Template, REC: GBFM:FULL
+msgctxt "031305"
+msgid "Highlander II"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Babylon02_Template, REC: GBFM:FULL
+msgctxt "031306"
+msgid "Babylon II"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Nova_Blackhawk01_Template, REC: GBFM:FULL
+msgctxt "031309"
+msgid "Blackhawk"
+msgstr ""
+
+# List: 0, EDID: Combat_A_Generic_Achilles02_Template, REC: GBFM:FULL
+msgctxt "03130A"
+msgid "Achilles II"
+msgstr ""
+
+# List: 0, EDID: Combat_B_Generic_Pterosaur03_Template, REC: GBFM:FULL
+msgctxt "03130B"
+msgid "Pterosaur III"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Nova_Kirov03_Template, REC: GBFM:FULL
+msgctxt "0317F5"
+msgid "Kirov III"
+msgstr ""
+
+# List: 0, EDID: Cargo_A_Generic_MULE03_Template, REC: GBFM:FULL
+msgctxt "031802"
+msgid "MULE III"
+msgstr ""
+
+# List: 0, EDID: Cargo_A_Generic_Hulker02_Template, REC: GBFM:FULL
+msgctxt "031803"
+msgid "Hulker II"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Hopetech_StarSemi01_Template, REC: GBFM:FULL
+msgctxt "031804"
+msgid "Star Semi"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Vista01_Template, REC: GBFM:FULL
+msgctxt "031805"
+msgid "Vista"
+msgstr ""
+
+# List: 0, EDID: Combat_C_Generic_Crossbow03_Template, REC: GBFM:FULL
+msgctxt "031806"
+msgid "Crossbow III"
+msgstr ""
+
+# List: 0, EDID: Combat_C_Generic_Dragonfire02_Template, REC: GBFM:FULL
+msgctxt "031807"
+msgid "Dragonfire II"
+msgstr ""
+
+# List: 0, EDID: Combat_C_Generic_Dullahan02_Template, REC: GBFM:FULL
+msgctxt "031808"
+msgid "Dullahan II"
+msgstr ""
+
+# List: 0, EDID: Combat_C_Generic_Stormrider02_Template, REC: GBFM:FULL
+msgctxt "031809"
+msgid "Stormrider II"
+msgstr ""
+
+# List: 0, EDID: Colony_C_Taiyo_Reef03_Template, REC: GBFM:FULL
+msgctxt "03180A"
+msgid "Reef III"
+msgstr ""
+
+# List: 0, EDID: Cargo_C_Generic_Renegade03_Template, REC: GBFM:FULL
+msgctxt "03180B"
+msgid "Renegade III"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Stroud_Vanquisher02_Template, REC: GBFM:FULL
+msgctxt "031813"
+msgid "Vanquisher II"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Stroud_Vanquisher02_Template, REC: GBFM:HULL
+msgctxt "031814"
+msgid "BSN-728"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Deimos_Nebula01_Template, REC: GBFM:FULL
+msgctxt "03181A"
+msgid "Nebula"
+msgstr ""
+
+# List: 0, EDID: Asp_Destroyer_B_Nova_Zumwalt_Murasame_Template, REC:
+# GBFM:FULL
+msgctxt "03181D"
+msgid "Murasame"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Hopetech_Watchdog04_Template, REC: GBFM:FULL
+msgctxt "03181F"
+msgid "Watchdog IV"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Deimos_Gladius03_Template, REC: GBFM:FULL
+msgctxt "031820"
+msgid "Gladius III"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Nova_Mustang01_Template, REC: GBFM:FULL
+msgctxt "031828"
+msgid "Mustang"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Taiyo_Orca03_Template, REC: GBFM:FULL
+msgctxt "03183C"
+msgid "Orca III"
+msgstr ""
+
+# List: 0, EDID: xDoNotUse_Cruiser_C_Taiyo_Orca04_Template, REC: GBFM:FULL
+msgctxt "03183D"
+msgid "Orca IV"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Deimos_Chimera01_Template, REC: GBFM:FULL
+msgctxt "03183F"
+msgid "Chimera"
+msgstr ""
+
+# List: 0, EDID: Cargo_A_Generic_MULE01_Template, REC: GBFM:FULL
+msgctxt "031841"
+msgid "MULE"
+msgstr ""
+
+# List: 0, EDID: Personnel_A_Generic_SLoop02_Template, REC: GBFM:FULL
+msgctxt "031844"
+msgid "Sloop II"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Deimos_Longsword04_Template, REC: GBFM:FULL
+msgctxt "031846"
+msgid "Longsword IV"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Deimos_Dagger03_Template, REC: GBFM:FULL
+msgctxt "031848"
+msgid "Dagger III"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Deimos_Phalanx03_Template, REC: GBFM:FULL
+msgctxt "03185A"
+msgid "Phalanx III"
+msgstr ""
+
+# List: 0, EDID: Personnel_A_Generic_Responder02_Template, REC: GBFM:FULL
+msgctxt "03185B"
+msgid "Responder II"
+msgstr ""
+
+# List: 0, EDID: Freighter_A_Hopetech_PikUp03_Template, REC: GBFM:FULL
+msgctxt "031867"
+msgid "Pik Up III"
+msgstr ""
+
+# List: 0, EDID: Combat_A_Generic_Thresher02_Template, REC: GBFM:FULL
+msgctxt "031868"
+msgid "Thresher II"
+msgstr ""
+
+# List: 0, EDID: Explorer_A_Stroud_Galileo02_Template, REC: GBFM:FULL
+msgctxt "03186D"
+msgid "Galileo II"
+msgstr ""
+
+# List: 0, EDID: Explorer_A_Stroud_Galileo03_Template, REC: GBFM:FULL
+msgctxt "03186E"
+msgid "Galileo III"
+msgstr ""
+
+# List: 0, EDID: Cargo_C_Generic_Renegade02_Template, REC: GBFM:FULL
+msgctxt "03186F"
+msgid "Renegade II"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Stroud_Warmonger03_Template, REC: GBFM:FULL
+msgctxt "031870"
+msgid "Warmonger III"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Taiyo_Mako03_Template, REC: GBFM:FULL
+msgctxt "031871"
+msgid "Mako III"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Taiyo_Mako03_Template, REC: GBFM:HULL
+msgctxt "031872"
+msgid "BSN-728"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Taiyo_Stingray03_Template, REC: GBFM:FULL
+msgctxt "031873"
+msgid "Stingray III"
+msgstr ""
+
+# List: 0, EDID: xDoNotUse_Personnel_A_Generic_Responder03_Template, REC:
+# GBFM:FULL
+msgctxt "03187D"
+msgid "Responder"
+msgstr ""
+
+# List: 0, EDID: Personnel_B_Generic_Caravan02_Template, REC: GBFM:FULL
+msgctxt "03187E"
+msgid "Caravan II"
+msgstr ""
+
+# List: 0, EDID: Personnel_B_Generic_Slipstream02_Template, REC: GBFM:FULL
+msgctxt "03187F"
+msgid "Slipstream II"
+msgstr ""
+
+# List: 0, EDID: Freighter_B_Taiyo_Pelican02_Template, REC: GBFM:FULL
+msgctxt "031882"
+msgid "Pelican II"
+msgstr ""
+
+# List: 0, EDID: Cargo_B_Generic_AsphaltCB02_Template, REC: GBFM:FULL
+msgctxt "031883"
+msgid "Asphalt CB II"
+msgstr ""
+
+# List: 0, EDID: Cargo_B_Generic_SpaceOX02_Template, REC: GBFM:FULL
+msgctxt "031884"
+msgid "Space OX II"
+msgstr ""
+
+# List: 0, EDID: Cargo_B_Generic_Wagontrain03_Template, REC: GBFM:FULL
+msgctxt "031885"
+msgid "Wagontrain III"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Nova_Ranger02_Template, REC: GBFM:FULL
+msgctxt "031886"
+msgid "Ranger II"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Nova_Ranger02_Template, REC: GBFM:HULL
+msgctxt "031887"
+msgid "BSN-728"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Nova_Ranger03_Template, REC: GBFM:FULL
+msgctxt "031888"
+msgid "Ranger III"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Nova_Ranger03_Template, REC: GBFM:HULL
+msgctxt "031889"
+msgid "BSN-728"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Civshuttle02_Template, REC: GBFM:FULL
+msgctxt "03189D"
+msgid "Civshuttle II"
+msgstr ""
+
+# List: 0, EDID: Freighter_A_Hopetech_LilMuv02_Template, REC: GBFM:FULL
+msgctxt "03189E"
+msgid "Lil Muv II"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Autobahn03_Template, REC: GBFM:FULL
+msgctxt "03189F"
+msgid "Autobahn III"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Civshuttle03_Template, REC: GBFM:FULL
+msgctxt "0318A2"
+msgid "Civshuttle III"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Vista02_Template, REC: GBFM:FULL
+msgctxt "0318B4"
+msgid "Vista II"
+msgstr ""
+
+# List: 0, EDID: Personnel_B_Stroud_Roanoke02_Template, REC: GBFM:FULL
+msgctxt "0318BB"
+msgid "Roanoke II"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Vista03_Template, REC: GBFM:FULL
+msgctxt "0318C7"
+msgid "Vista III"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Stroud_Vindicator02_Template, REC: GBFM:FULL
+msgctxt "0318C8"
+msgid "Vindicator II"
+msgstr ""
+
+# List: 0, EDID: Combat_B_Generic_Warhammer03_Template, REC: GBFM:FULL
+msgctxt "0318C9"
+msgid "Warhammer III"
+msgstr ""
+
+# List: 0, EDID: Combat_A_Generic_Raptor02_Template, REC: GBFM:FULL
+msgctxt "0318CA"
+msgid "Raptor II"
+msgstr ""
+
+# List: 0, EDID: Combat_A_Generic_Achilles03_Template, REC: GBFM:FULL
+msgctxt "0318CB"
+msgid "Achilles III"
+msgstr ""
+
+# List: 0, EDID: Combat_B_Generic_Naginata02_Template, REC: GBFM:FULL
+msgctxt "0318CC"
+msgid "Naginata II"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Deimos_Chimera03_Template, REC: GBFM:FULL
+msgctxt "031B13"
+msgid "Chimera III"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Nova_Nimitz01_Template, REC: GBFM:FULL
+msgctxt "031B17"
+msgid "Nimitz"
+msgstr ""
+
+# List: 0, EDID: Combat_A_Generic_Thresher03_Template, REC: GBFM:FULL
+msgctxt "031B1B"
+msgid "Thresher III"
+msgstr ""
+
+# List: 0, EDID: Colony_C_Taiyo_Reef02_Template, REC: GBFM:FULL
+msgctxt "031B2B"
+msgid "Reef II"
+msgstr ""
+
+# List: 0, EDID: Cargo_A_Generic_Atlas03_Template, REC: GBFM:FULL
+msgctxt "031B2D"
+msgid "Atlas III"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Nova_Kfir03_Template, REC: GBFM:FULL
+msgctxt "031B34"
+msgid "Kfir III"
+msgstr ""
+
+# List: 0, EDID: Personal_A_Stroud_Narcissus02_Template, REC: GBFM:FULL
+msgctxt "031B36"
+msgid "Narcissus II"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Deimos_Longsword03_Template, REC: GBFM:FULL
+msgctxt "031B37"
+msgid "Longsword III"
+msgstr ""
+
+# List: 0, EDID: Combat_B_Generic_Naginata03_Template, REC: GBFM:FULL
+msgctxt "031B40"
+msgid "Naginata III"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Stroud_Trebuchet02_Template, REC: GBFM:FULL
+msgctxt "031B41"
+msgid "Trebuchet II"
+msgstr ""
+
+# List: 0, EDID: Cruiser_C_Stroud_Vindicator03_Template, REC: GBFM:FULL
+msgctxt "031B42"
+msgid "Vindicator III"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Voyager03_Template, REC: GBFM:FULL
+msgctxt "031B43"
+msgid "Voyager III"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Highlander03_Template, REC: GBFM:FULL
+msgctxt "031B44"
+msgid "Highlander III"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Deimos_Longsword02_Template, REC: GBFM:FULL
+msgctxt "031B45"
+msgid "Longsword II"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Autobahn02_Template, REC: GBFM:FULL
+msgctxt "031B46"
+msgid "Autobahn II"
+msgstr ""
+
+# List: 0, EDID: General_B_Taiyo_Dolphin02_Template, REC: GBFM:FULL
+msgctxt "031B47"
+msgid "Dolphin II"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Nova_Blackhawk03_Template, REC: GBFM:FULL
+msgctxt "031B53"
+msgid "Blackhawk III"
+msgstr ""
+
+# List: 0, EDID: xDoNotUse_Cruiser_C_Hopetech_StarSemi02_Template, REC:
+# GBFM:FULL
+msgctxt "031B5A"
+msgid "Star Semi II"
+msgstr ""
+
+# List: 0, EDID: xDoNotUse_Destroyer_B_Nova_Ranger04_Template, REC: GBFM:FULL
+msgctxt "031B5B"
+msgid "Ranger IV"
+msgstr ""
+
+# List: 0, EDID: xDoNotUse_Destroyer_B_Nova_Ranger04_Template, REC: GBFM:HULL
+msgctxt "031B5C"
+msgid "BSN-728"
+msgstr ""
+
+# List: 0, EDID: Cargo_A_Generic_Atlas01_Template, REC: GBFM:FULL
+msgctxt "031C7C"
+msgid "Atlas"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Stroud_Conquerer01_Template, REC: GBFM:FULL
+msgctxt "031D0A"
+msgid "Conquerer"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Stroud_Conquerer02_Template, REC: GBFM:FULL
+msgctxt "031D18"
+msgid "Conquerer II"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Stroud_Conquerer03_Template, REC: GBFM:FULL
+msgctxt "031D19"
+msgid "Conquerer III"
+msgstr ""
+
+# List: 0, EDID: SE_ZW08LegendarySpacerShipBuilt_Template, REC: GBFM:FULL
+msgctxt "031DAF"
+msgid "Spacer Scavenger Blattodea"
+msgstr ""
+
+# List: 0, EDID: SE_ZW14LegendaryVaruunZealotShipBuilt_Template, REC:
+# GBFM:FULL
+msgctxt "031DB0"
+msgid "Va'ruun Shroudbearer"
+msgstr ""
+
+# List: 0, EDID: SE_ZW15LegendaryEclipticShipBuilt_Template, REC: GBFM:FULL
+msgctxt "031DB1"
+msgid "Ecliptic Battleship Camulus"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Deimos_Phalanx01_Template, REC: GBFM:FULL
+msgctxt "031E56"
+msgid "Phalanx"
+msgstr ""
+
+# List: 0, EDID: Explorer_A_Nova_Discovery01_Template, REC: GBFM:FULL
+msgctxt "031E7D"
+msgid "Discovery"
+msgstr ""
+
+# List: 0, EDID: EncShip_MQ_Scorpius01_Template, REC: GBFM:FULL
+msgctxt "0320BA"
+msgid "Scorpius"
+msgstr ""
+
+# List: 0, EDID: EncShip_MQ_Helix01_Template, REC: GBFM:FULL
+msgctxt "0320BB"
+msgid "Helix"
+msgstr ""
+
+# List: 0, EDID: EncShip_MQ_Helix03_Template, REC: GBFM:FULL
+msgctxt "0320BC"
+msgid "Helix"
+msgstr ""
+
+# List: 0, EDID: EncShip_MQ_Helix04_Template, REC: GBFM:FULL
+msgctxt "0320BD"
+msgid "Helix"
+msgstr ""
+
+# List: 0, EDID: EncShip_MQ_Scorpius03_Template, REC: GBFM:FULL
+msgctxt "0320BE"
+msgid "Scorpius"
+msgstr ""
+
+# List: 0, EDID: EncShip_MQ_Scorpius04_Template, REC: GBFM:FULL
+msgctxt "0320BF"
+msgid "Scorpius"
+msgstr ""
+
+# List: 0, EDID: Explorer_A_Nova_Endeavor03_Template, REC: GBFM:FULL
+msgctxt "032342"
+msgid "Endeavor III"
+msgstr ""
+
+# List: 0, EDID: Asp_Explorer_A_Nova_Endeavor_Shackleton_Template, REC:
+# GBFM:FULL
+msgctxt "03234B"
+msgid "Shackleton"
+msgstr ""
+
+# List: 0, EDID: xDoNotUse_Combat_B_Generic_Civil_Template, REC: GBFM:FULL
+msgctxt "032474"
+msgid "Civil"
+msgstr ""
+
+# List: 0, EDID: xDoNotUse_SpaceTurret_Particle10, REC: GBFM:FULL
+msgctxt "03260C"
+msgid "Particle Turret"
+msgstr ""
+
+# List: 0, EDID: SpaceTurret_Particle02, REC: GBFM:FULL
+msgctxt "03260E"
+msgid "Particle Turret"
+msgstr ""
+
+# List: 0, EDID: SpaceTurret_Particle07, REC: GBFM:FULL
+msgctxt "032617"
+msgid "Particle Turret"
+msgstr ""
+
+# List: 0, EDID: SpaceTurret_Particle03, REC: GBFM:FULL
+msgctxt "032618"
+msgid "Particle Turret"
+msgstr ""
+
+# List: 0, EDID: SpaceTurret_Particle04, REC: GBFM:FULL
+msgctxt "032619"
+msgid "Particle Turret"
+msgstr ""
+
+# List: 0, EDID: SpaceTurret_Particle05, REC: GBFM:FULL
+msgctxt "03261A"
+msgid "Particle Turret"
+msgstr ""
+
+# List: 0, EDID: SpaceTurret_Particle06, REC: GBFM:FULL
+msgctxt "03261B"
+msgid "Particle Turret"
+msgstr ""
+
+# List: 0, EDID: SpaceTurret_Particle08, REC: GBFM:FULL
+msgctxt "03261C"
+msgid "Particle Turret"
+msgstr ""
+
+# List: 0, EDID: xDoNotUse_SpaceTurret_Particle09, REC: GBFM:FULL
+msgctxt "032623"
+msgid "Particle Turret"
+msgstr ""
+
+# List: 0, EDID: CF05_LC043_PrototypeShip01_Template, REC: GBFM:FULL
+msgctxt "0326F8"
+msgid "Prototype Ship"
+msgstr ""
+
+# List: 0, EDID: CF05_LC043_PrototypeShip02_Template, REC: GBFM:FULL
+msgctxt "0326F9"
+msgid "Prototype Ship"
+msgstr ""
+
+# List: 0, EDID: CF05_LC043_PrototypeShip03_Template, REC: GBFM:FULL
+msgctxt "0326FA"
+msgid "Prototype Ship"
+msgstr ""
+
+# List: 0, EDID: Asp_Cargo_A_Generic_MULE_Marathon_Template, REC: GBFM:FULL
+msgctxt "032823"
+msgid "Marathon"
+msgstr ""
+
+# List: 0, EDID: Asp_Combat_B_Generic_Warhammer_Shieldbreaker_Template, REC:
+# GBFM:FULL
+msgctxt "032824"
+msgid "Shieldbreaker"
+msgstr ""
+
+# List: 0, EDID: Asp_Cruiser_C_Hopetech_StarSemi_SilentRunner_Template, REC:
+# GBFM:FULL
+msgctxt "032825"
+msgid "Silent Runner"
+msgstr ""
+
+# List: 0, EDID: Asp_Cruiser_C_Taiyo_Orca_Narwhal_Template, REC: GBFM:FULL
+msgctxt "032826"
+msgid "Narwhal"
+msgstr ""
+
+# List: 0, EDID: Asp_Fighter_A_Nova_Mustang_WarHorse_Template, REC: GBFM:FULL
+msgctxt "032827"
+msgid "War Horse"
+msgstr ""
+
+# List: 0, EDID: Asp_Fighter_A_Stroud_Trebuchet_Warwolf_Template, REC:
+# GBFM:FULL
+msgctxt "032828"
+msgid "Warwolf"
+msgstr ""
+
+# List: 0, EDID: Asp_Personnel_A_Generic_Rambler_Vagabond_Template, REC:
+# GBFM:FULL
+msgctxt "032829"
+msgid "Vagabond"
+msgstr ""
+
+# List: 0, EDID: Asp_Personnel_C_Generic_Civshuttle_AbyssTrekker_Template,
+# REC: GBFM:FULL
+msgctxt "03282A"
+msgid "Abyss Trekker"
+msgstr ""
+
+# List: 0, EDID: Personnel_C_Generic_Highlander01_Template, REC: GBFM:FULL
+msgctxt "03282B"
+msgid "Highlander"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Nova_Zumwalt02_Template, REC: GBFM:FULL
+msgctxt "03282C"
+msgid "Zumwalt II"
+msgstr ""
+
+# List: 0, EDID: Personnel_B_Stroud_Roanoke01_Template, REC: GBFM:FULL
+msgctxt "03282D"
+msgid "Roanoke"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Deimos_Hoplite02_Template, REC: GBFM:FULL
+msgctxt "03282E"
+msgid "Hoplite II"
+msgstr ""
+
+# List: 0, EDID: Explorer_A_Nova_Endeavor01_Template, REC: GBFM:FULL
+msgctxt "03282F"
+msgid "Endeavor"
+msgstr ""
+
+# List: 0, EDID: Asp_Fighter_A_Hopetech_Watchdog_Hellhound_Template, REC:
+# GBFM:FULL
+msgctxt "032C76"
+msgid "Hellhound"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Combat_B, REC: GBFM:FULL
+msgctxt "032CA2"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Cargo_A, REC: GBFM:FULL
+msgctxt "032CA3"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Cargo_B, REC: GBFM:FULL
+msgctxt "032CA4"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Cargo_C, REC: GBFM:FULL
+msgctxt "032CA5"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Cargo_M_Scow, REC: GBFM:FULL
+msgctxt "032CA6"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Combat_A, REC: GBFM:FULL
+msgctxt "032CA7"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Combat_C, REC: GBFM:FULL
+msgctxt "032CA8"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Starborn_C, REC: GBFM:FULL
+msgctxt "032CA9"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Tanker_A, REC: GBFM:FULL
+msgctxt "032CAA"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Tanker_C, REC: GBFM:FULL
+msgctxt "032CAB"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Transport_A, REC: GBFM:FULL
+msgctxt "032CAC"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Transport_B, REC: GBFM:FULL
+msgctxt "032CAD"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Transport_C, REC: GBFM:FULL
+msgctxt "032CAE"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: FC09_Combat_B_Generic_FreestarRanger_Ship, REC: GBFM:FULL
+msgctxt "033888"
+msgid "Star Eagle"
+msgstr ""
+
+# List: 0, EDID: TraitKidStuff_Cargo_A_Generic_Template, REC: GBFM:FULL
+msgctxt "033AF7"
+msgid "Wanderwell"
+msgstr ""
+
+# List: 0, EDID: Combat_B_Generic_FreestarRanger_Ship_Template, REC: GBFM:FULL
+msgctxt "033AF8"
+msgid "Star Eagle"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Combat_C_GalBank, REC: GBFM:FULL
+msgctxt "033B5F"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Transport_C_GalBank, REC: GBFM:FULL
+msgctxt "033B60"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Cargo_A_GalBank, REC: GBFM:FULL
+msgctxt "033B61"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: Inventory_Template_Cargo_B_GalBank, REC: GBFM:FULL
+msgctxt "033B62"
+msgid "Watchdog"
+msgstr ""
+
+# List: 0, EDID: SE_FAB04_Fighter_A_Taiyo_Sparrow01_Ghost, REC: GBFM:FULL
+msgctxt "033BB7"
+msgid "Sparrow"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Nova_Ranger01_Template, REC: GBFM:FULL
+msgctxt "033C56"
+msgid "Ranger"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Nova_Ranger01_Template, REC: GBFM:HULL
+msgctxt "033C57"
+msgid "BSN-728"
+msgstr ""
+
+# List: 0, EDID: Cargo_A_Generic_Railstar01_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EAB"
+msgid "Railstar"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Taiyo_Falcon02_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EAC"
+msgid "Falcon II"
+msgstr ""
+
+# List: 0, EDID: Cargo_A_Generic_Railstar03_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EAD"
+msgid "Railstar III"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Taiyo_Sparrow03_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EAE"
+msgid "Sparrow III"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Taiyo_Sparrow02_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EAF"
+msgid "Sparrow II"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Taiyo_Sparrow01_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EB0"
+msgid "Sparrow"
+msgstr ""
+
+# List: 0, EDID: Cargo_B_Generic_Wagontrain01_Shielded_Template, REC:
+# GBFM:FULL
+msgctxt "033EB1"
+msgid "Wagontrain"
+msgstr ""
+
+# List: 0, EDID: Cargo_B_Generic_Wagontrain02_Shielded_Template, REC:
+# GBFM:FULL
+msgctxt "033EB2"
+msgid "Wagontrain II"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Hopetech_Watchdog03_Shielded_Template, REC:
+# GBFM:FULL
+msgctxt "033EB3"
+msgid "Watchdog III"
+msgstr ""
+
+# List: 0, EDID: Cargo_A_Generic_Railstar02_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EB4"
+msgid "Railstar II"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Taiyo_Hammerhead03_Shielded_Template, REC:
+# GBFM:FULL
+msgctxt "033EB5"
+msgid "Hammerhead III"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Hopetech_Watchdog04_Shielded_Template, REC:
+# GBFM:FULL
+msgctxt "033EB6"
+msgid "Watchdog IV"
+msgstr ""
+
+# List: 0, EDID: Combat_A_Generic_Achilles01_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EB7"
+msgid "Achilles"
+msgstr ""
+
+# List: 0, EDID: Combat_A_Generic_Achilles02_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EB8"
+msgid "Achilles II"
+msgstr ""
+
+# List: 0, EDID: Combat_A_Generic_Achilles03_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EB9"
+msgid "Achilles III"
+msgstr ""
+
+# List: 0, EDID: Cargo_B_Generic_Wagontrain03_Shielded_Template, REC:
+# GBFM:FULL
+msgctxt "033EBA"
+msgid "Wagontrain III"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Taiyo_Falcon01_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EBB"
+msgid "Falcon"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Taiyo_Falcon03_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EBC"
+msgid "Falcon III"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Taiyo_Falcon04_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EBD"
+msgid "Falcon IV"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Taiyo_Hammerhead01_Shielded_Template, REC:
+# GBFM:FULL
+msgctxt "033EBE"
+msgid "Hammerhead"
+msgstr ""
+
+# List: 0, EDID: Destroyer_B_Taiyo_Hammerhead02_Shielded_Template, REC:
+# GBFM:FULL
+msgctxt "033EBF"
+msgid "Hammerhead II"
+msgstr ""
+
+# List: 0, EDID: Combat_B_Generic_Naginata01_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EC0"
+msgid "Naginata"
+msgstr ""
+
+# List: 0, EDID: Combat_B_Generic_Naginata02_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EC1"
+msgid "Naginata II"
+msgstr ""
+
+# List: 0, EDID: Combat_C_Generic_Crossbow02_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EC2"
+msgid "Crossbow II"
+msgstr ""
+
+# List: 0, EDID: Combat_B_Generic_Naginata03_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EC3"
+msgid "Naginata III"
+msgstr ""
+
+# List: 0, EDID: Combat_C_Generic_Crossbow01_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EC4"
+msgid "Crossbow"
+msgstr ""
+
+# List: 0, EDID: Fighter_A_Hopetech_Watchdog02_Shielded_Template, REC:
+# GBFM:FULL
+msgctxt "033EC5"
+msgid "Watchdog II"
+msgstr ""
+
+# List: 0, EDID: Combat_C_Generic_Crossbow03_Shielded_Template, REC: GBFM:FULL
+msgctxt "033EC6"
+msgid "Crossbow III"
+msgstr ""

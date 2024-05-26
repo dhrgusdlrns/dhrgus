@@ -1,161 +1,174 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-27 00:51+0900\n"
+"PO-Revision-Date: 2024-05-26 15:51+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: kor\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
+
+#
 
 # List: 0, EDID: PEO_MedicalItemHealing_Perk, REC: PERK:FULL
 msgctxt "00000A"
 msgid "WIP Medical Item Healing"
-msgstr ""
+msgstr "WIP 의약품 회복"
 
 # List: 0, EDID: PEO_AmmoWeight_Perk, REC: PERK:FULL
 msgctxt "00000D"
 msgid "WIP Ammo Weight"
-msgstr ""
+msgstr "WIP 실탄 중량"
 
 # List: 0, EDID: PEO_CombatLethality_Perk, REC: PERK:FULL
 msgctxt "00000F"
 msgid "Combat Lethality"
-msgstr ""
+msgstr "전투시 사망 위험률"
 
 # List: 0, EDID: PEO_ShipDamageOutput_Player_Perk, REC: PERK:FULL
 msgctxt "000011"
 msgid "PEO Player Ship Damage Perk"
-msgstr ""
+msgstr "PEO 플레이어 함선 피해량 특성"
 
 # List: 0, EDID: SQ_PEO_SleepHealing, REC: QUST:FULL
 msgctxt "000012"
 msgid "PEO Sleep Healing Quest"
-msgstr ""
+msgstr "PEO 수면 회복 퀘스트"
 
 # List: 0, EDID: SQ_PEO, REC: QUST:FULL
 msgctxt "000013"
 msgid "PEO Quest"
-msgstr ""
+msgstr "PEO 퀘스트"
 
 # List: 0, EDID: PEO_abAddPerk_CarryCapacity, REC: SPEL:FULL
 msgctxt "000014"
 msgid "PEO Carry Capacity Ability"
-msgstr ""
+msgstr "PEO 운반 중량 능력"
 
 # List: 0, EDID: PEO_abAddPerk_MedicalItemHealing, REC: SPEL:FULL
 msgctxt "000015"
 msgid "PEO Medical Item Healing Ability"
-msgstr ""
+msgstr "PEO 의약품 회복 능력"
 
 # List: 0, EDID: PEO_abAddPerk_AmmoWeight, REC: SPEL:FULL
 msgctxt "000016"
 msgid "PEO Ammo Weight Ability"
-msgstr ""
+msgstr "PEO 실탄 중량 능력"
 
 # List: 0, EDID: PEO_abAddPerk_CombatLethality, REC: SPEL:FULL
 msgctxt "000017"
 msgid "Combat Lethality Ability"
-msgstr ""
+msgstr "전투시 사망 위험률 능력"
 
 # List: 0, EDID: PEO_abAddPerk_ShipDamageOutput, REC: SPEL:FULL
 msgctxt "000018"
 msgid "Ship Damage Output Ability"
-msgstr ""
+msgstr "함선 피해량 결과값 능력"
 
 # List: 0, EDID: PEO_abAddPerk_XP_Mult, REC: SPEL:FULL
 msgctxt "000019"
 msgid "PEO_abAddPerk_XP_Mult Ability"
-msgstr ""
+msgstr "PEO_abAddPerk_XP_Mult Ability"
 
 # List: 0, EDID: PEO_abAddPerk_CarryCapacity_Effect, REC: MGEF:FULL
 msgctxt "00001A"
 msgid "PEO CarryCapacity Effect"
-msgstr ""
+msgstr "PEO 운반 중량 효과"
 
 # List: 0, EDID: PEO_abAddPerk_MedicalItemHealing_Effect, REC: MGEF:FULL
 msgctxt "00001B"
 msgid "PEO Medical Item Healing Effect"
-msgstr ""
+msgstr "PEO 의약품 회복 효과"
 
 # List: 0, EDID: PEO_abAddPerk_AmmoWeight_Effect, REC: MGEF:FULL
 msgctxt "00001C"
 msgid "PEO AmmoWeight Effect"
-msgstr ""
+msgstr "PEO 실탄 중량 효과"
 
 # List: 0, EDID: PEO_abAddPerk_CombatLethality_Effect, REC: MGEF:FULL
 msgctxt "00001D"
 msgid "Combat Lethality Effect"
-msgstr ""
+msgstr "전투시 사망 위험률 효과"
 
 # List: 0, EDID: PEO_abAddPerk_ShipDamageOutput_Effect, REC: MGEF:FULL
 msgctxt "00001E"
 msgid "Ship Damage Output Effect"
-msgstr ""
+msgstr "함선 피해량 결과값 효과"
 
 # List: 0, EDID: PEO_abAddPerk_XP_Mult_Effect, REC: MGEF:FULL
 msgctxt "00001F"
 msgid "GPO XP Mult"
-msgstr ""
+msgstr "GPO XP 배율"
 
 # List: 0, EDID: GPO_PEO, REC: GPOG:NNAM
 msgctxt "000020"
 msgid "Player Experience Options"
-msgstr ""
+msgstr "플레이어 경험치 설정"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:RESN
 msgctxt "000021"
 msgid "EXTREME"
-msgstr ""
+msgstr "극한"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:VOVS
 msgctxt "000022"
 msgid "{0}: Enemies deal significant damage."
-msgstr ""
+msgstr "{0}: 적이 가하는 피해량 매우 크게 증가."
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:RESN
 msgctxt "000023"
 msgid "VERY HARD"
-msgstr ""
+msgstr "매우 어려움"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:VOVS
 msgctxt "000024"
 msgid "{0}: Enemies deal much more damage."
-msgstr ""
+msgstr "{0}: 적이 가하는 피해량 크게 증가."
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:RESN
 msgctxt "000025"
 msgid "HARD"
-msgstr ""
+msgstr "어려움"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:VOVS
 msgctxt "000026"
 msgid "{0}: Enemies deal more damage."
-msgstr ""
+msgstr "{0}: 적이 가하는 피해량 증가."
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:RESN
 msgctxt "000027"
 msgid "NORMAL"
-msgstr ""
+msgstr "보통"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:VOVS
 msgctxt "000028"
 msgid "{0}: Enemies deal standard damage."
-msgstr ""
+msgstr "{0}: 적이 가하는 피해량 보통."
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:RESN
 msgctxt "000029"
 msgid "EASY"
-msgstr ""
+msgstr "쉬움"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:VOVS
 msgctxt "00002A"
 msgid "{0}: Enemies deal less damage."
-msgstr ""
+msgstr "{0}: 적이 가하는 피해량 감소."
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:RESN
 msgctxt "00002B"
 msgid "VERY EASY"
-msgstr ""
+msgstr "매우 쉬움"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:VOVS
 msgctxt "00002C"
 msgid "{0}: Enemies deal little damage."
-msgstr ""
+msgstr "{0}: 적이 가하는 피해량 크게 감소."
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:DNAM
 msgctxt "00002D"
@@ -174,71 +187,84 @@ msgid ""
 "\n"
 "{5}"
 msgstr ""
+"우주 공간에서 벌이는 전투에서 적이 가하는 피해량을 조정하여 사망 위험률을 조절합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}\n"
+"\n"
+"{4}\n"
+"\n"
+"{5}"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:NNAM
 msgctxt "00002E"
 msgid "Enemy Ship Damage"
-msgstr ""
+msgstr "적 함선의 피해량"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:RESN
 msgctxt "00002F"
 msgid "EXTREME"
-msgstr ""
+msgstr "극한"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:VOVS
 msgctxt "000030"
 msgid "{0}: Enemies deal significant damage."
-msgstr ""
+msgstr "{0}: 적이 가하는 피해량 매우 크게 증가."
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:RESN
 msgctxt "000031"
 msgid "VERY HARD"
-msgstr ""
+msgstr "매우 어려움"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:VOVS
 msgctxt "000032"
 msgid "{0}: Enemies deal much more damage."
-msgstr ""
+msgstr "{0}: 적이 가하는 피해량 크게 증가."
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:RESN
 msgctxt "000033"
 msgid "HARD"
-msgstr ""
+msgstr "어려움"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:VOVS
 msgctxt "000034"
 msgid "{0}: Enemies deal more damage."
-msgstr ""
+msgstr "{0}: 적이 가하는 피해량 증가."
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:RESN
 msgctxt "000035"
 msgid "NORMAL"
-msgstr ""
+msgstr "보통"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:VOVS
 msgctxt "000036"
 msgid "{0}: Enemies deal standard damage."
-msgstr ""
+msgstr "{0}: 적이 가하는 피해량 보통."
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:RESN
 msgctxt "000037"
 msgid "EASY"
-msgstr ""
+msgstr "쉬움"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:VOVS
 msgctxt "000038"
 msgid "{0}: Enemies deal less damage."
-msgstr ""
+msgstr "{0}: 적이 가하는 피해량 감소."
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:RESN
 msgctxt "000039"
 msgid "VERY EASY"
-msgstr ""
+msgstr "매우 쉬움"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:VOVS
 msgctxt "00003A"
 msgid "{0}: Enemies deal little damage."
-msgstr ""
+msgstr "{0}: 적이 가하는 피해량 크게 감소."
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:DNAM
 msgctxt "00003B"
@@ -257,71 +283,84 @@ msgid ""
 "\n"
 "{5}"
 msgstr ""
+"지표면에서 벌이는 전투에서 적이 가하는 피해량을 조정하여 사망 위험률을 조절합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}\n"
+"\n"
+"{4}\n"
+"\n"
+"{5}"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:NNAM
 msgctxt "00003C"
 msgid "Enemy Combat Damage"
-msgstr ""
+msgstr "전투시 적의 피해량"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:RESN
 msgctxt "00003D"
 msgid "EXTREME"
-msgstr ""
+msgstr "극한"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:VOVS
 msgctxt "00003E"
 msgid "{0}: You deal little damage."
-msgstr ""
+msgstr "{0}: 플레이어가 가하는 피해량 크게 감소."
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:RESN
 msgctxt "00003F"
 msgid "VERY HARD"
-msgstr ""
+msgstr "매우 어려움"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:VOVS
 msgctxt "000040"
 msgid "{0}: You deal much less damage."
-msgstr ""
+msgstr "{0}: 플레이어가 가하는 피해량 크게 감소."
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:RESN
 msgctxt "000041"
 msgid "HARD"
-msgstr ""
+msgstr "어려움"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:VOVS
 msgctxt "000042"
 msgid "{0}: You deal less damage."
-msgstr ""
+msgstr "{0}: 플레이어가 가하는 피해량 감소."
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:RESN
 msgctxt "000043"
 msgid "NORMAL"
-msgstr ""
+msgstr "보통"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:VOVS
 msgctxt "000044"
 msgid "{0}: You deal standard damage."
-msgstr ""
+msgstr "{0}: 플레이어가 가하는 피해량 보통."
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:RESN
 msgctxt "000045"
 msgid "EASY"
-msgstr ""
+msgstr "쉬움"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:VOVS
 msgctxt "000046"
 msgid "{0}: You deal more damage."
-msgstr ""
+msgstr "{0}: 플레이어가 가하는 피해량 증가."
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:RESN
 msgctxt "000047"
 msgid "VERY EASY"
-msgstr ""
+msgstr "매우 쉬움"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:VOVS
 msgctxt "000048"
 msgid "{0}: You deal much more damage."
-msgstr ""
+msgstr "{0}: 플레이어가 가하는 피해량 크게 증가."
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:DNAM
 msgctxt "000049"
@@ -340,71 +379,84 @@ msgid ""
 "\n"
 "{5}"
 msgstr ""
+"우주 공간에서 벌이는 전투에서 플레이어가 가하는 피해량을 조정하여 사망 위험률을 조절합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}\n"
+"\n"
+"{4}\n"
+"\n"
+"{5}"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:NNAM
 msgctxt "00004A"
 msgid "Player Ship Damage"
-msgstr ""
+msgstr "플레이어 함선의 피해량"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:RESN
 msgctxt "00004B"
 msgid "EXTREME"
-msgstr ""
+msgstr "극한"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:VOVS
 msgctxt "00004C"
 msgid "{0}: You deal little damage."
-msgstr ""
+msgstr "{0}: 플레이어가 가하는 피해량 크게 감소."
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:RESN
 msgctxt "00004D"
 msgid "VERY HARD"
-msgstr ""
+msgstr "매우 어려움"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:VOVS
 msgctxt "00004E"
 msgid "{0}: You deal much less damage."
-msgstr ""
+msgstr "{0}: 플레이어가 가하는 피해량 크게 감소."
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:RESN
 msgctxt "00004F"
 msgid "HARD"
-msgstr ""
+msgstr "어려움"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:VOVS
 msgctxt "000050"
 msgid "{0}: You deal less damage."
-msgstr ""
+msgstr "{0}: 플레이어가 가하는 피해량 감소."
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:RESN
 msgctxt "000051"
 msgid "NORMAL"
-msgstr ""
+msgstr "보통"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:VOVS
 msgctxt "000052"
 msgid "{0}: You deal standard damage."
-msgstr ""
+msgstr "{0}: 플레이어가 가하는 피해량 보통."
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:RESN
 msgctxt "000053"
 msgid "EASY"
-msgstr ""
+msgstr "쉬움"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:VOVS
 msgctxt "000054"
 msgid "{0}: You deal more damage."
-msgstr ""
+msgstr "{0}: 플레이어가 가하는 피해량 증가."
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:RESN
 msgctxt "000055"
 msgid "VERY EASY"
-msgstr ""
+msgstr "매우 쉬움"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:VOVS
 msgctxt "000056"
 msgid "{0}: You deal much more damage."
-msgstr ""
+msgstr "{0}: 플레이어가 가하는 피해량 크게 증가."
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:DNAM
 msgctxt "000057"
@@ -423,51 +475,64 @@ msgid ""
 "\n"
 "{5}"
 msgstr ""
+"지표면에서 벌이는 전투에서 플레이어가 가하는 피해량을 조정하여 사망 위험률을 조절합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}\n"
+"\n"
+"{4}\n"
+"\n"
+"{5}"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:NNAM
 msgctxt "000058"
 msgid "Player Combat Damage"
-msgstr ""
+msgstr "전투시 플레이어의 피해량"
 
 # List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:RESN
 msgctxt "000059"
 msgid "REDUCED"
-msgstr ""
+msgstr "감소"
 
 # List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:VOVS
 msgctxt "00005A"
 msgid "{0}: Reduced credits."
-msgstr ""
+msgstr "{0}: 크레딧 감소."
 
 # List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:RESN
 msgctxt "00005B"
 msgid "NORMAL"
-msgstr ""
+msgstr "보통"
 
 # List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:VOVS
 msgctxt "00005C"
 msgid "{0}: Standard credits."
-msgstr ""
+msgstr "{0}: 크레딧 보통."
 
 # List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:RESN
 msgctxt "00005D"
 msgid "INCREASED"
-msgstr ""
+msgstr "증가"
 
 # List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:VOVS
 msgctxt "00005E"
 msgid "{0}: Increased credits."
-msgstr ""
+msgstr "{0}: 크레딧 증가."
 
 # List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:RESN
 msgctxt "00005F"
 msgid "GREATLY INCREASED"
-msgstr ""
+msgstr "크게 증가"
 
 # List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:VOVS
 msgctxt "000060"
 msgid "{0}: Greatly increased credits."
-msgstr ""
+msgstr "{0}: 크레딧 크게 증가."
 
 # List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:DNAM
 msgctxt "000061"
@@ -484,46 +549,58 @@ msgid ""
 "\n"
 "{3}"
 msgstr ""
+"<font color=\"#EDEDED\">참고: 이 설정은 상점에 물품이 재입고된 후에 적용됩니다.(재입고는 대략 일주일에 한 번 "
+"진행됩니다.)</font>\n"
+"\n"
+"상인이 아이템을 매입할 수 있는 보유 크레딧 한도를 설정합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}"
 
 # List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:NNAM
 msgctxt "000062"
 msgid "Vendor Credits"
-msgstr ""
+msgstr "상인 보유 크레딧"
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:RESN
 msgctxt "000063"
 msgid "LIMITED RESTING"
-msgstr ""
+msgstr "제한된 장소에서 휴식시"
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:VOVS
 msgctxt "000064"
 msgid ""
 "{0}: Restored while waiting or sleeping in a ship, outpost, or settlement."
-msgstr ""
+msgstr "{0}: 함선, 전초기지, 정착지에서 대기, 수면시 회복."
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:RESN
 msgctxt "000065"
 msgid "RESTING"
-msgstr ""
+msgstr "휴식시"
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:VOVS
 msgctxt "000066"
 msgid ""
 "{0}: Restored while waiting or sleeping in a breathable location unexposed "
 "to environmental damage."
-msgstr ""
+msgstr "{0}: 환경 피해를 받지 않는 상태고 숨 쉴 수 있는 장소서 대기, 수면시 회복."
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:RESN
 msgctxt "000067"
 msgid "NORMAL"
-msgstr ""
+msgstr "보통"
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:VOVS
 msgctxt "000068"
 msgid ""
 "{0}: Restored while in a breathable location unexposed to environmental "
 "damage."
-msgstr ""
+msgstr "{0}: 환경 피해를 받지 않는 상태고 숨 쉴 수 있는 장소에 있을시 회복."
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:DNAM
 msgctxt "000069"
@@ -536,43 +613,50 @@ msgid ""
 "\n"
 "{2}"
 msgstr ""
+"환경 피해 회복 방식을 설정합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}"
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:NNAM
 msgctxt "00006A"
 msgid "Environmental Damage Restoration"
-msgstr ""
+msgstr "환경 피해 회복"
 
 # List: 0, EDID: PEO_GPO_Sustenance, REC: GPOF:RESN
 msgctxt "00006B"
 msgid "POSITIVE & NEGATIVE"
-msgstr ""
+msgstr "긍정적, 부정적 효과"
 
 # List: 0, EDID: PEO_GPO_Sustenance, REC: GPOF:VOVS
 msgctxt "00006C"
 msgid ""
 "{0}: Food and drink grant positive effects and prevent negative effects: "
 "Malnourished and Dehydrated."
-msgstr ""
+msgstr "{0}: 음식과 음료 섭취시 긍정적 효과 발생, 부정적 효과(영양 부족, 수분 부족) 미발생."
 
 # List: 0, EDID: PEO_GPO_Sustenance, REC: GPOF:RESN
 msgctxt "00006D"
 msgid "POSITIVE ONLY"
-msgstr ""
+msgstr "긍정적 효과만"
 
 # List: 0, EDID: PEO_GPO_Sustenance, REC: GPOF:VOVS
 msgctxt "00006E"
 msgid "{0}: Food and drink grant positive effects: Fed and Hydrated."
-msgstr ""
+msgstr "{0}: 음식과 음료 섭취시 긍정적 효과(영양 충족, 수분 충족) 발생."
 
 # List: 0, EDID: PEO_GPO_Sustenance, REC: GPOF:RESN
 msgctxt "00006F"
 msgid "OFF"
-msgstr ""
+msgstr "끔"
 
 # List: 0, EDID: PEO_GPO_Sustenance, REC: GPOF:VOVS
 msgctxt "000070"
 msgid "{0}: You do not gain positive or negative Sustenance effects."
-msgstr ""
+msgstr "{0}: 음식과 음료에서 긍정적, 부정적 영양분 효과를 얻을 수 없음."
 
 # List: 0, EDID: PEO_GPO_Sustenance, REC: GPOF:DNAM
 msgctxt "000071"
@@ -585,51 +669,58 @@ msgid ""
 "\n"
 "{2}"
 msgstr ""
+"음식과 음료가 주는 영양분 효과를 설정합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}"
 
 # List: 0, EDID: PEO_GPO_Sustenance, REC: GPOF:NNAM
 msgctxt "000072"
 msgid "Sustenance"
-msgstr ""
+msgstr "영양분 효과"
 
 # List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:RESN
 msgctxt "000073"
 msgid "NONE"
-msgstr ""
+msgstr "없음"
 
 # List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:VOVS
 msgctxt "000074"
 msgid "{0}: Sleeping doesn't restore health."
-msgstr ""
+msgstr "{0}: 수면으로 체력 회복 불가."
 
 # List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:RESN
 msgctxt "000075"
 msgid "LOCATION LIMITED"
-msgstr ""
+msgstr "제한된 장소에서 수면시"
 
 # List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:VOVS
 msgctxt "000076"
 msgid "{0}: Sleeping restores health in ships, outposts, and settlements."
-msgstr ""
+msgstr "{0}: 함선, 전초기지, 정착지에서 수면시 체력 회복."
 
 # List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:RESN
 msgctxt "000077"
 msgid "NORMAL"
-msgstr ""
+msgstr "보통"
 
 # List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:VOVS
 msgctxt "000078"
 msgid "{0}: Sleeping restores health anywhere."
-msgstr ""
+msgstr "{0}: 어디서든 수면시 체력 회복."
 
 # List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:RESN
 msgctxt "000079"
 msgid "FULL RESTORE"
-msgstr ""
+msgstr "완전 회복"
 
 # List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:VOVS
 msgctxt "00007A"
 msgid "{0}: Sleeping restores health and cures Afflictions anywhere."
-msgstr ""
+msgstr "{0}: 어디서든 수면시 체력 회복 및 상태 이상 치료."
 
 # List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:DNAM
 msgctxt "00007B"
@@ -644,35 +735,44 @@ msgid ""
 "\n"
 "{3}"
 msgstr ""
+"수면을 통해 회복하는 방식을 설정합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}"
 
 # List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:NNAM
 msgctxt "00007C"
 msgid "Sleep Healing"
-msgstr ""
+msgstr "수면 회복"
 
 # List: 0, EDID: PEO_GPO_AfflictionPrognosis, REC: GPOF:RESN
 msgctxt "000089"
 msgid "ADVANCED"
-msgstr ""
+msgstr "심화"
 
 # List: 0, EDID: PEO_GPO_AfflictionPrognosis, REC: GPOF:VOVS
 msgctxt "00008A"
 msgid ""
 "{0}: Afflictions have a chance to worsen or gain infection, and have a "
 "better chance to cure and improve."
-msgstr ""
+msgstr "{0}: 상태 이상 악화 및 감염 가능성 있음. 치료 가능성 및 예후 개선 가능성 증가."
 
 # List: 0, EDID: PEO_GPO_AfflictionPrognosis, REC: GPOF:RESN
 msgctxt "00008B"
 msgid "NORMAL"
-msgstr ""
+msgstr "보통"
 
 # List: 0, EDID: PEO_GPO_AfflictionPrognosis, REC: GPOF:VOVS
 msgctxt "00008C"
 msgid ""
 "{0}: Afflictions have no chance to worsen or gain infection, and have a "
 "standard chance to cure and improve."
-msgstr ""
+msgstr "{0}: 상태 이상 악화 및 감염 가능성 없음. 치료 가능성 및 예후 개선 가능성 보통."
 
 # List: 0, EDID: PEO_GPO_AfflictionPrognosis, REC: GPOF:DNAM
 msgctxt "00008D"
@@ -683,41 +783,47 @@ msgid ""
 "\n"
 "{1}"
 msgstr ""
+"예후가 상태 이상 개선 및 치료에 얼마나 영향을 미치는지 설정합니다. 예후가 '나쁨' 상태인 경우 상태 이상이 악화되거나 감염이 발생할지 "
+"여부를 설정합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}"
 
 # List: 0, EDID: PEO_GPO_AfflictionPrognosis, REC: GPOF:NNAM
 msgctxt "00008E"
 msgid "Affliction Prognosis"
-msgstr ""
+msgstr "상태 이상과 예후"
 
 # List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:RESN
 msgctxt "00008F"
 msgid "SLOWLY"
-msgstr ""
+msgstr "감소"
 
 # List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:VOVS
 msgctxt "000090"
 msgid "{0}: Medical items restore the standard amount more slowly."
-msgstr ""
+msgstr "{0}: 의약품의 회복량은 기본 수치로 설정되지만 회복 속도가 느려집니다."
 
 # List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:RESN
 msgctxt "000091"
 msgid "NORMAL"
-msgstr ""
+msgstr "보통"
 
 # List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:VOVS
 msgctxt "000092"
 msgid "{0}: Medical items restore the standard amount."
-msgstr ""
+msgstr "{0}: 의약품의 회복량이 기본 수치로 설정됩니다."
 
 # List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:RESN
 msgctxt "000093"
 msgid "MORE"
-msgstr ""
+msgstr "증가"
 
 # List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:VOVS
 msgctxt "000094"
 msgid "{0}: Medical items restore more."
-msgstr ""
+msgstr "{0}: 의약품의 회복량이 증가합니다."
 
 # List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:DNAM
 msgctxt "000095"
@@ -730,41 +836,48 @@ msgid ""
 "\n"
 "{2}"
 msgstr ""
+"메디 팩, 트라우마팩, 응급 키트의 체력 회복량을 설정합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}"
 
 # List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:NNAM
 msgctxt "000096"
 msgid "Medical Item Healing"
-msgstr ""
+msgstr "의약품 회복"
 
 # List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:RESN
 msgctxt "000097"
 msgid "NONE"
-msgstr ""
+msgstr "없음"
 
 # List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:VOVS
 msgctxt "000098"
 msgid "{0}: Food doesn't restore."
-msgstr ""
+msgstr "{0}: 음식 회복량 없음."
 
 # List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:RESN
 msgctxt "000099"
 msgid "NORMAL"
-msgstr ""
+msgstr "보통"
 
 # List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:VOVS
 msgctxt "00009A"
 msgid "{0}: Food restores normally."
-msgstr ""
+msgstr "{0}: 음식 회복량 보통."
 
 # List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:RESN
 msgctxt "00009B"
 msgid "MORE"
-msgstr ""
+msgstr "증가"
 
 # List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:VOVS
 msgctxt "00009C"
 msgid "{0}: Food restores more."
-msgstr ""
+msgstr "{0}: 음식 회복량 증가."
 
 # List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:DNAM
 msgctxt "00009D"
@@ -777,28 +890,35 @@ msgid ""
 "\n"
 "{2}"
 msgstr ""
+"음식 섭취시 체력 회복량을 설정합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}"
 
 # List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:NNAM
 msgctxt "00009E"
 msgid "Food Healing"
-msgstr ""
+msgstr "음식 섭취시 체력 회복량"
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:RESN
 msgctxt "00009F"
 msgid "ADVANCED"
-msgstr ""
+msgstr "심화"
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:VOVS
 msgctxt "0000A0"
 msgid ""
 "{0}: Environmental Damage and Afflictions are gained from hazards, weather, "
 "and ambiently on dangerous planets."
-msgstr ""
+msgstr "{0}: 위험 행성이나 위성의 환경 위험 요소, 날씨, 주변 환경으로 인해 환경 피해와 상태 이상이 발생합니다."
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:RESN
 msgctxt "0000A3"
 msgid "NORMAL"
-msgstr ""
+msgstr "보통"
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:VOVS
 msgctxt "0000A4"
@@ -806,17 +926,18 @@ msgid ""
 "{0}: Environmental Damage and Afflictions are gained from hazards. "
 "Afflictions are gained from weather."
 msgstr ""
+"{0}: 위험 행성이나 위성의 환경 위험 요소로 인해 환경 피해가 발생합니다. 위험 행성이나 위성의 날씨로 인해 상태 이상이 발생합니다."
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:RESN
 msgctxt "0000A5"
 msgid "OFF"
-msgstr ""
+msgstr "끔"
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:VOVS
 msgctxt "0000A6"
 msgid ""
 "{0}: No Environmental Damage or Afflictions are gained from the environment."
-msgstr ""
+msgstr "{0}: 위험 행성이나 위성의 환경으로 인해 환경 피해와 상태 이상이 발생하지 않습니다."
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:DNAM
 msgctxt "0000A7"
@@ -829,43 +950,50 @@ msgid ""
 "\n"
 "{2}"
 msgstr ""
+"환경으로 인해 환경 피해와 상태 이상이 발생하는 방식을 설정합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}"
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:NNAM
 msgctxt "0000A8"
 msgid "Environmental Damage & Afflictions"
-msgstr ""
+msgstr "환경 피해와 상태 이상"
 
 # List: 0, EDID: PEO_GPO_CombatAfflictionGain, REC: GPOF:RESN
 msgctxt "0000A9"
 msgid "INCREASED"
-msgstr ""
+msgstr "증가"
 
 # List: 0, EDID: PEO_GPO_CombatAfflictionGain, REC: GPOF:VOVS
 msgctxt "0000AA"
 msgid ""
 "{0}: You have a significant chance to gain Afflictions from creatures, "
 "turrets, robots, and human weapons."
-msgstr ""
+msgstr "{0}: 생물, 포탑, 로봇, 인간 무기에 피해를 입으면 매우 높은 확률로 상태 이상이 발생."
 
 # List: 0, EDID: PEO_GPO_CombatAfflictionGain, REC: GPOF:RESN
 msgctxt "0000AB"
 msgid "NORMAL"
-msgstr ""
+msgstr "보통"
 
 # List: 0, EDID: PEO_GPO_CombatAfflictionGain, REC: GPOF:VOVS
 msgctxt "0000AC"
 msgid "{0}: You have a normal chance to gain Afflictions from creatures."
-msgstr ""
+msgstr "{0}: 생물에 피해를 입으면 보통 확률로 상태 이상이 발생."
 
 # List: 0, EDID: PEO_GPO_CombatAfflictionGain, REC: GPOF:RESN
 msgctxt "0000AD"
 msgid "OFF"
-msgstr ""
+msgstr "끔"
 
 # List: 0, EDID: PEO_GPO_CombatAfflictionGain, REC: GPOF:VOVS
 msgctxt "0000AE"
 msgid "{0}: You do not gain Afflictions from any form of combat."
-msgstr ""
+msgstr "{0}: 전투에서 피해를 입어도 상태 이상 미발생."
 
 # List: 0, EDID: PEO_GPO_CombatAfflictionGain, REC: GPOF:DNAM
 msgctxt "0000AF"
@@ -878,51 +1006,58 @@ msgid ""
 "\n"
 "{2}"
 msgstr ""
+"전투 중에 플레이어에게 상태 이상이 발생하는 방식을 설정합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}"
 
 # List: 0, EDID: PEO_GPO_CombatAfflictionGain, REC: GPOF:NNAM
 msgctxt "0000B0"
 msgid "Combat Affliction Gain"
-msgstr ""
+msgstr "전투 중 상태 이상 발생"
 
 # List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:RESN
 msgctxt "0000B1"
 msgid "REDUCED"
-msgstr ""
+msgstr "감소"
 
 # List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:VOVS
 msgctxt "0000B2"
 msgid "{0}: Reduced carry capacity."
-msgstr ""
+msgstr "{0}: 운반 중량 감소."
 
 # List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:RESN
 msgctxt "0000B3"
 msgid "NORMAL"
-msgstr ""
+msgstr "보통"
 
 # List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:VOVS
 msgctxt "0000B4"
 msgid "{0}: Standard carry capacity."
-msgstr ""
+msgstr "{0}: 운반 중량 보통."
 
 # List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:RESN
 msgctxt "0000B5"
 msgid "INCREASED"
-msgstr ""
+msgstr "증가"
 
 # List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:VOVS
 msgctxt "0000B6"
 msgid "{0}: Increased carry capacity."
-msgstr ""
+msgstr "{0}: 운반 중량 증가."
 
 # List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:RESN
 msgctxt "0000B7"
 msgid "GREATLY INCREASED"
-msgstr ""
+msgstr "크게 증가"
 
 # List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:VOVS
 msgctxt "0000B8"
 msgid "{0}: Greatly increased carry capacity."
-msgstr ""
+msgstr "{0}: 운반 중량 크게 증가."
 
 # List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:DNAM
 msgctxt "0000B9"
@@ -937,51 +1072,60 @@ msgid ""
 "\n"
 "{3}"
 msgstr ""
+"플레이어와 동료의 운반 중량을 설정합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}"
 
 # List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:NNAM
 msgctxt "0000BA"
 msgid "Carry Capacity"
-msgstr ""
+msgstr "운반 중량"
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:RESN
 msgctxt "0000BB"
 msgid "INSIDE SHIP"
-msgstr ""
+msgstr "함선 안에서만"
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:VOVS
 msgctxt "0000BC"
 msgid "{0}: Access your ship's cargo only while inside the ship."
-msgstr ""
+msgstr "{0}: 함선 안에 있을 때만 함선 화물칸에 적재할 수 있다."
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:RESN
 msgctxt "0000BD"
 msgid "NORMAL"
-msgstr ""
+msgstr "보통"
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:VOVS
 msgctxt "0000BE"
 msgid "{0}: Access your ship's cargo only while near the ship."
-msgstr ""
+msgstr "{0}: 함선 근처에 있을 때만 함선 화물칸에 적재할 수 있다."
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:RESN
 msgctxt "0000BF"
 msgid "LIMITED LOCATIONS"
-msgstr ""
+msgstr "제한된 장소에서만"
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:VOVS
 msgctxt "0000C0"
 msgid "{0}: Access your ship's cargo while in outposts or settlements."
-msgstr ""
+msgstr "{0}: 전초기지, 정착지 안에 있을 때만 함선 화물칸에 적재할 수 있다."
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:RESN
 msgctxt "0000C1"
 msgid "ANYWHERE"
-msgstr ""
+msgstr "어디서든"
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:VOVS
 msgctxt "0000C2"
 msgid "{0}: Access your ship's cargo from any distance."
-msgstr ""
+msgstr "{0}: 지표면 어디서든 함선 화물칸에 적재할 수 있다."
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:DNAM
 msgctxt "0000C3"
@@ -996,61 +1140,70 @@ msgid ""
 "\n"
 "{3}"
 msgstr ""
+"개인 인벤토리 메뉴에 있는 아이템을 함선 화물칸에 적재할 수 있는 거리를 설정합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}"
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:NNAM
 msgctxt "0000C4"
 msgid "Cargo Access Distance"
-msgstr ""
+msgstr "함선 화물칸 적재 거리"
 
 # List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:RESN
 msgctxt "0000C5"
 msgid "OFF"
-msgstr ""
+msgstr "끔"
 
 # List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:VOVS
 msgctxt "0000C6"
 msgid "{0}: No Aim Assistance."
-msgstr ""
+msgstr "{0}: 조준 보정 없음."
 
 # List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:RESN
 msgctxt "0000C7"
 msgid "MINIMAL"
-msgstr ""
+msgstr "감소"
 
 # List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:VOVS
 msgctxt "0000C8"
 msgid "{0}: Minimal Aim Assistance."
-msgstr ""
+msgstr "{0}: 조준 보정 감소."
 
 # List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:RESN
 msgctxt "0000C9"
 msgid "NORMAL"
-msgstr ""
+msgstr "보통"
 
 # List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:VOVS
 msgctxt "0000CA"
 msgid "{0}: Standard Aim Assistance."
-msgstr ""
+msgstr "{0}: 조준 보정 보통."
 
 # List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:RESN
 msgctxt "0000CB"
 msgid "INCREASED"
-msgstr ""
+msgstr "증가"
 
 # List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:VOVS
 msgctxt "0000CC"
 msgid "{0}: Increased Aim Assistance."
-msgstr ""
+msgstr "{0}: 조준 보정 증가."
 
 # List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:RESN
 msgctxt "0000CD"
 msgid "GREATLY INCREASED"
-msgstr ""
+msgstr "크게 증가"
 
 # List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:VOVS
 msgctxt "0000CE"
 msgid "{0}: Greatly increased Aim Assistance."
-msgstr ""
+msgstr "{0}: 조준 보정 크게 증가."
 
 # List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:DNAM
 msgctxt "0000CF"
@@ -1069,33 +1222,47 @@ msgid ""
 "\n"
 "{4}"
 msgstr ""
+"<font color=\"#EDEDED\">참고: 이 설정은 컨트롤러 사용 시에만 적용됩니다. 마우스와 키보드 입력에는 영향을 미치지 "
+"않습니다.</font>\n"
+"\n"
+"자동 조준 보정 강도를 설정합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}\n"
+"\n"
+"{4}"
 
 # List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:NNAM
 msgctxt "0000D0"
 msgid "Aim Assistance (Controller Only)"
-msgstr ""
+msgstr "조준 보정 (컨트롤러만 해당)"
 
 # List: 0, EDID: PEO_GPO_AfflictionTreatment, REC: GPOF:RESN
 msgctxt "0000D1"
 msgid "IMPROVE ONLY"
-msgstr ""
+msgstr "개선만 가능"
 
 # List: 0, EDID: PEO_GPO_AfflictionTreatment, REC: GPOF:VOVS
 msgctxt "0000D2"
 msgid ""
 "{0}: Treatments improve Prognosis up to \"Excellent\" but they do not cure "
 "Afflictions."
-msgstr ""
+msgstr "{0}: 치료로 예후를 '훌륭함' 상태까지 개선시킬 수 있으나, 상태 이상 치료 불가."
 
 # List: 0, EDID: PEO_GPO_AfflictionTreatment, REC: GPOF:RESN
 msgctxt "0000D3"
 msgid "NORMAL"
-msgstr ""
+msgstr "보통"
 
 # List: 0, EDID: PEO_GPO_AfflictionTreatment, REC: GPOF:VOVS
 msgctxt "0000D4"
 msgid "{0}: Treatments cure Afflictions."
-msgstr ""
+msgstr "{0}: 치료로 상태 이상 치료 가능."
 
 # List: 0, EDID: PEO_GPO_AfflictionTreatment, REC: GPOF:DNAM
 msgctxt "0000D5"
@@ -1106,31 +1273,36 @@ msgid ""
 "\n"
 "{1}"
 msgstr ""
+"치료가 상태 이상에 끼치는 효과를 설정합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}"
 
 # List: 0, EDID: PEO_GPO_AfflictionTreatment, REC: GPOF:NNAM
 msgctxt "0000D6"
 msgid "Affliction Treatment"
-msgstr ""
+msgstr "상태 이상 치료"
 
 # List: 0, EDID: PEO_GPO_AmmoWeight, REC: GPOF:RESN
 msgctxt "0000E3"
 msgid "WEIGHTED AMMO"
-msgstr ""
+msgstr "실탄 중량 있음"
 
 # List: 0, EDID: PEO_GPO_AmmoWeight, REC: GPOF:VOVS
 msgctxt "0000E4"
 msgid "{0}: Ammo has weight."
-msgstr ""
+msgstr "{0}: 실탄 중량 있음."
 
 # List: 0, EDID: PEO_GPO_AmmoWeight, REC: GPOF:RESN
 msgctxt "0000E5"
 msgid "OFF"
-msgstr ""
+msgstr "실탄 중량 없음"
 
 # List: 0, EDID: PEO_GPO_AmmoWeight, REC: GPOF:VOVS
 msgctxt "0000E6"
 msgid "{0}: Ammo has no weight."
-msgstr ""
+msgstr "{0}: 실탄 중량 없음."
 
 # List: 0, EDID: PEO_GPO_AmmoWeight, REC: GPOF:DNAM
 msgctxt "0000E7"
@@ -1141,16 +1313,21 @@ msgid ""
 "\n"
 "{1}"
 msgstr ""
+"실탄 중량의 유무를 설정합니다.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}"
 
 # List: 0, EDID: PEO_GPO_AmmoWeight, REC: GPOF:NNAM
 msgctxt "0000E8"
 msgid "Ammo Weight"
-msgstr ""
+msgstr "실탄 중량"
 
 # List: 0, EDID: PEO_CarryCapacity_Perk, REC: PERK:FULL
 msgctxt "0000EB"
 msgid "WIP Carry Capacity"
-msgstr ""
+msgstr "WIP 운반 중량"
 
 # List: 0, EDID: PEO_GameplayOptions, REC: LSCR:DESC
 msgctxt "0000EC"
@@ -1158,52 +1335,52 @@ msgid ""
 "Want to tweak the game's combat damage, aim assist, afflictions, carry "
 "capacity, and more? Visit the \"Gameplay Options\" section in the Settings "
 "Menu."
-msgstr ""
+msgstr "게임 내 전투시 피해량, 조준 보정, 상태 이상, 운반 중량 등은 설정 메뉴의 '게임 플레이 설정'에서 조정할 수 있습니다."
 
 # List: 0, EDID: SQ_PEO_SustenanceQuest, REC: QUST:FULL
 msgctxt "0000ED"
 msgid "PEO Sustenance Quest"
-msgstr ""
+msgstr "PEO 영양분 퀘스트"
 
 # List: 1, EDID: PEO_MedicalItemHealing_Perk, REC: PERK:DESC
 msgctxt "000008"
 msgid ""
 "Modifies medical item healing depending on Player Experience Options "
 "settings."
-msgstr ""
+msgstr "플레이어 경험치 설정에 따라 의약품 회복량을 변경합니다."
 
 # List: 1, EDID: PEO_MedicalItemHealing_Perk, REC: PERK:DESC
 msgctxt "000009"
 msgid "Sets how medpacks and other medical items heal."
-msgstr ""
+msgstr "메디 팩 및 기타 의약품의 회복 방식을 설정합니다."
 
 # List: 1, EDID: PEO_AmmoWeight_Perk, REC: PERK:DESC
 msgctxt "00000B"
 msgid "Modifies ammo weight depending on Player Experience Options settings."
-msgstr ""
+msgstr "플레이어 경험치 설정에 따라 실탄 중량을 변경합니다."
 
 # List: 1, EDID: PEO_AmmoWeight_Perk, REC: PERK:DESC
 msgctxt "00000C"
 msgid "Sets how much ammo weighs."
-msgstr ""
+msgstr "실탄 중량을 설정합니다."
 
 # List: 1, EDID: PEO_CombatLethality_Perk, REC: PERK:DESC
 msgctxt "00000E"
 msgid "Sets damage output for player and enemies."
-msgstr ""
+msgstr "플레이어와 적의 피해량 결과값을 설정합니다."
 
 # List: 1, EDID: PEO_ShipDamageOutput_Player_Perk, REC: PERK:DESC
 msgctxt "000010"
 msgid "Perk that manages all damage output/incoming mods to the player."
-msgstr ""
+msgstr "플레이어가 입는 모든 피해량 결과값/입력값 설정을 관리하는 특성입니다."
 
 # List: 1, EDID: PEO_CarryCapacity_Perk, REC: PERK:DESC
 msgctxt "0000E9"
 msgid ""
 "Modifies carry capacity depending on Player Experience Options settings."
-msgstr ""
+msgstr "플레이어 경험치 설정에 따라 운반 중량을 변경합니다."
 
 # List: 1, EDID: PEO_CarryCapacity_Perk, REC: PERK:DESC
 msgctxt "0000EA"
 msgid "Sets how much players and followers can carry."
-msgstr ""
+msgstr "플레이어와 동료의 운반 중량을 설정합니다."

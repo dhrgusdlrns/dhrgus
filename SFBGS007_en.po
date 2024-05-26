@@ -1,0 +1,1209 @@
+#
+msgid ""
+msgstr ""
+
+# List: 0, EDID: PEO_MedicalItemHealing_Perk, REC: PERK:FULL
+msgctxt "00000A"
+msgid "WIP Medical Item Healing"
+msgstr ""
+
+# List: 0, EDID: PEO_AmmoWeight_Perk, REC: PERK:FULL
+msgctxt "00000D"
+msgid "WIP Ammo Weight"
+msgstr ""
+
+# List: 0, EDID: PEO_CombatLethality_Perk, REC: PERK:FULL
+msgctxt "00000F"
+msgid "Combat Lethality"
+msgstr ""
+
+# List: 0, EDID: PEO_ShipDamageOutput_Player_Perk, REC: PERK:FULL
+msgctxt "000011"
+msgid "PEO Player Ship Damage Perk"
+msgstr ""
+
+# List: 0, EDID: SQ_PEO_SleepHealing, REC: QUST:FULL
+msgctxt "000012"
+msgid "PEO Sleep Healing Quest"
+msgstr ""
+
+# List: 0, EDID: SQ_PEO, REC: QUST:FULL
+msgctxt "000013"
+msgid "PEO Quest"
+msgstr ""
+
+# List: 0, EDID: PEO_abAddPerk_CarryCapacity, REC: SPEL:FULL
+msgctxt "000014"
+msgid "PEO Carry Capacity Ability"
+msgstr ""
+
+# List: 0, EDID: PEO_abAddPerk_MedicalItemHealing, REC: SPEL:FULL
+msgctxt "000015"
+msgid "PEO Medical Item Healing Ability"
+msgstr ""
+
+# List: 0, EDID: PEO_abAddPerk_AmmoWeight, REC: SPEL:FULL
+msgctxt "000016"
+msgid "PEO Ammo Weight Ability"
+msgstr ""
+
+# List: 0, EDID: PEO_abAddPerk_CombatLethality, REC: SPEL:FULL
+msgctxt "000017"
+msgid "Combat Lethality Ability"
+msgstr ""
+
+# List: 0, EDID: PEO_abAddPerk_ShipDamageOutput, REC: SPEL:FULL
+msgctxt "000018"
+msgid "Ship Damage Output Ability"
+msgstr ""
+
+# List: 0, EDID: PEO_abAddPerk_XP_Mult, REC: SPEL:FULL
+msgctxt "000019"
+msgid "PEO_abAddPerk_XP_Mult Ability"
+msgstr ""
+
+# List: 0, EDID: PEO_abAddPerk_CarryCapacity_Effect, REC: MGEF:FULL
+msgctxt "00001A"
+msgid "PEO CarryCapacity Effect"
+msgstr ""
+
+# List: 0, EDID: PEO_abAddPerk_MedicalItemHealing_Effect, REC: MGEF:FULL
+msgctxt "00001B"
+msgid "PEO Medical Item Healing Effect"
+msgstr ""
+
+# List: 0, EDID: PEO_abAddPerk_AmmoWeight_Effect, REC: MGEF:FULL
+msgctxt "00001C"
+msgid "PEO AmmoWeight Effect"
+msgstr ""
+
+# List: 0, EDID: PEO_abAddPerk_CombatLethality_Effect, REC: MGEF:FULL
+msgctxt "00001D"
+msgid "Combat Lethality Effect"
+msgstr ""
+
+# List: 0, EDID: PEO_abAddPerk_ShipDamageOutput_Effect, REC: MGEF:FULL
+msgctxt "00001E"
+msgid "Ship Damage Output Effect"
+msgstr ""
+
+# List: 0, EDID: PEO_abAddPerk_XP_Mult_Effect, REC: MGEF:FULL
+msgctxt "00001F"
+msgid "GPO XP Mult"
+msgstr ""
+
+# List: 0, EDID: GPO_PEO, REC: GPOG:NNAM
+msgctxt "000020"
+msgid "Player Experience Options"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:RESN
+msgctxt "000021"
+msgid "EXTREME"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:VOVS
+msgctxt "000022"
+msgid "{0}: Enemies deal significant damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:RESN
+msgctxt "000023"
+msgid "VERY HARD"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:VOVS
+msgctxt "000024"
+msgid "{0}: Enemies deal much more damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:RESN
+msgctxt "000025"
+msgid "HARD"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:VOVS
+msgctxt "000026"
+msgid "{0}: Enemies deal more damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:RESN
+msgctxt "000027"
+msgid "NORMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:VOVS
+msgctxt "000028"
+msgid "{0}: Enemies deal standard damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:RESN
+msgctxt "000029"
+msgid "EASY"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:VOVS
+msgctxt "00002A"
+msgid "{0}: Enemies deal less damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:RESN
+msgctxt "00002B"
+msgid "VERY EASY"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:VOVS
+msgctxt "00002C"
+msgid "{0}: Enemies deal little damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:DNAM
+msgctxt "00002D"
+msgid ""
+"Scales combat lethality by adjusting how much damage enemies deal in space combat.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}\n"
+"\n"
+"{4}\n"
+"\n"
+"{5}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:NNAM
+msgctxt "00002E"
+msgid "Enemy Ship Damage"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:RESN
+msgctxt "00002F"
+msgid "EXTREME"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:VOVS
+msgctxt "000030"
+msgid "{0}: Enemies deal significant damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:RESN
+msgctxt "000031"
+msgid "VERY HARD"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:VOVS
+msgctxt "000032"
+msgid "{0}: Enemies deal much more damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:RESN
+msgctxt "000033"
+msgid "HARD"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:VOVS
+msgctxt "000034"
+msgid "{0}: Enemies deal more damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:RESN
+msgctxt "000035"
+msgid "NORMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:VOVS
+msgctxt "000036"
+msgid "{0}: Enemies deal standard damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:RESN
+msgctxt "000037"
+msgid "EASY"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:VOVS
+msgctxt "000038"
+msgid "{0}: Enemies deal less damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:RESN
+msgctxt "000039"
+msgid "VERY EASY"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:VOVS
+msgctxt "00003A"
+msgid "{0}: Enemies deal little damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:DNAM
+msgctxt "00003B"
+msgid ""
+"Scales combat lethality by adjusting how much damage enemies deal in ground combat.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}\n"
+"\n"
+"{4}\n"
+"\n"
+"{5}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:NNAM
+msgctxt "00003C"
+msgid "Enemy Combat Damage"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:RESN
+msgctxt "00003D"
+msgid "EXTREME"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:VOVS
+msgctxt "00003E"
+msgid "{0}: You deal little damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:RESN
+msgctxt "00003F"
+msgid "VERY HARD"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:VOVS
+msgctxt "000040"
+msgid "{0}: You deal much less damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:RESN
+msgctxt "000041"
+msgid "HARD"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:VOVS
+msgctxt "000042"
+msgid "{0}: You deal less damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:RESN
+msgctxt "000043"
+msgid "NORMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:VOVS
+msgctxt "000044"
+msgid "{0}: You deal standard damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:RESN
+msgctxt "000045"
+msgid "EASY"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:VOVS
+msgctxt "000046"
+msgid "{0}: You deal more damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:RESN
+msgctxt "000047"
+msgid "VERY EASY"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:VOVS
+msgctxt "000048"
+msgid "{0}: You deal much more damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:DNAM
+msgctxt "000049"
+msgid ""
+"Scales combat lethality by adjusting how much damage you deal to enemies in space combat.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}\n"
+"\n"
+"{4}\n"
+"\n"
+"{5}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:NNAM
+msgctxt "00004A"
+msgid "Player Ship Damage"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:RESN
+msgctxt "00004B"
+msgid "EXTREME"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:VOVS
+msgctxt "00004C"
+msgid "{0}: You deal little damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:RESN
+msgctxt "00004D"
+msgid "VERY HARD"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:VOVS
+msgctxt "00004E"
+msgid "{0}: You deal much less damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:RESN
+msgctxt "00004F"
+msgid "HARD"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:VOVS
+msgctxt "000050"
+msgid "{0}: You deal less damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:RESN
+msgctxt "000051"
+msgid "NORMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:VOVS
+msgctxt "000052"
+msgid "{0}: You deal standard damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:RESN
+msgctxt "000053"
+msgid "EASY"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:VOVS
+msgctxt "000054"
+msgid "{0}: You deal more damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:RESN
+msgctxt "000055"
+msgid "VERY EASY"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:VOVS
+msgctxt "000056"
+msgid "{0}: You deal much more damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:DNAM
+msgctxt "000057"
+msgid ""
+"Scales combat lethality by adjusting how much damage you deal to enemies in ground combat.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}\n"
+"\n"
+"{4}\n"
+"\n"
+"{5}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:NNAM
+msgctxt "000058"
+msgid "Player Combat Damage"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:RESN
+msgctxt "000059"
+msgid "REDUCED"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:VOVS
+msgctxt "00005A"
+msgid "{0}: Reduced credits."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:RESN
+msgctxt "00005B"
+msgid "NORMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:VOVS
+msgctxt "00005C"
+msgid "{0}: Standard credits."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:RESN
+msgctxt "00005D"
+msgid "INCREASED"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:VOVS
+msgctxt "00005E"
+msgid "{0}: Increased credits."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:RESN
+msgctxt "00005F"
+msgid "GREATLY INCREASED"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:VOVS
+msgctxt "000060"
+msgid "{0}: Greatly increased credits."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:DNAM
+msgctxt "000061"
+msgid ""
+"<font color=\"#EDEDED\">NOTE: This will occur only after a vendor's inventory restocks (about once a week).</font>\n"
+"\n"
+"Sets how many credits vendors have to purchase items.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:NNAM
+msgctxt "000062"
+msgid "Vendor Credits"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:RESN
+msgctxt "000063"
+msgid "LIMITED RESTING"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:VOVS
+msgctxt "000064"
+msgid ""
+"{0}: Restored while waiting or sleeping in a ship, outpost, or settlement."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:RESN
+msgctxt "000065"
+msgid "RESTING"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:VOVS
+msgctxt "000066"
+msgid ""
+"{0}: Restored while waiting or sleeping in a breathable location unexposed "
+"to environmental damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:RESN
+msgctxt "000067"
+msgid "NORMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:VOVS
+msgctxt "000068"
+msgid ""
+"{0}: Restored while in a breathable location unexposed to environmental "
+"damage."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:DNAM
+msgctxt "000069"
+msgid ""
+"Sets how Environmental Damage is restored.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:NNAM
+msgctxt "00006A"
+msgid "Environmental Damage Restoration"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Sustenance, REC: GPOF:RESN
+msgctxt "00006B"
+msgid "POSITIVE & NEGATIVE"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Sustenance, REC: GPOF:VOVS
+msgctxt "00006C"
+msgid ""
+"{0}: Food and drink grant positive effects and prevent negative effects: "
+"Malnourished and Dehydrated."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Sustenance, REC: GPOF:RESN
+msgctxt "00006D"
+msgid "POSITIVE ONLY"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Sustenance, REC: GPOF:VOVS
+msgctxt "00006E"
+msgid "{0}: Food and drink grant positive effects: Fed and Hydrated."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Sustenance, REC: GPOF:RESN
+msgctxt "00006F"
+msgid "OFF"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Sustenance, REC: GPOF:VOVS
+msgctxt "000070"
+msgid "{0}: You do not gain positive or negative Sustenance effects."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Sustenance, REC: GPOF:DNAM
+msgctxt "000071"
+msgid ""
+"Sets how food and drink grant Sustenance effects.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_Sustenance, REC: GPOF:NNAM
+msgctxt "000072"
+msgid "Sustenance"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:RESN
+msgctxt "000073"
+msgid "NONE"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:VOVS
+msgctxt "000074"
+msgid "{0}: Sleeping doesn't restore health."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:RESN
+msgctxt "000075"
+msgid "LOCATION LIMITED"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:VOVS
+msgctxt "000076"
+msgid "{0}: Sleeping restores health in ships, outposts, and settlements."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:RESN
+msgctxt "000077"
+msgid "NORMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:VOVS
+msgctxt "000078"
+msgid "{0}: Sleeping restores health anywhere."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:RESN
+msgctxt "000079"
+msgid "FULL RESTORE"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:VOVS
+msgctxt "00007A"
+msgid "{0}: Sleeping restores health and cures Afflictions anywhere."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:DNAM
+msgctxt "00007B"
+msgid ""
+"Sets how sleeping heals you.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:NNAM
+msgctxt "00007C"
+msgid "Sleep Healing"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AfflictionPrognosis, REC: GPOF:RESN
+msgctxt "000089"
+msgid "ADVANCED"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AfflictionPrognosis, REC: GPOF:VOVS
+msgctxt "00008A"
+msgid ""
+"{0}: Afflictions have a chance to worsen or gain infection, and have a "
+"better chance to cure and improve."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AfflictionPrognosis, REC: GPOF:RESN
+msgctxt "00008B"
+msgid "NORMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AfflictionPrognosis, REC: GPOF:VOVS
+msgctxt "00008C"
+msgid ""
+"{0}: Afflictions have no chance to worsen or gain infection, and have a "
+"standard chance to cure and improve."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AfflictionPrognosis, REC: GPOF:DNAM
+msgctxt "00008D"
+msgid ""
+"Sets how Prognosis affects an Affliction's chance to improve and cure, and adds a chance to worsen or gain infections while Prognosis is \"Poor.\"\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AfflictionPrognosis, REC: GPOF:NNAM
+msgctxt "00008E"
+msgid "Affliction Prognosis"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:RESN
+msgctxt "00008F"
+msgid "SLOWLY"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:VOVS
+msgctxt "000090"
+msgid "{0}: Medical items restore the standard amount more slowly."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:RESN
+msgctxt "000091"
+msgid "NORMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:VOVS
+msgctxt "000092"
+msgid "{0}: Medical items restore the standard amount."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:RESN
+msgctxt "000093"
+msgid "MORE"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:VOVS
+msgctxt "000094"
+msgid "{0}: Medical items restore more."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:DNAM
+msgctxt "000095"
+msgid ""
+"Sets how Med Packs, Trauma Packs, and Emergency Kits restore health.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:NNAM
+msgctxt "000096"
+msgid "Medical Item Healing"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:RESN
+msgctxt "000097"
+msgid "NONE"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:VOVS
+msgctxt "000098"
+msgid "{0}: Food doesn't restore."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:RESN
+msgctxt "000099"
+msgid "NORMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:VOVS
+msgctxt "00009A"
+msgid "{0}: Food restores normally."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:RESN
+msgctxt "00009B"
+msgid "MORE"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:VOVS
+msgctxt "00009C"
+msgid "{0}: Food restores more."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:DNAM
+msgctxt "00009D"
+msgid ""
+"Sets how food restores health.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:NNAM
+msgctxt "00009E"
+msgid "Food Healing"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:RESN
+msgctxt "00009F"
+msgid "ADVANCED"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:VOVS
+msgctxt "0000A0"
+msgid ""
+"{0}: Environmental Damage and Afflictions are gained from hazards, weather, "
+"and ambiently on dangerous planets."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:RESN
+msgctxt "0000A3"
+msgid "NORMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:VOVS
+msgctxt "0000A4"
+msgid ""
+"{0}: Environmental Damage and Afflictions are gained from hazards. "
+"Afflictions are gained from weather."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:RESN
+msgctxt "0000A5"
+msgid "OFF"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:VOVS
+msgctxt "0000A6"
+msgid ""
+"{0}: No Environmental Damage or Afflictions are gained from the environment."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:DNAM
+msgctxt "0000A7"
+msgid ""
+"Sets how Environmental Damage and Afflictions are gained from the environment.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:NNAM
+msgctxt "0000A8"
+msgid "Environmental Damage & Afflictions"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CombatAfflictionGain, REC: GPOF:RESN
+msgctxt "0000A9"
+msgid "INCREASED"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CombatAfflictionGain, REC: GPOF:VOVS
+msgctxt "0000AA"
+msgid ""
+"{0}: You have a significant chance to gain Afflictions from creatures, "
+"turrets, robots, and human weapons."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CombatAfflictionGain, REC: GPOF:RESN
+msgctxt "0000AB"
+msgid "NORMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CombatAfflictionGain, REC: GPOF:VOVS
+msgctxt "0000AC"
+msgid "{0}: You have a normal chance to gain Afflictions from creatures."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CombatAfflictionGain, REC: GPOF:RESN
+msgctxt "0000AD"
+msgid "OFF"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CombatAfflictionGain, REC: GPOF:VOVS
+msgctxt "0000AE"
+msgid "{0}: You do not gain Afflictions from any form of combat."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CombatAfflictionGain, REC: GPOF:DNAM
+msgctxt "0000AF"
+msgid ""
+"Sets how likely you are to gain Afflictions from combat.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CombatAfflictionGain, REC: GPOF:NNAM
+msgctxt "0000B0"
+msgid "Combat Affliction Gain"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:RESN
+msgctxt "0000B1"
+msgid "REDUCED"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:VOVS
+msgctxt "0000B2"
+msgid "{0}: Reduced carry capacity."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:RESN
+msgctxt "0000B3"
+msgid "NORMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:VOVS
+msgctxt "0000B4"
+msgid "{0}: Standard carry capacity."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:RESN
+msgctxt "0000B5"
+msgid "INCREASED"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:VOVS
+msgctxt "0000B6"
+msgid "{0}: Increased carry capacity."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:RESN
+msgctxt "0000B7"
+msgid "GREATLY INCREASED"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:VOVS
+msgctxt "0000B8"
+msgid "{0}: Greatly increased carry capacity."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:DNAM
+msgctxt "0000B9"
+msgid ""
+"Sets how much you and your followers can carry.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CarryCapacity, REC: GPOF:NNAM
+msgctxt "0000BA"
+msgid "Carry Capacity"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:RESN
+msgctxt "0000BB"
+msgid "INSIDE SHIP"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:VOVS
+msgctxt "0000BC"
+msgid "{0}: Access your ship's cargo only while inside the ship."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:RESN
+msgctxt "0000BD"
+msgid "NORMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:VOVS
+msgctxt "0000BE"
+msgid "{0}: Access your ship's cargo only while near the ship."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:RESN
+msgctxt "0000BF"
+msgid "LIMITED LOCATIONS"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:VOVS
+msgctxt "0000C0"
+msgid "{0}: Access your ship's cargo while in outposts or settlements."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:RESN
+msgctxt "0000C1"
+msgid "ANYWHERE"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:VOVS
+msgctxt "0000C2"
+msgid "{0}: Access your ship's cargo from any distance."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:DNAM
+msgctxt "0000C3"
+msgid ""
+"Sets the distance at which you can access your ship's cargo from the Inventory Menu.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:NNAM
+msgctxt "0000C4"
+msgid "Cargo Access Distance"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:RESN
+msgctxt "0000C5"
+msgid "OFF"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:VOVS
+msgctxt "0000C6"
+msgid "{0}: No Aim Assistance."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:RESN
+msgctxt "0000C7"
+msgid "MINIMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:VOVS
+msgctxt "0000C8"
+msgid "{0}: Minimal Aim Assistance."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:RESN
+msgctxt "0000C9"
+msgid "NORMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:VOVS
+msgctxt "0000CA"
+msgid "{0}: Standard Aim Assistance."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:RESN
+msgctxt "0000CB"
+msgid "INCREASED"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:VOVS
+msgctxt "0000CC"
+msgid "{0}: Increased Aim Assistance."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:RESN
+msgctxt "0000CD"
+msgid "GREATLY INCREASED"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:VOVS
+msgctxt "0000CE"
+msgid "{0}: Greatly increased Aim Assistance."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:DNAM
+msgctxt "0000CF"
+msgid ""
+"<font color=\"#EDEDED\">NOTE: This setting only applies to controller use. It has no effect on mouse and keyboard input.</font>\n"
+"\n"
+"Sets how much automatic Aim Assistance is provided.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}\n"
+"\n"
+"{2}\n"
+"\n"
+"{3}\n"
+"\n"
+"{4}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:NNAM
+msgctxt "0000D0"
+msgid "Aim Assistance (Controller Only)"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AfflictionTreatment, REC: GPOF:RESN
+msgctxt "0000D1"
+msgid "IMPROVE ONLY"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AfflictionTreatment, REC: GPOF:VOVS
+msgctxt "0000D2"
+msgid ""
+"{0}: Treatments improve Prognosis up to \"Excellent\" but they do not cure "
+"Afflictions."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AfflictionTreatment, REC: GPOF:RESN
+msgctxt "0000D3"
+msgid "NORMAL"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AfflictionTreatment, REC: GPOF:VOVS
+msgctxt "0000D4"
+msgid "{0}: Treatments cure Afflictions."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AfflictionTreatment, REC: GPOF:DNAM
+msgctxt "0000D5"
+msgid ""
+"Sets how treatments work on Afflictions.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AfflictionTreatment, REC: GPOF:NNAM
+msgctxt "0000D6"
+msgid "Affliction Treatment"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AmmoWeight, REC: GPOF:RESN
+msgctxt "0000E3"
+msgid "WEIGHTED AMMO"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AmmoWeight, REC: GPOF:VOVS
+msgctxt "0000E4"
+msgid "{0}: Ammo has weight."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AmmoWeight, REC: GPOF:RESN
+msgctxt "0000E5"
+msgid "OFF"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AmmoWeight, REC: GPOF:VOVS
+msgctxt "0000E6"
+msgid "{0}: Ammo has no weight."
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AmmoWeight, REC: GPOF:DNAM
+msgctxt "0000E7"
+msgid ""
+"Sets whether Ammo is weightless or has weight.\n"
+"\n"
+"{0}\n"
+"\n"
+"{1}"
+msgstr ""
+
+# List: 0, EDID: PEO_GPO_AmmoWeight, REC: GPOF:NNAM
+msgctxt "0000E8"
+msgid "Ammo Weight"
+msgstr ""
+
+# List: 0, EDID: PEO_CarryCapacity_Perk, REC: PERK:FULL
+msgctxt "0000EB"
+msgid "WIP Carry Capacity"
+msgstr ""
+
+# List: 0, EDID: PEO_GameplayOptions, REC: LSCR:DESC
+msgctxt "0000EC"
+msgid ""
+"Want to tweak the game's combat damage, aim assist, afflictions, carry "
+"capacity, and more? Visit the \"Gameplay Options\" section in the Settings "
+"Menu."
+msgstr ""
+
+# List: 0, EDID: SQ_PEO_SustenanceQuest, REC: QUST:FULL
+msgctxt "0000ED"
+msgid "PEO Sustenance Quest"
+msgstr ""
+
+# List: 1, EDID: PEO_MedicalItemHealing_Perk, REC: PERK:DESC
+msgctxt "000008"
+msgid ""
+"Modifies medical item healing depending on Player Experience Options "
+"settings."
+msgstr ""
+
+# List: 1, EDID: PEO_MedicalItemHealing_Perk, REC: PERK:DESC
+msgctxt "000009"
+msgid "Sets how medpacks and other medical items heal."
+msgstr ""
+
+# List: 1, EDID: PEO_AmmoWeight_Perk, REC: PERK:DESC
+msgctxt "00000B"
+msgid "Modifies ammo weight depending on Player Experience Options settings."
+msgstr ""
+
+# List: 1, EDID: PEO_AmmoWeight_Perk, REC: PERK:DESC
+msgctxt "00000C"
+msgid "Sets how much ammo weighs."
+msgstr ""
+
+# List: 1, EDID: PEO_CombatLethality_Perk, REC: PERK:DESC
+msgctxt "00000E"
+msgid "Sets damage output for player and enemies."
+msgstr ""
+
+# List: 1, EDID: PEO_ShipDamageOutput_Player_Perk, REC: PERK:DESC
+msgctxt "000010"
+msgid "Perk that manages all damage output/incoming mods to the player."
+msgstr ""
+
+# List: 1, EDID: PEO_CarryCapacity_Perk, REC: PERK:DESC
+msgctxt "0000E9"
+msgid ""
+"Modifies carry capacity depending on Player Experience Options settings."
+msgstr ""
+
+# List: 1, EDID: PEO_CarryCapacity_Perk, REC: PERK:DESC
+msgctxt "0000EA"
+msgid "Sets how much players and followers can carry."
+msgstr ""

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2024-05-26 07:19+0000\n"
+"PO-Revision-Date: 2024-05-26 15:51+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -500,7 +500,7 @@ msgid "$BULLDOZE MODE"
 msgstr "철거 모드"
 
 msgid "$Bulldozers"
-msgstr "Bulldozers"
+msgstr "철거"
 
 msgid "$BUY"
 msgstr "상대의 것 구매"
@@ -860,7 +860,7 @@ msgid "$Cockpit"
 msgstr "조종실"
 
 msgid "$Colony Goods"
-msgstr "Colony Goods"
+msgstr "식민지 상품"
 
 msgid "$COLOR"
 msgstr "색상"
@@ -896,7 +896,7 @@ msgid "$COMBAT_SKILLS_MASTER"
 msgstr "달인 전투 스킬"
 
 msgid "$COMING SOON"
-msgstr "COMING SOON"
+msgstr "추후 공개"
 
 msgid "$CommandModeFail_Generic"
 msgstr "불가능한 행동입니다."
@@ -950,13 +950,13 @@ msgid "$COMPLEXIONCOLORTEMP"
 msgstr "안색"
 
 msgid "$COMPONENT VIEW"
-msgstr "COMPONENT VIEW"
+msgstr "구성 요소 보기"
 
 msgid "$COMPONENTS"
 msgstr "부품"
 
 msgid "$CONDITION"
-msgstr "CONDITION"
+msgstr "상태"
 
 msgid "$Confirm"
 msgstr "확인"
@@ -1252,7 +1252,7 @@ msgid "$CycleTarget"
 msgstr "대상 변경"
 
 msgid "$CYCLE_COLUMN"
-msgstr "CYCLE COLUMN"
+msgstr "칼럼 변경"
 
 msgid "$DAMAGE"
 msgstr "피해"
@@ -1734,16 +1734,16 @@ msgid "$EULAHeader"
 msgstr "북아메리카 및 남아메리카 거주자에게 적용되는 최종 사용자 이용 약관입니다:"
 
 msgid "$Excessive Drive Damage"
-msgstr "Excessive Drive Damage"
+msgstr "과잉 드라이브 피해"
 
 msgid "$EXECUTE"
-msgstr "EXECUTE"
+msgstr "실행"
 
 msgid "$Execute"
-msgstr "EXECUTE"
+msgstr "실행"
 
 msgid "$Execute Critical"
-msgstr "EXECUTE CRITICAL"
+msgstr "중요 실행"
 
 msgid "$EXIT"
 msgstr "종료"
@@ -1785,7 +1785,7 @@ msgid "$Exotic"
 msgstr "'엑조틱'"
 
 msgid "$EXPERIENCE"
-msgstr "EXPERIENCE"
+msgstr "경험치"
 
 msgid "$Expert"
 msgstr "전문가"
@@ -1800,7 +1800,7 @@ msgid "$ExplorationBodiesScanned"
 msgstr "스캔한 행성/위성"
 
 msgid "$ExplorationOrganicsScanned"
-msgstr "스캔한 유기체"
+msgstr "스캔한 유기물"
 
 msgid "$ExplorationStarSystemsVisited"
 msgstr "가본 항성계"
@@ -1809,7 +1809,7 @@ msgid "$Explored"
 msgstr "탐험 완료"
 
 msgid "$Expression"
-msgstr "Expression"
+msgstr "익스프레션"
 
 msgid "$EXTRAS"
 msgstr "추가 메뉴"
@@ -1893,7 +1893,7 @@ msgid "$FAR_TRAVEL"
 msgstr "빠른 이동"
 
 msgid "$FAST"
-msgstr "FAST"
+msgstr "빠름"
 
 msgid "$FAST TRAVEL SHIP"
 msgstr "함선으로 빠른 이동"
@@ -2019,10 +2019,10 @@ msgid "$FILTER_BODY_TYPE_STATION"
 msgstr "기지"
 
 msgid "$FILTER_IN_RANGE"
-msgstr "Filter: In Range"
+msgstr "필터: 범위 내"
 
 msgid "$FILTER_NONE"
-msgstr "Filter: None"
+msgstr "필터: 없음"
 
 msgid "$FILTER_SYSTEM_IN_RANGE"
 msgstr "중력 도약 가능 거리 안"
@@ -2034,7 +2034,7 @@ msgid "$FINISH"
 msgstr "끝내기"
 
 msgid "$FIRST"
-msgstr "FIRST"
+msgstr "첫 번째"
 
 msgid "$Flashlight"
 msgstr "손전등"
@@ -2077,10 +2077,10 @@ msgid "$FLORA"
 msgstr "식물군"
 
 msgid "$Focus Point Teleport"
-msgstr "Focus Point Teleport"
+msgstr "초점 지점 순간 이동"
 
 msgid "$Focus Point Teleport Delta"
-msgstr "Focus Point Teleport Delta"
+msgstr "초점 지점 순간 이동 델타"
 
 msgid "$Focus_Point_Delta_Desc"
 msgstr "카메라 모드를 종료할 때 카메라 초점 지점과 플레이어 위치 사이에 순간이동을 위해 최소한의 간격이 있어야 합니다."
@@ -2128,7 +2128,7 @@ msgid "$Free"
 msgstr "자유"
 
 msgid "$FreeSpace:"
-msgstr "Free Space:"
+msgstr "여유 공간:"
 
 msgid "$FreestarCollective"
 msgstr "자유항성 공동체"
@@ -2209,7 +2209,7 @@ msgid "$GI"
 msgstr "성표 ID"
 
 msgid "$Go"
-msgstr "GO"
+msgstr "가기"
 
 msgid "$Grass Fade"
 msgstr "잔디 가시거리"
@@ -2236,7 +2236,7 @@ msgid "$Grenade"
 msgstr "수류탄"
 
 msgid "$Grid View"
-msgstr "PERK CHART"
+msgstr "특성 차트"
 
 msgid "$GRV"
 msgstr "중력 구동기"
@@ -2308,16 +2308,16 @@ msgid "$HideQuestSummary"
 msgstr "요약 숨기기"
 
 msgid "$HighestRated"
-msgstr "Highest Rated"
+msgstr "최고 평점"
 
 msgid "$Hold Breath"
 msgstr "숨 참기"
 
 msgid "$HOLD DISTANCE"
-msgstr "HOLD DISTANCE"
+msgstr "거리 유지"
 
 msgid "$HOLD UP"
-msgstr "HOLD UP"
+msgstr "보류"
 
 msgid "$HolotapePlay"
 msgstr "재생"
@@ -2454,10 +2454,10 @@ msgid "$IGNORE"
 msgstr "무시"
 
 msgid "$IN TRANSIT"
-msgstr "IN TRANSIT"
+msgstr "전송 중"
 
 msgid "$IN/OUT"
-msgstr "IN/OUT"
+msgstr "입력/출력"
 
 msgid "$INCOMING HAIL"
 msgstr "수신한 교신"
@@ -2475,16 +2475,16 @@ msgid "$IndustrialWorkbench"
 msgstr "공업용 작업대"
 
 msgid "$INGREDIENTS"
-msgstr "INGREDIENTS"
+msgstr "재료"
 
 msgid "$INIT EXIT CONFIRM"
 msgstr "종료 확인 초기화 중..."
 
 msgid "$Initializing..."
-msgstr "Initializing..."
+msgstr "초기화 중..."
 
 msgid "$INORGANIC"
-msgstr "INORGANIC"
+msgstr "무기물"
 
 msgid "$Input"
 msgstr "투입 수량"
@@ -2595,13 +2595,13 @@ msgid "$InventoryAmount"
 msgstr "인벤토리 수량"
 
 msgid "$InventoryCategoryAid"
-msgstr "AID"
+msgstr "구호품"
 
 msgid "$InventoryCategoryAidFood"
-msgstr "FOOD"
+msgstr "음식"
 
 msgid "$InventoryCategoryAidMine"
-msgstr "MY AID"
+msgstr "내 구호품"
 
 msgid "$InventoryCategoryAmmo"
 msgstr "실탄"
@@ -2625,7 +2625,7 @@ msgid "$InventoryCategoryArmorHelmet"
 msgstr "헬멧"
 
 msgid "$InventoryCategoryArmorSuit"
-msgstr "Suits"
+msgstr "슈트"
 
 msgid "$InventoryCategoryEquipment"
 msgstr "장비"
@@ -2676,7 +2676,7 @@ msgid "$INVENTORYMine"
 msgstr "내 인벤토리"
 
 msgid "$INVENTORYVendor"
-msgstr "Vendor"
+msgstr "상인"
 
 msgid "$INVENTORY_HELMET_HIDE"
 msgstr "호흡 가능 지역에서 헬멧 감추기"
@@ -2825,7 +2825,7 @@ msgid "$JETTISON ALL"
 msgstr "모두 버리기"
 
 msgid "$Jump"
-msgstr "Jump"
+msgstr "도약"
 
 msgid "$JUMP"
 msgstr "도약"
@@ -2996,22 +2996,22 @@ msgid "$LEVELUP"
 msgstr "레벨 업"
 
 msgid "$LIFE"
-msgstr "LIFE"
+msgstr "생명"
 
 msgid "$Light Fade"
 msgstr "광원 가시거리"
 
 msgid "$LINER"
-msgstr "LINER"
+msgstr "라이너"
 
 msgid "$LINER_1_TITLE"
-msgstr "PRIMARY LINER"
+msgstr "제 1 라이너"
 
 msgid "$LINER_2_TITLE"
-msgstr "SECONDARY LINER"
+msgstr "제 2 라이너"
 
 msgid "$LINER_3_TITLE"
-msgstr "TERTIARY LINER"
+msgstr "제 3 라이너"
 
 msgid "$Linked outpost:"
 msgstr "연결된 기지:"
@@ -3035,7 +3035,7 @@ msgid "$LIPSTICKBASE"
 msgstr "립스틱 밑바탕"
 
 msgid "$List View"
-msgstr "LIST$"
+msgstr "목록$"
 
 msgid "$LOAD"
 msgstr "불러오기"
@@ -3128,7 +3128,7 @@ msgid "$Log"
 msgstr "로그"
 
 msgid "$LOG"
-msgstr "STATS"
+msgstr "능력치"
 
 msgid "$Logging you in..."
 msgstr "로그인 중..."
@@ -3207,7 +3207,7 @@ msgid "$Login_CreateNew"
 msgstr "새 계정 만들기"
 
 msgid "$LOOK"
-msgstr "LOOK"
+msgstr "보기"
 
 msgid "$Look Horizontal Sensitivity"
 msgstr "수평 카메라 감도"
@@ -3225,7 +3225,7 @@ msgid "$Look Vertical Sensitivity Desc"
 msgstr "수직 카메라의 전반적인 감도를 조절합니다."
 
 msgid "$LOWER"
-msgstr "LOWER"
+msgstr "밑"
 
 msgid "$LUCK"
 msgstr "행운"
@@ -3378,7 +3378,7 @@ msgid "$MainGameplay_QuickSkills"
 msgstr "빠른 스킬"
 
 msgid "$MainGameplay_QuickStats"
-msgstr "빠른 상태"
+msgstr "빠른 능력치"
 
 msgid "$MainGameplay_ReadyWeapon"
 msgstr "무기 꺼내기 전환"
@@ -3426,10 +3426,10 @@ msgid "$MainKey"
 msgstr "주요 키"
 
 msgid "$Make"
-msgstr "Make"
+msgstr "제작"
 
 msgid "$MAKE"
-msgstr "MAKE"
+msgstr "제작"
 
 msgid "$MAKE_HOME_SHIP"
 msgstr "거점 함선으로 지정"
@@ -3438,16 +3438,16 @@ msgid "$MALE"
 msgstr "남성"
 
 msgid "$MANAGE GOODS"
-msgstr "Manage Goods"
+msgstr "상품 관리"
 
 msgid "$ManualSaveMsg"
 msgstr "저장 중..."
 
 msgid "$Manufacturer_Generic"
-msgstr "GENERIC"
+msgstr "일반"
 
 msgid "$MAP"
-msgstr "MAP"
+msgstr "지도"
 
 msgid "$MapMarkerGenericTypeAsteroids"
 msgstr "소행성"
@@ -3528,16 +3528,16 @@ msgid "$Medical"
 msgstr "의료 용품"
 
 msgid "$MEDIUM"
-msgstr "MEDIUM"
+msgstr "중간"
 
 msgid "$Melee"
-msgstr "Bash/Power Attack"
+msgstr "근접 공격/강공격"
 
 msgid "$MENU"
 msgstr "메뉴"
 
 msgid "$Menu3DModelRotation"
-msgstr "MENU 3D MODEL ROTATION"
+msgstr "메뉴 3D 모델 회전"
 
 msgid "$Menu3DModelRotation_Rotate"
 msgstr "모델 회전"
@@ -3573,7 +3573,7 @@ msgid "$MICROGEOMETRY"
 msgstr "얼굴 특징 1"
 
 msgid "$MINE"
-msgstr "MINE"
+msgstr "마인"
 
 msgid "$MINUTE"
 msgstr "분"
@@ -3585,7 +3585,7 @@ msgid "$MINUTES"
 msgstr "분"
 
 msgid "$Misc"
-msgstr "사이드"
+msgstr "기타"
 
 msgid "$Missing Requirements"
 msgstr "필수 요건 미충족"
@@ -3789,7 +3789,7 @@ msgid "$Music Audio Desc"
 msgstr "배경 음악 음량을 조절합니다."
 
 msgid "$My Creations"
-msgstr "My Creations"
+msgstr "내 창작물"
 
 msgid "$My Favorites"
 msgstr "내 즐겨찾기"
@@ -3798,10 +3798,10 @@ msgid "$My Home Ship"
 msgstr "거점 함선"
 
 msgid "$My Library"
-msgstr "My Library"
+msgstr "내 라이브러리"
 
 msgid "$My Perks"
-msgstr "MY PERKS"
+msgstr "내 특성"
 
 msgid "$MY SHIP"
 msgstr "내 함선"
@@ -3819,7 +3819,7 @@ msgid "$NAME_CHARACTER"
 msgstr "이름 짓기"
 
 msgid "$NavigateObjectives"
-msgstr "NAVIGATE OBJECTIVES"
+msgstr "목표 탐색"
 
 msgid "$Near Plane"
 msgstr "근경 효과 강도"
@@ -3834,7 +3834,7 @@ msgid "$NEEDED PWR"
 msgstr "필요 동력"
 
 msgid "$Neutral"
-msgstr "Neutral"
+msgstr "중립"
 
 msgid "$NEW"
 msgstr "새 게임"
@@ -3849,7 +3849,7 @@ msgid "$NEW ORGANIC DISCOVERED"
 msgstr "새 유기물 발견됨"
 
 msgid "$New Perks"
-msgstr "ALL PERKS"
+msgstr "모든 특성"
 
 msgid "$NewsOptInMessage"
 msgstr "베데스다의 새 소식을 보내주세요!"
@@ -3873,7 +3873,7 @@ msgid "$NEXTVARIANT"
 msgstr "다음 변형"
 
 msgid "$NEXT_KEY"
-msgstr "NEXT KEY"
+msgstr "다음 키"
 
 msgid "$No"
 msgstr "아니오"
@@ -4005,7 +4005,7 @@ msgid "$Orbital"
 msgstr "궤도"
 
 msgid "$OTHER"
-msgstr "OTHER"
+msgstr "기타"
 
 msgid "$OUTBOUND TRANSMISSION"
 msgstr "송신할 메시지"
@@ -4023,7 +4023,7 @@ msgid "$OUTPOST CARGO LINK"
 msgstr "기지 화물 연계"
 
 msgid "$OUTPOST DEPLOYED:"
-msgstr "OUTPOST DEPLOYED:"
+msgstr "전초기지 배치됨:"
 
 msgid "$Outpost FlyCam Distance Speed"
 msgstr "전초기지 조감 시점 확대/축소 속도"
@@ -4083,7 +4083,7 @@ msgid "$Outpost_AvailableOutposts"
 msgstr "이용할 수 있는 기지"
 
 msgid "$Outpost_AvailableTargets"
-msgstr "Available Targets"
+msgstr "대상 사용 가능"
 
 msgid "$Outpost_ConfirmBreakLinks"
 msgstr "무효화된 연결망 연결을 제거하시겠습니까?"
@@ -4098,13 +4098,13 @@ msgid "$OutputLink"
 msgstr "내보내기"
 
 msgid "$OVERALL"
-msgstr "Overall"
+msgstr "전체"
 
 msgid "$OVERFLOW"
 msgstr "초과분"
 
 msgid "$Overlays"
-msgstr "Overlays"
+msgstr "오버레이"
 
 msgid "$Overwrite?"
 msgstr "덮어쓰시겠습니까?"
@@ -4128,7 +4128,7 @@ msgid "$PAN DISTANCE"
 msgstr "카메라 이동 거리"
 
 msgid "$PART"
-msgstr "PART"
+msgstr "파트"
 
 msgid "$PartiallyExplored"
 msgstr "일부 탐색됨"
@@ -4143,13 +4143,13 @@ msgid "$PC"
 msgstr "PC"
 
 msgid "$PENETRATION"
-msgstr "PENETRATION"
+msgstr "관통"
 
 msgid "$PEOPLE"
-msgstr "PEOPLE"
+msgstr "사람"
 
 msgid "$PERCEPTION"
-msgstr "PERCEPTION"
+msgstr "인지"
 
 msgid "$Performance mode"
 msgstr "퍼포먼스 모드"
@@ -4173,7 +4173,7 @@ msgid "$Persuasion_AutoWin"
 msgstr "자동 설득"
 
 msgid "$PharmaceuticalLab"
-msgstr "Pharmaceutical Lab"
+msgstr "약물 제조대"
 
 msgid "$PHOTO GALLERY"
 msgstr "사진첩"
@@ -4278,13 +4278,13 @@ msgid "$PipboyPerksCategory"
 msgstr "특성"
 
 msgid "$PipboySPECIALCategory"
-msgstr "SPECIAL"
+msgstr "스페셜"
 
 msgid "$PLACE"
-msgstr "PLACE"
+msgstr "장소"
 
 msgid "$Place"
-msgstr "Place"
+msgstr "장소"
 
 msgid "$PlaceMarker"
 msgstr "마커 찍기"
@@ -4332,7 +4332,7 @@ msgid "$PLOT"
 msgstr "목적지 추가"
 
 msgid "$PLOT AND TRANSFER"
-msgstr "TRANSFER FROM OUTPOST"
+msgstr "전초기지에서 전송"
 
 msgid "$PLOT COURSE"
 msgstr "항로 설정"
@@ -4350,10 +4350,10 @@ msgid "$PLOT ORBIT"
 msgstr "궤도 추가"
 
 msgid "$PLOT TRANSFER HOLD"
-msgstr "HOLD TO PLOT AND TRANSFER"
+msgstr "길게 눌러 항로로 전송"
 
 msgid "$POCKS"
-msgstr "POCKMARKS"
+msgstr "포켓마크"
 
 msgid "$POINT AVAILABLE"
 msgstr "포인트 이용 가능"
@@ -4368,7 +4368,7 @@ msgid "$Pose Category"
 msgstr "포즈 범주"
 
 msgid "$POSITION"
-msgstr "POSITION"
+msgstr "위치"
 
 msgid "$Power"
 msgstr "파워"
@@ -4398,9 +4398,7 @@ msgid "$POWERS_ACTIVATEESSENCE"
 msgstr "양자 정수 사용하기"
 
 msgid "$Powers_EssenceTooltip"
-msgstr ""
-"Quantum Essences grant invulnerability but wipe all Normal Skill Challenge "
-"Progress"
+msgstr "양자 정수는 무적 효과를 부여하지만 모든 스킬 진척도가 초기화됩니다."
 
 msgid "$POWERS_HOVER"
 msgstr "(활성함)"
@@ -4409,25 +4407,25 @@ msgid "$POWERS_UNDISCOVERED"
 msgstr "미발견 사원 {0} 개"
 
 msgid "$PrecogResponse_Empty"
-msgstr "(Future unclear...)"
+msgstr "(미래는 불명확하다...)"
 
 msgid "$PREPARE"
 msgstr "준비"
 
 msgid "$Present"
-msgstr "Present"
+msgstr "현재"
 
 msgid "$PRESENTS"
-msgstr "PRESENTS"
+msgstr "현재"
 
 msgid "$PRESETS"
-msgstr "PRESETS"
+msgstr "사전 설정"
 
 msgid "$Press any button to start"
 msgstr "아무 버튼이나 눌러 시작"
 
 msgid "$PREV"
-msgstr "PREV"
+msgstr "이전"
 
 msgid "$PREV PERK"
 msgstr "이전 랭크"
@@ -4436,7 +4434,7 @@ msgid "$PREVCATEGORY"
 msgstr "이전 범주"
 
 msgid "$PREVIOUS_KEY"
-msgstr "PREVIOUS KEY"
+msgstr "이전 키"
 
 msgid "$PREVVARIANT"
 msgstr "이전 변형"
@@ -4505,19 +4503,19 @@ msgid "$QUESTS"
 msgstr "임무"
 
 msgid "$Queued..."
-msgstr "Queued..."
+msgstr "대기 중..."
 
 msgid "$Quick Inventory"
 msgstr "빠른 인벤토리"
 
 msgid "$Quick Magic"
-msgstr "Quick Magic"
+msgstr "빠른 마법"
 
 msgid "$Quick Map"
-msgstr "Quick Map"
+msgstr "빠른 지도"
 
 msgid "$Quick Stats"
-msgstr "Quick Stats"
+msgstr "빠른 능력치"
 
 msgid "$QuickContainer"
 msgstr "빠른 보관함"
@@ -4538,28 +4536,28 @@ msgid "$QuickContainer_Up"
 msgstr "위"
 
 msgid "$QuickData"
-msgstr "Quick Data"
+msgstr "빠른 데이터"
 
 msgid "$QuickHeal"
-msgstr "Quick Heal"
+msgstr "빠른 치료"
 
 msgid "$QuickInventory"
-msgstr "Quick Inventory"
+msgstr "빠른 인벤토리"
 
 msgid "$Quickkeys"
 msgstr "즐겨찾기"
 
 msgid "$Quickload"
-msgstr "Quickload"
+msgstr "빠른 불러오기"
 
 msgid "$QuickMap"
-msgstr "Quick Map"
+msgstr "빠른 지도"
 
 msgid "$QuickMission"
-msgstr "Quick Mission"
+msgstr "빠른 임무"
 
 msgid "$QuickRadio"
-msgstr "Quick Radio"
+msgstr "빠른 라디오"
 
 msgid "$QUICKSAVE"
 msgstr "빠른 저장"
@@ -4574,10 +4572,10 @@ msgid "$QuicksavingMsg"
 msgstr "빠른 저장 중..."
 
 msgid "$QuickShip"
-msgstr "Quick Ship"
+msgstr "빠른 함선"
 
 msgid "$QuickStats"
-msgstr "Quick Stats"
+msgstr "빠른 능력치"
 
 msgid "$Quit"
 msgstr "끝내기"
@@ -4592,34 +4590,34 @@ msgid "$QuitToMainMenu"
 msgstr "저장하고 메인 메뉴로 나갈까요?"
 
 msgid "$RAD RESISTANCE"
-msgstr "RAD RESISTANCE"
+msgstr "방사능 저항"
 
 msgid "$Radaway"
-msgstr "RADAWAY"
+msgstr "라드어웨이"
 
 msgid "$Radio"
-msgstr "Radio"
+msgstr "라디오"
 
 msgid "$RADIO"
-msgstr "RADIO"
+msgstr "라디오"
 
 msgid "$RadioOff"
-msgstr "TURN OFF RADIO"
+msgstr "라디오 끄기"
 
 msgid "$RADIUS"
 msgstr "반경"
 
 msgid "$RADS"
-msgstr "RADS"
+msgstr "방사능"
 
 msgid "$RAISE"
-msgstr "RAISE"
+msgstr "올리기"
 
 msgid "$RANDOM"
-msgstr "RANDOM"
+msgstr "무작위"
 
 msgid "$Randomize"
-msgstr "Randomize"
+msgstr "무작위화"
 
 msgid "$RANGE"
 msgstr "사거리"
@@ -4652,13 +4650,13 @@ msgid "$Rare"
 msgstr "'레어'"
 
 msgid "$Rate"
-msgstr "Rate"
+msgstr "평가"
 
 msgid "$RATE_OF_FIRE"
 msgstr "연사력"
 
 msgid "$RATING"
-msgstr "RATING"
+msgstr "평가"
 
 msgid "$REACTOR"
 msgstr "반응로"
@@ -4700,16 +4698,16 @@ msgid "$REFINE SETTING"
 msgstr "설정 조정"
 
 msgid "$Refuel"
-msgstr "REFUEL"
+msgstr "연료 충전"
 
 msgid "$Refuel Hold"
-msgstr "HOLD TO REFUEL"
+msgstr "길게 눌러 연료 충전"
 
 msgid "$Refuel Ship"
-msgstr "REFUEL SHIP"
+msgstr "함선 연료 충전"
 
 msgid "$Refuels"
-msgstr "REFUELS"
+msgstr "연료 충전"
 
 msgid "$REGISTERED"
 msgstr "등록됨"
@@ -4796,7 +4794,7 @@ msgid "$REMOVE_ALL_HOLD"
 msgstr "길게 눌러 모두 제거"
 
 msgid "$REMOVE_LAST"
-msgstr "REMOVE LAST"
+msgstr "마지막 제거"
 
 msgid "$RENAME"
 msgstr "이름 변경"
@@ -4991,7 +4989,7 @@ msgid "$RESETTRADE"
 msgstr "거래 초기화"
 
 msgid "$Resistance"
-msgstr "Resistance"
+msgstr "저항"
 
 msgid "$RESOURCES"
 msgstr "자원"
@@ -5024,7 +5022,7 @@ msgid "$REV"
 msgstr "후진"
 
 msgid "$REVERT"
-msgstr "REVERT"
+msgstr "되돌리기"
 
 msgid "$Reward"
 msgstr "보상"
@@ -5084,7 +5082,7 @@ msgid "$ROUNDS_LRG"
 msgstr "탄량"
 
 msgid "$Run"
-msgstr "Run"
+msgstr "실행"
 
 msgid "$RyujinIndustries"
 msgstr "류진 인더스트리"
@@ -5096,7 +5094,7 @@ msgid "$Sanctuary"
 msgstr "생추어리"
 
 msgid "$SANCTUARY"
-msgstr "WORKSHOPS"
+msgstr "워크샵"
 
 msgid "$Satellite"
 msgstr "위성"
@@ -5114,13 +5112,13 @@ msgid "$SAVE AND EXIT"
 msgstr "저장하고 나가기"
 
 msgid "$SAVE CORRUPT"
-msgstr "SAVE CORRUPT"
+msgstr "오류 저장"
 
 msgid "$Save in Pipboy"
-msgstr "Save in Pip-Boy"
+msgstr "핍보이에 저장"
 
 msgid "$SAVE OBSOLETE"
-msgstr "SAVE OBSOLETE"
+msgstr "폐기 정보 저장"
 
 msgid "$Save on Pause"
 msgstr "일시정지 시 저장"
@@ -5163,10 +5161,10 @@ msgstr "게임 세이브 파일을 만드는데 실패했습니다."
 
 msgid "$SaveGameFailedOutOfDiskSpace"
 msgstr ""
-"게임 세이브 파일을 만드는 데 실패했습니다. 세이브 파일을 저장할 공간이 부족합니다. 기존에 저장한 콘텐츠 중 일부를 삭제하세요."
+"게임 세이브 파일을 만드는 데 실패했습니다. 세이브 파일을 저장할 여유 공간이 부족합니다. 기존에 저장한 콘텐츠 중 일부를 삭제하세요."
 
 msgid "$SaveGameOutOfDiskSpace"
-msgstr "주의! 세이브 파일을 저장할 공간이 부족합니다. 기존에 저장한 콘텐츠 중 일부를 삭제하세요."
+msgstr "주의! 세이브 파일을 저장할 여유 공간이 부족합니다. 기존에 저장한 콘텐츠 중 일부를 삭제하세요."
 
 msgid "$SaveUploaded"
 msgstr "세이브 업로드됨"
@@ -5313,10 +5311,10 @@ msgid "$SB_LIMITBODY_NOT_ENOUGH_TURN_POWER"
 msgstr "기동성을 높이려면 질량을 줄이거나 엔진을 추가하세요."
 
 msgid "$SB_LIMITHEADER_EXCESS_POWER_ENGINE"
-msgstr "Excess Engine Power Usage"
+msgstr "엔진 동력 사용량 초과"
 
 msgid "$SB_LIMITHEADER_EXCESS_POWER_WEAPON"
-msgstr "Excess Weapon Power Usage"
+msgstr "무기 동력 사용량 초과"
 
 msgid "$SB_LIMITHEADER_MAX_COCKPIT"
 msgstr "조종실 중복됨"
@@ -5388,7 +5386,7 @@ msgid "$SB_WEAPONHEADER_WEAPONS_UNASSIGNED"
 msgstr "미할당된 무장"
 
 msgid "$SCALE"
-msgstr "SCALE"
+msgstr "규모"
 
 msgid "$SCAN"
 msgstr "스캔"
@@ -5427,10 +5425,10 @@ msgid "$scanned"
 msgstr "스캔함"
 
 msgid "$SCANNING LANDED MUST ORBIT"
-msgstr "GO TO ORBIT TO SCAN"
+msgstr "궤도로 이동하여 스캔"
 
 msgid "$SCANNING OUT OF RANGE"
-msgstr "SHIP NOT IN RANGE TO SCAN"
+msgstr "함선이 스캔 범위 내에 있지 않음"
 
 msgid "$sCantSaveNow"
 msgstr "지금은 저장할 수 없습니다."
@@ -5469,19 +5467,19 @@ msgid "$Scope_Steady"
 msgstr "정조준 숨 참기"
 
 msgid "$SCRAP"
-msgstr "SCRAP"
+msgstr "해체"
 
 msgid "$Scrap"
-msgstr "Scrap"
+msgstr "해체"
 
 msgid "$SCRAP VALUE"
-msgstr "SCRAP VALUE"
+msgstr "해체 가치"
 
 msgid "$SCROLL"
-msgstr "SCROLL"
+msgstr "스크롤"
 
 msgid "$SCULPT"
-msgstr "SCULPT"
+msgstr "조각"
 
 msgid "$Search"
 msgstr "검색"
@@ -5490,7 +5488,7 @@ msgid "$Season Pass"
 msgstr "시즌 패스"
 
 msgid "$SECOND"
-msgstr "SECOND"
+msgstr "두 번째"
 
 msgid "$SecondaryAttack"
 msgstr "조준/방어"
@@ -5580,7 +5578,7 @@ msgid "$SET COURSE"
 msgstr "항로 설정"
 
 msgid "$SET COURSE HOLD"
-msgstr "Hold to Set Course"
+msgstr "길게 눌러 항로 설정"
 
 msgid "$SET MISSION ACTIVE"
 msgstr "임무 활성화하기"
@@ -5894,15 +5892,15 @@ msgid "$Settings_VsyncEnabled Desc"
 msgstr "활성화하면 게임의 최대 프레임이 모니터의 주사율에 맞춰져, 화면이 찢어져 보이는 현상(테어링)을 방지합니다."
 
 msgid "$SETTLED SYSTEMS - FREESTAR COLLECTIVE SPACE"
-msgstr "SETTLED SYSTEMS - FREESTAR COLLECTIVE SPACE"
+msgstr "개척 성계 - 자유항성 공동체 영역"
 
 msgid "$SETTLEMENTS"
 msgstr "정착지"
 
 msgid "$SetToSurvivalConfirmMessage"
 msgstr ""
-"생존 모드에서는 다음과 같은 도전 요소가 추가됩니다. 빠른 이동 금지, 잠잘 때만 저장 가능, 죽을 확률 증가, 질병 증가, 피로 증가. "
-"자세한 내용은 도움말의 '생존' 항목을 참고하세요."
+"생존 모드에서는 다음과 같은 도전 요소가 추가됩니다. 빠른 이동 금지, 잠잘 때만 저장 가능, 사망 위험률 증가, 질병 증가, 피로 "
+"증가. 자세한 내용은 도움말의 '생존' 항목을 참고하세요."
 
 msgid "$SEX"
 msgstr "성별"
@@ -5932,7 +5930,7 @@ msgid "$shieldedcapacity"
 msgstr "차폐 화물 용량:"
 
 msgid "$SHIELDS"
-msgstr "SHIELDS"
+msgstr "보호막"
 
 msgid "$SHIELDWT"
 msgstr "차폐됨"
@@ -6459,16 +6457,16 @@ msgid "$SHOW_RESOURCES"
 msgstr "자원 표시"
 
 msgid "$SHRINK"
-msgstr "SHRINK"
+msgstr "수축"
 
 msgid "$Sign Up for An Account"
-msgstr "Sign Up for An Account"
+msgstr "계정 가입"
 
 msgid "$Sit"
 msgstr "앉기"
 
 msgid "$SIZE"
-msgstr "SIZE"
+msgstr "크기"
 
 msgid "$SKILL POINT AVAILABLE"
 msgstr "스킬 포인트 이용 가능"
@@ -6504,13 +6502,13 @@ msgid "$SLOT"
 msgstr "슬롯"
 
 msgid "$SLOW"
-msgstr "SLOW"
+msgstr "느림"
 
 msgid "$SNAPLEFT"
-msgstr "SNAP LEFT"
+msgstr "왼쪽으로 스냅"
 
 msgid "$SNAPRIGHT"
-msgstr "SNAP RIGHT"
+msgstr "오른쪽으로 스냅"
 
 msgid "$Sneak"
 msgstr "은신"
@@ -6570,7 +6568,7 @@ msgid "$SORT"
 msgstr "정렬"
 
 msgid "$SORT FILTER (TODO)"
-msgstr "SORT FILTER (TODO)"
+msgstr "정렬 (할 일)"
 
 msgid "$SORT_ABC"
 msgstr "이름순"
@@ -6675,7 +6673,7 @@ msgid "$SpaceshipEditor_FloorUp"
 msgstr "편집 층 올림"
 
 msgid "$SpaceshipEditor_ModuleDetails"
-msgstr "모듈 세부 정보"
+msgstr "모듈 상세 정보"
 
 msgid "$SpaceshipEditor_Options"
 msgstr "설정"
@@ -6717,7 +6715,7 @@ msgid "$Spaceship_Interaction_TakeOff"
 msgstr "도킹 해제/우주선 이륙"
 
 msgid "$SpacesuitWorkbench"
-msgstr "Spacesuit Workbench"
+msgstr "우주복 작업대"
 
 msgid "$Spanish"
 msgstr "스페인어"
@@ -6762,10 +6760,10 @@ msgid "$SpendAPointToUnlock"
 msgstr "1포인트를 써서 이 스킬 해제"
 
 msgid "$SPENDING"
-msgstr "SPENDING"
+msgstr "지출"
 
 msgid "$SPLOTCHY"
-msgstr "SPLOTCHY"
+msgstr "얼룩덜룩"
 
 msgid "$Sprint"
 msgstr "전력 질주"
@@ -6783,7 +6781,7 @@ msgid "$Squint Right"
 msgstr "눈을 가늘게 뜨기(오른쪽)"
 
 msgid "$STANDING"
-msgstr "STANDING"
+msgstr "스탠딩"
 
 msgid "$Star"
 msgstr "항성계"
@@ -6825,7 +6823,7 @@ msgid "$StarMap_Inspect_PlaceMarker"
 msgstr "마커 찍기"
 
 msgid "$StarMap_Interact"
-msgstr "STARMAP (INTERACT)"
+msgstr "은하계 지도 (작동하기)"
 
 msgid "$StarMap_Interact_Inspect"
 msgstr "조사하기"
@@ -6858,7 +6856,7 @@ msgid "$StarMap_SetRouteDestination"
 msgstr "항로 목적지 설정"
 
 msgid "$StarMap_ShowAllNameplates"
-msgstr "Show All Nameplates"
+msgstr "모든 명판 보기"
 
 msgid "$StarMap_ShowMe"
 msgstr "내 현재 위치"
@@ -6870,10 +6868,10 @@ msgid "$StarMap_SystemInspect"
 msgstr "은하계 지도 (항성계 조사)"
 
 msgid "$StarMap_SystemInspect_AddRemovePlot"
-msgstr "Add/Remove Plot"
+msgstr "항로 추가/제거"
 
 msgid "$StarMap_SystemInspect_PlotAndTransfer"
-msgstr "Plot And Transfer"
+msgstr "항로로 전송"
 
 msgid "$StarMap_SystemInspect_ResetCamera"
 msgstr "시점 초기화"
@@ -6894,13 +6892,13 @@ msgid "$START_SECURITY_GAME"
 msgstr "시작 ({0})"
 
 msgid "$STAT"
-msgstr "STAT"
+msgstr "스탯"
 
 msgid "$Station"
 msgstr "기지"
 
 msgid "$STATS"
-msgstr "STATS"
+msgstr "능력치"
 
 msgid "$STATUS"
 msgstr "상태"
@@ -6912,7 +6910,7 @@ msgid "$STEAL"
 msgstr "훔치기"
 
 msgid "$STICKER MODE"
-msgstr "STICKER MODE"
+msgstr "스티커 모드"
 
 msgid "$Stimpak"
 msgstr "스팀팩"
@@ -6945,16 +6943,16 @@ msgid "$Strength"
 msgstr "강도"
 
 msgid "$STRENGTH"
-msgstr "STRENGTH"
+msgstr "힘"
 
 msgid "$STYLE"
-msgstr "STYLE"
+msgstr "양식"
 
 msgid "$STYLE_BLENDS"
 msgstr "프리셋 혼합하기"
 
 msgid "$SUBJPrepend"
-msgstr "SUBJ:"
+msgstr "주격:"
 
 msgid "$Subscribe"
 msgstr "구독"
@@ -7002,7 +7000,7 @@ msgid "$SURVEYED"
 msgstr "환경 조사"
 
 msgid "$SURVEYOR"
-msgstr "SURVEYOR"
+msgstr "조사자"
 
 msgid "$SURVEY_PCT:"
 msgstr "조사 진행도:"
@@ -7041,7 +7039,7 @@ msgid "$SYSTEM SURVEY PCT"
 msgstr "시스템 조사 %"
 
 msgid "$TAG FOR SEARCH"
-msgstr "TAG FOR SEARCH"
+msgstr "검색용 태그"
 
 msgid "$TAKE"
 msgstr "가져가기"
@@ -7122,7 +7120,7 @@ msgid "$Terminal_SwitchView"
 msgstr "화면 전환"
 
 msgid "$TERRAIN"
-msgstr "TERRAIN"
+msgstr "지형"
 
 msgid "$Texture"
 msgstr "텍스처"
@@ -7137,7 +7135,7 @@ msgid "$That button is reserved."
 msgstr "해당 버튼은 제한되어 있습니다."
 
 msgid "$THEIR CREDITS"
-msgstr "THEIR CREDITS"
+msgstr "대상 크레딧"
 
 msgid "$THEY_THEM"
 msgstr "그들"
@@ -7146,7 +7144,7 @@ msgid "$THIN"
 msgstr "마름"
 
 msgid "$THIRD"
-msgstr "THIRD"
+msgstr "세 번째"
 
 msgid "$THR"
 msgstr "추력기"
@@ -7155,49 +7153,49 @@ msgid "$THRUSTERS"
 msgstr "추력기 작동"
 
 msgid "$TIME"
-msgstr "TIME"
+msgstr "시간"
 
 msgid "$time"
-msgstr "TIME"
+msgstr "시간"
 
 msgid "$Time of Day"
-msgstr "Time of Day"
+msgstr "시각"
 
 msgid "$TimeFilterAll"
-msgstr "Filter By Time (All)"
+msgstr "필터 (전체 시간)"
 
 msgid "$TimeFilterMonth"
-msgstr "Filter By Time (Month)"
+msgstr "필터 (한 달)"
 
 msgid "$TimeFilterToday"
-msgstr "Filter By Time (Today)"
+msgstr "필터 (오늘)"
 
 msgid "$TimeFilterWeek"
-msgstr "Filter By Time (Week)"
+msgstr "필터 (이번 주)"
 
 msgid "$TIMEREMAINING"
-msgstr "TIME REMAINING"
+msgstr "남은 시간"
 
 msgid "$TO PLACE"
-msgstr "TO PLACE"
+msgstr "배치하기"
 
 msgid "$TO STEAL"
-msgstr "TO STEAL"
+msgstr "훔치기"
 
 msgid "$TOGGLE"
-msgstr "TOGGLE"
+msgstr "전환"
 
 msgid "$TOGGLE DISTANCE MODE"
-msgstr "TOGGLE DISTANCE MODE"
+msgstr "거리 모드 전환"
 
 msgid "$Toggle Edit"
-msgstr "Edit Mode"
+msgstr "편집 모드"
 
 msgid "$Toggle Edit2"
-msgstr "Place Mode"
+msgstr "배치 모드"
 
 msgid "$TOGGLE HEADTRACKING"
-msgstr "TOGGLE HEADTRACKING"
+msgstr "헤드 트래킹 전환"
 
 msgid "$TOGGLE HELMET"
 msgstr "헬멧 감추기"
@@ -7317,7 +7315,7 @@ msgid "$TREATMENT"
 msgstr "치료제"
 
 msgid "$TuneToStation"
-msgstr "TUNE TO STATION"
+msgstr "스테이션에 맞춰 조정"
 
 msgid "$TURNS"
 msgstr "턴 수"
@@ -7329,7 +7327,7 @@ msgid "$UINamingError_InvalidCharacter"
 msgstr "이름에 지원되지 않는 문자가 포함되어 있습니다."
 
 msgid "$Unable to Jump"
-msgstr "Unable to Jump"
+msgstr "도약 불가"
 
 msgid "$UNASSIGN"
 msgstr "지정 취소"
@@ -7344,10 +7342,10 @@ msgid "$UNASSIGNED"
 msgstr "미지정"
 
 msgid "$Unavailable"
-msgstr "Unavailable"
+msgstr "사용 불가"
 
 msgid "$UNCATEGORIZED"
-msgstr "UNCATEGORIZED"
+msgstr "분류되지 않음"
 
 msgid "$Uncommon"
 msgstr "'언커먼'"
@@ -7380,7 +7378,7 @@ msgid "$UnitedColonies"
 msgstr "식민지 연합"
 
 msgid "$UNIT_ATMOSPHERE"
-msgstr "atm"
+msgstr "기압"
 
 msgid "$UNIT_GRAVITY"
 msgstr "g"
@@ -7389,7 +7387,7 @@ msgid "$UNIT_TEMPERATURE"
 msgstr "C"
 
 msgid "$UniversalTime_Suffix"
-msgstr "UT (24 HR)"
+msgstr "UT (24시)"
 
 msgid "$Unknown"
 msgstr "알 수 없음"
@@ -7413,13 +7411,13 @@ msgid "$Unknown,"
 msgstr "알 수 없음."
 
 msgid "$UnlinkAccount"
-msgstr "Unlink Bethesda.net Account"
+msgstr "Bethesda.net 계정 연결 해제"
 
 msgid "$UNLOAD"
-msgstr "UNLOAD"
+msgstr "내리기"
 
 msgid "$UNLOAD ALL"
-msgstr "UNLOAD ALL"
+msgstr "모두 내리기"
 
 msgid "$UNLOCK"
 msgstr "잠금 해제:"
@@ -7497,7 +7495,7 @@ msgid "$UserValidationFailed"
 msgstr "사용자 저장 장치를 초기화할 수 없습니다. 오류 코드: {1}"
 
 msgid "$UserValidationOutOfSpace"
-msgstr "로컬 저장 장치에 저장 공간이 부족합니다."
+msgstr "로컬 저장 장치에 여유 공간이 부족합니다."
 
 msgid "$USE_KEY"
 msgstr "키 맞추기"
@@ -7521,10 +7519,10 @@ msgid "$VALUE"
 msgstr "가치"
 
 msgid "$Value (C)"
-msgstr "Value (C)"
+msgstr "가치 (C)"
 
 msgid "$VALUE (C)"
-msgstr "VALUE (C)"
+msgstr "가치 (C)"
 
 msgid "$VALUE_LRG"
 msgstr "가치"
@@ -7557,13 +7555,13 @@ msgid "$Very Easy"
 msgstr "매우 쉬움"
 
 msgid "$VERY FAST"
-msgstr "V FAST"
+msgstr "매우 빠름"
 
 msgid "$Very Hard"
 msgstr "매우 어려움"
 
 msgid "$VERY SLOW"
-msgstr "V SLOW"
+msgstr "매우 느림"
 
 msgid "$Vibration"
 msgstr "컨트롤러 진동"
@@ -7572,13 +7570,13 @@ msgid "$Vibration Desc"
 msgstr "컨트롤러의 진동을 켜거나 끕니다."
 
 msgid "$VIEW_AVAILABLE"
-msgstr "View Available"
+msgstr "사용 가능 요소 보기"
 
 msgid "$VIEW_DESKTOP"
 msgstr "바탕화면 보기"
 
 msgid "$VIEW_OWNED"
-msgstr "View Owned"
+msgstr "소유 보기"
 
 msgid "$VIEW_WINDOWS"
 msgstr "창 보기"
@@ -7587,7 +7585,7 @@ msgid "$Vignette Intensity"
 msgstr "비네팅 강도"
 
 msgid "$VirtualController"
-msgstr "VIRTUAL CONTROLLER"
+msgstr "가상 컨트롤러"
 
 msgid "$VirtualController_L3"
 msgstr "UI 행동 4"
@@ -7650,7 +7648,7 @@ msgid "$WATER"
 msgstr "물"
 
 msgid "$WEAPON STATS"
-msgstr "WEAPON STATS"
+msgstr "무기 능력치"
 
 msgid "$WeaponAssignment"
 msgstr "무장 단축키 설정"
@@ -7764,10 +7762,10 @@ msgid "$Workshop_RTrigger"
 msgstr "오브젝트 오른쪽으로 회전/연결 만들기"
 
 msgid "$Workshop_ToggleDetails"
-msgstr "Toggle Details"
+msgstr "상세 전환"
 
 msgid "$Workshop_ToggleDistance"
-msgstr "Toggle Distance Mode"
+msgstr "거리 모드 전환"
 
 msgid "$Workshop_ToggleView"
 msgstr "시점 변경"

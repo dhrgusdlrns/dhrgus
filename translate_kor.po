@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2024-05-26 15:51+0000\n"
+"PO-Revision-Date: 2024-06-03 15:37+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -308,7 +308,7 @@ msgid "$AVAILABLE OUTPOSTS"
 msgstr "선택 가능 기지:"
 
 msgid "$AVAILABLE PROJECTS:"
-msgstr "선택 가능 프로젝트"
+msgstr "선택 가능 프로젝트:"
 
 msgid "$AVAILABLE RECIPES:"
 msgstr "선택 가능 조리법:"
@@ -467,10 +467,10 @@ msgid "$BUILD RESOURCES NEEDED"
 msgstr "반입 필요 자원"
 
 msgid "$BUILD WITH"
-msgstr "제작에 사용"
+msgstr "다음 제작에 사용:"
 
 msgid "$BuildBaseBot"
-msgstr "기반 봇 제작"
+msgstr "기지 로봇 제작"
 
 msgid "$BuildConfirm1"
 msgstr "파트 제작:"
@@ -710,7 +710,7 @@ msgid "$ChangedMods_ConfirmReset"
 msgstr "모드 정렬/불러오기 순서가 변경되었습니다. 게임에서 데이터 파일을 다시 불러오기 합니다."
 
 msgid "$CHANGEPRESET"
-msgstr "프리셋 변경"
+msgstr "사전 설정 변경"
 
 msgid "$CHANGESEX"
 msgstr "성별 변경"
@@ -725,7 +725,7 @@ msgid "$Character"
 msgstr "캐릭터"
 
 msgid "$charge"
-msgstr "변경"
+msgstr "충전"
 
 msgid "$Chargen"
 msgstr "캐릭생성"
@@ -779,7 +779,7 @@ msgid "$ChargenWattleInOut"
 msgstr "턱선 붙음 - 처짐"
 
 msgid "$CHARGEN_BIOMETRIC_TEXT"
-msgstr "추신: 생체 커스터마이징은 추후 유전학 시설에서 변경할 수 있습니다."
+msgstr "참고: 생체 커스터마이징은 추후 유전학 시설에서 변경할 수 있습니다."
 
 msgid "$Chargen_BodyType"
 msgstr "몸통 유형"
@@ -827,7 +827,7 @@ msgid "$Cinematic"
 msgstr "시네마틱"
 
 msgid "$CLAIM"
-msgstr "요청"
+msgstr "받기"
 
 msgid "$CLASS"
 msgstr "등급"
@@ -860,7 +860,7 @@ msgid "$Cockpit"
 msgstr "조종실"
 
 msgid "$Colony Goods"
-msgstr "식민지 상품"
+msgstr "식민지 물품"
 
 msgid "$COLOR"
 msgstr "색상"
@@ -965,7 +965,7 @@ msgid "$CONFIRM"
 msgstr "확인"
 
 msgid "$Confirm change preset"
-msgstr "현재 변경 사항을 폐기하고 새로운 프리셋을 고르시겠습니까?"
+msgstr "현재 변경 사항을 폐기하고 새로운 사전 설정을 고르시겠습니까?"
 
 msgid "$Confirm character"
 msgstr "이대로 캐릭터를 적용하시겠습니까?"
@@ -1084,19 +1084,19 @@ msgid "$Controller Cursor Sensitivity"
 msgstr "컨트롤러 커서 감도"
 
 msgid "$Controller Cursor Sensitivity Desc"
-msgstr "컨트롤러를 사용할 때 게임 커서의 속도를 조절합니다."
+msgstr "컨트롤러를 사용할 때 게임 커서 속도를 조절합니다."
 
 msgid "$Controller Look Sensitivity"
 msgstr "컨트롤러 카메라 감도"
 
 msgid "$Controller Look Sensitivity Desc"
-msgstr "컨트롤러로 카메라 이동 감도를 조절합니다."
+msgstr "컨트롤러를 사용할 때 카메라 이동 감도를 조절합니다."
 
 msgid "$ControllerHotswap"
 msgstr "빠른 컨트롤러 전환"
 
 msgid "$ControllerHotswap Desc"
-msgstr "활성화하면, 컨트롤러 사용 시 키보드 조작이 해제됩니다. 반대도 마찬가지입니다."
+msgstr "활성화하면, 컨트롤러 사용 시 키보드 조작이 해제됩니다. 비활성화하면 해제되지 않습니다."
 
 msgid "$CONTROLS"
 msgstr "컨트롤"
@@ -1177,7 +1177,7 @@ msgid "$CreatePowerLink"
 msgstr "동력 연결 만들기"
 
 msgid "$Creating quick account..."
-msgstr "간편 계정 만드는 중..."
+msgstr "빠른 계정 생성 중..."
 
 msgid "$CREDITS"
 msgstr "보유 크레딧"
@@ -1234,7 +1234,7 @@ msgid "$CURRENT_RANK"
 msgstr "현재 랭크"
 
 msgid "$CURRENT_RANK:"
-msgstr "현재 랭크"
+msgstr "현재 랭크:"
 
 msgid "$CUSTOMIZE"
 msgstr "커스터마이즈"
@@ -1429,7 +1429,7 @@ msgid "$Dialogue Camera"
 msgstr "대화 카메라"
 
 msgid "$Dialogue Camera Desc"
-msgstr "대화 중에 화자 카메라를 활성화합니다."
+msgstr "대화 중에 대화 카메라 시점이 활성화됩니다. 카메라 시점이 명함 사진처럼 확대 되고 NPC에 고정됩니다."
 
 msgid "$Dialogue Subtitles"
 msgstr "대화 자막"
@@ -1554,7 +1554,7 @@ msgid "$DRCorrosive_LRG"
 msgstr "부식"
 
 msgid "$DRIVE DAMAGE"
-msgstr "드라이브 피해"
+msgstr "중력 구동기 손상"
 
 msgid "$DROP"
 msgstr "떨구기"
@@ -1635,7 +1635,7 @@ msgid "$EMPTY SLOT"
 msgstr "빈 자리"
 
 msgid "$Enable Depth of Field"
-msgstr "피사계 심도 활성화"
+msgstr "뎁스 오브 필드 활성화"
 
 msgid "$Enable Depth of Field Desc"
 msgstr "피사계 심도 효과를 활성화합니다."
@@ -1731,10 +1731,10 @@ msgid "$ET"
 msgstr "ET"
 
 msgid "$EULAHeader"
-msgstr "북아메리카 및 남아메리카 거주자에게 적용되는 최종 사용자 이용 약관입니다:"
+msgstr "북아메리카 및 남아메리카 거주자에게 적용되는 최종 사용자 이용 약관입니다."
 
 msgid "$Excessive Drive Damage"
-msgstr "과잉 드라이브 피해"
+msgstr "극심한 중력 구동기 손상"
 
 msgid "$EXECUTE"
 msgstr "실행"
@@ -1743,7 +1743,7 @@ msgid "$Execute"
 msgstr "실행"
 
 msgid "$Execute Critical"
-msgstr "중요 실행"
+msgstr "치명적 실행 문제"
 
 msgid "$EXIT"
 msgstr "종료"
@@ -1809,7 +1809,7 @@ msgid "$Explored"
 msgstr "탐험 완료"
 
 msgid "$Expression"
-msgstr "익스프레션"
+msgstr "표정"
 
 msgid "$EXTRAS"
 msgstr "추가 메뉴"
@@ -1947,7 +1947,7 @@ msgid "$Film Grain"
 msgstr "필름 그레인 강도"
 
 msgid "$Film Grain Desc"
-msgstr "필름 그레인 효과의 강도를 설정합니다."
+msgstr "필름 입상성 효과의 강도를 설정합니다."
 
 msgid "$Filter"
 msgstr "필터"
@@ -2236,7 +2236,7 @@ msgid "$Grenade"
 msgstr "수류탄"
 
 msgid "$Grid View"
-msgstr "특성 차트"
+msgstr "특성 도표"
 
 msgid "$GRV"
 msgstr "중력 구동기"
@@ -2245,7 +2245,7 @@ msgid "$GST"
 msgstr "GST"
 
 msgid "$GSTime_Suffix"
-msgstr "GST (24 HR)"
+msgstr "GST (24시)"
 
 msgid "$HAIL"
 msgstr "교신"
@@ -2347,7 +2347,7 @@ msgid "$HouseVa’ruun"
 msgstr "바룬 가문"
 
 msgid "$HP"
-msgstr "HP"
+msgstr "체력"
 
 msgid "$HUD"
 msgstr "HUD"
@@ -2415,7 +2415,7 @@ msgid "$HUDFailed"
 msgstr "실패"
 
 msgid "$HUDMessage_InventoryDisabled"
-msgstr "인벤토리를 이용할 수 없습니다."
+msgstr "소지품 창을 사용할 수 없습니다."
 
 msgid "$HUDRejected"
 msgstr "거부"
@@ -2583,16 +2583,16 @@ msgid "$InvCompareLabel_Value"
 msgstr "가치"
 
 msgid "$Inventory"
-msgstr "인벤토리"
+msgstr "소지품"
 
 msgid "$INVENTORY"
-msgstr "인벤토리"
+msgstr "소지품"
 
 msgid "$Inventory:"
-msgstr "인벤토리:"
+msgstr "소지품:"
 
 msgid "$InventoryAmount"
-msgstr "인벤토리 수량"
+msgstr "소지품 수량"
 
 msgid "$InventoryCategoryAid"
 msgstr "구호품"
@@ -2673,7 +2673,7 @@ msgid "$InventoryCategoryWeaponThrowable"
 msgstr "폭발물"
 
 msgid "$INVENTORYMine"
-msgstr "내 인벤토리"
+msgstr "내 소지품"
 
 msgid "$INVENTORYVendor"
 msgstr "상인"
@@ -2706,7 +2706,7 @@ msgid "$Invert Flight X"
 msgstr "비행 중 X축 반전"
 
 msgid "$Invert Flight Y"
-msgstr "비행 Y축 반전"
+msgstr "비행 중 Y축 반전"
 
 msgid "$Invert Menu X"
 msgstr "메뉴 카메라 X축 반전"
@@ -2727,16 +2727,16 @@ msgid "$Invert X"
 msgstr "보행 중 X축 반전"
 
 msgid "$Invert Y"
-msgstr "Y축 반전"
+msgstr "보행 중 Y축 반전"
 
 msgid "$Invert Yaw"
 msgstr "좌우향 회전 반전"
 
 msgid "$Invert_Flight_X_Desc"
-msgstr "함선 조종 중 X축 방향의 시점 조작을 반전시킵니다."
+msgstr "우주선 조종 중 X축 방향의 시점 조작을 반전시킵니다."
 
 msgid "$Invert_Flight_Y_Desc"
-msgstr "우주선 조종 중 수직방향 카메라 축을 뒤집습니다."
+msgstr "함선 조종 중 Y축 방향의 시점 조작을 반전시킵니다."
 
 msgid "$Invert_Pitch_Flycam_Desc"
 msgstr "전초기지 조감 시점 중 수직방향 카메라 축을 뒤집습니다."
@@ -2748,7 +2748,7 @@ msgid "$Invert_X_Desc"
 msgstr "보행 중 X축 방향의 시점 조작을 반전시킵니다."
 
 msgid "$Invert_Y_Desc"
-msgstr "걸을 때 수직방향 카메라 축을 뒤집습니다."
+msgstr "보행 중 Y축 방향의 시점 조작을 반전시킵니다."
 
 msgid "$INVEST"
 msgstr "조사"
@@ -2764,8 +2764,8 @@ msgstr "버튼을 누른채 드래그하는 아이템 회전 방식"
 
 msgid "$Item HoldAndDrag Desc"
 msgstr ""
-"메뉴에서 아이템 모델을 회전하는 방식을 마우스 버튼을 누른 상태에서 드래그하는 방식에서 마우스 버튼을 한번 클릭 후 마우스를 움직이는 "
-"방식으로 변경합니다."
+"메뉴에서 아이템 모델을 회전하는 방식을 설정합니다. 켜면 마우스 버튼을 누른 상태에서 드래그해야 회전되며, 끄면 마우스 버튼을 한번 클릭 "
+"후 마우스 커서를 움직이면 회전됩니다."
 
 msgid "$Item Type"
 msgstr "아이템 유형"
@@ -2922,10 +2922,10 @@ msgid "$LARGE"
 msgstr "크게"
 
 msgid "$Large Menu Fonts"
-msgstr "메뉴 폰트 크게"
+msgstr "메인 메뉴 글자 크기 키우기"
 
 msgid "$Large Menu Fonts Desc"
-msgstr "가능하면 메뉴에서 큰 폰트를 씁니다. 메인 메뉴 폰트 크기만 바꿀 수 있습니다."
+msgstr "가능하면 메인 메뉴 글자 크기를 크게 키웁니다. 메인 메뉴 글자 크기만 바꿀 수 있습니다."
 
 msgid "$Last Used"
 msgstr "마지막 사용"
@@ -3125,10 +3125,10 @@ msgid "$Lockpicks Left"
 msgstr "남은 머리핀"
 
 msgid "$Log"
-msgstr "로그"
+msgstr "상태"
 
 msgid "$LOG"
-msgstr "능력치"
+msgstr "상태"
 
 msgid "$Logging you in..."
 msgstr "로그인 중..."
@@ -3225,7 +3225,7 @@ msgid "$Look Vertical Sensitivity Desc"
 msgstr "수직 카메라의 전반적인 감도를 조절합니다."
 
 msgid "$LOWER"
-msgstr "밑"
+msgstr "낮추기"
 
 msgid "$LUCK"
 msgstr "행운"
@@ -3300,7 +3300,7 @@ msgid "$MainGameplay_QuickHeal"
 msgstr "빠른 치유"
 
 msgid "$MainGameplay_QuickInventory"
-msgstr "빠른 인벤토리"
+msgstr "빠른 소지품"
 
 msgid "$MainGameplay_Quickkey1"
 msgstr "1번 즐겨찾기"
@@ -3438,7 +3438,7 @@ msgid "$MALE"
 msgstr "남성"
 
 msgid "$MANAGE GOODS"
-msgstr "상품 관리"
+msgstr "물품 관리"
 
 msgid "$ManualSaveMsg"
 msgstr "저장 중..."
@@ -3573,7 +3573,7 @@ msgid "$MICROGEOMETRY"
 msgstr "얼굴 특징 1"
 
 msgid "$MINE"
-msgstr "마인"
+msgstr "소유물"
 
 msgid "$MINUTE"
 msgstr "분"
@@ -3819,7 +3819,7 @@ msgid "$NAME_CHARACTER"
 msgstr "이름 짓기"
 
 msgid "$NavigateObjectives"
-msgstr "목표 탐색"
+msgstr "목표 지점으로 항행"
 
 msgid "$Near Plane"
 msgstr "근경 효과 강도"
@@ -4098,7 +4098,7 @@ msgid "$OutputLink"
 msgstr "내보내기"
 
 msgid "$OVERALL"
-msgstr "전체"
+msgstr "종합"
 
 msgid "$OVERFLOW"
 msgstr "초과분"
@@ -4224,13 +4224,13 @@ msgid "$PhotoMode_ToggleHelmet"
 msgstr "헬멧 감추기"
 
 msgid "$PhotoMode_ToggleUI"
-msgstr "UI 감추기"
+msgstr "UI 전환"
 
 msgid "$PhotoMode_Up"
 msgstr "위"
 
 msgid "$PHY"
-msgstr "PHYS"
+msgstr "물리"
 
 msgid "$Physical"
 msgstr "신체"
@@ -4281,10 +4281,10 @@ msgid "$PipboySPECIALCategory"
 msgstr "스페셜"
 
 msgid "$PLACE"
-msgstr "장소"
+msgstr "놓기"
 
 msgid "$Place"
-msgstr "장소"
+msgstr "놓기"
 
 msgid "$PlaceMarker"
 msgstr "마커 찍기"
@@ -4506,7 +4506,7 @@ msgid "$Queued..."
 msgstr "대기 중..."
 
 msgid "$Quick Inventory"
-msgstr "빠른 인벤토리"
+msgstr "빠른 소지품"
 
 msgid "$Quick Magic"
 msgstr "빠른 마법"
@@ -4542,7 +4542,7 @@ msgid "$QuickHeal"
 msgstr "빠른 치료"
 
 msgid "$QuickInventory"
-msgstr "빠른 인벤토리"
+msgstr "빠른 소지품"
 
 msgid "$Quickkeys"
 msgstr "즐겨찾기"
@@ -4743,7 +4743,7 @@ msgid "$Remap_ButtonReservedError"
 msgstr "해당 버튼은 제한되어 있습니다."
 
 msgid "$Remap_ChordedButtonContextError"
-msgstr "이 컨텍스트에는 코딩된 버튼을 지정할 수 없습니다."
+msgstr "이 컨텍스트에는 코딩된 버튼을 할당할 수 없습니다."
 
 msgid "$Remap_ChordedButtonDeviceError"
 msgstr "이 장치에는 코딩된 버튼을 지정할 수 없습니다."
@@ -4815,7 +4815,7 @@ msgid "$REPAIR MODULES"
 msgstr "모듈 수리"
 
 msgid "$REPAIR WITH"
-msgstr "수리에 사용"
+msgstr "수리에 사용:"
 
 msgid "$RepairConfirm"
 msgstr "다음을 사용하여 부분 수리함:"
@@ -4869,7 +4869,7 @@ msgid "$ReportMod_Confirm"
 msgstr "행위 준칙/이용 약관 위반과 관련해 노골적인 내용, 일반적인 학대 또는 폭력을 묘사한 모드를 신고하시겠습니까?"
 
 msgid "$Req:"
-msgstr "필요: 랭크"
+msgstr "필요 랭크:"
 
 msgid "$REQUIRED ATTRIBUTES:"
 msgstr "필요 특성:"
@@ -5112,7 +5112,7 @@ msgid "$SAVE AND EXIT"
 msgstr "저장하고 나가기"
 
 msgid "$SAVE CORRUPT"
-msgstr "오류 저장"
+msgstr "세이브 손상"
 
 msgid "$Save in Pipboy"
 msgstr "핍보이에 저장"
@@ -5145,7 +5145,7 @@ msgid "$Save on Wait Desc"
 msgstr "대기 시 자동저장을 활성화합니다."
 
 msgid "$Save over this game?"
-msgstr "이 게임을 저장하시겠습니까?"
+msgstr "세이브 파일에 덮어쓰시겠습니까?"
 
 msgid "$SaveGameDeviceError"
 msgstr "장치에 접속하는 동안 오류가 발생했습니다. 다시 시도해 주세요."
@@ -5154,7 +5154,7 @@ msgid "$SaveGameError_MissingFile"
 msgstr "게임 세이브 파일이 누락되어 불러오기 할 수 없습니다."
 
 msgid "$SaveGameError_MissingFileHeader"
-msgstr "세이브 파일 누락"
+msgstr "파일 누락됨"
 
 msgid "$SaveGameFailed"
 msgstr "게임 세이브 파일을 만드는데 실패했습니다."
@@ -5437,7 +5437,7 @@ msgid "$SCAN_RANGE:"
 msgstr "스캔 범위:"
 
 msgid "$SCAR"
-msgstr "SCAR"
+msgstr "흉터"
 
 msgid "$SCARS"
 msgstr "흉터"
@@ -5652,10 +5652,10 @@ msgid "$Settings_ContactShadowQuality Desc"
 msgstr "접촉면 그림자의 품질을 설정합니다."
 
 msgid "$Settings_Contrast"
-msgstr "콘트라스트"
+msgstr "대비 조정"
 
 msgid "$Settings_Contrast Desc"
-msgstr "게임의 콘트라스트를 조정합니다."
+msgstr "게임의 대비를 조정합니다."
 
 msgid "$Settings_CrowdQuality"
 msgstr "군중 밀도"
@@ -5679,7 +5679,8 @@ msgid "$Settings_FirstPersonFOV"
 msgstr "1인칭 시야각"
 
 msgid "$Settings_FirstPersonFOV Desc"
-msgstr "1인칭 카메라 시야각을 설정합니다. 이를 기본 설정 이상으로 조정하면 성능이나 시각적 문제가 발생할 수 있습니다."
+msgstr ""
+"보행 중 1인칭 카메라 시야각을 설정합니다. 시야각을 기본 설정 이상으로 조정하면 성능 저하나 시각적 문제가 발생할 수 있습니다."
 
 msgid "$Settings_FullScreenMode"
 msgstr "테두리 없는 창 모드"
@@ -5727,7 +5728,7 @@ msgid "$Settings_FrameGenerationDesc"
 msgstr "DLSS 프레임 생성을 활성화합니다."
 
 msgid "$Settings_GraphicPreset"
-msgstr "그래픽 프리셋"
+msgstr "그래픽 사전 설정"
 
 msgid "$Settings_GraphicPreset Desc"
 msgstr "전반적인 그래픽 품질을 설정합니다."
@@ -5742,7 +5743,7 @@ msgid "$Settings_GTAOQuality"
 msgstr "GTAO 품질"
 
 msgid "$Settings_GTAOQuality Desc"
-msgstr "앰비언트 오클루전의 품질을 설정합니다."
+msgstr "그라운드 트루스 앰비언트 오클루전의 품질을 설정합니다."
 
 msgid "$Settings_HDRBrightness"
 msgstr "HDR 밝기 조정"
@@ -5827,13 +5828,14 @@ msgstr "우주선 3인칭 시야각"
 
 msgid "$Settings_ShipThirdPersonFOV Desc"
 msgstr ""
-"우주선을 조종할 때 3인칭 카메라의 시야각을 설정합니다. 기본 설정 이상으로 조정하면 성능 및 가시성 문제가 발생할 수 있습니다."
+"우주선 조종 중 3인칭 카메라 시야각을 설정합니다. 시야각을 기본 설정 이상으로 조정하면 성능 저하나 시각적 문제가 발생할 수 있습니다."
 
 msgid "$Settings_ThirdPersonFOV"
 msgstr "3인칭 시야각"
 
 msgid "$Settings_ThirdPersonFOV Desc"
-msgstr "3인칭 카메라 시야각을 설정합니다. 이를 기본 설정 이상으로 조정하면 성능이나 시각적 문제가 발생할 수 있습니다."
+msgstr ""
+"보행 중 3인칭 카메라 시야각을 설정합니다. 시야각을 기본 설정 이상으로 조정하면 성능 저하나 시각적 문제가 발생할 수 있습니다."
 
 msgid "$Settings_Upscaling"
 msgstr "업스케일링"
@@ -6451,13 +6453,13 @@ msgid "$SHOW_QUEST_IN_HUD"
 msgstr "HUD에 임무 표시"
 
 msgid "$SHOW_QUEST_IN_HUD Desc"
-msgstr "활성 임무를 계속 HUD에 표시된 상태로 둡니다."
+msgstr "HUD에 진행 중인 임무가 항상 표시됩니다."
 
 msgid "$SHOW_RESOURCES"
 msgstr "자원 표시"
 
 msgid "$SHRINK"
-msgstr "수축"
+msgstr "축소"
 
 msgid "$Sign Up for An Account"
 msgstr "계정 가입"
@@ -6532,10 +6534,10 @@ msgid "$sNoExitSaveQuit"
 msgstr "현재 저장하고 게임 종료하기가 비활성화되어 있습니다. 주메뉴로 나갑니다."
 
 msgid "$sNoExitSaveQuitConfirm"
-msgstr "지금은 저장하고 게임 종료하기를 할 수 없습니다.  무시하고 주메뉴로 나가시겠습니까?"
+msgstr "지금은 저장하고 게임 종료하기를 할 수 없습니다. 무시하고 주메뉴로 나가시겠습니까?"
 
 msgid "$sNoExitSaveQuitToDesktopConfirm"
-msgstr "지금은 저장하고 게임 종료하기를 할 수 없습니다.  무시하고 게임을 종료하시겠습니까?"
+msgstr "지금은 저장하고 게임 종료하기를 할 수 없습니다. 무시하고 게임을 종료하시겠습니까?"
 
 msgid "$Social"
 msgstr "생활"
@@ -6763,7 +6765,7 @@ msgid "$SPENDING"
 msgstr "지출"
 
 msgid "$SPLOTCHY"
-msgstr "얼룩덜룩"
+msgstr "반점"
 
 msgid "$Sprint"
 msgstr "전력 질주"
@@ -6892,7 +6894,7 @@ msgid "$START_SECURITY_GAME"
 msgstr "시작 ({0})"
 
 msgid "$STAT"
-msgstr "스탯"
+msgstr "능력치"
 
 msgid "$Station"
 msgstr "기지"
@@ -6949,7 +6951,7 @@ msgid "$STYLE"
 msgstr "양식"
 
 msgid "$STYLE_BLENDS"
-msgstr "프리셋 혼합하기"
+msgstr "사전 설정 혼합하기"
 
 msgid "$SUBJPrepend"
 msgstr "주격:"
@@ -7204,16 +7206,18 @@ msgid "$Toggle Ironsights"
 msgstr "정조준 전환"
 
 msgid "$Toggle Ironsights Desc"
-msgstr "무기 정조준을 꾹 누르는 대신 전환형으로 바꿉니다."
+msgstr ""
+"총기 정조준 방식을 설정합니다. 켜면 조준키를 한번 누를 때마다 정조준 시점이 전환됩니다. 끄면 조준키를 꾹 누르고 있어야 정조준 시점이 "
+"유지됩니다."
 
 msgid "$TOGGLE MENU"
 msgstr "메뉴 감추기"
 
 msgid "$TOGGLE VIEW"
-msgstr "시점 변경"
+msgstr "시점 전환"
 
 msgid "$ToggleActive"
-msgstr "활성화 변경"
+msgstr "활성화 전환"
 
 msgid "$ToggleAlwaysRun"
 msgstr "항상 달리기 전환"
@@ -7435,10 +7439,10 @@ msgid "$Unlock_Rank"
 msgstr "이 랭크를 해제하면 스킬이 향상됩니다."
 
 msgid "$UNOWNED"
-msgstr "소유하지 않음"
+msgstr "미보유"
 
 msgid "$UNOWNED/NOT DOWNLOADED"
-msgstr "소유하지 않음/다운로드하지 않음"
+msgstr "미보유/다운로드 안함"
 
 msgid "$UNREGISTERED"
 msgstr "등록 안됨"
@@ -7531,7 +7535,7 @@ msgid "$Vanity Camera"
 msgstr "화면보호 카메라 회전"
 
 msgid "$Vanity Camera Desc"
-msgstr "일정 시간 동안 입력이 없을 때 자동으로 화면보호 카메라 회전을 활성화합니다."
+msgstr "일정 시간 동안 입력이 없을 때 화면보호 카메라 시점을 활성화합니다. 카메라가 자동으로 캐릭터 주위를 공전합니다."
 
 msgid "$Variant"
 msgstr "변형"
@@ -7813,7 +7817,7 @@ msgid "$XESS"
 msgstr "XeSS"
 
 msgid "$XP"
-msgstr "경험치"
+msgstr "XP"
 
 msgid "$Yes"
 msgstr "네"

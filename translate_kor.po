@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2024-06-14 14:37+0000\n"
+"PO-Revision-Date: 2024-06-15 17:03+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -2415,7 +2415,7 @@ msgid "$HUDFailed"
 msgstr "실패"
 
 msgid "$HUDMessage_InventoryDisabled"
-msgstr "소지품 창을 사용할 수 없습니다."
+msgstr "인벤토리 창을 사용할 수 없습니다."
 
 msgid "$HUDRejected"
 msgstr "거부"
@@ -2583,16 +2583,16 @@ msgid "$InvCompareLabel_Value"
 msgstr "가치"
 
 msgid "$Inventory"
-msgstr "소지품"
+msgstr "인벤토리"
 
 msgid "$INVENTORY"
-msgstr "소지품"
+msgstr "인벤토리"
 
 msgid "$Inventory:"
-msgstr "소지품:"
+msgstr "인벤토리:"
 
 msgid "$InventoryAmount"
-msgstr "소지품 수량"
+msgstr "인벤토리 수량"
 
 msgid "$InventoryCategoryAid"
 msgstr "구호품"
@@ -2673,7 +2673,7 @@ msgid "$InventoryCategoryWeaponThrowable"
 msgstr "폭발물"
 
 msgid "$INVENTORYMine"
-msgstr "내 소지품"
+msgstr "내 인벤토리"
 
 msgid "$INVENTORYVendor"
 msgstr "상인"
@@ -3302,7 +3302,7 @@ msgid "$MainGameplay_QuickHeal"
 msgstr "빠른 치유"
 
 msgid "$MainGameplay_QuickInventory"
-msgstr "빠른 소지품"
+msgstr "빠른 인벤토리"
 
 msgid "$MainGameplay_Quickkey1"
 msgstr "1번 즐겨찾기"
@@ -3641,7 +3641,7 @@ msgid "$MISSIONS"
 msgstr "임무"
 
 msgid "$MissionUpdate"
-msgstr "임무 업데이트"
+msgstr "임무 갱신사항"
 
 msgid "$MOBILITY"
 msgstr "기동성"
@@ -4508,7 +4508,7 @@ msgid "$Queued..."
 msgstr "대기 중..."
 
 msgid "$Quick Inventory"
-msgstr "빠른 소지품"
+msgstr "빠른 인벤토리"
 
 msgid "$Quick Magic"
 msgstr "빠른 마법"
@@ -4544,7 +4544,7 @@ msgid "$QuickHeal"
 msgstr "빠른 치료"
 
 msgid "$QuickInventory"
-msgstr "빠른 소지품"
+msgstr "빠른 인벤토리"
 
 msgid "$Quickkeys"
 msgstr "즐겨찾기"

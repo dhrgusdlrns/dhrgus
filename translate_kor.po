@@ -79,6 +79,9 @@ msgstr "명중률"
 msgid "$ACCURACY_LRG"
 msgstr "명중"
 
+msgid "$Achievement Friendly"
+msgstr "업적 유효"
+
 msgid "$Action"
 msgstr "행동"
 
@@ -87,6 +90,9 @@ msgstr "활성화"
 
 msgid "$Activate"
 msgstr "활성화"
+
+msgid "$Active_Bounty"
+msgstr "유효 상금"
 
 msgid "$ACTIVE_EFFECTS"
 msgstr "활성 효과"
@@ -108,6 +114,9 @@ msgstr "모두 추가"
 
 msgid "$ADD-ONS"
 msgstr "애드온"
+
+msgid "$Additional"
+msgstr "추가"
 
 msgid "$ADJUST"
 msgstr "조절"
@@ -144,6 +153,12 @@ msgstr "전체"
 
 msgid "$Ally"
 msgstr "아군"
+
+msgid "$Alphabetical (Ascending)"
+msgstr "알파벳순(오름차순)"
+
+msgid "$Alphabetical (Descending)"
+msgstr "알파벳순(내림차순)"
 
 msgid "$AlreadyAtThisBody"
 msgstr "이미 이 위치에 있음"
@@ -331,6 +346,9 @@ msgstr "은하계 지도로"
 msgid "$BACKTOSYSTEM"
 msgstr "항성계 지도로"
 
+msgid "$Banner"
+msgstr "배너"
+
 msgid "$Basic"
 msgstr "기본"
 
@@ -369,6 +387,9 @@ msgstr "베데스다 게임 스튜디오"
 
 msgid "$BETHESDA.NET"
 msgstr "모드"
+
+msgid "$Best Results"
+msgstr "최고 기록"
 
 msgid "$BINDING CONFLICTS"
 msgstr "키 지정 충돌"
@@ -415,6 +436,15 @@ msgstr "경로에 동일한 위치를 두 번 연속으로 추가할 수 없습�
 msgid "$BONUS"
 msgstr "보너스"
 
+msgid "$Bookmark"
+msgstr "즐겨찾기"
+
+msgid "$Bookmarked"
+msgstr "즐겨찾기등록됨"
+
+msgid "$Bookmarks"
+msgstr "즐겨찾기"
+
 msgid "$BOOST"
 msgstr "부스터"
 
@@ -435,6 +465,18 @@ msgstr "현상금"
 
 msgid "$Bounty"
 msgstr "현상금"
+
+msgid "$Bounty_Alive"
+msgstr "지명수배: 생포"
+
+msgid "$Bounty_Dead"
+msgstr "지명수배: 사망"
+
+msgid "$Bounty_DeadOrAlive"
+msgstr "지명수배: 생사불명"
+
+msgid "$Bounty_Resolved"
+msgstr "현상금 해결됨"
 
 msgid "$BRIGHTNESS"
 msgstr "밝기"
@@ -504,6 +546,18 @@ msgstr "철거"
 
 msgid "$BUY"
 msgstr "상대의 것 구매"
+
+msgid "$Buy"
+msgstr "구입"
+
+msgid "$BUY NOW"
+msgstr "지금 구입"
+
+msgid "$By:"
+msgstr "By:"
+
+msgid "$ByWhom:"
+msgstr "By:"
 
 msgid "$BUY ALL"
 msgstr "전부 구매"
@@ -630,6 +684,9 @@ msgstr "CAS"
 
 msgid "$CATEGORIES"
 msgstr "분류"
+
+msgid "$Category List"
+msgstr "카테고리 목록"
 
 msgid "$Category_Aid"
 msgstr "구호품"
@@ -979,6 +1036,9 @@ msgstr "설정을 결정"
 msgid "$CONFIRMATION"
 msgstr "확인"
 
+msgid "$Confirmation"
+msgstr "? "예"를 선택하면 지금 바로 이 Creation을 구매, 다운로드 및 설치합니다."
+
 msgid "$ConfirmContinue"
 msgstr "마지막에 저장한 게임에서 계속할까요?"
 
@@ -1007,9 +1067,7 @@ msgid "$ConfirmNew"
 msgstr "게임을 새로 시작할까요?"
 
 msgid "$ConfirmNewHomeShipInSpace"
-msgstr ""
-"{1} 함선을 거점 함선으로 지정하시겠습니까? {2} 함선은 보관되고 나중에 사용할 수 있습니다. 모든 화물과 승무원이 거점 함선으로 "
-"이동됩니다."
+msgstr "{1} 함선을 거점 함선으로 지정하시겠습니까? {2} 함선은 보관되고 나중에 사용할 수 있습니다. 모든 화물과 승무원이 거점 함선으로 이동됩니다."
 
 msgid "$ConfirmNew_HC"
 msgstr "게임을 생존 모드로 새로 시작할까요?"
@@ -1152,6 +1210,15 @@ msgstr "출력물 연결 만들기"
 msgid "$CREATE TRANSFER LINK"
 msgstr "전송 연결 만들기"
 
+msgid "$CREATE ACCOUNT"
+msgstr "계정 만들기"
+
+msgid "$CreateAcct_AgeRestrict"
+msgstr "보호자의 제한으로 인해 온라인 미디어 공유가 비활성화되어 있습니다."
+
+msgid "$CreateAcct_AccountExternalLinkConflict"
+msgstr "이 Bethesda.net 계정은 이미 연결되어 있습니다. 다른 Bethesda.net 계정에 로그인하거나 http://beth.games/account 으로 이동하여 계정을 관리하거나 연결을 해제하십시오. \n\n 문제가 해결되지 않으면 http://help.bethesda.net 로 이동하십시오. \n\n 오류: AccountExternalLinkConflict"
+
 msgid "$CreateAcct_BNET_BEAM_EMAIL_ADDRESS_ALREADY_TAKEN"
 msgstr "해당 이메일 주소는 이미 계정을 만드는 데 사용되었습니다."
 
@@ -1167,8 +1234,38 @@ msgstr "이 사용자 이름은 이미 계정을 만드는 데 사용되었습�
 msgid "$CreateAcct_BNET_CANNOT_CONNECT"
 msgstr "Bethesda.net 서버에 연결할 수 없습니다."
 
+msgid "$CreateAcct_BNET_CDP_AUTHENTICATION_FAILED"
+msgstr "Bethesda.net 서버에 연결할 수 없습니다."
+
+msgid "$CreateAcct_BNET_CLIENT_ERROR"
+msgstr "작업을 완료할 수 없습니다."
+
+msgid "$CreateAcct_BNET_DNS_ERROR"
+msgstr "Bethesda.net 서버에 연결할 수 없습니다."
+
+msgid "$CreateAcct_BNET_INTERNAL"
+msgstr "Bethesda.net 서버에 연결할 수 없습니다."
+
+msgid "$CreateAcct_BNET_SERVER_ERROR"
+msgstr "Bethesda.net 서버에 연결할 수 없습니다."
+
 msgid "$CreateAcct_BNET_TIMEOUT"
 msgstr "연결 시간이 초과되었습니다."
+
+msgid "$CreateAcct_BNET_UNACCEPTED_LEGAL_DOCUMENT"
+msgstr "EULA가 허용되지 않습니다.  브라우저에서 Bethesda.net에 로그인합니다."
+
+msgid "$CreateAcct_BNET_UNKNOWN_ERROR"
+msgstr "작업을 완료할 수 없습니다."
+
+msgid "$CreateAcct_BNET_WINHTTP_INVALID_SERVER_RESPONSE"
+msgstr "Bethesda.net 서버에 연결할 수 없습니다."
+
+msgid "$CreateAcct_BNET_XBOX_ONE_USER_ERROR"
+msgstr "Bethesda.net 서버에 연결할 수 없습니다."
+
+msgid "$CreateAcct_Needs1stPartyUpdate"
+msgstr "계속하려면 업데이트가 필요합니다."
 
 msgid "$CreateOutputLink"
 msgstr "출력물 연결 만들기"
@@ -1179,8 +1276,209 @@ msgstr "동력 연결 만들기"
 msgid "$Creating quick account..."
 msgstr "빠른 계정 생성 중..."
 
+msgid "$CREATIONS"
+msgstr "CREATIONS"
+
+msgid "$Creations Enabled"
+msgstr "Creation 활성화"
+
+msgid "$CreationsAllDownloaded"
+msgstr "모든 Creation 다운로드 완료"
+
+msgid "$CreationsDisableMissingCreationCheck"
+msgstr "로드 시 존재하지 않는 Creation 비활성화하기"
+
+msgid "$CreationsEnableMissingCreationCheck"
+msgstr "로드 시 존재하지 않는 Creation 활성화하기"
+
+msgid "$CreationsEnableFailDependency"
+msgstr "이 Creation은 존재하지 않는 파일에 의존하기 때문에 활성화할 수 없습니다."
+
+msgid "$CreationsGameUpdateRequired"
+msgstr "게임 업데이트가 필요하며, Bethesda.net의 온라인 서비스를 이용하려면 최신 버전으로 업데이트해야 합니다."
+
+msgid "$CreationsLoadOrderAbort"
+msgstr "이 로드 순서는 외부 파일에 의존합니다. 업로드가 중단되었습니다."
+
+msgid "$CreationsLoadOrderArchive"
+msgstr "로드 순서 아카이브"
+
+msgid "$CreationsLoadOrderEmpty"
+msgstr "로드 순서가 비어 있습니다"
+
+msgid "$CreationsLoadOrderFail"
+msgstr "Bethesda.net에 현재 로드 순서를 저장할 수 없습니다."
+
+msgid "$CreationsLoadOrderMustDownload"
+msgstr "이 로드 순서에는 설치되지 않은 Creation이 필요합니다. 먼저 다운로드하십시오."
+
+msgid "$CreationsLoadOrderNotInLibrary"
+msgstr "이 Creation은 라이브러리에 없기 때문에 활성화할 수 없습니다:"
+
+msgid "$CreationsLoadOrderNoSave"
+msgstr "저장된 로드 순서가 없습니다."
+
+msgid "$CreationsLoadOrderOverwrite"
+msgstr "현재 로드 순서가 덮어씌워집니다. 괜찮으십니까?"
+
+msgid "$CreationsLoadOrderRestore"
+msgstr "Bethesda.net에서 로드 순서 불러오기"
+
+msgid "$CreationsLoadOrderSave"
+msgstr "Bethesda.net에 로드 순서 저장하기"
+
+msgid "$CreationsLoadOrderSuccess"
+msgstr "로드 순서가 Bethesda.net에 저장되었습니다."
+
+msgid "$CreationsNoDescriptionLO"
+msgstr "설명이 없습니다"
+
+msgid "$CreationsNotEnoughSpaceToDownloadMod"
+msgstr "이 Creation을 다운로드할 수 없습니다. 여유 공간이 부족합니다."
+
+msgid "$CreationsOptionDeleteAll"
+msgstr "Creation 전부 삭제"
+
+msgid "$CreationsOptionDisableAll"
+msgstr "Creation 전부 비활성화"
+
+msgid "$CreationsOptionDownloadAll"
+msgstr "라이브러리 내 모든 Creation 다운로드"
+
+msgid "$CreationsOptionDownloadAllCC"
+msgstr "소유하고 있는 Creation Club의 모든 Creation을 다운로드"
+
+msgid "$CreationsOptionEnableAll"
+msgstr "Creation 전부 활성화"
+
+msgid "$CreationsOptionUpdateAll"
+msgstr "이미 설치된 모든 Creation 업데이트"
+
+msgid "$CreationsOptionUpdateAllNotAvailableMessage"
+msgstr "현재 사용 가능한 업데이트가 없습니다"
+
+msgid "$CreationsRequestFailData"
+msgstr "이 데이터에 문제가 발생했습니다. 작업이 취소되었습니다."
+
+msgid "$CreationsRequestFailIoBadData"
+msgstr "파일에 잘못된 데이터가 있습니다. 작업이 중단되었습니다."
+
+msgid "$CreationsRequestFailIoNoSpace"
+msgstr "여유 공간이 부족합니다. 작업을 완료할 수 없습니다."
+
+msgid "$CreationsRequestFailLogic"
+msgstr "예외가 발생했습니다. 작업이 취소되었습니다."
+
+msgid "$CreationsRequestFailMemory"
+msgstr "여유 공간이 부족합니다. 작업을 완료할 수 없습니다."
+
+msgid "$CreationsRequestFailModCannotBeDownloaded"
+msgstr "이 Creation을 다운로드할 수 없습니다. 다운로드가 취소되었습니다."
+
+msgid "$CreationsRequestFailNetwork"
+msgstr "네트워크에 문제가 발생하여 작업을 완료할 수 없습니다."
+
+msgid "$CreationsRequestFailNetworkException"
+msgstr "네트워크에 문제가 발생하여 작업을 완료할 수 없습니다. 나중에 다시 시도해 주세요."
+
+msgid "$CreationsRequestFailNotEnoughCredits"
+msgstr "크레딧이 부족하여 이 구매를 완료할 수 없습니다. 거래가 취소되었습니다."
+
+msgid "$CreationsRequestFailPermissions"
+msgstr "다운로드 폴더에 대한 쓰기 권한이 없습니다. 작업이 취소되었습니다."
+
+msgid "$CreationsRequestFailPurchaseError"
+msgstr "알수 없는 이유로 구매를 완료할 수 없어 거래가 취소되었습니다. 나중에 다시 시도해 주세요."
+
+msgid "$CreationsRequestFailSkipped"
+msgstr "파일에 잘못된 데이터가 있습니다. 다운로드가 건너뛰었습니다."
+
+msgid "$CreationsRequestFailUnknown"
+msgstr "원인을 알 수 없는 문제가 발생했습니다"
+
+msgid "$CreationsSaleText"
+msgstr "할인가격!"
+
+msgid "$CreationsSurePromptBuy"
+msgstr "구매하시겠습니까?"
+
+msgid "$CreationsSurePromptDelete"
+msgstr "삭제하시겠습니까?"
+
+msgid "$CreationsSurePromptDeleteAll"
+msgstr "Creation을 모두 삭제합니다. 계속하시겠습니까?"
+
+msgid "$CreationsSurePromptDisable"
+msgstr "비활성화할까요?"
+
+msgid "$CreationsSurePromptDisableAll"
+msgstr "Creation을 모두 비활성화합니다. 계속하시겠습니까?"
+
+msgid "$CreationsSurePromptDownload"
+msgstr "다운로드하시겠습니까?"
+
+msgid "$CreationsSurePromptDownloadAll"
+msgstr "Creation을 모두 다운로드합니다. 계속하시겠습니까?"
+
+msgid "$CreationsSurePromptDownloadAllCC"
+msgstr "Creation Club의 모든 콘텐츠를 다운로드합니다. 계속하시겠습니까?"
+
+msgid "$CreationsSurePromptEnable"
+msgstr "활성화하시겠습니까?"
+
+msgid "$CreationsSurePromptEnableAll"
+msgstr "Creation을 모두 활성화합니다. 계속하시겠습니까?"
+
+msgid "$CreationsSurePromptUpdate"
+msgstr "업데이트 하시겠습니까?"
+
+msgid "$CreationsSurePromptUpdateAll"
+msgstr "이미 설치된 모든 콘텐츠를 업데이트합니다. 계속하시겠습니까?"
+
+msgid "$CreationsTurnMusicOn"
+msgstr "배경음악 켜기"
+
+msgid "$CreationsTurnMusicOff"
+msgstr "배경음악 끄기"
+
+msgid "$CreationsUnableToConnectChangeLoadOrder"
+msgstr "Bethesda.net 서버에 연결할 수 없습니다. 로드 순서를 편집하시겠습니까?"
+
+msgid "$Creations_CC_Content_LoadOrder_Desc"
+msgstr "Creation Club 콘텐츠는 항상 다른 Creation보다 먼저 로드되며, 비활성화할 수 없습니다."
+
+msgid "$Creations_CC_Content_LoadOrder_Description_PC_XB"
+msgstr "Creation Club은 Bethesda Games Studios와 최고의 커뮤니티 크리에이터들을 포함한 외부 개발 파트너들이 만든 새로운 아이템, 어빌리티, 게임플레이를 즐길 수 있는 공간입니다. Creation Club 컨텐츠는 완전히 감독된 콘텐츠이며, 정식 게임 본편, 공식 추가 콘텐츠 및 그 업적과 호환됩니다."
+
+msgid "$Creations_CC_Content_LoadOrder_Description_PS"
+msgstr "Creation Club은 Bethesda Games Studios와 최고의 커뮤니티 크리에이터들을 포함한 외부 개발 파트너들이 만든 새로운 아이템, 능력, 게임플레이를 즐길 수 있는 공간입니다. Creation Club 컨텐츠는 완전히 감독된 콘텐츠이며, 정식 게임 본편, 공식 추가 콘텐츠 및 트로피와 호환됩니다."
+
+msgid "$Creations_Credits_500"
+msgstr "Starfield Creation Credits - 500"
+
+msgid "$Creations_Credits_1000"
+msgstr "Starfield Creation Credits - 1000"
+
+msgid "$Creations_Credits_2700"
+msgstr "Starfield Creation Credits - 2700"
+
+msgid "$Creations_Credits_5500"
+msgstr "Starfield Creation Credits - 5500"
+
+msgid "$CreditRedemptionCTA"
+msgstr "Creation 등장! \n\nCreation으로 Starfield를 더욱 재미있게 즐겨보세요! Bethesda Game Studios와 재능 있는 커뮤니티 크리에이터들이 제공하는 새로운 콘텐츠를 발견하고 게임 경험을 더욱 풍성하게 만들어 보세요. \n\nStarfield Premium Edition을 구매해 주셔서 감사합니다! 감사의 표시로 1,000 크리에이션 크레딧을 드립니다! \n\n크레딧을 받으시고, 지금 바로 게임 내 새로운 창조 메뉴에서 새로운 콘텐츠를 확인해 보세요."
+
+msgid "$CreditRedemptionRedeem"
+msgstr "크레딧 사용\n\n \n\n 'Starfield Premium Edition'을 선택해 주신 것에 대한 감사의 표시로 1,000 Creation Credit이 귀하의 계정에 특별 지급됩니다. 이 크레딧을 Creation 메뉴에서 사용하여 새로운 콘텐츠로 Starfield를 더욱 풍성하게 즐길 수 있습니다! \n\n[예]를 선택하면 크레딧을 받을 수 있습니다. \n\n 참고: 크레딧은 현재 사용 중인 플랫폼에 지급됩니다."
+
+msgid "$CreditRedemptionJPRedeem"
+msgstr "크레딧 사용\n\n \n\n 'Starfield Premium Edition'을 선택해 주신 것에 대한 감사의 표시로 1,000 Creation Credit이 귀하의 계정에 특별 지급됩니다. 이 크레딧을 Creation 메뉴에서 사용하여 새로운 콘텐츠로 Starfield를 더욱 풍성하게 즐길 수 있습니다! \n\n[예]를 선택하면 크레딧을 받을 수 있습니다. \n\n일본에 거주하는 경우, 본 약관이 적용됩니다. 귀하의 계정에 1,000 Creation Credit이 부여되며, Creation Credit은 발행일로부터 6개월 동안 유효합니다."
+
 msgid "$CREDITS"
 msgstr "보유 크레딧"
+
+msgid "$Credits"
+msgstr "크레딧"
 
 msgid "$CREW"
 msgstr "승무원"
@@ -1292,6 +1590,12 @@ msgstr "이미지 로그"
 
 msgid "$DataSlate_TextLog"
 msgstr "텍스트 로그"
+
+msgid "$Date (Ascending)"
+msgstr "날짜(오름차순)"
+
+msgid "$Date (Descending)"
+msgstr "날짜(내림차순)"
 
 msgid "$DAY"
 msgstr "일"
@@ -1519,18 +1823,37 @@ msgid "$DocsHeader"
 msgstr "업데이트 동의"
 
 msgid "$DocsInstructions"
-msgstr ""
-"'동의'를 클릭함으로써 본인은 제니맥스 미디어 개인정보 보호정책을 읽고 확인했으며, 제니맥스 미디어 이용 약관 및 행위 준칙에 동의함을 "
-"확인합니다"
+msgstr "'동의'를 클릭함으로써 본인은 제니맥스 미디어 개인정보 보호정책을 읽고 확인했으며, 제니맥스 미디어 이용 약관 및 행위 준칙에 동의함을 확인합니다"
 
 msgid "$DONE"
+msgstr "완료"
+
+msgid "$Done"
 msgstr "완료"
 
 msgid "$Download"
 msgstr "다운로드"
 
+msgid "$DOWNLOAD"
+msgstr "다운로드"
+
+msgid "$Download All"
+msgstr "전부 다운로드l"
+
+msgid "$Download and Activate All"
+msgstr "모두 다운로드하여 사용"
+
+msgid "$DOWNLOADABLE CONTENT"
+msgstr "추가 콘텐츠"
+
+msgid "$DOWNLOADING"
+msgstr "다운로드 중"
+
 msgid "$Downloading..."
 msgstr "다운로드 중..."
+
+msgid "$Downloading"
+msgstr "다운로드 중"
 
 msgid "$DownloadSize:"
 msgstr "다운로드 크기:"
@@ -1934,6 +2257,9 @@ msgstr "여성"
 msgid "$FEMININE"
 msgstr "여성성"
 
+msgid "$Featured"
+msgstr "주목"
+
 msgid "$Field of View"
 msgstr "화각"
 
@@ -2052,8 +2378,7 @@ msgid "$Flight Control Roll Dominant"
 msgstr "옆구르기 회전 조종간 설정"
 
 msgid "$Flight Control Roll Dominant_Desc"
-msgstr ""
-"비행 시 옆구르기 회전을 주 조종간이 제어할지 부 조종간이 제어할지 설정합니다. 다른 조종간은 좌우향 회전을 제어하게 됩니다."
+msgstr "비행 시 옆구르기 회전을 주 조종간이 제어할지 부 조종간이 제어할지 설정합니다. 다른 조종간은 좌우향 회전을 제어하게 됩니다."
 
 msgid "$Flight Control Stick Swap"
 msgstr "비행 조종간 바꾸기"
@@ -2169,6 +2494,12 @@ msgstr "주름(오른쪽)"
 msgid "$GALAXY MAP"
 msgstr "은하계 지도"
 
+msgid "$Gallery"
+msgstr "갤러리"
+
+msgid "$GALLERY"
+msgstr "갤러리"
+
 msgid "$GAMEPLAY"
 msgstr "게임플레이"
 
@@ -2180,6 +2511,9 @@ msgstr "감마"
 
 msgid "$Gamma Desc"
 msgstr "밝기를 설정합니다."
+
+msgid "$GB"
+msgstr "GB"
 
 msgid "$GENDER"
 msgstr "성별"
@@ -2310,6 +2644,18 @@ msgstr "요약 숨기기"
 msgid "$HighestRated"
 msgstr "최고 평점"
 
+msgid "$HighestRatedAllTime"
+msgstr "높은 평점 - 전체 기간"
+
+msgid "$HighestRatedThisMonth"
+msgstr "높은 평점 - 이번 달"
+
+msgid "$HighestRatedThisWeek"
+msgstr "높은 평점 - 이번 주"
+
+msgid "$HighestRatedToday"
+msgstr "높은 평점 - 오늘"
+
 msgid "$Hold Breath"
 msgstr "숨 참기"
 
@@ -2407,9 +2753,7 @@ msgid "$HUDCompleted"
 msgstr "완료"
 
 msgid "$HUDDrink"
-msgstr ""
-"물\\n"
-"마시기"
+msgstr "물\n마시기"
 
 msgid "$HUDFailed"
 msgstr "실패"
@@ -2516,8 +2860,14 @@ msgstr "설치"
 msgid "$INSTALLED"
 msgstr "설치됨"
 
+msgid "$Installed"
+msgstr "설치 완료"
+
 msgid "$INSTALLED COMPONENT"
 msgstr "설치된 요소"
+
+msgid "$INSTALLED CONTENT"
+msgstr "설치 완료"
 
 msgid "$Installing"
 msgstr "설치:"
@@ -2763,9 +3113,7 @@ msgid "$Item HoldAndDrag"
 msgstr "버튼을 누른채 드래그하는 아이템 회전 방식"
 
 msgid "$Item HoldAndDrag Desc"
-msgstr ""
-"메뉴에서 아이템 모델을 회전하는 방식을 설정합니다. 켜면 마우스 버튼을 누른 상태에서 드래그해야 회전되며, 끄면 마우스 버튼을 한번 클릭 "
-"후 마우스 커서를 움직이면 회전됩니다."
+msgstr "메뉴에서 아이템 모델을 회전하는 방식을 설정합니다. 켜면 마우스 버튼을 누른 상태에서 드래그해야 회전되며, 끄면 마우스 버튼을 한번 클릭 후 마우스 커서를 움직이면 회전됩니다."
 
 msgid "$Item Type"
 msgstr "아이템 유형"
@@ -2845,6 +3193,9 @@ msgstr "도약 횟수"
 msgid "$JUNK JET"
 msgstr "정크 제트"
 
+msgid "$KB"
+msgstr "KB"
+
 msgid "$KeyboardMouse"
 msgstr "키보드 및 마우스"
 
@@ -2906,14 +3257,10 @@ msgid "$LandingBountyPlanet"
 msgstr "목적지의 세력이 당신에게 현상금을 걸었습니다. 그래도 목적지를 해당 궤도로 설정하시겠습니까?"
 
 msgid "$LandingContrabandMoon"
-msgstr ""
-"현재 밀수품이 있습니다. 개척 성계에서는 우주선이 행성에 착륙하기 전에 의무적으로 화물을 스캔합니다. 그래도 해당 위성 궤도를 목적지로 "
-"설정하시겠습니까?"
+msgstr "현재 밀수품이 있습니다. 개척 성계에서는 우주선이 행성에 착륙하기 전에 의무적으로 화물을 스캔합니다. 그래도 해당 위성 궤도를 목적지로 설정하시겠습니까?"
 
 msgid "$LandingContrabandPlanet"
-msgstr ""
-"현재 밀수품이 있습니다. 개척 성계에서는 우주선이 행성이나 위성에 착륙하기 전에 의무적으로 화물을 스캔합니다. 그래도 목적지를 해당 "
-"궤도로 설정하시겠습니까?"
+msgstr "현재 밀수품이 있습니다. 개척 성계에서는 우주선이 행성이나 위성에 착륙하기 전에 의무적으로 화물을 스캔합니다. 그래도 목적지를 해당 궤도로 설정하시겠습니까?"
 
 msgid "$LandingFailed"
 msgstr "이곳에 착륙할 수 없습니다."
@@ -2943,15 +3290,7 @@ msgid "$LeaveMinigame"
 msgstr "게임을 나가시겠습니까?"
 
 msgid "$LegalScreen"
-msgstr ""
-"Starfield™ © 2023 ZeniMax Media Inc. Starfield, Bethesda, Bethesda "
-"Softworks, Bethesda Game Studios, ZeniMax 및 관련 로고는 미국 또는 기타 국가에서 제니맥스 미디어의 "
-"상표 또는 등록상표입니다. All Rights Reserved. Havok 소프트웨어는 ©2016 Microsoft. All rights"
-" reserved.\\n\\n달 지도 이미지 출처: NASA Scientific Visualization Studio. 목성 지도 이미지"
-" 출처: NASA Goddard Space Flight Center, Space Telescope Science Institute. 화성"
-" 데이터는 미국 지질조사국에서 수집한 자료를 바탕으로 제작됨.\\n\\n광과민성 경고: 간질이나 발작 병력이 없더라도 일부 소수의 "
-"사람들은 특정 빛, 패턴, 이미지에 노출되면 발작을 경험할 수 있습니다. 이용 약관에서 안전 정보를 검토하시기 바랍니다. "
-"https://bethesda.net/en/document/terms-of-service"
+msgstr "Starfield™ © 2023 ZeniMax Media Inc. Starfield, Bethesda, Bethesda Softworks, Bethesda Game Studios, ZeniMax 및 관련 로고는 미국 또는 기타 국가에서 제니맥스 미디어의 상표 또는 등록상표입니다. All Rights Reserved. Havok 소프트웨어는 ©2016 Microsoft. All rights reserved.\n\n달 지도 이미지 출처: NASA Scientific Visualization Studio. 목성 지도 이미지 출처: NASA Goddard Space Flight Center, Space Telescope Science Institute. 화성 데이터는 미국 지질조사국에서 수집한 자료를 바탕으로 제작됨.\n\n광과민성 경고: 간질이나 발작 병력이 없더라도 일부 소수의 사람들은 특정 빛, 패턴, 이미지에 노출되면 발작을 경험할 수 있습니다. 이용 약관에서 안전 정보를 검토하시기 바랍니다. https://bethesda.net/en/document/terms-of-service"
 
 msgid "$LEGENDARY EFFECT"
 msgstr "전설 효과"
@@ -3001,6 +3340,12 @@ msgstr "생명"
 msgid "$Light Fade"
 msgstr "광원 가시거리"
 
+msgid "$Like"
+msgstr "즐겨 찾기"
+
+msgid "$Likes"
+msgstr "좋아요:"
+
 msgid "$LINER"
 msgstr "라이너"
 
@@ -3040,6 +3385,15 @@ msgstr "목록$"
 msgid "$LOAD"
 msgstr "불러오기"
 
+msgid "$Load Order"
+msgstr "로드 순서"
+
+msgid "$LoadOrderEnabledIndicator"
+msgstr "%d of %d Creation 활성화"
+
+msgid "$LoadOrderEmpty_Message"
+msgstr "로드 순서가 비어 있습니다"
+
 msgid "$Load this game? All unsaved progress will be lost."
 msgstr "이 세이브를 불러오시겠습니까? 저장하지 않은 게임 데이터는 사라집니다."
 
@@ -3053,16 +3407,10 @@ msgid "$Loading mods..."
 msgstr "모드 불러오기 중..."
 
 msgid "$LoadingModsIntro"
-msgstr ""
-"크리에이션 모드를 다운로드하고 플레이하면 베데스다 이용 약관에 동의하는 것으로 간주됩니다. 배열 순서 설정에서 크리에이션 모드를 "
-"비활성화할 수 있고, 불러오기 메뉴에서 캐릭터 선택 버튼을 눌러 언제든 원래 세이브 파일로 돌아갈 수 있습니다. 참고: 별도로 명시되지 "
-"않는 한 도전 과제는 비활성화됩니다."
+msgstr "모드 설치 후 플레이하면서 발생하는 문제는 본인이 책임져야 합니다. 모드 사용 시 문제가 발생할 수 있습니다. 불러오기 순서에서 모드를 비활성화하고 불러오기 메뉴에서 캐릭터를 선택하여 언제든 원래 저장으로 돌아갈 수 있습니다. 모드 다운로드 및 모드 플레이는 이용 약관의 적용을 받습니다. 참고: 도전 과제는 비활성화됩니다."
 
 msgid "$LoadingModsIntro_PS4"
-msgstr ""
-"크리에이션 모드를 다운로드하고 플레이하면 베데스다 이용 약관에 동의하는 것으로 간주됩니다. 배열 순서 설정에서 크리에이션 모드를 "
-"비활성화할 수 있고, 불러오기 메뉴에서 캐릭터 선택 버튼을 눌러 언제든 원래 세이브 파일로 돌아갈 수 있습니다. 참고: 별도로 명시되지 "
-"않는 한 트로피는 비활성화됩니다."
+msgstr "모드 설치 후 플레이하면서 발생하는 문제는 본인이 책임져야 합니다. 모드 사용 시 문제가 발생할 수 있습니다. 불러오기 순서에서 모드를 비활성화하고 불러오기 메뉴에서 캐릭터를 선택하여 언제든 원래 저장으로 돌아갈 수 있습니다. 모드 다운로드 및 모드 플레이는 이용 약관의 적용을 받습니다. 참고: 트로피는 비활성화됩니다."
 
 msgid "$LoadVanillaSaveWithMods"
 msgstr "현재 모드가 적용 중입니다. 주의: 도전 과제는 비활성화됩니다. 그래도 이 세이브를 불러오시겠습니까?"
@@ -3139,6 +3487,9 @@ msgstr "로그인 실패."
 msgid "$LoginError_AgeRestrict"
 msgstr "자녀 보호 기능으로 인해 온라인 미디어 공유 기능이 제한되었습니다."
 
+msgid "$LoginError_AccountExternalLinkConflict"
+msgstr "이 Bethesda.net 계정은 이미 연결되어 있습니다. 다른 Bethesda.net 계정으로 로그인하기"
+
 msgid "$LoginError_BNET_CANNOT_CONNECT"
 msgstr "Bethesda.net 서버에 접속할 수 없습니다."
 
@@ -3187,23 +3538,14 @@ msgstr "계속하려면 Xbox 계정에 로그인해야 합니다."
 msgid "$LoginError_NotSignedIn1stPartyOrbis"
 msgstr "계속하려면 소니 엔터테인먼트 네트워크 계정에 로그인해야 합니다."
 
-#, fuzzy
 msgid "$LoginPage_Footer"
-msgstr ""
-"크리에이션 모드 사용시 발생하는 위험은 이용자가 감수해야 합니다. 모드 사용시 문제가 발생할 수 있습니다. 모드를 다운로드하고 플레이하면 "
-"베데스다 이용 약관에 동의하는 것으로 간주됩니다. 배열 순서 설정에서 크리에이션 모드를 비활성화할 수 있고, 불러오기 메뉴에서 캐릭터 "
-"선택 버튼을 눌러 언제든 원래 세"
+msgstr "모드 설치 후 플레이하면서 발생하는 문제는 본인이 책임져야 합니다. 모드 사용 시 문제가 발생할 수 있습니다. 불러오기 순서에서 모드를 비활성화하고 불러오기 메뉴에서 캐릭터를 선택하여 언제든 원래 저장으로 돌아갈 수 있습니다. 모드 다운로드 및 모드 플레이는 이용 약관의 적용을 받습니다. 참고: 도전 과제는 비활성화됩니다."
 
-#, fuzzy
 msgid "$LoginPage_Footer_PS4"
-msgstr ""
-"크리에이션 모드 사용시 발생하는 위험은 이용자가 감수해야 합니다. 모드 사용시 문제가 발생할 수 있습니다. 모드를 다운로드하고 플레이하면 "
-"베데스다 이용 약관에 동의하는 것으로 간주됩니다. 배열 순서 설정에서 크리에이션 모드를 비활성화할 수 있고, 불러오기 메뉴에서 캐릭터 "
-"선택 버튼을 눌러 언제든 원래 세이브 파일로 돌아갈 수 있습니다. 참고: 트로피는 비활성화됩니다."
+msgstr "모드 설치 후 플레이하면서 발생하는 문제는 본인이 책임져야 합니다. 모드 사용 시 문제가 발생할 수 있습니다. 불러오기 순서에서 모드를 비활성화하고 불러오기 메뉴에서 캐릭터를 선택하여 언제든 원래 저장으로 돌아갈 수 있습니다. 모드 다운로드 및 모드 플레이는 이용 약관의 적용을 받습니다. 참고: 트로피는 비활성화됩니다."
 
 msgid "$LoginPage_Header"
-msgstr ""
-"Bethesda.net 커뮤니티에서 모드를 살펴보세요. 로그인하면 Bethesda.net 계정이 연동되어 자동으로 로그인 됩니다."
+msgstr "Bethesda.net 커뮤니티에서 모드를 살펴보세요. 로그인하면 Bethesda.net 계정이 연동되어 자동으로 로그인 됩니다."
 
 msgid "$Login_CreateNew"
 msgstr "새 계정 만들기"
@@ -3475,6 +3817,15 @@ msgstr "우주정거장"
 msgid "$MapMarkerGenericTypeStructure"
 msgstr "구조물"
 
+msgid "$Marketplace Title"
+msgstr "Creations"
+
+msgid "$MarketplaceDataResetBlock"
+msgstr "저장 데이터를 아직 불러오는 중입니다. 종료 시까지 설치된 콘텐츠를 변경할 수 없습니다."
+
+msgid "$MarketplaceDataResetFree"
+msgstr "로딩이 완료되었습니다. 설치된 콘텐츠를 수정할 수 있습니다."
+
 msgid "$MARKINGS"
 msgstr "표시"
 
@@ -3525,6 +3876,9 @@ msgstr "중력 도약 가능 거리 초과"
 
 msgid "$MAXIMUM_RANK"
 msgstr "최대 랭크"
+
+msgid "$MB"
+msgstr "MB"
 
 msgid "$Medical"
 msgstr "의료 용품"
@@ -3727,8 +4081,23 @@ msgstr "위성"
 msgid "$More..."
 msgstr "더 보기..."
 
+msgid "$MoreFromAuthor"
+msgstr "같은 저자 더보기"
+
 msgid "$MostFavorited"
 msgstr "최고 선호"
+
+msgid "$MostFavoritedAllTime"
+msgstr "최고 즐겨 찾기 - 전체 기간"
+
+msgid "$MostFavoritedThisMonth"
+msgstr "최고 즐겨 찾기 - 이번 달"
+
+msgid "$MostLikedThisWeek"
+msgstr "최고 즐겨 찾기 - 이번 주"
+
+msgid "$MostFavoritedToday"
+msgstr "최고 즐겨 찾기 - 오늘"
 
 msgid "$MostPopularAllTime"
 msgstr "최고 인기 - 모든 시간"
@@ -3790,17 +4159,20 @@ msgstr "음악"
 msgid "$Music Audio Desc"
 msgstr "배경 음악 음량을 조절합니다."
 
+msgid "$My Authored Creations"
+msgstr "자작 CREATIONS"
+
 msgid "$My Creations"
 msgstr "내 창작물"
 
 msgid "$My Favorites"
 msgstr "내 즐겨찾기"
 
-msgid "$My Home Ship"
-msgstr "거점 함선"
-
 msgid "$My Library"
 msgstr "내 라이브러리"
+
+msgid "$My Home Ship"
+msgstr "거점 함선"
 
 msgid "$My Perks"
 msgstr "내 특성"
@@ -3877,6 +4249,9 @@ msgstr "다음 변형"
 msgid "$NEXT_KEY"
 msgstr "다음 키"
 
+msgid "$NO GALLERY"
+msgstr "갤러리 없음"
+
 msgid "$No"
 msgstr "아니오"
 
@@ -3888,6 +4263,9 @@ msgstr "컨텐츠 찾지 못함."
 
 msgid "$NO CONTRABAND"
 msgstr "함선에 밀수품 없음"
+
+msgid "$NO CREATIONS INSTALLED"
+msgstr "설치된 Creation이 없습니다."
 
 msgid "$No docking"
 msgstr "도킹 안됨"
@@ -3940,6 +4318,9 @@ msgstr "이용할 수 없는 함선 없음"
 msgid "$Nostrils"
 msgstr "작은 코"
 
+msgid "$Not enough credits"
+msgstr "이 아이템은 Creation Credit이 부족합니다."
+
 msgid "$NOT INSTALLED"
 msgstr "미설치"
 
@@ -3979,6 +4360,9 @@ msgstr "열기"
 msgid "$Open"
 msgstr "열기"
 
+msgid "$Open Keyboard"
+msgstr "키보드 열기"
+
 msgid "$OPEN_BUILDER"
 msgstr "함선 제작기"
 
@@ -3995,6 +4379,9 @@ msgid "$OPTION2"
 msgstr "2"
 
 msgid "$OPTIONS"
+msgstr "설정"
+
+msgid "$Options"
 msgstr "설정"
 
 msgid "$OR"
@@ -4112,6 +4499,9 @@ msgid "$Overwrite?"
 msgstr "덮어쓰시겠습니까?"
 
 msgid "$OWNED"
+msgstr "소유함"
+
+msgid "$Owned"
 msgstr "소유함"
 
 msgid "$OWNED [NEEDS GAME RESET]"
@@ -4465,6 +4855,21 @@ msgstr "프로젝트명"
 msgid "$PRONOUN"
 msgstr "지칭법"
 
+msgid "$Purchase"
+msgstr "구매"
+
+msgid "$Purchase Creation"
+msgstr "Creation 구매하기"
+
+msgid "$Purchase Credits"
+msgstr "크레딧 구매"
+
+msgid "$PURCHASE CREDITS"
+msgstr "크레딧 구매"
+
+msgid "$Purchased"
+msgstr "구매 완료"
+
 msgid "$PURCHASE SHIP"
 msgstr "함선 구매"
 
@@ -4518,6 +4923,9 @@ msgstr "빠른 지도"
 
 msgid "$Quick Stats"
 msgstr "빠른 능력치"
+
+msgid "$QuickAccountPage_Header"
+msgstr ""계정 만들기"를 선택하면 ZeniMax Media 개인정보 보호정책, 서비스 약관 및 행동강령을 읽고 동의한 것으로 간주됩니다. 계정을 생성하면 자동 로그인을 위해 Bethesda.net 계정과 연결됩니다. Bethesda.net 계정에 계정을 연결하면 Bethesda.net 계정을 지원하는 모든 ZeniMax 타이틀에 적용된다는 점에 유의하시기 바랍니다."
 
 msgid "$QuickContainer"
 msgstr "빠른 보관함"
@@ -4726,6 +5134,9 @@ msgstr "등록 양식"
 msgid "$REJECT"
 msgstr "포기"
 
+msgid "$Reloading"
+msgstr "리로드 중"
+
 msgid "$ReloadWeapon"
 msgstr "무기 재장전"
 
@@ -4765,6 +5176,9 @@ msgstr "버튼을 눌러 해당 기능에 단축키를 지정하세요."
 msgid "$REMOVE"
 msgstr "제거"
 
+msgid "$Remove Bookmark"
+msgstr "즐겨찾기 제거"
+
 msgid "$REMOVE LINK"
 msgstr "연결망 제거"
 
@@ -4803,6 +5217,9 @@ msgstr "이름 변경"
 
 msgid "$RENAME SHIP"
 msgstr "함선 이름 변경"
+
+msgid "$Reorder"
+msgstr "순서 변경"
 
 msgid "$Repair"
 msgstr "수리"
@@ -5110,6 +5527,9 @@ msgstr "채도"
 msgid "$SAVE"
 msgstr "저장"
 
+msgid "$Save"
+msgstr "저장"
+
 msgid "$SAVE AND EXIT"
 msgstr "저장하고 나가기"
 
@@ -5149,8 +5569,26 @@ msgstr "대기 시 자동저장을 활성화합니다."
 msgid "$Save over this game?"
 msgstr "세이브 파일에 덮어쓰시겠습니까?"
 
+msgid "$SaveGameContentIsMissing"
+msgstr "이 저장 데이터는 삭제된 콘텐츠를 사용하고 있습니다. 일부 오브젝트가 사라질 수 있습니다. 계속 로드하시겠습니까?"
+
+msgid "$SaveGameContentNotPresentContinue"
+msgstr "다음 콘텐츠가 존재하지 않습니다."
+
+msgid "$SaveGameCreationContentMissing"
+msgstr "이 저장 데이터는 존재하지 않는 Creation Club 콘텐츠에 의존하고 있습니다."
+
+msgid "$SaveGameCreationContentAndModsMissing"
+msgstr "이 저장 데이터는 존재하지 않는 Creation 및 Creation Club 콘텐츠에 의존합니다."
+
 msgid "$SaveGameDeviceError"
 msgstr "장치에 접속하는 동안 오류가 발생했습니다. 다시 시도해 주세요."
+
+msgid "$SaveGameDifferentLoadOrder"
+msgstr "이 저장 데이터는 현재 로드 순서와 다른 Creation의 로드 순서를 사용합니다."
+
+msgid "$SaveGameOrCurrentLoadOrder"
+msgstr "이 저장 데이터의 로드 순서를 사용하시겠습니까? 아니면 현재 로드 순서를 사용하시겠습니까?"
 
 msgid "$SaveGameError_MissingFile"
 msgstr "게임 세이브 파일이 누락되어 불러오기 할 수 없습니다."
@@ -5162,11 +5600,58 @@ msgid "$SaveGameFailed"
 msgstr "게임 세이브 파일을 만드는데 실패했습니다."
 
 msgid "$SaveGameFailedOutOfDiskSpace"
-msgstr ""
-"게임 세이브 파일을 만드는 데 실패했습니다. 세이브 파일을 저장할 여유 공간이 부족합니다. 기존에 저장한 콘텐츠 중 일부를 삭제하세요."
+msgstr "게임 세이브 파일을 만드는 데 실패했습니다. 세이브 파일을 저장할 여유 공간이 부족합니다. 기존에 저장한 콘텐츠 중 일부를 삭제하세요."
+
+msgid "$SaveGameInactiveContent"
+msgstr "이 저장 데이터는 이미 다운로드하여 현재 비활성화되어 있는 Creation Club 콘텐츠에 의존하고 있습니다."
+
+msgid "$SaveGameLoadOrderCurrent"
+msgstr "현재"
+
+msgid "$SaveGameMissingContent"
+msgstr "존재하지 않는 컨텐츠"
+
+msgid "$SaveGameMissingContentActivate"
+msgstr "활성화 하시겠습니까?"
+
+msgid "$SaveGameMissingContentDownload"
+msgstr "다운로드 하시겠습니까?"
+
+msgid "$SaveGameMissingCreationsCheck"
+msgstr "존재하지 않는 Creation 확인"
+
+msgid "$SaveGameMissingCreationsContentDownload"
+msgstr "이 저장 데이터는 존재하지 않는 Creation에 의존하고 있습니다."
+
+msgid "$SaveGameMissingLoadOrder"
+msgstr "이 저장 데이터는 현재 로드 순서와 다른 Creation의 로드 순서를 사용하고 있습니다. 이 저장 데이터의 로드 순서를 사용하시겠습니까? 아니면 현재 로드 순서를 사용하시겠습니까?"
+
+msgid "$SaveGameMissingUnavailableContent"
+msgstr "이 저장 데이터가 사용하는 Creation 중 찾을 수 없는 것이 있습니다. 삭제되었거나 작성자가 등록을 취소했을 가능성이 있습니다."
+
+msgid "$SaveGameMissingUnavailableSearch"
+msgstr "Creation 메뉴에서 존재하지 않는 콘텐츠를 검색할 수도 있습니다."
+
+msgid "$SaveGameMissingUnidentifiedContent"
+msgstr "이 저장 데이터는 존재하지 않는 콘텐츠에 의존하고 있습니다. 아래 항목이 존재하지 않습니다:"
+
+msgid "$SaveGameMissingUnidentifiedSearch"
+msgstr "Creation 메뉴에서 확인되지 않은 콘텐츠를 검색하시겠습니까?"
+
+msgid "$SaveGameMissingUnownedContent"
+msgstr "하단의 콘텐츠를 보유하고 있지 않습니다:"
+
+msgid "$SaveGameObjectsUnavailableContinue"
+msgstr "일부 개체가 사라질 수 있습니다. 로딩을 계속하시겠습니까?"
 
 msgid "$SaveGameOutOfDiskSpace"
 msgstr "주의! 세이브 파일을 저장할 여유 공간이 부족합니다. 기존에 저장한 콘텐츠 중 일부를 삭제하세요."
+
+msgid "$SaveGameShow"
+msgstr "표"
+
+msgid "$SaveGameUnownedContinue"
+msgstr "Creation 메뉴 콘텐츠에서 이 콘텐츠를 검색하시겠습니까?"
 
 msgid "$SaveUploaded"
 msgstr "세이브 업로드됨"
@@ -5486,6 +5971,12 @@ msgstr "조각"
 msgid "$Search"
 msgstr "검색"
 
+msgid "$Search results for:"
+msgstr "검색 결과 :"
+
+msgid "$Searching..."
+msgstr "검색 중..."
+
 msgid "$Season Pass"
 msgstr "시즌 패스"
 
@@ -5601,9 +6092,7 @@ msgid "$Settings_AllLayersUseAnisotropic"
 msgstr "모든 레이어에서 이방성 사용"
 
 msgid "$Settings_AllLayersUseAnisotropic Desc"
-msgstr ""
-"모든 머티리얼 레이어에서 항상 이방성 텍스처 필터링을 사용합니다. 끄면 퍼포먼스가 향상되고, 켜면 특정 머티리얼 레이어의 영상 퀄리티가 "
-"약간 향상됩니다."
+msgstr "모든 머티리얼 레이어에서 항상 이방성 텍스처 필터링을 사용합니다. 끄면 퍼포먼스가 향상되고, 켜면 특정 머티리얼 레이어의 영상 퀄리티가 약간 향상됩니다."
 
 msgid "$Settings_AnisotropicFiltering"
 msgstr "이방성 필터링"
@@ -5681,8 +6170,7 @@ msgid "$Settings_FirstPersonFOV"
 msgstr "1인칭 시야각"
 
 msgid "$Settings_FirstPersonFOV Desc"
-msgstr ""
-"보행 중 1인칭 카메라 시야각을 설정합니다. 시야각을 기본 설정 이상으로 조정하면 성능 저하나 시각적 문제가 발생할 수 있습니다."
+msgstr "1인칭 카메라 시야각을 설정합니다. 이를 기본 설정 이상으로 조정하면 성능이나 시각적 문제가 발생할 수 있습니다."
 
 msgid "$Settings_FullScreenMode"
 msgstr "테두리 없는 창 모드"
@@ -5712,10 +6200,7 @@ msgid "$Settings_VisualFidelity"
 msgstr "우선순위"
 
 msgid "$Settings_VisualFidelity Desc"
-msgstr ""
-"프레임 속도 목표치를 유지하기 위한 우선순위 설정\\n\\n 비주얼: 비주얼을 우선시하여 특수 효과, 조명, 군중 디테일을 최대로 "
-"유지하면서 최고 해상도를 유지합니다. 프레임 속도 목표치가 60 이상일 경우 권장하지 않음\\n\\n성능: 성능을 우선시하고 특수 효과,"
-" 조명, 군중의 내부 해상도 및 디테일 재현을 낮춥니다. 프레임 속도 목표치를 60 이상으로 설정할 때 사용합니다."
+msgstr "프레임 속도 목표치를 유지하기 위한 우선순위 설정\n\n 비주얼: 비주얼을 우선시하여 특수 효과, 조명, 군중 디테일을 최대로 유지하면서 최고 해상도를 유지합니다. 프레임 속도 목표치가 60 이상일 경우 권장하지 않음\n\n성능: 성능을 우선시하고 특수 효과, 조명, 군중의 내부 해상도 및 디테일 재현을 낮춥니다. 프레임 속도 목표치를 60 이상으로 설정할 때 사용합니다."
 
 msgid "$Settings_VisualFidelity_High"
 msgstr "비주얼"
@@ -5829,32 +6314,25 @@ msgid "$Settings_ShipThirdPersonFOV"
 msgstr "우주선 3인칭 시야각"
 
 msgid "$Settings_ShipThirdPersonFOV Desc"
-msgstr ""
-"우주선 조종 중 3인칭 카메라 시야각을 설정합니다. 시야각을 기본 설정 이상으로 조정하면 성능 저하나 시각적 문제가 발생할 수 있습니다."
+msgstr "우주선을 조종할 때 3인칭 카메라의 시야각을 설정합니다. 기본 설정 이상으로 조정하면 성능 및 가시성 문제가 발생할 수 있습니다."
 
 msgid "$Settings_ThirdPersonFOV"
 msgstr "3인칭 시야각"
 
 msgid "$Settings_ThirdPersonFOV Desc"
-msgstr ""
-"보행 중 3인칭 카메라 시야각을 설정합니다. 시야각을 기본 설정 이상으로 조정하면 성능 저하나 시각적 문제가 발생할 수 있습니다."
+msgstr "3인칭 카메라 시야각을 설정합니다. 이를 기본 설정 이상으로 조정하면 성능이나 시각적 문제가 발생할 수 있습니다."
 
 msgid "$Settings_Upscaling"
 msgstr "업스케일링"
 
 msgid "$Settings_UpscalingDesc"
-msgstr ""
-"해상도 업스케일링 방식을 AMD FidelityFX Super Resolution 2 (FSR2), AMD FidelityFX "
-"Contrast Adaptive Sharpening (CAS), AMD FidelityFX Super Resolution 3 (FSR "
-"3), Nvidia Deep Learning Super Sampling (DLSS), Intel Xe Super Sampling "
-"(XeSS), 비활성화 중에 선택합니다. 비활성화를 선택하면 게임은 항상 최대 해상도로 실행됩니다."
+msgstr "해상도 업스케일링 방식을 AMD FidelityFX Super Resolution 2 (FSR2), AMD FidelityFX Contrast Adaptive Sharpening (CAS), AMD FidelityFX Super Resolution 3 (FSR 3), Nvidia Deep Learning Super Sampling (DLSS), Intel Xe Super Sampling (XeSS), 비활성화 중에 선택합니다. 비활성화를 선택하면 게임은 항상 최대 해상도로 실행됩니다."
 
 msgid "$Settings_UpscalingPreset"
 msgstr "업스케일링 품질 사전 설정"
 
 msgid "$Settings_UpscalingPresetDesc"
-msgstr ""
-"'Nvidia Deep Learning Super Sampling (DLSS)'과 'Intel XeSS'의 품질을 설정합니다."
+msgstr "'Nvidia Deep Learning Super Sampling (DLSS)'과 'Intel XeSS'의 품질을 설정합니다."
 
 msgid "$Settings_UpscalingPreset_Auto"
 msgstr "자동"
@@ -5902,9 +6380,7 @@ msgid "$SETTLEMENTS"
 msgstr "정착지"
 
 msgid "$SetToSurvivalConfirmMessage"
-msgstr ""
-"생존 모드에서는 다음과 같은 도전 요소가 추가됩니다. 빠른 이동 금지, 잠잘 때만 저장 가능, 사망 위험률 증가, 질병 증가, 피로 "
-"증가. 자세한 내용은 도움말의 '생존' 항목을 참고하세요."
+msgstr "생존 모드에서는 다음과 같은 도전 요소가 추가됩니다. 빠른 이동 금지, 잠잘 때만 저장 가능, 사망 위험률 증가, 질병 증가, 피로 증가. 자세한 내용은 도움말의 '생존' 항목을 참고하세요."
 
 msgid "$SEX"
 msgstr "성별"
@@ -5973,8 +6449,7 @@ msgid "$ShipBuilderNoWarningsEncountered"
 msgstr "경고 없음"
 
 msgid "$ShipBuilderUnresolvedErrors"
-msgstr ""
-"비행 점검 오류로 인해 함선 작업을 완료할 수 없습니다. 종료하면 모든 변경 사항이 취소됩니다. 함선 제작기를 종료하시겠습니까?"
+msgstr "비행 점검 오류로 인해 함선 작업을 완료할 수 없습니다. 종료하면 모든 변경 사항이 취소됩니다. 함선 제작기를 종료하시겠습니까?"
 
 msgid "$ShipBuilderUnresolvedErrorsTitle"
 msgstr "미해결 오류"
@@ -6438,10 +6913,9 @@ msgstr "공급 경로 보이기"
 msgid "$ShowEULA"
 msgstr "최종 사용자 이용 약관 보기"
 
-msgid "$SHOWOBJECTIVES"
-msgstr "Inspect Objectives"
+msgid "$Showing results for:"
+msgstr "결과 표시:"
 
-#, fuzzy
 msgid "$SHOWOBJECTIVES"
 msgstr "대상 조사"
 
@@ -6571,6 +7045,12 @@ msgstr "태양계 날짜: 2330년 5월 7일"
 msgid "$SORT"
 msgstr "정렬"
 
+msgid "$Sort"
+msgstr "정렬"
+
+msgid "$Sorted by:"
+msgstr "정렬 순서:"
+
 msgid "$SORT FILTER (TODO)"
 msgstr "정렬 (할 일)"
 
@@ -6597,6 +7077,9 @@ msgstr "칼럼 설명순"
 
 msgid "$SORT_DMG"
 msgstr "피해순"
+
+msgid "$Sort Results"
+msgstr "정렬 결과"
 
 msgid "$SORT_RNG"
 msgstr "사거리순"
@@ -7084,6 +7567,9 @@ msgstr "조준 대상 놓침"
 msgid "$TATTOOS"
 msgstr "문신"
 
+msgid "$TB"
+msgstr "TB"
+
 msgid "$TECH"
 msgstr "공학"
 
@@ -7208,9 +7694,7 @@ msgid "$Toggle Ironsights"
 msgstr "정조준 전환"
 
 msgid "$Toggle Ironsights Desc"
-msgstr ""
-"총기 정조준 방식을 설정합니다. 켜면 조준키를 한번 누를 때마다 정조준 시점이 전환됩니다. 끄면 조준키를 꾹 누르고 있어야 정조준 시점이 "
-"유지됩니다."
+msgstr "총기 정조준 방식을 설정합니다. 켜면 조준키를 한번 누를 때마다 정조준 시점이 전환됩니다. 끄면 조준키를 꾹 누르고 있어야 정조준 시점이 유지됩니다."
 
 msgid "$TOGGLE MENU"
 msgstr "메뉴 감추기"
@@ -7274,6 +7758,9 @@ msgstr "추적"
 
 msgid "$TRACK PROJECT"
 msgstr "프로젝트 추적"
+
+msgid "$TrackersAlliance"
+msgstr "추적자 동맹"
 
 msgid "$TRADE"
 msgstr "거래"
@@ -7419,6 +7906,9 @@ msgstr "알 수 없음."
 msgid "$UnlinkAccount"
 msgstr "Bethesda.net 계정 연결 해제"
 
+msgid "$Unlike"
+msgstr "즐겨 찾기 해제"
+
 msgid "$UNLOAD"
 msgstr "내리기"
 
@@ -7455,6 +7945,9 @@ msgstr "선택 해제"
 msgid "$UNSHIELDED CONTRABAND"
 msgstr "함선에 밀수품 있음"
 
+msgid "$Unsorted"
+msgstr "정렬 없음"
+
 msgid "$Unsubscribe"
 msgstr "구독 취소"
 
@@ -7473,6 +7966,15 @@ msgstr "방문하지 않음"
 msgid "$Update"
 msgstr "업데이트"
 
+msgid "$UPDATE"
+msgstr "업데이트"
+
+msgid "$Updated"
+msgstr "업데이트 완료"
+
+msgid "$UPDATED"
+msgstr "업데이트 완료"
+
 msgid "$UPGRADE_SHIP"
 msgstr "함선 업그레이드"
 
@@ -7486,6 +7988,12 @@ msgid "$Upper Lip Right"
 msgstr "윗입술(오른쪽)"
 
 msgid "$USE"
+msgstr "사용"
+
+msgid "$USE CONSOLE EMAIL"
+msgstr "콘솔 메일 사용"
+
+msgid "$Used"
 msgstr "사용"
 
 msgid "$USERID"
@@ -7557,6 +8065,12 @@ msgstr "거래"
 msgid "$VENDOR CREDITS"
 msgstr "상인 크레딧"
 
+msgid "$Verified Creators"
+msgstr "인증된 크리에이터"
+
+msgid "$Version"
+msgstr "버전:"
+
 msgid "$Very Easy"
 msgstr "매우 쉬움"
 
@@ -7575,11 +8089,17 @@ msgstr "컨트롤러 진동"
 msgid "$Vibration Desc"
 msgstr "컨트롤러의 진동을 켜거나 끕니다."
 
+msgid "$View All"
+msgstr "모두 보기"
+
 msgid "$VIEW_AVAILABLE"
 msgstr "사용 가능 요소 보기"
 
 msgid "$VIEW_DESKTOP"
 msgstr "바탕화면 보기"
+
+msgid "$View Eula"
+msgstr "EURA 표시"
 
 msgid "$VIEW_OWNED"
 msgstr "소유 보기"
@@ -7850,3 +8370,6 @@ msgstr "축소"
 
 msgid "$[NEW SAVE]"
 msgstr "[새 저장 파일]"
+
+msgid "$?"
+msgstr "?"

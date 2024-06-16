@@ -1,6 +1,19 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-17 03:20+0900\n"
+"PO-Revision-Date: 2024-06-16 18:20+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: kor\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
+
+#
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_Menu, REC: TMLM:UNAM
 msgctxt "000001"
@@ -33,63 +46,90 @@ msgid ""
 "      2x - Comm Relay\n"
 "------------------------------------------------------------------"
 msgstr ""
+"------------------------------------------------------------------\n"
+" 식량/식수:\n"
+"    468 L - 물\n"
+"    116 kg - 단백질Protein\n"
+"    180 kg - 곡물\n"
+"      50 kg - 보존 식품\n"
+"------------------------------------------------------------------\n"
+"군수품:\n"
+"    34x - C급 미사일\n"
+"    36,500x - 실탄\n"
+"------------------------------------------------------------------\n"
+"예비 부품 (거래 금지):\n"
+"    6x - 양전자 충전지\n"
+"    4x - 초저온 자석\n"
+"    1x - 등중심점 자석\n"
+"------------------------------------------------------------------\n"
+"필요 품목:\n"
+"    1x - 무중력 짐벌 <--- 절실히 필요함.\n"
+"    3x - 반응형 계량기\n"
+"    4x - 핵 연료봉\n"
+"------------------------------------------------------------------\n"
+"거래용:\n"
+"    18x - 무저항 전선\n"
+"      3x - 마이크로초 조절기\n"
+"    11x - 고분자 섬유\n"
+"      2x - 통신 중계기\n"
+"------------------------------------------------------------------"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_Menu, REC: TMLM:ITXT
 msgctxt "000002"
 msgid "Inventory"
-msgstr ""
+msgstr "재고"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_Menu, REC: TMLM:ITXT
 msgctxt "000003"
 msgid "Ship Logs"
-msgstr ""
+msgstr "함선 기록"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_Menu, REC: TMLM:FULL
 msgctxt "000004"
 msgid "Main Menu"
-msgstr ""
+msgstr "메인 메뉴"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_DebugMenu, REC:
 # TMLM:ITXT
 msgctxt "000005"
 msgid "(Offline) ::System - Shields::"
-msgstr ""
+msgstr "(오프라인) ::시스템 - 보호막::"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_DebugMenu, REC:
 # TMLM:ITXT
 msgctxt "000006"
 msgid "(Offline) ::Weapon - Starboard::"
-msgstr ""
+msgstr "(오프라인) ::무장 - 우현::"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_DebugMenu, REC:
 # TMLM:ITXT
 msgctxt "000007"
 msgid "(Offline) ::Weapon - Port::"
-msgstr ""
+msgstr "(오프라인) ::무장 - 좌현::"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_DebugMenu, REC:
 # TMLM:ITXT
 msgctxt "000008"
 msgid "(Online) ::Weapon - Missile Pod::"
-msgstr ""
+msgstr "(오프라인) ::무장 - 미사일 포드::"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_DebugMenu, REC:
 # TMLM:ITXT
 msgctxt "000009"
 msgid "(Offline) ::Engine - Grav Drive::"
-msgstr ""
+msgstr "(오프라인) ::엔진 - 중력 구동기::"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_DebugMenu, REC:
 # TMLM:ITXT
 msgctxt "00000A"
 msgid "(Offline) ::Engine - Thrusters::"
-msgstr ""
+msgstr "(오프라인) ::엔진 - 추력기::"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_DebugMenu, REC:
 # TMLM:ITXT
 msgctxt "00000B"
 msgid "(Offline) ::Life Support System::"
-msgstr ""
+msgstr "(오프라인) ::생명 유지 시스템::"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_DebugMenu, REC:
 # TMLM:BTXT
@@ -101,12 +141,19 @@ msgid ""
 "Access to this menu has been logged and the ship warranty has been invalidated.\n"
 "              ------------------------------------------------------------------------------"
 msgstr ""
+"-----------------------------------------------------------------------------"
+"-\n"
+"주의: 이 메뉴는 ::B급:: 함선 기술자 이상만 사용할 수 있습니다.\n"
+"\n"
+"이 메뉴에 접속한 기록이 저장되었으며, 함선 보증서가 무효화되었습니다.\n"
+"              ---------------------------------------------------------------"
+"---------------"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_DebugMenu, REC:
 # TMLM:FULL
 msgctxt "00000D"
 msgid "Debug Menu"
-msgstr ""
+msgstr "디버그 메뉴"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs, REC:
 # TMLM:UNAM
@@ -123,7 +170,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "00000F"
 msgid "Our Journey Begins!"
-msgstr ""
+msgstr "우리의 여정이 시작됐다!"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs, REC:
 # TMLM:UNAM
@@ -142,7 +189,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "000011"
 msgid "Jaffa"
-msgstr ""
+msgstr "야파"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs, REC:
 # TMLM:UNAM
@@ -159,7 +206,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "000013"
 msgid "Rasalhague"
-msgstr ""
+msgstr "라스알하게"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs, REC:
 # TMLM:UNAM
@@ -178,7 +225,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "000015"
 msgid "Grav Drive Critical"
-msgstr ""
+msgstr "중력 구동기 임계점"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs, REC:
 # TMLM:UNAM
@@ -193,19 +240,19 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "000017"
 msgid "SOS"
-msgstr ""
+msgstr "SOS"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs, REC:
 # TMLM:FULL
 msgctxt "000018"
 msgid "Ship Logs"
-msgstr ""
+msgstr "함선 기록"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_Weapons, REC:
 # TMLM:ITXT
 msgctxt "000019"
 msgid "Return to Previous..."
-msgstr ""
+msgstr "이전으로 돌아가기..."
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_Weapons, REC:
 # TMLM:UNAM
@@ -225,7 +272,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "00001B"
 msgid "((Execute Test Sequence))"
-msgstr ""
+msgstr "((테스트 시퀀스 실행))"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_Weapons, REC:
 # TMLM:BTXT
@@ -243,27 +290,27 @@ msgstr ""
 # TMLM:FULL
 msgctxt "00001D"
 msgid "(Online) ::Weapon - Missile Pod::"
-msgstr ""
+msgstr "(오프라인) ::무장 - 미사일 포드::"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_Menu, REC: TMLM:ITXT
 msgctxt "00001E"
 msgid "Personal Correspondence"
-msgstr ""
+msgstr "개인 통신문"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_Menu, REC: TMLM:ITXT
 msgctxt "00001F"
 msgid "Internal Memos"
-msgstr ""
+msgstr "내부 메모"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_Menu, REC: TMLM:ITXT
 msgctxt "000020"
 msgid "Inventory Logs"
-msgstr ""
+msgstr "재고 기록"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_Menu, REC: TMLM:FULL
 msgctxt "000021"
 msgid "Control Room Computer"
-msgstr ""
+msgstr "제어실 컴퓨터"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Memos, REC:
 # TMLM:UNAM
@@ -284,7 +331,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "000023"
 msgid "Thank You and Farewell"
-msgstr ""
+msgstr "감사와 작별 인사"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Memos, REC:
 # TMLM:UNAM
@@ -303,7 +350,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "000025"
 msgid "Welcome"
-msgstr ""
+msgstr "환영 인사"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Memos, REC:
 # TMLM:UNAM
@@ -320,7 +367,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "000027"
 msgid "Gravity is staying off."
-msgstr ""
+msgstr "중력 상태 주의."
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Memos, REC:
 # TMLM:UNAM
@@ -337,13 +384,13 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "000029"
 msgid "Secure Your Shit!"
-msgstr ""
+msgstr "배설물 관리 요망!"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Memos, REC:
 # TMLM:FULL
 msgctxt "00002A"
 msgid "Internal Memos"
-msgstr ""
+msgstr "내부 메모"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Personal, REC:
 # TMLM:UNAM
@@ -360,7 +407,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "00002C"
 msgid "Subject: Tugboat"
-msgstr ""
+msgstr "제목: 예인선"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Personal, REC:
 # TMLM:UNAM
@@ -379,7 +426,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "00002E"
 msgid "Subject: Tips"
-msgstr ""
+msgstr "제목: 팁"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Personal, REC:
 # TMLM:UNAM
@@ -400,7 +447,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "000030"
 msgid "Subject: RE: Keep snacks in the living quarters!"
-msgstr ""
+msgstr "제목: 답장: 거주실 안에 과자를 쟁여놔!"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Personal, REC:
 # TMLM:UNAM
@@ -415,150 +462,151 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "000032"
 msgid "Subject: Trackers in Akila"
-msgstr ""
+msgstr "제목: 아킬라의 추적자"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Personal, REC:
 # TMLM:FULL
 msgctxt "000033"
 msgid "Personal Correspondence"
-msgstr ""
+msgstr "개인 통신문"
 
 # List: 0, EDID: mod_AVM_Cutter_SFBGS003_Cutter_TrackersAlliance, REC:
 # OMOD:FULL
 msgctxt "000034"
 msgid "ShipBreaker Skin"
-msgstr ""
+msgstr "ShipBreaker Skin"
 
 # List: 0, EDID: mod_AVM_MagStorm_SFBGS003_MantisVariant, REC: OMOD:FULL
 msgctxt "000035"
 msgid "Mantis Variant Skin"
-msgstr ""
+msgstr "Mantis Variant Skin"
 
 # List: 0, EDID: SFBGS003_PlayerTrackerName_Wraith, REC: MESG:FULL
 msgctxt "000036"
 msgid "Wraith"
-msgstr ""
+msgstr "레이스"
 
 # List: 0, EDID: SFBGS003_PlayerTrackerName_Bear, REC: MESG:FULL
 msgctxt "000037"
 msgid "Bear"
-msgstr ""
+msgstr "베어"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_00, REC: MESG:FULL
 msgctxt "000041"
 msgid "Boss Ivanova"
-msgstr ""
+msgstr "보스 이바노바"
 
 # List: 0, EDID: SFTA00_DekeNameMSG, REC: MESG:NNAM
 msgctxt "000043"
 msgid "Deke"
-msgstr ""
+msgstr "디크"
 
 # List: 0, EDID: SFTA00_DekeNameMSG, REC: MESG:FULL
 msgctxt "000044"
 msgid "Deke"
-msgstr ""
+msgstr "디크"
 
 # List: 0, EDID: SFBGS003_PlayerTrackerName_Shadow, REC: MESG:FULL
 msgctxt "000048"
 msgid "Shadow"
-msgstr ""
+msgstr "섀도우"
 
 # List: 0, EDID: SFBGS003_PlayerTrackerName_Mantis, REC: MESG:FULL
 msgctxt "000049"
 msgid "Mantis"
-msgstr ""
+msgstr "맨티스"
 
 # List: 0, EDID: SFBGS003_MysteriousTracker, REC: MESG:FULL
 msgctxt "00004C"
 msgid "Mysterious Tracker"
-msgstr ""
+msgstr "정체불명의 추적자"
 
 # List: 0, EDID: SFBGS003_PlayerTrackerName_Blitzkrieg, REC: MESG:FULL
 msgctxt "00004E"
 msgid "Blitzkrieg"
-msgstr ""
+msgstr "블리츠크리그"
 
 # List: 0, EDID: SFBGS003_PlayerTrackerName_Tempest, REC: MESG:FULL
 msgctxt "00004F"
 msgid "Tempest"
-msgstr ""
+msgstr "템페스트"
 
 # List: 0, EDID: SFBGS003_PlayerTrackerName_Nova, REC: MESG:FULL
 msgctxt "000050"
 msgid "Nova"
-msgstr ""
+msgstr "노바"
 
 # List: 0, EDID: SFTA00_HannibalNameMSG, REC: MESG:NNAM
 msgctxt "000054"
 msgid "Hannibal"
-msgstr ""
+msgstr "한니발"
 
 # List: 0, EDID: SFTA00_HannibalNameMSG, REC: MESG:FULL
 msgctxt "000055"
 msgid "Hannibal Eutropio"
-msgstr ""
+msgstr "한니발 유트로피오"
 
 # List: 0, EDID: SFBGS003_PlayerTrackerName_Nightstalker, REC: MESG:FULL
 msgctxt "000058"
 msgid "Nightstalker"
-msgstr ""
+msgstr "나이트스토커"
 
 # List: 0, EDID: SFBGS003_MissionBoard_PlayerAccess_Failure_Message, REC:
 # MESG:FULL
 msgctxt "0000AA"
 msgid "Access Denied"
-msgstr ""
+msgstr "접근 거부됨"
 
 # List: 0, EDID: SFBGS003ChopShopLocation, REC: LCTN:FULL
 msgctxt "0000C2"
 msgid "Chop Shop"
-msgstr ""
+msgstr "찹샵"
 
 # List: 0, EDID: SFBGS003ChopShopSpaceCellLocation, REC: LCTN:FULL
 msgctxt "0000C3"
 msgid "Chop Shop"
-msgstr ""
+msgstr "찹샵"
 
 # List: 0, EDID: SFBGS003ChopShopCreatedExteriorLocation, REC: LCTN:FULL
 msgctxt "0000C4"
 msgid "Chop Shop"
-msgstr ""
+msgstr "찹샵"
 
 # List: 0, EDID: SFBGS003TrackersAllianceHQLocation, REC: LCTN:FULL
 msgctxt "0000C5"
 msgid "Trackers Alliance HQ"
-msgstr ""
+msgstr "추적자 동맹 본부"
 
 # List: 0, EDID: SFBGS003_BountyTagPromptPerk, REC: PERK:EPF2
 msgctxt "0000C6"
 msgid "Attach Bounty Tag"
-msgstr ""
+msgstr "현상금 태그 첨부"
 
 # List: 0, EDID: SFBGS003_BountyTagPromptPerk, REC: PERK:EPF2
 msgctxt "0000C7"
 msgid "Scan Target"
-msgstr ""
+msgstr "대상 스캔"
 
 # List: 0, EDID: SFBGS003_BountyCrimes_Rare, REC: FLST:FULL
+#, fuzzy
 msgctxt "0000C8"
 msgid "Rare Crimes"
-msgstr ""
+msgstr "'레어' 등급 범죄"
 
 # List: 0, EDID: SFBGS003_BountyCrimes_Common, REC: FLST:FULL
 msgctxt "0000C9"
 msgid "Basic Crimes"
-msgstr ""
+msgstr "'베이직' 등급 범죄"
 
 # List: 0, EDID: SFBGS003_HandScannerTemperamentFormlist, REC: FLST:FULL
 msgctxt "0000CA"
 msgid "Bounty Temperaments"
-msgstr ""
+msgstr "현상범 기질"
 
 # List: 0, EDID: SFBGS003_BountyCrimes_Uncommon, REC: FLST:FULL
 msgctxt "0000CB"
 msgid "Uncommon Crimes"
-msgstr ""
+msgstr "'언커먼' 등급 범죄"
 
 # List: 0, EDID: LS_SFBGS003_TrackersHQ01, REC: LSCR:DESC
 msgctxt "0000CC"
@@ -622,302 +670,302 @@ msgstr ""
 # List: 0, EDID: SFBGS003_Bounty_SpeechChallenge, REC: QUST:FULL
 msgctxt "000152"
 msgid "Bounty Speech Challenge"
-msgstr ""
+msgstr "현상수배 설득 도전"
 
 # List: 0, EDID: SFBGS003_BountyScannerQuest03, REC: QUST:NNAM
 msgctxt "00018F"
 msgid "Confront <Alias=BountyTarget>"
-msgstr ""
+msgstr "<Alias=BountyTarget> 대면하기"
 
 # List: 0, EDID: SFBGS003_BountyScannerQuest01, REC: QUST:FULL
 msgctxt "000190"
 msgid "Bounty Hunting"
-msgstr ""
+msgstr "현상금 사냥"
 
 # List: 0, EDID: SFBGS003_TrackersAllianceSupportQuest, REC: QUST:FULL
 msgctxt "000295"
 msgid "--[ Trackers Alliance Support Quest ]--"
-msgstr ""
+msgstr "--[ 추적자 동맹 지원 임무 ]--"
 
 # List: 0, EDID: DialogueTAHQ_AgentNo1_ReserveLines, REC: DIAL:FULL
 msgctxt "00042B"
 msgid "DialogueTAHQ_AgentNo1_ReserveLines"
-msgstr ""
+msgstr "DialogueTAHQ_AgentNo1_ReserveLines"
 
 # List: 0, EDID: SFBGS003_MB_EliteBountySpace01_TA, REC: QUST:QMDP
 msgctxt "000455"
 msgid "<Alias=PrimaryRef>"
-msgstr ""
+msgstr "<Alias=PrimaryRef>"
 
 # List: 0, EDID: SFBGS003_MB_EliteBountySpace01_TA, REC: QUST:QMDT
 msgctxt "000456"
 msgid "Target"
-msgstr ""
+msgstr "목표"
 
 # List: 0, EDID: SFBGS003_MB_EliteBountySpace01_TA, REC: QUST:QMDP
 msgctxt "000457"
 msgid "<Alias=TargetSystemLocation>"
-msgstr ""
+msgstr "<Alias=TargetSystemLocation>"
 
 # List: 0, EDID: SFBGS003_MB_EliteBountySpace01_TA, REC: QUST:QMDT
 msgctxt "000458"
 msgid "Target System"
-msgstr ""
+msgstr "목표 항성계"
 
 # List: 0, EDID: SFBGS003_MB_EliteBountySpace01_TA, REC: QUST:QMSU
 msgctxt "000459"
 msgid "Wanted: Dead"
-msgstr ""
+msgstr "현상수배: 사살한정"
 
 # List: 0, EDID: SFBGS003_MB_EliteBountySpace01_TA, REC: QUST:NNAM
 msgctxt "00045A"
 msgid "Locate and destroy the <Alias=PrimaryRef>"
-msgstr ""
+msgstr "<Alias=PrimaryRef> 수색하고 섬멸하기"
 
 # List: 0, EDID: SFBGS003_MB_EliteBountySpace01_TA, REC: QUST:NNAM
 msgctxt "00045B"
 msgid "Go to any planet in the <Alias=TargetSystemLocation> system"
-msgstr ""
+msgstr "<Alias=TargetSystemLocation> 항성계의 행성으로 이동하기"
 
 # List: 0, EDID: SFBGS003_MB_EliteBountySpace01_TA, REC: QUST:FULL
 msgctxt "00045C"
 msgid "Wanted: <Alias=PrimaryRef>"
-msgstr ""
+msgstr "현상수배: <Alias=PrimaryRef>"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty01_WantedDead, REC: QUST:QMDP
 msgctxt "00045D"
 msgid "<Alias=TargetSystemLocation>"
-msgstr ""
+msgstr "<Alias=TargetSystemLocation>"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty01_WantedDead, REC: QUST:QMDT
 msgctxt "00045E"
 msgid "Bounty System"
-msgstr ""
+msgstr "수배범이 있는 항성계"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty01_WantedDead, REC: QUST:QMDP
 msgctxt "00045F"
 msgid "<Alias=TargetPlanetLocation>"
-msgstr ""
+msgstr "<Alias=TargetPlanetLocation>"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty01_WantedDead, REC: QUST:QMDT
 msgctxt "000460"
 msgid "Bounty Planet"
-msgstr ""
+msgstr "수배범이 있는 행성 또는 위성"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty01_WantedDead, REC: QUST:QMDP
 msgctxt "000461"
 msgid "<Alias=PrimaryRef>"
-msgstr ""
+msgstr "<Alias=PrimaryRef>"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty01_WantedDead, REC: QUST:QMDT
 msgctxt "000462"
 msgid "Bounty:"
-msgstr ""
+msgstr "수배범:"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty01_WantedDead, REC: QUST:QMDP
 msgctxt "000463"
 msgid "<Alias=TargetLocation>"
-msgstr ""
+msgstr "<Alias=TargetLocation>"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty01_WantedDead, REC: QUST:QMDT
 msgctxt "000464"
 msgid "Bounty Location"
-msgstr ""
+msgstr "수배범이 있는 장소"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty01_WantedDead, REC: QUST:QMSU
 msgctxt "000465"
 msgid "Wanted: Criminal on <Alias=TargetPlanetLocation>"
-msgstr ""
+msgstr "현상수배: <Alias=TargetPlanetLocation>의 범죄자"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty01_WantedDead, REC: QUST:NNAM
 msgctxt "000466"
 msgid "Confront <Alias=PrimaryRef>"
-msgstr ""
+msgstr "<Alias=PrimaryRef> 대면하기"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty01_WantedDead, REC: QUST:FULL
 msgctxt "000468"
 msgid "Wanted: Criminal on <Alias=TargetPlanetLocation>"
-msgstr ""
+msgstr "현상수배: <Alias=TargetPlanetLocation>의 범죄자"
 
 # List: 0, EDID: CTESTCOPY0000, REC: CELL:FULL
 msgctxt "000476"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 # List: 0, EDID: aaaMarkersSFBGS003, REC: CELL:FULL
 msgctxt "000478"
 msgid "Markers"
-msgstr ""
+msgstr "마커"
 
 # List: 0, EDID: SFBGS003TrackersAllianceHQ, REC: CELL:FULL
 msgctxt "000479"
 msgid "Trackers Alliance HQ"
-msgstr ""
+msgstr "추적자 동맹 본부"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer, REC: TERM:FULL
 msgctxt "00047A"
 msgid "Ship Computer"
-msgstr ""
+msgstr "함선 컴퓨터"
 
 # List: 0, EDID: SFTA00_JunkerShipKey, REC: KEYM:FULL
 msgctxt "00047B"
 msgid "Junker Watchdog Key"
-msgstr ""
+msgstr "정커 워치독 열쇠"
 
 # List: 0, EDID: SFTA00_LockedShipKey, REC: KEYM:FULL
 msgctxt "00047C"
 msgid "Sunsail Ship Key"
-msgstr ""
+msgstr "선세일 함선 열쇠"
 
 # List: 0, EDID: SFTA00_Deke, REC: NPC_:SHRT
 msgctxt "00047D"
 msgid "Hannibal"
-msgstr ""
+msgstr "한니발"
 
 # List: 0, EDID: SFTA00_Deke, REC: NPC_:FULL
 msgctxt "00047E"
 msgid "Hannibal Eutropio"
-msgstr ""
+msgstr "한니발 유트로피오"
 
 # List: 0, EDID: SFBGS003_HannibalEutropio, REC: NPC_:SHRT
 msgctxt "00047F"
 msgid "Hannibal"
-msgstr ""
+msgstr "한니발"
 
 # List: 0, EDID: SFBGS003_HannibalEutropio, REC: NPC_:FULL
 msgctxt "000480"
 msgid "Hannibal Eutropio"
-msgstr ""
+msgstr "한니발 유트로피오"
 
 # List: 0, EDID: SFBGS003_Tank, REC: NPC_:SHRT
 msgctxt "000481"
 msgid "Tank"
-msgstr ""
+msgstr "탱크"
 
 # List: 0, EDID: SFBGS003_Tank, REC: NPC_:FULL
 msgctxt "000482"
 msgid "Tank"
-msgstr ""
+msgstr "탱크"
 
 # List: 0, EDID: SFBGS003_Roach, REC: NPC_:SHRT
 msgctxt "000483"
 msgid "Roach"
-msgstr ""
+msgstr "로치"
 
 # List: 0, EDID: SFBGS003_Roach, REC: NPC_:FULL
 msgctxt "000484"
 msgid "Roach"
-msgstr ""
+msgstr "로치"
 
 # List: 0, EDID: SFBGS003_Inevitable, REC: NPC_:SHRT
 msgctxt "000485"
 msgid "Inevitable"
-msgstr ""
+msgstr "인에비터블"
 
 # List: 0, EDID: SFBGS003_Inevitable, REC: NPC_:FULL
 msgctxt "000486"
 msgid "Inevitable"
-msgstr ""
+msgstr "인에비터블"
 
 # List: 0, EDID: SFBGS003_BountyScannerTarget01Female, REC: NPC_:FULL
 msgctxt "000487"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_AgentNo1, REC: NPC_:SHRT
 msgctxt "000488"
 msgid "Agent No. 1"
-msgstr ""
+msgstr "대행인 1호"
 
 # List: 0, EDID: SFBGS003_AgentNo1, REC: NPC_:FULL
 msgctxt "000489"
 msgid "Agent No. 1"
-msgstr ""
+msgstr "대행인 1호"
 
 # List: 0, EDID: SFBGS003_Bloodhound, REC: NPC_:SHRT
 msgctxt "00048A"
 msgid "Bloodhound"
-msgstr ""
+msgstr "블러드하운드"
 
 # List: 0, EDID: SFBGS003_Bloodhound, REC: NPC_:FULL
 msgctxt "00048B"
 msgid "Bloodhound"
-msgstr ""
+msgstr "블러드하운드"
 
 # List: 0, EDID: SFBGS003_BountyTargetNPC_F01, REC: NPC_:FULL
 msgctxt "00048C"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_BountyTargetNPC_M02, REC: NPC_:FULL
 msgctxt "00048D"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_Warden, REC: NPC_:SHRT
 msgctxt "00048E"
 msgid "Warden"
-msgstr ""
+msgstr "간수"
 
 # List: 0, EDID: SFBGS003_Warden, REC: NPC_:FULL
 msgctxt "00048F"
 msgid "Warden"
-msgstr ""
+msgstr "간수"
 
 # List: 0, EDID: SFBGS003_BountyTargetNPC_M08, REC: NPC_:FULL
 msgctxt "000490"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_BountyTargetNPC_M03, REC: NPC_:FULL
 msgctxt "000491"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_Koios, REC: NPC_:FULL
 msgctxt "000492"
 msgid "KoiOS"
-msgstr ""
+msgstr "코이오스"
 
 # List: 0, EDID: SFBGS003_BountyTargetNPC_F02, REC: NPC_:FULL
 msgctxt "000493"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFTA00_Loot_Storage_BossChest, REC: CONT:FULL
 msgctxt "000494"
 msgid "Hannibal's Crate"
-msgstr ""
+msgstr "한니발의 상자"
 
 # List: 0, EDID: SFBGS003_TAHQ_Volk_Slate, REC: BOOK:ENAM
 msgctxt "000495"
 msgid "Trackers Alliance Official Communication"
-msgstr ""
+msgstr "추적자 동맹 공식 통신"
 
 # List: 0, EDID: SFBGS003_TAHQ_Volk_Slate, REC: BOOK:FULL
 msgctxt "000497"
 msgid "Regarding Volk"
-msgstr ""
+msgstr "볼크에 관해"
 
 # List: 0, EDID: SFBGS003_TAHQ_FoundingTrackers_Book, REC: BOOK:FULL
 msgctxt "000499"
 msgid "The Founding Trackers"
-msgstr ""
+msgstr "추적자 동맹 설립"
 
 # List: 0, EDID: SFBGS003_TAHQ_TrackerHistory_Book, REC: BOOK:FULL
 msgctxt "00049B"
 msgid "Untold History of the Trackers"
-msgstr ""
+msgstr "추적자 동맹의 알려지지 않은 역사"
 
 # List: 0, EDID: SFBGS003_Vendor_TAHQ_TwoShotFaction, REC: FACT:FULL
 msgctxt "00049C"
 msgid "Trackers Alliance Bar"
-msgstr ""
+msgstr "추적자 동맹 바"
 
 # List: 0, EDID: FactionTypeTrackersAlliance, REC: KYWD:FULL
 msgctxt "00049D"
 msgid "Trackers Alliance"
-msgstr ""
+msgstr "추적자 동맹"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs, REC:
 # TMLM:UNAM
@@ -934,7 +982,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "00049F"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs, REC:
 # TMLM:UNAM
@@ -950,7 +998,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "0004A1"
 msgid "Rapier"
-msgstr ""
+msgstr "레이피어"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs, REC:
 # TMLM:UNAM
@@ -967,7 +1015,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "0004A3"
 msgid "Vulture"
-msgstr ""
+msgstr "벌처"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs, REC:
 # TMLM:UNAM
@@ -986,7 +1034,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "0004A5"
 msgid "Sunsail"
-msgstr ""
+msgstr "선세일"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs, REC:
 # TMLM:UNAM
@@ -1003,19 +1051,19 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "0004A7"
 msgid "Thresher"
-msgstr ""
+msgstr "스레셔"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs, REC:
 # TMLM:FULL
 msgctxt "0004A8"
 msgid "Inventory Logs"
-msgstr ""
+msgstr "재고 기록"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_OfflineSystems, REC:
 # TMLM:ITXT
 msgctxt "0004A9"
 msgid "Return to Previous..."
-msgstr ""
+msgstr "이전으로 돌아가기..."
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_OfflineSystems, REC:
 # TMLM:BTXT
@@ -1033,537 +1081,537 @@ msgstr ""
 # TMLM:FULL
 msgctxt "0004AB"
 msgid "(Online) Weapons - Missile Pod"
-msgstr ""
+msgstr "(온라인) 무장 - 미사일 포드"
 
 # List: 0, EDID: _SFBGS003ChopShopOrbitalPlanetData, REC: PNDT:FULL
 msgctxt "0004AC"
 msgid "Chop Shop"
-msgstr ""
+msgstr "찹샵"
 
 # List: 0, EDID: SFTA00_AdrastosNameMSG, REC: MESG:NNAM
 msgctxt "0004BC"
 msgid "Adrastos"
-msgstr ""
+msgstr "아드라스토스"
 
 # List: 0, EDID: SFTA00_AdrastosNameMSG, REC: MESG:FULL
 msgctxt "0004BD"
 msgid "Adrastos Dakota"
-msgstr ""
+msgstr "아드라스토스 다코타"
 
 # List: 0, EDID: SFBGS003_PlayerTrackerName_Raven, REC: MESG:FULL
 msgctxt "0004BE"
 msgid "Raven"
-msgstr ""
+msgstr "레이븐"
 
 # List: 0, EDID: SFBGS003_PlayerTrackerName_Terror, REC: MESG:FULL
 msgctxt "0004BF"
 msgid "Terror"
-msgstr ""
+msgstr "테러"
 
 # List: 0, EDID: STFA00_Roach_CuffAdrastos, REC: DIAL:FULL
 msgctxt "000637"
 msgid "STFA00_Roach_CuffAdrastos"
-msgstr ""
+msgstr "STFA00_Roach_CuffAdrastos"
 
 # List: 0, EDID: SFTA00_Roach_SpottedAdrastos, REC: DIAL:FULL
 msgctxt "000638"
 msgid "SFTA00_Roach_SpottedAdrastos"
-msgstr ""
+msgstr "SFTA00_Roach_SpottedAdrastos"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty02_WantedAlive, REC: QUST:QMDP
 msgctxt "000644"
 msgid "<Alias=TargetSystemLocation>"
-msgstr ""
+msgstr "<Alias=TargetSystemLocation>"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty02_WantedAlive, REC: QUST:QMDT
 msgctxt "000645"
 msgid "Target System"
-msgstr ""
+msgstr "목표 항성계"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty02_WantedAlive, REC: QUST:QMDP
 msgctxt "000646"
 msgid "<Alias=TargetPlanetLocation>"
-msgstr ""
+msgstr "<Alias=TargetPlanetLocation>"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty02_WantedAlive, REC: QUST:QMDT
 msgctxt "000647"
 msgid "Target Planet"
-msgstr ""
+msgstr "목표 행성 또는 위성"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty02_WantedAlive, REC: QUST:QMDP
 msgctxt "000649"
 msgid "<Alias=PrimaryRef>"
-msgstr ""
+msgstr "<Alias=PrimaryRef>"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty02_WantedAlive, REC: QUST:QMDT
 msgctxt "00064A"
 msgid "Targets:"
-msgstr ""
+msgstr "목표:"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty02_WantedAlive, REC: QUST:QMDP
 msgctxt "00064B"
 msgid "<Alias=TargetLocation>"
-msgstr ""
+msgstr "<Alias=TargetLocation>"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty02_WantedAlive, REC: QUST:QMDT
 msgctxt "00064C"
 msgid "Target Location"
-msgstr ""
+msgstr "목적지"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty02_WantedAlive, REC: QUST:QMSU
 msgctxt "00064D"
 msgid "Wanted: Alive"
-msgstr ""
+msgstr "현상수배: 생포한정"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty02_WantedAlive, REC: QUST:NNAM
 msgctxt "00064E"
 msgid "Collect the bounty"
-msgstr ""
+msgstr "현상금 모으기"
 
 # List: 0, EDID: SFBGS003_MB_EliteBounty02_WantedAlive, REC: QUST:FULL
 msgctxt "00064F"
 msgid "Wanted: Criminal on <Alias=TargetPlanetLocation>"
-msgstr ""
+msgstr "현상수배: <Alias=TargetPlanetLocation>의 범죄자"
 
 # List: 0, EDID: SFBGS003_DialogueTAHQ, REC: QUST:FULL
 msgctxt "0007E2"
 msgid "[ Trackers Alliance HQ Dialogue ]"
-msgstr ""
+msgstr "[ 추적자 동맹 본부 대화 ]"
 
 # List: 0, EDID: SFBGS003_MiscPointer, REC: QUST:NNAM
 msgctxt "000806"
 msgid "Report Back to Agent No. 1"
-msgstr ""
+msgstr "대행인 1호에게 보고하기"
 
 # List: 0, EDID: SFBGS003_MiscPointer, REC: QUST:NNAM
 msgctxt "000807"
 msgid "Accept the Bounty"
-msgstr ""
+msgstr "현상수배 임무 받기"
 
 # List: 0, EDID: SFBGS003_MiscPointer, REC: QUST:NNAM
 msgctxt "000808"
 msgid "Speak with Agent No. 1"
-msgstr ""
+msgstr "대행인 1호와 대화하기"
 
 # List: 0, EDID: SFBGS003_MiscPointer, REC: QUST:NNAM
 msgctxt "000809"
 msgid "Go to the Trackers Alliance HQ"
-msgstr ""
+msgstr "추적자 동맹 본부 가기"
 
 # List: 0, EDID: SFBGS003_MiscPointer, REC: QUST:NNAM
 msgctxt "00080A"
 msgid "Speak with the Trackers Alliance Agent"
-msgstr ""
+msgstr "추적자 동맹 대행인과 대화하기"
 
 # List: 0, EDID: SFBGS003_MiscPointer, REC: QUST:FULL
 msgctxt "000810"
 msgid "The Trackers Alliance"
-msgstr ""
+msgstr "추적자 동맹"
 
 # List: 0, EDID: SFBGS003_MB_EliteBountySpace02_TA, REC: QUST:QMDP
 msgctxt "000811"
 msgid "<Alias=PrimaryRef>"
-msgstr ""
+msgstr "<Alias=PrimaryRef>"
 
 # List: 0, EDID: SFBGS003_MB_EliteBountySpace02_TA, REC: QUST:QMDT
 msgctxt "000812"
 msgid "Target"
-msgstr ""
+msgstr "목표"
 
 # List: 0, EDID: SFBGS003_MB_EliteBountySpace02_TA, REC: QUST:QMDP
 msgctxt "000813"
 msgid "<Alias=TargetSystemLocation>"
-msgstr ""
+msgstr "<Alias=TargetSystemLocation>"
 
 # List: 0, EDID: SFBGS003_MB_EliteBountySpace02_TA, REC: QUST:QMDT
 msgctxt "000814"
 msgid "Target System"
-msgstr ""
+msgstr "목표 항성계"
 
 # List: 0, EDID: SFBGS003_MB_EliteBountySpace02_TA, REC: QUST:QMSU
 msgctxt "000815"
 msgid "Wanted: Dead"
-msgstr ""
+msgstr "현상수배: 사살한정"
 
 # List: 0, EDID: SFBGS003_MB_EliteBountySpace02_TA, REC: QUST:NNAM
 msgctxt "000816"
 msgid "Locate and destroy the <Alias=PrimaryRef>"
-msgstr ""
+msgstr "<Alias=PrimaryRef> 수색하고 섬멸하기"
 
 # List: 0, EDID: SFBGS003_MB_EliteBountySpace02_TA, REC: QUST:NNAM
 msgctxt "000817"
 msgid "GO to any planet in the <Alias=TargetSystemLocation> system"
-msgstr ""
+msgstr "<Alias=TargetSystemLocation> 항성계의 행성으로 이동하기"
 
 # List: 0, EDID: SFBGS003_MB_EliteBountySpace02_TA, REC: QUST:FULL
 msgctxt "000818"
 msgid "Wanted: <Alias=PrimaryRef>"
-msgstr ""
+msgstr "현상수배: <Alias=PrimaryRef>"
 
 # List: 0, EDID: CTESTHQ, REC: CELL:FULL
 msgctxt "000822"
 msgid "Trackers Alliance Test HQ"
-msgstr ""
+msgstr "추적자 동맹 테스트 본부"
 
 # List: 0, EDID: SFBGS003ChopShopStation, REC: GBFM:FULL
 msgctxt "000824"
 msgid "Chop Shop"
-msgstr ""
+msgstr "찹샵"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer, REC: TERM:FULL
 msgctxt "000825"
 msgid "Control Room Computer"
-msgstr ""
+msgstr "제어실 컴퓨터"
 
 # List: 0, EDID: SFBGS003_ChopShop_CommandTowerKey, REC: KEYM:FULL
 msgctxt "000826"
 msgid "Command Tower Key"
-msgstr ""
+msgstr "지휘탑 열쇠"
 
 # List: 0, EDID: SFBGS003_Stache, REC: NPC_:SHRT
 msgctxt "000827"
 msgid "Stache"
-msgstr ""
+msgstr "콧수염"
 
 # List: 0, EDID: SFBGS003_Stache, REC: NPC_:FULL
 msgctxt "000828"
 msgid "Stache"
-msgstr ""
+msgstr "콧수염"
 
 # List: 0, EDID: SFBGS003_BountyScannerTarget01, REC: NPC_:FULL
 msgctxt "000829"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_BountyTargetNPC_F03, REC: NPC_:FULL
 msgctxt "00082A"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_BountyTargetNPC_F04, REC: NPC_:FULL
 msgctxt "00082B"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_BountyTargetNPC_F05, REC: NPC_:FULL
 msgctxt "00082C"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_BountyTargetNPC_M01, REC: NPC_:FULL
 msgctxt "00082D"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_BountyTargetNPC_M05, REC: NPC_:FULL
 msgctxt "00082E"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_BountyTargetNPC_M06, REC: NPC_:FULL
 msgctxt "00082F"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_BountyTargetNPC_M07, REC: NPC_:FULL
 msgctxt "000830"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_BountyTargetNPC_NB01, REC: NPC_:FULL
 msgctxt "000831"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_BountyTargetNPC_M09, REC: NPC_:FULL
 msgctxt "000832"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_TwoShot, REC: NPC_:SHRT
 msgctxt "000833"
 msgid "Two-Shot"
-msgstr ""
+msgstr "투샷"
 
 # List: 0, EDID: SFBGS003_TwoShot, REC: NPC_:FULL
 msgctxt "000834"
 msgid "Two-Shot"
-msgstr ""
+msgstr "투샷"
 
 # List: 0, EDID: SFBGS003_Yama, REC: NPC_:SHRT
 msgctxt "000835"
 msgid "Yama"
-msgstr ""
+msgstr "야마"
 
 # List: 0, EDID: SFBGS003_Yama, REC: NPC_:FULL
 msgctxt "000836"
 msgid "Yama"
-msgstr ""
+msgstr "야마"
 
 # List: 0, EDID: SFBGS003_BountyTargetNPC_M04, REC: NPC_:FULL
 msgctxt "000837"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_Vendor_TAHQ_TwoShotContainer, REC: CONT:FULL
 msgctxt "000838"
 msgid "TwoShot's Vendor Storage"
-msgstr ""
+msgstr "투샷 상인 보관함"
 
 # List: 0, EDID: SFBGS003_MissionBoardConsole_Activator, REC: ACTI:ATTX
 msgctxt "000839"
 msgid "Use"
-msgstr ""
+msgstr "사용"
 
 # List: 0, EDID: SFBGS003_MissionBoardConsole_Activator, REC: ACTI:FULL
 msgctxt "00083A"
 msgid "Trackers Alliance Mission Board"
-msgstr ""
+msgstr "추적자 동맹 임무 단말기"
 
 # List: 0, EDID: SFBGS003_BountyFaction, REC: FACT:FULL
 msgctxt "00083D"
 msgid "Bounty Faction"
-msgstr ""
+msgstr "현상수배범 세력"
 
 # List: 0, EDID: MissionBoardTypeBountyElite, REC: KYWD:FULL
 msgctxt "00083E"
 msgid "Elite Bounty"
-msgstr ""
+msgstr "엘리트 현상수배범"
 
 # List: 0, EDID: SFBGS003_HandScannerActorBounty, REC: KYWD:FULL
 msgctxt "00083F"
 msgid "Bounty: 1000"
-msgstr ""
+msgstr "현상금: 1000"
 
 # List: 0, EDID: SFBGS003_BountyScannerQuest, REC: QUST:NNAM
 msgctxt "000879"
 msgid "(Optional) Kill <Alias=BountyTarget>"
-msgstr ""
+msgstr "(선택) <Alias=BountyTarget> 죽이기"
 
 # List: 0, EDID: SFBGS003_BountyScannerQuest03, REC: QUST:NNAM
 msgctxt "00087A"
 msgid "Arrest <Alias=BountyTarget>"
-msgstr ""
+msgstr "<Alias=BountyTarget> 체포하기"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:SNAM
 msgctxt "00087B"
 msgid "Humans"
-msgstr ""
+msgstr "Humans"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "00087C"
 msgid "Forehead"
-msgstr ""
+msgstr "이마"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "00087D"
 msgid "Eyes"
-msgstr ""
+msgstr "눈 모양"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "00087E"
 msgid "Eyebrows"
-msgstr ""
+msgstr "눈썹 모양"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "00087F"
 msgid "Ears"
-msgstr ""
+msgstr "귀"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000880"
 msgid "Nose"
-msgstr ""
+msgstr "코"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000881"
 msgid "Cheeks"
-msgstr ""
+msgstr "뺨"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000882"
 msgid "Mouth"
-msgstr ""
+msgstr "입"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000883"
 msgid "Jaw"
-msgstr ""
+msgstr "턱"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000884"
 msgid "Chin"
-msgstr ""
+msgstr "턱끝"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000885"
 msgid "Neck"
-msgstr ""
+msgstr "목"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000886"
 msgid "Head Shapes"
-msgstr ""
+msgstr "두상 및 얼굴형"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000887"
 msgid "female_as_yo1"
-msgstr ""
+msgstr "female_as_yo1"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000888"
 msgid "female_eu_yo1"
-msgstr ""
+msgstr "female_eu_yo1"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000889"
 msgid "female_af_ol1"
-msgstr ""
+msgstr "female_af_ol1"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "00088A"
 msgid "female_af_yo1"
-msgstr ""
+msgstr "female_af_yo1"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "00088B"
 msgid "female_as_ol1"
-msgstr ""
+msgstr "female_as_ol1"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "00088C"
 msgid "female_af_md1"
-msgstr ""
+msgstr "female_af_md1"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "00088D"
 msgid "female_as_md1"
-msgstr ""
+msgstr "female_as_md1"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "00088E"
 msgid "female_eu_ol1"
-msgstr ""
+msgstr "female_eu_ol1"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "00088F"
 msgid "female_eu_md2"
-msgstr ""
+msgstr "female_eu_md2"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000890"
 msgid "Chin"
-msgstr ""
+msgstr "턱끝"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000891"
 msgid "Cheeks"
-msgstr ""
+msgstr "뺨"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000892"
 msgid "Eyebrows"
-msgstr ""
+msgstr "눈썹 모양"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000893"
 msgid "Forehead"
-msgstr ""
+msgstr "이마"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000894"
 msgid "Neck"
-msgstr ""
+msgstr "목"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000895"
 msgid "Head Shapes"
-msgstr ""
+msgstr "두상 및 얼굴형"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000896"
 msgid "male_as_yo1"
-msgstr ""
+msgstr "male_as_yo1"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000897"
 msgid "male_as_ol1"
-msgstr ""
+msgstr "male_as_ol1"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000898"
 msgid "male_af_yo1"
-msgstr ""
+msgstr "male_af_yo1"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "000899"
 msgid "male_af_ol1"
-msgstr ""
+msgstr "male_af_ol1"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "00089A"
 msgid "Jaw"
-msgstr ""
+msgstr "턱"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "00089B"
 msgid "Nose"
-msgstr ""
+msgstr "코"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "00089C"
 msgid "Eyes"
-msgstr ""
+msgstr "눈 모양"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "00089D"
 msgid "Ears"
-msgstr ""
+msgstr "귀"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "00089E"
 msgid "Mouth"
-msgstr ""
+msgstr "입"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "00089F"
 msgid "male_eu_yo1"
-msgstr ""
+msgstr "male_eu_yo1"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "0008A0"
 msgid "male_eu_ol1"
-msgstr ""
+msgstr "male_eu_ol1"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "0008A1"
 msgid "male_eu_md2"
-msgstr ""
+msgstr "male_eu_md2"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "0008A2"
 msgid "male_af_md1"
-msgstr ""
+msgstr "male_af_md1"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FMRN
 msgctxt "0008A3"
 msgid "male_as_md1"
-msgstr ""
+msgstr "male_as_md1"
 
 # List: 0, EDID: SFBGS003_HumanRace, REC: RACE:FULL
 msgctxt "0008A4"
 msgid "Human"
-msgstr ""
+msgstr "Human"
 
 # List: 0, EDID: SFTA00, REC: QUST:NNAM
 msgctxt "0008A5"
 msgid "Return to Agent No. 1"
-msgstr ""
+msgstr "대행인 1호에게 돌아가기"
 
 # List: 0, EDID: SFTA00, REC: QUST:NNAM
 msgctxt "0008A6"
 msgid "Claim the Junker Watchdog Ship"
-msgstr ""
+msgstr "정커 워치독 우주선 획득하기"
 
 # List: 0, EDID: SFTA00, REC: QUST:NNAM
 msgctxt "0008A7"
@@ -1673,7 +1721,7 @@ msgstr ""
 # List: 0, EDID: SFTA00, REC: QUST:NNAM
 msgctxt "0008BC"
 msgid "Report back to Agent No. 1"
-msgstr ""
+msgstr "대행인 1호에게 보고하기"
 
 # List: 0, EDID: SFTA00, REC: QUST:NNAM
 msgctxt "0008BD"
@@ -1688,7 +1736,7 @@ msgstr ""
 # List: 0, EDID: SFTA00, REC: QUST:FULL
 msgctxt "0008DB"
 msgid "Bounty: The Starjacker"
-msgstr ""
+msgstr "현상수배: 스타재커"
 
 # List: 0, EDID: SFBGS003_Loot_Storage_PrimerCase, REC: CONT:FULL
 msgctxt "0008DC"
@@ -1698,7 +1746,7 @@ msgstr ""
 # List: 0, EDID: SFTA00_JunkerShip, REC: GBFM:FULL
 msgctxt "0008DD"
 msgid "Junker Watchdog"
-msgstr ""
+msgstr "정커 워치독"
 
 # List: 0, EDID: SFTA00_DecoyShip, REC: GBFM:FULL
 msgctxt "0008DE"
@@ -1735,7 +1783,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "0008E5"
 msgid "Subject: RE: Custom Cargo"
-msgstr ""
+msgstr "제목: 답장: 맞춤 제작 화물칸"
 
 # List: 0, EDID: mod_PlasmaCutter_Muzzle_None, REC: OMOD:FULL
 msgctxt "0008E6"
@@ -1801,17 +1849,17 @@ msgstr ""
 # NPC_:FULL
 msgctxt "0008FD"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: Enc_SFBGS003_BountyTargetNPC_City01_TEMPLATE, REC: NPC_:FULL
 msgctxt "0008FE"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: Enc_SFBGS003_BountyTargetNPC_City09, REC: NPC_:FULL
 msgctxt "0008FF"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_MagShot_Roach_NOTPLAYABLE, REC: WEAP:FULL
 msgctxt "000900"
@@ -1911,42 +1959,42 @@ msgstr ""
 # List: 0, EDID: SFBGS003_Spacesuit_Explorer_Celia, REC: ARMO:FULL
 msgctxt "000913"
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 # List: 0, EDID: SFBGS003_Spacesuit_Explorer_Celia, REC: ARMO:FULL
 msgctxt "000914"
 msgid "Explorer Spacesuit"
-msgstr ""
+msgstr "탐험가 우주복"
 
 # List: 0, EDID: SFBGS003_Spacesuit_Explorer_Backpack_Celia, REC: ARMO:FULL
 msgctxt "000915"
 msgid "Entry"
-msgstr ""
+msgstr "엔트리"
 
 # List: 0, EDID: SFBGS003_Spacesuit_Explorer_Backpack_Celia, REC: ARMO:FULL
 msgctxt "000916"
 msgid "Explorer"
-msgstr ""
+msgstr "탐험가용"
 
 # List: 0, EDID: SFBGS003_SpaceSuit_BountyHunter_Helmet_Celia, REC: ARMO:FULL
 msgctxt "000917"
 msgid "Bounty Hunter Space Helmet"
-msgstr ""
+msgstr "현상금 사냥꾼 우주복 헬멧"
 
 # List: 0, EDID: SFBGS003_Spacesuit_Navigator_Backpack_Booker, REC: ARMO:FULL
 msgctxt "000918"
 msgid "Entry"
-msgstr ""
+msgstr "엔트리"
 
 # List: 0, EDID: SFBGS003_Spacesuit_Navigator_Backpack_Booker, REC: ARMO:FULL
 msgctxt "000919"
 msgid "Navigator"
-msgstr ""
+msgstr "항해사용"
 
 # List: 0, EDID: SFBGS003_Spacesuit_Navigator_SpaceSuit_Booker, REC: ARMO:FULL
 msgctxt "00091A"
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 # List: 0, EDID: SFBGS003_Spacesuit_Navigator_SpaceSuit_Booker, REC: ARMO:FULL
 msgctxt "00091B"
@@ -1971,22 +2019,22 @@ msgstr ""
 # List: 0, EDID: AkilaMapMarker_TrackersAllianceHQ, REC: REFR:FULL
 msgctxt "000922"
 msgid "Trackers Alliance HQ"
-msgstr ""
+msgstr "추적자 동맹 본부"
 
 # List: 0, EDID: SFTA00_Deke_Photomode, REC: NPC_:SHRT
 msgctxt "000923"
 msgid "Deke"
-msgstr ""
+msgstr "디크"
 
 # List: 0, EDID: SFTA00_Deke_Photomode, REC: NPC_:FULL
 msgctxt "000924"
 msgid "Deke"
-msgstr ""
+msgstr "디크"
 
 # List: 0, EDID: SFBGS003_Spacesuit_ETES_Backpack, REC: ARMO:FULL
 msgctxt "000925"
 msgid "Entry"
-msgstr ""
+msgstr "엔트리"
 
 # List: 0, EDID: SFBGS003_Spacesuit_ETES_Backpack, REC: ARMO:FULL
 msgctxt "000926"
@@ -2072,278 +2120,278 @@ msgstr ""
 # List: 0, EDID: SFBGS003_Inevitable_Apparel_BountyHunter_02, REC: ARMO:FULL
 msgctxt "000936"
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 # List: 0, EDID: SFBGS003_Inevitable_Apparel_BountyHunter_02, REC: ARMO:FULL
 msgctxt "000937"
 msgid "Trackers Alliance Spacesuit"
-msgstr ""
+msgstr "추적자 동맹 우주복"
 
 # List: 0, EDID: SFBGS003_BountyTarget_DisplayName_Worker, REC: MESG:FULL
 msgctxt "000938"
 msgid "Worker"
-msgstr ""
+msgstr "인부"
 
 # List: 0, EDID: SFBGS003_BountyTarget_DisplayName_Patron, REC: MESG:FULL
 msgctxt "00093A"
 msgid "Patron"
-msgstr ""
+msgstr "후원자"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_00, REC: MESG:FULL
 msgctxt "00093E"
 msgid "Willa Norton"
-msgstr ""
+msgstr "윌라 노턴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_00, REC: MESG:FULL
 msgctxt "000940"
 msgid "Scott Shephard"
-msgstr ""
+msgstr "스콧 셰퍼드"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_00, REC: MESG:FULL
 msgctxt "000942"
 msgid "Chris Sagan"
-msgstr ""
+msgstr "크리스 세이건"
 
 # List: 0, EDID: SFBGS003_BountyTarget_DisplayName_Crew, REC: MESG:FULL
 msgctxt "000948"
 msgid "Crew"
-msgstr ""
+msgstr "승무원"
 
 # List: 0, EDID: SFBGS003_BountyTarget_DisplayName_Citizen, REC: MESG:FULL
 msgctxt "00094A"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_BountyTarget_DisplayName_XenofreshWorker, REC:
 # MESG:FULL
 msgctxt "00094C"
 msgid "Xenofresh Worker"
-msgstr ""
+msgstr "제노프레시 작업자"
 
 # List: 0, EDID: SFBGS003_BountyTarget_DisplayName_Tourist, REC: MESG:FULL
 msgctxt "00094E"
 msgid "Tourist"
-msgstr ""
+msgstr "여행객"
 
 # List: 0, EDID: SFBGS003_BountyTarget_DisplayName_Guest, REC: MESG:FULL
 msgctxt "000950"
 msgid "Guest"
-msgstr ""
+msgstr "고객"
 
 # List: 0, EDID: SFBGS003_BountyTarget_DisplayName_Miner, REC: MESG:FULL
 msgctxt "000952"
 msgid "Miner"
-msgstr ""
+msgstr "광부"
 
 # List: 0, EDID: SFBGS003_BountyTarget_DisplayName_Customer, REC: MESG:FULL
 msgctxt "000954"
 msgid "Customer"
-msgstr ""
+msgstr "고객"
 
 # List: 0, EDID: SFBGS003_BountyTarget_DisplayName_Colonist, REC: MESG:FULL
 msgctxt "000956"
 msgid "Colonist"
-msgstr ""
+msgstr "개척민"
 
 # List: 0, EDID: SFBGS003_BountyTarget_DisplayName_Patient, REC: MESG:FULL
 msgctxt "000958"
 msgid "Patient"
-msgstr ""
+msgstr "환자"
 
 # List: 0, EDID: SFBGS003_Formlist_RandomNames_Femme, REC: FLST:FULL
 msgctxt "00095A"
 msgid "Randomize Names for Fem NPCs of all factions/backgrounds"
-msgstr ""
+msgstr "모든 진영/배경의 여성 NPC 이름 무작위화"
 
 # List: 0, EDID: SFBGS003_Formlist_RandomNames_Masc, REC: FLST:FULL
 msgctxt "00095D"
 msgid "Randomize Names for Masc NPCs of all factions/backgrounds"
-msgstr ""
+msgstr "모든 진영/배경의 남성 NPC 이름 무작위화"
 
 # List: 0, EDID: SFBGS003_Formlist_RandomNames_NonBinary, REC: FLST:FULL
 msgctxt "00095E"
 msgid "Randomize Names for Non-Binary NPCs of all factions/backgrounds"
-msgstr ""
+msgstr "모든 진영/배경의 논바이너리 NPC 이름 무작위화"
 
 # List: 0, EDID: SFBGS003_SQ_WantedPosters, REC: QUST:FULL
 msgctxt "00095F"
 msgid "Wanted Posters System Quest"
-msgstr ""
+msgstr "수배 전단 시스템 퀘스트"
 
 # List: 0, EDID: SFBGS003_BountyScannerQuest00, REC: QUST:NNAM
 msgctxt "000960"
 msgid "Kill <Alias=BountyTarget>"
-msgstr ""
+msgstr "<Alias=BountyTarget> 죽이기"
 
 # List: 0, EDID: SFTA00_EncReceptionSpacerFaceM, REC: NPC_:FULL
 msgctxt "000961"
 msgid "Spacer"
-msgstr ""
+msgstr "스페이서"
 
 # List: 0, EDID: SFBGS003_DisplayScreen_SFTA00, REC: MISC:FULL
 msgctxt "000962"
 msgid "Bounty: The Starjacker"
-msgstr ""
+msgstr "현상수배: 스타재커"
 
 # List: 0, EDID: SFBGS003_DisplayScreen_SFTA01, REC: MISC:FULL
 msgctxt "000963"
 msgid "Bounty: The Vulture"
-msgstr ""
+msgstr "현상수배: 벌처"
 
 # List: 0, EDID: SFTA00, REC: QUST:NNAM
 msgctxt "000964"
 msgid "Open the Living Quarters Doors"
-msgstr ""
+msgstr "거주실 문 열기"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_Menu, REC: TMLM:ITXT
 msgctxt "000965"
 msgid "Debug Menu"
-msgstr ""
+msgstr "디버그 메뉴"
 
 # List: 0, EDID: SFBGS003_PlasmaCutterProjectile, REC: PROJ:FULL
 msgctxt "000966"
 msgid "Cutter Beam"
-msgstr ""
+msgstr "Cutter Beam"
 
 # List: 0, EDID: SFBGS003_BountyPoster_SFTA00, REC: STAT:FULL
 msgctxt "000967"
 msgid "Bounty Poster"
-msgstr ""
+msgstr "수배 전단"
 
 # List: 0, EDID: SFBGS003_BountyPoster_SFTA01, REC: STAT:FULL
 msgctxt "000968"
 msgid "Bounty Poster"
-msgstr ""
+msgstr "수배 전단"
 
 # List: 0, EDID: SFBGS003_DisplayScreen_SFTA00_completed, REC: MISC:FULL
 msgctxt "000969"
 msgid "Bounty: The Starjacker"
-msgstr ""
+msgstr "현상수배: 스타재커"
 
 # List: 0, EDID: SFBGS003_DisplayScreen_SFTA01_completed, REC: MISC:FULL
 msgctxt "00096A"
 msgid "Bounty: The Vulture"
-msgstr ""
+msgstr "현상수배: 벌처"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_214, REC: MESG:FULL
 msgctxt "00096B"
 msgid "Jo \"Fireball\" Starr"
-msgstr ""
+msgstr "조 \"화염탄\" 스타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_213, REC: MESG:FULL
 msgctxt "00096C"
 msgid "Frankie \"Joker\" Cassidy"
-msgstr ""
+msgstr "프랭키 \"조커\" 캐시디"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_212, REC: MESG:FULL
 msgctxt "00096D"
 msgid "Ward \"Dynamo\" Turner"
-msgstr ""
+msgstr "워드 \"자가발전\" 터너"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_211, REC: MESG:FULL
 msgctxt "00096E"
 msgid "Wynn \"Drifter\" Bell"
-msgstr ""
+msgstr "윈 \"방랑객\" 벨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_210, REC: MESG:FULL
 msgctxt "00096F"
 msgid "Syd \"Wildcard\" Parker"
-msgstr ""
+msgstr "시드 \"와일드카드\" 파커"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_239, REC: MESG:FULL
 msgctxt "000970"
 msgid "Ranger King"
-msgstr ""
+msgstr "레인저 킹"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_222, REC: MESG:FULL
 msgctxt "000971"
 msgid "Daniels the Shadow"
-msgstr ""
+msgstr "그림자 다니엘스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_237, REC: MESG:FULL
 msgctxt "000972"
 msgid "Furious Brown"
-msgstr ""
+msgstr "퓨리어스 브라운"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_236, REC: MESG:FULL
 msgctxt "000973"
 msgid "Grim Williams"
-msgstr ""
+msgstr "그림 윌리엄스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_235, REC: MESG:FULL
 msgctxt "000974"
 msgid "Butcher Johnson"
-msgstr ""
+msgstr "버처 존슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_234, REC: MESG:FULL
 msgctxt "000975"
 msgid "Pilot Smith"
-msgstr ""
+msgstr "파일럿 스미스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_233, REC: MESG:FULL
 msgctxt "000976"
 msgid "Chief Petrov"
-msgstr ""
+msgstr "치프 페트로프"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_232, REC: MESG:FULL
 msgctxt "000977"
 msgid "Smith the Broke"
-msgstr ""
+msgstr "빈털터리 스미스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_231, REC: MESG:FULL
 msgctxt "000978"
 msgid "Petrov the Stampede"
-msgstr ""
+msgstr "폭주하는 페트로프"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_145, REC: MESG:FULL
 msgctxt "000979"
 msgid "Vasya the Shadow"
-msgstr ""
+msgstr "그림자 바샤"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_215, REC: MESG:FULL
 msgctxt "00097A"
 msgid "Paz \"Nine-Lives\" Bass"
-msgstr ""
+msgstr "파즈 \"아홉 목숨\" 베이스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_228, REC: MESG:FULL
 msgctxt "00097B"
 msgid "Nowak the Silent"
-msgstr ""
+msgstr "침묵하는 노왁"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_227, REC: MESG:FULL
 msgctxt "00097C"
 msgid "Moretti the Hidden"
-msgstr ""
+msgstr "은신하는 모레티"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_226, REC: MESG:FULL
 msgctxt "00097D"
 msgid "Giordano the Cruel"
-msgstr ""
+msgstr "잔혹한 지오다노"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_225, REC: MESG:FULL
 msgctxt "00097E"
 msgid "Rossi the Wraith"
-msgstr ""
+msgstr "망령 로시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_249, REC: MESG:FULL
 msgctxt "00097F"
 msgid "Captain Kamal"
-msgstr ""
+msgstr "캡틴 카말"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_248, REC: MESG:FULL
 msgctxt "000980"
 msgid "Sheriff Omobowale"
-msgstr ""
+msgstr "셰리프 오모보왈레"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_208, REC: MESG:FULL
 msgctxt "000981"
 msgid "Chance \"Jinx\" Smith"
-msgstr ""
+msgstr "찬스 \"흉조\" 스미스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_246, REC: MESG:FULL
 msgctxt "000982"
 msgid "Maverick Omari"
-msgstr ""
+msgstr "매버릭 오마리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_245, REC: MESG:FULL
 msgctxt "000983"
@@ -3358,7 +3406,7 @@ msgstr ""
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_54, REC: MESG:FULL
 msgctxt "000A4D"
 msgid "Judge Sagan"
-msgstr ""
+msgstr "저지 세이건"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_12, REC: MESG:FULL
 msgctxt "000A4E"
@@ -5565,7 +5613,7 @@ msgstr ""
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_81, REC: MESG:FULL
 msgctxt "000C06"
 msgid "Vasya Petrov"
-msgstr ""
+msgstr "바샤 페트로프"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_80, REC: MESG:FULL
 msgctxt "000C07"
@@ -7246,7 +7294,7 @@ msgstr ""
 # List: 0, EDID: SFBGS003_BountyTargetNPC_NB02, REC: NPC_:FULL
 msgctxt "000D56"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 0, EDID: SFBGS003_ActivatePoster_Perk, REC: PERK:EPFD
 msgctxt "000D57"
@@ -8493,12 +8541,12 @@ msgstr ""
 # List: 1, EDID: SFBGS003_BountyTarget_DisplayName_Worker, REC: MESG:DESC
 msgctxt "000939"
 msgid "Worker"
-msgstr ""
+msgstr "인부"
 
 # List: 1, EDID: SFBGS003_BountyTarget_DisplayName_Patron, REC: MESG:DESC
 msgctxt "00093B"
 msgid "Patron"
-msgstr ""
+msgstr "후원자"
 
 # List: 1, EDID: SFBGS003_SFTA00_Prereq_Msg, REC: MESG:DESC
 msgctxt "00093C"
@@ -8517,48 +8565,48 @@ msgstr ""
 # List: 1, EDID: SFBGS003_BountyTarget_DisplayName_Crew, REC: MESG:DESC
 msgctxt "000949"
 msgid "Crew"
-msgstr ""
+msgstr "승무원"
 
 # List: 1, EDID: SFBGS003_BountyTarget_DisplayName_Citizen, REC: MESG:DESC
 msgctxt "00094B"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # List: 1, EDID: SFBGS003_BountyTarget_DisplayName_XenofreshWorker, REC:
 # MESG:DESC
 msgctxt "00094D"
 msgid "Xenofresh Worker"
-msgstr ""
+msgstr "제노프레시 작업자"
 
 # List: 1, EDID: SFBGS003_BountyTarget_DisplayName_Tourist, REC: MESG:DESC
 msgctxt "00094F"
 msgid "Tourist"
-msgstr ""
+msgstr "여행객"
 
 # List: 1, EDID: SFBGS003_BountyTarget_DisplayName_Guest, REC: MESG:DESC
 msgctxt "000951"
 msgid "Guest"
-msgstr ""
+msgstr "고객"
 
 # List: 1, EDID: SFBGS003_BountyTarget_DisplayName_Miner, REC: MESG:DESC
 msgctxt "000953"
 msgid "Miner"
-msgstr ""
+msgstr "광부"
 
 # List: 1, EDID: SFBGS003_BountyTarget_DisplayName_Customer, REC: MESG:DESC
 msgctxt "000955"
 msgid "Customer"
-msgstr ""
+msgstr "고객"
 
 # List: 1, EDID: SFBGS003_BountyTarget_DisplayName_Colonist, REC: MESG:DESC
 msgctxt "000957"
 msgid "Colonist"
-msgstr ""
+msgstr "개척민"
 
 # List: 1, EDID: SFBGS003_BountyTarget_DisplayName_Patient, REC: MESG:DESC
 msgctxt "000959"
 msgid "Patient"
-msgstr ""
+msgstr "환자"
 
 # List: 1, EDID: SFBGS003_ActivatePoster_Perk, REC: PERK:DESC
 msgctxt "000D58"
@@ -8649,7 +8697,7 @@ msgstr ""
 # List: 2, EDID: [FD00F59A], REC: INFO:NAM1
 msgctxt "0000DC"
 msgid "Yo, Inevitable!"
-msgstr ""
+msgstr "여, 인에비터블!"
 
 # List: 2, EDID: [FD00BA19], REC: INFO:NAM1
 msgctxt "0000DD"
@@ -10008,7 +10056,7 @@ msgstr ""
 # List: 2, EDID: [FD004B70], REC: INFO:NAM1
 msgctxt "0001CC"
 msgid "Let's rewind and try to start on the right foot. I'm <Alias=Player>."
-msgstr ""
+msgstr "다시 돌아가서 처음부터 다시 시작해보죠. 저는 <Alias=Player>입니다."
 
 # List: 2, EDID: [FD004B8B], REC: INFO:NAM1
 msgctxt "0001CD"
@@ -10153,7 +10201,7 @@ msgstr ""
 # List: 2, EDID: [FD005AB7], REC: INFO:NAM1
 msgctxt "0001E4"
 msgid "Fuck no."
-msgstr ""
+msgstr "젠장, 안돼."
 
 # List: 2, EDID: [FD005B60], REC: INFO:NAM1
 msgctxt "0001E5"
@@ -10173,7 +10221,7 @@ msgstr ""
 # List: 2, EDID: [FD005AE4], REC: INFO:NAM1
 msgctxt "0001E8"
 msgid "No."
-msgstr ""
+msgstr "안돼."
 
 # List: 2, EDID: [FD005A57], REC: INFO:NAM1
 msgctxt "0001E9"
@@ -11692,7 +11740,7 @@ msgstr ""
 # List: 2, EDID: [FD00F352], REC: INFO:NAM1
 msgctxt "0002F1"
 msgid "*Dismissive grunt*"
-msgstr ""
+msgstr "*무시하는 볼멘소리*"
 
 # List: 2, EDID: [FD00E2C6], REC: INFO:NAM1
 msgctxt "0002F2"
@@ -11750,7 +11798,7 @@ msgstr ""
 # List: 2, EDID: [FD000E36], REC: INFO:NAM1
 msgctxt "0002FC"
 msgid "Call me Inevitable."
-msgstr ""
+msgstr "인에비터블이라고 부르세요."
 
 # List: 2, EDID: [FD000DDE], REC: INFO:NAM1
 msgctxt "0002FD"
@@ -12023,7 +12071,7 @@ msgstr ""
 # List: 2, EDID: [FD000E09], REC: INFO:NAM1
 msgctxt "000326"
 msgid "I'm glad too. I appreciate you bringing me here, Inevitable."
-msgstr ""
+msgstr "나도 기뻐. 여기까지 데려와줘서 고마워. 인에비터블."
 
 # List: 2, EDID: [FD00F341], REC: INFO:NAM1
 msgctxt "000327"
@@ -16572,22 +16620,22 @@ msgstr ""
 # List: 2, EDID: [FD00F353], REC: INFO:NAM1
 msgctxt "00069D"
 msgid "*Dismissive grunt*"
-msgstr ""
+msgstr "*무시하는 볼멘소리*"
 
 # List: 2, EDID: [FD00F351], REC: INFO:NAM1
 msgctxt "00069E"
 msgid "*Dismissive grunt*"
-msgstr ""
+msgstr "*무시하는 볼멘소리*"
 
 # List: 2, EDID: [FD00F350], REC: INFO:NAM1
 msgctxt "00069F"
 msgid "*Dismissive grunt*"
-msgstr ""
+msgstr "*무시하는 볼멘소리*"
 
 # List: 2, EDID: [FD00F34F], REC: INFO:NAM1
 msgctxt "0006A0"
 msgid "*Dismissive grunt*"
-msgstr ""
+msgstr "*무시하는 볼멘소리*"
 
 # List: 2, EDID: [FD00E2BC], REC: INFO:NAM1
 msgctxt "0006A1"
@@ -16645,7 +16693,7 @@ msgstr ""
 # List: 2, EDID: [FD000E7D], REC: INFO:NAM1
 msgctxt "0006AB"
 msgid "Inevitable? That's your callsign?"
-msgstr ""
+msgstr "인에비터블? 그게 호출 부호인가요?"
 
 # List: 2, EDID: [FD000DC5], REC: INFO:NAM1
 msgctxt "0006AC"
@@ -16781,7 +16829,7 @@ msgstr ""
 # List: 2, EDID: [FD00F333], REC: INFO:NAM1
 msgctxt "0006C0"
 msgid "I'm glad too, Inevitable."
-msgstr ""
+msgstr "나도 기뻐. 인에비터블."
 
 # List: 2, EDID: [FD000DE7], REC: INFO:NAM1
 msgctxt "0006C1"
@@ -17109,7 +17157,7 @@ msgstr ""
 # List: 2, EDID: [FD000DC6], REC: INFO:NAM1
 msgctxt "0006F5"
 msgid "<Alias.CurrentName=PlayerTrackerNameMarker>"
-msgstr ""
+msgstr "<Alias.CurrentName=PlayerTrackerNameMarker>"
 
 # List: 2, EDID: [FD000DFA], REC: INFO:NAM1
 msgctxt "0006F6"
@@ -17455,7 +17503,7 @@ msgctxt "00072E"
 msgid ""
 "Mostly, I just wanted to introduce myself. I'm "
 "<Alias.CurrentName=PlayerTrackerNameMarker>."
-msgstr ""
+msgstr "우선 제 소개를 하고 싶네요. 저는 <Alias.CurrentName=PlayerTrackerNameMarker>입니다."
 
 # List: 2, EDID: [FD004B5A], REC: INFO:NAM1
 msgctxt "00072F"
@@ -17644,7 +17692,7 @@ msgstr ""
 # List: 2, EDID: [FD004B14], REC: INFO:NAM1
 msgctxt "00074B"
 msgid "What's with Inevitable?"
-msgstr ""
+msgstr "인에비터블은 뭐야?"
 
 # List: 2, EDID: [FD004C9E], REC: INFO:NAM1
 msgctxt "00074C"
@@ -18128,7 +18176,7 @@ msgctxt "000796"
 msgid ""
 "Koios was a Greek titan god, born of Uranus and Gaia. He was known as a "
 "titan of knowledge and queries."
-msgstr ""
+msgstr "코이오스는 그리스의 거인 신으로, 우라노스와 가이아 사이에서 태어났습니다. 코이오스는 지식과 의문의 거인으로 알려져 있습니다."
 
 # List: 2, EDID: [FD004B43], REC: INFO:NAM1
 msgctxt "000797"
@@ -18354,7 +18402,7 @@ msgstr ""
 # List: 2, EDID: [FD00F325], REC: INFO:NAM1
 msgctxt "0007BB"
 msgid "What's the deal with that Warden guy?"
-msgstr ""
+msgstr "저 간수 양반은 왜 저래?"
 
 # List: 2, EDID: [FD00F32E], REC: INFO:NAM1
 msgctxt "0007BC"
@@ -18868,7 +18916,7 @@ msgstr ""
 # List: 2, EDID: [FD005ADF], REC: INFO:NAM1
 msgctxt "0008E3"
 msgid "Hannibal... Hannibal... I might know someone by that name."
-msgstr ""
+msgstr "한니발... 한니발... 그 이름을 아는 사람이 있을지도 몰라."
 
 # List: 2, EDID: [0030387E], REC: INFO:NAM1
 msgctxt "010D51"

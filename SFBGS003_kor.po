@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-06-18 15:57+0000\n"
+"PO-Revision-Date: 2024-06-21 14:37+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -2555,27 +2555,27 @@ msgstr "버림받은 호키스"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_220, REC: MESG:FULL
 msgctxt "0009A3"
 msgid "Donoghue the Leech"
-msgstr ""
+msgstr "거머리 도노휴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_219, REC: MESG:FULL
 msgctxt "0009A4"
 msgid "Allen the Rain"
-msgstr ""
+msgstr "장대비 앨런"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_218, REC: MESG:FULL
 msgctxt "0009A5"
 msgid "Edison the Black"
-msgstr ""
+msgstr "시꺼먼 에디슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_217, REC: MESG:FULL
 msgctxt "0009A6"
 msgid "Chambers the Red"
-msgstr ""
+msgstr "시뻘건 체임버스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_19, REC: MESG:FULL
 msgctxt "0009A7"
 msgid "General Omobowale"
-msgstr ""
+msgstr "장군 오모보왈레"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_188, REC: MESG:FULL
 msgctxt "0009A8"
@@ -2825,7 +2825,7 @@ msgstr "버림받은 사샤"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_143, REC: MESG:FULL
 msgctxt "0009D9"
 msgid "Zhenya the Leech"
-msgstr ""
+msgstr "거머리 젠야"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_142, REC: MESG:FULL
 msgctxt "0009DA"
@@ -2835,12 +2835,12 @@ msgstr ""
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_141, REC: MESG:FULL
 msgctxt "0009DB"
 msgid "Jedrek the Rain"
-msgstr ""
+msgstr "장대비 제드렉"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_140, REC: MESG:FULL
 msgctxt "0009DC"
 msgid "Kosmo the Black"
-msgstr ""
+msgstr "시꺼먼 코스모"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_139, REC: MESG:FULL
 msgctxt "0009DD"
@@ -2870,7 +2870,7 @@ msgstr ""
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_164, REC: MESG:FULL
 msgctxt "0009E2"
 msgid "Ariel the Brain"
-msgstr ""
+msgstr "두뇌파 아리엘"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_163, REC: MESG:FULL
 msgctxt "0009E3"
@@ -2920,7 +2920,7 @@ msgstr ""
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_97, REC: MESG:FULL
 msgctxt "0009EC"
 msgid "Virtanen the Redacted"
-msgstr ""
+msgstr "교정된 비르타넨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_96, REC: MESG:FULL
 msgctxt "0009ED"
@@ -2975,7 +2975,7 @@ msgstr "조종사 윌리엄스"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_160, REC: MESG:FULL
 msgctxt "0009F7"
 msgid "Amaros the Redacted"
-msgstr ""
+msgstr "교정된 아마로스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_115, REC: MESG:FULL
 msgctxt "0009F8"
@@ -3180,7 +3180,7 @@ msgstr ""
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_78, REC: MESG:FULL
 msgctxt "000A20"
 msgid "Indra the Leech"
-msgstr ""
+msgstr "거머리 인드라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_77, REC: MESG:FULL
 msgctxt "000A21"
@@ -3190,7 +3190,7 @@ msgstr ""
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_76, REC: MESG:FULL
 msgctxt "000A22"
 msgid "Roy the Rain"
-msgstr ""
+msgstr "장대비 로이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_105, REC: MESG:FULL
 msgctxt "000A23"
@@ -3400,7 +3400,7 @@ msgstr ""
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_14, REC: MESG:FULL
 msgctxt "000A4C"
 msgid "Leone the Red"
-msgstr ""
+msgstr "시뻘건 리온"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_54, REC: MESG:FULL
 msgctxt "000A4D"
@@ -3520,7 +3520,7 @@ msgstr "모건 \"개구장애\" 플로레스"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_74, REC: MESG:FULL
 msgctxt "000A64"
 msgid "Giri the Red"
-msgstr ""
+msgstr "시뻘건 기리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_240, REC: MESG:FULL
 msgctxt "000A65"
@@ -3837,7 +3837,7 @@ msgstr ""
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_75, REC: MESG:FULL
 msgctxt "000AA3"
 msgid "Pathan the Black"
-msgstr ""
+msgstr "시꺼먼 파탄"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_155, REC: MESG:FULL
 msgctxt "000AA4"

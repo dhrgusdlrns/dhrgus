@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-06-21 14:37+0000\n"
+"PO-Revision-Date: 2024-06-23 05:12+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -1998,7 +1998,7 @@ msgstr "Default"
 # List: 0, EDID: SFBGS003_Spacesuit_Navigator_SpaceSuit_Booker, REC: ARMO:FULL
 msgctxt "00091B"
 msgid "Navigator Spacesuit"
-msgstr ""
+msgstr "항해사 우주복"
 
 # List: 0, EDID: SFBGS003_Spacesuit_Ranger_Helmet_Booker, REC: ARMO:FULL
 msgctxt "00091C"
@@ -2300,12 +2300,12 @@ msgstr "시드 \"비장의 카드\" 파커"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_239, REC: MESG:FULL
 msgctxt "000970"
 msgid "Ranger King"
-msgstr "킹 레인저"
+msgstr "레인저 킹"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_222, REC: MESG:FULL
 msgctxt "000971"
 msgid "Daniels the Shadow"
-msgstr "그림자 다니엘스"
+msgstr "그림자 대니얼스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_237, REC: MESG:FULL
 msgctxt "000972"
@@ -2355,7 +2355,7 @@ msgstr "파즈 \"아홉 목숨\" 베이스"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_228, REC: MESG:FULL
 msgctxt "00097B"
 msgid "Nowak the Silent"
-msgstr "침묵하는 노왁"
+msgstr "침묵하는 노박"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_227, REC: MESG:FULL
 msgctxt "00097C"
@@ -2375,12 +2375,12 @@ msgstr "망령 로시"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_249, REC: MESG:FULL
 msgctxt "00097F"
 msgid "Captain Kamal"
-msgstr "카말 선장"
+msgstr "선장 카말"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_248, REC: MESG:FULL
 msgctxt "000980"
 msgid "Sheriff Omobowale"
-msgstr "오모보왈레 보안관"
+msgstr "보안관 오모보왈레"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_208, REC: MESG:FULL
 msgctxt "000981"
@@ -2585,22 +2585,22 @@ msgstr "애연가 오마리"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_158, REC: MESG:FULL
 msgctxt "0009A9"
 msgid "Atlas the Mess"
-msgstr ""
+msgstr "난장판 아틀라스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_157, REC: MESG:FULL
 msgctxt "0009AA"
 msgid "Rocky the Upgrade"
-msgstr ""
+msgstr "격상하는 록키"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_156, REC: MESG:FULL
 msgctxt "0009AB"
 msgid "Sol the Blessed"
-msgstr ""
+msgstr "축복받은 솔"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_155, REC: MESG:FULL
 msgctxt "0009AC"
 msgid "Morgan the Broke"
-msgstr ""
+msgstr "빈털터리 모건"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_154, REC: MESG:FULL
 msgctxt "0009AD"
@@ -2620,12 +2620,12 @@ msgstr "젠야 \"익살꾼\" 프라이스"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_151, REC: MESG:FULL
 msgctxt "0009B0"
 msgid "Sol the Viper"
-msgstr ""
+msgstr "독사 솔"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_180, REC: MESG:FULL
 msgctxt "0009B1"
 msgid "Grizzly King"
-msgstr ""
+msgstr "회색곰 킹"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_179, REC: MESG:FULL
 msgctxt "0009B2"
@@ -2665,22 +2665,22 @@ msgstr "코다 \"칠흑도\" 카버"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_172, REC: MESG:FULL
 msgctxt "0009B9"
 msgid "Lieutenant Kowalski"
-msgstr ""
+msgstr "대위 코왈스키"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_171, REC: MESG:FULL
 msgctxt "0009BA"
 msgid "Captain Nowak"
-msgstr "노왁 선장"
+msgstr "선장 노박"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_170, REC: MESG:FULL
 msgctxt "0009BB"
 msgid "Rocio the Snitch"
-msgstr ""
+msgstr "고자질쟁이 로시오"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_169, REC: MESG:FULL
 msgctxt "0009BC"
 msgid "Lupe the Hawk"
-msgstr ""
+msgstr "참매 뤼페"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_168, REC: MESG:FULL
 msgctxt "0009BD"
@@ -2690,7 +2690,7 @@ msgstr "늙은 개 프랜"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_167, REC: MESG:FULL
 msgctxt "0009BE"
 msgid "Angel the Usurper"
-msgstr ""
+msgstr "강탈자 에인절"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_123, REC: MESG:FULL
 msgctxt "0009BF"
@@ -2700,42 +2700,42 @@ msgstr "렌 \"최면술사\" 피에트르자크"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_195, REC: MESG:FULL
 msgctxt "0009C0"
 msgid "Big O'Neill"
-msgstr ""
+msgstr "거구 오닐"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_194, REC: MESG:FULL
 msgctxt "0009C1"
 msgid "Trusty Walsh"
-msgstr ""
+msgstr "모범수 월시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_193, REC: MESG:FULL
 msgctxt "0009C2"
 msgid "Lying Moore"
-msgstr ""
+msgstr "거짓말하는 무어"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_192, REC: MESG:FULL
 msgctxt "0009C3"
 msgid "Ugly Fisher"
-msgstr ""
+msgstr "추악한 피셔"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_191, REC: MESG:FULL
 msgctxt "0009C4"
 msgid "Navigator Carpenter"
-msgstr ""
+msgstr "항해사 카펜터"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_190, REC: MESG:FULL
 msgctxt "0009C5"
 msgid "Nobody Kamal"
-msgstr ""
+msgstr "하찮은 카말"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_201, REC: MESG:FULL
 msgctxt "0009C6"
 msgid "Sleepy Stanton"
-msgstr ""
+msgstr "잠꾸러기 스탠턴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_159, REC: MESG:FULL
 msgctxt "0009C7"
 msgid "Lamisi the Broken"
-msgstr ""
+msgstr "끝장난 라미시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_146, REC: MESG:FULL
 msgctxt "0009C8"
@@ -2775,7 +2775,7 @@ msgstr "벨라미 \"대박\" 스타세비치"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_166, REC: MESG:FULL
 msgctxt "0009CF"
 msgid "Kieran the Knockout"
-msgstr ""
+msgstr "재기불능 키어런"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_122, REC: MESG:FULL
 msgctxt "0009D0"
@@ -2785,22 +2785,22 @@ msgstr "블레이크 \"굉음\" 얀코프스키"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_121, REC: MESG:FULL
 msgctxt "0009D1"
 msgid "Sleepy Price"
-msgstr ""
+msgstr "잠꾸러기 프라이스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_150, REC: MESG:FULL
 msgctxt "0009D2"
 msgid "Carter the Silent"
-msgstr ""
+msgstr "침묵하는 카터"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_149, REC: MESG:FULL
 msgctxt "0009D3"
 msgid "Ridley the Cruel"
-msgstr ""
+msgstr "잔혹한 리들리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_148, REC: MESG:FULL
 msgctxt "0009D4"
 msgid "Kit the Wraith"
-msgstr ""
+msgstr "망령 키트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_147, REC: MESG:FULL
 msgctxt "0009D5"
@@ -2830,7 +2830,7 @@ msgstr "거머리 젠야"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_142, REC: MESG:FULL
 msgctxt "0009DA"
 msgid "Peja the King"
-msgstr ""
+msgstr "군왕 페야"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_141, REC: MESG:FULL
 msgctxt "0009DB"
@@ -2855,17 +2855,17 @@ msgstr "바샤 \"아홉 목숨\" 스미스"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_137, REC: MESG:FULL
 msgctxt "0009DF"
 msgid "Sasha \"Fireball\" Adams"
-msgstr "사샤 \"화염탄\" 아담스"
+msgstr "사샤 \"화염탄\" 애덤스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_152, REC: MESG:FULL
 msgctxt "0009E0"
 msgid "Walker the Fiend"
-msgstr ""
+msgstr "악귀 워커"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_165, REC: MESG:FULL
 msgctxt "0009E1"
 msgid "Sullivan the Kingslayer"
-msgstr ""
+msgstr "왕살자 설리번"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_164, REC: MESG:FULL
 msgctxt "0009E2"
@@ -2875,7 +2875,7 @@ msgstr "두뇌파 아리엘"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_163, REC: MESG:FULL
 msgctxt "0009E3"
 msgid "Winter the Liar"
-msgstr ""
+msgstr "거짓말쟁이 윈터"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_162, REC: MESG:FULL
 msgctxt "0009E4"
@@ -2885,7 +2885,7 @@ msgstr "늙은 해병 애셔"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_161, REC: MESG:FULL
 msgctxt "0009E5"
 msgid "Beck the Filthy"
-msgstr ""
+msgstr "추잡한 벡"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_130, REC: MESG:FULL
 msgctxt "0009E6"
@@ -2895,7 +2895,7 @@ msgstr "핀리 \"유구무언\" 파커"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_243, REC: MESG:FULL
 msgctxt "0009E7"
 msgid "Sinn Dara"
-msgstr ""
+msgstr "신 다라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_101, REC: MESG:FULL
 msgctxt "0009E8"
@@ -2905,7 +2905,7 @@ msgstr "망원안 보이즈"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_100, REC: MESG:FULL
 msgctxt "0009E9"
 msgid "Grizzly Conroy"
-msgstr ""
+msgstr "회색곰 콘로이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_99, REC: MESG:FULL
 msgctxt "0009EA"
@@ -2915,7 +2915,7 @@ msgstr "늙은 해병 타키크"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_98, REC: MESG:FULL
 msgctxt "0009EB"
 msgid "Olsen the Filthy"
-msgstr ""
+msgstr "추잡한 올슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_97, REC: MESG:FULL
 msgctxt "0009EC"
@@ -2935,22 +2935,22 @@ msgstr "버림받은 장"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_94, REC: MESG:FULL
 msgctxt "0009EF"
 msgid "Saetang the Mess"
-msgstr ""
+msgstr "난장판 새탕"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_93, REC: MESG:FULL
 msgctxt "0009F0"
 msgid "Kontos the Upgrade"
-msgstr ""
+msgstr "격상하는 콘토스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_92, REC: MESG:FULL
 msgctxt "0009F1"
 msgid "Papoutsis the Blessed"
-msgstr ""
+msgstr "축복받은 파푸트시스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_91, REC: MESG:FULL
 msgctxt "0009F2"
 msgid "Girard the Broke"
-msgstr ""
+msgstr "빈털터리 지라르"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_120, REC: MESG:FULL
 msgctxt "0009F3"
@@ -2980,32 +2980,32 @@ msgstr "교정된 아마로스"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_115, REC: MESG:FULL
 msgctxt "0009F8"
 msgid "Big Ramos"
-msgstr ""
+msgstr "거구 라모스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_114, REC: MESG:FULL
 msgctxt "0009F9"
 msgid "Trusty Romero"
-msgstr ""
+msgstr "모범수 로메로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_113, REC: MESG:FULL
 msgctxt "0009FA"
 msgid "Lying Kerry"
-msgstr ""
+msgstr "거짓말하는 케리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_112, REC: MESG:FULL
 msgctxt "0009FB"
 msgid "Ugly O'Neill"
-msgstr ""
+msgstr "추악한 오닐"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_111, REC: MESG:FULL
 msgctxt "0009FC"
 msgid "Navigator Walsh"
-msgstr ""
+msgstr "항해사 월시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_110, REC: MESG:FULL
 msgctxt "0009FD"
 msgid "Nobody Moore"
-msgstr ""
+msgstr "하찮은 무어"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_66, REC: MESG:FULL
 msgctxt "0009FE"
@@ -3050,12 +3050,12 @@ msgstr "꼬맹이 오카시오"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_05, REC: MESG:FULL
 msgctxt "000A06"
 msgid "Rocio Underwood"
-msgstr ""
+msgstr "로시오 언더우드"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_33, REC: MESG:FULL
 msgctxt "000A07"
 msgid "Ranger Song"
-msgstr ""
+msgstr "레인저 송"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_72, REC: MESG:FULL
 msgctxt "000A08"
@@ -3090,7 +3090,7 @@ msgstr "코스모 \"비장의 카드\" 코바야시"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_109, REC: MESG:FULL
 msgctxt "000A0E"
 msgid "Sheriff Carpenter"
-msgstr "카펜터 보안관"
+msgstr "보안관 카펜터"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_65, REC: MESG:FULL
 msgctxt "000A0F"
@@ -3130,32 +3130,32 @@ msgstr "애쉬 \"봉합침\" 프티"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_88, REC: MESG:FULL
 msgctxt "000A16"
 msgid "Mercier the Fiend"
-msgstr ""
+msgstr "악귀 메르시에"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_87, REC: MESG:FULL
 msgctxt "000A17"
 msgid "Dubois the Viper"
-msgstr ""
+msgstr "독사 뒤부아"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_86, REC: MESG:FULL
 msgctxt "000A18"
 msgid "Padilla the Silent"
-msgstr ""
+msgstr "침묵하는 파딜라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_85, REC: MESG:FULL
 msgctxt "000A19"
 msgid "Quan the Hidden"
-msgstr ""
+msgstr "은신하는 콴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_84, REC: MESG:FULL
 msgctxt "000A1A"
 msgid "Dara the Cruel"
-msgstr ""
+msgstr "잔혹한 다라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_83, REC: MESG:FULL
 msgctxt "000A1B"
 msgid "Fujita the Wraith"
-msgstr ""
+msgstr "망령 후지타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_82, REC: MESG:FULL
 msgctxt "000A1C"
@@ -3170,12 +3170,12 @@ msgstr "이교도 송"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_80, REC: MESG:FULL
 msgctxt "000A1E"
 msgid "Yu the Shadow"
-msgstr ""
+msgstr "그림자 유"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_95, REC: MESG:FULL
 msgctxt "000A1F"
 msgid "Schmidt the Broken"
-msgstr ""
+msgstr "끝장난 슈미트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_78, REC: MESG:FULL
 msgctxt "000A20"
@@ -3185,7 +3185,7 @@ msgstr "거머리 인드라"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_77, REC: MESG:FULL
 msgctxt "000A21"
 msgid "Suri the King"
-msgstr ""
+msgstr "군왕 수리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_76, REC: MESG:FULL
 msgctxt "000A22"
@@ -3210,42 +3210,42 @@ msgstr "행운아 이브라힘"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_242, REC: MESG:FULL
 msgctxt "000A26"
 msgid "Binh Quan"
-msgstr ""
+msgstr "빈 콴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_18, REC: MESG:FULL
 msgctxt "000A27"
 msgid "Ranger Miller"
-msgstr ""
+msgstr "레인저 밀러"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_47, REC: MESG:FULL
 msgctxt "000A28"
 msgid "Ugly Schmidt"
-msgstr ""
+msgstr "추악한 슈미트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_46, REC: MESG:FULL
 msgctxt "000A29"
 msgid "Navigator Saetang"
-msgstr ""
+msgstr "항해사 새탕"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_45, REC: MESG:FULL
 msgctxt "000A2A"
 msgid "Nobody Kontos"
-msgstr ""
+msgstr "하찮은 콘토스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_44, REC: MESG:FULL
 msgctxt "000A2B"
 msgid "General Papoutsis"
-msgstr ""
+msgstr "장군 파푸트시스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_43, REC: MESG:FULL
 msgctxt "000A2C"
 msgid "Sheriff Girard"
-msgstr "지라르 보안관"
+msgstr "보안관 지라르"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_26, REC: MESG:FULL
 msgctxt "000A2D"
 msgid "Heretic Giri"
-msgstr ""
+msgstr "이단자 기리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_41, REC: MESG:FULL
 msgctxt "000A2E"
@@ -3285,12 +3285,12 @@ msgstr "망원안 후지타"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_34, REC: MESG:FULL
 msgctxt "000A35"
 msgid "Grizzly Okada"
-msgstr ""
+msgstr "회색곰 오카다"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_185, REC: MESG:FULL
 msgctxt "000A36"
 msgid "Pedro Flores"
-msgstr ""
+msgstr "페드로 플로레스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_60, REC: MESG:FULL
 msgctxt "000A37"
@@ -3345,17 +3345,17 @@ msgstr "꼬맹이 타키크"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_50, REC: MESG:FULL
 msgctxt "000A41"
 msgid "Big Olsen"
-msgstr ""
+msgstr "거구 올슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_49, REC: MESG:FULL
 msgctxt "000A42"
 msgid "Trusty Virtanen"
-msgstr ""
+msgstr "모범수 비르타넨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_48, REC: MESG:FULL
 msgctxt "000A43"
 msgid "Lying Weber"
-msgstr ""
+msgstr "거짓말하는 웨버"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_89, REC: MESG:FULL
 msgctxt "000A44"
@@ -3375,17 +3375,17 @@ msgstr "도살자 브라운"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_241, REC: MESG:FULL
 msgctxt "000A47"
 msgid "Oscar Padilla"
-msgstr ""
+msgstr "오스카 파딜라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_240, REC: MESG:FULL
 msgctxt "000A48"
 msgid "Etienne Dubois"
-msgstr ""
+msgstr "에티엔 뒤부아"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_17, REC: MESG:FULL
 msgctxt "000A49"
 msgid "Cameron the Ghost"
-msgstr ""
+msgstr "유령 카메론"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_16, REC: MESG:FULL
 msgctxt "000A4A"
@@ -3395,7 +3395,7 @@ msgstr "운 좋은 에즈라"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_15, REC: MESG:FULL
 msgctxt "000A4B"
 msgid "Bowie the Hidden"
-msgstr ""
+msgstr "은신하는 보위"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_14, REC: MESG:FULL
 msgctxt "000A4C"
@@ -3410,17 +3410,17 @@ msgstr "심판자 세이건"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_12, REC: MESG:FULL
 msgctxt "000A4E"
 msgid "Junior Cole"
-msgstr ""
+msgstr "하급사원 콜"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_11, REC: MESG:FULL
 msgctxt "000A4F"
 msgid "General Fisher"
-msgstr ""
+msgstr "장군 피셔"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_10, REC: MESG:FULL
 msgctxt "000A50"
 msgid "Ranger Goodwin"
-msgstr ""
+msgstr "레인저 굿윈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_09, REC: MESG:FULL
 msgctxt "000A51"
@@ -3440,7 +3440,7 @@ msgstr "음침한 밀러"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_20, REC: MESG:FULL
 msgctxt "000A54"
 msgid "Junior Moreno"
-msgstr ""
+msgstr "하급사원 모레노"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_117, REC: MESG:FULL
 msgctxt "000A55"
@@ -3455,7 +3455,7 @@ msgstr "수장 존슨"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_03, REC: MESG:FULL
 msgctxt "000A57"
 msgid "Heretic Smith"
-msgstr ""
+msgstr "이단자 스미스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_32, REC: MESG:FULL
 msgctxt "000A58"
@@ -3495,22 +3495,22 @@ msgstr "애연가 모로"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_25, REC: MESG:FULL
 msgctxt "000A5F"
 msgid "Lieutenant Sahu"
-msgstr ""
+msgstr "대위 사후"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_24, REC: MESG:FULL
 msgctxt "000A60"
 msgid "Grizzly Shepherd"
-msgstr ""
+msgstr "회색곰 셰퍼드"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_23, REC: MESG:FULL
 msgctxt "000A61"
 msgid "Ivanova the Fiend"
-msgstr ""
+msgstr "악귀 이바노바"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_22, REC: MESG:FULL
 msgctxt "000A62"
 msgid "Robinson the King"
-msgstr ""
+msgstr "군왕 로빈슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_21, REC: MESG:FULL
 msgctxt "000A63"
@@ -3530,193 +3530,193 @@ msgstr "망원안 굿윈"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_213, REC: MESG:FULL
 msgctxt "000A66"
 msgid "Olek Pietrzak"
-msgstr ""
+msgstr "올렉 피에트르자크"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_212, REC: MESG:FULL
 msgctxt "000A67"
 msgid "Andrey Stasevich"
-msgstr ""
+msgstr "안드레이 스타세비치"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_211, REC: MESG:FULL
 msgctxt "000A68"
 msgid "Vasily Denisovich"
-msgstr ""
+msgstr "바실리 데니소비치"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_210, REC: MESG:FULL
 msgctxt "000A69"
 msgid "Anton Lebedev"
-msgstr ""
+msgstr "안톤 레베데프"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_239, REC: MESG:FULL
 msgctxt "000A6A"
 msgid "Louis Martin"
-msgstr ""
+msgstr "루이스 마틴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_238, REC: MESG:FULL
 msgctxt "000A6B"
 msgid "Alain Moreau"
-msgstr ""
+msgstr "알랭 모로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_221, REC: MESG:FULL
 msgctxt "000A6C"
 msgid "Eric Baker"
-msgstr ""
+msgstr "에릭 베이커"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_236, REC: MESG:FULL
 msgctxt "000A6D"
 msgid "Georgios Papoutsis"
-msgstr ""
+msgstr "요르요스 파푸트시스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_235, REC: MESG:FULL
 msgctxt "000A6E"
 msgid "Dimitrios Kontos"
-msgstr ""
+msgstr "디미트리오스 콘토스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_234, REC: MESG:FULL
 msgctxt "000A6F"
 msgid "Krit Saetang"
-msgstr ""
+msgstr "크릿 새탕"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_233, REC: MESG:FULL
 msgctxt "000A70"
 msgid "Matthias Schmidt"
-msgstr ""
+msgstr "마티아스 슈미트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_232, REC: MESG:FULL
 msgctxt "000A71"
 msgid "Johann Weber"
-msgstr ""
+msgstr "요한 웨버"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_231, REC: MESG:FULL
 msgctxt "000A72"
 msgid "Jarkko Virtanen"
-msgstr ""
+msgstr "야르코 비르타넨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_230, REC: MESG:FULL
 msgctxt "000A73"
 msgid "Kasper Olsen"
-msgstr ""
+msgstr "카스퍼 올슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_142, REC: MESG:FULL
 msgctxt "000A74"
 msgid "Johann Meyer"
-msgstr ""
+msgstr "요한 마이어"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_214, REC: MESG:FULL
 msgctxt "000A75"
 msgid "Gerek Jankowski"
-msgstr ""
+msgstr "게렉 얀코프스키"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_227, REC: MESG:FULL
 msgctxt "000A76"
 msgid "Philip Taylor"
-msgstr ""
+msgstr "필립 테일러"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_226, REC: MESG:FULL
 msgctxt "000A77"
 msgid "Randell Wilson"
-msgstr ""
+msgstr "랜델 윌슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_225, REC: MESG:FULL
 msgctxt "000A78"
 msgid "Humphrey Milton"
-msgstr ""
+msgstr "험프리 밀턴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_02, REC: MESG:FULL
 msgctxt "000A79"
 msgid "Lieutenant Petrov"
-msgstr ""
+msgstr "대위 페트로프"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_01, REC: MESG:FULL
 msgctxt "000A7A"
 msgid "Captain Sokolov"
-msgstr "소콜로프 선장"
+msgstr "선장 소콜로프"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Faction_CrimsonFleet_00, REC:
 # MESG:FULL
 msgctxt "000A7B"
 msgid "Mad Bennet"
-msgstr ""
+msgstr "미친 베넷"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_207, REC: MESG:FULL
 msgctxt "000A7C"
 msgid "Andrew Hernandez"
-msgstr ""
+msgstr "앤드루 에르난데스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Faction_Varuun_00, REC: MESG:FULL
 msgctxt "000A7D"
 msgid "Heretic"
-msgstr ""
+msgstr "이단자"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_249, REC: MESG:FULL
 msgctxt "000A7E"
 msgid "Suparman Indra"
-msgstr ""
+msgstr "수파르만 인드라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_248, REC: MESG:FULL
 msgctxt "000A7F"
 msgid "Ming Zhang"
-msgstr ""
+msgstr "밍 장"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_247, REC: MESG:FULL
 msgctxt "000A80"
 msgid "Jin Yu"
-msgstr ""
+msgstr "진 유"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_246, REC: MESG:FULL
 msgctxt "000A81"
 msgid "Saenu Song"
-msgstr ""
+msgstr "사이누 송"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_245, REC: MESG:FULL
 msgctxt "000A82"
 msgid "Yoshiro Okada"
-msgstr ""
+msgstr "요시로 오카다"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_228, REC: MESG:FULL
 msgctxt "000A83"
 msgid "Marcos Batista"
-msgstr ""
+msgstr "마르코스 바티스타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_186, REC: MESG:FULL
 msgctxt "000A84"
 msgid "Miguel Jacobs"
-msgstr ""
+msgstr "미구엘 제이콥스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_170, REC: MESG:FULL
 msgctxt "000A85"
 msgid "Lester Yarbrough"
-msgstr ""
+msgstr "레스터 야브로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_183, REC: MESG:FULL
 msgctxt "000A86"
 msgid "Clarence Bell"
-msgstr ""
+msgstr "클래런스 벨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_182, REC: MESG:FULL
 msgctxt "000A87"
 msgid "Wayne Turner"
-msgstr ""
+msgstr "웨인 터너"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_181, REC: MESG:FULL
 msgctxt "000A88"
 msgid "Beau Cassidy"
-msgstr ""
+msgstr "보 캐시디"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_180, REC: MESG:FULL
 msgctxt "000A89"
 msgid "Ernest Starr"
-msgstr ""
+msgstr "어니스트 스타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_209, REC: MESG:FULL
 msgctxt "000A8A"
 msgid "Jason Lopez"
-msgstr ""
+msgstr "제이슨 로페즈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_208, REC: MESG:FULL
 msgctxt "000A8B"
 msgid "Caleb Jackson"
-msgstr ""
+msgstr "케일럽 잭슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Faction_Ecliptic_00, REC:
 # MESG:FULL
@@ -3727,112 +3727,112 @@ msgstr "선장"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_206, REC: MESG:FULL
 msgctxt "000A8D"
 msgid "Darnell Parker"
-msgstr ""
+msgstr "다넬 파커"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_205, REC: MESG:FULL
 msgctxt "000A8E"
 msgid "Elijah Carver"
-msgstr ""
+msgstr "일라이저 카버"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_204, REC: MESG:FULL
 msgctxt "000A8F"
 msgid "Emmett Anderson"
-msgstr ""
+msgstr "에밋 앤더슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_203, REC: MESG:FULL
 msgctxt "000A90"
 msgid "Wyatt Cohen"
-msgstr ""
+msgstr "와이엇 코헨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_202, REC: MESG:FULL
 msgctxt "000A91"
 msgid "Jim Silverman"
-msgstr ""
+msgstr "짐 실버만"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_201, REC: MESG:FULL
 msgctxt "000A92"
 msgid "Bill Schwartz"
-msgstr ""
+msgstr "빌 슈바르츠"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_184, REC: MESG:FULL
 msgctxt "000A93"
 msgid "Isaiah Parker"
-msgstr ""
+msgstr "아이제아 파커"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_199, REC: MESG:FULL
 msgctxt "000A94"
 msgid "Tyrese Smith"
-msgstr ""
+msgstr "타이레스 스미스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_198, REC: MESG:FULL
 msgctxt "000A95"
 msgid "Colton Jones"
-msgstr ""
+msgstr "콜턴 존스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_197, REC: MESG:FULL
 msgctxt "000A96"
 msgid "Jojo Bekele"
-msgstr ""
+msgstr "죠죠 베켈레"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_196, REC: MESG:FULL
 msgctxt "000A97"
 msgid "Benjamin Ngoma"
-msgstr ""
+msgstr "벤자민 응고마"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_195, REC: MESG:FULL
 msgctxt "000A98"
 msgid "Oshi Bashir"
-msgstr ""
+msgstr "오시 바시르"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_224, REC: MESG:FULL
 msgctxt "000A99"
 msgid "Owen Evans"
-msgstr ""
+msgstr "오웬 에반스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_223, REC: MESG:FULL
 msgctxt "000A9A"
 msgid "Nathan Walker"
-msgstr ""
+msgstr "네이선 워커"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_222, REC: MESG:FULL
 msgctxt "000A9B"
 msgid "Paul Smith"
-msgstr ""
+msgstr "폴 스미스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_237, REC: MESG:FULL
 msgctxt "000A9C"
 msgid "Victoire Girard"
-msgstr ""
+msgstr "빅투아르 지라르"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_220, REC: MESG:FULL
 msgctxt "000A9D"
 msgid "Danny Wigglesworth"
-msgstr ""
+msgstr "대니 위글스워스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_219, REC: MESG:FULL
 msgctxt "000A9E"
 msgid "Rory Murphy"
-msgstr ""
+msgstr "로리 머피"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_218, REC: MESG:FULL
 msgctxt "000A9F"
 msgid "Callum Campbell"
-msgstr ""
+msgstr "캘럼 캠벨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_217, REC: MESG:FULL
 msgctxt "000AA0"
 msgid "Luca Esposito"
-msgstr ""
+msgstr "루카 에스포지토"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_216, REC: MESG:FULL
 msgctxt "000AA1"
 msgid "Antonio Bianchi"
-msgstr ""
+msgstr "안토니오 비앙키"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_42, REC: MESG:FULL
 msgctxt "000AA2"
 msgid "Gideon Lawson"
-msgstr ""
+msgstr "기디언 로슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_75, REC: MESG:FULL
 msgctxt "000AA3"
@@ -3842,647 +3842,647 @@ msgstr "시꺼먼 파탄"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_155, REC: MESG:FULL
 msgctxt "000AA4"
 msgid "Yoshiro Matsura"
-msgstr ""
+msgstr "요시로 마츠라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_154, REC: MESG:FULL
 msgctxt "000AA5"
 msgid "Midori Kobayashi"
-msgstr ""
+msgstr "미도리 코바야시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_153, REC: MESG:FULL
 msgctxt "000AA6"
 msgid "Sinn Lim"
-msgstr ""
+msgstr "신 임"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_152, REC: MESG:FULL
 msgctxt "000AA7"
 msgid "Binh Phan"
-msgstr ""
+msgstr "빈 판"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_151, REC: MESG:FULL
 msgctxt "000AA8"
 msgid "Oscar Chan"
-msgstr ""
+msgstr "오스카 챈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_150, REC: MESG:FULL
 msgctxt "000AA9"
 msgid "Etienne Robert"
-msgstr ""
+msgstr "에티엔 로버트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_163, REC: MESG:FULL
 msgctxt "000AAA"
 msgid "Nikhil Giri"
-msgstr ""
+msgstr "니킬 기리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_178, REC: MESG:FULL
 msgctxt "000AAB"
 msgid "Wesley Miller"
-msgstr ""
+msgstr "웨슬리 밀러"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_177, REC: MESG:FULL
 msgctxt "000AAC"
 msgid "Arthur Dalton"
-msgstr ""
+msgstr "아서 달튼"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_176, REC: MESG:FULL
 msgctxt "000AAD"
 msgid "Hoyt Jackson"
-msgstr ""
+msgstr "호이트 잭슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_175, REC: MESG:FULL
 msgctxt "000AAE"
 msgid "Gideon Pickett"
-msgstr ""
+msgstr "기디언 피켓"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_174, REC: MESG:FULL
 msgctxt "000AAF"
 msgid "Ulysses St. Leon"
-msgstr ""
+msgstr "율리시스 세인트 레온"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_173, REC: MESG:FULL
 msgctxt "000AB0"
 msgid "Amos Tilghman"
-msgstr ""
+msgstr "에이머스 틸만"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_172, REC: MESG:FULL
 msgctxt "000AB1"
 msgid "Grover Marlow"
-msgstr ""
+msgstr "그로버 말로우"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_171, REC: MESG:FULL
 msgctxt "000AB2"
 msgid "Vernon Ford"
-msgstr ""
+msgstr "버논 포드"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_244, REC: MESG:FULL
 msgctxt "000AB3"
 msgid "Midori Fujita"
-msgstr ""
+msgstr "미도리 후지타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_169, REC: MESG:FULL
 msgctxt "000AB4"
 msgid "David Silverman"
-msgstr ""
+msgstr "데이비드 실버만"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_168, REC: MESG:FULL
 msgctxt "000AB5"
 msgid "Isaac Jacobs"
-msgstr ""
+msgstr "아이작 제이콥스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_167, REC: MESG:FULL
 msgctxt "000AB6"
 msgid "Melvin Miller"
-msgstr ""
+msgstr "멜빈 밀러"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_166, REC: MESG:FULL
 msgctxt "000AB7"
 msgid "Arjun Sahu"
-msgstr ""
+msgstr "아준 사후"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_165, REC: MESG:FULL
 msgctxt "000AB8"
 msgid "Ramesh Khan"
-msgstr ""
+msgstr "라메시 칸"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_194, REC: MESG:FULL
 msgctxt "000AB9"
 msgid "Shadrach Abott"
-msgstr ""
+msgstr "사드락 애보트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_120, REC: MESG:FULL
 msgctxt "000ABA"
 msgid "Anton Papoutsis"
-msgstr ""
+msgstr "안톤 파푸트시스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_192, REC: MESG:FULL
 msgctxt "000ABB"
 msgid "Jonah Flynn"
-msgstr ""
+msgstr "조나 플린"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_191, REC: MESG:FULL
 msgctxt "000ABC"
 msgid "Silas Fitzpatrick"
-msgstr ""
+msgstr "사일러스 피츠패트릭"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_190, REC: MESG:FULL
 msgctxt "000ABD"
 msgid "Caleb O'Keeffe"
-msgstr ""
+msgstr "케일럽 오키프"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_189, REC: MESG:FULL
 msgctxt "000ABE"
 msgid "Alejandro Hernandez"
-msgstr ""
+msgstr "알레한드로 에르난데스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_188, REC: MESG:FULL
 msgctxt "000ABF"
 msgid "Felipe Lopez"
-msgstr ""
+msgstr "펠리페 로페즈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_187, REC: MESG:FULL
 msgctxt "000AC0"
 msgid "Juan Smith"
-msgstr ""
+msgstr "후안 스미스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_200, REC: MESG:FULL
 msgctxt "000AC1"
 msgid "Harvey Pryce"
-msgstr ""
+msgstr "하비 프라이스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_156, REC: MESG:FULL
 msgctxt "000AC2"
 msgid "Saenu Ahn"
-msgstr ""
+msgstr "사이누 안"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_143, REC: MESG:FULL
 msgctxt "000AC3"
 msgid "Matthias Fischer"
-msgstr ""
+msgstr "마티아스 피셔"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_126, REC: MESG:FULL
 msgctxt "000AC4"
 msgid "Antonio Padilla"
-msgstr ""
+msgstr "안토니오 파딜라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_125, REC: MESG:FULL
 msgctxt "000AC5"
 msgid "Riccardo Dubois"
-msgstr ""
+msgstr "리카르도 뒤부아"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_124, REC: MESG:FULL
 msgctxt "000AC6"
 msgid "Gerek Mercier"
-msgstr ""
+msgstr "게렉 메르시에"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_123, REC: MESG:FULL
 msgctxt "000AC7"
 msgid "Olek Martin"
-msgstr ""
+msgstr "올렉 마틴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_122, REC: MESG:FULL
 msgctxt "000AC8"
 msgid "Andrey Moreau"
-msgstr ""
+msgstr "안드레이 모로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_121, REC: MESG:FULL
 msgctxt "000AC9"
 msgid "Vasily Girard"
-msgstr ""
+msgstr "바실리 지라르"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_193, REC: MESG:FULL
 msgctxt "000ACA"
 msgid "Micah Doolittle"
-msgstr ""
+msgstr "마이카 둘리틀"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_149, REC: MESG:FULL
 msgctxt "000ACB"
 msgid "Louis Petit"
-msgstr ""
+msgstr "루이스 프티"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_148, REC: MESG:FULL
 msgctxt "000ACC"
 msgid "Alain Dupont"
-msgstr ""
+msgstr "알랭 뒤퐁"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_147, REC: MESG:FULL
 msgctxt "000ACD"
 msgid "Victoire Bonnet"
-msgstr ""
+msgstr "빅투아르 보닛"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_146, REC: MESG:FULL
 msgctxt "000ACE"
 msgid "Georgios Samaras"
-msgstr ""
+msgstr "요르요스 사마라스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_145, REC: MESG:FULL
 msgctxt "000ACF"
 msgid "Dimitrios Koufos"
-msgstr ""
+msgstr "디미트리오스 쿠포스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_144, REC: MESG:FULL
 msgctxt "000AD0"
 msgid "Krit Kaya"
-msgstr ""
+msgstr "크릿 카야"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_99, REC: MESG:FULL
 msgctxt "000AD1"
 msgid "Philip Palmer"
-msgstr ""
+msgstr "필립 팔머"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_229, REC: MESG:FULL
 msgctxt "000AD2"
 msgid "Gael Silva"
-msgstr ""
+msgstr "게일 실바"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_141, REC: MESG:FULL
 msgctxt "000AD3"
 msgid "Jarkko Laine"
-msgstr ""
+msgstr "야르코 레인"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_140, REC: MESG:FULL
 msgctxt "000AD4"
 msgid "Kasper Haugen"
-msgstr ""
+msgstr "카스퍼 호건"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_139, REC: MESG:FULL
 msgctxt "000AD5"
 msgid "Gael Alonso"
-msgstr ""
+msgstr "게일 알론소"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_138, REC: MESG:FULL
 msgctxt "000AD6"
 msgid "Marcos Gomes"
-msgstr ""
+msgstr "마르코스 고메스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_137, REC: MESG:FULL
 msgctxt "000AD7"
 msgid "Philip Giri"
-msgstr ""
+msgstr "필립 기리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_136, REC: MESG:FULL
 msgctxt "000AD8"
 msgid "Randell Pathan"
-msgstr ""
+msgstr "랜델 파탄"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_135, REC: MESG:FULL
 msgctxt "000AD9"
 msgid "Humphrey Roy"
-msgstr ""
+msgstr "험프리 로이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_164, REC: MESG:FULL
 msgctxt "000ADA"
 msgid "Manoj Choudhary"
-msgstr ""
+msgstr "마노즈 초드하리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_179, REC: MESG:FULL
 msgctxt "000ADB"
 msgid "Woodrow Doolin"
-msgstr ""
+msgstr "우드로 둘린"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_162, REC: MESG:FULL
 msgctxt "000ADC"
 msgid "Samik Pathan"
-msgstr ""
+msgstr "사믹 파탄"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_161, REC: MESG:FULL
 msgctxt "000ADD"
 msgid "Aarav Sahu"
-msgstr ""
+msgstr "아라브 사후"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_160, REC: MESG:FULL
 msgctxt "000ADE"
 msgid "Pamir Singh"
-msgstr ""
+msgstr "파미르 싱"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_159, REC: MESG:FULL
 msgctxt "000ADF"
 msgid "Suparman Agung"
-msgstr ""
+msgstr "수파르만 아궁"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_158, REC: MESG:FULL
 msgctxt "000AE0"
 msgid "Ming Wang"
-msgstr ""
+msgstr "밍 왕"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_127, REC: MESG:FULL
 msgctxt "000AE1"
 msgid "Luca Quan"
-msgstr ""
+msgstr "루카 콴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_128, REC: MESG:FULL
 msgctxt "000AE2"
 msgid "Callum Dara"
-msgstr ""
+msgstr "캘럼 다라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_98, REC: MESG:FULL
 msgctxt "000AE3"
 msgid "Randell Stuart"
-msgstr ""
+msgstr "랜델 스튜어트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_97, REC: MESG:FULL
 msgctxt "000AE4"
 msgid "Humphrey Chambers"
-msgstr ""
+msgstr "험프리 체임버스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_96, REC: MESG:FULL
 msgctxt "000AE5"
 msgid "Owen Edison"
-msgstr ""
+msgstr "오웬 에디슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_95, REC: MESG:FULL
 msgctxt "000AE6"
 msgid "Nathan Allen"
-msgstr ""
+msgstr "네이선 앨런"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_94, REC: MESG:FULL
 msgctxt "000AE7"
 msgid "Paul Robinson"
-msgstr ""
+msgstr "폴 로빈슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_93, REC: MESG:FULL
 msgctxt "000AE8"
 msgid "Eric Donoghue"
-msgstr ""
+msgstr "에릭 도노휴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_76, REC: MESG:FULL
 msgctxt "000AE9"
 msgid "Darnell Miller"
-msgstr ""
+msgstr "다넬 밀러"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_91, REC: MESG:FULL
 msgctxt "000AEA"
 msgid "Mickey Daniels"
-msgstr ""
+msgstr "미키 대니얼스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_90, REC: MESG:FULL
 msgctxt "000AEB"
 msgid "Rory O'Berne"
-msgstr ""
+msgstr "로리 오베른"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_119, REC: MESG:FULL
 msgctxt "000AEC"
 msgid "Jason Saetang"
-msgstr ""
+msgstr "제이슨 새탕"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_118, REC: MESG:FULL
 msgctxt "000AED"
 msgid "Caleb Schmidt"
-msgstr ""
+msgstr "케일럽 슈미트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_117, REC: MESG:FULL
 msgctxt "000AEE"
 msgid "Andrew Weber"
-msgstr ""
+msgstr "앤드루 웨버"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_116, REC: MESG:FULL
 msgctxt "000AEF"
 msgid "Darnell Virtanen"
-msgstr ""
+msgstr "다넬 비르타넨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_115, REC: MESG:FULL
 msgctxt "000AF0"
 msgid "Elijah Olsen"
-msgstr ""
+msgstr "일라이저 올슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_28, REC: MESG:FULL
 msgctxt "000AF1"
 msgid "Samik Giri"
-msgstr ""
+msgstr "사믹 기리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_157, REC: MESG:FULL
 msgctxt "000AF2"
 msgid "Jin Liu"
-msgstr ""
+msgstr "진 리우"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_112, REC: MESG:FULL
 msgctxt "000AF3"
 msgid "Jim Batista"
-msgstr ""
+msgstr "짐 바티스타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_111, REC: MESG:FULL
 msgctxt "000AF4"
 msgid "Bill Romero"
-msgstr ""
+msgstr "빌 로메로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_110, REC: MESG:FULL
 msgctxt "000AF5"
 msgid "Harvey Ramos"
-msgstr ""
+msgstr "하비 라모스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_109, REC: MESG:FULL
 msgctxt "000AF6"
 msgid "Tyrese Moreno"
-msgstr ""
+msgstr "타이레스 모레노"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_108, REC: MESG:FULL
 msgctxt "000AF7"
 msgid "Colton Navarro"
-msgstr ""
+msgstr "콜턴 나바로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_107, REC: MESG:FULL
 msgctxt "000AF8"
 msgid "Jojo Stanton"
-msgstr ""
+msgstr "죠죠 스탠턴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_63, REC: MESG:FULL
 msgctxt "000AF9"
 msgid "Shadrach Carpenter"
-msgstr ""
+msgstr "사드락 카펜터"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_105, REC: MESG:FULL
 msgctxt "000AFA"
 msgid "Oshi Boone"
-msgstr ""
+msgstr "오시 분"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_134, REC: MESG:FULL
 msgctxt "000AFB"
 msgid "Owen Suri"
-msgstr ""
+msgstr "오웬 수리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_133, REC: MESG:FULL
 msgctxt "000AFC"
 msgid "Nathan Indra"
-msgstr ""
+msgstr "네이선 인드라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_132, REC: MESG:FULL
 msgctxt "000AFD"
 msgid "Paul Zhang"
-msgstr ""
+msgstr "폴 장"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_131, REC: MESG:FULL
 msgctxt "000AFE"
 msgid "Eric Yu"
-msgstr ""
+msgstr "에릭 유"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_130, REC: MESG:FULL
 msgctxt "000AFF"
 msgid "Danny Song"
-msgstr ""
+msgstr "대니 송"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_113, REC: MESG:FULL
 msgctxt "000B00"
 msgid "Wyatt Silva"
-msgstr ""
+msgstr "와이엇 실바"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_13, REC: MESG:FULL
 msgctxt "000B01"
 msgid "Mickey Okada"
-msgstr ""
+msgstr "미키 오카다"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_56, REC: MESG:FULL
 msgctxt "000B02"
 msgid "Felipe Ramos"
-msgstr ""
+msgstr "펠리페 라모스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_69, REC: MESG:FULL
 msgctxt "000B03"
 msgid "Deon Ibrahim"
-msgstr ""
+msgstr "디온 이브라힘"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_68, REC: MESG:FULL
 msgctxt "000B04"
 msgid "Tyrese Mason"
-msgstr ""
+msgstr "타이레스 메이슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_67, REC: MESG:FULL
 msgctxt "000B05"
 msgid "Colton Omari"
-msgstr ""
+msgstr "콜턴 오마리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_66, REC: MESG:FULL
 msgctxt "000B06"
 msgid "Jojo Owusu"
-msgstr ""
+msgstr "죠죠 오우수"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_65, REC: MESG:FULL
 msgctxt "000B07"
 msgid "Benjamin Omobowale"
-msgstr ""
+msgstr "벤자민 오모보왈레"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_64, REC: MESG:FULL
 msgctxt "000B08"
 msgid "Oshi Kamal"
-msgstr ""
+msgstr "오시 카말"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_106, REC: MESG:FULL
 msgctxt "000B09"
 msgid "Benjamin Cole"
-msgstr ""
+msgstr "벤자민 콜"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_62, REC: MESG:FULL
 msgctxt "000B0A"
 msgid "Micah Fisher"
-msgstr ""
+msgstr "마이카 피셔"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_61, REC: MESG:FULL
 msgctxt "000B0B"
 msgid "Jonah Moore"
-msgstr ""
+msgstr "조나 무어"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_60, REC: MESG:FULL
 msgctxt "000B0C"
 msgid "Silas Walsh"
-msgstr ""
+msgstr "사일러스 월시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_89, REC: MESG:FULL
 msgctxt "000B0D"
 msgid "Callum MacEanruig"
-msgstr ""
+msgstr "캘럼 매컨리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_88, REC: MESG:FULL
 msgctxt "000B0E"
 msgid "Luca Rossi"
-msgstr ""
+msgstr "루카 로시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_87, REC: MESG:FULL
 msgctxt "000B0F"
 msgid "Antonio Giordano"
-msgstr ""
+msgstr "안토니오 지오다노"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_70, REC: MESG:FULL
 msgctxt "000B10"
 msgid "Harvey Sylvius"
-msgstr ""
+msgstr "하비 실비우스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_85, REC: MESG:FULL
 msgctxt "000B11"
 msgid "Gerek Nowak"
-msgstr ""
+msgstr "게렉 노박"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_84, REC: MESG:FULL
 msgctxt "000B12"
 msgid "Olek Kowalski"
-msgstr ""
+msgstr "올렉 코왈스키"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_83, REC: MESG:FULL
 msgctxt "000B13"
 msgid "Andrey Ivanova"
-msgstr ""
+msgstr "안드레이 이바노바"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_82, REC: MESG:FULL
 msgctxt "000B14"
 msgid "Vasily Sokolov"
-msgstr ""
+msgstr "바실리 소콜로프"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_81, REC: MESG:FULL
 msgctxt "000B15"
 msgid "Anton Petrov"
-msgstr ""
+msgstr "안톤 페트로프"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_80, REC: MESG:FULL
 msgctxt "000B16"
 msgid "Dan Smith"
-msgstr ""
+msgstr "댄 스미스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_79, REC: MESG:FULL
 msgctxt "000B17"
 msgid "Jason Johnson"
-msgstr ""
+msgstr "제이슨 존슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_78, REC: MESG:FULL
 msgctxt "000B18"
 msgid "Caleb Williams"
-msgstr ""
+msgstr "케일럽 윌리엄스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_77, REC: MESG:FULL
 msgctxt "000B19"
 msgid "Andrew Brown"
-msgstr ""
+msgstr "앤드루 브라운"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_92, REC: MESG:FULL
 msgctxt "000B1A"
 msgid "Danny Hawkes"
-msgstr ""
+msgstr "대니 호키스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_75, REC: MESG:FULL
 msgctxt "000B1B"
 msgid "Elijah King"
-msgstr ""
+msgstr "일라이저 킹"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_104, REC: MESG:FULL
 msgctxt "000B1C"
 msgid "Shadrach Price"
-msgstr ""
+msgstr "사드락 프라이스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_103, REC: MESG:FULL
 msgctxt "000B1D"
 msgid "Micah Garrett"
-msgstr ""
+msgstr "마이카 개럿"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_102, REC: MESG:FULL
 msgctxt "000B1E"
 msgid "Jonah Cartwright"
-msgstr ""
+msgstr "조나 카트라이트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_101, REC: MESG:FULL
 msgctxt "000B1F"
 msgid "Silas McCoy"
-msgstr ""
+msgstr "사일러스 맥코이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_100, REC: MESG:FULL
 msgctxt "000B20"
 msgid "Caleb Montgomery"
-msgstr ""
+msgstr "케일럽 몬거머리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_118, REC: MESG:FULL
 msgctxt "000B21"
 msgid "Kit Schmidt"
-msgstr ""
+msgstr "키트 슈미트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_41, REC: MESG:FULL
 msgctxt "000B22"
 msgid "Ulysses Calhoun"
-msgstr ""
+msgstr "율리시스 칼훈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_40, REC: MESG:FULL
 msgctxt "000B23"
 msgid "Amos Strauss"
-msgstr ""
+msgstr "에이머스 스트라우스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_39, REC: MESG:FULL
 msgctxt "000B24"
 msgid "Grover Underwood"
-msgstr ""
+msgstr "그로버 언더우드"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_38, REC: MESG:FULL
 msgctxt "000B25"
@@ -4492,742 +4492,742 @@ msgstr "버논 레이놀즈"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_37, REC: MESG:FULL
 msgctxt "000B26"
 msgid "Lester Dawson"
-msgstr ""
+msgstr "레스터 도슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_36, REC: MESG:FULL
 msgctxt "000B27"
 msgid "Roscoe Clancy"
-msgstr ""
+msgstr "로스코 클랜시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_19, REC: MESG:FULL
 msgctxt "000B28"
 msgid "Saemus Sweeney"
-msgstr ""
+msgstr "셰이머스 스위니"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_34, REC: MESG:FULL
 msgctxt "000B29"
 msgid "Isaac Morris"
-msgstr ""
+msgstr "아이작 모리스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_33, REC: MESG:FULL
 msgctxt "000B2A"
 msgid "Melvin Yoder"
-msgstr ""
+msgstr "멜빈 요더"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_32, REC: MESG:FULL
 msgctxt "000B2B"
 msgid "Arjun Barman"
-msgstr ""
+msgstr "아준 바르만"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_31, REC: MESG:FULL
 msgctxt "000B2C"
 msgid "Ramesh Devi"
-msgstr ""
+msgstr "라메시 데비"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_30, REC: MESG:FULL
 msgctxt "000B2D"
 msgid "Manoj Bai"
-msgstr ""
+msgstr "마노즈 바이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_59, REC: MESG:FULL
 msgctxt "000B2E"
 msgid "Caleb O'Neill"
-msgstr ""
+msgstr "케일럽 오닐"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_58, REC: MESG:FULL
 msgctxt "000B2F"
 msgid "Saemus Kerry"
-msgstr ""
+msgstr "셰이머스 케리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_57, REC: MESG:FULL
 msgctxt "000B30"
 msgid "Alejandro Romero"
-msgstr ""
+msgstr "알레한드로 로메로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_72, REC: MESG:FULL
 msgctxt "000B31"
 msgid "Jim Conroy"
-msgstr ""
+msgstr "짐 콘로이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_55, REC: MESG:FULL
 msgctxt "000B32"
 msgid "Juan Ocasio"
-msgstr ""
+msgstr "후안 오카시오"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_54, REC: MESG:FULL
 msgctxt "000B33"
 msgid "Miguel Moreno"
-msgstr ""
+msgstr "미구엘 모레노"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_53, REC: MESG:FULL
 msgctxt "000B34"
 msgid "Pedro Navarro"
-msgstr ""
+msgstr "페드로 나바로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_52, REC: MESG:FULL
 msgctxt "000B35"
 msgid "Isaiah Stanton"
-msgstr ""
+msgstr "아이제아 스탠턴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_51, REC: MESG:FULL
 msgctxt "000B36"
 msgid "Clarence Cole"
-msgstr ""
+msgstr "클래런스 콜"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_50, REC: MESG:FULL
 msgctxt "000B37"
 msgid "Wayne Boone"
-msgstr ""
+msgstr "웨인 분"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_06, REC: MESG:FULL
 msgctxt "000B38"
 msgid "Miguel Strauss"
-msgstr ""
+msgstr "미구엘 스트라우스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_48, REC: MESG:FULL
 msgctxt "000B39"
 msgid "Ernest Garrett"
-msgstr ""
+msgstr "어니스트 개럿"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_47, REC: MESG:FULL
 msgctxt "000B3A"
 msgid "Clive Cartwright"
-msgstr ""
+msgstr "클라이브 카트라이트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_46, REC: MESG:FULL
 msgctxt "000B3B"
 msgid "Woodrow McCoy"
-msgstr ""
+msgstr "우드로 맥코이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_45, REC: MESG:FULL
 msgctxt "000B3C"
 msgid "Wesley Montgomery"
-msgstr ""
+msgstr "웨슬리 몬거머리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_74, REC: MESG:FULL
 msgctxt "000B3D"
 msgid "Emmett Shepherd"
-msgstr ""
+msgstr "에밋 셰퍼드"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_73, REC: MESG:FULL
 msgctxt "000B3E"
 msgid "Wyatt Goodwin"
-msgstr ""
+msgstr "와이엇 굿윈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_86, REC: MESG:FULL
 msgctxt "000B3F"
 msgid "Riccardo Moretti"
-msgstr ""
+msgstr "리카르도 모레티"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_215, REC: MESG:FULL
 msgctxt "000B40"
 msgid "Riccardo Agostini"
-msgstr ""
+msgstr "리카르도 아고스티니"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_29, REC: MESG:FULL
 msgctxt "000B41"
 msgid "Nikhil Sahu"
-msgstr ""
+msgstr "니킬 사후"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_12, REC: MESG:FULL
 msgctxt "000B42"
 msgid "Dan Kontos"
-msgstr ""
+msgstr "댄 콘토스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_11, REC: MESG:FULL
 msgctxt "000B43"
 msgid "Deon Ocasio"
-msgstr ""
+msgstr "디온 오카시오"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_10, REC: MESG:FULL
 msgctxt "000B44"
 msgid "Saemus Sutton"
-msgstr ""
+msgstr "셰이머스 서튼"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_09, REC: MESG:FULL
 msgctxt "000B45"
 msgid "Alejandro Augustine"
-msgstr ""
+msgstr "알레한드로 어거스틴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_08, REC: MESG:FULL
 msgctxt "000B46"
 msgid "Felipe Lawson"
-msgstr ""
+msgstr "펠리페 로슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_07, REC: MESG:FULL
 msgctxt "000B47"
 msgid "Juan Calhoun"
-msgstr ""
+msgstr "후안 칼훈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_49, REC: MESG:FULL
 msgctxt "000B48"
 msgid "Beau Price"
-msgstr ""
+msgstr "보 프라이스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_05, REC: MESG:FULL
 msgctxt "000B49"
 msgid "Pedro Underwood"
-msgstr ""
+msgstr "페드로 언더우드"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_04, REC: MESG:FULL
 msgctxt "000B4A"
 msgid "Isaiah Reynolds"
-msgstr "아이자이어 레이놀즈"
+msgstr "아이제아 레이놀즈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_03, REC: MESG:FULL
 msgctxt "000B4B"
 msgid "Clarence Dawson"
-msgstr ""
+msgstr "클래런스 도슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_02, REC: MESG:FULL
 msgctxt "000B4C"
 msgid "Wayne Clancy"
-msgstr ""
+msgstr "웨인 클랜시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_01, REC: MESG:FULL
 msgctxt "000B4D"
 msgid "Beau Hirsh"
-msgstr ""
+msgstr "보 허쉬"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_249, REC: MESG:FULL
 msgctxt "000B4E"
 msgid "Dwi Indra"
-msgstr ""
+msgstr "드위 인드라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_43, REC: MESG:FULL
 msgctxt "000B4F"
 msgid "Hoyt Augustine"
-msgstr ""
+msgstr "호이트 어거스틴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_114, REC: MESG:FULL
 msgctxt "000B50"
 msgid "Emmett Taqqiq"
-msgstr ""
+msgstr "에밋 타키크"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_27, REC: MESG:FULL
 msgctxt "000B51"
 msgid "Aarav Pathan"
-msgstr ""
+msgstr "아라브 파탄"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_26, REC: MESG:FULL
 msgctxt "000B52"
 msgid "Pamir Roy"
-msgstr ""
+msgstr "파미르 로이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_25, REC: MESG:FULL
 msgctxt "000B53"
 msgid "Dagar Suri"
-msgstr ""
+msgstr "대이거 수리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_24, REC: MESG:FULL
 msgctxt "000B54"
 msgid "Victor Mercier"
-msgstr ""
+msgstr "빅터 메르시에"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_23, REC: MESG:FULL
 msgctxt "000B55"
 msgid "Minik Taqqiq"
-msgstr ""
+msgstr "미닉 타키크"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_22, REC: MESG:FULL
 msgctxt "000B56"
 msgid "Mickey Holmes"
-msgstr ""
+msgstr "미키 홈스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_21, REC: MESG:FULL
 msgctxt "000B57"
 msgid "Dan Martinez"
-msgstr ""
+msgstr "댄 마르티네즈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_20, REC: MESG:FULL
 msgctxt "000B58"
 msgid "Deon Adams"
-msgstr ""
+msgstr "디온 애덤스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_35, REC: MESG:FULL
 msgctxt "000B59"
 msgid "David Hirsh"
-msgstr ""
+msgstr "데이비드 허쉬"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_18, REC: MESG:FULL
 msgctxt "000B5A"
 msgid "Clive Bass"
-msgstr ""
+msgstr "클라이브 베이스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_17, REC: MESG:FULL
 msgctxt "000B5B"
 msgid "Roscoe Dalton"
-msgstr ""
+msgstr "로스코 달튼"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_16, REC: MESG:FULL
 msgctxt "000B5C"
 msgid "Dagar Patel"
-msgstr ""
+msgstr "대이거 파텔"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_15, REC: MESG:FULL
 msgctxt "000B5D"
 msgid "Victor Steiner"
-msgstr ""
+msgstr "빅터 슈타이너"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_44, REC: MESG:FULL
 msgctxt "000B5E"
 msgid "Arthur Sutton"
-msgstr ""
+msgstr "아서 서튼"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_189, REC: MESG:FULL
 msgctxt "000B5F"
 msgid "Sheriff Owusu"
-msgstr "오우수 보안관"
+msgstr "보안관 오우수"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_14, REC: MESG:FULL
 msgctxt "000B60"
 msgid "Minik Hansen"
-msgstr ""
+msgstr "미닉 핸슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_233, REC: MESG:FULL
 msgctxt "000B61"
 msgid "Eike Schmidt"
-msgstr ""
+msgstr "아이크 슈미트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_232, REC: MESG:FULL
 msgctxt "000B62"
 msgid "Bente Weber"
-msgstr ""
+msgstr "벤트 웨버"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_231, REC: MESG:FULL
 msgctxt "000B63"
 msgid "Runo Virtanen"
-msgstr ""
+msgstr "루노 비르타넨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_230, REC: MESG:FULL
 msgctxt "000B64"
 msgid "Kim Olsen"
-msgstr ""
+msgstr "킴 올슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_229, REC: MESG:FULL
 msgctxt "000B65"
 msgid "Rio Silva"
-msgstr ""
+msgstr "리오 실바"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_228, REC: MESG:FULL
 msgctxt "000B66"
 msgid "Sloane Batista"
-msgstr ""
+msgstr "슬론 바티스타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_211, REC: MESG:FULL
 msgctxt "000B67"
 msgid "Sasha Denisovich"
-msgstr ""
+msgstr "사샤 데니소비치"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_226, REC: MESG:FULL
 msgctxt "000B68"
 msgid "Blake Wilson"
-msgstr ""
+msgstr "블레이크 윌슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_225, REC: MESG:FULL
 msgctxt "000B69"
 msgid "Wren Milton"
-msgstr ""
+msgstr "렌 밀턴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_224, REC: MESG:FULL
 msgctxt "000B6A"
 msgid "Bellamy Evans"
-msgstr ""
+msgstr "벨라미 에반스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_223, REC: MESG:FULL
 msgctxt "000B6B"
 msgid "Bryn Walker"
-msgstr ""
+msgstr "브린 워커"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_222, REC: MESG:FULL
 msgctxt "000B6C"
 msgid "Reese Smith"
-msgstr ""
+msgstr "리즈 스미스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_221, REC: MESG:FULL
 msgctxt "000B6D"
 msgid "Dylan Baker"
-msgstr ""
+msgstr "딜런 베이커"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_220, REC: MESG:FULL
 msgctxt "000B6E"
 msgid "Emlyn Wigglesworth"
-msgstr ""
+msgstr "엠린 위글스워스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_132, REC: MESG:FULL
 msgctxt "000B6F"
 msgid "Reese Zhang"
-msgstr ""
+msgstr "리즈 장"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_204, REC: MESG:FULL
 msgctxt "000B70"
 msgid "Sol Anderson"
-msgstr ""
+msgstr "솔 앤더슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_247, REC: MESG:FULL
 msgctxt "000B71"
 msgid "Shen Yu"
-msgstr ""
+msgstr "셴 유"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_246, REC: MESG:FULL
 msgctxt "000B72"
 msgid "Seong Song"
-msgstr ""
+msgstr "성 송"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_245, REC: MESG:FULL
 msgctxt "000B73"
 msgid "Ren Okada"
-msgstr ""
+msgstr "렌 오카다"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_244, REC: MESG:FULL
 msgctxt "000B74"
 msgid "Sora Fujita"
-msgstr ""
+msgstr "소라 후지타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_243, REC: MESG:FULL
 msgctxt "000B75"
 msgid "Yol Dara"
-msgstr ""
+msgstr "욜 다라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_242, REC: MESG:FULL
 msgctxt "000B76"
 msgid "Thu Quan"
-msgstr ""
+msgstr "투 콴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_197, REC: MESG:FULL
 msgctxt "000B77"
 msgid "Lamisi Bekele"
-msgstr ""
+msgstr "라미시 베켈레"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_240, REC: MESG:FULL
 msgctxt "000B78"
 msgid "Jules Dubois"
-msgstr ""
+msgstr "쥘 뒤부아"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_239, REC: MESG:FULL
 msgctxt "000B79"
 msgid "Eden Martin"
-msgstr ""
+msgstr "이든 마틴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_238, REC: MESG:FULL
 msgctxt "000B7A"
 msgid "Alix Moreau"
-msgstr ""
+msgstr "알릭스 모로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_237, REC: MESG:FULL
 msgctxt "000B7B"
 msgid "Cyrille Girard"
-msgstr ""
+msgstr "시릴 지라르"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_236, REC: MESG:FULL
 msgctxt "000B7C"
 msgid "Castor Papoutsis"
-msgstr ""
+msgstr "카스토르 파푸트시스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_235, REC: MESG:FULL
 msgctxt "000B7D"
 msgid "Pan Kontos"
-msgstr ""
+msgstr "팬 콘토스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_248, REC: MESG:FULL
 msgctxt "000B7E"
 msgid "Li Zhang"
-msgstr ""
+msgstr "리 장"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_110, REC: MESG:FULL
 msgctxt "000B7F"
 msgid "Clara Ramos"
-msgstr ""
+msgstr "클라라 라모스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_160, REC: MESG:FULL
 msgctxt "000B80"
 msgid "Rahi Singh"
-msgstr ""
+msgstr "라히 싱"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_203, REC: MESG:FULL
 msgctxt "000B81"
 msgid "Walker Cohen"
-msgstr ""
+msgstr "워커 코헨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_202, REC: MESG:FULL
 msgctxt "000B82"
 msgid "Robin Silverman"
-msgstr ""
+msgstr "로빈 실버만"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_201, REC: MESG:FULL
 msgctxt "000B83"
 msgid "Casey Schwartz"
-msgstr ""
+msgstr "케이시 슈바르츠"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_200, REC: MESG:FULL
 msgctxt "000B84"
 msgid "Morgan Pryce"
-msgstr ""
+msgstr "모건 프라이스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_199, REC: MESG:FULL
 msgctxt "000B85"
 msgid "Rocky Smith"
-msgstr ""
+msgstr "록키 스미스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_198, REC: MESG:FULL
 msgctxt "000B86"
 msgid "Atlas Jones"
-msgstr ""
+msgstr "아틀라스 존스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_241, REC: MESG:FULL
 msgctxt "000B87"
 msgid "Rin Padilla"
-msgstr ""
+msgstr "린 파딜라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_196, REC: MESG:FULL
 msgctxt "000B88"
 msgid "Ezra Ngoma"
-msgstr ""
+msgstr "에즈라 응고마"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_195, REC: MESG:FULL
 msgctxt "000B89"
 msgid "Amaros Bashir"
-msgstr ""
+msgstr "아마로스 바시르"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_194, REC: MESG:FULL
 msgctxt "000B8A"
 msgid "Beck Abott"
-msgstr ""
+msgstr "벡 애보트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_193, REC: MESG:FULL
 msgctxt "000B8B"
 msgid "Asher Doolittle"
-msgstr ""
+msgstr "애셔 둘리틀"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_192, REC: MESG:FULL
 msgctxt "000B8C"
 msgid "Winter Flynn"
-msgstr ""
+msgstr "윈터 플린"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_191, REC: MESG:FULL
 msgctxt "000B8D"
 msgid "Ariel Fitzpatrick"
-msgstr ""
+msgstr "아리엘 피츠패트릭"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_174, REC: MESG:FULL
 msgctxt "000B8E"
 msgid "Morgan St. Leon"
-msgstr ""
+msgstr "모건 세인트 레온"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_189, REC: MESG:FULL
 msgctxt "000B8F"
 msgid "Angel Hernandez"
-msgstr ""
+msgstr "에인절 에르난데스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_218, REC: MESG:FULL
 msgctxt "000B90"
 msgid "Finley Campbell"
-msgstr ""
+msgstr "핀리 캠벨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_217, REC: MESG:FULL
 msgctxt "000B91"
 msgid "Coda Esposito"
-msgstr ""
+msgstr "코다 에스포지토"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_216, REC: MESG:FULL
 msgctxt "000B92"
 msgid "Leone Bianchi"
-msgstr ""
+msgstr "리온 비앙키"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_215, REC: MESG:FULL
 msgctxt "000B93"
 msgid "Kosmo Agostini"
-msgstr ""
+msgstr "코스모 아고스티니"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_214, REC: MESG:FULL
 msgctxt "000B94"
 msgid "Jedrek Jankowski"
-msgstr ""
+msgstr "제드렉 얀코프스키"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_213, REC: MESG:FULL
 msgctxt "000B95"
 msgid "Peja Pietrzak"
-msgstr ""
+msgstr "페야 피에트르자크"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_212, REC: MESG:FULL
 msgctxt "000B96"
 msgid "Zhenya Stasevich"
-msgstr ""
+msgstr "젠야 스타세비치"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_227, REC: MESG:FULL
 msgctxt "000B97"
 msgid "Avery Taylor"
-msgstr ""
+msgstr "에이버리 테일러"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_210, REC: MESG:FULL
 msgctxt "000B98"
 msgid "Vasya Lebedev"
-msgstr ""
+msgstr "바샤 레베데프"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_209, REC: MESG:FULL
 msgctxt "000B99"
 msgid "Jordan Lopez"
-msgstr ""
+msgstr "조던 로페즈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_208, REC: MESG:FULL
 msgctxt "000B9A"
 msgid "Kit Jackson"
-msgstr ""
+msgstr "키트 잭슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_207, REC: MESG:FULL
 msgctxt "000B9B"
 msgid "Ridley Hernandez"
-msgstr ""
+msgstr "리들리 에르난데스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_206, REC: MESG:FULL
 msgctxt "000B9C"
 msgid "Bowie Parker"
-msgstr ""
+msgstr "보위 파커"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_32, REC: MESG:FULL
 msgctxt "000B9D"
 msgid "Taj Barman"
-msgstr ""
+msgstr "타지 바르만"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_175, REC: MESG:FULL
 msgctxt "000B9E"
 msgid "Quincy Pickett"
-msgstr ""
+msgstr "퀸시 피켓"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_145, REC: MESG:FULL
 msgctxt "000B9F"
 msgid "Pan Koufos"
-msgstr ""
+msgstr "팬 쿠포스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_144, REC: MESG:FULL
 msgctxt "000BA0"
 msgid "Nok Kaya"
-msgstr ""
+msgstr "녹 카야"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_173, REC: MESG:FULL
 msgctxt "000BA1"
 msgid "Syd Tilghman"
-msgstr ""
+msgstr "시드 틸만"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_172, REC: MESG:FULL
 msgctxt "000BA2"
 msgid "Wynn Marlow"
-msgstr ""
+msgstr "윈 말로우"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_171, REC: MESG:FULL
 msgctxt "000BA3"
 msgid "Ward Ford"
-msgstr ""
+msgstr "워드 포드"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_170, REC: MESG:FULL
 msgctxt "000BA4"
 msgid "Frankie Yarbrough"
-msgstr ""
+msgstr "프랭키 야브로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_153, REC: MESG:FULL
 msgctxt "000BA5"
 msgid "Yol Lim"
-msgstr ""
+msgstr "욜 임"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_168, REC: MESG:FULL
 msgctxt "000BA6"
 msgid "Tal Jacobs"
-msgstr ""
+msgstr "탈 제이콥스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_167, REC: MESG:FULL
 msgctxt "000BA7"
 msgid "Valentine Miller"
-msgstr ""
+msgstr "발렌타인 밀러"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_166, REC: MESG:FULL
 msgctxt "000BA8"
 msgid "Taj Sahu"
-msgstr ""
+msgstr "타지 사후"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_165, REC: MESG:FULL
 msgctxt "000BA9"
 msgid "Manu Khan"
-msgstr ""
+msgstr "마누 칸"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_164, REC: MESG:FULL
 msgctxt "000BAA"
 msgid "Romi Choudhary"
-msgstr ""
+msgstr "로미 초드하리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_163, REC: MESG:FULL
 msgctxt "000BAB"
 msgid "Navi Giri"
-msgstr ""
+msgstr "내비 기리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_162, REC: MESG:FULL
 msgctxt "000BAC"
 msgid "Kiran Pathan"
-msgstr ""
+msgstr "키란 파탄"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_161, REC: MESG:FULL
 msgctxt "000BAD"
 msgid "Taran Sahu"
-msgstr ""
+msgstr "타란 사후"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_M_129, REC: MESG:FULL
 msgctxt "000BAE"
 msgid "Rory Fujita"
-msgstr ""
+msgstr "로리 후지타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_159, REC: MESG:FULL
 msgctxt "000BAF"
 msgid "Dwi Agung"
-msgstr ""
+msgstr "드위 아궁"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_188, REC: MESG:FULL
 msgctxt "000BB0"
 msgid "Fran Lopez"
-msgstr ""
+msgstr "프랜 로페즈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_187, REC: MESG:FULL
 msgctxt "000BB1"
 msgid "Lupe Smith"
-msgstr ""
+msgstr "뤼페 스미스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_186, REC: MESG:FULL
 msgctxt "000BB2"
 msgid "Cameron Jacobs"
-msgstr ""
+msgstr "카메론 제이콥스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_185, REC: MESG:FULL
 msgctxt "000BB3"
 msgid "Rocio Flores"
-msgstr ""
+msgstr "로시오 플로레스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_184, REC: MESG:FULL
 msgctxt "000BB4"
 msgid "Ace Parker"
-msgstr ""
+msgstr "에이스 파커"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_140, REC: MESG:FULL
 msgctxt "000BB5"
 msgid "Kim Haugen"
-msgstr ""
+msgstr "킴 호건"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_182, REC: MESG:FULL
 msgctxt "000BB6"
 msgid "Zane Turner"
-msgstr ""
+msgstr "제인 터너"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_181, REC: MESG:FULL
 msgctxt "000BB7"
 msgid "Wade Cassidy"
-msgstr ""
+msgstr "웨이드 캐시디"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_180, REC: MESG:FULL
 msgctxt "000BB8"
 msgid "Lake Starr"
-msgstr ""
+msgstr "레이크 스타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_179, REC: MESG:FULL
 msgctxt "000BB9"
 msgid "Sawyer Doolin"
-msgstr ""
+msgstr "소이어 둘린"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_178, REC: MESG:FULL
 msgctxt "000BBA"
@@ -5237,377 +5237,377 @@ msgstr "캐시 밀러"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_177, REC: MESG:FULL
 msgctxt "000BBB"
 msgid "Montana Dalton"
-msgstr ""
+msgstr "몬타나 달튼"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_190, REC: MESG:FULL
 msgctxt "000BBC"
 msgid "Sullivan O'Keeffe"
-msgstr ""
+msgstr "설리번 오키프"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_146, REC: MESG:FULL
 msgctxt "000BBD"
 msgid "Castor Samaras"
-msgstr ""
+msgstr "카스토르 사마라스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_133, REC: MESG:FULL
 msgctxt "000BBE"
 msgid "Bryn Indra"
-msgstr ""
+msgstr "브린 인드라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_116, REC: MESG:FULL
 msgctxt "000BBF"
 msgid "Bowie Virtanen"
-msgstr ""
+msgstr "보위 비르타넨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_115, REC: MESG:FULL
 msgctxt "000BC0"
 msgid "Carter Olsen"
-msgstr ""
+msgstr "카터 올슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_114, REC: MESG:FULL
 msgctxt "000BC1"
 msgid "Sol Taqqiq"
-msgstr ""
+msgstr "솔 타키크"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_143, REC: MESG:FULL
 msgctxt "000BC2"
 msgid "Eike Fischer"
-msgstr ""
+msgstr "아이크 피셔"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_142, REC: MESG:FULL
 msgctxt "000BC3"
 msgid "Bente Meyer"
-msgstr ""
+msgstr "벤트 마이어"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_141, REC: MESG:FULL
 msgctxt "000BC4"
 msgid "Runo Laine"
-msgstr ""
+msgstr "루노 레인"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_183, REC: MESG:FULL
 msgctxt "000BC5"
 msgid "Flint Bell"
-msgstr ""
+msgstr "플린트 벨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_139, REC: MESG:FULL
 msgctxt "000BC6"
 msgid "Rio Alonso"
-msgstr ""
+msgstr "리오 알론소"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_138, REC: MESG:FULL
 msgctxt "000BC7"
 msgid "Sloane Gomes"
-msgstr ""
+msgstr "슬론 고메스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_137, REC: MESG:FULL
 msgctxt "000BC8"
 msgid "Avery Giri"
-msgstr ""
+msgstr "에이버리 기리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_136, REC: MESG:FULL
 msgctxt "000BC9"
 msgid "Blake Pathan"
-msgstr ""
+msgstr "블레이크 파탄"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_135, REC: MESG:FULL
 msgctxt "000BCA"
 msgid "Wren Roy"
-msgstr ""
+msgstr "렌 로이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_134, REC: MESG:FULL
 msgctxt "000BCB"
 msgid "Bellamy Suri"
-msgstr ""
+msgstr "벨라미 수리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_89, REC: MESG:FULL
 msgctxt "000BCC"
 msgid "Finley MacEanruig"
-msgstr ""
+msgstr "핀리 매컨리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_219, REC: MESG:FULL
 msgctxt "000BCD"
 msgid "Quinn Murphy"
-msgstr ""
+msgstr "퀸 머피"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_131, REC: MESG:FULL
 msgctxt "000BCE"
 msgid "Dylan Yu"
-msgstr ""
+msgstr "딜런 유"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_130, REC: MESG:FULL
 msgctxt "000BCF"
 msgid "Emlyn Song"
-msgstr ""
+msgstr "엠린 송"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_129, REC: MESG:FULL
 msgctxt "000BD0"
 msgid "Quinn Fujita"
-msgstr ""
+msgstr "퀸 후지타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_158, REC: MESG:FULL
 msgctxt "000BD1"
 msgid "Li Wang"
-msgstr ""
+msgstr "리 왕"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_157, REC: MESG:FULL
 msgctxt "000BD2"
 msgid "Shen Liu"
-msgstr ""
+msgstr "셴 리우"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_156, REC: MESG:FULL
 msgctxt "000BD3"
 msgid "Seong Ahn"
-msgstr ""
+msgstr "성 안"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_155, REC: MESG:FULL
 msgctxt "000BD4"
 msgid "Ren Matsura"
-msgstr ""
+msgstr "렌 마츠라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_154, REC: MESG:FULL
 msgctxt "000BD5"
 msgid "Sora Kobayashi"
-msgstr ""
+msgstr "소라 코바야시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_169, REC: MESG:FULL
 msgctxt "000BD6"
 msgid "Paz Silverman"
-msgstr ""
+msgstr "파즈 실버만"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_152, REC: MESG:FULL
 msgctxt "000BD7"
 msgid "Thu Phan"
-msgstr ""
+msgstr "투 판"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_151, REC: MESG:FULL
 msgctxt "000BD8"
 msgid "Rin Chan"
-msgstr ""
+msgstr "린 챈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_150, REC: MESG:FULL
 msgctxt "000BD9"
 msgid "Jules Robert"
-msgstr ""
+msgstr "쥘 로버트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_149, REC: MESG:FULL
 msgctxt "000BDA"
 msgid "Eden Petit"
-msgstr ""
+msgstr "이든 프티"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_148, REC: MESG:FULL
 msgctxt "000BDB"
 msgid "Alix Dupont"
-msgstr ""
+msgstr "알릭스 뒤퐁"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_117, REC: MESG:FULL
 msgctxt "000BDC"
 msgid "Ridley Weber"
-msgstr ""
+msgstr "리들리 웨버"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_234, REC: MESG:FULL
 msgctxt "000BDD"
 msgid "Nok Saetang"
-msgstr ""
+msgstr "녹 새탕"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_88, REC: MESG:FULL
 msgctxt "000BDE"
 msgid "Coda Rossi"
-msgstr ""
+msgstr "코다 로시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_87, REC: MESG:FULL
 msgctxt "000BDF"
 msgid "Leone Giordano"
-msgstr ""
+msgstr "리온 지오다노"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_86, REC: MESG:FULL
 msgctxt "000BE0"
 msgid "Kosmo Moretti"
-msgstr ""
+msgstr "코스모 모레티"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_85, REC: MESG:FULL
 msgctxt "000BE1"
 msgid "Jedrek Nowak"
-msgstr ""
+msgstr "제드렉 노박"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_84, REC: MESG:FULL
 msgctxt "000BE2"
 msgid "Peja Kowalski"
-msgstr ""
+msgstr "페야 코왈스키"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_113, REC: MESG:FULL
 msgctxt "000BE3"
 msgid "Walker Silva"
-msgstr ""
+msgstr "워커 실바"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_96, REC: MESG:FULL
 msgctxt "000BE4"
 msgid "Bellamy Edison"
-msgstr ""
+msgstr "벨라미 에디슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_111, REC: MESG:FULL
 msgctxt "000BE5"
 msgid "Casey Romero"
-msgstr ""
+msgstr "케이시 로메로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_110, REC: MESG:FULL
 msgctxt "000BE6"
 msgid "Morgan Ramos"
-msgstr ""
+msgstr "모건 라모스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_109, REC: MESG:FULL
 msgctxt "000BE7"
 msgid "Rocky Moreno"
-msgstr ""
+msgstr "록키 모레노"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_108, REC: MESG:FULL
 msgctxt "000BE8"
 msgid "Atlas Navarro"
-msgstr ""
+msgstr "아틀라스 나바로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_107, REC: MESG:FULL
 msgctxt "000BE9"
 msgid "Lamisi Stanton"
-msgstr ""
+msgstr "라미시 스탠턴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_106, REC: MESG:FULL
 msgctxt "000BEA"
 msgid "Ezra Cole"
-msgstr ""
+msgstr "에즈라 콜"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_105, REC: MESG:FULL
 msgctxt "000BEB"
 msgid "Amaros Boone"
-msgstr ""
+msgstr "아마로스 분"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_18, REC: MESG:FULL
 msgctxt "000BEC"
 msgid "Eli Bass"
-msgstr ""
+msgstr "엘리 베이스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_147, REC: MESG:FULL
 msgctxt "000BED"
 msgid "Cyrille Bonnet"
-msgstr ""
+msgstr "시릴 보닛"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_102, REC: MESG:FULL
 msgctxt "000BEE"
 msgid "Winter Cartwright"
-msgstr ""
+msgstr "윈터 카트라이트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_101, REC: MESG:FULL
 msgctxt "000BEF"
 msgid "Ariel McCoy"
-msgstr ""
+msgstr "아리엘 맥코이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_100, REC: MESG:FULL
 msgctxt "000BF0"
 msgid "Sullivan Montgomery"
-msgstr ""
+msgstr "설리번 몬거머리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_99, REC: MESG:FULL
 msgctxt "000BF1"
 msgid "Avery Palmer"
-msgstr ""
+msgstr "에이버리 팔머"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_128, REC: MESG:FULL
 msgctxt "000BF2"
 msgid "Finley Dara"
-msgstr ""
+msgstr "핀리 다라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_127, REC: MESG:FULL
 msgctxt "000BF3"
 msgid "Coda Quan"
-msgstr ""
+msgstr "코다 콴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_83, REC: MESG:FULL
 msgctxt "000BF4"
 msgid "Zhenya Ivanova"
-msgstr ""
+msgstr "젠야 이바노바"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_125, REC: MESG:FULL
 msgctxt "000BF5"
 msgid "Kosmo Dubois"
-msgstr ""
+msgstr "코스모 뒤부아"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_124, REC: MESG:FULL
 msgctxt "000BF6"
 msgid "Jedrek Mercier"
-msgstr ""
+msgstr "제드렉 메르시에"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_123, REC: MESG:FULL
 msgctxt "000BF7"
 msgid "Peja Martin"
-msgstr ""
+msgstr "페야 마틴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_122, REC: MESG:FULL
 msgctxt "000BF8"
 msgid "Zhenya Moreau"
-msgstr ""
+msgstr "젠야 모로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_121, REC: MESG:FULL
 msgctxt "000BF9"
 msgid "Sasha Girard"
-msgstr ""
+msgstr "사샤 지라르"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_120, REC: MESG:FULL
 msgctxt "000BFA"
 msgid "Vasya Papoutsis"
-msgstr ""
+msgstr "바샤 파푸트시스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_103, REC: MESG:FULL
 msgctxt "000BFB"
 msgid "Asher Garrett"
-msgstr ""
+msgstr "애셔 개럿"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_119, REC: MESG:FULL
 msgctxt "000BFC"
 msgid "Jordan Saetang"
-msgstr ""
+msgstr "조던 새탕"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_46, REC: MESG:FULL
 msgctxt "000BFD"
 msgid "Sawyer McCoy"
-msgstr ""
+msgstr "소이어 맥코이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_59, REC: MESG:FULL
 msgctxt "000BFE"
 msgid "Sullivan O'Neill"
-msgstr ""
+msgstr "설리번 오닐"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_58, REC: MESG:FULL
 msgctxt "000BFF"
 msgid "Kieran Kerry"
-msgstr ""
+msgstr "키어런 케리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_57, REC: MESG:FULL
 msgctxt "000C00"
 msgid "Angel Romero"
-msgstr ""
+msgstr "에인절 로메로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_56, REC: MESG:FULL
 msgctxt "000C01"
 msgid "Fran Ramos"
-msgstr ""
+msgstr "프랜 라모스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_55, REC: MESG:FULL
 msgctxt "000C02"
 msgid "Lupe Ocasio"
-msgstr ""
+msgstr "뤼페 오카시오"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_54, REC: MESG:FULL
 msgctxt "000C03"
 msgid "Cameron Moreno"
-msgstr ""
+msgstr "카메론 모레노"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_126, REC: MESG:FULL
 msgctxt "000C04"
 msgid "Leone Padilla"
-msgstr ""
+msgstr "리온 파딜라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_82, REC: MESG:FULL
 msgctxt "000C05"
 msgid "Sasha Sokolov"
-msgstr ""
+msgstr "사샤 소콜로프"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_81, REC: MESG:FULL
 msgctxt "000C06"
@@ -5617,82 +5617,82 @@ msgstr "바샤 페트로프"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_80, REC: MESG:FULL
 msgctxt "000C07"
 msgid "Ash Smith"
-msgstr ""
+msgstr "애쉬 스미스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_79, REC: MESG:FULL
 msgctxt "000C08"
 msgid "Jordan Johnson"
-msgstr ""
+msgstr "조던 존슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_78, REC: MESG:FULL
 msgctxt "000C09"
 msgid "Kit Williams"
-msgstr ""
+msgstr "키트 윌리엄스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_77, REC: MESG:FULL
 msgctxt "000C0A"
 msgid "Ridley Brown"
-msgstr ""
+msgstr "리들리 브라운"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_60, REC: MESG:FULL
 msgctxt "000C0B"
 msgid "Ariel Walsh"
-msgstr ""
+msgstr "아리엘 월시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_75, REC: MESG:FULL
 msgctxt "000C0C"
 msgid "Carter King"
-msgstr ""
+msgstr "카터 킹"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_74, REC: MESG:FULL
 msgctxt "000C0D"
 msgid "Sol Shepherd"
-msgstr ""
+msgstr "솔 셰퍼드"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_73, REC: MESG:FULL
 msgctxt "000C0E"
 msgid "Walker Goodwin"
-msgstr ""
+msgstr "워커 굿윈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_72, REC: MESG:FULL
 msgctxt "000C0F"
 msgid "Robin Conroy"
-msgstr ""
+msgstr "로빈 콘로이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_71, REC: MESG:FULL
 msgctxt "000C10"
 msgid "Casey Boyds"
-msgstr ""
+msgstr "케이시 보이즈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_70, REC: MESG:FULL
 msgctxt "000C11"
 msgid "Morgan Sylvius"
-msgstr ""
+msgstr "모건 실비우스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_69, REC: MESG:FULL
 msgctxt "000C12"
 msgid "Sol Ibrahim"
-msgstr ""
+msgstr "솔 이브라힘"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_98, REC: MESG:FULL
 msgctxt "000C13"
 msgid "Blake Stuart"
-msgstr ""
+msgstr "블레이크 스튜어트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_97, REC: MESG:FULL
 msgctxt "000C14"
 msgid "Wren Chambers"
-msgstr ""
+msgstr "렌 체임버스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_112, REC: MESG:FULL
 msgctxt "000C15"
 msgid "Robin Batista"
-msgstr ""
+msgstr "로빈 바티스타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_95, REC: MESG:FULL
 msgctxt "000C16"
 msgid "Bryn Allen"
-msgstr ""
+msgstr "브린 앨런"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_94, REC: MESG:FULL
 msgctxt "000C17"
@@ -5702,307 +5702,307 @@ msgstr "리즈 로빈슨"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_93, REC: MESG:FULL
 msgctxt "000C18"
 msgid "Dylan Donoghue"
-msgstr ""
+msgstr "딜런 도노휴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_92, REC: MESG:FULL
 msgctxt "000C19"
 msgid "Emlyn Hawkes"
-msgstr ""
+msgstr "엠린 호키스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_91, REC: MESG:FULL
 msgctxt "000C1A"
 msgid "Arden Daniels"
-msgstr ""
+msgstr "아든 대니얼스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_90, REC: MESG:FULL
 msgctxt "000C1B"
 msgid "Quinn O'Berne"
-msgstr ""
+msgstr "퀸 오베른"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_03, REC: MESG:FULL
 msgctxt "000C1C"
 msgid "Flint Dawson"
-msgstr ""
+msgstr "플린트 도슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_31, REC: MESG:FULL
 msgctxt "000C1D"
 msgid "Manu Devi"
-msgstr ""
+msgstr "마누 데비"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_30, REC: MESG:FULL
 msgctxt "000C1E"
 msgid "Romi Bai"
-msgstr ""
+msgstr "로미 바이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_29, REC: MESG:FULL
 msgctxt "000C1F"
 msgid "Navi Sahu"
-msgstr ""
+msgstr "내비 사후"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_28, REC: MESG:FULL
 msgctxt "000C20"
 msgid "Kiran Giri"
-msgstr ""
+msgstr "키란 기리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_27, REC: MESG:FULL
 msgctxt "000C21"
 msgid "Taran Pathan"
-msgstr ""
+msgstr "타란 파탄"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_26, REC: MESG:FULL
 msgctxt "000C22"
 msgid "Rahi Roy"
-msgstr ""
+msgstr "라히 로이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_09, REC: MESG:FULL
 msgctxt "000C23"
 msgid "Angel Augustine"
-msgstr ""
+msgstr "에인절 어거스틴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_24, REC: MESG:FULL
 msgctxt "000C24"
 msgid "Louison Mercier"
-msgstr ""
+msgstr "루이슨 메르시에"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_53, REC: MESG:FULL
 msgctxt "000C25"
 msgid "Rocio Navarro"
-msgstr ""
+msgstr "로시오 나바로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_52, REC: MESG:FULL
 msgctxt "000C26"
 msgid "Ace Stanton"
-msgstr ""
+msgstr "에이스 스탠턴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_51, REC: MESG:FULL
 msgctxt "000C27"
 msgid "Flint Cole"
-msgstr ""
+msgstr "플린트 콜"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_50, REC: MESG:FULL
 msgctxt "000C28"
 msgid "Zane Boone"
-msgstr ""
+msgstr "제인 분"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_49, REC: MESG:FULL
 msgctxt "000C29"
 msgid "Wade Price"
-msgstr ""
+msgstr "웨이드 프라이스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_48, REC: MESG:FULL
 msgctxt "000C2A"
 msgid "Lake Garrett"
-msgstr ""
+msgstr "레이크 개럿"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_47, REC: MESG:FULL
 msgctxt "000C2B"
 msgid "Eli Cartwright"
-msgstr ""
+msgstr "엘리 카트라이트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_195, REC: MESG:FULL
 msgctxt "000C2C"
 msgid "Kaara Bashir"
-msgstr ""
+msgstr "카아라 바시르"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_45, REC: MESG:FULL
 msgctxt "000C2D"
 msgid "Cash Montgomery"
-msgstr "캐시 몽고메리"
+msgstr "캐시 몬거머리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_44, REC: MESG:FULL
 msgctxt "000C2E"
 msgid "Montana Sutton"
-msgstr ""
+msgstr "몬타나 서튼"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_43, REC: MESG:FULL
 msgctxt "000C2F"
 msgid "Chance Augustine"
-msgstr ""
+msgstr "챈스 어거스틴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_42, REC: MESG:FULL
 msgctxt "000C30"
 msgid "Quincy Lawson"
-msgstr ""
+msgstr "퀸시 로슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_41, REC: MESG:FULL
 msgctxt "000C31"
 msgid "Morgan Calhoun"
-msgstr ""
+msgstr "모건 칼훈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_40, REC: MESG:FULL
 msgctxt "000C32"
 msgid "Syd Strauss"
-msgstr ""
+msgstr "시드 스트라우스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_245, REC: MESG:FULL
 msgctxt "000C33"
 msgid "Hiroko Okada"
-msgstr ""
+msgstr "히로코 오카다"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_68, REC: MESG:FULL
 msgctxt "000C34"
 msgid "Rocky Mason"
-msgstr ""
+msgstr "록키 메이슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_67, REC: MESG:FULL
 msgctxt "000C35"
 msgid "Atlas Omari"
-msgstr ""
+msgstr "아틀라스 오마리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_66, REC: MESG:FULL
 msgctxt "000C36"
 msgid "Lamisi Owusu"
-msgstr ""
+msgstr "라미시 오우수"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_65, REC: MESG:FULL
 msgctxt "000C37"
 msgid "Ezra Omobowale"
-msgstr ""
+msgstr "에즈라 오모보왈레"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_64, REC: MESG:FULL
 msgctxt "000C38"
 msgid "Amaros Kamal"
-msgstr ""
+msgstr "아마로스 카말"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_63, REC: MESG:FULL
 msgctxt "000C39"
 msgid "Beck Carpenter"
-msgstr ""
+msgstr "벡 카펜터"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_76, REC: MESG:FULL
 msgctxt "000C3A"
 msgid "Bowie Miller"
-msgstr ""
+msgstr "보위 밀러"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_205, REC: MESG:FULL
 msgctxt "000C3B"
 msgid "Carter Carver"
-msgstr ""
+msgstr "카터 카버"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_19, REC: MESG:FULL
 msgctxt "000C3C"
 msgid "Kieran Sweeney"
-msgstr ""
+msgstr "키어런 스위니"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_02, REC: MESG:FULL
 msgctxt "000C3D"
 msgid "Zane Clancy"
-msgstr ""
+msgstr "제인 클랜시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_01, REC: MESG:FULL
 msgctxt "000C3E"
 msgid "Wade Hirsh"
-msgstr ""
+msgstr "웨이드 허쉬"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_249, REC: MESG:FULL
 msgctxt "000C3F"
 msgid "Wulandari Indra"
-msgstr ""
+msgstr "울란다리 인드라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_248, REC: MESG:FULL
 msgctxt "000C40"
 msgid "Ali Zhang"
-msgstr ""
+msgstr "알리 장"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_247, REC: MESG:FULL
 msgctxt "000C41"
 msgid "Jia Yu"
-msgstr ""
+msgstr "지아 유"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_246, REC: MESG:FULL
 msgctxt "000C42"
 msgid "Sandara Song"
-msgstr ""
+msgstr "산다라 송"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_39, REC: MESG:FULL
 msgctxt "000C43"
 msgid "Wynn Underwood"
-msgstr ""
+msgstr "윈 언더우드"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_244, REC: MESG:FULL
 msgctxt "000C44"
 msgid "Yuki Fujita"
-msgstr ""
+msgstr "유키 후지타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_243, REC: MESG:FULL
 msgctxt "000C45"
 msgid "Huoy Dara"
-msgstr ""
+msgstr "후오이 다라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_23, REC: MESG:FULL
 msgctxt "000C46"
 msgid "Aliq Taqqiq"
-msgstr ""
+msgstr "알리크 타키크"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_22, REC: MESG:FULL
 msgctxt "000C47"
 msgid "Arden Holmes"
-msgstr ""
+msgstr "아든 홈스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_21, REC: MESG:FULL
 msgctxt "000C48"
 msgid "Ash Martinez"
-msgstr ""
+msgstr "애쉬 마르티네즈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_20, REC: MESG:FULL
 msgctxt "000C49"
 msgid "Sol Adams"
-msgstr ""
+msgstr "솔 애덤스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_33, REC: MESG:FULL
 msgctxt "000C4A"
 msgid "Valentine Yoder"
-msgstr ""
+msgstr "발렌타인 요더"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_104, REC: MESG:FULL
 msgctxt "000C4B"
 msgid "Beck Price"
-msgstr ""
+msgstr "벡 프라이스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_17, REC: MESG:FULL
 msgctxt "000C4C"
 msgid "Jo Dalton"
-msgstr ""
+msgstr "조 달튼"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_16, REC: MESG:FULL
 msgctxt "000C4D"
 msgid "Kavi Patel"
-msgstr ""
+msgstr "카비 파텔"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_15, REC: MESG:FULL
 msgctxt "000C4E"
 msgid "Louison Steiner"
-msgstr ""
+msgstr "루이슨 슈타이너"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_14, REC: MESG:FULL
 msgctxt "000C4F"
 msgid "Aliq Hansen"
-msgstr ""
+msgstr "알리크 핸슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_13, REC: MESG:FULL
 msgctxt "000C50"
 msgid "Arden Okada"
-msgstr ""
+msgstr "아든 오카다"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_12, REC: MESG:FULL
 msgctxt "000C51"
 msgid "Ash Kontos"
-msgstr ""
+msgstr "애쉬 콘토스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_11, REC: MESG:FULL
 msgctxt "000C52"
 msgid "Sol Ocasio"
-msgstr ""
+msgstr "솔 오카시오"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_10, REC: MESG:FULL
 msgctxt "000C53"
 msgid "Kieran Sutton"
-msgstr ""
+msgstr "키어런 서튼"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_25, REC: MESG:FULL
 msgctxt "000C54"
 msgid "Kavi Suri"
-msgstr ""
+msgstr "카비 수리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_38, REC: MESG:FULL
 msgctxt "000C55"
@@ -6012,27 +6012,27 @@ msgstr "워드 레이놀즈"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_37, REC: MESG:FULL
 msgctxt "000C56"
 msgid "Frankie Dawson"
-msgstr ""
+msgstr "프랭키 도슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_36, REC: MESG:FULL
 msgctxt "000C57"
 msgid "Jo Clancy"
-msgstr ""
+msgstr "조 클랜시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_35, REC: MESG:FULL
 msgctxt "000C58"
 msgid "Paz Hirsh"
-msgstr ""
+msgstr "파즈 허쉬"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_34, REC: MESG:FULL
 msgctxt "000C59"
 msgid "Tal Morris"
-msgstr ""
+msgstr "탈 모리스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_61, REC: MESG:FULL
 msgctxt "000C5A"
 msgid "Winter Moore"
-msgstr ""
+msgstr "윈터 무어"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_04, REC: MESG:FULL
 msgctxt "000C5B"
@@ -6042,627 +6042,627 @@ msgstr "에이스 레이놀즈"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_223, REC: MESG:FULL
 msgctxt "000C5C"
 msgid "Allison Walker"
-msgstr ""
+msgstr "앨리슨 워커"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_222, REC: MESG:FULL
 msgctxt "000C5D"
 msgid "Jennifer Smith"
-msgstr ""
+msgstr "제니퍼 스미스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_221, REC: MESG:FULL
 msgctxt "000C5E"
 msgid "Angela Baker"
-msgstr ""
+msgstr "안젤라 베이커"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_220, REC: MESG:FULL
 msgctxt "000C5F"
 msgid "Molly Wigglesworth"
-msgstr ""
+msgstr "몰리 위글스워스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_219, REC: MESG:FULL
 msgctxt "000C60"
 msgid "Saoirse Murphy"
-msgstr ""
+msgstr "시어셔 머피"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_218, REC: MESG:FULL
 msgctxt "000C61"
 msgid "Iona Campbell"
-msgstr ""
+msgstr "아이오나 캠벨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_201, REC: MESG:FULL
 msgctxt "000C62"
 msgid "Belle Schwartz"
-msgstr ""
+msgstr "벨 슈바르츠"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_216, REC: MESG:FULL
 msgctxt "000C63"
 msgid "Francesca Bianchi"
-msgstr ""
+msgstr "프란체스카 비앙키"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_215, REC: MESG:FULL
 msgctxt "000C64"
 msgid "Carlotta Agostini"
-msgstr ""
+msgstr "카를로타 아고스티니"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_214, REC: MESG:FULL
 msgctxt "000C65"
 msgid "Klaudia Jankowski"
-msgstr ""
+msgstr "클라우디아 얀코프스키"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_213, REC: MESG:FULL
 msgctxt "000C66"
 msgid "Monika Pietrzak"
-msgstr ""
+msgstr "모니카 피에트르자크"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_242, REC: MESG:FULL
 msgctxt "000C67"
 msgid "Hiep Quan"
-msgstr ""
+msgstr "히엡 콴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_241, REC: MESG:FULL
 msgctxt "000C68"
 msgid "Tiya Padilla"
-msgstr ""
+msgstr "티야 파딜라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_240, REC: MESG:FULL
 msgctxt "000C69"
 msgid "Elisabeth Dubois"
-msgstr ""
+msgstr "엘리자베스 뒤부아"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_123, REC: MESG:FULL
 msgctxt "000C6A"
 msgid "Monika Martin"
-msgstr ""
+msgstr "모니카 마틴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_224, REC: MESG:FULL
 msgctxt "000C6B"
 msgid "Katheryn Evans"
-msgstr ""
+msgstr "캐서린 에반스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_237, REC: MESG:FULL
 msgctxt "000C6C"
 msgid "Apolline Girard"
-msgstr ""
+msgstr "아폴린 지라르"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_236, REC: MESG:FULL
 msgctxt "000C6D"
 msgid "Eleni Papoutsis"
-msgstr ""
+msgstr "엘레니 파푸트시스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_235, REC: MESG:FULL
 msgctxt "000C6E"
 msgid "Konstantina Kontos"
-msgstr ""
+msgstr "콘스탄티나 콘토스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_234, REC: MESG:FULL
 msgctxt "000C6F"
 msgid "Amara Saetang"
-msgstr ""
+msgstr "아마라 새탕"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_233, REC: MESG:FULL
 msgctxt "000C70"
 msgid "Annika Schmidt"
-msgstr ""
+msgstr "애니카 슈미트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_232, REC: MESG:FULL
 msgctxt "000C71"
 msgid "Lorelei Weber"
-msgstr ""
+msgstr "로렐라이 웨버"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_188, REC: MESG:FULL
 msgctxt "000C72"
 msgid "Sofia Lopez"
-msgstr ""
+msgstr "소피아 로페즈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_230, REC: MESG:FULL
 msgctxt "000C73"
 msgid "Nora Olsen"
-msgstr ""
+msgstr "노라 올슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_229, REC: MESG:FULL
 msgctxt "000C74"
 msgid "Laura Silva"
-msgstr ""
+msgstr "로라 실바"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_228, REC: MESG:FULL
 msgctxt "000C75"
 msgid "Adriana Batista"
-msgstr ""
+msgstr "아드리아나 바티스타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_08, REC: MESG:FULL
 msgctxt "000C76"
 msgid "Fran Lawson"
-msgstr ""
+msgstr "프랜 로슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_07, REC: MESG:FULL
 msgctxt "000C77"
 msgid "Lupe Calhoun"
-msgstr ""
+msgstr "뤼페 칼훈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_06, REC: MESG:FULL
 msgctxt "000C78"
 msgid "Cameron Strauss"
-msgstr ""
+msgstr "카메론 스트라우스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_238, REC: MESG:FULL
 msgctxt "000C79"
 msgid "Sylvie Moreau"
-msgstr ""
+msgstr "실비 모로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_196, REC: MESG:FULL
 msgctxt "000C7A"
 msgid "Emeka Ngoma"
-msgstr ""
+msgstr "에메카 응고마"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_181, REC: MESG:FULL
 msgctxt "000C7B"
 msgid "Grace Cassidy"
-msgstr ""
+msgstr "그레이스 캐시디"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_194, REC: MESG:FULL
 msgctxt "000C7C"
 msgid "Delilah Abott"
-msgstr ""
+msgstr "델라일라 애보트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_193, REC: MESG:FULL
 msgctxt "000C7D"
 msgid "Tabitha Doolittle"
-msgstr ""
+msgstr "타비사 둘리틀"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_192, REC: MESG:FULL
 msgctxt "000C7E"
 msgid "Brigid Flynn"
-msgstr ""
+msgstr "브리짓 플린"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_191, REC: MESG:FULL
 msgctxt "000C7F"
 msgid "Maeve Fitzpatrick"
-msgstr ""
+msgstr "메이브 피츠패트릭"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_190, REC: MESG:FULL
 msgctxt "000C80"
 msgid "Ciara O'Keeffe"
-msgstr ""
+msgstr "시아라 오키프"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_189, REC: MESG:FULL
 msgctxt "000C81"
 msgid "Maria Hernandez"
-msgstr ""
+msgstr "마리아 에르난데스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_231, REC: MESG:FULL
 msgctxt "000C82"
 msgid "Ella Virtanen"
-msgstr ""
+msgstr "엘라 비르타넨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_187, REC: MESG:FULL
 msgctxt "000C83"
 msgid "Isabella Smith"
-msgstr ""
+msgstr "이사벨라 스미스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_186, REC: MESG:FULL
 msgctxt "000C84"
 msgid "Catalina Jacobs"
-msgstr ""
+msgstr "카탈리나 제이콥스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_185, REC: MESG:FULL
 msgctxt "000C85"
 msgid "Aliza Flores"
-msgstr ""
+msgstr "앨라이자 플로레스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_184, REC: MESG:FULL
 msgctxt "000C86"
 msgid "Willa Parker"
-msgstr ""
+msgstr "윌라 파커"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_183, REC: MESG:FULL
 msgctxt "000C87"
 msgid "Hazel Bell"
-msgstr ""
+msgstr "헤이즐 벨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_212, REC: MESG:FULL
 msgctxt "000C88"
 msgid "Irina Stasevich"
-msgstr ""
+msgstr "이리나 스타세비치"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_62, REC: MESG:FULL
 msgctxt "000C89"
 msgid "Asher Fisher"
-msgstr ""
+msgstr "애셔 피셔"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_210, REC: MESG:FULL
 msgctxt "000C8A"
 msgid "Olga Lebedev"
-msgstr ""
+msgstr "올가 레베데프"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_209, REC: MESG:FULL
 msgctxt "000C8B"
 msgid "Nancy Lopez"
-msgstr ""
+msgstr "낸시 로페즈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_208, REC: MESG:FULL
 msgctxt "000C8C"
 msgid "Mary Jackson"
-msgstr ""
+msgstr "메리 잭슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_207, REC: MESG:FULL
 msgctxt "000C8D"
 msgid "Samantha Hernandez"
-msgstr ""
+msgstr "서맨사 에르난데스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_206, REC: MESG:FULL
 msgctxt "000C8E"
 msgid "Nova Parker"
-msgstr ""
+msgstr "노바 파커"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_205, REC: MESG:FULL
 msgctxt "000C8F"
 msgid "Zuri Carver"
-msgstr ""
+msgstr "주리 카버"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_204, REC: MESG:FULL
 msgctxt "000C90"
 msgid "Delilah Anderson"
-msgstr ""
+msgstr "델라일라 앤더슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_203, REC: MESG:FULL
 msgctxt "000C91"
 msgid "Daisy Cohen"
-msgstr ""
+msgstr "데이지 코헨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_202, REC: MESG:FULL
 msgctxt "000C92"
 msgid "Emily Silverman"
-msgstr ""
+msgstr "에밀리 실버만"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_217, REC: MESG:FULL
 msgctxt "000C93"
 msgid "Bianca Esposito"
-msgstr ""
+msgstr "비앙카 에스포지토"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_200, REC: MESG:FULL
 msgctxt "000C94"
 msgid "Clara Pryce"
-msgstr ""
+msgstr "클라라 프라이스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_199, REC: MESG:FULL
 msgctxt "000C95"
 msgid "Aliza Smith"
-msgstr ""
+msgstr "앨라이자 스미스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_198, REC: MESG:FULL
 msgctxt "000C96"
 msgid "Gertrude Jones"
-msgstr ""
+msgstr "거트루드 존스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_227, REC: MESG:FULL
 msgctxt "000C97"
 msgid "Myrtle Taylor"
-msgstr ""
+msgstr "머틀 테일러"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_226, REC: MESG:FULL
 msgctxt "000C98"
 msgid "Alice Wilson"
-msgstr ""
+msgstr "앨리스 윌슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_NB_176, REC: MESG:FULL
 msgctxt "000C99"
 msgid "Chance Jackson"
-msgstr ""
+msgstr "챈스 잭슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_109, REC: MESG:FULL
 msgctxt "000C9A"
 msgid "Aliza Moreno"
-msgstr ""
+msgstr "앨라이자 모레노"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_166, REC: MESG:FULL
 msgctxt "000C9B"
 msgid "Kalyani Sahu"
-msgstr ""
+msgstr "칼야니 사후"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_165, REC: MESG:FULL
 msgctxt "000C9C"
 msgid "Laila Khan"
-msgstr ""
+msgstr "라일라 칸"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_164, REC: MESG:FULL
 msgctxt "000C9D"
 msgid "Maryam Choudhary"
-msgstr ""
+msgstr "매리엄 초드하리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_163, REC: MESG:FULL
 msgctxt "000C9E"
 msgid "Aadrika Giri"
-msgstr ""
+msgstr "아드리카 기리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_162, REC: MESG:FULL
 msgctxt "000C9F"
 msgid "Padma Pathan"
-msgstr ""
+msgstr "파드마 파탄"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_161, REC: MESG:FULL
 msgctxt "000CA0"
 msgid "Anaisha Sahu"
-msgstr ""
+msgstr "아나이샤 사후"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_144, REC: MESG:FULL
 msgctxt "000CA1"
 msgid "Amara Kaya"
-msgstr ""
+msgstr "아마라 카야"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_159, REC: MESG:FULL
 msgctxt "000CA2"
 msgid "Wulandari Agung"
-msgstr ""
+msgstr "울란다리 아궁"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_158, REC: MESG:FULL
 msgctxt "000CA3"
 msgid "Ali Wang"
-msgstr ""
+msgstr "알리 왕"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_157, REC: MESG:FULL
 msgctxt "000CA4"
 msgid "Jia Liu"
-msgstr ""
+msgstr "지아 리우"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_156, REC: MESG:FULL
 msgctxt "000CA5"
 msgid "Sandara Ahn"
-msgstr ""
+msgstr "산다라 안"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_155, REC: MESG:FULL
 msgctxt "000CA6"
 msgid "Hiroko Matsura"
-msgstr ""
+msgstr "히로코 마츠라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_154, REC: MESG:FULL
 msgctxt "000CA7"
 msgid "Yuki Kobayashi"
-msgstr ""
+msgstr "유키 코바야시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_153, REC: MESG:FULL
 msgctxt "000CA8"
 msgid "Huoy Lim"
-msgstr ""
+msgstr "후오이 임"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_182, REC: MESG:FULL
 msgctxt "000CA9"
 msgid "Annie Turner"
-msgstr ""
+msgstr "애니 터너"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_197, REC: MESG:FULL
 msgctxt "000CAA"
 msgid "Akuba Bekele"
-msgstr ""
+msgstr "아쿠바 베켈레"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_180, REC: MESG:FULL
 msgctxt "000CAB"
 msgid "Annie Starr"
-msgstr ""
+msgstr "애니 스타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_179, REC: MESG:FULL
 msgctxt "000CAC"
 msgid "Hadley Doolin"
-msgstr ""
+msgstr "해들리 둘린"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_178, REC: MESG:FULL
 msgctxt "000CAD"
 msgid "Mabel Miller"
-msgstr ""
+msgstr "메이블 밀러"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_177, REC: MESG:FULL
 msgctxt "000CAE"
 msgid "Clementine Dalton"
-msgstr ""
+msgstr "클레먼틴 달튼"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_176, REC: MESG:FULL
 msgctxt "000CAF"
 msgid "Billie Jackson"
-msgstr ""
+msgstr "빌리 잭슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_175, REC: MESG:FULL
 msgctxt "000CB0"
 msgid "Winona Pickett"
-msgstr ""
+msgstr "위노나 피켓"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_131, REC: MESG:FULL
 msgctxt "000CB1"
 msgid "Angela Yu"
-msgstr ""
+msgstr "안젤라 유"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_173, REC: MESG:FULL
 msgctxt "000CB2"
 msgid "Tallulah Tilghman"
-msgstr ""
+msgstr "탈룰라 틸만"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_172, REC: MESG:FULL
 msgctxt "000CB3"
 msgid "Josephine Marlow"
-msgstr ""
+msgstr "조세핀 말로우"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_171, REC: MESG:FULL
 msgctxt "000CB4"
 msgid "Harriet Ford"
-msgstr ""
+msgstr "해리엇 포드"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_170, REC: MESG:FULL
 msgctxt "000CB5"
 msgid "Theresa Yarbrough"
-msgstr ""
+msgstr "테레사 야브로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_169, REC: MESG:FULL
 msgctxt "000CB6"
 msgid "Eliana Silverman"
-msgstr ""
+msgstr "엘리아나 실버만"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_168, REC: MESG:FULL
 msgctxt "000CB7"
 msgid "Rose Jacobs"
-msgstr ""
+msgstr "로즈 제이콥스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_211, REC: MESG:FULL
 msgctxt "000CB8"
 msgid "Anastasia Denisovich"
-msgstr ""
+msgstr "아나스타샤 데니소비치"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_167, REC: MESG:FULL
 msgctxt "000CB9"
 msgid "Emma Miller"
-msgstr ""
+msgstr "엠마 밀러"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_124, REC: MESG:FULL
 msgctxt "000CBA"
 msgid "Klaudia Mercier"
-msgstr ""
+msgstr "클라우디아 메르시에"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_137, REC: MESG:FULL
 msgctxt "000CBB"
 msgid "Myrtle Giri"
-msgstr ""
+msgstr "머틀 기리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_136, REC: MESG:FULL
 msgctxt "000CBC"
 msgid "Alice Pathan"
-msgstr ""
+msgstr "앨리스 파탄"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_135, REC: MESG:FULL
 msgctxt "000CBD"
 msgid "Rowena Roy"
-msgstr ""
+msgstr "로위나 로이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_134, REC: MESG:FULL
 msgctxt "000CBE"
 msgid "Katheryn Suri"
-msgstr ""
+msgstr "캐서린 수리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_133, REC: MESG:FULL
 msgctxt "000CBF"
 msgid "Allison Indra"
-msgstr ""
+msgstr "앨리슨 인드라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_132, REC: MESG:FULL
 msgctxt "000CC0"
 msgid "Jennifer Zhang"
-msgstr ""
+msgstr "제니퍼 장"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_174, REC: MESG:FULL
 msgctxt "000CC1"
 msgid "Scarlett St. Leon"
-msgstr ""
+msgstr "스칼렛 세인트 레온"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_130, REC: MESG:FULL
 msgctxt "000CC2"
 msgid "Molly Song"
-msgstr ""
+msgstr "몰리 송"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_129, REC: MESG:FULL
 msgctxt "000CC3"
 msgid "Saoirse Fujita"
-msgstr ""
+msgstr "시어셔 후지타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_128, REC: MESG:FULL
 msgctxt "000CC4"
 msgid "Iona Dara"
-msgstr ""
+msgstr "아이오나 다라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_127, REC: MESG:FULL
 msgctxt "000CC5"
 msgid "Bianca Quan"
-msgstr ""
+msgstr "비앙카 콴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_126, REC: MESG:FULL
 msgctxt "000CC6"
 msgid "Francesca Padilla"
-msgstr ""
+msgstr "프란체스카 파딜라"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_125, REC: MESG:FULL
 msgctxt "000CC7"
 msgid "Carlotta Dubois"
-msgstr ""
+msgstr "카를로타 뒤부아"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_65, REC: MESG:FULL
 msgctxt "000CC8"
 msgid "Emeka Omobowale"
-msgstr ""
+msgstr "에메카 오모보왈레"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_239, REC: MESG:FULL
 msgctxt "000CC9"
 msgid "Lucie Martin"
-msgstr ""
+msgstr "루시 마틴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_152, REC: MESG:FULL
 msgctxt "000CCA"
 msgid "Hiep Phan"
-msgstr ""
+msgstr "히엡 판"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_151, REC: MESG:FULL
 msgctxt "000CCB"
 msgid "Tiya Chan"
-msgstr ""
+msgstr "티야 챈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_150, REC: MESG:FULL
 msgctxt "000CCC"
 msgid "Elisabeth Robert"
-msgstr ""
+msgstr "엘리자베스 로버트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_149, REC: MESG:FULL
 msgctxt "000CCD"
 msgid "Lucie Petit"
-msgstr ""
+msgstr "루시 프티"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_148, REC: MESG:FULL
 msgctxt "000CCE"
 msgid "Sylvie Dupont"
-msgstr ""
+msgstr "실비 뒤퐁"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_147, REC: MESG:FULL
 msgctxt "000CCF"
 msgid "Apolline Bonnet"
-msgstr ""
+msgstr "아폴린 보닛"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_146, REC: MESG:FULL
 msgctxt "000CD0"
 msgid "Eleni Samaras"
-msgstr ""
+msgstr "엘레니 사마라스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_145, REC: MESG:FULL
 msgctxt "000CD1"
 msgid "Konstantina Koufos"
-msgstr ""
+msgstr "콘스탄티나 쿠포스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_160, REC: MESG:FULL
 msgctxt "000CD2"
 msgid "Nazo Singh"
-msgstr ""
+msgstr "나조 싱"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_143, REC: MESG:FULL
 msgctxt "000CD3"
 msgid "Annika Fischer"
-msgstr ""
+msgstr "애니카 피셔"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_142, REC: MESG:FULL
 msgctxt "000CD4"
 msgid "Lorelei Meyer"
-msgstr ""
+msgstr "로렐라이 마이어"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_141, REC: MESG:FULL
 msgctxt "000CD5"
 msgid "Ella Laine"
-msgstr ""
+msgstr "엘라 레인"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_140, REC: MESG:FULL
 msgctxt "000CD6"
 msgid "Nora Haugen"
-msgstr ""
+msgstr "노라 호건"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_139, REC: MESG:FULL
 msgctxt "000CD7"
 msgid "Laura Alonso"
-msgstr ""
+msgstr "로라 알론소"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_108, REC: MESG:FULL
 msgctxt "000CD8"
 msgid "Gertrude Navarro"
-msgstr ""
+msgstr "거트루드 나바로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_132, REC: MESG:FULL
 msgctxt "000CD9"
@@ -6672,387 +6672,387 @@ msgstr "리온 \"피범벅 코\" 앤더슨"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_64, REC: MESG:FULL
 msgctxt "000CDA"
 msgid "Kaara Kamal"
-msgstr ""
+msgstr "카아라 카말"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_63, REC: MESG:FULL
 msgctxt "000CDB"
 msgid "Delilah Carpenter"
-msgstr ""
+msgstr "델라일라 카펜터"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_92, REC: MESG:FULL
 msgctxt "000CDC"
 msgid "Molly Hawkes"
-msgstr ""
+msgstr "몰리 호키스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_91, REC: MESG:FULL
 msgctxt "000CDD"
 msgid "Margaret Daniels"
-msgstr ""
+msgstr "마가렛 대니얼스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_90, REC: MESG:FULL
 msgctxt "000CDE"
 msgid "Saoirse O'Berne"
-msgstr ""
+msgstr "시어셔 오베른"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_89, REC: MESG:FULL
 msgctxt "000CDF"
 msgid "Iona MacEanruig"
-msgstr ""
+msgstr "아이오나 매컨리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_72, REC: MESG:FULL
 msgctxt "000CE0"
 msgid "Emily Conroy"
-msgstr ""
+msgstr "에밀리 콘로이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_87, REC: MESG:FULL
 msgctxt "000CE1"
 msgid "Francesca Giordano"
-msgstr ""
+msgstr "프란체스카 지오다노"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_86, REC: MESG:FULL
 msgctxt "000CE2"
 msgid "Carlotta Moretti"
-msgstr ""
+msgstr "카를로타 모레티"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_85, REC: MESG:FULL
 msgctxt "000CE3"
 msgid "Klaudia Nowak"
-msgstr ""
+msgstr "클라우디아 노박"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_84, REC: MESG:FULL
 msgctxt "000CE4"
 msgid "Monika Kowalski"
-msgstr ""
+msgstr "모니카 코왈스키"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_83, REC: MESG:FULL
 msgctxt "000CE5"
 msgid "Irina Ivanova"
-msgstr ""
+msgstr "이리나 이바노바"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_82, REC: MESG:FULL
 msgctxt "000CE6"
 msgid "Anastasia Sokolov"
-msgstr ""
+msgstr "아나스타샤 소콜로프"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_81, REC: MESG:FULL
 msgctxt "000CE7"
 msgid "Olga Petrov"
-msgstr ""
+msgstr "올가 페트로프"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_24, REC: MESG:FULL
 msgctxt "000CE8"
 msgid "Maxime Mercier"
-msgstr ""
+msgstr "막심 메르시에"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_138, REC: MESG:FULL
 msgctxt "000CE9"
 msgid "Adriana Gomes"
-msgstr ""
+msgstr "아드리아나 고메스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_78, REC: MESG:FULL
 msgctxt "000CEA"
 msgid "Mary Williams"
-msgstr ""
+msgstr "메리 윌리엄스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_122, REC: MESG:FULL
 msgctxt "000CEB"
 msgid "Irina Moreau"
-msgstr ""
+msgstr "이리나 모로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_121, REC: MESG:FULL
 msgctxt "000CEC"
 msgid "Anastasia Girard"
-msgstr ""
+msgstr "아나스타샤 지라르"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_120, REC: MESG:FULL
 msgctxt "000CED"
 msgid "Olga Papoutsis"
-msgstr ""
+msgstr "올가 파푸트시스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_119, REC: MESG:FULL
 msgctxt "000CEE"
 msgid "Nancy Saetang"
-msgstr ""
+msgstr "낸시 새탕"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_118, REC: MESG:FULL
 msgctxt "000CEF"
 msgid "Mary Schmidt"
-msgstr ""
+msgstr "메리 슈미트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_104, REC: MESG:FULL
 msgctxt "000CF0"
 msgid "Delilah Price"
-msgstr ""
+msgstr "델라일라 프라이스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_116, REC: MESG:FULL
 msgctxt "000CF1"
 msgid "Nova Virtanen"
-msgstr ""
+msgstr "노바 비르타넨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_115, REC: MESG:FULL
 msgctxt "000CF2"
 msgid "Zuri Olsen"
-msgstr ""
+msgstr "주리 올슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_114, REC: MESG:FULL
 msgctxt "000CF3"
 msgid "Delilah Taqqiq"
-msgstr ""
+msgstr "델라일라 타키크"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_113, REC: MESG:FULL
 msgctxt "000CF4"
 msgid "Daisy Silva"
-msgstr ""
+msgstr "데이지 실바"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_112, REC: MESG:FULL
 msgctxt "000CF5"
 msgid "Emily Batista"
-msgstr ""
+msgstr "에밀리 바티스타"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_111, REC: MESG:FULL
 msgctxt "000CF6"
 msgid "Belle Romero"
-msgstr ""
+msgstr "벨 로메로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_79, REC: MESG:FULL
 msgctxt "000CF7"
 msgid "Nancy Johnson"
-msgstr ""
+msgstr "낸시 존슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_52, REC: MESG:FULL
 msgctxt "000CF8"
 msgid "Willa Stanton"
-msgstr ""
+msgstr "윌라 스탠턴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_37, REC: MESG:FULL
 msgctxt "000CF9"
 msgid "Theresa Dawson"
-msgstr ""
+msgstr "테레사 도슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_50, REC: MESG:FULL
 msgctxt "000CFA"
 msgid "Annie Boone"
-msgstr ""
+msgstr "애니 분"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_49, REC: MESG:FULL
 msgctxt "000CFB"
 msgid "Grace Price"
-msgstr ""
+msgstr "그레이스 프라이스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_48, REC: MESG:FULL
 msgctxt "000CFC"
 msgid "Annie Garrett"
-msgstr ""
+msgstr "애니 개럿"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_107, REC: MESG:FULL
 msgctxt "000CFD"
 msgid "Akuba Stanton"
-msgstr ""
+msgstr "아쿠바 스탠턴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_106, REC: MESG:FULL
 msgctxt "000CFE"
 msgid "Emeka Cole"
-msgstr ""
+msgstr "에메카 콜"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_105, REC: MESG:FULL
 msgctxt "000CFF"
 msgid "Kaara Boone"
-msgstr ""
+msgstr "카아라 분"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_117, REC: MESG:FULL
 msgctxt "000D00"
 msgid "Samantha Weber"
-msgstr ""
+msgstr "서맨사 웨버"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_103, REC: MESG:FULL
 msgctxt "000D01"
 msgid "Tabitha Garrett"
-msgstr ""
+msgstr "타비사 개럿"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_102, REC: MESG:FULL
 msgctxt "000D02"
 msgid "Brigid Cartwright"
-msgstr ""
+msgstr "브리짓 카트라이트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_101, REC: MESG:FULL
 msgctxt "000D03"
 msgid "Maeve McCoy"
-msgstr ""
+msgstr "메이브 맥코이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_100, REC: MESG:FULL
 msgctxt "000D04"
 msgid "Ciara Montgomery"
-msgstr ""
+msgstr "시아라 몬거머리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_99, REC: MESG:FULL
 msgctxt "000D05"
 msgid "Myrtle Palmer"
-msgstr ""
+msgstr "머틀 팔머"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_98, REC: MESG:FULL
 msgctxt "000D06"
 msgid "Alice Stuart"
-msgstr ""
+msgstr "앨리스 스튜어트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_51, REC: MESG:FULL
 msgctxt "000D07"
 msgid "Hazel Cole"
-msgstr ""
+msgstr "헤이즐 콜"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_96, REC: MESG:FULL
 msgctxt "000D08"
 msgid "Katheryn Edison"
-msgstr ""
+msgstr "캐서린 에디슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_95, REC: MESG:FULL
 msgctxt "000D09"
 msgid "Allison Allen"
-msgstr ""
+msgstr "앨리슨 앨런"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_94, REC: MESG:FULL
 msgctxt "000D0A"
 msgid "Jennifer Robinson"
-msgstr ""
+msgstr "제니퍼 로빈슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_93, REC: MESG:FULL
 msgctxt "000D0B"
 msgid "Angela Donoghue"
-msgstr ""
+msgstr "안젤라 도노휴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_77, REC: MESG:FULL
 msgctxt "000D0C"
 msgid "Samantha Brown"
-msgstr ""
+msgstr "서맨사 브라운"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_76, REC: MESG:FULL
 msgctxt "000D0D"
 msgid "Nova Miller"
-msgstr ""
+msgstr "노바 밀러"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_75, REC: MESG:FULL
 msgctxt "000D0E"
 msgid "Zuri King"
-msgstr ""
+msgstr "주리 킹"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_74, REC: MESG:FULL
 msgctxt "000D0F"
 msgid "Delilah Shepherd"
-msgstr ""
+msgstr "델라일라 셰퍼드"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_73, REC: MESG:FULL
 msgctxt "000D10"
 msgid "Daisy Goodwin"
-msgstr ""
+msgstr "데이지 굿윈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_88, REC: MESG:FULL
 msgctxt "000D11"
 msgid "Bianca Rossi"
-msgstr ""
+msgstr "비앙카 로시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_71, REC: MESG:FULL
 msgctxt "000D12"
 msgid "Belle Boyds"
-msgstr ""
+msgstr "벨 보이즈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_70, REC: MESG:FULL
 msgctxt "000D13"
 msgid "Clara Sylvius"
-msgstr ""
+msgstr "클라라 실비우스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_69, REC: MESG:FULL
 msgctxt "000D14"
 msgid "Keisha Ibrahim"
-msgstr ""
+msgstr "케이샤 이브라힘"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_68, REC: MESG:FULL
 msgctxt "000D15"
 msgid "Aliza Mason"
-msgstr ""
+msgstr "앨라이자 메이슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_67, REC: MESG:FULL
 msgctxt "000D16"
 msgid "Gertrude Omari"
-msgstr ""
+msgstr "거트루드 오마리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_66, REC: MESG:FULL
 msgctxt "000D17"
 msgid "Akuba Owusu"
-msgstr ""
+msgstr "아쿠바 오우수"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_23, REC: MESG:FULL
 msgctxt "000D18"
 msgid "Niviaq Taqqiq"
-msgstr ""
+msgstr "니비악 타키크"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_22, REC: MESG:FULL
 msgctxt "000D19"
 msgid "Margaret Holmes"
-msgstr ""
+msgstr "마가렛 홈스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_21, REC: MESG:FULL
 msgctxt "000D1A"
 msgid "Betty Martinez"
-msgstr ""
+msgstr "베티 마르티네즈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_20, REC: MESG:FULL
 msgctxt "000D1B"
 msgid "Keisha Adams"
-msgstr ""
+msgstr "케이샤 애덤스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_19, REC: MESG:FULL
 msgctxt "000D1C"
 msgid "Siobhan Sweeney"
-msgstr ""
+msgstr "시오반 스위니"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_18, REC: MESG:FULL
 msgctxt "000D1D"
 msgid "Susanna Bass"
-msgstr ""
+msgstr "수잔나 베이스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_47, REC: MESG:FULL
 msgctxt "000D1E"
 msgid "Susanna Cartwright"
-msgstr ""
+msgstr "수잔나 카트라이트"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_30, REC: MESG:FULL
 msgctxt "000D1F"
 msgid "Maryam Bai"
-msgstr ""
+msgstr "매리엄 바이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_45, REC: MESG:FULL
 msgctxt "000D20"
 msgid "Mabel Montgomery"
-msgstr ""
+msgstr "메이블 몬거머리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_44, REC: MESG:FULL
 msgctxt "000D21"
 msgid "Clementine Sutton"
-msgstr ""
+msgstr "클레먼틴 서튼"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_43, REC: MESG:FULL
 msgctxt "000D22"
 msgid "Billie Augustine"
-msgstr ""
+msgstr "빌리 어거스틴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_42, REC: MESG:FULL
 msgctxt "000D23"
 msgid "Winona Lawson"
-msgstr ""
+msgstr "위노나 로슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_41, REC: MESG:FULL
 msgctxt "000D24"
 msgid "Scarlett Calhoun"
-msgstr ""
+msgstr "스칼렛 칼훈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_40, REC: MESG:FULL
 msgctxt "000D25"
 msgid "Tallulah Strauss"
-msgstr ""
+msgstr "탈룰라 스트라우스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_39, REC: MESG:FULL
 msgctxt "000D26"
 msgid "Josephine Underwood"
-msgstr ""
+msgstr "조세핀 언더우드"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_38, REC: MESG:FULL
 msgctxt "000D27"
@@ -7062,157 +7062,157 @@ msgstr "해리엇 레이놀즈"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_53, REC: MESG:FULL
 msgctxt "000D28"
 msgid "Aliza Navarro"
-msgstr ""
+msgstr "앨라이자 나바로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_36, REC: MESG:FULL
 msgctxt "000D29"
 msgid "Martha Clancy"
-msgstr ""
+msgstr "마샤 클랜시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_35, REC: MESG:FULL
 msgctxt "000D2A"
 msgid "Eliana Hirsh"
-msgstr ""
+msgstr "엘리아나 허쉬"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_34, REC: MESG:FULL
 msgctxt "000D2B"
 msgid "Rose Morris"
-msgstr ""
+msgstr "로즈 모리스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_33, REC: MESG:FULL
 msgctxt "000D2C"
 msgid "Emma Yoder"
-msgstr ""
+msgstr "엠마 요더"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_62, REC: MESG:FULL
 msgctxt "000D2D"
 msgid "Tabitha Fisher"
-msgstr ""
+msgstr "타비사 피셔"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_61, REC: MESG:FULL
 msgctxt "000D2E"
 msgid "Brigid Moore"
-msgstr ""
+msgstr "브리짓 무어"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_10, REC: MESG:FULL
 msgctxt "000D2F"
 msgid "Siobhan Sutton"
-msgstr ""
+msgstr "시오반 서튼"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_59, REC: MESG:FULL
 msgctxt "000D30"
 msgid "Ciara O'Neill"
-msgstr ""
+msgstr "시아라 오닐"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_58, REC: MESG:FULL
 msgctxt "000D31"
 msgid "Siobhan Kerry"
-msgstr ""
+msgstr "시오반 케리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_57, REC: MESG:FULL
 msgctxt "000D32"
 msgid "Maria Romero"
-msgstr ""
+msgstr "마리아 로메로"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_56, REC: MESG:FULL
 msgctxt "000D33"
 msgid "Sofia Ramos"
-msgstr ""
+msgstr "소피아 라모스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_55, REC: MESG:FULL
 msgctxt "000D34"
 msgid "Isabella Ocasio"
-msgstr ""
+msgstr "이사벨라 오카시오"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_54, REC: MESG:FULL
 msgctxt "000D35"
 msgid "Catalina Moreno"
-msgstr ""
+msgstr "카탈리나 모레노"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_97, REC: MESG:FULL
 msgctxt "000D36"
 msgid "Rowena Chambers"
-msgstr ""
+msgstr "로위나 체임버스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_225, REC: MESG:FULL
 msgctxt "000D37"
 msgid "Rowena Milton"
-msgstr ""
+msgstr "로위나 밀턴"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_02, REC: MESG:FULL
 msgctxt "000D38"
 msgid "Annie Clancy"
-msgstr ""
+msgstr "애니 클랜시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_01, REC: MESG:FULL
 msgctxt "000D39"
 msgid "Grace Hirsh"
-msgstr ""
+msgstr "그레이스 허쉬"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_60, REC: MESG:FULL
 msgctxt "000D3A"
 msgid "Maeve Walsh"
-msgstr ""
+msgstr "메이브 월시"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_16, REC: MESG:FULL
 msgctxt "000D3B"
 msgid "Angeza Patel"
-msgstr ""
+msgstr "안제자 파텔"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_15, REC: MESG:FULL
 msgctxt "000D3C"
 msgid "Maxime Steiner"
-msgstr ""
+msgstr "막심 슈타이너"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_14, REC: MESG:FULL
 msgctxt "000D3D"
 msgid "Niviaq Hansen"
-msgstr ""
+msgstr "니비악 핸슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_13, REC: MESG:FULL
 msgctxt "000D3E"
 msgid "Margaret Okada"
-msgstr ""
+msgstr "마가렛 오카다"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_12, REC: MESG:FULL
 msgctxt "000D3F"
 msgid "Betty Kontos"
-msgstr ""
+msgstr "베티 콘토스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_11, REC: MESG:FULL
 msgctxt "000D40"
 msgid "Keisha Ocasio"
-msgstr ""
+msgstr "케이샤 오카시오"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_17, REC: MESG:FULL
 msgctxt "000D41"
 msgid "Martha Dalton"
-msgstr ""
+msgstr "마샤 달튼"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_80, REC: MESG:FULL
 msgctxt "000D42"
 msgid "Betty Smith"
-msgstr ""
+msgstr "베티 스미스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_08, REC: MESG:FULL
 msgctxt "000D43"
 msgid "Sofia Lawson"
-msgstr ""
+msgstr "소피아 로슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_07, REC: MESG:FULL
 msgctxt "000D44"
 msgid "Isabella Calhoun"
-msgstr ""
+msgstr "이사벨라 칼훈"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_06, REC: MESG:FULL
 msgctxt "000D45"
 msgid "Catalina Strauss"
-msgstr ""
+msgstr "카탈리나 스트라우스"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_05, REC: MESG:FULL
 msgctxt "000D46"
 msgid "Aliza Underwood"
-msgstr ""
+msgstr "앨라이자 언더우드"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_04, REC: MESG:FULL
 msgctxt "000D47"
@@ -7222,52 +7222,52 @@ msgstr "윌라 레이놀즈"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_03, REC: MESG:FULL
 msgctxt "000D48"
 msgid "Hazel Dawson"
-msgstr ""
+msgstr "헤이즐 도슨"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_32, REC: MESG:FULL
 msgctxt "000D49"
 msgid "Kalyani Barman"
-msgstr ""
+msgstr "칼야니 바르만"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_31, REC: MESG:FULL
 msgctxt "000D4A"
 msgid "Laila Devi"
-msgstr ""
+msgstr "라일라 데비"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_46, REC: MESG:FULL
 msgctxt "000D4B"
 msgid "Hadley McCoy"
-msgstr ""
+msgstr "해들리 맥코이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_29, REC: MESG:FULL
 msgctxt "000D4C"
 msgid "Aadrika Sahu"
-msgstr ""
+msgstr "아드리카 사후"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_28, REC: MESG:FULL
 msgctxt "000D4D"
 msgid "Padma Giri"
-msgstr ""
+msgstr "파드마 기리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_27, REC: MESG:FULL
 msgctxt "000D4E"
 msgid "Anaisha Pathan"
-msgstr ""
+msgstr "아나이샤 파탄"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_26, REC: MESG:FULL
 msgctxt "000D4F"
 msgid "Nazo Roy"
-msgstr ""
+msgstr "나조 로이"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_25, REC: MESG:FULL
 msgctxt "000D50"
 msgid "Angeza Suri"
-msgstr ""
+msgstr "안제자 수리"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_F_09, REC: MESG:FULL
 msgctxt "000D51"
 msgid "Maria Augustine"
-msgstr ""
+msgstr "마리아 어거스틴"
 
 # List: 0, EDID: SFBGS003_Formlist_RandomNames_Faction_Any, REC: FLST:FULL
 msgctxt "000D52"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-06-23 05:12+0000\n"
+"PO-Revision-Date: 2024-06-29 11:04+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -1740,7 +1740,7 @@ msgstr "현상수배: 스타재커"
 # List: 0, EDID: SFBGS003_Loot_Storage_PrimerCase, REC: CONT:FULL
 msgctxt "0008DC"
 msgid "Ammo Case"
-msgstr ""
+msgstr "실탄 상자"
 
 # List: 0, EDID: SFTA00_JunkerShip, REC: GBFM:FULL
 msgctxt "0008DD"

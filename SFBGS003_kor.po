@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-06-29 11:04+0000\n"
-"Last-Translator: singularity <eldergmg@gmail.com>\n"
+"PO-Revision-Date: 2024-07-04 03:49+0000\n"
+"Last-Translator: secarnadia <ellwionsia@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -446,7 +446,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "000030"
 msgid "Subject: RE: Keep snacks in the living quarters!"
-msgstr "제목: 답장: 거주실 안에 과자를 쟁여놔!"
+msgstr "제목: 답변: 거주실 안에 과자를 쟁여놔!"
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Personal, REC:
 # TMLM:UNAM
@@ -1782,7 +1782,7 @@ msgstr ""
 # TMLM:ITXT
 msgctxt "0008E5"
 msgid "Subject: RE: Custom Cargo"
-msgstr "제목: 답장: 맞춤 제작 화물칸"
+msgstr "제목: 답변: 맞춤 제작 화물칸"
 
 # List: 0, EDID: mod_PlasmaCutter_Muzzle_None, REC: OMOD:FULL
 msgctxt "0008E6"

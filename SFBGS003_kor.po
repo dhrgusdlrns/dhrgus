@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-07-08 03:40+0000\n"
+"PO-Revision-Date: 2024-07-08 08:41+0000\n"
 "Last-Translator: 땍땍이 <kidiksentrik@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -164,6 +164,13 @@ msgid ""
 "\n"
 "Many hardships await us but I trust we'll find a way."
 msgstr ""
+"수년이 걸렸으나 마침내 이 우주선을 구매할 만큼의 자금을 모으는 데 성공했다. 소음과 불빛, 도적과 사기꾼들이 만연한 네온은 가정을 "
+"이루기에 적합한 장소가 아니었다. \n"
+"\n"
+"오늘 우리 일행 여덟 명은 새로운 삶을 시작할 수 있는 보다 나은 환경을 찾아 출발한다. 우리의 목적지는 어디일까? 모르긴 해도, "
+"도착하게 되면 알 수 있으리라 믿는다. \n"
+"\n"
+"수많은 고난이 우리를 기다리고 있을 테지만, 우리는 길을 찾아낼 것이다."
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs, REC:
 # TMLM:ITXT
@@ -183,6 +190,13 @@ msgid ""
 "\n"
 "Oh well hopefully they learned you can't be too careful out here."
 msgstr ""
+"출발한 지 일주일 남짓 지났고, 모든 상황이 순조롭다. 최근 며칠간 야파 항성계를 탐사하였다. \n"
+"\n"
+"야파 II의 해안선은 실로 절경이다. 출발 전 물과 식량을 충분히 비축하였으나, 차후 충분히 재방문할 가치가 있는 곳이다.\n"
+"\n"
+"야파 V의 궤도에서 현장 학습 중이던 학생 집단과 조우하였다. 해적 흉내를 내어 그녀석들을 다소 놀라게 한 것 같다. \n"
+"\n"
+"뭐, 이걸로 우주 공간에서 방심해서는 안 된다는 교훈을 배웠길 바란다."
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs, REC:
 # TMLM:ITXT
@@ -200,6 +214,11 @@ msgid ""
 "\n"
 "We're going to keep looking for now but unless we find somewhere better I think we'll begin settling here very soon!"
 msgstr ""
+"라스알하게 II가 우리의 선택지로 부상하였다. 명칭은 발음하긴 난해해도, 기후가 쾌적하고 울창한 숲이 훌륭한 그늘을 제공한다. \n"
+"\n"
+"토착종인 리처들은 예상 외로 맛이 괜찮았다. 다만 근접 시 가시를 발사하므로 일정 거리를 유지해야 한다. 어떻게 알게 됐는지는 뭐...\n"
+"\n"
+"현재로서는 탐사를 지속할 예정이나, 더 나은 환경을 발견하지 못한다면 근시일 내에 이곳에 정착할 것 같다!"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs, REC:
 # TMLM:ITXT
@@ -219,6 +238,14 @@ msgid ""
 "\n"
 "Thought we'd be stuck out here forever. Just goes to show, do good things and good things will come."
 msgstr ""
+"그룸브릿지 외곽에서 중력 구동기가 고장났다. 짐벌의 수명이 다한 것은 예견된 일이었다. 도중에 만난 사람들과 교환을 시도했으나, 여분을 "
+"보유한 이가 전무했다.\n"
+"\n"
+"도처에 널려 있다고 생각했던 물건을 구하기가 이렇게 힘들었을 줄이야!\n"
+"\n"
+"다행히도 인근 함선이 우리의 통신을 수신하여 안드로마스의 인접 정거장으로 예인해주겠다고 전해왔다.\n"
+"\n"
+"영영 고립될 것이라 우려했지만, 역시 좋은 일을 하면 복이 온다는 말이 맞는 것 같다."
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs, REC:
 # TMLM:ITXT
@@ -234,6 +261,9 @@ msgid ""
 "\n"
 "We're currently trapped in orbit around Groombridge VIII-a. I repeat, any nearby ships please send help!"
 msgstr ""
+"이 메시지를 수신하는 주변의 모든 선박에게, 도움을 보내주길 요청한다. 스페이서들에게 납치당하고 있다! \n"
+"\n"
+"우리는 현재 그룸브릿지 VIII-a의 궤도에 갇혀 있다. 반복한다, 주변의 모든 선박은 지원을 보내달라!"
 
 # List: 0, EDID: SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs, REC:
 # TMLM:ITXT
@@ -325,6 +355,15 @@ msgid ""
 "\n"
 "I'd also personally like to thank Priya, Bohdan, and Ashe. Without you none of this would have been possible in the first place."
 msgstr ""
+"전 직원에게,\n"
+"\n"
+"무거운 마음으로 본 시설의 폐쇄를 공지하는 바입니다. 예기치 못한 상황으로 인해 더 이상 운영을 지속할 수 없게 되었습니다.\n"
+"\n"
+"지난 수년간 우리는 경제적 어려움에 처한 수많은 이들에게 저렴하면서도 신뢰할 수 있는 정비 서비스를 제공해 왔습니다.\n"
+"\n"
+"여러분 한 분 한 분의 노고 없이는 지금의 성과를 이루지 못했을 것이며, 우리가 이룬 모든 업적에 대해 자부심을 느낍니다.\n"
+"\n"
+"특히 프리야, 보단, 애쉬에게 개인적으로 감사의 뜻을 전하고 싶습니다. 여러분이 없었다면 이 모든 것이 애초에 불가능했을 것입니다."
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Memos, REC:
 # TMLM:ITXT

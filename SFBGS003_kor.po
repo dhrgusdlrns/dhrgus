@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-07-09 00:45+0000\n"
-"Last-Translator: 땍땍이 <kidiksentrik@gmail.com>\n"
+"PO-Revision-Date: 2024-07-09 15:16+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -194,7 +194,7 @@ msgstr ""
 "\n"
 "야파 II의 해안선은 실로 절경이다. 출발 전 물과 식량을 충분히 비축하였으나, 차후 충분히 재방문할 가치가 있는 곳이다.\n"
 "\n"
-"야파 V의 궤도에서 현장 학습 중이던 학생 집단과 조우하였다. 해적 흉내를 내어 그녀석들을 다소 놀라게 한 것 같다. \n"
+"야파 V의 궤도에서 현장 학습 중이던 학생 집단과 조우하였다. 해적 흉내를 내어 그 녀석들을 다소 놀라게 한 것 같다. \n"
 "\n"
 "뭐, 이걸로 우주 공간에서 방심해서는 안 된다는 교훈을 배웠길 바란다."
 
@@ -424,6 +424,11 @@ msgid ""
 "\n"
 "Also, if I float into another one of your used tissues the whole lot of you are going out the airlock."
 msgstr ""
+"고정되지 않은 모든 물건을 안전하게 결속하도록 상기시켜 드립니다. 중량물의 경우 반드시 자기 클램프를 사용하여 고정하십시오.\n"
+"\n"
+"전례의 랜디 일과 같은 상황이 재발하지 않도록 각별히 유의하시기 바랍니다.\n"
+"\n"
+"또한, 한 번만 더 여러분이 사용한 티슈들이 공중에 떠다니게 된다면, 다수의 인원들을 에어락 바깥으로 방출할 것임을 경고합니다."
 
 # List: 0, EDID: SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Memos, REC:
 # TMLM:ITXT
@@ -2717,7 +2722,7 @@ msgstr "코다 \"칠흑도\" 카버"
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_172, REC: MESG:FULL
 msgctxt "0009B9"
 msgid "Lieutenant Kowalski"
-msgstr "대위 코왈스키"
+msgstr "코왈스키 대위"
 
 # List: 0, EDID: SFBGS003_BountyTarget_Name_Any_171, REC: MESG:FULL
 msgctxt "0009BA"
@@ -7370,27 +7375,28 @@ msgstr ""
 # List: 0, EDID: mod_PlasmaCutter_Quality_01, REC: OMOD:FULL
 msgctxt "000D5C"
 msgid "Quality Level 01"
-msgstr ""
+msgstr "Quality Level 01"
 
 # List: 0, EDID: mod_PlasmaCutter_Quality_02, REC: OMOD:FULL
 msgctxt "000D5D"
 msgid "Quality Level 02"
-msgstr ""
+msgstr "Quality Level 02"
 
 # List: 0, EDID: mod_PlasmaCutter_Quality_03, REC: OMOD:FULL
 msgctxt "000D5E"
 msgid "Quality Level 03"
-msgstr ""
+msgstr "Quality Level 03"
 
 # List: 0, EDID: mod_PlasmaCutter_Quality_04, REC: OMOD:FULL
 msgctxt "000D5F"
 msgid "Quality Level 04"
-msgstr ""
+msgstr "Quality Level 04"
 
 # List: 0, EDID: mod_PlasmaCutter_Quality_TiersAny, REC: OMOD:FULL
+#, fuzzy
 msgctxt "000D60"
 msgid "Quality Tiers Any"
-msgstr ""
+msgstr "Quality Tiers Any"
 
 # List: 0, EDID: Patch_Update05_Hotfix01, REC: QUST:FULL
 msgctxt "000D61"
@@ -7410,7 +7416,7 @@ msgstr "임무"
 # List: 0, EDID: AK_Chair_Bar_01_AtBar_WideActivation, REC: FURN:FULL
 msgctxt "0070C4"
 msgid "Chair"
-msgstr ""
+msgstr "의자"
 
 # List: 0, EDID: FC_AC_TrackersAllianceAgent, REC: NPC_:SHRT
 msgctxt "00E09E"
@@ -7455,7 +7461,7 @@ msgstr "추적자 동맹 대행인"
 # List: 0, EDID: [FD0027C9], REC: REFR:FULL
 msgctxt "00F557"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 감지 물체"
 
 # List: 0, EDID: [00207B8C], REC: REFR:FULL
 msgctxt "00F56C"

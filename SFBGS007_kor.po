@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-27 00:51+0900\n"
-"PO-Revision-Date: 2024-06-15 17:04+0000\n"
+"PO-Revision-Date: 2024-07-09 15:16+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -792,7 +792,7 @@ msgstr ""
 # List: 0, EDID: PEO_GPO_AfflictionPrognosis, REC: GPOF:NNAM
 msgctxt "00008E"
 msgid "Affliction Prognosis"
-msgstr "상태 이상과 예후"
+msgstr "상태 이상 예후"
 
 # List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:RESN
 msgctxt "00008F"
@@ -900,7 +900,7 @@ msgstr ""
 # List: 0, EDID: PEO_GPO_FoodHealing, REC: GPOF:NNAM
 msgctxt "00009E"
 msgid "Food Healing"
-msgstr "음식 섭취시 체력 회복량"
+msgstr "음식 섭취시 체력 회복"
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:RESN
 msgctxt "00009F"

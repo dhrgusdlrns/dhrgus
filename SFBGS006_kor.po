@@ -6,1998 +6,2048 @@ msgstr ""
 "PO-Revision-Date: 2024-05-26 15:51+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: kor\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-#
-
-# List: 0, EDID: SMS_Hab_Deimos_Cargo_Empty_3L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_Cargo_Empty_3L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002C6"
 msgid "Deimos Cargo Hall Empty 3x2"
 msgstr "데이모스 화물실 빈칸 3x2"
 
-# List: 0, EDID: SMS_Hab_Deimos_Control_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_Control_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002C7"
 msgid "Deimos Control Station Empty 2x1"
 msgstr "데이모스 제어실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Deimos_Engineering_Empty_2L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_Engineering_Empty_2L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002C8"
 msgid "Deimos Engineering Bay Empty 2x2"
 msgstr "데이모스 기관실 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_Deimos_Engineering_Empty_3L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_Engineering_Empty_3L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002C9"
 msgid "Deimos Engineering Bay A Empty 3x1"
 msgstr "데이모스 기관실 A 빈칸 3x1"
 
-# List: 0, EDID: SMS_Hab_Stroud_MessHall_Empty_3L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_MessHall_Empty_3L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002CA"
 msgid "Stroud Mess Hall Empty 3x2"
 msgstr "스트라우드 식당 빈칸 3x2"
 
-# List: 0, EDID: SMS_Hab_Deimos_Infirmary_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_Infirmary_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002CB"
 msgid "Deimos Infirmary Empty 2x1"
 msgstr "데이모스 의무실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Stroud_Cargo_Empty_2L3W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_Cargo_Empty_2L3W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002CC"
 msgid "Stroud Cargo Hall Empty 2x3"
 msgstr "스트라우드 화물실 빈칸 2x3"
 
-# List: 0, EDID: SMS_Hab_Nova_BerthingAll_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_BerthingAll_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002CD"
 msgid "Nova Galactic All-in-One Berth Empty 2x1 A"
 msgstr "노바 갤럭틱 다목적실 빈칸 2x1 A"
 
-# List: 0, EDID: SMS_Hab_Deimos_BerthingAll_Empty_3L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_BerthingAll_Empty_3L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002CE"
 msgid "Deimos All-in-One Berth Empty 3x1"
 msgstr "데이모스 다목적실 빈칸 3x1"
 
-# List: 0, EDID: SMS_Hab_Nova_Engineering_Empty_3L1W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_Engineering_Empty_3L1W1H
+#. REC = GBFM:FULL
 msgctxt "0002CF"
 msgid "Nova Galactic Engineering Bay Empty 3x1"
 msgstr "노바 갤럭틱 기관실 빈칸 3x1"
 
-# List: 0, EDID: SMS_Hab_Stroud_LivingSpace_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_LivingSpace_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002D0"
 msgid "Stroud Living Quarters Empty 2x1"
 msgstr "스트라우드 거주실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Control_Empty_2L1W1H_Btm_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Control_Empty_2L1W1H_Btm_B
+#. REC = GBFM:FULL
 msgctxt "0002D1"
 msgid "Taiyo Control Station Empty 2x1 Bottom B"
 msgstr "타이요 제어실 빈칸 2x1 하단 B"
 
-# List: 0, EDID: SMS_Hab_Nova_BattleStations_Empty_2L2W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_BattleStations_Empty_2L2W1H
+#. REC = GBFM:FULL
 msgctxt "0002D2"
 msgid "Nova Galactic Battle Stations Empty 2x2"
 msgstr "노바 갤럭틱 전투지휘실 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Engineering_Empty_3L1W1H_Mid_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Engineering_Empty_3L1W1H_Mid_A
+#. REC = GBFM:FULL
 msgctxt "0002D3"
 msgid "Taiyo Engineering Bay Empty 3x1 Mid"
 msgstr "타이요 기관실 빈칸 3x1 중단"
 
-# List: 0, EDID: SMS_Hab_Deimos_LivingSpace_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_LivingSpace_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002D4"
 msgid "Deimos Living Quarters Empty 2x1"
 msgstr "데이모스 거주실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Nova_Cargo_Empty_3L3W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_Cargo_Empty_3L3W1H
+#. REC = GBFM:FULL
 msgctxt "0002D5"
 msgid "Nova Galactic Cargo Hall Empty 3x3"
 msgstr "노바 갤럭틱 화물실 빈칸 3x3"
 
-# List: 0, EDID: SMS_Hab_Nova_Armory_Empty_2L1W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_Armory_Empty_2L1W1H
+#. REC = GBFM:FULL
 msgctxt "0002D6"
 msgid "Nova Galactic Armory Empty 2x1"
 msgstr "노바 갤럭틱 장비실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Deimos_MessHall_Empty_2L3W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_MessHall_Empty_2L3W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002D7"
 msgid "Deimos Mess Hall Empty 2x3"
 msgstr "데이모스 식당 빈칸 2x3"
 
-# List: 0, EDID: SMS_Hab_Taiyo_BattleStations_Empty_2L2W1H_Mid_A, REC:
 # GBFM:FULL
 msgctxt "0002D8"
 msgid "Taiyo Battle Stations Empty 2x2 Mid"
 msgstr "타이요 전투지휘실 빈칸 2x2 중단"
 
-# List: 0, EDID: SMS_Hab_Deimos_Science_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_Science_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002D9"
 msgid "Deimos Science Lab Empty 2x1"
 msgstr "데이모스 과학실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Deimos_Workshop_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_Workshop_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002DA"
 msgid "Deimos Workshop Empty 2x1"
 msgstr "데이모스 작업실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Deimos_LivingQuarters_Empty_3L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_LivingQuarters_Empty_3L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002DB"
 msgid "Deimos Living Quarters Empty 3x1"
 msgstr "데이모스 거주실 빈칸 3x1"
 
-# List: 0, EDID: SMS_Hab_HopeTech_Cargo_Empty_3L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_Cargo_Empty_3L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002DC"
 msgid "HopeTech Cargo Hall Empty 3x2"
 msgstr "호프테크 화물실 빈칸 3x2"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Cargo_Empty_2L3W1H_Top_C, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Cargo_Empty_2L3W1H_Top_C
+#. REC = GBFM:FULL
 msgctxt "0002DD"
 msgid "Taiyo Hab Cargo Hall Empty 2x3 Top C"
 msgstr "타이요 선실 화물실 빈칸 2x3 상단 C"
 
-# List: 0, EDID: SMS_Hab_Stroud_BerthingAll_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_BerthingAll_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002DE"
 msgid "Stroud All-in-One Berth Empty 2x1 A"
 msgstr "스트라우드 다목적실 빈칸 2x1 A"
 
-# List: 0, EDID: SMS_Hab_Stroud_BerthingAll_Empty_3L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_BerthingAll_Empty_3L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002DF"
 msgid "Stroud All-in-One Berth Empty 3x1"
 msgstr "스트라우드 다목적실 빈칸 3x1"
 
-# List: 0, EDID: SMS_Hab_Deimos_ComputerCore_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_ComputerCore_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002E0"
 msgid "Deimos Computer Core Empty 2x1"
 msgstr "데이모스 컴퓨터 코어 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Deimos_LivingQuarters_Empty_2L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_LivingQuarters_Empty_2L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002E1"
 msgid "Deimos Living Quarters Empty 2x2"
 msgstr "데이모스 거주실 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_HopeTech_Engineering_Empty_3L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_Engineering_Empty_3L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002E2"
 msgid "HopeTech Engineering Bay Empty 3x1"
 msgstr "호프테크 기관실 빈칸 3x1"
 
-# List: 0, EDID: SMS_Hab_Deimos_Cargo_Empty_2L3W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_Cargo_Empty_2L3W1H
+#. REC = GBFM:FULL
 msgctxt "0002E3"
 msgid "Deimos Cargo Hall Empty 2x3"
 msgstr "데이모스 화물실 빈칸 2x3"
 
-# List: 0, EDID: SMS_Hab_Deimos_ComputerCore_Empty_2L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_ComputerCore_Empty_2L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002E4"
 msgid "Deimos Computer Core Empty 2x2"
 msgstr "데이모스 컴퓨터 코어 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Engineering_Empty_3L1W1H_Top_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Engineering_Empty_3L1W1H_Top_B
+#. REC = GBFM:FULL
 msgctxt "0002E5"
 msgid "Taiyo Engineering Bay Empty 3x1 Top B"
 msgstr "타이요 기관실 빈칸 3x1 상단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Engineering_Empty_3L1W1H_Btm_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Engineering_Empty_3L1W1H_Btm_A
+#. REC = GBFM:FULL
 msgctxt "0002E6"
 msgid "Taiyo Engineering Bay Empty 3x1 Bottom A"
 msgstr "타이요 기관실 빈칸 3x1 하단 A"
 
-# List: 0, EDID: SMS_Hab_Stroud_LivingQuarters_Empty_2L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_LivingQuarters_Empty_2L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002E7"
 msgid "Stroud Living Quarters Empty 2x2"
 msgstr "스트라우드 거주실 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Engineering_Empty_3L1W1H_Btm_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Engineering_Empty_3L1W1H_Btm_B
+#. REC = GBFM:FULL
 msgctxt "0002E8"
 msgid "Taiyo Engineering Bay Empty 3x1 Bottom B"
 msgstr "타이요 기관실 빈칸 3x1 하단 B"
 
-# List: 0, EDID: SMS_Hab_Deimos_BattleStations_Empty_2L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_BattleStations_Empty_2L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002E9"
 msgid "Deimos Battle Stations Empty 2x2"
 msgstr "데이모스 전투지휘실 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Engineering_Empty_3L1W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Engineering_Empty_3L1W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "0002EA"
 msgid "Taiyo Engineering Bay Empty 3x1 Top A"
 msgstr "타이요 기관실 빈칸 3x1 상단 A"
 
-# List: 0, EDID: SMS_Hab_Stroud_CapQuarters01_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_CapQuarters01_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002EB"
 msgid "Stroud Captain's Quarters Empty 2x1"
 msgstr "스트라우드 선장실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Taiyo_BattleStations_Empty_2L2W1H_Btm_B, REC:
 # GBFM:FULL
 msgctxt "0002EC"
 msgid "Taiyo Battle Stations Empty 2x2 Bottom B"
 msgstr "타이요 전투지휘실 빈칸 2x2 하단 B"
 
-# List: 0, EDID: SMS_Hab_Deimos_MessHall_Empty_3L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_MessHall_Empty_3L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002ED"
 msgid "Deimos Mess Hall Empty 3x2"
 msgstr "데이모스 식당 빈칸 3x2"
 
-# List: 0, EDID: SMS_Hab_Deimos_Armory_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_Armory_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002EE"
 msgid "Deimos Armory Empty 2x1"
 msgstr "데이모스 장비실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Deimos_Engineering_Empty_3L1W1H_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_Engineering_Empty_3L1W1H_B
+#. REC = GBFM:FULL
 msgctxt "0002EF"
 msgid "Deimos Engineering Bay B Empty 3x1"
 msgstr "데이모스 기관실 B 빈칸 3x1"
 
-# List: 0, EDID: SMS_Hab_Deimos_Cargo_Empty_2L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_Cargo_Empty_2L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002F0"
 msgid "Deimos Cargo Hall Empty 2x2"
 msgstr "데이모스 화물실 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_Nova_MessHall_Empty_2L3W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_MessHall_Empty_2L3W1H
+#. REC = GBFM:FULL
 msgctxt "0002F1"
 msgid "Nova Galactic Mess Hall Empty 2x3"
 msgstr "노바 갤럭틱 식당 빈칸 2x3"
 
-# List: 0, EDID: SMS_Hab_Taiyo_BattleStations_Empty_2L2W1H_Btm_A, REC:
 # GBFM:FULL
 msgctxt "0002F2"
 msgid "Taiyo Battle Stations Empty 2x2 Bottom A"
 msgstr "타이요 전투지휘실 빈칸 2x2 하단 A"
 
-# List: 0, EDID: SMS_Hab_Nova_MessHall_Empty_3L2W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_MessHall_Empty_3L2W1H
+#. REC = GBFM:FULL
 msgctxt "0002F3"
 msgid "Nova Galactic Mess Hall Empty 3x2"
 msgstr "노바 갤럭틱 식당 빈칸 3x2"
 
-# List: 0, EDID: SMS_Hab_Nova_Control_Empty_2L1W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_Control_Empty_2L1W1H
+#. REC = GBFM:FULL
 msgctxt "0002F4"
 msgid "Nova Galactic Control Station Empty 2x1"
 msgstr "노바 갤럭틱 제어실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Nova_Infirmary_Empty_2L1W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_Infirmary_Empty_2L1W1H
+#. REC = GBFM:FULL
 msgctxt "0002F5"
 msgid "Nova Galactic Infirmary Empty 2x1"
 msgstr "노바 갤럭틱 의무실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Nova_LivingQuarters_Empty_2L1W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_LivingQuarters_Empty_2L1W1H
+#. REC = GBFM:FULL
 msgctxt "0002F6"
 msgid "Nova Galactic Living Quarters Empty 2x1"
 msgstr "노바 갤럭틱 거주실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Nova_LivingQuarters_Empty_2L2W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_LivingQuarters_Empty_2L2W1H
+#. REC = GBFM:FULL
 msgctxt "0002F7"
 msgid "Nova Galactic Living Quarters Empty 2x2"
 msgstr "노바 갤럭틱 거주실 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_Nova_Brig_Empty_2L2W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_Brig_Empty_2L2W1H
+#. REC = GBFM:FULL
 msgctxt "0002F8"
 msgid "Nova Galactic Brig Empty 2x2"
 msgstr "노바 갤럭틱 구금실 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_Nova_Workshop_Empty_2L1W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_Workshop_Empty_2L1W1H
+#. REC = GBFM:FULL
 msgctxt "0002F9"
 msgid "Nova Galactic Workshop Empty 2x1"
 msgstr "노바 갤럭틱 작업실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Taiyo_ComputerCore_Empty_2L1W1H_Btm_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_ComputerCore_Empty_2L1W1H_Btm_A
+#. REC = GBFM:FULL
 msgctxt "0002FA"
 msgid "Taiyo Computer Core Empty 2x1 Bottom A"
 msgstr "타이요 컴퓨터 코어 빈칸 2x1 하단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_ComputerCore_Empty_2L1W1H_Btm_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_ComputerCore_Empty_2L1W1H_Btm_B
+#. REC = GBFM:FULL
 msgctxt "0002FB"
 msgid "Taiyo Computer Core Empty 2x1 Bottom B"
 msgstr "타이요 컴퓨터 코어 빈칸 2x1 하단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_ComputerCore_Empty_2L1W1H_Mid_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_ComputerCore_Empty_2L1W1H_Mid_A
+#. REC = GBFM:FULL
 msgctxt "0002FC"
 msgid "Taiyo Computer Core Empty 2x1 Mid"
 msgstr "타이요 컴퓨터 코어 빈칸 2x1 중단"
 
-# List: 0, EDID: SMS_Hab_Taiyo_ComputerCore_Empty_2L1W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_ComputerCore_Empty_2L1W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "0002FD"
 msgid "Taiyo Computer Core Empty 2x1 Top A"
 msgstr "타이요 컴퓨터 코어 빈칸 2x1 상단 A"
 
-# List: 0, EDID: SMS_Hab_Deimos_Cargo_Empty_3L3W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_Cargo_Empty_3L3W1H_A
+#. REC = GBFM:FULL
 msgctxt "0002FE"
 msgid "Deimos Cargo Hall Empty 3x3"
 msgstr "데이모스 화물실 빈칸 3x3"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Cargo_Empty_2L3W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Cargo_Empty_2L3W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "0002FF"
 msgid "Taiyo Hab Cargo Hall Empty 2x3 Top A"
 msgstr "타이요 선실 화물실 빈칸 2x3 상단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_MessHall_Empty_3L2W1H_Btm_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_MessHall_Empty_3L2W1H_Btm_A
+#. REC = GBFM:FULL
 msgctxt "000300"
 msgid "Taiyo Mess Hall Empty 3x2 Bottom A"
 msgstr "타이요 식당 빈칸 3x2 하단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_MessHall_Empty_3L2W1H_Btm_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_MessHall_Empty_3L2W1H_Btm_B
+#. REC = GBFM:FULL
 msgctxt "000301"
 msgid "Taiyo Mess Hall Empty 3x2 Bottom B"
 msgstr "타이요 식당 빈칸 3x2 하단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_MessHall_Empty_3L2W1H_Mid_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_MessHall_Empty_3L2W1H_Mid_A
+#. REC = GBFM:FULL
 msgctxt "000302"
 msgid "Taiyo Mess Hall Empty 3x2 Mid"
 msgstr "타이요 식당 빈칸 3x2 중단"
 
-# List: 0, EDID: SMS_Hab_Stroud_Cargo_Empty_3L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_Cargo_Empty_3L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "000303"
 msgid "Stroud Cargo Hall Empty 3x2"
 msgstr "스트라우드 화물실 빈칸 3x2"
 
-# List: 0, EDID: SMS_Hab_Taiyo_MessHall_Empty_3L2W1H_Top_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_MessHall_Empty_3L2W1H_Top_B
+#. REC = GBFM:FULL
 msgctxt "000304"
 msgid "Taiyo Mess Hall Empty 3x2 Top B"
 msgstr "타이요 식당 빈칸 3x2 상단 B"
 
-# List: 0, EDID: SMS_Hab_HopeTech_CapQuarters_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_CapQuarters_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "000305"
 msgid "HopeTech Captain's Quarters Empty 2x1"
 msgstr "호프테크 선장실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_HopeTech_ComputerCore_Empty_2L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_ComputerCore_Empty_2L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "000306"
 msgid "HopeTech Computer Core Empty 2x2"
 msgstr "호프테크 컴퓨터 코어 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_HopeTech_MessHall_Empty_2L3W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_MessHall_Empty_2L3W1H_A
+#. REC = GBFM:FULL
 msgctxt "000307"
 msgid "HopeTech Mess Hall Empty 2x3"
 msgstr "호프테크 식당 빈칸 2x3"
 
-# List: 0, EDID: SMS_Hab_Taiyo_ComputerCore_Empty_2L1W1H_Top_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_ComputerCore_Empty_2L1W1H_Top_B
+#. REC = GBFM:FULL
 msgctxt "000308"
 msgid "Taiyo Computer Core Empty 2x1 Top B"
 msgstr "타이요 컴퓨터 코어 빈칸 2x1 상단 B"
 
-# List: 0, EDID: SMS_Hab_Deimos_BerthingAll_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_BerthingAll_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "000309"
 msgid "Deimos All-in-One Berth Empty 2x1"
 msgstr "데이모스 다목적실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Stroud_Infirmary_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_Infirmary_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "00030A"
 msgid "Stroud Infirmary Empty 2x1"
 msgstr "스트라우드 의무실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Stroud_BattleStations_Empty_2L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_BattleStations_Empty_2L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "00030B"
 msgid "Stroud Battle Stations 2x2"
 msgstr "스트라우드 전투지휘실 2x2"
 
-# List: 0, EDID: SMS_Hab_Taiyo_BattleStations_Empty_2L2W1H_Top_A, REC:
 # GBFM:FULL
 msgctxt "00030C"
 msgid "Taiyo Battle Stations Empty 2x2 Top A"
 msgstr "타이요 전투지휘실 빈칸 2x2 상단 A"
 
-# List: 0, EDID: SMS_Hab_Stroud_BerthingAll_Empty_2L1W1H_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_BerthingAll_Empty_2L1W1H_B
+#. REC = GBFM:FULL
 msgctxt "00030D"
 msgid "Stroud All-in-One Berth Empty 2x1 B"
 msgstr "스트라우드 다목적실 빈칸 2x1 B"
 
-# List: 0, EDID: SMS_Hab_Stroud_Cargo_Empty_2L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_Cargo_Empty_2L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "00030E"
 msgid "Stroud Cargo Hall 2x2"
 msgstr "스트라우드 화물실 2x2"
 
-# List: 0, EDID: SMS_Hab_Taiyo_MessHall_Empty_3L2W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_MessHall_Empty_3L2W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "00030F"
 msgid "Taiyo Mess Hall Empty 3x2 Top A"
 msgstr "타이요 식당 빈칸 3x2 상단 A"
 
-# List: 0, EDID: SMS_Hab_Stroud_ComputerCore_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_ComputerCore_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "000310"
 msgid "Stroud Computer Core Empty 2x1"
 msgstr "스트라우드 컴퓨터 코어 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Stroud_ComputerCore_Empty_2L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_ComputerCore_Empty_2L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "000311"
 msgid "Stroud Computer Core 2x2"
 msgstr "스트라우드 컴퓨터 코어 2x2"
 
-# List: 0, EDID: SMS_Hab_Stroud_Control_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_Control_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "000312"
 msgid "Stroud Control Station Empty 2x1"
 msgstr "스트라우드 제어실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Stroud_Engineering_Empty_3L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_Engineering_Empty_3L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "000313"
 msgid "Stroud Engineering Bay Empty 3x1"
 msgstr "스트라우드 기관실 빈칸 3x1"
 
-# List: 0, EDID: SMS_Hab_Taiyo_MessHall_Empty_2L3W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_MessHall_Empty_2L3W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "000314"
 msgid "Taiyo Hab Mess Hall Empty 2x3 Top A"
 msgstr "타이요 선실 식당 빈칸 2x3 상단 A"
 
-# List: 0, EDID: SMS_Hab_HopeTech_Cargo_Empty_3L3W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_Cargo_Empty_3L3W1H_A
+#. REC = GBFM:FULL
 msgctxt "000315"
 msgid "HopeTech Cargo Hall Empty 3x3"
 msgstr "호프테크 화물실 빈칸 3x3"
 
-# List: 0, EDID: SMS_Hab_Stroud_MessHall_Empty_2L3W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_MessHall_Empty_2L3W1H_A
+#. REC = GBFM:FULL
 msgctxt "000316"
 msgid "Stroud Mess Hall Empty 2x3"
 msgstr "스트라우드 식당 빈칸 2x3"
 
-# List: 0, EDID: SMS_Hab_Stroud_Science01_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_Science01_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "000317"
 msgid "Stroud Science Lab Empty 2x1"
 msgstr "스트라우드 과학실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Stroud_Workshop01_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_Workshop01_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "000318"
 msgid "Stroud Workshop Empty 2x1"
 msgstr "스트라우드 작업실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Stroud_Brig_Empty_2L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_Brig_Empty_2L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "000319"
 msgid "Stroud Brig Empty 2x2"
 msgstr "스트라우드 구금실 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_Nova_BerthingAll_Empty_2L1W1H_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_BerthingAll_Empty_2L1W1H_B
+#. REC = GBFM:FULL
 msgctxt "00031A"
 msgid "Nova Galactic All-in-One Berth Empty 2x1 B"
 msgstr "노바 갤럭틱 다목적실 빈칸 2x1 B"
 
-# List: 0, EDID: SMS_Hab_Nova_Science_Empty_2L1W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_Science_Empty_2L1W1H
+#. REC = GBFM:FULL
 msgctxt "00031B"
 msgid "Nova Galactic Science Lab Empty 2x1"
 msgstr "노바 갤럭틱 과학실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Nova_BerthingAll_Empty_2L2W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_BerthingAll_Empty_2L2W1H
+#. REC = GBFM:FULL
 msgctxt "00031C"
 msgid "Nova Galactic All-in-One Berth Empty 2x2"
 msgstr "노바 갤럭틱 다목적실 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_Nova_CapQuarters_Empty_2L1W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_CapQuarters_Empty_2L1W1H
+#. REC = GBFM:FULL
 msgctxt "00031D"
 msgid "Nova Galactic Captain's Quarters Empty 2x1"
 msgstr "노바 갤럭틱 선장실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Nova_Cargo_Empty_2L2W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_Cargo_Empty_2L2W1H
+#. REC = GBFM:FULL
 msgctxt "00031E"
 msgid "Nova Galactic Cargo Hall Empty 2x2"
 msgstr "노바 갤럭틱 화물실 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_Nova_Cargo_Empty_2L3W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_Cargo_Empty_2L3W1H
+#. REC = GBFM:FULL
 msgctxt "00031F"
 msgid "Nova Galactic Cargo Hall Empty 2x3"
 msgstr "노바 갤럭틱 화물실 빈칸 2x3"
 
-# List: 0, EDID: SMS_Hab_Stroud_Armory_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Stroud_Armory_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "000320"
 msgid "Stroud Armory Empty 2x1"
 msgstr "스트라우드 장비실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Nova_ComputerCore_Empty_2L1W1H, REC: GBFM:FULL
+#. EDID = SMS_Hab_Nova_ComputerCore_Empty_2L1W1H
+#. REC = GBFM:FULL
 msgctxt "000321"
 msgid "Nova Galactic Computer Core Empty 2x1"
 msgstr "노바 갤럭틱 컴퓨터 코어 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Taiyo_MessHall_Empty_2L3W1H_Top_C, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_MessHall_Empty_2L3W1H_Top_C
+#. REC = GBFM:FULL
 msgctxt "000322"
 msgid "Taiyo Hab Mess Hall Empty 2x3 Top C"
 msgstr "타이요 선실 식당 빈칸 2x3 상단 C"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Cargo_Empty_3L2W1H_Btm_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Cargo_Empty_3L2W1H_Btm_B
+#. REC = GBFM:FULL
 msgctxt "000323"
 msgid "Taiyo Cargo Hall Empty 3x2 Bottom B"
 msgstr "타이요 화물실 빈칸 3x2 하단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Cargo_Empty_3L2W1H_Btm_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Cargo_Empty_3L2W1H_Btm_A
+#. REC = GBFM:FULL
 msgctxt "000324"
 msgid "Taiyo Cargo Hall Empty 3x2 Bottom A"
 msgstr "타이요 화물실 빈칸 3x2 하단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Cargo_Empty_2L2W1H_Top_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Cargo_Empty_2L2W1H_Top_B
+#. REC = GBFM:FULL
 msgctxt "000325"
 msgid "Taiyo Cargo Hall Empty 2x2Top B"
 msgstr "타이요 화물실 빈칸 2x2상단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Cargo_Empty_3L2W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Cargo_Empty_3L2W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "000326"
 msgid "Taiyo Cargo Hall Empty 3x2 Top A"
 msgstr "타이요 화물실 빈칸 3x2 상단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Cargo_Empty_3L2W1H_Top_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Cargo_Empty_3L2W1H_Top_B
+#. REC = GBFM:FULL
 msgctxt "000327"
 msgid "Taiyo Cargo Hall Empty 3x2 Top B"
 msgstr "타이요 화물실 빈칸 3x2 상단 B"
 
-# List: 0, EDID: SMS_Hab_HopeTech_Armory_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_Armory_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "000328"
 msgid "HopeTech Armory Empty 2x1"
 msgstr "호프테크 장비실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_HopeTech_BattleStations_Empty_2L2W1H_A, REC:
 # GBFM:FULL
 msgctxt "000329"
 msgid "HopeTech Battle Stations Empty 2x2"
 msgstr "호프테크 전투지휘실 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Armory_Empty_2L1W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Armory_Empty_2L1W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "00032A"
 msgid "Taiyo Armory Empty 2x1 Top A"
 msgstr "타이요 장비실 빈칸 2x1 상단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_ComputerCore_Empty_2L2W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_ComputerCore_Empty_2L2W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "00032B"
 msgid "Taiyo Computer Core Empty 2x2 Top A"
 msgstr "타이요 컴퓨터 코어 빈칸 2x2 상단 A"
 
-# List: 0, EDID: SMS_Hab_HopeTech_Brig_Empty_2L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_Brig_Empty_2L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "00032C"
 msgid "HopeTech Brig Empty 2x2"
 msgstr "호프테크 구금실 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_HopeTech_Cargo_Empty_2L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_Cargo_Empty_2L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "00032D"
 msgid "HopeTech Cargo Hall Empty 2x2"
 msgstr "호프테크 화물실 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_HopeTech_Cargo_Empty_2L3W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_Cargo_Empty_2L3W1H_A
+#. REC = GBFM:FULL
 msgctxt "00032E"
 msgid "HopeTech Cargo Hall Empty 2x3"
 msgstr "호프테크 화물실 빈칸 2x3"
 
-# List: 0, EDID: SMS_Hab_HopeTech_ComputerCore_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_ComputerCore_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "00032F"
 msgid "HopeTech Computer Core Empty 2x1"
 msgstr "호프테크 컴퓨터 코어 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Taiyo_BerthingAll_Empty_2L2W1H_Mid_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_BerthingAll_Empty_2L2W1H_Mid_A
+#. REC = GBFM:FULL
 msgctxt "000330"
 msgid "Taiyo All-in-One Berth Empty 2x2 Mid A"
 msgstr "타이요 다목적실 빈칸 2x2 중단 A"
 
-# List: 0, EDID: SMS_Hab_HopeTech_Infirmary_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_Infirmary_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "000331"
 msgid "HopeTech Infirmary Empty 2x1"
 msgstr "호프테크 의무실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_HopeTech_LivingSpace_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_LivingSpace_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "000332"
 msgid "HopeTech Living Quarters Empty 2x1"
 msgstr "호프테크 거주실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_HopeTech_MessHall_Empty_3L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_MessHall_Empty_3L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "000333"
 msgid "HopeTech Mess Hall Empty 3x2"
 msgstr "호프테크 식당 빈칸 3x2"
 
-# List: 0, EDID: SMS_Hab_HopeTech_Science_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_Science_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "000334"
 msgid "HopeTech Science Lab Empty 2x1"
 msgstr "호프테크 과학실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_HopeTech_BerthingAll_Empty_2L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_BerthingAll_Empty_2L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "000335"
 msgid "HopeTech All-in-One Berth Empty 2x2"
 msgstr "호프테크 다목적실 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_Taiyo_ComputerCore_Empty_2L2W1H_Top_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_ComputerCore_Empty_2L2W1H_Top_B
+#. REC = GBFM:FULL
 msgctxt "000336"
 msgid "Taiyo Computer Core Empty 2x2 Top B"
 msgstr "타이요 컴퓨터 코어 빈칸 2x2 상단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_LivingSpace_Empty_2L1W1H_Btm_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_LivingSpace_Empty_2L1W1H_Btm_A
+#. REC = GBFM:FULL
 msgctxt "000337"
 msgid "Taiyo Living Quarters Empty 2x1 Bottom A"
 msgstr "타이요 거주실 빈칸 2x1 하단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Workshop_Empty_2L1W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Workshop_Empty_2L1W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "000338"
 msgid "Taiyo Workshop Empty 2x1 Top A"
 msgstr "타이요 작업실 빈칸 2x1 상단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Workshop_Empty_2L1W1H_Top_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Workshop_Empty_2L1W1H_Top_B
+#. REC = GBFM:FULL
 msgctxt "000339"
 msgid "Taiyo Workshop Empty 2x1 Top B"
 msgstr "타이요 작업실 빈칸 2x1 상단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_BerthingAll_Empty_2L2W1H_Btm_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_BerthingAll_Empty_2L2W1H_Btm_B
+#. REC = GBFM:FULL
 msgctxt "00033A"
 msgid "Taiyo All-in-One Berth Empty 2x2 Bottom B"
 msgstr "타이요 다목적실 빈칸 2x2 하단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_BerthingAll_Empty_2L2W1H_Btm_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_BerthingAll_Empty_2L2W1H_Btm_A
+#. REC = GBFM:FULL
 msgctxt "00033B"
 msgid "Taiyo All-in-One Berth Empty 2x2 Bottom A"
 msgstr "타이요 다목적실 빈칸 2x2 하단 A"
 
-# List: 0, EDID: SMS_Hab_HopeTech_Control_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_Control_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "00033C"
 msgid "HopeTech Control Station Empty 2x1"
 msgstr "호프테크 제어실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Taiyo_BerthingAll_Empty_2L2W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_BerthingAll_Empty_2L2W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "00033D"
 msgid "Taiyo All-in-One Berth Empty 2x2 Top A"
 msgstr "타이요 다목적실 빈칸 2x2 상단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_BerthingAll_Empty_2L2W1H_Top_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_BerthingAll_Empty_2L2W1H_Top_B
+#. REC = GBFM:FULL
 msgctxt "00033E"
 msgid "Taiyo All-in-One Berth Empty 2x2 Top B"
 msgstr "타이요 다목적실 빈칸 2x2 상단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Brig_Empty_2L2W1H_Btm_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Brig_Empty_2L2W1H_Btm_B
+#. REC = GBFM:FULL
 msgctxt "00033F"
 msgid "Taiyo Brig Empty 2x2 Bottom B"
 msgstr "타이요 구금실 빈칸 2x2 하단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Brig_Empty_2L2W1H_Btm_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Brig_Empty_2L2W1H_Btm_A
+#. REC = GBFM:FULL
 msgctxt "000340"
 msgid "Taiyo Brig Empty 2x2 Bottom A"
 msgstr "타이요 구금실 빈칸 2x2 하단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Workshop_Empty_2L1W1H_Mid_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Workshop_Empty_2L1W1H_Mid_A
+#. REC = GBFM:FULL
 msgctxt "000341"
 msgid "Taiyo Workshop Empty 2x1 Mid A"
 msgstr "타이요 작업실 빈칸 2x1 중단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Brig_Empty_2L2W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Brig_Empty_2L2W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "000342"
 msgid "Taiyo Brig Empty 2x2 Top A"
 msgstr "타이요 구금실 빈칸 2x2 상단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Brig_Empty_2L2W1H_Top_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Brig_Empty_2L2W1H_Top_B
+#. REC = GBFM:FULL
 msgctxt "000343"
 msgid "Taiyo Brig Empty 2x2 Top B"
 msgstr "타이요 구금실 빈칸 2x2 상단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Cargo_Empty_2L2W1H_Btm_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Cargo_Empty_2L2W1H_Btm_B
+#. REC = GBFM:FULL
 msgctxt "000344"
 msgid "Taiyo Cargo Hall Empty 2x2 Bottom B"
 msgstr "타이요 화물실 빈칸 2x2 하단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Cargo_Empty_2L2W1H_Btm_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Cargo_Empty_2L2W1H_Btm_A
+#. REC = GBFM:FULL
 msgctxt "000345"
 msgid "Taiyo Cargo Hall Empty 2x2 Bottom A"
 msgstr "타이요 화물실 빈칸 2x2 하단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Cargo_Empty_2L2W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Cargo_Empty_2L2W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "000347"
 msgid "Taiyo Cargo Hall Empty 2x2 Top A"
 msgstr "타이요 화물실 빈칸 2x2 상단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Cargo_Empty_3L2W1H_Mid_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Cargo_Empty_3L2W1H_Mid_A
+#. REC = GBFM:FULL
 msgctxt "000348"
 msgid "Taiyo Cargo Hall Empty 3x2 Mid A"
 msgstr "타이요 화물실 빈칸 3x2 중단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_ComputerCore_Empty_2L2W1H_Btm_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_ComputerCore_Empty_2L2W1H_Btm_B
+#. REC = GBFM:FULL
 msgctxt "000349"
 msgid "Taiyo Computer Core Empty 2x2 Bottom B"
 msgstr "타이요 컴퓨터 코어 빈칸 2x2 하단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_ComputerCore_Empty_2L2W1H_Btm_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_ComputerCore_Empty_2L2W1H_Btm_A
+#. REC = GBFM:FULL
 msgctxt "00034A"
 msgid "Taiyo Computer Core Empty 2x2 Bottom A"
 msgstr "타이요 컴퓨터 코어 빈칸 2x2 하단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_ComputerCore_Empty_2L2W1H_Mid_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_ComputerCore_Empty_2L2W1H_Mid_A
+#. REC = GBFM:FULL
 msgctxt "00034B"
 msgid "Taiyo Computer Core Empty 2x2 Mid A"
 msgstr "타이요 컴퓨터 코어 빈칸 2x2 중단 A"
 
-# List: 0, EDID: SMS_Hab_HopeTech_Workshop_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_Workshop_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "00034C"
 msgid "HopeTech Workshop Empty 2x1"
 msgstr "호프테크 작업실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Armory_Empty_2L1W1H_Btm_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Armory_Empty_2L1W1H_Btm_B
+#. REC = GBFM:FULL
 msgctxt "00034D"
 msgid "Taiyo Armory Empty 2x1 Bottom B"
 msgstr "타이요 장비실 빈칸 2x1 하단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Control_Empty_2L1W1H_Btm_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Control_Empty_2L1W1H_Btm_A
+#. REC = GBFM:FULL
 msgctxt "00034E"
 msgid "Taiyo Control Station Empty 2x1 Bottom A"
 msgstr "타이요 제어실 빈칸 2x1 하단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Control_Empty_2L1W1H_Mid_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Control_Empty_2L1W1H_Mid_A
+#. REC = GBFM:FULL
 msgctxt "00034F"
 msgid "Taiyo Control Station Empty 2x1 Mid A"
 msgstr "타이요 제어실 빈칸 2x1 중단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Control_Empty_2L1W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Control_Empty_2L1W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "000350"
 msgid "Taiyo Control Station Empty 2x1 Top A"
 msgstr "타이요 제어실 빈칸 2x1 상단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Control_Empty_2L1W1H_Top_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Control_Empty_2L1W1H_Top_B
+#. REC = GBFM:FULL
 msgctxt "000351"
 msgid "Taiyo Control Station Empty 2x1 Top B"
 msgstr "타이요 제어실 빈칸 2x1 상단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_CapQuarters_Empty_2L1W1H_Btm_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_CapQuarters_Empty_2L1W1H_Btm_B
+#. REC = GBFM:FULL
 msgctxt "000352"
 msgid "Taiyo Captains Quarters Empty 2x1 Bottom B"
 msgstr "타이요 선장실 빈칸 2x1 하단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Infirmary_Empty_2L1W1H_Btm_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Infirmary_Empty_2L1W1H_Btm_A
+#. REC = GBFM:FULL
 msgctxt "000353"
 msgid "Taiyo Infirmary Empty 2x1 Bottom A"
 msgstr "타이요 의무실 빈칸 2x1 하단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Infirmary_Empty_2L1W1H_Mid_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Infirmary_Empty_2L1W1H_Mid_A
+#. REC = GBFM:FULL
 msgctxt "000354"
 msgid "Taiyo Infirmary Empty 2x1 Mid A"
 msgstr "타이요 의무실 빈칸 2x1 중단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Infirmary_Empty_2L1W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Infirmary_Empty_2L1W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "000355"
 msgid "Taiyo Infirmary Empty 2x1 Top A"
 msgstr "타이요 의무실 빈칸 2x1 상단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Infirmary_Empty_2L1W1H_Top_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Infirmary_Empty_2L1W1H_Top_B
+#. REC = GBFM:FULL
 msgctxt "000356"
 msgid "Taiyo Infirmary Empty 2x1 Top B"
 msgstr "타이요 의무실 빈칸 2x1 상단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_LivingSpace_Empty_2L1W1H_Btm_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_LivingSpace_Empty_2L1W1H_Btm_B
+#. REC = GBFM:FULL
 msgctxt "000357"
 msgid "Taiyo Living Quarters Empty 2x1 Bottom B"
 msgstr "타이요 거주실 빈칸 2x1 하단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Workshop_Empty_2L1W1H_Btm_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Workshop_Empty_2L1W1H_Btm_B
+#. REC = GBFM:FULL
 msgctxt "000358"
 msgid "Taiyo Workshop Empty 2x1 Bottom B"
 msgstr "타이요 작업실 빈칸 2x1 하단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_LivingSpace_Empty_2L1W1H_Mid_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_LivingSpace_Empty_2L1W1H_Mid_A
+#. REC = GBFM:FULL
 msgctxt "000359"
 msgid "Taiyo Living Quarters Empty 2x1 Mid A"
 msgstr "타이요 거주실 빈칸 2x1 중단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_LivingSpace_Empty_2L1W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_LivingSpace_Empty_2L1W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "00035A"
 msgid "Taiyo Living Quarters Empty 2x1 Top A"
 msgstr "타이요 거주실 빈칸 2x1 상단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_LivingSpace_Empty_2L1W1H_Top_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_LivingSpace_Empty_2L1W1H_Top_B
+#. REC = GBFM:FULL
 msgctxt "00035B"
 msgid "Taiyo Living Quarters Empty 2x1 Top B"
 msgstr "타이요 거주실 빈칸 2x1 상단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Science_Empty_2L1W1H_Btm_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Science_Empty_2L1W1H_Btm_B
+#. REC = GBFM:FULL
 msgctxt "00035C"
 msgid "Taiyo Science Lab Empty 2x1 Bottom B"
 msgstr "타이요 과학실 빈칸 2x1 하단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Armory_Empty_2L1W1H_Mid_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Armory_Empty_2L1W1H_Mid_A
+#. REC = GBFM:FULL
 msgctxt "00035D"
 msgid "Taiyo Armory Empty 2x1 Mid"
 msgstr "타이요 장비실 빈칸 2x1 중단"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Science_Empty_2L1W1H_Btm_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Science_Empty_2L1W1H_Btm_A
+#. REC = GBFM:FULL
 msgctxt "00035E"
 msgid "Taiyo Science Lab Empty 2x1 Bottom A"
 msgstr "타이요 과학실 빈칸 2x1 하단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Science_Empty_2L1W1H_Mid_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Science_Empty_2L1W1H_Mid_A
+#. REC = GBFM:FULL
 msgctxt "00035F"
 msgid "Taiyo Science Lab Empty 2x1 Mid A"
 msgstr "타이요 과학실 빈칸 2x1 중단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Science_Empty_2L1W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Science_Empty_2L1W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "000360"
 msgid "Taiyo Science Lab Empty 2x1 Top A"
 msgstr "타이요 과학실 빈칸 2x1 상단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Science_Empty_2L1W1H_Top_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Science_Empty_2L1W1H_Top_B
+#. REC = GBFM:FULL
 msgctxt "000361"
 msgid "Taiyo Science Lab Empty 2x1 Top B"
 msgstr "타이요 과학실 빈칸 2x1 상단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Brig_Empty_2L2W1H_Mid_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Brig_Empty_2L2W1H_Mid_A
+#. REC = GBFM:FULL
 msgctxt "000362"
 msgid "Taiyo Brig Empty 2x2 Mid A"
 msgstr "타이요 구금실 빈칸 2x2 중단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Workshop_Empty_2L1W1H_Btm_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Workshop_Empty_2L1W1H_Btm_A
+#. REC = GBFM:FULL
 msgctxt "000363"
 msgid "Taiyo Workshop Empty 2x1 Bottom A"
 msgstr "타이요 작업실 빈칸 2x1 하단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_BerthingAll_Empty_2L1W1H_Btm_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_BerthingAll_Empty_2L1W1H_Btm_B
+#. REC = GBFM:FULL
 msgctxt "000364"
 msgid "Taiyo All-in-One Berth Empty 2x1 Bottom B"
 msgstr "타이요 다목적실 빈칸 2x1 하단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Armory_Empty_2L1W1H_Btm_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Armory_Empty_2L1W1H_Btm_A
+#. REC = GBFM:FULL
 msgctxt "000365"
 msgid "Taiyo Armory Empty 2x1 Bottom A"
 msgstr "타이요 장비실 빈칸 2x1 하단 A"
 
-# List: 0, EDID: SMS_Hab_Deimos_Brig_Empty_2L2W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_Brig_Empty_2L2W1H_A
+#. REC = GBFM:FULL
 msgctxt "000366"
 msgid "Deimos Brig Empty 2x2"
 msgstr "데이모스 구금실 빈칸 2x2"
 
-# List: 0, EDID: SMS_Hab_Taiyo_BattleStations_Empty_2L2W1H_Top_B, REC:
 # GBFM:FULL
 msgctxt "000367"
 msgid "Taiyo Battle Stations Empty 2x2 Top B"
 msgstr "타이요 전투지휘실 빈칸 2x2 상단 B"
 
-# List: 0, EDID: SMS_Hab_Deimos_CapQuarters_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Deimos_CapQuarters_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "000368"
 msgid "Deimos Captain's Quarters Empty 2x1"
 msgstr "데이모스 선장실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_HopeTech_BerthingAll_Empty_2L1W1H_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_HopeTech_BerthingAll_Empty_2L1W1H_A
+#. REC = GBFM:FULL
 msgctxt "000369"
 msgid "HopeTech All-in-One Berth Empty 2x1"
 msgstr "호프테크 다목적실 빈칸 2x1"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Armory_Empty_2L1W1H_Top_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Armory_Empty_2L1W1H_Top_B
+#. REC = GBFM:FULL
 msgctxt "00036A"
 msgid "Taiyo Armory Empty 2x1 Top B"
 msgstr "타이요 장비실 빈칸 2x1 상단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_BerthingAll_Empty_2L1W1H_Btm_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_BerthingAll_Empty_2L1W1H_Btm_A
+#. REC = GBFM:FULL
 msgctxt "00036B"
 msgid "Taiyo All-in-One Berth Empty 2x1 Bottom A"
 msgstr "타이요 다목적실 빈칸 2x1 하단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_BerthingAll_Empty_2L1W1H_Mid_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_BerthingAll_Empty_2L1W1H_Mid_A
+#. REC = GBFM:FULL
 msgctxt "00036C"
 msgid "Taiyo All-in-One Berth Empty 2x1 Mid A"
 msgstr "타이요 다목적실 빈칸 2x1 중단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_BerthingAll_Empty_2L1W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_BerthingAll_Empty_2L1W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "00036D"
 msgid "Taiyo All-in-One Berth Empty 2x1 Top A"
 msgstr "타이요 다목적실 빈칸 2x1 상단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_BerthingAll_Empty_2L1W1H_Top_B_Delete, REC:
 # GBFM:FULL
 msgctxt "00036E"
 msgid "Taiyo All-in-One Berth Empty 2x1 Top B"
 msgstr "타이요 다목적실 빈칸 2x1 상단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Infirmary_Empty_2L1W1H_Btm_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Infirmary_Empty_2L1W1H_Btm_B
+#. REC = GBFM:FULL
 msgctxt "00036F"
 msgid "Taiyo Infirmary Empty 2x1 Bottom B"
 msgstr "타이요 의무실 빈칸 2x1 하단 B"
 
-# List: 0, EDID: SMS_Hab_Taiyo_CapQuarters_Empty_2L1W1H_Btm_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_CapQuarters_Empty_2L1W1H_Btm_A
+#. REC = GBFM:FULL
 msgctxt "000370"
 msgid "Taiyo Captains Quarters Empty 2x1 Bottom A"
 msgstr "타이요 선장실 빈칸 2x1 하단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_CapQuarters_Empty_2L1W1H_Mid_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_CapQuarters_Empty_2L1W1H_Mid_A
+#. REC = GBFM:FULL
 msgctxt "000371"
 msgid "Taiyo Captains Quarters Empty 2x1 Mid A"
 msgstr "타이요 선장실 빈칸 2x1 중단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_CapQuarters_Empty_2L1W1H_Top_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_CapQuarters_Empty_2L1W1H_Top_A
+#. REC = GBFM:FULL
 msgctxt "000372"
 msgid "Taiyo Captains Quarters Empty 2x1 Top A"
 msgstr "타이요 선장실 빈칸 2x1 상단 A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_CapQuarters_Empty_2L1W1H_Top_B, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_CapQuarters_Empty_2L1W1H_Top_B
+#. REC = GBFM:FULL
 msgctxt "000373"
 msgid "Taiyo Captains Quarters Empty 2x1 Top B"
 msgstr "타이요 선장실 빈칸 2x1 상단 B"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_Science_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "000374"
 msgid "Deimos Hab 2L1W1H A"
 msgstr "데이모스 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_Workshop_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "000375"
 msgid "Deimos Hab 2L1W1H A"
 msgstr "데이모스 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_MessHall_Empty_3L2W1H_Top_A_Int, REC:
 # PKIN:FULL
 msgctxt "000376"
 msgid "Taiyo Hab 3L2W1H"
 msgstr "타이요 선실 3L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Cargo_Empty_2L3W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "000377"
 msgid "Stroud Hab 2L3W1H A"
 msgstr "스트라우드 선실 2L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_Cargo_Empty_3L3W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "000378"
 msgid "Deimos Hab 3L3W1H A"
 msgstr "데이모스 선실 3L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_BattleStations_Empty_2L2W1H_Top_A_Int,
 # REC: PKIN:FULL
 msgctxt "000379"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Cargo_Empty_2L2W1H_Btm_B_Int, REC:
 # PKIN:FULL
 msgctxt "00037A"
 msgid "Taiyo Hab 2L2W1H"
 msgstr "타이요 선실 2L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_Control_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "00037B"
 msgid "Deimos Hab 2L1W1H A"
 msgstr "데이모스 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_Engineering_Empty_2L2W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "00037C"
 msgid "Deimos Hab 2L2W1H A"
 msgstr "데이모스 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_Engineering_Empty_3L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "00037D"
 msgid "Deimos Hab 3L1W1H A"
 msgstr "데이모스 선실 3L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_Engineering_Empty_3L1W1H_B_Int, REC:
 # PKIN:FULL
 msgctxt "00037E"
 msgid "Deimos Hab 3L1W1H A"
 msgstr "데이모스 선실 3L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_LivingQuarters_Empty_2L2W1H_A_Int,
 # REC: PKIN:FULL
 msgctxt "00037F"
 msgid "Deimos Hab 2L2W1H A"
 msgstr "데이모스 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_Infirmary_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "000380"
 msgid "Deimos Hab 2L1W1H A"
 msgstr "데이모스 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_BerthingAll_Empty_2L1W1H_A, REC:
 # PKIN:FULL
 msgctxt "000381"
 msgid "Hab Module 2L"
 msgstr "선실 모듈 2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_Engineering_Empty_3L1W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_Engineering_Empty_3L1W1H
+#. REC = PKIN:FULL
 msgctxt "000382"
 msgid "Hab Module 3L"
 msgstr "선실 모듈 3L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_Cargo_Empty_3L3W1H_A_Int, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Hope_Cargo_Empty_3L3W1H_A_Int
+#. REC = PKIN:FULL
 msgctxt "000383"
 msgid "HopeTech Hab 3L3W1H A"
 msgstr "호프테크 선실 3L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_Cargo_Empty_3L2W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "000384"
 msgid "Deimos Hab 3L2W1H A"
 msgstr "데이모스 선실 3L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_BattleStations_Empty_2L2W1H_Int, REC:
 # PKIN:FULL
 msgctxt "000385"
 msgid "Nova Hab 2L2W1H A"
 msgstr "노바 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_MessHall_Empty_2L3W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_MessHall_Empty_2L3W1H
+#. REC = PKIN:FULL
 msgctxt "000386"
 msgid "Nova Hab 2L3W1H A"
 msgstr "노바 선실 2L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_MessHall_Empty_2L3W1H_Int, REC:
 # PKIN:FULL
 msgctxt "000387"
 msgid "Nova Hab 2L3W1H A"
 msgstr "노바 선실 2L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Engineering_Empty_3L1W1H_Mid_A_Int,
 # REC: PKIN:FULL
 msgctxt "000388"
 msgid "Taiyo Hab 3L1W1H"
 msgstr "타이요 선실 3L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_CptQuarters01_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "000389"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_MessHall_Empty_3L2W1H_Int, REC:
 # PKIN:FULL
 msgctxt "00038A"
 msgid "Nova Hab 3L2W1H A"
 msgstr "노바 선실 3L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_LivingSpace_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "00038B"
 msgid "Deimos Hab 2L1W1H A"
 msgstr "데이모스 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_Cargo_Empty_3L3W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_Cargo_Empty_3L3W1H
+#. REC = PKIN:FULL
 msgctxt "00038C"
 msgid "Nova Hab 3x3x1"
 msgstr "노바 선실 3x3x1"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_Cargo_Empty_3L3W1H_Int, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_Cargo_Empty_3L3W1H_Int
+#. REC = PKIN:FULL
 msgctxt "00038D"
 msgid "Nova Hab 3L3W1H A"
 msgstr "노바 선실 3L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Science01_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "00038E"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_Cargo_Empty_2L3W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "00038F"
 msgid "Deimos Hab 2L3W1H A"
 msgstr "데이모스 선실 2L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_Cargo_Empty_3L2W1H_A_Int, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Hope_Cargo_Empty_3L2W1H_A_Int
+#. REC = PKIN:FULL
 msgctxt "000390"
 msgid "HopeTech Hab 3L2W1H A"
 msgstr "호프테크 선실 3L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Cargo_Empty_2L3W1H_Top_C_Int, REC:
 # PKIN:FULL
 msgctxt "000391"
 msgid "Taiyo Hab 3L1W1H"
 msgstr "타이요 선실 3L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_BattleStations_Empty_2L2W1H_Mid_A_Int,
 # REC: PKIN:FULL
 msgctxt "000392"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_LivingQuarters_Empty_2L2W1H_A_Int,
 # REC: PKIN:FULL
 msgctxt "000393"
 msgid "Stroud Hab 2L2W1H A"
 msgstr "스트라우드 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_BattleStations_Empty_2L2W1H_A_Int,
 # REC: PKIN:FULL
 msgctxt "000394"
 msgid "Stroud Hab 2L2W1H A"
 msgstr "스트라우드 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_MessHall_Empty_3L2W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_MessHall_Empty_3L2W1H
+#. REC = PKIN:FULL
 msgctxt "000395"
 msgid "Nova Hab 3L2W1H A"
 msgstr "노바 선실 3L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Engineering_Empty_3L1W1H_Top_A_Int,
 # REC: PKIN:FULL
 msgctxt "000396"
 msgid "Taiyo Hab 3L1W1H"
 msgstr "타이요 선실 3L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_CptQuarters01_Empty_2L1W1H_A, REC:
 # PKIN:FULL
 msgctxt "000397"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_MessHall_Empty_3L2W1H_A, REC:
 # PKIN:FULL
 msgctxt "000398"
 msgid "Stroud Hab 3L2W1H A"
 msgstr "스트라우드 선실 3L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Engineering_Empty_3L1W1H_Btm_A_Int,
 # REC: PKIN:FULL
 msgctxt "000399"
 msgid "Taiyo Hab 3L1W1H"
 msgstr "타이요 선실 3L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_BerthingAll_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "00039A"
 msgid "Deimos Hab 2L1W1H A"
 msgstr "데이모스 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_ComputerCore_Empty_2L2W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "00039B"
 msgid "Deimos Hab 2L2W1H A"
 msgstr "데이모스 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_MessHall_Empty_3L2W1H_Btm_A_Int, REC:
 # PKIN:FULL
 msgctxt "00039C"
 msgid "Taiyo Hab 3L2W1H"
 msgstr "타이요 선실 3L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_ComputerCore_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "00039D"
 msgid "Deimos Hab 2L1W1H A"
 msgstr "데이모스 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_MessHall_Empty_3L2W1H_Mid_A_Int, REC:
 # PKIN:FULL
 msgctxt "00039E"
 msgid "Taiyo Hab 3L2W1H"
 msgstr "타이요 선실 3L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_Armory_Empty_2L1W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_Armory_Empty_2L1W1H
+#. REC = PKIN:FULL
 msgctxt "00039F"
 msgid "Hab Module 2L"
 msgstr "선실 모듈 2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Engineering_Empty_3L1W1H_Btm_B_Int,
 # REC: PKIN:FULL
 msgctxt "0003A0"
 msgid "Taiyo Hab 3L1W1H"
 msgstr "타이요 선실 3L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_Armory_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003A1"
 msgid "Deimos Hab 2L1W1H A"
 msgstr "데이모스 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_ComputerCore_Empty_2L2W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003A2"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_BattleStations_Empty_2L2W1H_Btm_A_Int,
 # REC: PKIN:FULL
 msgctxt "0003A3"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_LivingSpace_Empty_2L1W1H_Mid_A, REC:
 # PKIN:FULL
 msgctxt "0003A4"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_CptQuarters_Empty_2L1W1H_A, REC:
 # PKIN:FULL
 msgctxt "0003A5"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_Cargo_Empty_2L2W1H_Int, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_Cargo_Empty_2L2W1H_Int
+#. REC = PKIN:FULL
 msgctxt "0003A6"
 msgid "Nova Hab 2L2W1H A"
 msgstr "노바 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_Cargo_Empty_2L3W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_Cargo_Empty_2L3W1H
+#. REC = PKIN:FULL
 msgctxt "0003A7"
 msgid "Nova Hab 2L3W1H A"
 msgstr "노바 선실 2L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_Cargo_Empty_2L3W1H_Int, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_Cargo_Empty_2L3W1H_Int
+#. REC = PKIN:FULL
 msgctxt "0003A8"
 msgid "Nova Hab 2L3W1H A"
 msgstr "노바 선실 2L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_ComputerCore_Empty_2L1W1H, REC:
 # PKIN:FULL
 msgctxt "0003A9"
 msgid "Hab Module 2L"
 msgstr "선실 모듈 2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_Brig_Empty_2L2W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_Brig_Empty_2L2W1H
+#. REC = PKIN:FULL
 msgctxt "0003AA"
 msgid "Nova Hab 2L2W1H A"
 msgstr "노바 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_Infirmary_Empty_2L1W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_Infirmary_Empty_2L1W1H
+#. REC = PKIN:FULL
 msgctxt "0003AB"
 msgid "Hab Module 2L"
 msgstr "선실 모듈 2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_LivingQuarters_Empty_2L1W1H, REC:
 # PKIN:FULL
 msgctxt "0003AC"
 msgid "Hab Module 2L"
 msgstr "선실 모듈 2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_LivingQuarters_Empty_2L2W1H, REC:
 # PKIN:FULL
 msgctxt "0003AD"
 msgid "Nova Hab 2L2W1H A"
 msgstr "노바 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_LivingQuarters_Empty_2L2W1H_Int, REC:
 # PKIN:FULL
 msgctxt "0003AE"
 msgid "Nova Hab 2L2W1H A"
 msgstr "노바 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_Science_Emptry_2L1W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_Science_Emptry_2L1W1H
+#. REC = PKIN:FULL
 msgctxt "0003AF"
 msgid "Hab Module 2L"
 msgstr "선실 모듈 2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_MessHall_Empty_2L3W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003B0"
 msgid "HopeTech Hab 2L3W1H A"
 msgstr "호프테크 선실 2L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_BattleStations_Empty_2L2W1H_Btm_B_Int,
 # REC: PKIN:FULL
 msgctxt "0003B1"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Cargo_Empty_2L3W1H_A, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Stroud_Cargo_Empty_2L3W1H_A
+#. REC = PKIN:FULL
 msgctxt "0003B2"
 msgid "Stroud Hab 2L3W1H A"
 msgstr "스트라우드 선실 2L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_MessHall_Empty_3L2W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003B3"
 msgid "Deimos Hab 3L2W1H A"
 msgstr "데이모스 선실 3L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Engineering_Empty_3L1W1H_Top_B_Int,
 # REC: PKIN:FULL
 msgctxt "0003B4"
 msgid "Taiyo Hab 3L1W1H"
 msgstr "타이요 선실 3L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_LivingSpace_Empty_2L1W1H_A, REC:
 # PKIN:FULL
 msgctxt "0003B5"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_BattleStations_Empty_2L2W1H_Top_B_Int,
 # REC: PKIN:FULL
 msgctxt "0003B6"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_MessHall_Empty_3L2W1H_Btm_B_Int, REC:
 # PKIN:FULL
 msgctxt "0003B7"
 msgid "Taiyo Hab 3L2W1H"
 msgstr "타이요 선실 3L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_BerthingAll_Empty_3L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003B8"
 msgid "Deimos Hab 3L1W1H A"
 msgstr "데이모스 선실 3L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_Cargo_Empty_2L2W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003B9"
 msgid "Deimos Hab 2L2W1H A"
 msgstr "데이모스 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_Workshop_Empty_2L1W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_Workshop_Empty_2L1W1H
+#. REC = PKIN:FULL
 msgctxt "0003BA"
 msgid "Hab Module 2L"
 msgstr "선실 모듈 2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_Cargo_Empty_2L2W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_Cargo_Empty_2L2W1H
+#. REC = PKIN:FULL
 msgctxt "0003BB"
 msgid "Nova Hab 2L2W1H A"
 msgstr "노바 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_BattleStations_Empty_2L2W1H, REC:
 # PKIN:FULL
 msgctxt "0003BC"
 msgid "Nova Hab 2L2W1H A"
 msgstr "노바 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Engineering_Empty_3L1W1H_A, REC:
 # PKIN:FULL
 msgctxt "0003BD"
 msgid "Stroud Hab 3L1W1H A"
 msgstr "스트라우드 선실 3L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Engineering_Empty_3L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003BE"
 msgid "Stroud Hab 3L1W1H A"
 msgstr "스트라우드 선실 3L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Infirmary_Empty_2L1W1H_A, REC:
 # PKIN:FULL
 msgctxt "0003BF"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Infirmary_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003C0"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_MessHall_Empty_3L2W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003C1"
 msgid "Stroud Hab 3L2W1H A"
 msgstr "스트라우드 선실 3L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_LivingSpace_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003C2"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_MessHall_Empty_2L3W1H_A, REC:
 # PKIN:FULL
 msgctxt "0003C3"
 msgid "Stroud Hab 2L3W1H A"
 msgstr "스트라우드 선실 2L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_MessHall_Empty_2L3W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003C4"
 msgid "Stroud Hab 2L3W1H A"
 msgstr "스트라우드 선실 2L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Science01_Empty_2L1W1H_A, REC:
 # PKIN:FULL
 msgctxt "0003C5"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_Cargo_Empty_2L3W1H_A_Int, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Hope_Cargo_Empty_2L3W1H_A_Int
+#. REC = PKIN:FULL
 msgctxt "0003C6"
 msgid "HopeTech Hab 2L3W1H A"
 msgstr "호프테크 선실 2L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Workshop01_Empty_2L1W1H_A, REC:
 # PKIN:FULL
 msgctxt "0003C7"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Workshop01_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003C8"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Brig_Empty_2L2W1H_A, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Stroud_Brig_Empty_2L2W1H_A
+#. REC = PKIN:FULL
 msgctxt "0003C9"
 msgid "Stroud Hab 2L2W1H A"
 msgstr "스트라우드 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Brig_Empty_2L2W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003CA"
 msgid "Stroud Hab 2L2W1H A"
 msgstr "스트라우드 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_BerthingAll_Empty_2L1W1H_B, REC:
 # PKIN:FULL
 msgctxt "0003CB"
 msgid "Hab Module 2L"
 msgstr "선실 모듈 2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_Control_Empty_2L1W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_Control_Empty_2L1W1H
+#. REC = PKIN:FULL
 msgctxt "0003CC"
 msgid "Hab Module 2L"
 msgstr "선실 모듈 2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_Brig_Empty_2L2W1H_Int, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_Brig_Empty_2L2W1H_Int
+#. REC = PKIN:FULL
 msgctxt "0003CD"
 msgid "Nova Hab 2L2W1H A"
 msgstr "노바 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_BerthingAll_Empty_2L2W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_BerthingAll_Empty_2L2W1H
+#. REC = PKIN:FULL
 msgctxt "0003CE"
 msgid "Nova Hab 2L2W1H A"
 msgstr "노바 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_BerthingAll_Empty_2L2W1H_Int, REC:
 # PKIN:FULL
 msgctxt "0003CF"
 msgid "Nova Hab 2L2W1H A"
 msgstr "노바 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_LivingQuarters_Empty_3L1W1H_A_Int,
 # REC: PKIN:FULL
 msgctxt "0003D0"
 msgid "Deimos Hab 3L1W1H A"
 msgstr "데이모스 선실 3L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_ComputerCore_Empty_2L2W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003D1"
 msgid "Deimos Hab 2L2W1H A"
 msgstr "데이모스 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_ComputerCore_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003D2"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_ComputerCore_Empty_2L1W1H, REC:
 # PKIN:FULL
 msgctxt "0003D3"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_Control_Empty_2L1W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Hope_Control_Empty_2L1W1H
+#. REC = PKIN:FULL
 msgctxt "0003D4"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_Infirmary_Empty_2L1W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Hope_Infirmary_Empty_2L1W1H
+#. REC = PKIN:FULL
 msgctxt "0003D5"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_Armory_Empty_2L1W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Hope_Armory_Empty_2L1W1H
+#. REC = PKIN:FULL
 msgctxt "0003D6"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_MessHall_Empty_3L2W1H_Int, REC:
 # PKIN:FULL
 msgctxt "0003D7"
 msgid "HopeTech Hab 3L2W1H A"
 msgstr "호프테크 선실 3L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_Science_Empty_2L1W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Hope_Science_Empty_2L1W1H
+#. REC = PKIN:FULL
 msgctxt "0003D8"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_Workshop_Empty_2L1W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Hope_Workshop_Empty_2L1W1H
+#. REC = PKIN:FULL
 msgctxt "0003D9"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_Brig_Empty_2L2W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003DA"
 msgid "Deimos Hab 2L2W1H A"
 msgstr "데이모스 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Armory_Empty_2L1W1H_A, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Stroud_Armory_Empty_2L1W1H_A
+#. REC = PKIN:FULL
 msgctxt "0003DB"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_CptQuarters_Empty_2L1W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_CptQuarters_Empty_2L1W1H
+#. REC = PKIN:FULL
 msgctxt "0003DC"
 msgid "Hab Module 2L"
 msgstr "선실 모듈 2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_BattleStations_Empty_2L2W1H_A, REC:
 # PKIN:FULL
 msgctxt "0003DD"
 msgid "Stroud Hab 2L2W1H A"
 msgstr "스트라우드 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_BattleStations_Empty_2L2W1H_A_Int,
 # REC: PKIN:FULL
 msgctxt "0003DE"
 msgid "Stroud Hab 2L2W1H A"
 msgstr "스트라우드 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_BerthingAll_Empty_2L1W1H_A, REC:
 # PKIN:FULL
 msgctxt "0003DF"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_BerthingAll_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003E0"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_ComputerCore_Empty_2L2W1H_Btm_A_Int,
 # REC: PKIN:FULL
 msgctxt "0003E1"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_BerthingAll_Empty_2L1W1H_B_Int, REC:
 # PKIN:FULL
 msgctxt "0003E2"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Cargo_Empty_2L2W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003E3"
 msgid "Deimos Hab 2L2W1H A"
 msgstr "데이모스 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Cargo_Empty_3L2W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003E4"
 msgid "Deimos Hab 3L2W1H A"
 msgstr "데이모스 선실 3L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_ComputerCore_Empty_2L1W1H_A, REC:
 # PKIN:FULL
 msgctxt "0003E5"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_CptQuarters_Empty_2L1W1H_Btm_A, REC:
 # PKIN:FULL
 msgctxt "0003E6"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_Cargo_Empty_2L2W1H_A_Int, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Hope_Cargo_Empty_2L2W1H_A_Int
+#. REC = PKIN:FULL
 msgctxt "0003E7"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_MessHall_Empty_2L3W1H_Top_C_Int, REC:
 # PKIN:FULL
 msgctxt "0003E8"
 msgid "HopeTech Hab 2L3W1H A"
 msgstr "호프테크 선실 2L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Cargo_Empty_2L2W1H_Btm_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003E9"
 msgid "Taiyo Hab 2L2W1H"
 msgstr "타이요 선실 2L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Cargo_Empty_2L2W1H_Top_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003EA"
 msgid "Taiyo Hab 2L2W1H"
 msgstr "타이요 선실 2L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Cargo_Empty_2L2W1H_Top_B_Int, REC:
 # PKIN:FULL
 msgctxt "0003EB"
 msgid "Taiyo Hab 2L2W1H"
 msgstr "타이요 선실 2L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_ComputerCore_Empty_2L2W1H_Btm_B_Int,
 # REC: PKIN:FULL
 msgctxt "0003EC"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_BerthingAll_Empty_2L1W1H_B, REC:
 # PKIN:FULL
 msgctxt "0003ED"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_ComputerCore_Empty_2L2W1H_Mid_A_Int,
 # REC: PKIN:FULL
 msgctxt "0003EE"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_ComputerCore_Empty_2L2W1H_Top_A_Int,
 # REC: PKIN:FULL
 msgctxt "0003EF"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_ComputerCore_Empty_2L2W1H_Top_B_Int,
 # REC: PKIN:FULL
 msgctxt "0003F0"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Workshop_Empty_2L1W1H_Top_B, REC:
 # PKIN:FULL
 msgctxt "0003F1"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Cargo_Empty_2L3W1H_Top_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003F2"
 msgid "Taiyo Hab 3L1W1H"
 msgstr "타이요 선실 3L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Cargo_Empty_3L2W1H_Btm_B_Int, REC:
 # PKIN:FULL
 msgctxt "0003F3"
 msgid "Taiyo Hab 3L2W1H"
 msgstr "타이요 선실 3L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Cargo_Empty_3L2W1H_Btm_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003F4"
 msgid "Taiyo Hab 3L2W1H"
 msgstr "타이요 선실 3L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Cargo_Empty_3L2W1H_Mid_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003F5"
 msgid "Taiyo Hab 3L2W1H"
 msgstr "타이요 선실 3L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Cargo_Empty_3L2W1H_Top_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003F6"
 msgid "Taiyo Hab 3L2W1H"
 msgstr "타이요 선실 3L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Cargo_Empty_3L2W1H_Top_B_Int, REC:
 # PKIN:FULL
 msgctxt "0003F7"
 msgid "Taiyo Hab 3L2W1H"
 msgstr "타이요 선실 3L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_LivingSpace_Empty_2L1W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Hope_LivingSpace_Empty_2L1W1H
+#. REC = PKIN:FULL
 msgctxt "0003F8"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_BattleStations_Empty_2L2W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003F9"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_BerthingAll_Empty_2L1W1H_A, REC:
 # PKIN:FULL
 msgctxt "0003FA"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_BerthingAll_Empty_2L2W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "0003FB"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_Brig_Empty_2L2W1H_A_Int, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Hope_Brig_Empty_2L2W1H_A_Int
+#. REC = PKIN:FULL
 msgctxt "0003FC"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Brig_Empty_2L2W1H_Top_B_Int, REC:
 # PKIN:FULL
 msgctxt "0003FD"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_LivingSpace_Empty_2L1W1H_Top_A, REC:
 # PKIN:FULL
 msgctxt "0003FE"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_LivingSpace_Empty_2L1W1H_Top_B, REC:
 # PKIN:FULL
 msgctxt "0003FF"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Science_Empty_2L1W1H_Btm_B, REC:
 # PKIN:FULL
 msgctxt "000400"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Science_Empty_2L1W1H_Btm_A, REC:
 # PKIN:FULL
 msgctxt "000401"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Infirmary_Empty_2L1W1H_Mid_A_Int, REC:
 # PKIN:FULL
 msgctxt "000402"
 msgid "Taiyo Hab 2L1W1H"
 msgstr "타이요 선실 2L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Science_Empty_2L1W1H_Top_A, REC:
 # PKIN:FULL
 msgctxt "000403"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Science_Empty_2L1W1H_Top_B, REC:
 # PKIN:FULL
 msgctxt "000404"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Workshop_Empty_2L1W1H_Btm_B, REC:
 # PKIN:FULL
 msgctxt "000405"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Workshop_Empty_2L1W1H_Btm_A, REC:
 # PKIN:FULL
 msgctxt "000406"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Workshop_Empty_2L1W1H_Mid_A, REC:
 # PKIN:FULL
 msgctxt "000407"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Control_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "000408"
 msgid "Deimos Hab 2L1W1H A"
 msgstr "데이모스 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_MessHall_Empty_2L3W1H_Top_A_Int, REC:
 # PKIN:FULL
 msgctxt "000409"
 msgid "HopeTech Hab 2L3W1H A"
 msgstr "호프테크 선실 2L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_BerthingAll_Empty_2L2W1H_Btm_B_Int,
 # REC: PKIN:FULL
 msgctxt "00040A"
 msgid "Taiyo Hab 2L2W1H"
 msgstr "타이요 선실 2L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_BerthingAll_Empty_2L2W1H_Btm_A_Int,
 # REC: PKIN:FULL
 msgctxt "00040B"
 msgid "Taiyo Hab 2L2W1H"
 msgstr "타이요 선실 2L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_BerthingAll_Empty_2L2W1H_Mid_A_Int,
 # REC: PKIN:FULL
 msgctxt "00040C"
 msgid "Taiyo Hab 2L2W1H"
 msgstr "타이요 선실 2L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Armory_Empty_2L1W1H_Btm_A_Int, REC:
 # PKIN:FULL
 msgctxt "00040D"
 msgid "Taiyo Hab 2L1W1H"
 msgstr "타이요 선실 2L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_BerthingAll_Empty_2L2W1H_Top_B_Int,
 # REC: PKIN:FULL
 msgctxt "00040E"
 msgid "Taiyo Hab 2L2W1H"
 msgstr "타이요 선실 2L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Brig_Empty_2L2W1H_Btm_B_Int, REC:
 # PKIN:FULL
 msgctxt "00040F"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Brig_Empty_2L2W1H_Btm_A_Int, REC:
 # PKIN:FULL
 msgctxt "000410"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Brig_Empty_2L2W1H_Mid_A_Int, REC:
 # PKIN:FULL
 msgctxt "000411"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Workshop_Empty_2L1W1H_Top_A, REC:
 # PKIN:FULL
 msgctxt "000412"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_CptQuarters_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "000413"
 msgid "Deimos Hab 2L1W1H A"
 msgstr "데이모스 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Stroud_Armory_Empty_2L1W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "000414"
 msgid "Stroud Hab 2L1W1H A"
 msgstr "스트라우드 선실 2L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_Engineering_Empty_3L1W1H_Int, REC:
 # PKIN:FULL
 msgctxt "000415"
 msgid "HopeTech Hab 3L1W1H A"
 msgstr "호프테크 선실 3L1W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Armory_Empty_2L1W1H_Btm_B_Int, REC:
 # PKIN:FULL
 msgctxt "000416"
 msgid "Taiyo Hab 2L1W1H"
 msgstr "타이요 선실 2L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_MessHall_Empty_3L2W1H_Top_B_Int, REC:
 # PKIN:FULL
 msgctxt "000417"
 msgid "Taiyo Hab 3L2W1H"
 msgstr "타이요 선실 3L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Deimos_MessHall_Empty_2L3W1H_A_Int, REC:
 # PKIN:FULL
 msgctxt "000418"
 msgid "Deimos Hab 2L3W1H A"
 msgstr "데이모스 선실 2L3W1H A"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_BerthingAll_Empty_2L2W1H_Top_A_Int,
 # REC: PKIN:FULL
 msgctxt "000419"
 msgid "Taiyo Hab 2L2W1H"
 msgstr "타이요 선실 2L2W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Armory_Empty_2L1W1H_Mid_A_Int, REC:
 # PKIN:FULL
 msgctxt "00041A"
 msgid "Taiyo Hab 2L1W1H"
 msgstr "타이요 선실 2L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Armory_Empty_2L1W1H_Top_A_Int, REC:
 # PKIN:FULL
 msgctxt "00041B"
 msgid "Taiyo Hab 2L1W1H"
 msgstr "타이요 선실 2L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Armory_Empty_2L1W1H_Top_B_Int, REC:
 # PKIN:FULL
 msgctxt "00041C"
 msgid "Taiyo Hab 2L1W1H"
 msgstr "타이요 선실 2L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_CptQuarters_Empty_2L1W1H_Btm_B, REC:
 # PKIN:FULL
 msgctxt "00041D"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_LivingSpace_Empty_2L1W1H_Btm_A, REC:
 # PKIN:FULL
 msgctxt "00041E"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_CptQuarters_Empty_2L1W1H_Mid_A, REC:
 # PKIN:FULL
 msgctxt "00041F"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_CptQuarters_Empty_2L1W1H_Top_A, REC:
 # PKIN:FULL
 msgctxt "000420"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_CptQuarters_Empty_2L1W1H_Top_B, REC:
 # PKIN:FULL
 msgctxt "000421"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Infirmary_Empty_2L1W1H_Btm_B_Int, REC:
 # PKIN:FULL
 msgctxt "000422"
 msgid "Taiyo Hab 2L1W1H"
 msgstr "타이요 선실 2L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Infirmary_Empty_2L1W1H_Btm_A_Int, REC:
 # PKIN:FULL
 msgctxt "000423"
 msgid "Taiyo Hab 2L1W1H"
 msgstr "타이요 선실 2L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Science_Empty_2L1W1H_Mid_A, REC:
 # PKIN:FULL
 msgctxt "000424"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Infirmary_Empty_2L1W1H_Top_A_Int, REC:
 # PKIN:FULL
 msgctxt "000425"
 msgid "Taiyo Hab 2L1W1H"
 msgstr "타이요 선실 2L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Infirmary_Empty_2L1W1H_Top_B_Int, REC:
 # PKIN:FULL
 msgctxt "000426"
 msgid "Taiyo Hab 2L1W1H"
 msgstr "타이요 선실 2L1W1H"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_LivingSpace_Empty_2L1W1H_Btm_B, REC:
 # PKIN:FULL
 msgctxt "000427"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Brig_Empty_2L2W1H_Top_A_Int, REC:
 # PKIN:FULL
 msgctxt "000428"
 msgid "HopeTech Hab 2L2W1H A"
 msgstr "호프테크 선실 2L2W1H A"
 
-# List: 0, EDID: SMS_Hab_Taiyo_Cargo_Empty_2L2W1H_Mid_A, REC: GBFM:FULL
+#. EDID = SMS_Hab_Taiyo_Cargo_Empty_2L2W1H_Mid_A
+#. REC = GBFM:FULL
 msgctxt "000429"
 msgid "Taiyo Cargo Hall Empty 2x2 Mid"
 msgstr "타이요 화물실 빈칸 2x2 중단"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Taiyo_Cargo_NewEmpty_2L2W1H_Mid_A_Int, REC:
 # PKIN:FULL
 msgctxt "00042A"
 msgid "Taiyo Hab 2L2W1H"
 msgstr "타이요 선실 2L2W1H"
 
-# List: 0, EDID: 00000000|00456|0|0, REC: ****:****
+#. EDID = 00000000|00456|0|0
+#. REC = ****:****
 msgctxt "000456"
 msgid "Taiyo All-in-One Berth Empty 2x1 Top B"
 msgstr "타이요 다목적실 빈칸 2x1 상단 B"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Hope_Armory2L1W1H, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Hope_Armory2L1W1H
+#. REC = PKIN:FULL
 msgctxt "004ABA"
 msgid "Hab K5-2L"
 msgstr "선실 K5-2L"
 
-# List: 0, EDID: OutpostFurnitureToiletList01, REC: FLST:FULL
+#. EDID = OutpostFurnitureToiletList01
+#. REC = FLST:FULL
 msgctxt "006F00"
 msgid "Toilets"
 msgstr "화장실"
 
-# List: 0, EDID: PilotSeatTaiyo, REC: FURN:FULL
+#. EDID = PilotSeatTaiyo
+#. REC = FURN:FULL
 msgctxt "0070CC"
 msgid "Pilot Seat"
 msgstr "조종실"
 
-# List: 0, EDID: PilotSeatHopeTech, REC: FURN:FULL
+#. EDID = PilotSeatHopeTech
+#. REC = FURN:FULL
 msgctxt "0070CD"
 msgid "Pilot Seat"
 msgstr "조종실"
 
-# List: 0, EDID: PilotSeatDeimos, REC: FURN:FULL
+#. EDID = PilotSeatDeimos
+#. REC = FURN:FULL
 msgctxt "0070CE"
 msgid "Pilot Seat"
 msgstr "조종실"
 
-# List: 0, EDID: PilotSeatStroud, REC: FURN:FULL
+#. EDID = PilotSeatStroud
+#. REC = FURN:FULL
 msgctxt "0070DC"
 msgid "Pilot Seat"
 msgstr "조종실"
 
-# List: 0, EDID: PilotSeatFurniture, REC: FURN:FULL
+#. EDID = PilotSeatFurniture
+#. REC = FURN:FULL
 msgctxt "00711D"
 msgid "Pilot Seat"
 msgstr "조종실"
 
-# List: 0, EDID: PilotSeatStarborn, REC: FURN:FULL
+#. EDID = PilotSeatStarborn
+#. REC = FURN:FULL
 msgctxt "0309D3"
 msgid "Pilot Seat"
 msgstr "조종실"
 
-# List: 0, EDID: ShipPI_SMOD_Hab_Nova_Frontier_2L1W1H_A, REC: PKIN:FULL
+#. EDID = ShipPI_SMOD_Hab_Nova_Frontier_2L1W1H_A
+#. REC = PKIN:FULL
 msgctxt "033215"
 msgid "Hab Module 2L"
 msgstr "선실 모듈 2L"

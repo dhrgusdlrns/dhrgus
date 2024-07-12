@@ -6925,7 +6925,7 @@ msgstr "최종 사용자 이용 약관 보기"
 msgid "$Showing results for:"
 msgstr "결과 표시:"
 
-msgid "$SHOWOBJECTIVES"
+msgid "$Showobjectives"
 msgstr "대상 조사"
 
 msgid "$SHOWOBJECTIVES"

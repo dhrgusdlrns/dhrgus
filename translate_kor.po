@@ -688,6 +688,9 @@ msgstr "분류"
 msgid "$Category List"
 msgstr "카테고리 목록"
 
+msgid "$Category List Large"
+msgstr ""
+
 msgid "$Category_Aid"
 msgstr "구호품"
 
@@ -1693,7 +1696,7 @@ msgstr "분리"
 msgid "$DETAILED SPECS"
 msgstr "상세 사양"
 
-msgid "$DETAILS"
+msgid "$Details"
 msgstr "상세"
 
 msgid "$DETAILS"
@@ -3390,6 +3393,9 @@ msgstr "불러오기"
 
 msgid "$Load Order"
 msgstr "로드 순서"
+
+msgid "$Load Order Large"
+msgstr ""
 
 msgid "$LoadOrderEnabledIndicator"
 msgstr "%d of %d Creation 활성화"

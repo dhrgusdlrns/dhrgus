@@ -553,11 +553,11 @@ msgstr "구입"
 msgid "$BUY NOW"
 msgstr "지금 구입"
 
-msgid "$By:"
-msgstr "By:"
+msgid "$By: "
+msgstr "By: "
 
-msgid "$ByWhom:"
-msgstr "By:"
+msgid "$ByWhom: "
+msgstr "By: "
 
 msgid "$BUY ALL"
 msgstr "전부 구매"
@@ -1692,6 +1692,9 @@ msgstr "분리"
 
 msgid "$DETAILED SPECS"
 msgstr "상세 사양"
+
+msgid "$DETAILS"
+msgstr "상세"
 
 msgid "$DETAILS"
 msgstr "상세"
@@ -5656,7 +5659,7 @@ msgstr "Creation 메뉴 콘텐츠에서 이 콘텐츠를 검색하시겠습니�
 msgid "$SaveUploaded"
 msgstr "세이브 업로드됨"
 
-msgid "$SaveUploadNotAllowed"
+msgid "$SaveUploadNotAllowed "
 msgstr "세이브 업로드 허용되지 않음"
 
 msgid "$Saving..."
@@ -5971,8 +5974,8 @@ msgstr "조각"
 msgid "$Search"
 msgstr "검색"
 
-msgid "$Search results for:"
-msgstr "검색 결과 :"
+msgid "$Search results for: "
+msgstr "검색 결과 : "
 
 msgid "$Searching..."
 msgstr "검색 중..."
@@ -6919,6 +6922,9 @@ msgstr "결과 표시:"
 msgid "$SHOWOBJECTIVES"
 msgstr "대상 조사"
 
+msgid "$SHOWOBJECTIVES"
+msgstr "대상 조사"
+
 msgid "$SHOWONMAP"
 msgstr "지도에서 보기"
 
@@ -7048,7 +7054,7 @@ msgstr "정렬"
 msgid "$Sort"
 msgstr "정렬"
 
-msgid "$Sorted by:"
+msgid "$Sorted by: "
 msgstr "정렬 순서:"
 
 msgid "$SORT FILTER (TODO)"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2024-07-09 15:16+0000\n"
+"PO-Revision-Date: 2024-07-13 16:01+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -1040,7 +1040,7 @@ msgid "$CONFIRMATION"
 msgstr "확인"
 
 msgid "$Confirmation"
-msgstr "? "예"를 선택하면 지금 바로 이 Creation을 구매, 다운로드 및 설치합니다."
+msgstr "? \"예\"를 선택하면 지금 바로 이 크리에이션 모드를 구매, 다운로드 및 설치합니다."
 
 msgid "$ConfirmContinue"
 msgstr "마지막에 저장한 게임에서 계속할까요?"
@@ -1280,82 +1280,82 @@ msgid "$Creating quick account..."
 msgstr "빠른 계정 생성 중..."
 
 msgid "$CREATIONS"
-msgstr "CREATIONS"
+msgstr "크리에이션 모드"
 
 msgid "$Creations Enabled"
-msgstr "Creation 활성화"
+msgstr "크리에이션 모드 활성화"
 
 msgid "$CreationsAllDownloaded"
-msgstr "모든 Creation 다운로드 완료"
+msgstr "모든 크리에이션 모드 다운로드 완료"
 
 msgid "$CreationsDisableMissingCreationCheck"
-msgstr "로드 시 존재하지 않는 Creation 비활성화하기"
+msgstr "불러오기 시 존재하지 않는 크리에이션 모드 비활성화하기"
 
 msgid "$CreationsEnableMissingCreationCheck"
-msgstr "로드 시 존재하지 않는 Creation 활성화하기"
+msgstr "불러오기 시 존재하지 않는 크리에이션 모드 활성화하기"
 
 msgid "$CreationsEnableFailDependency"
-msgstr "이 Creation은 존재하지 않는 파일에 의존하기 때문에 활성화할 수 없습니다."
+msgstr "이 크리에이션 모드는 존재하지 않는 파일에 의존하기 때문에 활성화할 수 없습니다."
 
 msgid "$CreationsGameUpdateRequired"
 msgstr "게임 업데이트가 필요하며, Bethesda.net의 온라인 서비스를 이용하려면 최신 버전으로 업데이트해야 합니다."
 
 msgid "$CreationsLoadOrderAbort"
-msgstr "이 로드 순서는 외부 파일에 의존합니다. 업로드가 중단되었습니다."
+msgstr "이 불러오기 순서는 외부 파일에 의존합니다. 업로드가 중단되었습니다."
 
 msgid "$CreationsLoadOrderArchive"
-msgstr "로드 순서 아카이브"
+msgstr "불러오기 순서 아카이브"
 
 msgid "$CreationsLoadOrderEmpty"
-msgstr "로드 순서가 비어 있습니다"
+msgstr "불러오기 순서가 비어 있습니다"
 
 msgid "$CreationsLoadOrderFail"
-msgstr "Bethesda.net에 현재 로드 순서를 저장할 수 없습니다."
+msgstr "Bethesda.net에 현재 불러오기 순서를 저장할 수 없습니다."
 
 msgid "$CreationsLoadOrderMustDownload"
-msgstr "이 로드 순서에는 설치되지 않은 Creation이 필요합니다. 먼저 다운로드하십시오."
+msgstr "이 불러오기 순서에는 설치되지 않은 크리에이션 모드가 필요합니다. 먼저 다운로드하십시오."
 
 msgid "$CreationsLoadOrderNotInLibrary"
-msgstr "이 Creation은 라이브러리에 없기 때문에 활성화할 수 없습니다:"
+msgstr "이 크리에이션 모드는 라이브러리에 없기 때문에 활성화할 수 없습니다:"
 
 msgid "$CreationsLoadOrderNoSave"
-msgstr "저장된 로드 순서가 없습니다."
+msgstr "저장된 불러오기 순서가 없습니다."
 
 msgid "$CreationsLoadOrderOverwrite"
-msgstr "현재 로드 순서가 덮어씌워집니다. 괜찮으십니까?"
+msgstr "현재 불러오기 순서가 덮어씌워집니다. 괜찮으십니까?"
 
 msgid "$CreationsLoadOrderRestore"
-msgstr "Bethesda.net에서 로드 순서 불러오기"
+msgstr "Bethesda.net에서 불러오기 순서 불러오기"
 
 msgid "$CreationsLoadOrderSave"
-msgstr "Bethesda.net에 로드 순서 저장하기"
+msgstr "Bethesda.net에 불러오기 순서 저장하기"
 
 msgid "$CreationsLoadOrderSuccess"
-msgstr "로드 순서가 Bethesda.net에 저장되었습니다."
+msgstr "불러오기 순서가 Bethesda.net에 저장되었습니다."
 
 msgid "$CreationsNoDescriptionLO"
 msgstr "설명이 없습니다"
 
 msgid "$CreationsNotEnoughSpaceToDownloadMod"
-msgstr "이 Creation을 다운로드할 수 없습니다. 여유 공간이 부족합니다."
+msgstr "이 크리에이션 모드를 다운로드할 수 없습니다. 여유 공간이 부족합니다."
 
 msgid "$CreationsOptionDeleteAll"
-msgstr "Creation 전부 삭제"
+msgstr "크리에이션 모드 전부 삭제"
 
 msgid "$CreationsOptionDisableAll"
-msgstr "Creation 전부 비활성화"
+msgstr "크리에이션 모드 전부 비활성화"
 
 msgid "$CreationsOptionDownloadAll"
-msgstr "라이브러리 내 모든 Creation 다운로드"
+msgstr "라이브러리 내 모든 크리에이션 모드 다운로드"
 
 msgid "$CreationsOptionDownloadAllCC"
-msgstr "소유하고 있는 Creation Club의 모든 Creation을 다운로드"
+msgstr "소유하고 있는 크리에이션 클럽의 모든 크리에이션 모드를 다운로드"
 
 msgid "$CreationsOptionEnableAll"
-msgstr "Creation 전부 활성화"
+msgstr "크리에이션 모드 전부 활성화"
 
 msgid "$CreationsOptionUpdateAll"
-msgstr "이미 설치된 모든 Creation 업데이트"
+msgstr "이미 설치된 모든 크리에이션 모드 업데이트"
 
 msgid "$CreationsOptionUpdateAllNotAvailableMessage"
 msgstr "현재 사용 가능한 업데이트가 없습니다"
@@ -1376,7 +1376,7 @@ msgid "$CreationsRequestFailMemory"
 msgstr "여유 공간이 부족합니다. 작업을 완료할 수 없습니다."
 
 msgid "$CreationsRequestFailModCannotBeDownloaded"
-msgstr "이 Creation을 다운로드할 수 없습니다. 다운로드가 취소되었습니다."
+msgstr "이 크리에이션 모드를 다운로드할 수 없습니다. 다운로드가 취소되었습니다."
 
 msgid "$CreationsRequestFailNetwork"
 msgstr "네트워크에 문제가 발생하여 작업을 완료할 수 없습니다."
@@ -1409,28 +1409,28 @@ msgid "$CreationsSurePromptDelete"
 msgstr "삭제하시겠습니까?"
 
 msgid "$CreationsSurePromptDeleteAll"
-msgstr "Creation을 모두 삭제합니다. 계속하시겠습니까?"
+msgstr "크리에이션 모드를 모두 삭제합니다. 계속하시겠습니까?"
 
 msgid "$CreationsSurePromptDisable"
 msgstr "비활성화할까요?"
 
 msgid "$CreationsSurePromptDisableAll"
-msgstr "Creation을 모두 비활성화합니다. 계속하시겠습니까?"
+msgstr "크리에이션 모드를 모두 비활성화합니다. 계속하시겠습니까?"
 
 msgid "$CreationsSurePromptDownload"
 msgstr "다운로드하시겠습니까?"
 
 msgid "$CreationsSurePromptDownloadAll"
-msgstr "Creation을 모두 다운로드합니다. 계속하시겠습니까?"
+msgstr "크리에이션 모드를 모두 다운로드합니다. 계속하시겠습니까?"
 
 msgid "$CreationsSurePromptDownloadAllCC"
-msgstr "Creation Club의 모든 콘텐츠를 다운로드합니다. 계속하시겠습니까?"
+msgstr "크리에이션 클럽의 모든 콘텐츠를 다운로드합니다. 계속하시겠습니까?"
 
 msgid "$CreationsSurePromptEnable"
 msgstr "활성화하시겠습니까?"
 
 msgid "$CreationsSurePromptEnableAll"
-msgstr "Creation을 모두 활성화합니다. 계속하시겠습니까?"
+msgstr "크리에이션 모드를 모두 활성화합니다. 계속하시겠습니까?"
 
 msgid "$CreationsSurePromptUpdate"
 msgstr "업데이트 하시겠습니까?"
@@ -1445,37 +1445,72 @@ msgid "$CreationsTurnMusicOff"
 msgstr "배경음악 끄기"
 
 msgid "$CreationsUnableToConnectChangeLoadOrder"
-msgstr "Bethesda.net 서버에 연결할 수 없습니다. 로드 순서를 편집하시겠습니까?"
+msgstr "Bethesda.net 서버에 연결할 수 없습니다. 불러오기 순서를 편집하시겠습니까?"
 
 msgid "$Creations_CC_Content_LoadOrder_Desc"
-msgstr "Creation Club 콘텐츠는 항상 다른 Creation보다 먼저 로드되며, 비활성화할 수 없습니다."
+msgstr "크리에이션 클럽 콘텐츠는 항상 다른 크리에이션 모드보다 먼저 불러오기되며, 비활성화할 수 없습니다."
 
 msgid "$Creations_CC_Content_LoadOrder_Description_PC_XB"
-msgstr "Creation Club은 Bethesda Games Studios와 최고의 커뮤니티 크리에이터들을 포함한 외부 개발 파트너들이 만든 새로운 아이템, 어빌리티, 게임플레이를 즐길 수 있는 공간입니다. Creation Club 컨텐츠는 완전히 감독된 콘텐츠이며, 정식 게임 본편, 공식 추가 콘텐츠 및 그 업적과 호환됩니다."
+msgstr ""
+"크리에이션 클럽은 Bethesda Games Studios와 최고의 커뮤니티 크리에이터들을 포함한 외부 개발 파트너들이 만든 새로운 "
+"아이템, 어빌리티, 게임플레이를 즐길 수 있는 공간입니다. 크리에이션 클럽 콘텐츠는 완전히 감독된 콘텐츠이며, 정식 게임 본편, 공식 "
+"추가 콘텐츠 및 그 업적과 호환됩니다."
 
 msgid "$Creations_CC_Content_LoadOrder_Description_PS"
-msgstr "Creation Club은 Bethesda Games Studios와 최고의 커뮤니티 크리에이터들을 포함한 외부 개발 파트너들이 만든 새로운 아이템, 능력, 게임플레이를 즐길 수 있는 공간입니다. Creation Club 컨텐츠는 완전히 감독된 콘텐츠이며, 정식 게임 본편, 공식 추가 콘텐츠 및 트로피와 호환됩니다."
+msgstr ""
+"크리에이션 클럽은 Bethesda Games Studios와 최고의 커뮤니티 크리에이터들을 포함한 외부 개발 파트너들이 만든 새로운 "
+"아이템, 능력, 게임플레이를 즐길 수 있는 공간입니다. 크리에이션 클럽 콘텐츠는 완전히 감독된 콘텐츠이며, 정식 게임 본편, 공식 추가 "
+"콘텐츠 및 트로피와 호환됩니다."
 
 msgid "$Creations_Credits_500"
-msgstr "Starfield Creation Credits - 500"
+msgstr "스타필드 크리에이션 크레딧 - 500"
 
 msgid "$Creations_Credits_1000"
-msgstr "Starfield Creation Credits - 1000"
+msgstr "스타필드 크리에이션 크레딧 - 1000"
 
 msgid "$Creations_Credits_2700"
-msgstr "Starfield Creation Credits - 2700"
+msgstr "스타필드 크리에이션 크레딧 - 2700"
 
 msgid "$Creations_Credits_5500"
-msgstr "Starfield Creation Credits - 5500"
+msgstr "스타필드 크리에이션 크레딧 - 5500"
 
 msgid "$CreditRedemptionCTA"
-msgstr "Creation 등장! \n\nCreation으로 Starfield를 더욱 재미있게 즐겨보세요! Bethesda Game Studios와 재능 있는 커뮤니티 크리에이터들이 제공하는 새로운 콘텐츠를 발견하고 게임 경험을 더욱 풍성하게 만들어 보세요. \n\nStarfield Premium Edition을 구매해 주셔서 감사합니다! 감사의 표시로 1,000 크리에이션 크레딧을 드립니다! \n\n크레딧을 받으시고, 지금 바로 게임 내 새로운 창조 메뉴에서 새로운 콘텐츠를 확인해 보세요."
+msgstr ""
+"크리에이션 모드 등장! \n"
+"\n"
+"크리에이션 모드로 스타필드를 더욱 재미있게 즐겨보세요! 베데스다 게임 스튜디오와 재능 있는 커뮤니티 크리에이터들이 제공하는 새로운 "
+"콘텐츠를 발견하고 게임 경험을 더욱 풍성하게 만들어 보세요. \n"
+"\n"
+"스타필드 프리미엄 에디션을 구매해 주셔서 감사합니다! 감사의 표시로 1,000 크리에이션 크레딧을 드립니다! \n"
+"\n"
+"크레딧을 받으시고, 지금 바로 게임 내 새로운 창조 메뉴에서 새로운 콘텐츠를 확인해 보세요."
 
 msgid "$CreditRedemptionRedeem"
-msgstr "크레딧 사용\n\n \n\n 'Starfield Premium Edition'을 선택해 주신 것에 대한 감사의 표시로 1,000 Creation Credit이 귀하의 계정에 특별 지급됩니다. 이 크레딧을 Creation 메뉴에서 사용하여 새로운 콘텐츠로 Starfield를 더욱 풍성하게 즐길 수 있습니다! \n\n[예]를 선택하면 크레딧을 받을 수 있습니다. \n\n 참고: 크레딧은 현재 사용 중인 플랫폼에 지급됩니다."
+msgstr ""
+"크레딧 사용\n"
+"\n"
+" \n"
+"\n"
+" '스타필드 프리미엄 에디션'을 선택해 주신 것에 대한 감사의 표시로 1,000 크리에이션 크레딧이 귀하의 계정에 특별 지급됩니다. 이 "
+"크레딧을 크리에이션 모드 메뉴에서 사용하여 새로운 콘텐츠로 스타필드를 더욱 풍성하게 즐길 수 있습니다! \n"
+"\n"
+"[예]를 선택하면 크레딧을 받을 수 있습니다. \n"
+"\n"
+" 참고: 크레딧은 현재 사용 중인 플랫폼에 지급됩니다."
 
 msgid "$CreditRedemptionJPRedeem"
-msgstr "크레딧 사용\n\n \n\n 'Starfield Premium Edition'을 선택해 주신 것에 대한 감사의 표시로 1,000 Creation Credit이 귀하의 계정에 특별 지급됩니다. 이 크레딧을 Creation 메뉴에서 사용하여 새로운 콘텐츠로 Starfield를 더욱 풍성하게 즐길 수 있습니다! \n\n[예]를 선택하면 크레딧을 받을 수 있습니다. \n\n일본에 거주하는 경우, 본 약관이 적용됩니다. 귀하의 계정에 1,000 Creation Credit이 부여되며, Creation Credit은 발행일로부터 6개월 동안 유효합니다."
+msgstr ""
+"크레딧 사용\n"
+"\n"
+" \n"
+"\n"
+" '스타필드 프리미엄 에디션'을 선택해 주신 것에 대한 감사의 표시로 1,000 크리에이션 크레딧이 귀하의 계정에 특별 지급됩니다. 이 "
+"크레딧을 크리에이션 모드 메뉴에서 사용하여 새로운 콘텐츠로 스타필드를 더욱 풍성하게 즐길 수 있습니다! \n"
+"\n"
+"[예]를 선택하면 크레딧을 받을 수 있습니다. \n"
+"\n"
+"일본에 거주하는 경우, 본 약관이 적용됩니다. 귀하의 계정에 1,000 크리에이션 크레딧이 부여되며, 크리에이션 크레딧은 발행일로부터 "
+"6개월 동안 유효합니다."
 
 msgid "$CREDITS"
 msgstr "보유 크레딧"
@@ -3392,16 +3427,16 @@ msgid "$LOAD"
 msgstr "불러오기"
 
 msgid "$Load Order"
-msgstr "로드 순서"
+msgstr "불러오기 순서"
 
 msgid "$Load Order Large"
 msgstr ""
 
 msgid "$LoadOrderEnabledIndicator"
-msgstr "%d of %d Creation 활성화"
+msgstr "%d of %d 크리에이션 모드 활성화"
 
 msgid "$LoadOrderEmpty_Message"
-msgstr "로드 순서가 비어 있습니다"
+msgstr "불러오기 순서가 비어 있습니다"
 
 msgid "$Load this game? All unsaved progress will be lost."
 msgstr "이 세이브를 불러오시겠습니까? 저장하지 않은 게임 데이터는 사라집니다."
@@ -3827,7 +3862,7 @@ msgid "$MapMarkerGenericTypeStructure"
 msgstr "구조물"
 
 msgid "$Marketplace Title"
-msgstr "Creations"
+msgstr "크리에이션 모드"
 
 msgid "$MarketplaceDataResetBlock"
 msgstr "저장 데이터를 아직 불러오는 중입니다. 종료 시까지 설치된 콘텐츠를 변경할 수 없습니다."
@@ -4169,7 +4204,7 @@ msgid "$Music Audio Desc"
 msgstr "배경 음악 음량을 조절합니다."
 
 msgid "$My Authored Creations"
-msgstr "자작 CREATIONS"
+msgstr "자작 크리에이션 모드"
 
 msgid "$My Creations"
 msgstr "내 창작물"
@@ -4268,13 +4303,13 @@ msgid "$NO"
 msgstr "아니오"
 
 msgid "$No content found."
-msgstr "컨텐츠 찾지 못함."
+msgstr "콘텐츠 찾지 못함."
 
 msgid "$NO CONTRABAND"
 msgstr "함선에 밀수품 없음"
 
 msgid "$NO CREATIONS INSTALLED"
-msgstr "설치된 Creation이 없습니다."
+msgstr "설치된 크리에이션 모드가 없습니다."
 
 msgid "$No docking"
 msgstr "도킹 안됨"
@@ -4328,7 +4363,7 @@ msgid "$Nostrils"
 msgstr "작은 코"
 
 msgid "$Not enough credits"
-msgstr "이 아이템은 Creation Credit이 부족합니다."
+msgstr "이 아이템은 크리에이션 크레딧이 부족합니다."
 
 msgid "$NOT INSTALLED"
 msgstr "미설치"
@@ -4868,7 +4903,7 @@ msgid "$Purchase"
 msgstr "구매"
 
 msgid "$Purchase Creation"
-msgstr "Creation 구매하기"
+msgstr "크리에이션 모드 구매하기"
 
 msgid "$Purchase Credits"
 msgstr "크레딧 구매"
@@ -5144,7 +5179,7 @@ msgid "$REJECT"
 msgstr "포기"
 
 msgid "$Reloading"
-msgstr "리로드 중"
+msgstr "리불러오기 중"
 
 msgid "$ReloadWeapon"
 msgstr "무기 재장전"
@@ -5579,25 +5614,25 @@ msgid "$Save over this game?"
 msgstr "세이브 파일에 덮어쓰시겠습니까?"
 
 msgid "$SaveGameContentIsMissing"
-msgstr "이 저장 데이터는 삭제된 콘텐츠를 사용하고 있습니다. 일부 오브젝트가 사라질 수 있습니다. 계속 로드하시겠습니까?"
+msgstr "이 저장 데이터는 삭제된 콘텐츠를 사용하고 있습니다. 일부 오브젝트가 사라질 수 있습니다. 계속 불러오기하시겠습니까?"
 
 msgid "$SaveGameContentNotPresentContinue"
 msgstr "다음 콘텐츠가 존재하지 않습니다."
 
 msgid "$SaveGameCreationContentMissing"
-msgstr "이 저장 데이터는 존재하지 않는 Creation Club 콘텐츠에 의존하고 있습니다."
+msgstr "이 저장 데이터는 존재하지 않는 크리에이션 클럽 콘텐츠에 의존하고 있습니다."
 
 msgid "$SaveGameCreationContentAndModsMissing"
-msgstr "이 저장 데이터는 존재하지 않는 Creation 및 Creation Club 콘텐츠에 의존합니다."
+msgstr "이 저장 데이터는 존재하지 않는 크리에이션 모드 및 크리에이션 클럽 콘텐츠에 의존합니다."
 
 msgid "$SaveGameDeviceError"
 msgstr "장치에 접속하는 동안 오류가 발생했습니다. 다시 시도해 주세요."
 
 msgid "$SaveGameDifferentLoadOrder"
-msgstr "이 저장 데이터는 현재 로드 순서와 다른 Creation의 로드 순서를 사용합니다."
+msgstr "이 저장 데이터는 현재 불러오기 순서와 다른 크리에이션 모드의 불러오기 순서를 사용합니다."
 
 msgid "$SaveGameOrCurrentLoadOrder"
-msgstr "이 저장 데이터의 로드 순서를 사용하시겠습니까? 아니면 현재 로드 순서를 사용하시겠습니까?"
+msgstr "이 저장 데이터의 불러오기 순서를 사용하시겠습니까? 아니면 현재 불러오기 순서를 사용하시겠습니까?"
 
 msgid "$SaveGameError_MissingFile"
 msgstr "게임 세이브 파일이 누락되어 불러오기 할 수 없습니다."
@@ -5612,13 +5647,13 @@ msgid "$SaveGameFailedOutOfDiskSpace"
 msgstr "게임 세이브 파일을 만드는 데 실패했습니다. 세이브 파일을 저장할 여유 공간이 부족합니다. 기존에 저장한 콘텐츠 중 일부를 삭제하세요."
 
 msgid "$SaveGameInactiveContent"
-msgstr "이 저장 데이터는 이미 다운로드하여 현재 비활성화되어 있는 Creation Club 콘텐츠에 의존하고 있습니다."
+msgstr "이 저장 데이터는 이미 다운로드하여 현재 비활성화되어 있는 크리에이션 클럽 콘텐츠에 의존하고 있습니다."
 
 msgid "$SaveGameLoadOrderCurrent"
 msgstr "현재"
 
 msgid "$SaveGameMissingContent"
-msgstr "존재하지 않는 컨텐츠"
+msgstr "존재하지 않는 콘텐츠"
 
 msgid "$SaveGameMissingContentActivate"
 msgstr "활성화 하시겠습니까?"
@@ -5627,25 +5662,28 @@ msgid "$SaveGameMissingContentDownload"
 msgstr "다운로드 하시겠습니까?"
 
 msgid "$SaveGameMissingCreationsCheck"
-msgstr "존재하지 않는 Creation 확인"
+msgstr "존재하지 않는 크리에이션 모드 확인"
 
 msgid "$SaveGameMissingCreationsContentDownload"
-msgstr "이 저장 데이터는 존재하지 않는 Creation에 의존하고 있습니다."
+msgstr "이 저장 데이터는 존재하지 않는 크리에이션 모드에 의존하고 있습니다."
 
 msgid "$SaveGameMissingLoadOrder"
-msgstr "이 저장 데이터는 현재 로드 순서와 다른 Creation의 로드 순서를 사용하고 있습니다. 이 저장 데이터의 로드 순서를 사용하시겠습니까? 아니면 현재 로드 순서를 사용하시겠습니까?"
+msgstr ""
+"이 저장 데이터는 현재 불러오기 순서와 다른 크리에이션 모드의 불러오기 순서를 사용하고 있습니다. 이 저장 데이터의 불러오기 순서를 "
+"사용하시겠습니까? 아니면 현재 불러오기 순서를 사용하시겠습니까?"
 
 msgid "$SaveGameMissingUnavailableContent"
-msgstr "이 저장 데이터가 사용하는 Creation 중 찾을 수 없는 것이 있습니다. 삭제되었거나 작성자가 등록을 취소했을 가능성이 있습니다."
+msgstr ""
+"이 저장 데이터가 사용하는 크리에이션 모드 중 찾을 수 없는 것이 있습니다. 삭제되었거나 작성자가 등록을 취소했을 가능성이 있습니다."
 
 msgid "$SaveGameMissingUnavailableSearch"
-msgstr "Creation 메뉴에서 존재하지 않는 콘텐츠를 검색할 수도 있습니다."
+msgstr "크리에이션 모드 메뉴에서 존재하지 않는 콘텐츠를 검색할 수도 있습니다."
 
 msgid "$SaveGameMissingUnidentifiedContent"
 msgstr "이 저장 데이터는 존재하지 않는 콘텐츠에 의존하고 있습니다. 아래 항목이 존재하지 않습니다:"
 
 msgid "$SaveGameMissingUnidentifiedSearch"
-msgstr "Creation 메뉴에서 확인되지 않은 콘텐츠를 검색하시겠습니까?"
+msgstr "크리에이션 모드 메뉴에서 확인되지 않은 콘텐츠를 검색하시겠습니까?"
 
 msgid "$SaveGameMissingUnownedContent"
 msgstr "하단의 콘텐츠를 보유하고 있지 않습니다:"
@@ -5660,7 +5698,7 @@ msgid "$SaveGameShow"
 msgstr "표"
 
 msgid "$SaveGameUnownedContinue"
-msgstr "Creation 메뉴 콘텐츠에서 이 콘텐츠를 검색하시겠습니까?"
+msgstr "크리에이션 모드 메뉴 콘텐츠에서 이 콘텐츠를 검색하시겠습니까?"
 
 msgid "$SaveUploaded"
 msgstr "세이브 업로드됨"

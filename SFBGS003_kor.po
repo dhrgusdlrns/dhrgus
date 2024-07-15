@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-07-12 14:42+0000\n"
-"Last-Translator: 땍땍이 <kidiksentrik@gmail.com>\n"
+"PO-Revision-Date: 2024-07-15 18:08+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -299,6 +299,14 @@ msgid ""
 "    ::Success::\n"
 "    ::Weapon - Missile Pod:: returned a positive value."
 msgstr ""
+"부팅 시퀀스: ((::아틀라틀 - 270B::))\n"
+"    ::성공::\n"
+"경고:: - 고정용 받침대에서 결함이 감지되었습니다...\n"
+"테스트: 무장 시퀀스...\n"
+"    ::성공::\n"
+"테스트: 발사 시퀀스...\n"
+"    ::성공::\n"
+"    ::무기 - 미사일 포드:: 양수 값이 반환되었습니다."
 
 #. EDID = SFBGS003_ChopShop_ShipComputer_SubMenu_Weapons
 #. REC = TMLM:ITXT
@@ -317,6 +325,12 @@ msgid ""
 "\n"
 "Failure to clear munitions may have catastrophic consequences."
 msgstr ""
+"연결 설정...\n"
+"    ::성공::\n"
+"\n"
+"경고: 검증 필요 :: 무기 - 미사일 포드:: 시험 발사하기 전에 탄두가 없는지 확인하십시오. \n"
+"\n"
+"탄두를 제거하지 않고 시험하면 재앙적인 결과를 초래할 수 있습니다."
 
 #. EDID = SFBGS003_ChopShop_ShipComputer_SubMenu_Weapons
 #. REC = TMLM:FULL
@@ -490,6 +504,17 @@ msgid ""
 "\n"
 "-Artur"
 msgstr ""
+"어이, 대장. 몇 가지 팁이 있어서 알려줄게.\n"
+"\n"
+"포리마 II의 파라디소 외곽에서 멋진 파티가 열릴 예정이야. 졸부 엘리트 쓰레기 새끼들이 온갖 곳에서 자기네 유흥선을 끌고 와서는 전용 "
+"해변에서 비공개 파티를 연다더군. 파라디소 이사회가 그 새끼들을 허락해 줬다니 믿기지 않지만, 아마도 파라디소 녀석들이 돈이 궁한 "
+"모양인가 봐. 녀석들이 알몸으로 해변에서 술에 취해 뒹굴고 있을 때, 슬쩍 들어가면 최고급 우주선 몇 대를 훔쳐 올 수 있을 거야.\n"
+"\n"
+"다음 주에 뉴아틀란티스 외곽에서 클래식 우주선 전시회가 열릴 예정이야. 오래된 모델들이 많지만, 가치가 엄청나. 모두가 우주선을 주기하고 "
+"준비하고 있을 전날 밤에 털지, 관심 있는 구매자로 위장하고 접근해서 녀석들 코앞에서 털지 결정해야 해. 명심해. 72년식 에일리어스는 "
+"건드리지 마. 더 이상 그렇게 중력 구동기를 만들지 않는 이유가 있거든.\n"
+"\n"
+"- 아투어"
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Personal
 #. REC = TMLM:ITXT
@@ -511,6 +536,18 @@ msgid ""
 "\n"
 "-Hannibal"
 msgstr ""
+"미안해. 그거 나였어. 다시는 그런 일 없을 거야.\n"
+"\n"
+"- 디크\n"
+"\n"
+"-----------------------------------------------------------------------------"
+"--------------------\n"
+"\n"
+"A 격납고에서 누가 청크를 먹었는지는 모르겠지만, 샨티가 돌핀 호의 개방 구획 칸 안쪽에서 치즈 스테이크와 카베르네 청키뇽 조각이 붙어 "
+"있는 걸 발견했다. 무장 시스템에 단락이 발생할 수도 있었다. 함선을 발사하기 전에 청소를 안 했으면 우리 모두 끝장날뻔했다고! 지난번 "
+"사고 사진을 꺼내 보이게 만들지 마라.\n"
+"\n"
+"- 한니발"
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Personal
 #. REC = TMLM:ITXT
@@ -526,6 +563,12 @@ msgid ""
 " \n"
 "-Deke"
 msgstr ""
+"여, 한니발. 추적자 녀석들이 아킬라에 사무소를 열었다는 소문이 떴어. 참 안타깝지만, 거기서 성능 좋은 우주선들이 대거 보였다는 얘기가 "
+"들리더라. 네 안전을 위해서라도, 직접 가는 건 피하는 게 좋을 거야. 다른 사람을 보내서 거기 있는 우리 친구들과 연락을 맺는 게 "
+"어때? 이 사안은 조용히 처리해서 아무도 놀라지 않게 하는 게 좋겠어. 소문은 금방 퍼질 테니까 조심해야 해. 사람들이 더 이상 아무도 "
+"가지 않으려 하기 전에 이 기회를 잘 활용해야 해.\n"
+" \n"
+"-디크"
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Personal
 #. REC = TMLM:ITXT
@@ -716,7 +759,7 @@ msgid ""
 "The Trackers Alliance employs \"Agents\" whose roles focus on gathering "
 "information, mentoring, and other administrative functions within the "
 "organization."
-msgstr "추적자 동맹은 조직 내에서 정보 수집, 멘토링 및 기타 관리 기능에 중점을 둔 \"요원\"들을 고용하고 있습니다."
+msgstr "추적자 동맹은 조직 내에서 정보 수집, 멘토링 및 기타 관리 기능에 중점을 둔 '대행인'들을 고용하고 있습니다."
 
 #. EDID = LS_SFBGS003_ScannerBounty01
 #. REC = LSCR:DESC
@@ -747,7 +790,7 @@ msgid ""
 "case the banks failed. Rumor is, a member of the Trackers Alliance still "
 "accepts them."
 msgstr ""
-"아스트라는 나리온 전쟁 당시 일부가 은행이 파산했을 때를 대비해 만든 경화입니다. 소문에 따르면 추적자 동맹의 한 회원은 여전히 "
+"아스트라는 나리온 전쟁 당시 일부가 은행이 파산했을 때를 대비해 만든 경화입니다. 소문에 따르면 추적자 동맹의 한 구성원은 여전히 "
 "아스트라를 받고 있다고 합니다."
 
 #. EDID = LS_SFBGS003_TrackersHQ_MiscPointer01
@@ -764,7 +807,7 @@ msgctxt "0000D2"
 msgid ""
 "The elusive starjacker, Hannibal Eutropio, runs an illicit chop shop "
 "operation hidden among an asteroid field orbiting Andromas IV-a."
-msgstr "추적하기 어려운 스타재커 한니발 유트로피오는 안드로마스 IV-a 궤도를 도는 소행성들 사이에 숨어 불법 도장 가게을 운영합니다."
+msgstr "추적하기 어려운 스타재커 한니발 유트로피오는 안드로마스 IV-a 궤도를 도는 소행성들 사이에 찹샵을 숨긴 채 운영하고 있습니다."
 
 #. EDID = LS_SFBGS003_TrackersHQ02
 #. REC = LSCR:DESC
@@ -772,7 +815,7 @@ msgctxt "0000D3"
 msgid ""
 "Agent No. 1, the mysterious leader of the Trackers Alliance, gave up all "
 "traces of their identity in order to protect themselves and any associates."
-msgstr "추적자 동맹의 미스터리한 리더인 1번 요원은 자신과 동료들을 보호하기 위해 모든 신원의 흔적을 포기했습니다."
+msgstr "추적자 동맹의 비밀스러운 지휘관인 대행인 1호는 자신과 동료들을 보호하기 위해 모든 신원정보 흔적을 지웠습니다."
 
 #. EDID = SFBGS003_Bounty_SpeechChallenge
 #. REC = QUST:FULL
@@ -1144,6 +1187,14 @@ msgid ""
 "Notes:\n"
 "Buyer was very eager to get it back and paid extra for a rush order. Very discreet. I've never seen a ship quite like this one. It must have been through several shops like ours to get where it is now. Honestly, I'm glad it was a rush order. They gave me the creeps. Said they wanted a ship to rival the Razorleaf, whatever that is. I said I could do it anyway and it wasn't questioned. Told me money was no object, so I just gave 'em the works, and they seemed pleased."
 msgstr ""
+"상태:\n"
+"완료: 개조 및 업그레이드 완료됨\n"
+"\n"
+"참고 사항:\n"
+"구매자가 되게 급해서 급히 처리하는 추가 비용을 지불했어. 매우 신중하더라. 이런 함선은 처음 봤어. 지금까지 우리 작업장 같은 곳 여러 "
+"군데를 거치다 왔겠지. 솔직히 말해서, 긴급 주문인 게 다행이었어. 구매자들이 좀 무섭더라고. 뭔가 레이저리프에 견줄 만한 우주선을 "
+"원한다고 하더라. 그게 뭐가 되든 말이야. 일단 그게 뭔지는 몰라도 할 수 있다고 했어. 돈은 문제없이 준다고 했으니까, 그냥 원하는 "
+"대로 다 해줬어. 그랬더니 구매자들이 만족한 것 같더라."
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs
 #. REC = TMLM:ITXT
@@ -1160,6 +1211,10 @@ msgid ""
 "\n"
 "Removed all traces of identification. Gave it a brand new paint job, and outfitted with advanced weaponry. Upgraded Grav Drive."
 msgstr ""
+"상태:\n"
+"완료: 연마도색 및 재단장 완료됨\n"
+"\n"
+"모든 식별 흔적을 제거했어. 새로 도색을 하고, 고급 무장을 장착했어. 중력 구동기도 업그레이드했어."
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs
 #. REC = TMLM:ITXT
@@ -1177,6 +1232,12 @@ msgid ""
 "Notes:\n"
 "Extensive Heatleech damage in the thruster compartments. Had to scrap those. The rest was salvageable. Marco managed to get the stains out of all the upholstery, but wasn't happy about it. I gave him an extra bonus for a job well done."
 msgstr ""
+"상태:\n"
+"완료: 완전히 해체됨\n"
+"\n"
+"참고 사항:\n"
+"추력기 구획은 열거머리 때문에 대규모 손상을 입었어. 그 때문에 폐기해야 했어. 다행히 나머지는 복구할 수 있었네. 마르코가 시트 얼룩을 "
+"모두 제거했지만, 결과가 별로였나 봐. 그래도 마르코에게 잘했다고 추가 수당을 주긴 했어."
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs
 #. REC = TMLM:ITXT
@@ -1196,6 +1257,18 @@ msgid ""
 "\n"
 "Until then, Niklas says he's locking up the ship so no one can accidentally fire the missile. and keeping the key in a \"safe place,\" which, knowing him, means his locker."
 msgstr ""
+"상황:\n"
+"진행 중: 격납고 B에서 분해 준비 중\n"
+"\n"
+"참고 사항:\n"
+"안톤이 미사일 포드에서 문제를 발견했어. 전원을 차단한 후에도 자기 클램프 해제가 안 된대. 니클라스 말로는 배선을 다시 연결하면 해결할 "
+"수 있을 거 같다는데, 그래도 폭발할 경우를 대비해서 포드를 상부 운송용 수직 통로로 옮기는 게 좋겠어. 이렇게 하면 (훨씬 덜 저렴하게)"
+" 찹샵 측면에 구멍을 뚫는 대신 (훨씬 저렴하게 수리할 수 있게) 상단 적재 구획에만 구멍을 뚫을 수 있어. 니클라스는 잘될 거 같다고 "
+"했지만, 시간이 좀 더 필요하대. 나는 밖에서 하는 게 나을 거라고 제안했는데, 이미 엔진 분해를 시작했고, 견인 장치도 고장 나서 "
+"함선이 격납고에 있어야 한다고 했어.\n"
+"\n"
+"그때까지, 니클라스는 누구도 미사일을 실수로 발사 못 하게 함선을 잠가둘 거래. 열쇠는 '안전한 곳'에 보관할 거야. 안전한 곳이라고 해 "
+"봤자, 아마 니클라스의 사물함에 있겠지만."
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs
 #. REC = TMLM:ITXT
@@ -1213,6 +1286,13 @@ msgid ""
 "Notes: \n"
 "Scrubbed IDs and wiped computers, still need to file numbers off several parts after they're ripped out. Removed main systems from internal power. Hull requires repairs, so see what can be salvaged and we'll use the rest for scrap. Weapons and engine systems are in good shape. Can easily be retrofitted into other ships. Several buyers are lined up, so take priority on this one."
 msgstr ""
+"상태:\n"
+"진행 중: 격납고 A에서 분해 시작\n"
+"\n"
+"참고 사항:\n"
+"식별정보를 삭제하고 컴퓨터를 초기화했지만, 여전히 벗겨내기 전에 몇 개 부품의 번호를 삭제해야 해. 주요 시스템은 내부 전원에서 분리해 "
+"뒀어. 선체는 수리가 필요하고, 사용할 수 있는 부분을 찾아본 뒤에 나머지는 폐기 처분할 계획이야. 무장 및 엔진 시스템은 상태가 좋아. "
+"다른 선박에 쉽게 장착할 수 있겠어. 여러 구매자가 줄 서 있으니, 이 작업을 우선 처리하자고."
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs
 #. REC = TMLM:ITXT
@@ -1243,6 +1323,14 @@ msgid ""
 "Warning: System is offline. Connection could not be established. \n"
 "------------------------------------------------------------------------------"
 msgstr ""
+"-----------------------------------------------------------------------------"
+"-\n"
+"연결 설정 중...\n"
+"    ::오류::\n"
+"\n"
+"경고: 시스템이 오프라인 상태입니다. 연결을 설정할 수 없습니다.\n"
+"-----------------------------------------------------------------------------"
+"-"
 
 #. EDID = SFBGS003_ChopShop_ShipComputer_SubMenu_OfflineSystems
 #. REC = TMLM:FULL
@@ -1890,127 +1978,127 @@ msgstr "정커 워치독 우주선 획득하기"
 #. REC = QUST:NNAM
 msgctxt "0008A7"
 msgid "(Optional) Take the Shipbreaker Cutter"
-msgstr ""
+msgstr "(선택) 함선분쇄 절단기 가져가기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008A8"
 msgid "(Optional)Take the Extreme Temperature Entry Spacesuit"
-msgstr ""
+msgstr "(선택) 극한 온도 진입용 우주복 가져가기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008A9"
 msgid "Take the Key"
-msgstr ""
+msgstr "열쇠 가져가기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008AA"
 msgid "Deal with Hannibal"
-msgstr ""
+msgstr "한니발과 거래하기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008AB"
 msgid "Fire the Missile Pod"
-msgstr ""
+msgstr "미사일 포드 발사하기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008AC"
 msgid "Find the Sunsail Ship Key"
-msgstr ""
+msgstr "선세일 함선 열쇠 찾기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008AD"
 msgid "Find Information on Accessing the Sunsail Ship"
-msgstr ""
+msgstr "선세일 함선에 접속하는 방법에 대한 정보 찾기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008AE"
 msgid "Find a Way to Fire the Missile Pod"
-msgstr ""
+msgstr "미사일 포드 발사 방법 찾기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008AF"
 msgid "Find Another Way Into the Loading Bay"
-msgstr ""
+msgstr "적재 구획으로 가는 다른 방법 찾기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008B0"
 msgid "Find Hannibal"
-msgstr ""
+msgstr "한니발 찾기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008B1"
 msgid "Enter the Chop Shop"
-msgstr ""
+msgstr "찹샵에 들어가기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008B2"
 msgid "Dock with the Chop Shop"
-msgstr ""
+msgstr "찹샵에 도킹하기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008B3"
 msgid "Answer the Hail"
-msgstr ""
+msgstr "교신에 응답하기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008B4"
 msgid "Find and Approach the Chop Shop"
-msgstr ""
+msgstr "찹샵을 찾아서 접근하기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008B5"
 msgid "Take the Decoy Ship to the Chop Shop"
-msgstr ""
+msgstr "위장용 함선을 타고 찹샵으로 이동하기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008B6"
 msgid "Board the Decoy Ship"
-msgstr ""
+msgstr "위장용 함선에 탑승하기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008B7"
 msgid "Speak with Roach"
-msgstr ""
+msgstr "로치와 대화하기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008B8"
 msgid "Interrogate Adrastos"
-msgstr ""
+msgstr "아드라스토스 심문하기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008B9"
 msgid "Disable Adrastos"
-msgstr ""
+msgstr "아드라스토스 비활성화하기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008BA"
 msgid "Use Scanner to find Adrastos On Akila City Streets"
-msgstr ""
+msgstr "스캐너를 사용해서 아킬라 시티 거리에서 아드라스토스 찾기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008BB"
 msgid "Discuss the Plan with Roach"
-msgstr ""
+msgstr "로치와 계획을 논의하기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
@@ -2022,13 +2110,13 @@ msgstr "대행인 1호에게 보고하기"
 #. REC = QUST:NNAM
 msgctxt "0008BD"
 msgid "Return to Adrastos"
-msgstr ""
+msgstr "아드라스토스에게 돌아가기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008BE"
 msgid "Return to Roach"
-msgstr ""
+msgstr "로치에게 돌아가기"
 
 #. EDID = SFTA00
 #. REC = QUST:FULL
@@ -2052,19 +2140,19 @@ msgstr "정커 워치독"
 #. REC = GBFM:FULL
 msgctxt "0008DE"
 msgid "Decoy Transpo III"
-msgstr ""
+msgstr "위장용 트랜스포 III"
 
 #. EDID = SFBGS003_Spacesuit_ETES_Helmet
 #. REC = ARMO:FULL
 msgctxt "0008E1"
 msgid "Extreme Temperature Entry Helmet"
-msgstr ""
+msgstr "극한 온도 진입용 헬멧"
 
 #. EDID = SFBGS003_Spacesuit_ETES
 #. REC = ARMO:FULL
 msgctxt "0008E2"
 msgid "Extreme Temperature Entry Spacesuit"
-msgstr ""
+msgstr "극한 온도 진입용 우주복"
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Personal
 #. REC = TMLM:UNAM
@@ -2081,6 +2169,20 @@ msgid ""
 "\n"
 "-Hannibal"
 msgstr ""
+"걱정 마. 이미 구매자를 찾았어. 시도니아의 어느 멍청한 상점 주인이 우리 수중에 있는 그 매물을 사기 위해 평생 모은 돈을 다 "
+"쏟아부었거든. 완전히 기뻐했고 별다른 질문도 안 했어. 심지어 내 이름도 묻지 않더라. 그러니 적어도 우리에게는 문제없을 거 같아. "
+"분명히 누군가 저 함선을 찾으러 올 거야. 함선 찾아오는 사람은 걱정할 필요 없어서 다행이야.\n"
+"\n"
+"\n"
+"- 디크\n"
+"\n"
+"-------------------------------------------------------------------------\n"
+"\n"
+"어떤 놈이 자기가 성계 방위군에게 발각됐을지도 모른다고 했어. 우리가 저 이상한 맞춤 개조 화물선을 훔쳤을 때 말이야. 그리고 이거 너무 "
+"커서 격납고에 넣기 힘들어. 그래서 연마도색 작업에는 제약이 있을 거야. 손해를 줄이고 빨리 처분하는 게 최선이야. 가격은 신경 안 "
+"쓸게. 그냥 얼른 치워버려.\n"
+"\n"
+"-한니발"
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Personal
 #. REC = TMLM:ITXT
@@ -2092,73 +2194,73 @@ msgstr "제목: 답변: 맞춤 제작 화물칸"
 #. REC = OMOD:FULL
 msgctxt "0008E6"
 msgid "No Mod"
-msgstr ""
+msgstr "개조 없음"
 
 #. EDID = mod_PlasmaCutter_Receiver_Standard
 #. REC = OMOD:FULL
 msgctxt "0008E7"
 msgid "Standard Receiver"
-msgstr ""
+msgstr "표준 사양 격발 장치"
 
 #. EDID = mod_PlasmaCutter_Additive_None
 #. REC = OMOD:FULL
 msgctxt "0008E8"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 #. EDID = mod_PlasmaCutter_Additive_Accelerant
 #. REC = OMOD:FULL
 msgctxt "0008E9"
 msgid "Accelerant"
-msgstr ""
+msgstr "촉매 장치"
 
 #. EDID = mod_PlasmaCutter_Muzzle_FocusNozzle
 #. REC = OMOD:FULL
 msgctxt "0008EB"
 msgid "Focus Nozzle"
-msgstr ""
+msgstr "집중 발사구"
 
 #. EDID = mod_PlasmaCutter_Mag_L
 #. REC = OMOD:FULL
 msgctxt "0008EC"
 msgid "Large Magazine"
-msgstr ""
+msgstr "대형 탄창"
 
 #. EDID = mod_PlasmaCutter_Mag_Standard
 #. REC = OMOD:FULL
 msgctxt "0008ED"
 msgid "Standard Magazine"
-msgstr ""
+msgstr "표준 사양 탄창"
 
 #. EDID = mod_PlasmaCutter_Grip_ShieldedLarge
 #. REC = OMOD:FULL
 msgctxt "0008EE"
 msgid "Large Shielded Grip"
-msgstr ""
+msgstr "대형 차폐 처리 손잡이"
 
 #. EDID = mod_PlasmaCutter_Grip_Shielded
 #. REC = OMOD:FULL
 msgctxt "0008EF"
 msgid "Shielded Grip"
-msgstr ""
+msgstr "차폐 처리 손잡이"
 
 #. EDID = mod_PlasmaCutter_Grip_Standard
 #. REC = OMOD:FULL
 msgctxt "0008F0"
 msgid "Standard Grip"
-msgstr ""
+msgstr "표준 사양 손잡이"
 
 #. EDID = mod_PlasmaCutter_Barrel_Long
 #. REC = OMOD:FULL
 msgctxt "0008F1"
 msgid "Long Flap"
-msgstr ""
+msgstr "긴 덮개"
 
 #. EDID = mod_PlasmaCutter_Barrel_Standard
 #. REC = OMOD:FULL
 msgctxt "0008F2"
 msgid "Standard Flap"
-msgstr ""
+msgstr "표준 덮개"
 
 #. EDID = Enc_SFBGS003_BountyTargetNPC_NonCity01TEMPLATE
 #. REC = NPC_:FULL
@@ -2182,115 +2284,115 @@ msgstr "시민"
 #. REC = WEAP:FULL
 msgctxt "000900"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 #. EDID = SFBGS003_MagShot_Roach_NOTPLAYABLE
 #. REC = WEAP:FULL
 msgctxt "000901"
 msgid "Keelhauler"
-msgstr ""
+msgstr "따개비"
 
 #. EDID = SFBGS003_MagShot_Roach_NOTPLAYABLE
 #. REC = WEAP:FULL
 msgctxt "000902"
 msgid "Keelhauler"
-msgstr ""
+msgstr "따개비"
 
 #. EDID = SFBGS003_MagShot_Roach_NOTPLAYABLE
 #. REC = WEAP:FULL
 msgctxt "000903"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 #. EDID = SFBGS003_MagShot_Roach_NOTPLAYABLE
 #. REC = WEAP:FULL
 msgctxt "000904"
 msgid "The Mutineer"
-msgstr ""
+msgstr "변절자"
 
 #. EDID = SFBGS003_MagShot_Roach_NOTPLAYABLE
 #. REC = WEAP:FULL
 msgctxt "000905"
 msgid "Trickshot"
-msgstr ""
+msgstr "트릭샷"
 
 #. EDID = SFBGS003_MagShot_Roach_NOTPLAYABLE
 #. REC = WEAP:FULL
 msgctxt "000906"
 msgid "Auto High"
-msgstr ""
+msgstr "Auto High"
 
 #. EDID = SFBGS003_MagShot_Roach_NOTPLAYABLE
 #. REC = WEAP:FULL
 msgctxt "000907"
 msgid "Auto Med"
-msgstr ""
+msgstr "Auto Med"
 
 #. EDID = SFBGS003_MagShot_Roach_NOTPLAYABLE
 #. REC = WEAP:FULL
 msgctxt "000908"
 msgid "Auto Low"
-msgstr ""
+msgstr "Auto Low"
 
 #. EDID = SFBGS003_MagShot_Roach_NOTPLAYABLE
 #. REC = WEAP:FULL
 msgctxt "000909"
 msgid "Upgraded High"
-msgstr ""
+msgstr "Upgraded High"
 
 #. EDID = SFBGS003_MagShot_Roach_NOTPLAYABLE
 #. REC = WEAP:FULL
 msgctxt "00090A"
 msgid "Upgraded Med"
-msgstr ""
+msgstr "Upgraded Med"
 
 #. EDID = SFBGS003_MagShot_Roach_NOTPLAYABLE
 #. REC = WEAP:FULL
 msgctxt "00090B"
 msgid "Upgraded Low"
-msgstr ""
+msgstr "Upgraded Low"
 
 #. EDID = SFBGS003_MagShot_Roach_NOTPLAYABLE
 #. REC = WEAP:FULL
 msgctxt "00090C"
 msgid "Standard High"
-msgstr ""
+msgstr "Standard High"
 
 #. EDID = SFBGS003_MagShot_Roach_NOTPLAYABLE
 #. REC = WEAP:FULL
 msgctxt "00090D"
 msgid "Standard Med"
-msgstr ""
+msgstr "Standard Med"
 
 #. EDID = SFBGS003_MagShot_Roach_NOTPLAYABLE
 #. REC = WEAP:FULL
 msgctxt "00090E"
 msgid "Standard Low"
-msgstr ""
+msgstr "Standard Low"
 
 #. EDID = SFBGS003_MagShot_Roach_NOTPLAYABLE
 #. REC = WEAP:FULL
 msgctxt "00090F"
 msgid "Fallback"
-msgstr ""
+msgstr "Fallback"
 
 #. EDID = SFBGS003_MagShot_Roach_NOTPLAYABLE
 #. REC = WEAP:FULL
 msgctxt "000910"
 msgid "MagShot"
-msgstr ""
+msgstr "매그샷"
 
 #. EDID = PlasmaCutter
 #. REC = WEAP:FULL
 msgctxt "000911"
 msgid "Fallback"
-msgstr ""
+msgstr "Fallback"
 
 #. EDID = PlasmaCutter
 #. REC = WEAP:FULL
 msgctxt "000912"
 msgid "Arc Might Plasma Cutter"
-msgstr ""
+msgstr "아크 마이트 플라즈마 절단기"
 
 #. EDID = SFBGS003_Spacesuit_Explorer_Celia
 #. REC = ARMO:FULL
@@ -2350,19 +2452,19 @@ msgstr "항해사 우주복"
 #. REC = ARMO:FULL
 msgctxt "00091C"
 msgid "Ranger Space Helmet"
-msgstr ""
+msgstr "레인저 우주복 헬멧"
 
 #. EDID = SFBGS003_TAHQKey
 #. REC = KEYM:FULL
 msgctxt "00091F"
 msgid "Tracker ID Card"
-msgstr ""
+msgstr "추적자 신분증 카드"
 
 #. EDID = SFBGS003_BountyBoard01_
 #. REC = CONT:FULL
 msgctxt "000920"
 msgid "Wanted Poster Display"
-msgstr ""
+msgstr "현상수배 전단 화면"
 
 #. EDID = AkilaMapMarker_TrackersAllianceHQ
 #. REC = REFR:FULL
@@ -2392,49 +2494,49 @@ msgstr "엔트리"
 #. REC = ARMO:FULL
 msgctxt "000926"
 msgid "Extreme Temperature Entry"
-msgstr ""
+msgstr "극한 온도 진입용"
 
 #. EDID = SFTA00_ShipbreakerCutterRewardNameMSG
 #. REC = MESG:FULL
 msgctxt "000927"
 msgid "Shipbreaker's Cutter"
-msgstr ""
+msgstr "함선분쇄 절단기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "000928"
 msgid "(Optional) Take the Arc Might Plasma Cutter"
-msgstr ""
+msgstr "(선택) 아크 마이트 플라즈마 절단기 가져가기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "000929"
 msgid "(Optional) Take the Extreme Temperature Entry Backpack"
-msgstr ""
+msgstr "(선택) 극한 온도 진입용 팩 가져가기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "00092A"
 msgid "(Optional) Take the Extreme Temperature Entry Helmet"
-msgstr ""
+msgstr "(선택) 극한 온도 진입용 헬멧 가져가기"
 
 #. EDID = SFBGS003_Loot_Mannequin_Spacesuit_Male01
 #. REC = NPC_:ATTX
 msgctxt "00092D"
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 #. EDID = SFBGS003_Loot_Mannequin_Spacesuit_Female01
 #. REC = NPC_:ATTX
 msgctxt "00092E"
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Lockdown
 #. REC = TMLM:ITXT
 msgctxt "00092F"
 msgid "Return to previous.."
-msgstr ""
+msgstr "이전으로 돌아가기..."
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Lockdown
 #. REC = TMLM:UNAM
@@ -2449,12 +2551,20 @@ msgid ""
 "Command Tower - Error\n"
 "    Warning: Mechanical locks engaged; manual key entry required."
 msgstr ""
+"승무원 숙소 - 성공\n"
+"    잠금 해제됨\n"
+"적재 구획 - 오류\n"
+"    경고: 출입문이 응답하지 않습니다. 막혀있는지 확인하십시오.\n"
+"도킹 출입구 - 오류\n"
+"    경고: 문이 이미 잠금 해제되었습니다.\n"
+"지휘탑 - 오류\n"
+"    경고: 기계식 잠금 장치가 작동 중이며, 수동 열쇠 입력이 필요합니다."
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Lockdown
 #. REC = TMLM:ITXT
 msgctxt "000931"
 msgid "Disable Station Lockdown.."
-msgstr ""
+msgstr "우주정거장 봉쇄 비활성화..."
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Lockdown
 #. REC = TMLM:BTXT
@@ -2464,18 +2574,23 @@ msgid ""
 "                            Pulsar Systems Staryard Security System\n"
 "              ------------------------------------------------------------------------------"
 msgstr ""
+"-----------------------------------------------------------------------------"
+"-\n"
+"                            펄서 시스템 우주조선소 보안 시스템\n"
+"              ---------------------------------------------------------------"
+"---------------"
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Lockdown
 #. REC = TMLM:FULL
 msgctxt "000933"
 msgid "Station Lockdown Override"
-msgstr ""
+msgstr "우주정거장 봉쇄 재정의 설정"
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_Menu
 #. REC = TMLM:ITXT
 msgctxt "000934"
 msgid "Station Lockdown Override"
-msgstr ""
+msgstr "우주정거장 봉쇄 재정의 설정"
 
 #. EDID = SFBGS003_Inevitable_Apparel_BountyHunter_02
 #. REC = ARMO:FULL
@@ -8661,25 +8776,25 @@ msgstr "마리아 어거스틴"
 #. REC = FLST:FULL
 msgctxt "000D52"
 msgid "Randomized Names for any faction bosses"
-msgstr ""
+msgstr "모든 세력 보스 무작위 이름"
 
 #. EDID = SFBGS003_Formlist_RandomNames_Faction_Spacers
 #. REC = FLST:FULL
 msgctxt "000D53"
 msgid "Randomized Names for Spacers"
-msgstr ""
+msgstr "스페이서 무작위 이름"
 
 #. EDID = SFBGS003_Formlist_RandomNames_Faction_Eclipse
 #. REC = FLST:FULL
 msgctxt "000D54"
 msgid "Randomized Names for Eclipse"
-msgstr ""
+msgstr "이클립스 무작위 이름"
 
 #. EDID = SFBGS003_Formlist_RandomNames_Faction_CrimsonFleet
 #. REC = FLST:FULL
 msgctxt "000D55"
 msgid "Randomized Names for crimson fleet"
-msgstr ""
+msgstr "크림슨 함대 무작위 이름"
 
 #. EDID = SFBGS003_BountyTargetNPC_NB02
 #. REC = NPC_:FULL
@@ -8691,25 +8806,25 @@ msgstr "시민"
 #. REC = PERK:EPFD
 msgctxt "000D57"
 msgid "Accept Bounty"
-msgstr ""
+msgstr "현상수배 임무 받기"
 
 #. EDID = SFBGS003_ActivatePoster_Perk
 #. REC = PERK:FULL
 msgctxt "000D59"
 msgid "Player Accept Bounty Poster Text Override"
-msgstr ""
+msgstr "플레이어 현상수배 전단 텍스트 재정의 설정"
 
 #. EDID = SFBGS003_abAddPerk_ActivatePoster
 #. REC = SPEL:FULL
 msgctxt "000D5A"
 msgid "Activate Poster"
-msgstr ""
+msgstr "수배 전단 활성화"
 
 #. EDID = SFBGS003_abAddPerkActivatePoster
 #. REC = MGEF:FULL
 msgctxt "000D5B"
 msgid "Add Perk Activate Poster"
-msgstr ""
+msgstr "수배 전단 활성화 특성 추가"
 
 #. EDID = mod_PlasmaCutter_Quality_01
 #. REC = OMOD:FULL
@@ -8743,9 +8858,10 @@ msgstr "Quality Tiers Any"
 
 #. EDID = Patch_Update05_Hotfix01
 #. REC = QUST:FULL
+#, fuzzy
 msgctxt "000D61"
 msgid "[Update 5 Hotfix 01]"
-msgstr ""
+msgstr "[Update 5 Hotfix 01]"
 
 #. EDID = Player
 #. REC = NPC_:FULL
@@ -8913,722 +9029,722 @@ msgstr "행성 조사"
 #. REC = MESG:DESC
 msgctxt "000038"
 msgid "Confront the criminal to claim the bounty."
-msgstr ""
+msgstr "수배범과 대면하여 현상금을 수령하세요."
 
 #. EDID = SFBGS003_ScannerCrimeBasic11
 #. REC = MESG:DESC
 msgctxt "000039"
 msgid "Poaching"
-msgstr ""
+msgstr "밀렵"
 
 #. EDID = SFBGS003_ScannerCrimeBasic10
 #. REC = MESG:DESC
 msgctxt "00003A"
 msgid "Involuntary Manslaughter"
-msgstr ""
+msgstr "중과실치사"
 
 #. EDID = SFBGS003_BountyCrime_33
 #. REC = MESG:DESC
 msgctxt "00003B"
 msgid "Maliciously manipulating the beliefs of a group to cause harm"
-msgstr ""
+msgstr "악의적으로 집단의 신념을 조작하여 해를 끼침"
 
 #. EDID = SFBGS003_ScannerCrimeBasic08
 #. REC = MESG:DESC
 msgctxt "00003C"
 msgid "Assault"
-msgstr ""
+msgstr "공격"
 
 #. EDID = SFBGS003_ScannerCrimeBasic07
 #. REC = MESG:DESC
 msgctxt "00003D"
 msgid "Forgery"
-msgstr ""
+msgstr "위조"
 
 #. EDID = SFBGS003_ScannerCrimeBasic06
 #. REC = MESG:DESC
 msgctxt "00003E"
 msgid "Theft"
-msgstr ""
+msgstr "절도"
 
 #. EDID = SFBGS003_ScannerCrimeBasic04
 #. REC = MESG:DESC
 msgctxt "00003F"
 msgid "Third Degree Murder"
-msgstr ""
+msgstr "3급 살인"
 
 #. EDID = SFBGS003_ScannerCrimeBasic01
 #. REC = MESG:DESC
 msgctxt "000040"
 msgid "Arson"
-msgstr ""
+msgstr "방화"
 
 #. EDID = SFBGS003_AstrasErrorMSG
 #. REC = MESG:DESC
 msgctxt "000042"
 msgid "You do not have enough Astras."
-msgstr ""
+msgstr "아스트라가 충분하지 않습니다."
 
 #. EDID = SFBGS003_ScannerCrimeBasic16
 #. REC = MESG:DESC
 msgctxt "000045"
 msgid "Insurance Fraud"
-msgstr ""
+msgstr "보험 사기"
 
 #. EDID = SFBGS003_ScannerCrimeBasic15
 #. REC = MESG:DESC
 msgctxt "000046"
 msgid "Gun Smuggling"
-msgstr ""
+msgstr "총기 밀수"
 
 #. EDID = SFBGS003_ScannerCrimeBasic14
 #. REC = MESG:DESC
 msgctxt "000047"
 msgid "Aurora Trafficking"
-msgstr ""
+msgstr "오로라 밀매"
 
 #. EDID = SFBGS003_ScannerCrimeBasic38
 #. REC = MESG:DESC
 msgctxt "00004A"
 msgid "Burglary"
-msgstr ""
+msgstr "강도"
 
 #. EDID = SFBGS003_BountyCrime_39
 #. REC = MESG:DESC
 msgctxt "00004B"
 msgid "Sabotaging space suits under the guise of \"fashion\""
-msgstr ""
+msgstr "'패션'을 가장해 우주복을 파괴함"
 
 #. EDID = SFBGS003_BountyCrime_82
 #. REC = MESG:DESC
 msgctxt "00004D"
 msgid "Inciting ecoterrorism"
-msgstr ""
+msgstr "환경보호주의 테러 선동"
 
 #. EDID = SFBGS003_ScannerCrimeBasic47
 #. REC = MESG:DESC
 msgctxt "000051"
 msgid "Armed Robbery"
-msgstr ""
+msgstr "무장 강도"
 
 #. EDID = SFBGS003_ScannerCrimeBasic46
 #. REC = MESG:DESC
 msgctxt "000052"
 msgid "Disorderly Conduct"
-msgstr ""
+msgstr "무질서 행위"
 
 #. EDID = SFBGS003_ScannerCrimeBasic45
 #. REC = MESG:DESC
 msgctxt "000053"
 msgid "Forced Labor"
-msgstr ""
+msgstr "강제 노동"
 
 #. EDID = SFBGS003_ScannerCrimeBasic48
 #. REC = MESG:DESC
 msgctxt "000056"
 msgid "Bomb Threat"
-msgstr ""
+msgstr "폭파 협박"
 
 #. EDID = SFBGS003_ScannerCrimeBasic35
 #. REC = MESG:DESC
 msgctxt "000057"
 msgid "Harassment"
-msgstr ""
+msgstr "괴롭힘"
 
 #. EDID = SFBGS003_BountyCrime_81
 #. REC = MESG:DESC
 msgctxt "000059"
 msgid "Feeding Aurora to Wildlife"
-msgstr ""
+msgstr "야생동물에게 오로라를 먹이로 줌"
 
 #. EDID = SFBGS003_BountyCrime_80
 #. REC = MESG:DESC
 msgctxt "00005A"
 msgid "Impersonating a Robot"
-msgstr ""
+msgstr "로봇 사칭"
 
 #. EDID = SFBGS003_BountyCrime_78
 #. REC = MESG:DESC
 msgctxt "00005B"
 msgid "Lewd Acts with a Heatleech"
-msgstr ""
+msgstr "열거머리를 이용해 음란 행위를 벌임"
 
 #. EDID = SFBGS003_BountyCrime_77
 #. REC = MESG:DESC
 msgctxt "00005C"
 msgid "DP, A&B, B&E, MS, and VOP"
-msgstr ""
+msgstr "풍기 문란, 공갈 폭행, 주거 침입, 살해 후 자살 시도, 보호관찰 위반"
 
 #. EDID = SFBGS003_BountyCrime_76
 #. REC = MESG:DESC
 msgctxt "00005D"
 msgid "Public Intoxication"
-msgstr ""
+msgstr "공공장소 만취"
 
 #. EDID = SFBGS003_ScannerCrimeBasic50
 #. REC = MESG:DESC
 msgctxt "00005E"
 msgid "Breaking and Entering"
-msgstr ""
+msgstr "무단 침입"
 
 #. EDID = SFBGS003_ScannerCrimeBasic02
 #. REC = MESG:DESC
 msgctxt "00005F"
 msgid "First Degree Murder"
-msgstr ""
+msgstr "1급 살인"
 
 #. EDID = SFBGS003_ScannerCrimeBasic42
 #. REC = MESG:DESC
 msgctxt "000060"
 msgid "Criminal Usury"
-msgstr ""
+msgstr "불법 고리대금"
 
 #. EDID = SFBGS003_ScannerCrimeBasic41
 #. REC = MESG:DESC
 msgctxt "000061"
 msgid "Negligent Homicide"
-msgstr ""
+msgstr "과실치사"
 
 #. EDID = SFBGS003_ScannerCrimeBasic40
 #. REC = MESG:DESC
 msgctxt "000062"
 msgid "Trespassing"
-msgstr ""
+msgstr "무단 침입"
 
 #. EDID = SFBGS003_ScannerCrimeBasic39
 #. REC = MESG:DESC
 msgctxt "000063"
 msgid "Robotic Manslaughter"
-msgstr ""
+msgstr "로봇 중과실치사"
 
 #. EDID = SFBGS003_ScannerCrimeBasic13
 #. REC = MESG:DESC
 msgctxt "000064"
 msgid "Proliferation of Invasive Species"
-msgstr ""
+msgstr "침입종 확산방지 위반"
 
 #. EDID = SFBGS003_ScannerCrimeBasic37
 #. REC = MESG:DESC
 msgctxt "000065"
 msgid "Witness Tampering"
-msgstr ""
+msgstr "목격자 매수"
 
 #. EDID = SFBGS003_ScannerCrimeBasic36
 #. REC = MESG:DESC
 msgctxt "000066"
 msgid "Kidnapping"
-msgstr ""
+msgstr "납치"
 
 #. EDID = SFBGS003_ScannerCrimeBasic49
 #. REC = MESG:DESC
 msgctxt "000067"
 msgid "Smuggling"
-msgstr ""
+msgstr "밀수"
 
 #. EDID = SFBGS003_ScannerCrimeBasic34
 #. REC = MESG:DESC
 msgctxt "000068"
 msgid "Aggravated Assault"
-msgstr ""
+msgstr "가중 폭행"
 
 #. EDID = SFBGS003_ScannerCrimeBasic33
 #. REC = MESG:DESC
 msgctxt "000069"
 msgid "Child Endangerment"
-msgstr ""
+msgstr "아동 학대"
 
 #. EDID = SFBGS003_ScannerCrimeBasic32
 #. REC = MESG:DESC
 msgctxt "00006A"
 msgid "Domestic Violence"
-msgstr ""
+msgstr "가정 폭력"
 
 #. EDID = SFBGS003_ScannerCrimeBasic31
 #. REC = MESG:DESC
 msgctxt "00006B"
 msgid "Solicitation"
-msgstr ""
+msgstr "부정청탁"
 
 #. EDID = SFBGS003_BountyCrime_59
 #. REC = MESG:DESC
 msgctxt "00006C"
 msgid "Distributing fraudulent corporate propaganda"
-msgstr ""
+msgstr "사기성 기업 선전물 배포"
 
 #. EDID = SFBGS003_BountyCrime_84
 #. REC = MESG:DESC
 msgctxt "00006D"
 msgid "Running an Ashta-fighting ring"
-msgstr ""
+msgstr "아쉬타 투기장 운영"
 
 #. EDID = SFBGS003_BountyCrime_83
 #. REC = MESG:DESC
 msgctxt "00006E"
 msgid "Selling fake \"used ship\" warranties"
-msgstr ""
+msgstr "가짜 '중고 함선' 보증 판매"
 
 #. EDID = SFBGS003_BountyCrime_74
 #. REC = MESG:DESC
 msgctxt "00006F"
 msgid "Conspiracy to commit terrorism with a grav drive"
-msgstr ""
+msgstr "중력 구동기를 이용한 테러 모의"
 
 #. EDID = SFBGS003_BountyCrime_49
 #. REC = MESG:DESC
 msgctxt "000070"
 msgid "Detonating EMP devices to disrupt robotic operation"
-msgstr ""
+msgstr "로봇 작동을 방해하기 위해 EMP 장치를 폭발시킴"
 
 #. EDID = SFBGS003_BountyCrime_48
 #. REC = MESG:DESC
 msgctxt "000071"
 msgid "Blackmail of judges on behalf of corporations"
-msgstr ""
+msgstr "기업의 사주를 받아 판사 협박"
 
 #. EDID = SFBGS003_BountyCrime_75
 #. REC = MESG:DESC
 msgctxt "000072"
 msgid "Fixing Red Mile competitions"
-msgstr ""
+msgstr "레드 마일 승부조작"
 
 #. EDID = SFBGS003_BountyCrime_46
 #. REC = MESG:DESC
 msgctxt "000073"
 msgid "Conspiracy to incite violence"
-msgstr ""
+msgstr "폭력 선동 모의"
 
 #. EDID = SFBGS003_BountyCrime_58
 #. REC = MESG:DESC
 msgctxt "000074"
 msgid "Robot abandonment"
-msgstr ""
+msgstr "로봇 유기"
 
 #. EDID = SFBGS003_BountyCrime_44
 #. REC = MESG:DESC
 msgctxt "000075"
 msgid "False imprisonment and explotation of colonial settlers"
-msgstr ""
+msgstr "식민지 정착민 불법 감금 및 착취"
 
 #. EDID = SFBGS003_BountyCrime_73
 #. REC = MESG:DESC
 msgctxt "000076"
 msgid "Assault with deadly micro-organisms"
-msgstr ""
+msgstr "치명적 미생물 악용 공격"
 
 #. EDID = SFBGS003_BountyCrime_72
 #. REC = MESG:DESC
 msgctxt "000077"
 msgid "Evading contraband scans"
-msgstr ""
+msgstr "밀수품 스캔 회피"
 
 #. EDID = SFBGS003_BountyCrime_71
 #. REC = MESG:DESC
 msgctxt "000078"
 msgid "Talking in a movie theater"
-msgstr ""
+msgstr "영화관에서 떠듦"
 
 #. EDID = SFBGS003_BountyCrime_04
 #. REC = MESG:DESC
 msgctxt "000079"
 msgid "Violation of human autonomy"
-msgstr ""
+msgstr "인간의 자율성 침해"
 
 #. EDID = SFBGS003_BountyCrime_67
 #. REC = MESG:DESC
 msgctxt "00007A"
 msgid "Excessive unabated shenaniganry"
-msgstr ""
+msgstr "과도한 허위 발언"
 
 #. EDID = SFBGS003_ScannerCrimeBasic27
 #. REC = MESG:DESC
 msgctxt "00007B"
 msgid "Animal Cruelty"
-msgstr ""
+msgstr "동물 학대"
 
 #. EDID = SFBGS003_BountyCrime_64
 #. REC = MESG:DESC
 msgctxt "00007C"
 msgid "Illegally piloting a space station"
-msgstr ""
+msgstr "우주정거장 불법 조종"
 
 #. EDID = SFBGS003_BountyCrime_63
 #. REC = MESG:DESC
 msgctxt "00007D"
 msgid "Light treason"
-msgstr ""
+msgstr "경미한 반역"
 
 #. EDID = SFBGS003_BountyCrime_62
 #. REC = MESG:DESC
 msgctxt "00007E"
 msgid "Insurrection Against a Governing Body"
-msgstr ""
+msgstr "통치 체제에 대한 반란"
 
 #. EDID = SFBGS003_BountyCrime_61
 #. REC = MESG:DESC
 msgctxt "00007F"
 msgid "Aggravated assault with Chunks"
-msgstr ""
+msgstr "청크를 이용한 가중 폭행"
 
 #. EDID = SFBGS003_ScannerCrimeBasic21
 #. REC = MESG:DESC
 msgctxt "000080"
 msgid "Disturbing the Peace"
-msgstr ""
+msgstr "치안 방해"
 
 #. EDID = SFBGS003_BountyCrime_68
 #. REC = MESG:DESC
 msgctxt "000081"
 msgid "Aggressive littering"
-msgstr ""
+msgstr "공격적인 쓰레기 투기"
 
 #. EDID = SFBGS003_ScannerCrimeBasic30
 #. REC = MESG:DESC
 msgctxt "000082"
 msgid "Operating a spaceship under the influence"
-msgstr ""
+msgstr "우주선 음주 운항"
 
 #. EDID = SFBGS003_ScannerCrimeBasic29
 #. REC = MESG:DESC
 msgctxt "000083"
 msgid "Failure to appear in court"
-msgstr ""
+msgstr "재판 불출석"
 
 #. EDID = SFBGS003_ScannerCrimeBasic28
 #. REC = MESG:DESC
 msgctxt "000084"
 msgid "Blackmail"
-msgstr ""
+msgstr "협박"
 
 #. EDID = SFBGS003_BountyCrime_66
 #. REC = MESG:DESC
 msgctxt "000085"
 msgid "Distribution of an unknown toxic substance"
-msgstr ""
+msgstr "미확인 독성 물질 배포"
 
 #. EDID = SFBGS003_BountyCrime_51
 #. REC = MESG:DESC
 msgctxt "000086"
 msgid "Obstructing an offficial proceeding"
-msgstr ""
+msgstr "공식 절차 방해"
 
 #. EDID = SFBGS003_BountyCrime_37
 #. REC = MESG:DESC
 msgctxt "000087"
 msgid "Misappropriation of Chunks"
-msgstr ""
+msgstr "청크 남용"
 
 #. EDID = SFBGS003_ScannerCrimeBasic25
 #. REC = MESG:DESC
 msgctxt "000088"
 msgid "Vandalism"
-msgstr ""
+msgstr "기물파손"
 
 #. EDID = SFBGS003_ScannerCrimeBasic24
 #. REC = MESG:DESC
 msgctxt "000089"
 msgid "Hate Crimes"
-msgstr ""
+msgstr "증오 범죄"
 
 #. EDID = SFBGS003_ScannerCrimeBasic23
 #. REC = MESG:DESC
 msgctxt "00008A"
 msgid "Parole Violation"
-msgstr ""
+msgstr "가석방 위반"
 
 #. EDID = SFBGS003_ScannerCrimeBasic22
 #. REC = MESG:DESC
 msgctxt "00008B"
 msgid "Extortion"
-msgstr ""
+msgstr "갈취"
 
 #. EDID = SFBGS003_BountyCrime_60
 #. REC = MESG:DESC
 msgctxt "00008C"
 msgid "Intentionally smuggling heatleeches"
-msgstr ""
+msgstr "고의적인 열거머리 밀수"
 
 #. EDID = SFBGS003_ScannerCrimeBasic20
 #. REC = MESG:DESC
 msgctxt "00008D"
 msgid "Obscenity Offenses"
-msgstr ""
+msgstr "외설 행위"
 
 #. EDID = SFBGS003_ScannerCrimeBasic18
 #. REC = MESG:DESC
 msgctxt "00008E"
 msgid "Racketeering"
-msgstr ""
+msgstr "공갈"
 
 #. EDID = SFBGS003_ScannerCrimeBasic17
 #. REC = MESG:DESC
 msgctxt "00008F"
 msgid "Wire Fraud"
-msgstr ""
+msgstr "전기통신 금융사기"
 
 #. EDID = SFBGS003_BountyCrime_38
 #. REC = MESG:DESC
 msgctxt "000090"
 msgid "Selling \"anti-gravity ships\" that simply had no power"
-msgstr ""
+msgstr "동력이 없는 '반중력 우주선' 판매"
 
 #. EDID = SFBGS003_BountyCrime_47
 #. REC = MESG:DESC
 msgctxt "000091"
 msgid "Ecclesiastical impersonation with intent to defraud"
-msgstr ""
+msgstr "성직자를 사칭해 사기 행각을 벌임"
 
 #. EDID = SFBGS003_BountyCrime_36
 #. REC = MESG:DESC
 msgctxt "000092"
 msgid "Creating intentionally addictive pierogis, gazpacho, and kiffles"
-msgstr ""
+msgstr "의도적으로 중독성 있는 피에로기, 가스파초, 키플스를 조리"
 
 #. EDID = SFBGS003_BountyCrime_34
 #. REC = MESG:DESC
 msgctxt "000093"
 msgid "Exploiting and entrapping Enlightened pilgrims"
-msgstr ""
+msgstr "계몽회 순례자 착취 및 기만"
 
 #. EDID = SFBGS003_ScannerCrimeBasic09
 #. REC = MESG:DESC
 msgctxt "000094"
 msgid "Stalking"
-msgstr ""
+msgstr "스토킹"
 
 #. EDID = SFBGS003_BountyCrime_32
 #. REC = MESG:DESC
 msgctxt "000095"
 msgid "Sacred object smuggling from ancient Earth"
-msgstr ""
+msgstr "고대 지구의 신성한 기물 밀수"
 
 #. EDID = SFBGS003_BountyCrime_29
 #. REC = MESG:DESC
 msgctxt "000096"
 msgid "Manipulating the genome of colonists without consent"
-msgstr ""
+msgstr "동의 없이 개척민 유전자를 조작"
 
 #. EDID = SFBGS003_BountyCrime_28
 #. REC = MESG:DESC
 msgctxt "000097"
 msgid "Hunting multiple alien species to extinction"
-msgstr ""
+msgstr "여러 외계 생물종을 멸종시킬 목적으로 사냥"
 
 #. EDID = SFBGS003_BountyCrime_27
 #. REC = MESG:DESC
 msgctxt "000098"
 msgid "Selling human organs to Chunks manufacturing facilities"
-msgstr ""
+msgstr "청크 제조 시설에 인체 장기를 판매"
 
 #. EDID = SFBGS003_BountyCrime_45
 #. REC = MESG:DESC
 msgctxt "000099"
 msgid "Defrauding prospectors into indentured servitude"
-msgstr ""
+msgstr "탐광자를 속여 기한부 예속 상태로 둠"
 
 #. EDID = SFBGS003_BountyCrime_57
 #. REC = MESG:DESC
 msgctxt "00009A"
 msgid "Malicious hacking of a Neuroamp implant"
-msgstr ""
+msgstr "악의적 뉴로앰프 이식장치 해킹"
 
 #. EDID = SFBGS003_BountyCrime_55
 #. REC = MESG:DESC
 msgctxt "00009B"
 msgid "Attempted apocalypse with a celestial object"
-msgstr ""
+msgstr "천체를 이용해 대재앙을 유발하려 시도"
 
 #. EDID = SFBGS003_BountyCrime_54
 #. REC = MESG:DESC
 msgctxt "00009C"
 msgid "De-facing an Enhance! client"
-msgstr ""
+msgstr "인핸스! 고객 안면훼손"
 
 #. EDID = SFBGS003_BountyCrime_52
 #. REC = MESG:DESC
 msgctxt "00009D"
 msgid "Corporate espionage"
-msgstr ""
+msgstr "산업 스파이 행위를 함"
 
 #. EDID = SFBGS003_BountyCrime_13
 #. REC = MESG:DESC
 msgctxt "0000A2"
 msgid "Reprogramming robots for malicious intent"
-msgstr ""
+msgstr "악의를 품고 로봇을 재프로그래밍"
 
 #. EDID = SFBGS003_BountyCrime_14
 #. REC = MESG:DESC
 msgctxt "0000A3"
 msgid "Tampering with data to release multiple felons"
-msgstr ""
+msgstr "다수의 중범죄자 석방을 목적으로 데이터 변조"
 
 #. EDID = SFBGS003_BountyCrime_15
 #. REC = MESG:DESC
 msgctxt "0000A4"
 msgid "Poisoning a food factory, causing widespread illness."
-msgstr ""
+msgstr "식품 공장을 오염시켜 광범위한 질병을 유발"
 
 #. EDID = SFBGS003_BountyCrime_16
 #. REC = MESG:DESC
 msgctxt "0000A5"
 msgid "Consuming human flesh in public"
-msgstr ""
+msgstr "공공장소에서 인육을 섭취"
 
 #. EDID = SFBGS003_BountyCrime_41
 #. REC = MESG:DESC
 msgctxt "0000A6"
 msgid "Selling alien detritus to outposts as potatoes"
-msgstr ""
+msgstr "전초기지에 외계 폐기물을 감자로 속여 판매"
 
 #. EDID = SFBGS003_BountyCrime_42
 #. REC = MESG:DESC
 msgctxt "0000A7"
 msgid "Soliciting ships with fraudulent \"extended warranty\" offers"
-msgstr ""
+msgstr "사기성 '보증 연장'을 제안하며 함선을 판매"
 
 #. EDID = SFBGS003_BountyCrime_43
 #. REC = MESG:DESC
 msgctxt "0000A8"
 msgid "Unethical bioengineering scams"
-msgstr ""
+msgstr "비윤리적인 생명공학 사기 행각을 벌임"
 
 #. EDID = SFBGS003_BountyCrime_40
 #. REC = MESG:DESC
 msgctxt "0000A9"
 msgid "Claiming to be the \"Emperor of Paradiso\" and collecting taxes"
-msgstr ""
+msgstr "'파라디소의 황제'를 자처하며 세금을 징수"
 
 #. EDID = SFBGS003_MissionBoard_PlayerAccess_Failure_Message
 #. REC = MESG:DESC
 msgctxt "0000AB"
 msgid "Only Trackers Alliance members can access this Mission Board."
-msgstr ""
+msgstr "이 임무 단말기는 추적자 동맹 구성원만 열람 가능합니다."
 
 #. EDID = SFBGS003_BountyCrime_12
 #. REC = MESG:DESC
 msgctxt "0000AC"
 msgid "Unethical genetic research resulting in [REDACTED]"
-msgstr ""
+msgstr "비윤리적인 유전자 연구 결과 [삭제됨]"
 
 #. EDID = SFBGS003_BountyCrime_11
 #. REC = MESG:DESC
 msgctxt "0000AD"
 msgid "Maliciously manipulating the thoughts of a minor"
-msgstr ""
+msgstr "미성년자의 생각을 악의적으로 조작"
 
 #. EDID = SFBGS003_BountyCrime_10
 #. REC = MESG:DESC
 msgctxt "0000AE"
 msgid "Homicide of [REDACTED] during a public speech"
-msgstr ""
+msgstr "공개 연설 중 [REDACTED]를 살해"
 
 #. EDID = SFBGS003_BountyCrime_09
 #. REC = MESG:DESC
 msgctxt "0000AF"
 msgid "Inciting a riot resulting in the death of law enforcement"
-msgstr ""
+msgstr "폭동을 선동하여 법무 집행관의 사망을 초래"
 
 #. EDID = SFBGS003_BountyCrime_07
 #. REC = MESG:DESC
 msgctxt "0000B0"
 msgid "Premeditated mass dismemberments"
-msgstr ""
+msgstr "계획적인 집단 토막살인"
 
 #. EDID = SFBGS003_BountyCrime_05
 #. REC = MESG:DESC
 msgctxt "0000B1"
 msgid "Biomedical fraud resulting in patient death"
-msgstr ""
+msgstr "생물의학 사기 행각으로 환자의 사망을 초래"
 
 #. EDID = SFBGS003_BountyCrime_70
 #. REC = MESG:DESC
 msgctxt "0000B2"
 msgid "Noise pollution over 180 dB with intent to harm"
-msgstr ""
+msgstr "해를 끼칠 의도로 180dB 이상의 소음 공해를 발생시킴"
 
 #. EDID = SFBGS003_BountyCrime_03
 #. REC = MESG:DESC
 msgctxt "0000B3"
 msgid "High treason for selling Freestar secrets"
-msgstr ""
+msgstr "자유항성 공동체의 기밀을 판매해 중대한 반역을 저지름"
 
 #. EDID = SFBGS003_BountyCrime_31
 #. REC = MESG:DESC
 msgctxt "0000B4"
 msgid "Destroying court evidence via the waste management system"
-msgstr ""
+msgstr "폐기물 관리 시스템을 이용해 법정 증거 파기"
 
 #. EDID = SFBGS003_BountyCrime_02
 #. REC = MESG:DESC
 msgctxt "0000B5"
 msgid "High treason for selling UC secrets"
-msgstr ""
+msgstr "식민지 연합의 기밀을 판매해 중대한 반역을 저지름"
 
 #. EDID = SFBGS003_BountyCrime_17
 #. REC = MESG:DESC
 msgctxt "0000B6"
 msgid "Knowingly selling faulty ship parts that stranded colonists"
-msgstr ""
+msgstr "고의로 결함이 있는 함선 부품을 판매하여 개척민을 좌초시킴"
 
 #. EDID = SFBGS003_BountyCrime_01
 #. REC = MESG:DESC
 msgctxt "0000B7"
 msgid "Assasination of a government official"
-msgstr ""
+msgstr "정부 관리 암살"
 
 #. EDID = SFBGS003_BountyCrime_30
 #. REC = MESG:DESC
 msgctxt "0000B8"
 msgid "Running a counterfeit Chunks operation"
-msgstr ""
+msgstr "모조 청크 사업체 운영"
 
 #. EDID = SFBGS003_BountyCrime_26
 #. REC = MESG:DESC
 msgctxt "0000BA"
 msgid "Destroying an entire planetary ecosystem"
-msgstr ""
+msgstr "전체 행성 생태계 파괴"
 
 #. EDID = SFBGS003_BountyCrime_25
 #. REC = MESG:DESC
 msgctxt "0000BB"
 msgid "Selling Ashta offspring under the label \"ancient Earth dog\""
-msgstr ""
+msgstr "아쉬타 유체를 '고대 지구 견종'이라고 속여 판매"
 
 #. EDID = SFBGS003_BountyCrime_24
 #. REC = MESG:DESC
 msgctxt "0000BC"
 msgid ""
 "Smuggling Aurora in packages of CAN-uck! that were accidentally distributed"
-msgstr ""
+msgstr "캔-넉!에 담아 밀수한 오로라를 실수로 배포"
 
 #. EDID = SFBGS003_BountyCrime_22
 #. REC = MESG:DESC
 msgctxt "0000BD"
 msgid "Extorting a colony resulting in multiple casualties"
-msgstr ""
+msgstr "식민지를 강탈하면서 다수의 사상자를 발생시킴"
 
 #. EDID = SFBGS003_BountyCrime_21
 #. REC = MESG:DESC
 msgctxt "0000BE"
 msgid "Claiming ownership of a planet and its inhabitants"
-msgstr ""
+msgstr "행성과 거주민에 대한 소유권 주장"
 
 #. EDID = SFBGS003_BountyCrime_19
 #. REC = MESG:DESC
 msgctxt "0000BF"
 msgid "Trafficking outside of Neon"
-msgstr ""
+msgstr "네온 외부에서 불법 밀거래"
 
 #. EDID = SFBGS003_BountyCrime_18
 #. REC = MESG:DESC
 msgctxt "0000C0"
 msgid "Selling locations of isolated homesteads to pirates"
-msgstr ""
+msgstr "외딴 정착지의 위치 정보를 해적에게 판매"
 
 #. EDID = SFBGS003_BountyCrime_00
 #. REC = MESG:DESC
 msgctxt "0000C1"
 msgid "Serial Murder"
-msgstr ""
+msgstr "연쇄 살인"
 
 #. EDID = SFBGS003_TAHQ_Volk_Slate
 #. REC = BOOK:DESC
@@ -9682,109 +9798,109 @@ msgstr ""
 #. REC = MESG:DESC
 msgctxt "0004AD"
 msgid "Murder and identity theft of the deceased"
-msgstr ""
+msgstr "살인 및 살해된 사망자의 신원 도용"
 
 #. EDID = SFBGS003_BountyCrime_06
 #. REC = MESG:DESC
 msgctxt "0004AE"
 msgid "Mass murder"
-msgstr ""
+msgstr "집단 살인"
 
 #. EDID = SFBGS003_BountyCrime_23
 #. REC = MESG:DESC
 msgctxt "0004AF"
 msgid "Poisoning of law enforcement using tainted Terrabrew"
-msgstr ""
+msgstr "법무 집행관에게 오염된 테라브루 커피를 먹여 중독시킴"
 
 #. EDID = SFBGS003_BountyCrime_20
 #. REC = MESG:DESC
 msgctxt "0004B0"
 msgid "Releasing Ashta inside of the city walls"
-msgstr ""
+msgstr "도시 방벽 내부에 아쉬타를 풀어놓음"
 
 #. EDID = SFBGS003_BountyCrime_35
 #. REC = MESG:DESC
 msgctxt "0004B1"
 msgid "Selling genetically modified human tissue as \"Earth hamsters\""
-msgstr ""
+msgstr "유전자 변형 인간 조직을 '지구 햄스터'로 속여 판매"
 
 #. EDID = SFBGS003_BountyCrime_53
 #. REC = MESG:DESC
 msgctxt "0004B3"
 msgid "Undisclosed crimes against humanity"
-msgstr ""
+msgstr "미공개 반인륜 범죄"
 
 #. EDID = SFBGS003_BountyCrime_50
 #. REC = MESG:DESC
 msgctxt "0004B4"
 msgid "Excessive indecent exposure"
-msgstr ""
+msgstr "과도한 성기 노출"
 
 #. EDID = SFBGS003_BountyCrime_69
 #. REC = MESG:DESC
 msgctxt "0004B5"
 msgid "Bounty hunting under false pretensses"
-msgstr ""
+msgstr "신분을 위장한 채 현상금 사냥"
 
 #. EDID = SFBGS003_BountyCrime_65
 #. REC = MESG:DESC
 msgctxt "0004B6"
 msgid "Interception of encrypted hailing communications"
-msgstr ""
+msgstr "암호화 통신 호출 도청"
 
 #. EDID = SFBGS003_ScannerCrimeBasic26
 #. REC = MESG:DESC
 msgctxt "0004B7"
 msgid "Piracy"
-msgstr ""
+msgstr "해적 행위"
 
 #. EDID = SFBGS003_ScannerCrimeBasic19
 #. REC = MESG:DESC
 msgctxt "0004B8"
 msgid "Money Laundering"
-msgstr ""
+msgstr "자금 세탁"
 
 #. EDID = SFBGS003_ScannerCrimeBasic44
 #. REC = MESG:DESC
 msgctxt "0004B9"
 msgid "Escaping Arrest"
-msgstr ""
+msgstr "체포 불응 후 도주"
 
 #. EDID = SFBGS003_ScannerCrimeBasic43
 #. REC = MESG:DESC
 msgctxt "0004BA"
 msgid "Grand Larceny"
-msgstr ""
+msgstr "중대한 절도 행위"
 
 #. EDID = SFBGS003_BountyCrime_79
 #. REC = MESG:DESC
 msgctxt "0004BB"
 msgid "Impersonating a Tracker"
-msgstr ""
+msgstr "추적자 사칭"
 
 #. EDID = SFBGS003_ScannerCrimeBasic12
 #. REC = MESG:DESC
 msgctxt "0004C0"
 msgid "Robbery"
-msgstr ""
+msgstr "강도"
 
 #. EDID = SFBGS003_ScannerCrimeBasic05
 #. REC = MESG:DESC
 msgctxt "0004C1"
 msgid "Tax Evasion"
-msgstr ""
+msgstr "탈세"
 
 #. EDID = SFBGS003_ScannerCrimeBasic03
 #. REC = MESG:DESC
 msgctxt "0004C2"
 msgid "Second Degree Murder"
-msgstr ""
+msgstr "2급 살인"
 
 #. EDID = SFBGS003_BountyCrime_56
 #. REC = MESG:DESC
 msgctxt "0004C3"
 msgid "Public indecency with a robot"
-msgstr ""
+msgstr "로봇을 이용한 공공장소 추행"
 
 #. EDID = SFBGS003_MiscPointer
 #. REC = QUST:CNAM
@@ -10069,13 +10185,13 @@ msgstr ""
 #. REC = COBJ:DESC
 msgctxt "0008F3"
 msgid "Increased ammo capacity."
-msgstr ""
+msgstr "탄창 용량 증가."
 
 #. EDID = co_gun_mod_PlasmaCutter_Mag_Standard
 #. REC = COBJ:DESC
 msgctxt "0008F4"
 msgid "Standard issue magazine."
-msgstr ""
+msgstr "표준 사양 탄창."
 
 #. EDID = co_gun_mod_PlasmaCutter_Grip_ShieldedLarge
 #. REC = COBJ:DESC
@@ -10097,7 +10213,7 @@ msgstr ""
 #. REC = COBJ:DESC
 msgctxt "0008F7"
 msgid "Standard issue grip."
-msgstr ""
+msgstr "표준 사양 손잡이."
 
 #. EDID = co_gun_mod_PlasmaCutter_Barrel_Long
 #. REC = COBJ:DESC
@@ -10105,43 +10221,43 @@ msgctxt "0008F8"
 msgid ""
 "Increases Accuracy, Recoil Control, and Range at the cost of Aim Down Sight "
 "speed."
-msgstr ""
+msgstr "명중률, 반동 제어, 사거리 증가. 정조준 신속도 감소."
 
 #. EDID = co_gun_mod_PlasmaCutter_Barrel_Standard
 #. REC = COBJ:DESC
 msgctxt "0008F9"
 msgid "Standard issue barrel."
-msgstr ""
+msgstr "표준 사양 총열."
 
 #. EDID = co_gun_mod_PlasmaCutter_Muzzle_FocusNozzle
 #. REC = COBJ:DESC
 msgctxt "0008FA"
 msgid "Increases Damage, Headshot Damage, and Range."
-msgstr ""
+msgstr "피해, 헤드샷 피해, 사거리 증가."
 
 #. EDID = co_gun_mod_PlasmaCutter_Muzzle_None
 #. REC = COBJ:DESC
 msgctxt "0008FC"
 msgid "Empty muzzle attachment."
-msgstr ""
+msgstr "총구 부품 미부착."
 
 #. EDID = co_gun_mod_PlasmaCutter_Additive_Accelerant
 #. REC = COBJ:DESC
 msgctxt "000921"
 msgid "Increased rate of fire but less accurate."
-msgstr ""
+msgstr "연사력 증가, 명중률 감소."
 
 #. EDID = SFBGS003_BountyCrime_85
 #. REC = MESG:DESC
 msgctxt "00092B"
 msgid "Defacement of Public Property"
-msgstr ""
+msgstr "공공 재산 훼손"
 
 #. EDID = SFBGS003_BountyCrime_86
 #. REC = MESG:DESC
 msgctxt "00092C"
 msgid "Jaywalking"
-msgstr ""
+msgstr "무단횡단"
 
 #. EDID = SFBGS003_Tutorial_Astra
 #. REC = MESG:DESC
@@ -10151,6 +10267,10 @@ msgid ""
 "\n"
 "This rare currency can be found around the galaxy. Once you go to the Trackers Alliance HQ, complete your first bounty mission for them and become an official Tracker, you will be able to give Astras to a Tracker Agent named Stache in exchange for rare equipment."
 msgstr ""
+"아스트라를 발견했습니다. \n"
+"\n"
+"이 희귀 화폐는 은하계 곳곳에서 찾을 수 있습니다. 추적자 동맹 본부로 가서 첫 번째 현상금 임무를 완수하고 정식 추적자가 되면, 추적자 "
+"대행인 스타쉬에게 아스트라를 주고 희귀 장비와 교환할 수 있습니다."
 
 #. EDID = SFBGS003_BountyTarget_DisplayName_Worker
 #. REC = MESG:DESC
@@ -10170,7 +10290,7 @@ msgctxt "00093C"
 msgid ""
 "In order to accept this bounty mission, you must first complete the bounty "
 "mission \"The Starjacker.\""
-msgstr ""
+msgstr "이 현상수배 임무를 수락하려면 먼저 '스타재커' 현상수배 임무를 완료해야 합니다."
 
 #. EDID = SFBGS003_MiscPointer_PreReq_Msg
 #. REC = MESG:DESC
@@ -10178,7 +10298,7 @@ msgctxt "00093D"
 msgid ""
 "In order to accept this bounty mission, you must first get approval from "
 "Agent No. 1 as part of the mission \"The Trackers Alliance.\""
-msgstr ""
+msgstr "이 현상수배 임무를 수락하려면, 먼저 대행인 1호의 승인을 받아야 합니다. 이는 '추적자 동맹' 임무의 일부입니다."
 
 #. EDID = SFBGS003_BountyTarget_DisplayName_Crew
 #. REC = MESG:DESC
@@ -10281,7 +10401,7 @@ msgctxt "0000D4"
 msgid ""
 "Tank, you may need to slow down and listen. That isn't what I said. Roach is"
 " very good at what he does, he just takes a different approach."
-msgstr ""
+msgstr "탱크, 천천히 들어보세요. 그런 뜻이 아니에요. 로치는 자신이 하는 일에 매우 능숙하지만 접근 방식이 다를 뿐입니다."
 
 #. EDID = [FD00F5A3]
 #. REC = INFO:NAM1
@@ -10289,13 +10409,13 @@ msgctxt "0000D5"
 msgid ""
 "Okay, but between you and me, it still sounds like you're the better "
 "Tracker."
-msgstr ""
+msgstr "알았어요. 하지만 우리 둘이서만 보면 여전히 당신이 더 나은 추적자인 것 같습니다."
 
 #. EDID = [FD00F599]
 #. REC = INFO:NAM1
 msgctxt "0000D6"
 msgid "No comment."
-msgstr ""
+msgstr "그 말엔 대답 안 할 거예요."
 
 #. EDID = [FD00F59F]
 #. REC = INFO:NAM1
@@ -12754,7 +12874,7 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "00024B"
 msgid "A chop shop? What's that?"
-msgstr ""
+msgstr "찹샵? 그게 뭐죠?"
 
 #. EDID = [FD005AF1]
 #. REC = INFO:NAM1
@@ -18737,7 +18857,7 @@ msgstr ""
 msgctxt "00061C"
 msgid ""
 "Uhh... I thought we were supposed to be using that decoy ship of yours?"
-msgstr ""
+msgstr "어... 그 위장용 함선을 사용하기로 한 거 아니었어?"
 
 #. EDID = [FD006E83]
 #. REC = INFO:NAM1
@@ -22189,7 +22309,7 @@ msgctxt "017119"
 msgid ""
 "Mission boards? Yeah, you'll find one here in the Broken Spear. They're "
 "usually in spaceport bars like that."
-msgstr "미션 보드? 네, 브로큰 스피어에 가면 있어요. 보통 우주항에 있는 술집에 있어요."
+msgstr "임무 단말기? 네, 브로큰 스피어에 가면 있어요. 보통 우주항에 있는 술집에 있지요."
 
 #. EDID = [00123A5F]
 #. REC = INFO:NAM1

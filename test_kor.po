@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-26 16:17+0900\n"
-"PO-Revision-Date: 2024-05-26 07:17+0000\n"
+"PO-Revision-Date: 2024-07-18 04:14+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -14,7 +14,6 @@ msgstr ""
 "X-Generator: Weblate 4.1.1\n"
 
 #
-
 # List: 0, EDID: EncShip_StarbornGuardian04_Template, REC: GBFM:FULL
 msgctxt "007169"
 msgid "Starborn Guardian IV"
@@ -23,7 +22,7 @@ msgstr "스타본 가디언 IV"
 # List: 0, EDID: Cargo_B_Generic_SpaceOX01_Template, REC: GBFM:FULL
 msgctxt "00716B"
 msgid "Space OX"
-msgstr "스페이스 OX"
+msgstr "스페이스 옥스"
 
 # List: 0, EDID: Destroyer_B_Deimos_Nebula02_Template, REC: GBFM:FULL
 msgctxt "007284"
@@ -937,7 +936,7 @@ msgstr "아스팔트 CB III"
 # List: 0, EDID: Cargo_B_Generic_SpaceOX03_Template, REC: GBFM:FULL
 msgctxt "0312FC"
 msgid "Space OX III"
-msgstr "스페이스 OX III"
+msgstr "스페이스 옥스 III"
 
 # List: 0, EDID: Cargo_B_Generic_Wagontrain02_Template, REC: GBFM:FULL
 msgctxt "0312FD"
@@ -1200,7 +1199,7 @@ msgstr "아스팔트 CB II"
 # List: 0, EDID: Cargo_B_Generic_SpaceOX02_Template, REC: GBFM:FULL
 msgctxt "031884"
 msgid "Space OX II"
-msgstr "스페이스 OX II"
+msgstr "스페이스 옥스 II"
 
 # List: 0, EDID: Cargo_B_Generic_Wagontrain03_Template, REC: GBFM:FULL
 msgctxt "031885"
@@ -1396,17 +1395,17 @@ msgstr "아틀라스"
 # List: 0, EDID: Destroyer_B_Stroud_Conquerer01_Template, REC: GBFM:FULL
 msgctxt "031D0A"
 msgid "Conquerer"
-msgstr "컨쿼러"
+msgstr "컨커러"
 
 # List: 0, EDID: Destroyer_B_Stroud_Conquerer02_Template, REC: GBFM:FULL
 msgctxt "031D18"
 msgid "Conquerer II"
-msgstr "컨쿼러 II"
+msgstr "컨커러 II"
 
 # List: 0, EDID: Destroyer_B_Stroud_Conquerer03_Template, REC: GBFM:FULL
 msgctxt "031D19"
 msgid "Conquerer III"
-msgstr "컨쿼러 III"
+msgstr "컨커러 III"
 
 # List: 0, EDID: SE_ZW08LegendarySpacerShipBuilt_Template, REC: GBFM:FULL
 msgctxt "031DAF"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-07-15 18:08+0000\n"
+"PO-Revision-Date: 2024-07-18 04:15+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -19126,7 +19126,7 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "000651"
 msgid "What can I do for you?"
-msgstr ""
+msgstr "무엇을 도와드릴까요?"
 
 #. EDID = [FD004C8B]
 #. REC = INFO:NAM1

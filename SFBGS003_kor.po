@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-07-18 04:15+0000\n"
-"Last-Translator: singularity <eldergmg@gmail.com>\n"
+"PO-Revision-Date: 2024-07-19 12:22+0000\n"
+"Last-Translator: 아크라 (디스코드L97820) <ethingz5279@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -266,7 +266,7 @@ msgid ""
 msgstr ""
 "이 메시지를 수신하는 주변의 모든 선박에게, 도움을 보내주길 요청한다. 스페이서들에게 납치당하고 있다! \n"
 "\n"
-"우리는 현재 그룸브릿지 VIII-a의 궤도에 갇혀 있다. 반복한다, 주변의 모든 선박은 지원을 보내달라!"
+"우리는 현재 그룸브릿지 VIII-a의 궤도에 갇혀 있다. 반복한다. 주변의 모든 선박은 지원을 보내달라!"
 
 #. EDID = SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs
 #. REC = TMLM:ITXT
@@ -9758,6 +9758,17 @@ msgid ""
 "\n"
 "Otherwise, I want to make it clear that I do not wish to hear his name uttered in my presence, or within the walls of this or any future headquarters."
 msgstr ""
+"대행인 1호는 죽었다. 우리 중 하나인 볼크에 의해 살해당했다. 볼크의 불복종과 잔인한 행동을 1호가 지적한 것이다. 볼크는 질책을 "
+"받았고, 이에 반발했다. 1호가 가장 취약할 때, 볼크는 폭력적으로 그 불만을 표출했다.\n"
+"\n"
+"볼크는 강하게 저항했지만, 우리는 볼크가 도망치기 전에 제압하고 붙잡았으며, 이 과정에서 일어난 최소한의 피해는 불가피했다. 1호의 "
+"유언에 따라 후계자로서 내가 새로운 대행인 1호로 지명되었고, 나는 볼크의 총살을 명했다. 모든 추적자가 총살형 집행에 자원했기에, "
+"20명으로 제한해야 했다.\n"
+"\n"
+"앞으로 볼크의 모든 기록은 말소될 것이다. 모든 성취와 업적은 데이터베이스, 책, 그리고 다른 모든 통신에서 삭제될 것이다. 혹시라도 "
+"볼크의 친척이나 지인이 물어본다면, 볼크는 언급할 수 없는 기밀 작전 중에 사망했다는 대답을 듣게 될 것이다. \n"
+"\n"
+"그 외에는, 나는 볼크의 이름이 내 앞이나, 이곳 혹은 앞으로의 그 어떤 본부에서도 언급되지 않길 바란다."
 
 #. EDID = SFBGS003_TAHQ_FoundingTrackers_Book
 #. REC = BOOK:DESC
@@ -13802,7 +13813,7 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "0002D7"
 msgid "Leave no quarter. Show no mercy."
-msgstr ""
+msgstr "용서는 없고, 자비는 없다."
 
 #. EDID = [FD004C4E]
 #. REC = INFO:NAM1
@@ -19387,7 +19398,7 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "00067B"
 msgid "Leave no quarter. Show no mercy."
-msgstr ""
+msgstr "용서는 없고, 자비는 없다."
 
 #. EDID = [FD004C59]
 #. REC = INFO:NAM1

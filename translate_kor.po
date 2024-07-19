@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2024-07-19 12:22+0000\n"
-"Last-Translator: TheKid <yehsi2000@gmail.com>\n"
+"PO-Revision-Date: 2024-07-20 12:55+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -398,7 +398,7 @@ msgid "$BIOME COMPLETE"
 msgstr "생물 군계 조사 완료"
 
 msgid "$BIOMETRIC ID"
-msgstr "생체인식 ID"
+msgstr "생체인식 식별번호"
 
 msgid "$BIOSCAN"
 msgstr "스캔"
@@ -545,7 +545,7 @@ msgid "$Bulldozers"
 msgstr "철거"
 
 msgid "$BUY"
-msgstr "상대의 것 구매"
+msgstr "상대 물품 구매"
 
 msgid "$Buy"
 msgstr "구입"
@@ -6098,13 +6098,13 @@ msgid "$Selfie"
 msgstr "셀프 카메라"
 
 msgid "$SELL"
-msgstr "나의 것 판매"
+msgstr "내 물품 판매"
 
 msgid "$SELL ALL"
 msgstr "모두 판매"
 
 msgid "$SELL FROM SHIP INVENTORY"
-msgstr "함선 적재 물품 판매"
+msgstr "함선 물품 판매"
 
 msgid "$SELL SHIP"
 msgstr "함선 판매"
@@ -6113,7 +6113,7 @@ msgid "$SELL SHIPS"
 msgstr "함선 판매"
 
 msgid "$SELLFROM"
-msgstr "함선 적재 물품 판매 -"
+msgstr "함선 물품 판매 -"
 
 msgid "$SET COURSE"
 msgstr "항로 설정"

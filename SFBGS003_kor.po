@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-07-21 12:42+0000\n"
+"PO-Revision-Date: 2024-07-21 13:40+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -8776,7 +8776,7 @@ msgstr "마리아 어거스틴"
 #. REC = FLST:FULL
 msgctxt "000D52"
 msgid "Randomized Names for any faction bosses"
-msgstr "모든 세력 보스 무작위 이름"
+msgstr "모든 세력 대장 무작위 이름"
 
 #. EDID = SFBGS003_Formlist_RandomNames_Faction_Spacers
 #. REC = FLST:FULL

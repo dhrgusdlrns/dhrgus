@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-07-22 14:43+0000\n"
-"Last-Translator: Jinhyeong <jinhyeong0612@gmail.com>\n"
+"PO-Revision-Date: 2024-07-24 08:15+0000\n"
+"Last-Translator: secarnadia <ellwionsia@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -9964,7 +9964,7 @@ msgid ""
 "I accepted a bounty mission from the Trackers Alliance Wanted Poster "
 "Display. Once I successfully complete this mission, I'll be accepted into "
 "the Trackers Alliance."
-msgstr ""
+msgstr "추적자 동맹 현상수배 전단 화면에서 현상수배 임무를 수락했다. 이 임무를 성공적으로 완료하면 추적자 동맹에 가입할 수 있다."
 
 #. EDID = SFBGS003_MiscPointer
 #. REC = QUST:CNAM
@@ -9974,6 +9974,8 @@ msgid ""
 " on a bounty mission for them to prove I can handle it. I can accept the "
 "bounty at the Wanted Poster Display inside the HQ."
 msgstr ""
+"대행인 1호는 내가 추적자 동맹에 가입하기를 원하지만, 먼저 이들의 현상금 임무를 수행해 내 능력을 증명해야 한다. 본부 내부의 현상수배 "
+"전단 화면에서 현상수배를 수락할 수 있다."
 
 #. EDID = SFBGS003_MiscPointer
 #. REC = QUST:CNAM
@@ -9981,7 +9983,7 @@ msgctxt "00080D"
 msgid ""
 "I went to the Trackers Alliance headquarters, where I was told to meet with "
 "Agent No. 1. Supposedly, they have a proposal for me."
-msgstr ""
+msgstr "추적자 동맹 본부에 가서 대행인 1호를 만나라는 지시를 받았다. 이들이 나에게 제안할 것이 있다고 한다."
 
 #. EDID = SFBGS003_MiscPointer
 #. REC = QUST:CNAM
@@ -9991,6 +9993,8 @@ msgid ""
 "in Akila City wants to speak with me. I probably shouldn't keep them "
 "waiting."
 msgstr ""
+"정체를 알 수 없는 어느 추적자가 아킬라 시티에 있는 추적자 동맹 본부의 대행인 1호가 나와 이야기하고 싶어 한다고 말했다. 그자들이 "
+"기다리게 해서는 안 될 것 같다."
 
 #. EDID = SFBGS003_MiscPointer
 #. REC = QUST:CNAM
@@ -9998,7 +10002,7 @@ msgctxt "00080F"
 msgid ""
 "A Mysterious Tracker is trying to get my attention. I should see what she "
 "has to say."
-msgstr ""
+msgstr "정체를 알 수 없는 추적자가 내 관심을 끌려고 한다. 무슨 말을 하려는 건지 봐야겠다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM

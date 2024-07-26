@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-07-24 08:15+0000\n"
-"Last-Translator: secarnadia <ellwionsia@gmail.com>\n"
+"PO-Revision-Date: 2024-07-28 05:37+0000\n"
+"Last-Translator: White_Duck <minjoo.k29@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -989,7 +989,7 @@ msgstr "함선 컴퓨터"
 #. REC = KEYM:FULL
 msgctxt "00047B"
 msgid "Junker Watchdog Key"
-msgstr "정커 워치독 열쇠"
+msgstr "고물 워치독 열쇠"
 
 #. EDID = SFTA00_LockedShipKey
 #. REC = KEYM:FULL
@@ -1972,7 +1972,7 @@ msgstr "대행인 1호에게 돌아가기"
 #. REC = QUST:NNAM
 msgctxt "0008A6"
 msgid "Claim the Junker Watchdog Ship"
-msgstr "정커 워치독 우주선 획득하기"
+msgstr "고물 워치독 함선 획득하기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
@@ -2134,7 +2134,7 @@ msgstr "실탄 상자"
 #. REC = GBFM:FULL
 msgctxt "0008DD"
 msgid "Junker Watchdog"
-msgstr "정커 워치독"
+msgstr "고물 워치독"
 
 #. EDID = SFTA00_DecoyShip
 #. REC = GBFM:FULL
@@ -10012,6 +10012,8 @@ msgid ""
 "real Tracker. I got to choose a callsign. I now have access to all of the "
 "Trackers Alliance headquarters and its amenities."
 msgstr ""
+"나는 한니발을 잡는 데에 실패했다. 로치가 나를 보증해주었고, 대행인 1호가 나를 정식 추적자로 만들어 주었다. 나는 호출 부호를 선택할 "
+"수 있게 되었다. 이제 나는 모든 추적자 동맹 본부와 그 편의 시설을 이용할 수 있게 되었다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10021,6 +10023,7 @@ msgid ""
 " to Agent No. 1 at the Trackers Alliance HQ and tell them we failed to catch"
 " our target."
 msgstr ""
+"기술적으로는 작동하지만, 간신히 동작만 하는 함선이 있다. 추적자 동맹 본부의 대행인 1호에게 보고해서 목표물을 잡지 못했다고 말해야겠다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10028,7 +10031,7 @@ msgctxt "0008C1"
 msgid ""
 "I got the key to the junker ship, and the other things Hannibal left behind "
 "for me. Time to claim the ship and get out of here."
-msgstr ""
+msgstr "고물 함선과 한니발이 남긴 다른 물건들을 찾았다. 이제 함선을 되찾아서 여길 떠날 시간이다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10038,6 +10041,8 @@ msgid ""
 " left us a junker ship so we won't be stranded, along with some other toys. "
 "We should grab those and get out of here."
 msgstr ""
+"한니발이 우리 함선을 가지고 도망쳤다. 아드라스토스가 한니발이었다. 그래도 한니발은 다른 장난감과 함께 좌초되지 않도록 고물선을 "
+"남겨뒀다. 그 고물선을 챙겨서 여기서 나가야겠다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10047,6 +10052,7 @@ msgid ""
 " Hannibal. The real Hannibal was Adrastos all along, and he got away with "
 "our ship!"
 msgstr ""
+"그 녀석은 한니발이 아니었다. 한니발의 부하 디크가 한니발인 척한 거였다. 아드라스토스가 진짜 한니발이였고, 우리 함선을 가지고 도망쳤다!"
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10054,7 +10060,7 @@ msgctxt "0008C4"
 msgid ""
 "We've found Hannibal, and he immediately surrendered. I should confront him "
 "and then we'll bring him in and collect our bounty."
-msgstr ""
+msgstr "한니발을 찾았고, 한니발은 즉시 항복했다. 한니발과 대면한 뒤 데려가서 현상금을 받아야겠다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10063,7 +10069,7 @@ msgid ""
 "We were able to get inside the Sunsail ship in Hangar B and fired the "
 "detached missile pod wired up to it. It blew a hole that will allow us to "
 "access the loading bay."
-msgstr ""
+msgstr "B 격납고에 있는 선세일 함선 안으로 들어가서 미사일 포드를 분리해서 발사했다. 적재 구획에 접근할 수 있는 구멍이 생겼다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10073,6 +10079,8 @@ msgid ""
 "board and fire the missile pod that will hopefully give us another way into "
 "the loading bay."
 msgstr ""
+"B 격납고에 있는 선세일 함선의 열쇠를 찾았다. 이 열쇠로 선세일 함선에 탑승해서 미사일 포드를 발사하면 적재 구획으로 들어갈 수 있을 "
+"것이다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10080,7 +10088,7 @@ msgctxt "0008C7"
 msgid ""
 "We found out that there's a key to the Sunsail ship in Hangar B. We can find"
 " the key in the living quarters that will let us get inside."
-msgstr ""
+msgstr "B 격납고에 선세일 함선의 열쇠가 있다는 걸 알아냈다. 거주실에서 함선 열쇠를 찾으면 함선 안으로 들어갈 수 있을 것이다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10088,7 +10096,7 @@ msgctxt "0008C8"
 msgid ""
 "The ship connected to the missile pod is locked up. We'll need to find a "
 "key. Roach thinks we may find some information about it in the control room."
-msgstr ""
+msgstr "미사일 포드가 연결돼 있는 함선이 잠겨 있다. 함선 열쇠를 찾아야 한다. 로치가 관제실에서 정보를 찾을 수 있을 거라고 했다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10098,6 +10106,8 @@ msgid ""
 "ship. If we can enter the ship, we might be able to use it to blow a hole in"
 " the wall and get to Hannibal."
 msgstr ""
+"미사일 포드가 분리된 채 함선에 연결되어 있는 것 같다. 함선에 들어갈 수 있다면 그걸 이용해 벽에 구멍을 뚫고 한니발에게 갈 수 있을 "
+"것이다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10105,7 +10115,7 @@ msgctxt "0008CA"
 msgid ""
 "The Loading Bay door is sealed shut with no way to open it from this side. "
 "Roach has suggested finding another way around, possibly above us."
-msgstr ""
+msgstr "적재 구획 문은 봉인되어 있어 이쪽에서 열 방법이 없다. 로치는 우리 위쪽에서 다른 길을 찾아보라고 제안했다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10115,6 +10125,8 @@ msgid ""
 "Shop. Given Hannibal's insistence that the loading bay be particularly "
 "secured, Roach believes that's where we'll find him."
 msgstr ""
+"한니발이 PA 시스템을 통해 찹샵을 완전히 폐쇄하라는 명령을 내렸다. 로치에 따르면 한니발은 특히 적재 구획의 보안을 철저하게 유지하려고 "
+"고집했다고 하며, 로치는 이에 미뤄 적재 구획에서 한니발을 찾을 수 있을 거라고 믿었다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10122,7 +10134,7 @@ msgctxt "0008CC"
 msgid ""
 "Roach and I have arrived on board the chop shop, which appears to have its "
 "gravity shut off. Now, to find Hannibal somewhere inside."
-msgstr ""
+msgstr "로치와 나는 찹샵에 승선했다. 찹샵은 중력이 차단된 것으로 보인다. 이제 내부 어딘가에 있을 한니발을 찾아야 한다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10130,7 +10142,7 @@ msgctxt "0008CD"
 msgid ""
 "We're docked with the chop shop. Adrastos is going to remain bound on board "
 "our ship while Roach and I head into the Chop Shop to find Hannibal."
-msgstr ""
+msgstr "찹샵에 도킹했다. 로치와 나는 함선에 아드라스토스를 묶어 두고 한니발을 찾기 위해 찹샵으로 향할 것이다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10140,6 +10152,8 @@ msgid ""
 "granted us clearance to dock with the station. We should waste no time "
 "docking with it."
 msgstr ""
+"운 좋게도, 찹샵 쪽에서는 함선에 아드라스토스가 탑승한 것으로 착각해서, 정거장에 도킹할 수 있게 허가해 줬다. 도킹하는 데 시간을 "
+"낭비하지 말자."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10147,7 +10161,7 @@ msgctxt "0008CF"
 msgid ""
 "We were hailed by the Chop Shop. I need to answer it so Adrastos can "
 "convince them to let us board."
-msgstr ""
+msgstr "찹샵에서 교신을 보냈다. 나는 교신에 응답해야 한다. 그러면 아드라스토스가 찹샵에 승선할 수 있도록 설득할 것이다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10155,7 +10169,7 @@ msgctxt "0008D0"
 msgid ""
 "We have the ship we're going to use to infiltrate Hannibal's Chop Shop. We "
 "need to fly it to the chop shop orbiting Andromas IV-a."
-msgstr ""
+msgstr "한니발의 찹샵에 잠입할 우주선을 찾았다. 안드로마스 IV-a의 궤도를 돌고 있는 찹샵으로 가야 한다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10165,6 +10179,8 @@ msgid ""
 "We're going to use a ship Roach acquired to approach the Chop Shop, and "
 "Adrastos is going to help us get aboard."
 msgstr ""
+"로치가 아드라스토스를 통해 수집한 정보를 바탕으로 계획을 수정했다. 로치가 확보한 함선을 이용해 찹샵에 접근하면, 아드라스토스가 탑승하는 "
+"걸 도와주기로 했다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10174,13 +10190,15 @@ msgid ""
 "best place to find Hannibal himself. Roach would like a word with me first, "
 "though. I sense he has a plan."
 msgstr ""
+"아드라스토스가 한니발의 찹샵이 있는 곳을 알려줬다. 한니발을 찾기에 가장 좋은 장소인 것 같다. 하지만 로치는 먼저 나와 이야기하고 싶어 "
+"한다. 뭔가 계획이 있는 것 같다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
 msgctxt "0008D3"
 msgid ""
 "I disabled Adrastos. Now to interrogate him, assuming he's still breathing."
-msgstr ""
+msgstr "아드라스토스를 무력화시켰다. 이제 아드라스토스를 심문해야 한다. 아직 숨을 쉬고 있길 바라자."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10188,7 +10206,7 @@ msgctxt "0008D4"
 msgid ""
 "Well, I found Adrastos. Time to interrogate him and get him to tell us where"
 " to find Hannibal."
-msgstr ""
+msgstr "아드라스토스를 찾았다. 이제 심문해서 한니발을 어디서 찾을 수 있는지 불게 만들 시간이다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10196,7 +10214,7 @@ msgctxt "0008D5"
 msgid ""
 "Despite needing to bring him in alive, I shot Adrastos. I'll have to disable"
 " him so he can't run."
-msgstr ""
+msgstr "아드라스토스를 산 채로 데려와야 했지만, 그만 쏴버리고 말았다. 도망치지 못하도록 아드라스토스를 무력화시켜야겠다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10204,7 +10222,7 @@ msgctxt "0008D6"
 msgid ""
 "I used my scanner and found Adrastos. Now to confront him and get some "
 "information out of him to lead us to his boss, Hannibal."
-msgstr ""
+msgstr "스캐너를 사용해서 아드라스토스를 찾았다. 이제 아드라스토스와 대면해서 녀석의 두목인 한니발에게 안내하도록 정보를 빼내야겠다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10212,7 +10230,7 @@ msgctxt "0008D7"
 msgid ""
 "Roach seems to have noticed Adrastos. I should use my scanner on him to "
 "confirm."
-msgstr ""
+msgstr "로치가 아드라스토스를 발견한 것 같다. 스캐너로 확인해 봐야겠다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10222,6 +10240,7 @@ msgid ""
 "need to go out into the city and use my scanner to find Hannibal's "
 "associate, Adrastos."
 msgstr ""
+"한니발 추척 임무 계획에 대해 로치와 이야기했다. 우선 도시로 나가서 내 스캐너로 한니발과 관계가 있는 아드라스토스를 찾아야겠다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10231,6 +10250,8 @@ msgid ""
 "Hannibal Eutropio. They also assigned me a partner, Roach. I need to speak "
 "with him."
 msgstr ""
+"대행인 1호가 수배 중인 스타재커 한니발 유트로피오 추적 임무에 대해 설명해줬다. 그리고 내게 파트너로 로치도 배정해줬다. 로치와 "
+"이야기를 좀 해야겠다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10238,7 +10259,7 @@ msgctxt "0008DA"
 msgid ""
 "I've accepted my first bounty mission for the Trackers Alliance. Agent No. 1"
 " wants me to report back to them for a briefing."
-msgstr ""
+msgstr "추적자 동맹의 첫 현상수배 임무를 수락했다. 대행인 1호는 작전 내용 설명을 위해 내가 다시 보고하길 원한다."
 
 #. EDID = co_gun_mod_PlasmaCutter_Mag_L
 #. REC = COBJ:DESC
@@ -10258,7 +10279,7 @@ msgctxt "0008F5"
 msgid ""
 "A larger shielded-grip to vastly increase Recoil Control at the cost of Aim "
 "Down Sights speed. Slightly increases long-range Accuracy."
-msgstr ""
+msgstr "차폐 처리된 대형 공구 손잡이. 반동 제어 크게 증가. 장거리 사격 명중률 약간 증가. 정조준 속도 느려짐."
 
 #. EDID = co_gun_mod_PlasmaCutter_Grip_Shielded
 #. REC = COBJ:DESC
@@ -10266,7 +10287,7 @@ msgctxt "0008F6"
 msgid ""
 "A shielded grip to increase Recoil Control at the cost of Aim Down Sights "
 "speed. Slightly increases long-range Accuracy."
-msgstr ""
+msgstr "차폐 처리된 공구 손잡이. 반동 제어 증가. 장거리 사격 명중률 약간 증가. 정조준 속도 느려짐."
 
 #. EDID = co_gun_mod_PlasmaCutter_Grip_Standard
 #. REC = COBJ:DESC
@@ -10420,6 +10441,7 @@ msgid ""
 "Changes \"Talk\" to \"Accept Bounty\" when hovering over bounty posters in "
 "the Trackers Alliance HQ bounty board."
 msgstr ""
+"추적자 동맹 본부에서 현상수배 게시판에 게시된 현상금 포스터 위에 조준점을 맞추면 '말하기'가 '현상수배 임무 받기'로 변경됩니다."
 
 #. EDID = RQ_OE_Scan_02
 #. REC = QUST:CNAM
@@ -10443,7 +10465,7 @@ msgid ""
 "<Alias.PluralName=QuestGiver>. I should return to them to provide them with "
 "the data."
 msgstr ""
-"<Alias.PluralName=QuestGiver>이 요청한 지질학적 특징의 스캔을 완료했다. 다시 돌아가서 데이터를 전달하자."
+"<Alias.PluralName=QuestGiver>의 요청을 받아 지질학적 특징의 스캔을 완료했다. 다시 돌아가서 데이터를 전달하자."
 
 #. EDID = RQ_OE_Scan_02
 #. REC = QUST:CNAM
@@ -10452,7 +10474,8 @@ msgid ""
 "<Alias.PluralName=QuestGiver> on <Alias=Planet> are in need of scan data of "
 "nearby geological features."
 msgstr ""
-"<Alias=Planet>의 <Alias.PluralName=QuestGiver>이 인근 지질학적 특징의 스캔 데이터를 원하고 있다."
+"<Alias=Planet>의 <Alias.PluralName=QuestGiver>에 따르면 인근 지질학적 특징의 스캔 데이터를 원한다고 "
+"한다."
 
 #. EDID = [FD00F598]
 #. REC = INFO:NAM1
@@ -10468,7 +10491,7 @@ msgctxt "0000D5"
 msgid ""
 "Okay, but between you and me, it still sounds like you're the better "
 "Tracker."
-msgstr "알았어요. 하지만 우리 둘이서만 보면 여전히 당신이 더 나은 추적자인 것 같습니다."
+msgstr "알았어요. 하지만 우리 둘을 비교해 보면, 여전히 당신이 더 나은 추적자인 것 같습니다."
 
 #. EDID = [FD00F599]
 #. REC = INFO:NAM1
@@ -10510,7 +10533,7 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "0000DB"
 msgid "What's up, Tank?"
-msgstr ""
+msgstr "잘 지냈어? 탱크?"
 
 #. EDID = [FD00F59A]
 #. REC = INFO:NAM1
@@ -11010,98 +11033,98 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "000127"
 msgid "I don't want to fight today, I'll be honest."
-msgstr ""
+msgstr "솔직히 오늘은 싸우고 싶지 않아."
 
 #. EDID = [FD00B974]
 #. REC = INFO:NAM1
 msgctxt "000128"
 msgid "I don't know why, but I think I believe you."
-msgstr ""
+msgstr "왜인진 모르겠지만, 믿음이 가네."
 
 #. EDID = [FD00B973]
 #. REC = INFO:NAM1
 msgctxt "000129"
 msgid "You don't seem like a cold-blooded murderer."
-msgstr ""
+msgstr "냉혈한 살인마처럼 보이진 않는데."
 
 #. EDID = [FD00B972]
 #. REC = INFO:NAM1
 msgctxt "00012A"
 msgid "I mean, I don't want to die..."
-msgstr ""
+msgstr "내 말은, 난 죽고 싶지 않다고..."
 
 #. EDID = [FD00B962]
 #. REC = INFO:NAM1
 msgctxt "00012B"
 msgid "Bounty says alive or dead. Make your choice."
-msgstr ""
+msgstr "수배지에는 생사불문이라고 적혀있어. 네가 선택해."
 
 #. EDID = [FD00B961]
 #. REC = INFO:NAM1
 msgctxt "00012C"
 msgid "If you don't stand down, what choice do I have left but to kill you?"
-msgstr ""
+msgstr "네가 물러서지 않는다면, 죽일 수밖에 없는걸?"
 
 #. EDID = [FD00B960]
 #. REC = INFO:NAM1
 msgctxt "00012D"
 msgid "If you surrender, I won't kill you. That's all I can promise."
-msgstr ""
+msgstr "항복하면 죽이진 않을게. 그게 내가 해줄 수 있는 전부야."
 
 #. EDID = [FD00B95F]
 #. REC = INFO:NAM1
 msgctxt "00012E"
 msgid "I want to resolve this peacefully."
-msgstr ""
+msgstr "난 평화롭게 해결하고 싶어."
 
 #. EDID = [FD00B99D]
 #. REC = INFO:NAM1
 msgctxt "00012F"
 msgid ""
 "So what? I have a piece of paper here that says I didn't do it. Now what?"
-msgstr ""
+msgstr "그래서? 여기 내가 안 했다는 증거가 있어. 이제 어쩔 건데?"
 
 #. EDID = [FD00B99C]
 #. REC = INFO:NAM1
 msgctxt "000130"
 msgid "I don't care what your stupid bounty says. I didn't do it."
-msgstr ""
+msgstr "멍청한 현상수배 따위는 신경 안 써. 내가 안 했다고."
 
 #. EDID = [FD00B99B]
 #. REC = INFO:NAM1
 msgctxt "000131"
 msgid "Everyone has a bounty on their heads these days."
-msgstr ""
+msgstr "요즘엔 개나 소나 다 현상금이 걸려 있어."
 
 #. EDID = [FD00B99A]
 #. REC = INFO:NAM1
 msgctxt "000132"
 msgid "No, no, no. I knew they'd pin it on me. This is bullshit!"
-msgstr ""
+msgstr "아니, 아니, 아니. 결국 나한테 뒤집어씌울줄 알았어. 말도 안 돼!"
 
 #. EDID = [FD00B999]
 #. REC = INFO:NAM1
 msgctxt "000133"
 msgid "Bounties are tools of the powerful to keep us under their thumb."
-msgstr ""
+msgstr "현상금은 권력자들이 우리를 이용해먹기 위해 사용하는 도구야."
 
 #. EDID = [FD00B997]
 #. REC = INFO:NAM1
 msgctxt "000134"
 msgid "I guess it doesn't matter if I say I didn't do it then."
-msgstr ""
+msgstr "내가 안 했다고 말해도 소용 없을 것 같네."
 
 #. EDID = [FD00B995]
 #. REC = INFO:NAM1
 msgctxt "000135"
 msgid "Damn it. I can't fight this, can I?"
-msgstr ""
+msgstr "젠장. 이거 싸워봤자 소용 없겠지?"
 
 #. EDID = [FD00BA0E]
 #. REC = INFO:NAM1
 msgctxt "000136"
 msgid "This is pointless."
-msgstr ""
+msgstr "이건 정말 무의미해."
 
 #. EDID = [FD00BA0D]
 #. REC = INFO:NAM1
@@ -17993,11 +18016,12 @@ msgstr ""
 
 #. EDID = [FD005B13]
 #. REC = INFO:NAM1
+#, fuzzy
 msgctxt "000593"
 msgid ""
 "You'll find a container nearby with a key to an old junker that should hold "
 "up long enough to get you home."
-msgstr ""
+msgstr "근처에 낡은 고물선 열쇠가 들어있는 보관함을 찾을 수 있을 거야. 그 고물선이면 집에 갈 수 있을 만큼 버틸 순 있을 거고."
 
 #. EDID = [FD005B07]
 #. REC = INFO:NAM1
@@ -22142,25 +22166,25 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "0007F6"
 msgid "Whatever it is, I'm not interested."
-msgstr ""
+msgstr "뭐가 됐든 난 관심 없어."
 
 #. EDID = [FD000098]
 #. REC = INFO:NAM1
 msgctxt "0007F7"
 msgid "Wonderful. I appreciate you hearing me out."
-msgstr ""
+msgstr "좋았어. 얘기를 들어 줘서 정말 고마워."
 
 #. EDID = [FD000086]
 #. REC = INFO:NAM1
 msgctxt "0007F8"
 msgid "I'll consider it. And if I show up, you'll have your answer."
-msgstr ""
+msgstr "생각해 볼게. 내가 다시 왔을 때 답을 알려줄게."
 
 #. EDID = [FD00008D]
 #. REC = INFO:NAM1
 msgctxt "0007F9"
 msgid "What if I say no?"
-msgstr ""
+msgstr "싫다면 어쩔 거야?"
 
 #. EDID = [FD00002F]
 #. REC = INFO:NAM1
@@ -22182,7 +22206,7 @@ msgctxt "0007FC"
 msgid ""
 "Are you avoiding me because you're wanted? Don't worry. This isn't about "
 "that."
-msgstr ""
+msgstr "네가 수배중이라서 나를 피하는 거야? 걱정 마. 그런 게 아냐."
 
 #. EDID = [FD000029]
 #. REC = INFO:NAM1
@@ -22196,13 +22220,13 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "0007FE"
 msgid "I'm going to keep finding you. Let's just get this over with."
-msgstr ""
+msgstr "널 찾아다닐 거야. 어서 끝을 보자고."
 
 #. EDID = [FD000025]
 #. REC = INFO:NAM1
 msgctxt "0007FF"
 msgid "You can't keep avoiding me. Come on now, let's have a little chat."
-msgstr ""
+msgstr "계속 피해다닐 순 없을걸. 이리 와서 잠깐 얘기 좀 하자고."
 
 #. EDID = [FD000093]
 #. REC = INFO:NAM1
@@ -22210,7 +22234,7 @@ msgctxt "000800"
 msgid ""
 "I'm not here to convince you. I've just been instructed to deliver the "
 "message. Your questions would be best answered by Agent No. 1 at the HQ."
-msgstr ""
+msgstr "설득하려고 온 게 아니야. 메시지를 전달하라고 지시받았을 뿐이야. 네 질문에 대한 답은 대행인 1호가 잘 답해줄 거야."
 
 #. EDID = [FD000093]
 #. REC = INFO:NAM1
@@ -22218,7 +22242,7 @@ msgctxt "000801"
 msgid ""
 "If you have any inclination of being a bounty hunter, then this is the best "
 "deal you're going to get."
-msgstr ""
+msgstr "혹시 현상금 사냥꾼이 하고 싶은 마음이 조금이라도 있다면 이 일을 하는 게 딱 좋을 거야."
 
 #. EDID = [FD00E2AC]
 #. REC = INFO:NAM1
@@ -22230,19 +22254,19 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "000803"
 msgid "Okay then."
-msgstr ""
+msgstr "알았어."
 
 #. EDID = [FD00E2A3]
 #. REC = INFO:NAM1
 msgctxt "000804"
 msgid "I have no more questions."
-msgstr ""
+msgstr "더 이상 질문은 없어."
 
 #. EDID = [FD00F516]
 #. REC = INFO:NAM1
 msgctxt "000805"
 msgid "I know. You've been trying to find me to invite me to the Trackers HQ."
-msgstr ""
+msgstr "알아. 날 추적자 본부에 초대할려고 찾아다닌 거잖아."
 
 #. EDID = [FD00F550]
 #. REC = INFO:NAM1

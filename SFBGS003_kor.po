@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-07-30 15:22+0000\n"
-"Last-Translator: secarnadia <ellwionsia@gmail.com>\n"
+"PO-Revision-Date: 2024-07-31 08:44+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -724,13 +724,13 @@ msgstr "대상 스캔"
 #. REC = FLST:FULL
 msgctxt "0000C8"
 msgid "Rare Crimes"
-msgstr "'레어' 등급 범죄"
+msgstr "'희귀' 등급 범죄"
 
 #. EDID = SFBGS003_BountyCrimes_Common
 #. REC = FLST:FULL
 msgctxt "0000C9"
 msgid "Basic Crimes"
-msgstr "'베이직' 등급 범죄"
+msgstr "'일반' 등급 범죄"
 
 #. EDID = SFBGS003_HandScannerTemperamentFormlist
 #. REC = FLST:FULL
@@ -742,7 +742,7 @@ msgstr "현상범 기질"
 #. REC = FLST:FULL
 msgctxt "0000CB"
 msgid "Uncommon Crimes"
-msgstr "'언커먼' 등급 범죄"
+msgstr "'비범' 등급 범죄"
 
 #. EDID = LS_SFBGS003_TrackersHQ01
 #. REC = LSCR:DESC
@@ -8858,7 +8858,6 @@ msgstr "Quality Tiers Any"
 
 #. EDID = Patch_Update05_Hotfix01
 #. REC = QUST:FULL
-#, fuzzy
 msgctxt "000D61"
 msgid "[Update 5 Hotfix 01]"
 msgstr "[Update 5 Hotfix 01]"
@@ -11136,7 +11135,7 @@ msgstr "이건 정말 무의미해."
 #. REC = INFO:NAM1
 msgctxt "000137"
 msgid "Do you believe in the system? Are you that gullible?"
-msgstr "아직도 이런 사회 체제를 믿어? 그 정도로 순진한 거냐?"
+msgstr "아직도 그 시스템을 믿어? 그 정도로 순진한 거냐?"
 
 #. EDID = [FD00BA0C]
 #. REC = INFO:NAM1
@@ -13425,7 +13424,7 @@ msgctxt "000284"
 msgid ""
 "So you know about Hannibal Eutropio? Go ahead and trust your intuition, "
 "then. Whatever gets the job done."
-msgstr ""
+msgstr "그럼 한니발 유트로피오에 관해 알고 있나 보군? 가서 자신의 직관을 믿고 나아가도록. 임무를 완수할 수 있다면 뭐든지."
 
 #. EDID = [FD00F520]
 #. REC = INFO:NAM1
@@ -13434,13 +13433,15 @@ msgid ""
 "So, normally, you'd register Adrastos with the system, and leave him bound "
 "for someone to come pick him up. But, we need him to tag along with us."
 msgstr ""
+"일반적으로는 시스템에 아드라스토스를 등록시킨 다음 다른 누군가가 표적을 데려갈 때까지 결박해 놓으면 되지만, 지금은 임무 내내 녀석을 "
+"데려가야 해."
 
 #. EDID = [FD00F597]
 #. REC = INFO:NAM1
 msgctxt "000286"
 msgid ""
 "We may need to check other areas of the city, but he's bound to be here."
-msgstr ""
+msgstr "도시 여러 곳을 확인해야 할지도 모르지만, 분명 놈은 이곳에 있어."
 
 #. EDID = [FD00F59E]
 #. REC = INFO:NAM1
@@ -13448,13 +13449,13 @@ msgctxt "000287"
 msgid ""
 "Okay, Adrastos is likely wandering the streets around here somewhere. Open "
 "up your scanner and look for anyone with a bounty."
-msgstr ""
+msgstr "좋아, 아드라스토스는 분명 도시 어딘가를 돌아다니고 있을 거야. 스캐너를 꺼내서 현상금이 있는 사람을 찾아봐."
 
 #. EDID = [FD004BDD]
 #. REC = INFO:NAM1
 msgctxt "000288"
 msgid "I'll see if there's anything I feel qualified to do."
-msgstr ""
+msgstr "내가 할 만한 일이 있을지 봐야겠군."
 
 #. EDID = [FD004B37]
 #. REC = INFO:NAM1
@@ -13462,32 +13463,32 @@ msgctxt "000289"
 msgid ""
 "When am I going to get another assignment? I'm itching to get back out there"
 " and track down some bounties."
-msgstr ""
+msgstr "언제 다른 일거리를 받을 수 있는 거지? 얼른 나가서 현상수배범 녀석들 좀 추적하고 싶은데 말이야."
 
 #. EDID = [FD004B15]
 #. REC = INFO:NAM1
 msgctxt "00028A"
 msgid "Yes, Tank?"
-msgstr ""
+msgstr "뭐지, 탱크?"
 
 #. EDID = [FD004AF0]
 #. REC = INFO:NAM1
 msgctxt "00028B"
 msgid "Hey, uh, Agent No. 1?"
-msgstr ""
+msgstr "안녕, 어... 대행인 1호?"
 
 #. EDID = [FD004AD7]
 #. REC = INFO:NAM1
 msgctxt "00028C"
 msgid "Okay, big man. That's something I'd pay to see!"
-msgstr ""
+msgstr "알았어, 대단한 친구. 그런 걸 볼 수만 있다면 돈이라도 낼 텐데!"
 
 #. EDID = [FD004BAA]
 #. REC = INFO:NAM1
 msgctxt "00028D"
 msgid ""
 "Hey, you should try it sometime! Unless you're afraid you can't hack it."
-msgstr ""
+msgstr "너도 한 번 해 봐! 못 할까 봐 걱정되는 게 아니라면."
 
 #. EDID = [FD004B7E]
 #. REC = INFO:NAM1
@@ -13495,19 +13496,19 @@ msgctxt "00028E"
 msgid ""
 "Nah man, it's a great way to practice your skills and make some extra "
 "credits while you're at it."
-msgstr ""
+msgstr "아냐, 인마. 네 능력도 연습하고 돈도 더 벌 수 있는 좋은 방법이 될 거라고."
 
 #. EDID = [FD004B58]
 #. REC = INFO:NAM1
 msgctxt "00028F"
 msgid "You're really going to keep doing that? Seems like a waste to me."
-msgstr ""
+msgstr "계속 그럴 셈이야? 너무 허튼 짓인 것 같은데."
 
 #. EDID = [FD004B0E]
 #. REC = INFO:NAM1
 msgctxt "000290"
 msgid "Hey Tank, how are you doing there? Racking up a lot of bounties?"
-msgstr ""
+msgstr "어이, 탱크. 잘 지내고 있나? 현상금은 많이 챙겼고?"
 
 #. EDID = [FD004B2F]
 #. REC = INFO:NAM1
@@ -13517,6 +13518,7 @@ msgid ""
 "still have to train for my next Red Mile run. You know, in case I decide to "
 "go again."
 msgstr ""
+"너만큼은 못하지, 친구! 아직도 적응 중이야. 게다가 레드 마일에 한 번 더 갈 때까지 연습도 해야 하고. 또 도전할 생각이 나면."
 
 #. EDID = [FD004AB9]
 #. REC = INFO:NAM1
@@ -13524,80 +13526,80 @@ msgctxt "000292"
 msgid ""
 "Fine. Well maybe I don't make any promises to give you a clean glass to "
 "drink out of. How's that for you?"
-msgstr ""
+msgstr "좋아. 그럼 더 이상 네 녀석한테 서빙할 때 깨끗한 잔으로 주겠다고 약속 못해 줘. 어때?"
 
 #. EDID = [FD004B75]
 #. REC = INFO:NAM1
 msgctxt "000293"
 msgid "Yes. That was likely me."
-msgstr ""
+msgstr "그래. 아마 나였을 거야."
 
 #. EDID = [FD004AC5]
 #. REC = INFO:NAM1
 msgctxt "000294"
 msgid "Yama! You tracked blood in all over my damn floor again earlier."
-msgstr ""
+msgstr "야마! 전에 내 망할 바닥에 핏자국을 잔뜩 남겼었지?"
 
 #. EDID = [FD00E2EE]
 #. REC = INFO:NAM1
 msgctxt "000296"
 msgid "I miss tracking, but hanging around here is just as good."
-msgstr ""
+msgstr "추적 일이 그립긴 하지만 여기서 죽치는 것도 충분히 괜찮네."
 
 #. EDID = [FD00E2ED]
 #. REC = INFO:NAM1
 msgctxt "000297"
 msgid "How's your gear holding up?"
-msgstr ""
+msgstr "네 장비는 어떤가?"
 
 #. EDID = [FD00E2EC]
 #. REC = INFO:NAM1
 msgctxt "000298"
 msgid "Hey now, Tracker."
-msgstr ""
+msgstr "안녕, 추적자 친구."
 
 #. EDID = [FD004C8C]
 #. REC = INFO:NAM1
 msgctxt "000299"
 msgid "What's the word, Wraith? Need some new equipment?"
-msgstr ""
+msgstr "새 소식이 있나, 레이스? 새 장비가 필요한가?"
 
 #. EDID = [FD004C88]
 #. REC = INFO:NAM1
 msgctxt "00029A"
 msgid "What's the word, Raven? Need some new equipment?"
-msgstr ""
+msgstr "새 소식이 있나, 레이븐? 새 장비가 필요한가?"
 
 #. EDID = [FD004C87]
 #. REC = INFO:NAM1
 msgctxt "00029B"
 msgid "What's the word, Nova? Need some new equipment?"
-msgstr ""
+msgstr "새 소식이 있나, 노바? 새 장비가 필요한가?"
 
 #. EDID = [FD004C86]
 #. REC = INFO:NAM1
 msgctxt "00029C"
 msgid "What's the word, Nightstalker? Need some new equipment?"
-msgstr ""
+msgstr "새 소식이 있나, 나이트스토커? 새 장비가 필요한가?"
 
 #. EDID = [FD004C84]
 #. REC = INFO:NAM1
 msgctxt "00029D"
 msgid "What's the word, Blitzkrieg? Need some new equipment?"
-msgstr ""
+msgstr "새 소식이 있나, 블리츠크리그? 새 장비가 필요한가?"
 
 #. EDID = [FD004C83]
 #. REC = INFO:NAM1
 msgctxt "00029E"
 msgid "What's the word, Bear? Need some new equipment?"
-msgstr ""
+msgstr "새 소식이 있나, 베어? 새 장비가 필요한가?"
 
 #. EDID = [FD00E2EB]
 #. REC = INFO:NAM1
 msgctxt "00029F"
 msgid ""
 "I can access vast knowledge. Do not waste my potential on frivolous things."
-msgstr ""
+msgstr "난 많은 지식을 알고 있지. 내 잠재력을 허튼 것에 낭비하지 말도록."
 
 #. EDID = [FD00E2EA]
 #. REC = INFO:NAM1
@@ -13605,92 +13607,92 @@ msgctxt "0002A0"
 msgid ""
 "Knowledge is only half the battle. I'm told weapons account for the other "
 "half."
-msgstr ""
+msgstr "승패를 가름하는 기준의 절반이 지식이고... 무기야말로 그 나머지 절반이라 들었어."
 
 #. EDID = [FD004C80]
 #. REC = INFO:NAM1
 msgctxt "0002A1"
 msgid "Need something?"
-msgstr ""
+msgstr "필요한 거라도?"
 
 #. EDID = [FD00E2E8]
 #. REC = INFO:NAM1
 msgctxt "0002A2"
 msgid "You must harden yourself against doubt, or succumb to its woes."
-msgstr ""
+msgstr "의심을 딛고 강인해져야 한다. 그 아픔에 굴복하지도 마라."
 
 #. EDID = [FD00E2E7]
 #. REC = INFO:NAM1
 msgctxt "0002A3"
 msgid "May your quarry's death be as swift as snuffing out a candle."
-msgstr ""
+msgstr "촛불을 불어 끄듯이 네 사냥감도 순식간에 죽기를."
 
 #. EDID = [FD000E7B]
 #. REC = INFO:NAM1
 msgctxt "0002A4"
 msgid "I have danced this dance with death for long. Few know it like I do."
-msgstr ""
+msgstr "난 이 죽음의 춤을 오랫동안 춰 왔지. 나만큼 아는 사람이 거의 없을 정도로."
 
 #. EDID = [FD000E79]
 #. REC = INFO:NAM1
 msgctxt "0002A5"
 msgid "Yes? Speak quickly."
-msgstr ""
+msgstr "뭐지? 얼른 말하도록."
 
 #. EDID = [FD00E2E6]
 #. REC = INFO:NAM1
 msgctxt "0002A6"
 msgid "You're always welcome to relax here between jobs."
-msgstr ""
+msgstr "일거리 끝내고 나서 언제든 여기 와서 쉬어도 좋아."
 
 #. EDID = [FD000E76]
 #. REC = INFO:NAM1
 msgctxt "0002A7"
 msgid ""
 "Take a load off. Have a cold drink. Unless you have somewhere better to be."
-msgstr ""
+msgstr "잠시 휴식해. 차가운 음료를 마시거나. 딱히 갈 곳이 생각나지 않는다면."
 
 #. EDID = [FD004C7B]
 #. REC = INFO:NAM1
 msgctxt "0002A8"
 msgid "Fancy a drink, Tempest, or just come to bend my ear?"
-msgstr ""
+msgstr "술 한 잔 줄까, 템페스트? 아니면 나랑 얘기하러 온 거야?"
 
 #. EDID = [FD004C78]
 #. REC = INFO:NAM1
 msgctxt "0002A9"
 msgid "Fancy a drink, Nova, or just come to bend my ear?"
-msgstr ""
+msgstr "술 한 잔 줄까, 노바? 아니면 나랑 얘기하러 온 거야?"
 
 #. EDID = [FD004C77]
 #. REC = INFO:NAM1
 msgctxt "0002AA"
 msgid "Fancy a drink, Nightstalker, or just come to bend my ear?"
-msgstr ""
+msgstr "술 한 잔 줄까, 나이트스토커? 아니면 나랑 얘기하러 온 거야?"
 
 #. EDID = [FD004C76]
 #. REC = INFO:NAM1
 msgctxt "0002AB"
 msgid "Fancy a drink, Mantis, or just come to bend my ear?"
-msgstr ""
+msgstr "술 한 잔 줄까, 맨티스? 아니면 나랑 얘기하러 온 거야?"
 
 #. EDID = [FD004C75]
 #. REC = INFO:NAM1
 msgctxt "0002AC"
 msgid "Fancy a drink, Blitzkrieg, or just come to bend my ear?"
-msgstr ""
+msgstr "술 한 잔 줄까, 블리츠크리그? 아니면 나랑 얘기하러 온 거야?"
 
 #. EDID = [FD000E75]
 #. REC = INFO:NAM1
 msgctxt "0002AD"
 msgid "Fancy a drink, Bear, or just come to bend my ear?"
-msgstr ""
+msgstr "술 한 잔 줄까, 베어? 아니면 나랑 얘기하러 온 거야?"
 
 #. EDID = [FD00E2E4]
 #. REC = INFO:NAM1
 msgctxt "0002AE"
 msgid "Hey, what's good?"
-msgstr ""
+msgstr "어이, 잘 지내?"
 
 #. EDID = [FD004C74]
 #. REC = INFO:NAM1
@@ -13698,7 +13700,7 @@ msgctxt "0002AF"
 msgid ""
 "Hey Wraith, I brought in another couple bounties. Hope you're keeping up! "
 "Heh."
-msgstr ""
+msgstr "안녕, 레이스. 현상수배범 녀석들 몇 놈 또 잡아 왔지. 너도 내 기록을 따라오길 바라! 헤."
 
 #. EDID = [FD004C73]
 #. REC = INFO:NAM1
@@ -13706,14 +13708,14 @@ msgctxt "0002B0"
 msgid ""
 "Hey Terror, I brought in another couple bounties. Hope you're keeping up! "
 "Heh."
-msgstr ""
+msgstr "안녕, 테러. 현상수배범 녀석들 몇 놈 또 잡아 왔지. 너도 내 기록을 따라오길 바라! 헤."
 
 #. EDID = [FD004C6F]
 #. REC = INFO:NAM1
 msgctxt "0002B1"
 msgid ""
 "Hey Nova, I brought in another couple bounties. Hope you're keeping up! Heh."
-msgstr ""
+msgstr "안녕, 노바. 현상수배범 녀석들 몇 놈 또 잡아 왔지. 너도 내 기록을 따라오길 바라! 헤."
 
 #. EDID = [FD004C6D]
 #. REC = INFO:NAM1
@@ -13721,7 +13723,7 @@ msgctxt "0002B2"
 msgid ""
 "Hey Mantis, I brought in another couple bounties. Hope you're keeping up! "
 "Heh."
-msgstr ""
+msgstr "안녕, 맨티스. 현상수배범 녀석들 몇 놈 또 잡아 왔지. 너도 내 기록을 따라오길 바라! 헤."
 
 #. EDID = [FD004C6C]
 #. REC = INFO:NAM1
@@ -13729,19 +13731,19 @@ msgctxt "0002B3"
 msgid ""
 "Hey Blitzkrieg, I brought in another couple bounties. Hope you're keeping "
 "up! Heh."
-msgstr ""
+msgstr "안녕, 블리츠크리그. 현상수배범 녀석들 몇 놈 또 잡아 왔지. 너도 내 기록을 따라오길 바라! 헤."
 
 #. EDID = [FD00E2E1]
 #. REC = INFO:NAM1
 msgctxt "0002B4"
 msgid "It's starting to feel weird thinking of you as a rookie."
-msgstr ""
+msgstr "아직도 널 신참이라고 생각하니 이상한 기분이 들기 시작했다, 야."
 
 #. EDID = [FD000E6F]
 #. REC = INFO:NAM1
 msgctxt "0002B5"
 msgid "Well, if it isn't the rookie."
-msgstr ""
+msgstr "우리의 새 신참 아니신가."
 
 #. EDID = [FD00E2E0]
 #. REC = INFO:NAM1
@@ -13749,13 +13751,13 @@ msgctxt "0002B6"
 msgid ""
 "Good work out there, but don't let it go to your head or you'll end up like "
 "me."
-msgstr ""
+msgstr "행운이 있길 바라. 그리고 그 행운 때문에 멋모르고 나서다 나처럼 되지 말고."
 
 #. EDID = [FD00E2DF]
 #. REC = INFO:NAM1
 msgctxt "0002B7"
 msgid "What are you standing around for when there's fugitives on the loose?"
-msgstr ""
+msgstr "아직 잡아 넣을 범죄자들이 그렇게 많은데 왜 아직 여기 서 있어?"
 
 #. EDID = [FD000E6E]
 #. REC = INFO:NAM1
@@ -13763,37 +13765,37 @@ msgctxt "0002B8"
 msgid ""
 "Hey killer. I might need to start investing in whatever company makes body "
 "bags the way you go through 'em."
-msgstr ""
+msgstr "안녕, 살인마 친구. 네가 일하는 방식을 보니 시체 가방 만드는 회사에 투자라도 해야 할 것 같아."
 
 #. EDID = [FD00E2DC]
 #. REC = INFO:NAM1
 msgctxt "0002B9"
 msgid "I don't mind these breaks in the silence."
-msgstr ""
+msgstr "잠시 이렇게 침묵을 깨는 건 나쁘지 않지."
 
 #. EDID = [FD000E6B]
 #. REC = INFO:NAM1
 msgctxt "0002BA"
 msgid "My time is yours, should you need it."
-msgstr ""
+msgstr "원한다면 잠시 내 시간을 내어 주지."
 
 #. EDID = [FD00E2DA]
 #. REC = INFO:NAM1
 msgctxt "0002BB"
 msgid "Well if it ain't the wannabe comedian. Book any acts?"
-msgstr ""
+msgstr "코미디언 지망생 납셨군. 공연 예약은 하나?"
 
 #. EDID = [FD00E2D8]
 #. REC = INFO:NAM1
 msgctxt "0002BC"
 msgid "Come to get some old school perspective?"
-msgstr ""
+msgstr "이 늙은이의 생각을 알고 싶어 찾아왔나?"
 
 #. EDID = [FD000E67]
 #. REC = INFO:NAM1
 msgctxt "0002BD"
 msgid "What can I do you for, young gun?"
-msgstr ""
+msgstr "무얼 도와줄까, 젊은 총잡이 친구?"
 
 #. EDID = [FD00E2D7]
 #. REC = INFO:NAM1
@@ -13801,79 +13803,79 @@ msgctxt "0002BE"
 msgid ""
 "I was hoping I could sway you from the path of death, but you gotta do "
 "what's right for you."
-msgstr ""
+msgstr "자네가 죽음의 길을 나아가지 않도록 막을 수 있길 바랐지만, 스스로 옳다고 생각하는 길을 걸어야겠지."
 
 #. EDID = [FD00E2D6]
 #. REC = INFO:NAM1
 msgctxt "0002BF"
 msgid "Good to know our talk might have had an impact on you."
-msgstr ""
+msgstr "이 대화로 자네에게 영향을 줄 수만 있다면 난 기쁘다네."
 
 #. EDID = [FD000E66]
 #. REC = INFO:NAM1
 msgctxt "0002C0"
 msgid "You're really making a name for yourself, I see."
-msgstr ""
+msgstr "네 명성이 널리 퍼지기 시작했더군."
 
 #. EDID = [FD004C68]
 #. REC = INFO:NAM1
 msgctxt "0002C1"
 msgid "Welcome back, Tempest."
-msgstr ""
+msgstr "돌아온 걸 환영한다, 템페스트."
 
 #. EDID = [FD004C67]
 #. REC = INFO:NAM1
 msgctxt "0002C2"
 msgid "Welcome back, Shadow."
-msgstr ""
+msgstr "돌아온 걸 환영한다, 섀도우."
 
 #. EDID = [FD004C66]
 #. REC = INFO:NAM1
 msgctxt "0002C3"
 msgid "Welcome back, Raven."
-msgstr ""
+msgstr "돌아온 걸 환영한다, 레이븐."
 
 #. EDID = [FD004C62]
 #. REC = INFO:NAM1
 msgctxt "0002C4"
 msgid "Welcome back, Blitzkrieg."
-msgstr ""
+msgstr "돌아온 걸 환영한다, 블리츠크리그."
 
 #. EDID = [FD004C61]
 #. REC = INFO:NAM1
 msgctxt "0002C5"
 msgid "Welcome back, Bear."
-msgstr ""
+msgstr "돌아온 걸 환영한다, 베어."
 
 #. EDID = [FD00E2D4]
 #. REC = INFO:NAM1
 msgctxt "0002C6"
 msgid "There are always more bounties to collect."
-msgstr ""
+msgstr "현상수배 일거리는 항상 끊임이 없다."
 
 #. EDID = [FD00E2D3]
 #. REC = INFO:NAM1
 msgctxt "0002C7"
 msgid "Leave no quarter. Show no mercy."
-msgstr ""
+msgstr "용서는 없고, 자비는 없다."
 
 #. EDID = [FD000E63]
 #. REC = INFO:NAM1
 msgctxt "0002C8"
 msgid "A nod to the stars that align our paths."
-msgstr ""
+msgstr "우리의 길을 하나로 이어 준 별들에게 묵례를."
 
 #. EDID = [FD004C5E]
 #. REC = INFO:NAM1
 msgctxt "0002C9"
 msgid "Hey, good luck catching bad guys out there."
-msgstr ""
+msgstr "어이, 밖에서 나쁜 놈들 잡을 때 행운이 있길 바라."
 
 #. EDID = [FD004C5D]
 #. REC = INFO:NAM1
 msgctxt "0002CA"
 msgid "Catch you around."
-msgstr ""
+msgstr "또 보자고."
 
 #. EDID = [FD004C5B]
 #. REC = INFO:NAM1
@@ -13881,73 +13883,73 @@ msgctxt "0002CB"
 msgid ""
 "If any of the information I've given you was wrong, it was probably entered "
 "wrong."
-msgstr ""
+msgstr "제가 알려 준 정보가 틀린 것이라면, 애초에 잘못 입력되었을 확률이 높습니다."
 
 #. EDID = [FD000E5D]
 #. REC = INFO:NAM1
 msgctxt "0002CC"
 msgid "Leave no quarter. Show no mercy."
-msgstr ""
+msgstr "용서는 없고, 자비는 없다."
 
 #. EDID = [FD000E5B]
 #. REC = INFO:NAM1
 msgctxt "0002CD"
 msgid "Don't be a stranger."
-msgstr ""
+msgstr "모른 척하기 없기야."
 
 #. EDID = [FD000E5A]
 #. REC = INFO:NAM1
 msgctxt "0002CE"
 msgid "Stay safe. I can't serve the dead."
-msgstr ""
+msgstr "잘 지내. 죽은 사람한테는 서빙 못하니까."
 
 #. EDID = [FD000E57]
 #. REC = INFO:NAM1
 msgctxt "0002CF"
 msgid "Hasta luego, my friend."
-msgstr ""
+msgstr "또 보자고, 나의 친구."
 
 #. EDID = [FD000E55]
 #. REC = INFO:NAM1
 msgctxt "0002D0"
 msgid "Leave no mercy. Show... no, other way around. You get it."
-msgstr ""
+msgstr "자비는 없고, 용서는... 아, 반대로 됐잖아. 아무튼 너도 알겠지..."
 
 #. EDID = [FD000E53]
 #. REC = INFO:NAM1
 msgctxt "0002D1"
 msgid "Try not to miss me too much."
-msgstr ""
+msgstr "날 너무 그리워하진 말라고."
 
 #. EDID = [FD000E4B]
 #. REC = INFO:NAM1
 msgctxt "0002D2"
 msgid "G'luck out there."
-msgstr ""
+msgstr "행운을 빌어."
 
 #. EDID = [FD000E4A]
 #. REC = INFO:NAM1
 msgctxt "0002D3"
 msgid "So long."
-msgstr ""
+msgstr "잘 가."
 
 #. EDID = [FD000E49]
 #. REC = INFO:NAM1
 msgctxt "0002D4"
 msgid "Leave no quarter. Show no mercy. Y'hear?"
-msgstr ""
+msgstr "용서는 없고, 자비는 없어. 알겠지?"
 
 #. EDID = [FD000E47]
 #. REC = INFO:NAM1
 msgctxt "0002D5"
 msgid "May luck follow you."
-msgstr ""
+msgstr "행운이 따르길."
 
 #. EDID = [FD000E46]
 #. REC = INFO:NAM1
 msgctxt "0002D6"
 msgid "Until your return."
-msgstr ""
+msgstr "돌아올 때까지 기다리지."
 
 #. EDID = [FD000E45]
 #. REC = INFO:NAM1
@@ -13959,37 +13961,37 @@ msgstr "용서는 없고, 자비는 없다."
 #. REC = INFO:NAM1
 msgctxt "0002D8"
 msgid "If you're trying to faze me, it won't work."
-msgstr ""
+msgstr "날 당황시키려는 거라면, 통하지 않을걸."
 
 #. EDID = [FD004C4D]
 #. REC = INFO:NAM1
 msgctxt "0002D9"
 msgid "I grow tired of this conversation."
-msgstr ""
+msgstr "이 대화 때문에 점점 지친다."
 
 #. EDID = [FD004C4A]
 #. REC = INFO:NAM1
 msgctxt "0002DA"
 msgid "Maybe a nice cold one'll loosen you up."
-msgstr ""
+msgstr "차가운 거 하나면 긴장이 풀릴지 모르겠네."
 
 #. EDID = [FD004C49]
 #. REC = INFO:NAM1
 msgctxt "0002DB"
 msgid "Hoo boy, did things get weird or somethin'?"
-msgstr ""
+msgstr "아이고, 정말. 갑자기 상황이 이상해진 건가?"
 
 #. EDID = [FD004C47]
 #. REC = INFO:NAM1
 msgctxt "0002DC"
 msgid "What happened, you break?"
-msgstr ""
+msgstr "너 왜 그래? 고장난 거야?"
 
 #. EDID = [FD004C42]
 #. REC = INFO:NAM1
 msgctxt "0002DD"
 msgid "Terror? Not right now you're not. More like Boredom."
-msgstr ""
+msgstr "테러? 전혀 아닌 것 같은데. 따분이가 훨씬 맞는 것 같은데."
 
 #. EDID = [FD004C40]
 #. REC = INFO:NAM1
@@ -13997,67 +13999,67 @@ msgctxt "0002DE"
 msgid ""
 "Shadow? Did someone turn out the lights? 'Cause it's like you're not here "
 "anymore."
-msgstr ""
+msgstr "섀도우? 누가 불이라도 껐나? 네가 여기 있지도 않은 것 같은데."
 
 #. EDID = [FD004C3F]
 #. REC = INFO:NAM1
 msgctxt "0002DF"
 msgid "Quoth the Raven: absolutely nothing, apparently."
-msgstr ""
+msgstr "레이븐 왈, 아무 말도 하지 않았다."
 
 #. EDID = [FD004C3D]
 #. REC = INFO:NAM1
 msgctxt "0002E0"
 msgid "Nightstalker? Now's not the time to be practicing your silence, pal."
-msgstr ""
+msgstr "나이트스토커? 갑자기 묵념할 때가 아니야, 친구."
 
 #. EDID = [FD004C3B]
 #. REC = INFO:NAM1
 msgctxt "0002E1"
 msgid "Blitzkrieg? You sure laid waste to this conversation, huh?"
-msgstr ""
+msgstr "블리츠크리그라고? 이 대화 흐름에 아주 전격전을 일으켰군."
 
 #. EDID = [FD004C38]
 #. REC = INFO:NAM1
 msgctxt "0002E2"
 msgid "When you're done zoning out, talk to me."
-msgstr ""
+msgstr "멍하니 있는 게 끝나면 나한테 말해."
 
 #. EDID = [FD004C37]
 #. REC = INFO:NAM1
 msgctxt "0002E3"
 msgid "What's wrong, you smell something?"
-msgstr ""
+msgstr "왜 그래, 무슨 냄새라도 나는 거야?"
 
 #. EDID = [FD004C35]
 #. REC = INFO:NAM1
 msgctxt "0002E4"
 msgid "Hey! Ground control to Wraith! You there?"
-msgstr ""
+msgstr "어이! 레이스, 내 말 들리냐! 깨어 있어?"
 
 #. EDID = [FD004C34]
 #. REC = INFO:NAM1
 msgctxt "0002E5"
 msgid "Hey! Ground control to Terror! You there?"
-msgstr ""
+msgstr "어이! 테러, 내 말 들리냐! 깨어 있어?"
 
 #. EDID = [FD004C2F]
 #. REC = INFO:NAM1
 msgctxt "0002E6"
 msgid "Hey! Ground control to Nightstalker! You there?"
-msgstr ""
+msgstr "어이! 나이트스토커, 내 말 들리냐! 깨어 있어?"
 
 #. EDID = [FD004C2E]
 #. REC = INFO:NAM1
 msgctxt "0002E7"
 msgid "Hey! Ground control to Mantis! You there?"
-msgstr ""
+msgstr "어이! 맨티스, 내 말 들리냐! 깨어 있어?"
 
 #. EDID = [FD004C2D]
 #. REC = INFO:NAM1
 msgctxt "0002E8"
 msgid "Hey! Ground control to Blitzkrieg! You there?"
-msgstr ""
+msgstr "어이! 블리츠크리그, 내 말 들리냐! 깨어 있어?"
 
 #. EDID = [FD004C2B]
 #. REC = INFO:NAM1
@@ -14065,50 +14067,50 @@ msgctxt "0002E9"
 msgid ""
 "Look, I know you enjoy my company, but this isn't how you stay on my good "
 "side."
-msgstr ""
+msgstr "있지, 나와 얘기해서 좋아하는 것 같긴 한데 이러면 널 좋게 여길 수 없어."
 
 #. EDID = [FD004C2A]
 #. REC = INFO:NAM1
 msgctxt "0002EA"
 msgid "Stop it, you're being weird."
-msgstr ""
+msgstr "그만해, 이상한 짓하지 마."
 
 #. EDID = [FD004C26]
 #. REC = INFO:NAM1
 msgctxt "0002EB"
 msgid "You appear to be recalibrating."
-msgstr ""
+msgstr "무슨 재조정하는 듯한 모습이네."
 
 #. EDID = [FD004C21]
 #. REC = INFO:NAM1
 msgctxt "0002EC"
 msgid "Silence is nice, but this is awkward."
-msgstr ""
+msgstr "침묵은 괜찮은데, 너무 이상하잖아."
 
 #. EDID = [FD004C1E]
 #. REC = INFO:NAM1
 msgctxt "0002ED"
 msgid "Sorry, ain't got all day here."
-msgstr ""
+msgstr "미안한데, 나도 바빠."
 
 #. EDID = [FD004C1B]
 #. REC = INFO:NAM1
 msgctxt "0002EE"
 msgid "Let us not waste our moments."
-msgstr ""
+msgstr "서로의 시간을 낭비하지 말자고."
 
 #. EDID = [FD004C1A]
 #. REC = INFO:NAM1
 msgctxt "0002EF"
 msgid "Please. Speak your mind."
-msgstr ""
+msgstr "부디 네 생각을 얘기해 봐."
 
 #. EDID = [FD00F354]
 #. REC = INFO:NAM1
 msgctxt "0002F0"
 msgid ""
 "What part of *dismissive grunt* don't you understand? Leave. Me. Alone."
-msgstr ""
+msgstr "*무시하는 볼멘소리*를 들었으면 이해 안 돼? 날. 내버려. 둬."
 
 #. EDID = [FD00F352]
 #. REC = INFO:NAM1
@@ -14120,49 +14122,49 @@ msgstr "*무시하는 볼멘소리*"
 #. REC = INFO:NAM1
 msgctxt "0002F2"
 msgid "Hey, give it back. I won't ask again."
-msgstr ""
+msgstr "어이, 돌려 줘. 두 번 안 말해."
 
 #. EDID = [FD00E2C5]
 #. REC = INFO:NAM1
 msgctxt "0002F3"
 msgid "That isn't yours. Hand it over."
-msgstr ""
+msgstr "네 거 아니잖아. 이리 줘."
 
 #. EDID = [FD00E2BB]
 #. REC = INFO:NAM1
 msgctxt "0002F4"
 msgid "That's not yours and I'm taking it back."
-msgstr ""
+msgstr "네 거 아니잖아, 당장 돌려받겠어."
 
 #. EDID = [FD00E2BA]
 #. REC = INFO:NAM1
 msgctxt "0002F5"
 msgid "You have some nerve trying something like that around me."
-msgstr ""
+msgstr "내 주변에서 그런 짓을 하다니 배짱이 두둑하네."
 
 #. EDID = [FD00E2B4]
 #. REC = INFO:NAM1
 msgctxt "0002F6"
 msgid "Put it back. Now!"
-msgstr ""
+msgstr "당장 돌려놔. 얼른!"
 
 #. EDID = [FD00E2AE]
 #. REC = INFO:NAM1
 msgctxt "0002F7"
 msgid "Pickpocket! Stop!"
-msgstr ""
+msgstr "소매치기다! 그만해!"
 
 #. EDID = [FD00E2AD]
 #. REC = INFO:NAM1
 msgctxt "0002F8"
 msgid "Hey, that isn't yours to take!"
-msgstr ""
+msgstr "어이, 네 거 아니잖아!"
 
 #. EDID = [FD00E2A8]
 #. REC = INFO:NAM1
 msgctxt "0002F9"
 msgid "I need assistance here!"
-msgstr ""
+msgstr "여기 도움이 필요해!"
 
 #. EDID = [FD000DB4]
 #. REC = INFO:NAM1
@@ -14171,19 +14173,20 @@ msgid ""
 "My work may take longer than others, but I never make mistakes, and I always"
 " find my quarry. No one has escaped me in over 40 years."
 msgstr ""
+"내가 다른 사람들보단 오래 일하긴 하지만 절대 실수하지 않아. 난 항상 사냥감을 찾아. 40년 넘게 내 손아귀에서 빠져 나온 놈이 없지."
 
 #. EDID = [FD000DB4]
 #. REC = INFO:NAM1
 msgctxt "0002FB"
 msgid ""
 "Yes. I chose this callsign to remind me how important it is to take my time."
-msgstr ""
+msgstr "그래. 이 호출 부호는 시간을 천천히 들이는 게 얼마나 중요한지 기억하려고 택한 거야."
 
 #. EDID = [FD000E36]
 #. REC = INFO:NAM1
 msgctxt "0002FC"
 msgid "Call me Inevitable."
-msgstr "인에비터블이라고 부르세요."
+msgstr "인에비터블이라고 불러 줘."
 
 #. EDID = [FD000DDE]
 #. REC = INFO:NAM1
@@ -14193,6 +14196,8 @@ msgid ""
 " and finally claimed the bounty on his head. It's how I earned my callsign. "
 "It may take time, but I always get my mark."
 msgstr ""
+"끈질긴 인내를 통해 마침내 그놈을 따라잡고, 머리에 걸린 현상금을 받을 수 있었어. 그게 내가 내 호출 부호를 얻게 된 이유야. 시간이 "
+"걸리더라도, 나는 항상 목표를 잡아내지."
 
 #. EDID = [FD000E14]
 #. REC = INFO:NAM1
@@ -14201,6 +14206,8 @@ msgid ""
 "He would wait for me to act rashly and falter, which gave him the upper hand"
 " he needed to escape. The cycle would repeat. He evaded me for years."
 msgstr ""
+"그놈은 내가 경솔하게 행동하거나 실수하는 때를 기다렸고, 그게 도망칠 수 있는 여지를 주었어. 몇 번이나 반복됐지. 그 때문에 몇 년 "
+"동안 나를 피해 다닐 수 있었지."
 
 #. EDID = [FD000DF1]
 #. REC = INFO:NAM1
@@ -14208,7 +14215,7 @@ msgctxt "0002FF"
 msgid ""
 "Yes. Patience is your number one virtue. That is something I did not "
 "understand fully when I was younger and less experienced."
-msgstr ""
+msgstr "그래. 인내심은 최고의 덕목이지. 내가 어리고 경험이 적었을 때는 완전히 이해하지 못했지만."
 
 #. EDID = [FD000E02]
 #. REC = INFO:NAM1
@@ -14216,19 +14223,19 @@ msgctxt "000300"
 msgid ""
 "As a novice Tracker, I was impetuous. One of my early quarries took "
 "advantage of this."
-msgstr ""
+msgstr "초보 추적자였을 때는 내가 좀 성급했어. 초기 목표 중 하나가 이 점을 이용했지."
 
 #. EDID = [FD000DE5]
 #. REC = INFO:NAM1
 msgctxt "000301"
 msgid "No. You're living proof it can be done."
-msgstr ""
+msgstr "아니. 네가 그걸 해낼 수 있다는 산 증거야."
 
 #. EDID = [FD000E1D]
 #. REC = INFO:NAM1
 msgctxt "000302"
 msgid "I haven't made up my mind yet. Just taking it one day at a time."
-msgstr ""
+msgstr "아직 결정하진 않았어. 그냥 하루하루 살고 있지."
 
 #. EDID = [FD000DB6]
 #. REC = INFO:NAM1
@@ -14236,7 +14243,7 @@ msgctxt "000303"
 msgid ""
 "Not quite. It is rare that a Tracker lives long enough that they can choose "
 "to retire. Those who do are truly fortunate."
-msgstr ""
+msgstr "딱히. 추적자가 스스로 은퇴를 결정할 정도로 오래 살아남는 건 드문 일이거든. 살아남은 사람은 진정으로 운이 좋은 거야."
 
 #. EDID = [FD000E18]
 #. REC = INFO:NAM1
@@ -14244,7 +14251,7 @@ msgctxt "000304"
 msgid ""
 "Then I waited. You know, you don't spend nearly as much time at home as one "
 "would expect."
-msgstr ""
+msgstr "그리고 기다렸어. 알다시피, 생각보다 집에 거의 머물지 않더군."
 
 #. EDID = [FD000E18]
 #. REC = INFO:NAM1
@@ -14254,6 +14261,8 @@ msgid ""
 "and discovered that you once had a mortgage. From there, I did more "
 "detective work and learned the location of your home."
 msgstr ""
+"갤뱅크에 연줄이 있지. 다른 모든 방법이 실패했을 때, 네가 한때 부동산 담보 대출을 받은 적이 있다는 단서를 찾아냈지. 거기서부터 많은 "
+"탐문 끝에 네 집의 위치를 알아냈어."
 
 #. EDID = [FD000E17]
 #. REC = INFO:NAM1
@@ -14262,6 +14271,7 @@ msgid ""
 "I followed some tips, then picked a busy port and waited. I'm nothing if not"
 " patient. I knew it was only a matter of time before you showed up."
 msgstr ""
+"몇 가지 정보를 따라가서 번화한 우주항을 골라 기다렸어. 인내심 빼면 난 아무것도 아니지. 네가 나타나는 건 시간문제라고 확신했거든."
 
 #. EDID = [FD000E16]
 #. REC = INFO:NAM1
@@ -14269,7 +14279,7 @@ msgctxt "000307"
 msgid ""
 "I waited for him to start up the rumor mill and let it slip where you could "
 "be found. You should maybe have a talk with him."
-msgstr ""
+msgstr "그자가 소문을 퍼트릴 때까지 기다렸고, 널 어디에서 찾을 수 있을지 알아냈지. 나중에 그 친구랑 얘기하는 게 좋겠다."
 
 #. EDID = [FD000E16]
 #. REC = INFO:NAM1
@@ -14279,6 +14289,8 @@ msgid ""
 " it wasn't just a parasocial relationship, and he knew where you were at all"
 " times."
 msgstr ""
+"그 수준이 엄청나서, 무슨 일방적으로 계속 남을 따라다니는 관계는 아니란 것을 깨닫는 데 오래 걸렸을 정도야. 그 친구는 네가 어디에 "
+"있는지 다 알고 있었고 말이야."
 
 #. EDID = [FD000E16]
 #. REC = INFO:NAM1
@@ -14286,7 +14298,7 @@ msgctxt "000309"
 msgid ""
 "That... uh... overzealous follower of yours. He tends to talk about you "
 "quite a bit."
-msgstr ""
+msgstr "그... 어... 널 광적으로 따라다니는 친구 말이야. 계속 네 얘기를 하더라고."
 
 #. EDID = [FD000E38]
 #. REC = INFO:NAM1
@@ -14294,7 +14306,7 @@ msgctxt "00030A"
 msgid ""
 "Following you can be a challenge as well, since it seems to be by whim where"
 " you go next."
-msgstr ""
+msgstr "너를 따라다니는 건 꽤 어려울 수도 있겠어. 넌 다음 목적지를 즉흥적으로 정하는 것 같으니까."
 
 #. EDID = [FD000E38]
 #. REC = INFO:NAM1
@@ -14302,13 +14314,13 @@ msgctxt "00030B"
 msgid ""
 "Well, from what I can tell, despite your notable accomplishments around the "
 "Settled Systems, you don't stick around anywhere for too long."
-msgstr ""
+msgstr "음, 내가 보기에... 개척 성계 전역에서 너는 여러 위업을 달성했지만, 한 곳에 오랫동안 머물지는 않더군."
 
 #. EDID = [FD000E31]
 #. REC = INFO:NAM1
 msgctxt "00030C"
 msgid "She uh... complains that you never call her anymore. A lot."
-msgstr ""
+msgstr "어머니께서... 계속 네가 연락 안 한다고 불평하시더라. 그것도 자주."
 
 #. EDID = [FD000E31]
 #. REC = INFO:NAM1
@@ -14316,7 +14328,7 @@ msgctxt "00030D"
 msgid ""
 "But evidently, you are. They never seemed to know where you were - by the "
 "way, you may want to get in touch with your mother."
-msgstr ""
+msgstr "하지만 분명히 넌 아니야. 네가 어디에 있는지 전혀 몰랐던 것 같아. 그건 그렇고, 어머니와 연락을 해보는 게 좋을 거야."
 
 #. EDID = [FD000E31]
 #. REC = INFO:NAM1
@@ -14326,18 +14338,20 @@ msgid ""
 "your father is not the best at keeping secrets, so it would have been too "
 "risky to potentially expose myself."
 msgstr ""
+"난 네 부모님에 관해 알고 있어. 몇 번 확인해 보니 네 아버지는 그렇게 비밀을 지키시는 분은 아닌 것 같더라. 그래서 내 신원이 드러날 "
+"위험이 컸지."
 
 #. EDID = [FD000DCF]
 #. REC = INFO:NAM1
 msgctxt "00030F"
 msgid "What can you say about yourself?"
-msgstr ""
+msgstr "자기소개를 좀 해 줄 수 있을까?"
 
 #. EDID = [FD000DAF]
 #. REC = INFO:NAM1
 msgctxt "000310"
 msgid "It wasn't easy to find me? How so?"
-msgstr ""
+msgstr "날 찾기가 쉽지 않았다고? 어째서지?"
 
 #. EDID = [FD000E0D]
 #. REC = INFO:NAM1
@@ -14345,7 +14359,7 @@ msgctxt "000311"
 msgid ""
 "No. This is not a condemnation of you in any way. The way you operate is "
 "fitting for a Tracker. It says more about me."
-msgstr ""
+msgstr "널 탓하는 건 전혀 아니야. 그 행동 방식은 추적자로서 딱 맞지. 오히려 나에 관해 알 기회일걸."
 
 #. EDID = [FD000DD8]
 #. REC = INFO:NAM1
@@ -14353,7 +14367,7 @@ msgctxt "000312"
 msgid ""
 "For you, yes. A good Tracker should be as a shadow: elusive, unnoticed, yet "
 "ever-present. For me...?"
-msgstr ""
+msgstr "네겐 그렇겠지. 좋은 추적자는 그림자와 같아야 해. 찾기 어렵고, 보이지 않지만 항상 존재해야지. 근데 난 말이지...?"
 
 #. EDID = [FD000E28]
 #. REC = INFO:NAM1
@@ -14361,14 +14375,14 @@ msgctxt "000313"
 msgid ""
 "It ain't pretty, but there are many things you can do to a body that ain't "
 "lethal, but may cause someone to wish they were."
-msgstr ""
+msgstr "보기 좋은 일은 아니지만, 사람의 몸에 치명적이지 않더라도 행할 수 있는 건 참 많아. 당하는 사람이 차라리 죽길 바랄 정도로."
 
 #. EDID = [FD000E28]
 #. REC = INFO:NAM1
 msgctxt "000314"
 msgid ""
 "I suggest you learn as much as you can about human anatomy and physiology."
-msgstr ""
+msgstr "인간의 해부학과 생리학에 대해 최대한 많이 공부해 놓는 것을 제안할게."
 
 #. EDID = [FD000E28]
 #. REC = INFO:NAM1
@@ -14376,14 +14390,14 @@ msgctxt "000315"
 msgid ""
 "Now that's a tough one. Depends on the situation. If you can't convince 'em "
 "with words, you may have to rough 'em up and put the fear of God in 'em."
-msgstr ""
+msgstr "그건 어려운 질문이군. 상황에 따라 다르지. 말로 설득이 안 되면 흠씬 두들켜 패야 돼. 그래야 경외심을 불어넣을 수 있지."
 
 #. EDID = [FD000E8A]
 #. REC = INFO:NAM1
 msgctxt "000316"
 msgid ""
 "How do you deal with a target who gives you no choice but to kill them?"
-msgstr ""
+msgstr "죽이는 것 말고 다른 선택지를 주지 않는 표적은 어떻게 처리하지?"
 
 #. EDID = [FD000E1A]
 #. REC = INFO:NAM1
@@ -14391,7 +14405,7 @@ msgctxt "000317"
 msgid ""
 "Failing that, most targets are cowards. They don't want to die. Exploit that"
 " fact when you can."
-msgstr ""
+msgstr "그게 실패하면, 대부분 표적들은 겁쟁이들이야. 다들 죽기 싫어하거든. 가능할 때 최대한 이용해."
 
 #. EDID = [FD000E1A]
 #. REC = INFO:NAM1
@@ -14399,7 +14413,7 @@ msgctxt "000318"
 msgid ""
 "If you ask me, words are a Tracker's most effective tool. You'd be surprised"
 " how far a little sympathy can take you sometimes."
-msgstr ""
+msgstr "내가 보기에 추적자의 가장 큰 무기는 말솜씨야. 약간이라도 동정해 주면 얼마나 남의 마음을 사로잡을 수 있을지 깜짝 놀랄걸."
 
 #. EDID = [FD000E1A]
 #. REC = INFO:NAM1
@@ -14409,12 +14423,14 @@ msgid ""
 "certified badasses who could easily lay out the toughest spacer punk doesn't"
 " mean you're not human."
 msgstr ""
+"개인적으로 나는 대화를 통해 접근하는 편이야. 우리 모두 제일 센 스페이서 놈들 따위 죽일 수 있을 공인된 진짜배기들이라 할지라도 우리가 "
+"인간이 아닌 건 아니니까."
 
 #. EDID = [FD000E33]
 #. REC = INFO:NAM1
 msgctxt "00031A"
 msgid "I think I'm good for now, actually."
-msgstr ""
+msgstr "사실 이 정도면 괜찮은 것 같아."
 
 #. EDID = [FD000E39]
 #. REC = INFO:NAM1
@@ -14422,7 +14438,7 @@ msgctxt "00031B"
 msgid ""
 "Last thing you want is an errant cough or sneeze to give you away when "
 "you're tryin' to use the element of surprise."
-msgstr ""
+msgstr "기도비닉을 유지하려다가 기침이나 재채기 때문에 들키는 건 최대한 피해야 하니까."
 
 #. EDID = [FD000E39]
 #. REC = INFO:NAM1
@@ -14432,37 +14448,39 @@ msgid ""
 "right, stay hydrated, exercise - you know, just stay healthy. Don't hunt if "
 "you're sick."
 msgstr ""
+"흠, 좋은 팁이라고 부를 수는 없겠지만 도움이 된 건 얘기해 주지. 든든하게 먹고, 물 자주 마시고, 운동해. 건강을 지켜. 몸이 아프면 "
+"추적도 중단하고."
 
 #. EDID = [FD000DF2]
 #. REC = INFO:NAM1
 msgctxt "00031D"
 msgid "I don't know. Got any general tips?"
-msgstr ""
+msgstr "잘 모르겠네. 기본적인 팁으로 말해 줄 게 있나?"
 
 #. EDID = [FD000DC7]
 #. REC = INFO:NAM1
 msgctxt "00031E"
 msgid "What's the best way to take someone in alive?"
-msgstr ""
+msgstr "표적을 살린 상태서 잡을 수 있는 완벽한 방법으론 뭐가 있지?"
 
 #. EDID = [FD00F330]
 #. REC = INFO:NAM1
 msgctxt "00031F"
 msgid ""
 "I wonder what would have happened if I didn't luck into this on my own."
-msgstr ""
+msgstr "운이 좋아 직접 여기까지 오지 못했다면 무슨 일이 벌어졌을지 모르겠어."
 
 #. EDID = [FD000E05]
 #. REC = INFO:NAM1
 msgctxt "000320"
 msgid "Honestly, I was more worried about what would happen if I didn't."
-msgstr ""
+msgstr "사실 난 오히려 내가 그러질 못했으면 어떻게 됐을까 그게 더 걱정이 됐어."
 
 #. EDID = [FD000E21]
 #. REC = INFO:NAM1
 msgctxt "000321"
 msgid "You got it, chief."
-msgstr ""
+msgstr "그거야, 대장."
 
 #. EDID = [FD000E42]
 #. REC = INFO:NAM1
@@ -14470,13 +14488,13 @@ msgctxt "000322"
 msgid ""
 "I didn't choose to recruit you, but I did the research and tracked you down."
 " Surprisingly, it was... not easy."
-msgstr ""
+msgstr "난 널 모집하려고 결정한 게 아니야. 다만 내 나름대로 알아봤고, 널 추적하기로 결정했지. 놀라울 정도로, 쉽지... 않았어."
 
 #. EDID = [FD000DE0]
 #. REC = INFO:NAM1
 msgctxt "000323"
 msgid "Got any bounty hunting tips?"
-msgstr ""
+msgstr "현상수배 사냥에 관해 괜찮은 팁이 있나?"
 
 #. EDID = [FD00F357]
 #. REC = INFO:NAM1
@@ -14484,7 +14502,7 @@ msgctxt "000324"
 msgid ""
 "And if you chose not to join us. I would have left, reported back to Agent "
 "No. 1, and we would have moved on with our lives."
-msgstr ""
+msgstr "그리고 네가 우리와 함께할 생각이 없었다면 난 바로 떠나서 대행인 1호에게 보고하고, 서로 각자의 삶을 살았을 거야."
 
 #. EDID = [FD00F357]
 #. REC = INFO:NAM1
@@ -14492,13 +14510,13 @@ msgctxt "000325"
 msgid ""
 "I would have continued to track you down, and waited. It would have taken "
 "much longer."
-msgstr ""
+msgstr "난 널 계속 추적하며 기다렸을 거야. 일이 훨씬 더 오래 걸렸겠지."
 
 #. EDID = [FD000E09]
 #. REC = INFO:NAM1
 msgctxt "000326"
 msgid "I'm glad too. I appreciate you bringing me here, Inevitable."
-msgstr "나도 기뻐. 여기까지 데려와줘서 고마워. 인에비터블."
+msgstr "나도 기뻐. 여기까지 데려와 줘서 고마워. 인에비터블."
 
 #. EDID = [FD00F341]
 #. REC = INFO:NAM1
@@ -14506,7 +14524,7 @@ msgctxt "000327"
 msgid ""
 "I'm glad you found your own way here. It was difficult to find you, so it "
 "saved me time."
-msgstr ""
+msgstr "이곳으로 오는 길을 찾아서 다행이네. 널 찾는 건 힘든 일이었기 때문에, 시간을 아끼게 됐어."
 
 #. EDID = [FD000E0F]
 #. REC = INFO:NAM1
@@ -14514,7 +14532,7 @@ msgctxt "000328"
 msgid ""
 "There's much we can teach you that could save your life. It makes it so much"
 " harder to share though, if you're resistant to our camaraderie."
-msgstr ""
+msgstr "네 목숨을 살릴 수 있는 팁은 그 외 가르쳐 줄 게 많아. 근데 우리와 함께할 생각이 없다면 더 알려 줄 수는 없어."
 
 #. EDID = [FD000E0F]
 #. REC = INFO:NAM1
@@ -14522,19 +14540,19 @@ msgctxt "000329"
 msgid ""
 "Nor is that the expectation. But, I'll advise you that it costs nothing to "
 "respect your seniors here."
-msgstr ""
+msgstr "기대심도 그렇지. 하지만, 이곳의 연장자들을 존중하는 건 한 푼도 들지 않는단 걸 기억해 주길 바란다."
 
 #. EDID = [FD000DD3]
 #. REC = INFO:NAM1
 msgctxt "00032A"
 msgid "Tough decision. I'm not sure what I'd do."
-msgstr ""
+msgstr "힘든 결정이군. 나라면 어떻게 했을지 모르겠어."
 
 #. EDID = [FD000DE3]
 #. REC = INFO:NAM1
 msgctxt "00032B"
 msgid "You were hired to do a job and you failed."
-msgstr ""
+msgstr "임무를 수행하라고 고용된 건데, 실패했던 거로군."
 
 #. EDID = [FD000E2A]
 #. REC = INFO:NAM1
@@ -14542,7 +14560,7 @@ msgctxt "00032C"
 msgid ""
 "Turns out, he's stealin' so they can all just have a life. I get it. So I "
 "let 'em go. Far as the corpos know, he's dead."
-msgstr ""
+msgstr "알고 보니 먹고 살려고 물건을 훔치는 거였어. 난 이해했고, 녀석을 풀어 줬지. 기업 녀석들은 그가 죽은 줄 알겠지만."
 
 #. EDID = [FD000E08]
 #. REC = INFO:NAM1
@@ -14552,12 +14570,14 @@ msgid ""
 " stupid. Then his kids come out. And his grandkids. Form a circle 'round "
 "him."
 msgstr ""
+"그러자 내가 쏘지 않을 거라는 걸 알지 못하던 거야, 오히려 멍청한 짓을 하려는 손짓이었지. 그러자 녀석의 자식들이 나왔어, 손주들까지. "
+"주변을 빙 둘러싸더군."
 
 #. EDID = [FD000DBA]
 #. REC = INFO:NAM1
 msgctxt "00032E"
 msgid "I imagine it's too situational to adhere strictly one way or another."
-msgstr ""
+msgstr "상황에 따라 완전히 다르기 때문에 엄중하게 정할 수 있는 것 같진 않군."
 
 #. EDID = [FD000DFF]
 #. REC = INFO:NAM1
@@ -14567,6 +14587,8 @@ msgid ""
 "know what will. All I'm sayin' is you use that power responsibly, 'cause you"
 " gotta live with yourself."
 msgstr ""
+"그 일을 겪고도 자신이 신이 된 것처럼 느껴지지 않는다면, 말이 안 되겠지. 내가 하고 싶은 말은 자신에게 주어진 힘을 책임감 있게 "
+"쓰라는 것이야. 자책하는 일 없도록."
 
 #. EDID = [FD000DFF]
 #. REC = INFO:NAM1
@@ -14574,7 +14596,7 @@ msgctxt "000330"
 msgid ""
 "Well that there's the thing. You are gonna be out there deciding over some "
 "poor fool's life."
-msgstr ""
+msgstr "이런 게 있지. 현장에선 불쌍한 처지에 놓인 사람들 목숨의 생사를 결정하게 돼."
 
 #. EDID = [FD000E11]
 #. REC = INFO:NAM1
@@ -14582,13 +14604,13 @@ msgctxt "000331"
 msgid ""
 "Agree to disagree, then. But deep down, I'd like to think you ain't so "
 "calloused to believe you deserve to die over some bad decisions."
-msgstr ""
+msgstr "서로 생각 차이는 있군. 하지만, 난 네가 잘못된 결정 몇 번 때문에 사람이 죽어 마땅한 거라고 생각하진 않을 거라고 믿어."
 
 #. EDID = [FD000DE2]
 #. REC = INFO:NAM1
 msgctxt "000332"
 msgid "Good point. I'd rather the justice system decide."
-msgstr ""
+msgstr "좋은 말이야. 나라면 사법 체계가 결정하도록 놔두겠어."
 
 #. EDID = [FD000E1B]
 #. REC = INFO:NAM1
@@ -14598,6 +14620,8 @@ msgid ""
 "didn't deserve, or maybe you slipped up and had a bad day. You think it's "
 "right they get to play executioner?"
 msgstr ""
+"이 얘길 해 보게. 네가 잘못된 일도 하지 않았는데 누군가 목에 현상금을 걸었다고 하자, 아니면 네가 넘어져서 기분이 나빠졌다고 치자고. "
+"그렇다 해서 처형 집행인 노릇을 할 권리가 생기는가?"
 
 #. EDID = [FD000E3A]
 #. REC = INFO:NAM1
@@ -14605,13 +14629,13 @@ msgctxt "000334"
 msgid ""
 "Yup. Every single time. It ain't too hard when you've lived my life and seen"
 " the things I've seen."
-msgstr ""
+msgstr "응, 항상 그렇지. 네가 내 삶을 살았고, 내가 목격한 걸 봤다면 그렇게 어려운 것이 아니지."
 
 #. EDID = [FD000E22]
 #. REC = INFO:NAM1
 msgctxt "000335"
 msgid "You really always bring your targets in alive? Isn't that hard?"
-msgstr ""
+msgstr "모든 표적을 전부 살려서 데려온다고? 힘들지 않나?"
 
 #. EDID = [FD000DB9]
 #. REC = INFO:NAM1
@@ -14620,6 +14644,7 @@ msgid ""
 "My name was no great loss. Nor were other aspects of my identity. I never "
 "conformed to gender, for instance. For me, it was an easy decision."
 msgstr ""
+"내 이름을 잃는 건 큰 상실이 아니었다. 내 신원의 다른 사항도 마찬가지로. 예를 들어 난 성별을 인정하지 않았기에 꽤 쉬운 결정이었다."
 
 #. EDID = [FD000DB9]
 #. REC = INFO:NAM1
@@ -14627,7 +14652,7 @@ msgctxt "000337"
 msgid ""
 "However, I am fortunate that I did not have many family, associates, or "
 "records to lose."
-msgstr ""
+msgstr "하지만 나는 감수해야 하는 많은 가족이나, 동료, 기록 같은 것들이 없어서 다행이지."
 
 #. EDID = [FD000DB9]
 #. REC = INFO:NAM1
@@ -14635,7 +14660,7 @@ msgctxt "000338"
 msgid ""
 "As far as anyone knows, my former self is dead. Records of my life are... "
 "mysteriously lost. I assume that is difficult for those one leaves behind."
-msgstr ""
+msgstr "모두가 아는 예전의 나는 죽었다. 내 삶의 기록은... 모호하게 사라졌지. 예전 삶을 함께하던 사람들에겐 힘들 일일 것이다."
 
 #. EDID = [FD000DB9]
 #. REC = INFO:NAM1
@@ -14644,12 +14669,13 @@ msgid ""
 "Yes, and no. When one attains this position. Ties to family and other "
 "associates are cut off. That is the most difficult aspect."
 msgstr ""
+"그렇기도, 아니기도 하다. 이 자리에 오르게 된 사람은 가족과 다른 지인들 사이의 관계가 끝이 난다. 이 과정의 가장 어려운 점이지."
 
 #. EDID = [FD000DC9]
 #. REC = INFO:NAM1
 msgctxt "00033A"
 msgid "Was it difficult to give up your identity?"
-msgstr ""
+msgstr "자신의 신원을 포기해야 했을 텐데, 힘들진 않았나?"
 
 #. EDID = [FD000DB1]
 #. REC = INFO:NAM1
@@ -14657,7 +14683,7 @@ msgctxt "00033B"
 msgid ""
 "I will simply state that our partnership with the United Colonies and "
 "Freestar Collective comes with some powerful tools."
-msgstr ""
+msgstr "난 그저 식민지 연합과 자유항성 공동체 사이와 우리의 동반자 관계 덕분에 강력한 도구를 지닐 수 있게 됐다고 말하겠다."
 
 #. EDID = [FD000E34]
 #. REC = INFO:NAM1
@@ -14665,7 +14691,7 @@ msgctxt "00033C"
 msgid ""
 "For a leader such as myself, it is an absolute necessity for the safety of "
 "the entire organization."
-msgstr ""
+msgstr "나와 같은 지도자는 우리 단체 전체의 안전을 지키기 위해선 절대적으로 중요하다."
 
 #. EDID = [FD000E34]
 #. REC = INFO:NAM1
@@ -14673,7 +14699,7 @@ msgctxt "00033D"
 msgid ""
 "As a rank and file Tracker, it is not a requirement, but it is advised. For "
 "the safety of those you know."
-msgstr ""
+msgstr "추적자라는 일반구성원에는 필수 요건은 아니지만, 추천된다. 네가 아는 지인들의 안전을 지킬 수 있도록."
 
 #. EDID = [FD000DF3]
 #. REC = INFO:NAM1
@@ -14683,12 +14709,14 @@ msgid ""
 "here I am. Always saw to it to bring in my targets alive in case they have "
 "any... similar revelations."
 msgstr ""
+"물론, 그런 종류의 기술을 동료들에게 전해 주기는 참 힘들지, 그래서 지금 난... 항상 표적들을 살려서 데려오려고 노력해. 남들도 "
+"그렇게 깨닫기를 바라며."
 
 #. EDID = [FD000E06]
 #. REC = INFO:NAM1
 msgctxt "00033F"
 msgid "Can you tell me about yourself, Bloodhound?"
-msgstr ""
+msgstr "자기 소개를 좀 해 주겠어, 블러드하운드?"
 
 #. EDID = [FD000DC8]
 #. REC = INFO:NAM1
@@ -14697,6 +14725,8 @@ msgid ""
 "If you want to chat with me, yeah. I know we don't do real names as part of "
 "the job, but I like to know who I'm talkin' to, if you don't mind."
 msgstr ""
+"나랑 얘기하고 싶다면, 응. 보통 우리가 하는 일은 진짜 이름을 쓰지 않는단 건 알지만 난 지금 누구랑 얘기하는지 알고 싶어. 혹시 "
+"괜찮다면."
 
 #. EDID = [FD000DD9]
 #. REC = INFO:NAM1
@@ -14706,18 +14736,20 @@ msgid ""
 "freebooter. I won't tell you what I did, but it sure as hell wasn't above "
 "board."
 msgstr ""
+"30년 넘게 추적자였지. 그 전에는 약탈자라 불릴 만한 사람이었고. 뭔 짓을 했는지 말하진 않겠지만, 합법적인 것은 전혀 아니었다고 "
+"하겠다."
 
 #. EDID = [FD000DE8]
 #. REC = INFO:NAM1
 msgctxt "000342"
 msgid "Do I need to share it with you?"
-msgstr ""
+msgstr "정말 그 정보를 알려 줘야 해?"
 
 #. EDID = [FD000DE1]
 #. REC = INFO:NAM1
 msgctxt "000343"
 msgid "Name's Bloodhound. Pleased to make your acquaintance."
-msgstr ""
+msgstr "내 이름은 블러드하운드다. 만나서 반갑군."
 
 #. EDID = [FD000DEA]
 #. REC = INFO:NAM1
@@ -14726,6 +14758,8 @@ msgid ""
 "Right. And I'm really your dad. Sorry I didn't teach you more original "
 "jokes. Now, ain't it past your bedtime, kiddo?"
 msgstr ""
+"잘도 그렇겠네, 아예 내가 네 친아빠다. 더 제대로 된 농담을 가르치지 않아서 미안하게 됐네. 그럼... 잠 잘 시간 지났지 않니, "
+"꼬마야?"
 
 #. EDID = [FD000DFD]
 #. REC = INFO:NAM1
@@ -14733,19 +14767,19 @@ msgctxt "000345"
 msgid ""
 "C'mon, don't be shy. I gotta know what to call you 'round here. So let's "
 "just out with it, huh?"
-msgstr ""
+msgstr "에이, 부끄러워하지 말고. 여기서 쓰이는 네 이름 정도는 알아야겠어. 그냥 좀 말해 보라고, 응?"
 
 #. EDID = [FD000DFC]
 #. REC = INFO:NAM1
 msgctxt "000346"
 msgid "I'd prefer not to say."
-msgstr ""
+msgstr "말하고 싶지 않아."
 
 #. EDID = [FD000E84]
 #. REC = INFO:NAM1
 msgctxt "000347"
 msgid "Nova? Can't argue with a good, solid space name. Inspiring, too."
-msgstr ""
+msgstr "노바? 썩 괜찮은 우주 이름인 것 같네. 영감을 주고 말이야."
 
 #. EDID = [FD000E83]
 #. REC = INFO:NAM1
@@ -14753,13 +14787,13 @@ msgctxt "000348"
 msgid ""
 "Nightstalker? Fancy yourself someone who catches 'em when they least expect,"
 " I take it?"
-msgstr ""
+msgstr "나이트스토커? 적들이 무방비 상태일 때 노리는 그런 사람이라 생각하는 거구나?"
 
 #. EDID = [FD000E81]
 #. REC = INFO:NAM1
 msgctxt "000349"
 msgid "Blitzkrieg? Strike quick and decisively. Not a bad strategy, I say."
-msgstr ""
+msgstr "블리츠크리그? 빠르고 압도적으로 진격한다라. 나쁘지 않은 전략이지."
 
 #. EDID = [FD000E80]
 #. REC = INFO:NAM1
@@ -14767,13 +14801,13 @@ msgctxt "00034A"
 msgid ""
 "Bear? Now that's a name. Solid. Reliable. Powerful. Not someone you'd want "
 "to mess with I reckon."
-msgstr ""
+msgstr "베어? 그 정도는 되어야 이름이지. 확실하고, 믿음직하고, 강력하고. 우습게 볼 사람이 아니란 걸 알려 주지."
 
 #. EDID = [FD000DE6]
 #. REC = INFO:NAM1
 msgctxt "00034B"
 msgid "Well if it ain't... uh... what callsign'd you take again?"
-msgstr ""
+msgstr "이게 누구야... 그... 어, 네 호출 부호가 뭐더라?"
 
 #. EDID = [FD000E3F]
 #. REC = INFO:NAM1
@@ -14781,7 +14815,7 @@ msgctxt "00034C"
 msgid ""
 "After the Narion War, there were... issues with extra-judicial vigilantism "
 "involving bounty hunting."
-msgstr ""
+msgstr "나리온 전쟁 이후... 현상수배 사냥에 관련해 재판 외 자경주의 문제가 발생하기 시작했다."
 
 #. EDID = [FD000E0E]
 #. REC = INFO:NAM1
@@ -14790,6 +14824,7 @@ msgid ""
 "Know that to attain my position of leadership, it was a combination of "
 "deeds, competency, professionalism, and above all, trust."
 msgstr ""
+"내가 이 지도자 자리에 오르기 위해 수많은 위업과 역량, 전문성... 그리고 신뢰가 함께 모여 이 자리에 오를 수 있었단 걸 명심하라."
 
 #. EDID = [FD000DCE]
 #. REC = INFO:NAM1
@@ -14797,7 +14832,7 @@ msgctxt "00034E"
 msgid ""
 "I am no one. By design. There has always been and always will be an Agent "
 "No. 1 to lead us."
-msgstr ""
+msgstr "난 그 누구도 아니다. 우리를 이끄는 대행인 1호는 예전부터 존재했으며, 그리고 앞으로 항상 그럴 테지."
 
 #. EDID = [FD000E24]
 #. REC = INFO:NAM1
@@ -14805,7 +14840,7 @@ msgctxt "00034F"
 msgid ""
 "You aided our Trackers Alliance efforts in Cydonia, bringing to justice an "
 "elusive target."
-msgstr ""
+msgstr "너는 시도니아에서 추적자 동맹의 일을 해결하는 데 도움을 줬고, 덕분에 표적은 법의 심판을 받았다."
 
 #. EDID = [FD000E0A]
 #. REC = INFO:NAM1
@@ -14813,7 +14848,7 @@ msgctxt "000350"
 msgid ""
 "In turn, your skills will be useful to us as we seek to retrieve our most "
 "elusive quarries."
-msgstr ""
+msgstr "결과적으로 네 능력은 계속해서 우리의 손아귀를 피하는 사냥감을 잡는 데 유용할 것이다."
 
 #. EDID = [FD000E0A]
 #. REC = INFO:NAM1
@@ -14822,31 +14857,32 @@ msgid ""
 "Our partnership can be mutually beneficial. You would have access to "
 "valuable bounties you might otherwise not."
 msgstr ""
+"우리가 같이 동료가 되면 서로 이득을 볼 수 있다. 너는 일반 경로로는 놓칠 수밖에 없는 값진 현상수배 사냥을 할 수 있게 된다."
 
 #. EDID = [FD000E0A]
 #. REC = INFO:NAM1
 msgctxt "000352"
 msgid "You don't. Nor do we need you, specifically."
-msgstr ""
+msgstr "반드시 택할 게 아니고, 우리도 네가 꼭 필요한 것도 아니다."
 
 #. EDID = [FD000DD0]
 #. REC = INFO:NAM1
 msgctxt "000353"
 msgid "Why me?"
-msgstr ""
+msgstr "왜 굳이 나지?"
 
 #. EDID = [FD000E35]
 #. REC = INFO:NAM1
 msgctxt "000354"
 msgid ""
 "How is this different from going after bounties from the Mission Board?"
-msgstr ""
+msgstr "일반적인 임무 단말기의 현상수배범들을 쫓는 것과 이 일이 뭐가 다르지?"
 
 #. EDID = [FD000E00]
 #. REC = INFO:NAM1
 msgctxt "000355"
 msgid "I've got a lot on my plate. I need more time to consider this."
-msgstr ""
+msgstr "나는 이것 말고도 할 일이 많아서 말이야. 좀 더 생각할 시간이 필요하겠어."
 
 #. EDID = [FD000E3D]
 #. REC = INFO:NAM1
@@ -14854,7 +14890,7 @@ msgctxt "000356"
 msgid ""
 "To that end, I would like you to first accept the available bounty on the "
 "Wanted Display on the nearby wall, then report back to me."
-msgstr ""
+msgstr "그렇다면 제일 먼저 근처 벽에 있는 현상수배 전단 화면의 가능한 임무를 수락한 다음 다시 내게 보고하러 오도록 하라."
 
 #. EDID = [FD000E3D]
 #. REC = INFO:NAM1
@@ -14862,13 +14898,13 @@ msgctxt "000357"
 msgid ""
 "Excellent. Before we accept you as an official Tracker, you will need to "
 "demonstrate competency in the field."
-msgstr ""
+msgstr "완벽하군. 하지만 공식 추적자가 되기 전에, 먼저 현장에서 실무 능력이 있단 것을 입증해야 한다."
 
 #. EDID = [FD000E12]
 #. REC = INFO:NAM1
 msgctxt "000358"
 msgid "Okay. Sure. I'm ready to officially try out for the Trackers."
-msgstr ""
+msgstr "그래. 좋아. 공식적으로 추적자가 되는 시험을 치르고 싶어."
 
 #. EDID = [FD000DE4]
 #. REC = INFO:NAM1
@@ -14877,6 +14913,7 @@ msgid ""
 "It may be prudent then to give you a taste of what we do here before you "
 "make your decision. I propose a trial run. Tracker field work."
 msgstr ""
+"네가 결정을 내리기 전에 먼저 우리가 현장에서 하게 될 일을 맛보게 하는 것이 훨씬 좋겠지. 시험을 주겠다. 추적자로서의 현장 임무다."
 
 #. EDID = [FD000DE4]
 #. REC = INFO:NAM1
@@ -14884,19 +14921,19 @@ msgctxt "00035A"
 msgid ""
 "But I would also caution you to consider this more fully, as our offer to "
 "join us may not remain indefinitely."
-msgstr ""
+msgstr "다만 이번 결정은 좀 더 제대로 숙고하는 게 좋을 거라고 말하겠다. 우리의 제안은 영원히 지속되는 게 아니기 때문이다."
 
 #. EDID = [FD000E7C]
 #. REC = INFO:NAM1
 msgctxt "00035B"
 msgid "Do you have any questions before we proceed?"
-msgstr ""
+msgstr "계속 진행하기 전에 따로 질문하고 싶은 게 있나?"
 
 #. EDID = [FD000DCC]
 #. REC = INFO:NAM1
 msgctxt "00035C"
 msgid "Were I you, I would feel honored by that."
-msgstr ""
+msgstr "네가 나였다면 영광으로 받아들였을 텐데."
 
 #. EDID = [FD000DCC]
 #. REC = INFO:NAM1
@@ -14904,7 +14941,7 @@ msgctxt "00035D"
 msgid ""
 "That being said, we devoted resources to reach out to you that we could have"
 " used elsewhere."
-msgstr ""
+msgstr "다만 우리는 그동안 가용 자원을 다른 데 소모하지 않고, 널 찾아 가입 제안을 하려고 해 왔다."
 
 #. EDID = [FD000DCC]
 #. REC = INFO:NAM1
@@ -14913,30 +14950,31 @@ msgid ""
 "Understood. Being visited by a Tracker can be intimidating. Despite what "
 "others may tell you, a little fear can be healthy."
 msgstr ""
+"알겠다. 추적자가 방문해 왔으니 위협이 느껴질 수도 있겠구나. 남들이 뭐라 말하든지 간에, 약간의 경외심을 갖는 건 나쁘지 않지."
 
 #. EDID = [FD000DD5]
 #. REC = INFO:NAM1
 msgctxt "00035F"
 msgid "Did you have to throw a Tracker my way and scare me half to death?"
-msgstr ""
+msgstr "굳이 내 앞에 추적자를 보내서, 반쯤 죽을 정도로 겁에 질리게 만들었어야 했나?"
 
 #. EDID = [FD000E01]
 #. REC = INFO:NAM1
 msgctxt "000360"
 msgid "I haven't made up my mind, but consider me intrigued."
-msgstr ""
+msgstr "아직 결정은 내리지 않았지만 관심이 가는 것은 사실이야."
 
 #. EDID = [FD000DF0]
 #. REC = INFO:NAM1
 msgctxt "000361"
 msgid "A drop of enthusiasm can create an ocean of success. Remember that."
-msgstr ""
+msgstr "열의 한 방울만으로도 성공의 대양을 일으킬 수 있지. 명심하도록."
 
 #. EDID = [FD000E13]
 #. REC = INFO:NAM1
 msgctxt "000362"
 msgid "Yes, I want to be a Tracker."
-msgstr ""
+msgstr "그래, 추적자가 되고 싶어."
 
 #. EDID = [FD000DC3]
 #. REC = INFO:NAM1
@@ -14944,7 +14982,7 @@ msgctxt "000363"
 msgid ""
 "Perhaps then, you would consider a trial run of sorts; to see if this is "
 "something you wish to pursue."
-msgstr ""
+msgstr "그렇다면 앞으로 시험 임무를 맡게 될 것을 생각해 봐야겠군. 이 일이 정녕 네게 맞는 것인지 알 수 있을 거다."
 
 #. EDID = [FD000E3C]
 #. REC = INFO:NAM1
@@ -14954,6 +14992,8 @@ msgid ""
 "tested in the field and face a true challenge before taking up the mantle of"
 " Tracker."
 msgstr ""
+"하지만 이 일이 그냥 동의를 표하고 맹세하는 걸로 간단한 게 아니란 걸 알아 주길 바란다. 현장에서 시험 임무를 맡고 진정한 도전을 "
+"겪어야 추적자라 불릴 수 있지."
 
 #. EDID = [FD00249D]
 #. REC = INFO:NAM1
@@ -14961,7 +15001,7 @@ msgctxt "000365"
 msgid ""
 "Welcome back. So you have decided to entertain our offer? Perhaps more "
 "seriously, this time."
-msgstr ""
+msgstr "돌아온 걸 환영한다. 그럼 우리의 제안에 생각해 봤나? 이번엔 좀 더 진지하게 말이다."
 
 #. EDID = [FD00F33C]
 #. REC = INFO:NAM1
@@ -14969,7 +15009,7 @@ msgctxt "000366"
 msgid ""
 "How fortunate. We sent someone to look for you, but you managed to find us "
 "on your own."
-msgstr ""
+msgstr "참 운이 좋군. 우린 이미 널 찾으려고 사람까지 보냈는데, 이렇게 직접 찾아오다니."
 
 #. EDID = [FD00F347]
 #. REC = INFO:NAM1
@@ -14977,19 +15017,19 @@ msgctxt "000367"
 msgid ""
 "I know you have done bounty hunting on your own, but I was hoping to "
 "convince you to join us."
-msgstr ""
+msgstr "이미 현상수배 임무를 맡아 해결한 적이 있단 건 알지만, 그래도 우리 단체에 가입해 달라 설득하고 싶었다."
 
 #. EDID = [FD000DF7]
 #. REC = INFO:NAM1
 msgctxt "000368"
 msgid "It seems you have decided to entertain our offer. Good."
-msgstr ""
+msgstr "우리의 제안에 관해 생각을 했나 보군. 좋아."
 
 #. EDID = [FD0011FD]
 #. REC = INFO:NAM1
 msgctxt "000369"
 msgid "I said what I said."
-msgstr ""
+msgstr "뭔 말 했는지는 나도 알아."
 
 #. EDID = [FD0011FA]
 #. REC = INFO:NAM1
@@ -14997,50 +15037,50 @@ msgctxt "00036A"
 msgid ""
 "...is standing right here. Yeah, I said I know. I'm aware of his presence. "
 "Have been since he walked in the door."
-msgstr ""
+msgstr "...그래, 저기 서 있지. 안다고 말했잖아. 곁에 있는 거 이미 다 알아. 문을 열고 들어왔을 때부터 다 느꼈어."
 
 #. EDID = [FD0011F3]
 #. REC = INFO:NAM1
 msgctxt "00036B"
 msgid "They are standing right there."
-msgstr ""
+msgstr "바로 저기에 서 있잖아."
 
 #. EDID = [FD0011F2]
 #. REC = INFO:NAM1
 msgctxt "00036C"
 msgid "She is standing right there."
-msgstr ""
+msgstr "바로 저기에 서 있잖아."
 
 #. EDID = [FD0011F1]
 #. REC = INFO:NAM1
 msgctxt "00036D"
 msgid "He is standing right there."
-msgstr ""
+msgstr "바로 저기에 서 있잖아."
 
 #. EDID = [FD0011F9]
 #. REC = INFO:NAM1
 msgctxt "00036E"
 msgid "Our new potential recruit..."
-msgstr ""
+msgstr "우리의 새 모집 대상자가..."
 
 #. EDID = [FD0011F4]
 #. REC = INFO:NAM1
 msgctxt "00036F"
 msgid "Roach!"
-msgstr ""
+msgstr "로치!"
 
 #. EDID = [FD0011EB]
 #. REC = INFO:NAM1
 msgctxt "000370"
 msgid "Roach..."
-msgstr ""
+msgstr "로치..."
 
 #. EDID = [FD0011ED]
 #. REC = INFO:NAM1
 msgctxt "000371"
 msgid ""
 "I know. I trust you. But the record streak... I'm only one away! Again..."
-msgstr ""
+msgstr "알아. 나도 널 믿어. 근데 내 연쇄 기록... 신기록까지 하나 남았는데! 또..."
 
 #. EDID = [FD004B3F]
 #. REC = INFO:NAM1
@@ -15049,6 +15089,8 @@ msgid ""
 "You must know I do not feel the need to appease or delight anyone. I take "
 "jobs no one else wants, and I always get it done. That is my value."
 msgstr ""
+"난 남들의 기분을 맞춰 주거나 기쁘게 할 필요성을 못 느낀단 걸 알게 될 것이다. 모두가 피하는 일거리만 맡고, 항성 성공해서 돌아오지. "
+"그게 내 가치다."
 
 #. EDID = [FD004B1F]
 #. REC = INFO:NAM1
@@ -15058,18 +15100,20 @@ msgid ""
 "targets alive. I aim for brutal efficiency. I do not \"work well with "
 "others.\""
 msgstr ""
+"나에 관해 들었을 소문은 아마 다 사실일 것이다. 난 모든 표적을 한번도 생포한 적이 없다. 철저할 정도로 효율적이고, '남들과 어울리는 "
+"것'도 모르지."
 
 #. EDID = [FD004AD6]
 #. REC = INFO:NAM1
 msgctxt "000374"
 msgid "Talk of gods aside, no justice is swifter or more final than death."
-msgstr ""
+msgstr "신들을 제치하더라도, 죽음 외엔 그 어떤 정의도 재빠르지도 최종적이지도 않다."
 
 #. EDID = [FD004A92]
 #. REC = INFO:NAM1
 msgctxt "000375"
 msgid "You're right. A divine power would know best."
-msgstr ""
+msgstr "네 말이 맞아. 심판은 신에게 맡기면 될 일이지."
 
 #. EDID = [FD004BCB]
 #. REC = INFO:NAM1
@@ -15079,6 +15123,8 @@ msgid ""
 "knowing a corrupt justice system allowed a criminal to escape, when you had "
 "the authority to enact justice yourself."
 msgstr ""
+"네가 신을 믿지 않는다 해도, 부패한 사법 체계 때문에 범죄자가 도망칠 수 있는 걸 알고 있으면서도 편히 잘 수 있겠나? 스스로 정의를 "
+"내릴 권위를 갖고 있었음에도 말이다."
 
 #. EDID = [FD004BCB]
 #. REC = INFO:NAM1
@@ -15087,13 +15133,15 @@ msgid ""
 "You put your faith in humankind, when I have seen it at its worst. Simply "
 "put, we are fallible, and as such, so is our justice system."
 msgstr ""
+"인류에 대한 믿음을 갖고 보군, 난 그 인류의 극악을 목도해 왔는데. 간단히 말해, 우리의 사법 체계는 인간 스스로 만큼이나 문제투성이란 "
+"것이다."
 
 #. EDID = [FD004BA7]
 #. REC = INFO:NAM1
 msgctxt "000378"
 msgid ""
 "I'd rather bring them in alive so our secular justice system can do its job."
-msgstr ""
+msgstr "나는 차라리 우리의 사법 체계가 제 몫을 다하도록 범죄자를 생포해 데려오는 것을 택하겠어."
 
 #. EDID = [FD004AA8]
 #. REC = INFO:NAM1
@@ -15103,18 +15151,20 @@ msgid ""
 "serve that justice is to end their lives so that they can be judged fairly "
 "in the afterlife."
 msgstr ""
+"모든 범죄자들은 반드시 정의의 심판을 받아야 하고, 진정으로 그렇게 할 유일한 방법은 바로 놈들의 목숨을 끊어 내생에서 공정한 심판을 "
+"받도록 하는 것이다."
 
 #. EDID = [FD004C91]
 #. REC = INFO:NAM1
 msgctxt "00037A"
 msgid "As long as you consider it, then my time is not wasted."
-msgstr ""
+msgstr "이런 주장을 고려해 본다면 내 시간도 낭비되지 않은 것이 되겠군."
 
 #. EDID = [FD004BB9]
 #. REC = INFO:NAM1
 msgctxt "00037B"
 msgid "Can't promise I'll follow your advice, but I'd like to hear it."
-msgstr ""
+msgstr "당신의 조언대로 행동하겠다고 약속하진 못하겠지만, 무슨 말을 할지 듣고는 싶네."
 
 #. EDID = [FD004B6D]
 #. REC = INFO:NAM1
@@ -15122,19 +15172,19 @@ msgctxt "00037C"
 msgid ""
 "I once used a monster costume to scare away tourists. I can handle "
 "unconventional tactics."
-msgstr ""
+msgstr "예전에 괴물 코스튬을 입고 관광객들을 쫓아낸 적이 있어... 특이한 전략도 기꺼이 사용하지."
 
 #. EDID = [FD004B20]
 #. REC = INFO:NAM1
 msgctxt "00037D"
 msgid "Okay, maybe I don't want your advice after all."
-msgstr ""
+msgstr "좋아, 어쩜 당신의 조언을 전혀 듣고 싶지 않은 것 같은데."
 
 #. EDID = [FD004AD8]
 #. REC = INFO:NAM1
 msgctxt "00037E"
 msgid "I can handle it."
-msgstr ""
+msgstr "그 정도는 받아들일 수 있어."
 
 #. EDID = [FD004B10]
 #. REC = INFO:NAM1
@@ -15142,7 +15192,7 @@ msgctxt "00037F"
 msgid ""
 "I will not acknowledge that with a response. I hope you take any further "
 "conversation more seriously."
-msgstr ""
+msgstr "그건 대답으로 인정하지 않겠어. 앞으로 대화를 좀 더 진지하게 하길 바라."
 
 #. EDID = [FD004AE9]
 #. REC = INFO:NAM1
@@ -15150,7 +15200,7 @@ msgctxt "000380"
 msgid ""
 "I've always wanted to know how they get the food to be perfect cubes at "
 "Chunks."
-msgstr ""
+msgstr "난 항상 청크에서 어떻게 그렇게 완벽한 정사각형으로 음식을 만드나 궁금했는데 말이야."
 
 #. EDID = [FD004C95]
 #. REC = INFO:NAM1
@@ -15158,13 +15208,13 @@ msgctxt "000381"
 msgid ""
 "I am Yama. I borrow this name from the god of the dead who judges the souls "
 "I usher to him."
-msgstr ""
+msgstr "나는 야마다. 내가 보낸 죽은 자들의 영혼을 심판하는 망자들의 신을 따온 이름이다."
 
 #. EDID = [FD004BBB]
 #. REC = INFO:NAM1
 msgctxt "000382"
 msgid "Can you tell me about yourself?"
-msgstr ""
+msgstr "자기 소개를 좀 해 주겠나?"
 
 #. EDID = [FD004B93]
 #. REC = INFO:NAM1
@@ -15173,6 +15223,7 @@ msgid ""
 "By the time I found him again, he had killed himself, robbing me of the "
 "chance to pass him off to face his eternal judgment. Never again."
 msgstr ""
+"다시 나중에 찾아냈더니, 이미 그자는 자살한 뒤였다. 영원의 심판을 받도록 내가 직접 보낼 기회를 빼앗긴 것이다. 다신 감수할 수 없어."
 
 #. EDID = [FD004B22]
 #. REC = INFO:NAM1
@@ -15180,13 +15231,13 @@ msgctxt "000384"
 msgid ""
 "There was one time I decided to let a man live. He had a family. A wife. "
 "Three children. He showed me a picture. They looked happy."
-msgstr ""
+msgstr "언젠가 어느 한 남자를 살려주기로 결정한 때가 있었다. 가족이 있었지. 아내, 자녀 셋. 사진을 보여 줬다. 행복해 보였지."
 
 #. EDID = [FD004ADA]
 #. REC = INFO:NAM1
 msgctxt "000385"
 msgid "You must have some interesting stories, huh?"
-msgstr ""
+msgstr "흥미로운 사연 좀 갖고 있을 것 같은데, 응?"
 
 #. EDID = [FD004B7D]
 #. REC = INFO:NAM1
@@ -15194,7 +15245,7 @@ msgctxt "000386"
 msgid ""
 "But I realize that may not be your belief, so I will not try to convince you"
 " any further."
-msgstr ""
+msgstr "하지만 난 그게 네 신념이 아니란 걸 깨달았으니, 더 이상 설득하려고 하진 않겠다."
 
 #. EDID = [FD004B7D]
 #. REC = INFO:NAM1
@@ -15202,7 +15253,7 @@ msgctxt "000387"
 msgid ""
 "That is true. And yet, the thought that they would go unjudged for so long "
 "would eat away at me."
-msgstr ""
+msgstr "그것도 사실이지. 하지만, 범죄자들이 심판을 받지 않고 오랫동안 살아남는 것은 도저히 참을 수 없어."
 
 #. EDID = [FD004B2E]
 #. REC = INFO:NAM1
@@ -15211,6 +15262,8 @@ msgid ""
 "Would you allow even a slim chance that they escape again? Even if they "
 "turned from their criminal path, would you deny their victims true justice?"
 msgstr ""
+"놈들이 다시 탈출하게 될 기회가 약간이라도 생긱는 것을 허용하겠는가? 그 범죄자들이 손을 씻는다 하더라도, 피해자들을 위한 진정한 정의를 "
+"거부할 텐가?"
 
 #. EDID = [FD004B86]
 #. REC = INFO:NAM1
@@ -15235,32 +15288,32 @@ msgctxt "00038B"
 msgid ""
 "Hmm. Other than his obsession with death, I don't know much about him. He "
 "doesn't exactly open up to others."
-msgstr ""
+msgstr "흠. 저 친구가 죽음에 광적으로 빠져 있는 것만 빼면 잘 알고 있지 않아. 남들에게 자기 얘길 하진 않거든."
 
 #. EDID = [FD004C9A]
 #. REC = INFO:NAM1
 msgctxt "00038C"
 msgid "Yes indeed, friend."
-msgstr ""
+msgstr "물론이지, 친구."
 
 #. EDID = [FD004B97]
 #. REC = INFO:NAM1
 msgctxt "00038D"
 msgid ""
 "I was told you know a lot about Trackers Alliance History. Is that true?"
-msgstr ""
+msgstr "당신이라면 추적자 동맹의 역사에 관해 많이 알고 있을 거라 들었는데. 그게 사실인가?"
 
 #. EDID = [FD004ADE]
 #. REC = INFO:NAM1
 msgctxt "00038E"
 msgid "Does KoiOS count as a Tracker?"
-msgstr ""
+msgstr "코이오스도 추적자로 쳐주나?"
 
 #. EDID = [FD004A9B]
 #. REC = INFO:NAM1
 msgctxt "00038F"
 msgid "Stache. What about him?"
-msgstr ""
+msgstr "콧수염. 저 사람은 뭐지?"
 
 #. EDID = [FD004BDC]
 #. REC = INFO:NAM1
@@ -16507,13 +16560,13 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "000441"
 msgid "I'll break through to you... eventually."
-msgstr ""
+msgstr "꼭 너와 얘기하겠어... 언젠가는."
 
 #. EDID = [FD00002D]
 #. REC = INFO:NAM1
 msgctxt "000442"
 msgid "It's honestly in your best interest to hear what I have to say."
-msgstr ""
+msgstr "내가 할 말을 듣는 게 당신에게도 가장 큰 이익이 될 거야."
 
 #. EDID = [FD000028]
 #. REC = INFO:NAM1
@@ -16521,31 +16574,31 @@ msgctxt "000443"
 msgid ""
 "Hey, I hope you don't expect me to give up and go home. One way or another, "
 "we're going to talk."
-msgstr ""
+msgstr "어이, 내가 그냥 포기하고 집에 돌아가길 바라는 건 아니길 바라. 어떻게든 대화 좀 해야겠으니까."
 
 #. EDID = [FD000026]
 #. REC = INFO:NAM1
 msgctxt "000444"
 msgid "Look, I wouldn't be out here chasing you down if it wasn't important."
-msgstr ""
+msgstr "어이, 중요한 게 아니라면 여기까지 와서 당신을 찾아다니지 않았겠지."
 
 #. EDID = [FD0011F8]
 #. REC = INFO:NAM1
 msgctxt "000445"
 msgid "Over here! There's something we need to discuss."
-msgstr ""
+msgstr "여기야! 같이 얘기하고 싶은 것이 있어."
 
 #. EDID = [FD0011F7]
 #. REC = INFO:NAM1
 msgctxt "000446"
 msgid "Hey, I need to talk with you."
-msgstr ""
+msgstr "어이, 같이 얘기 좀 해."
 
 #. EDID = [FD0011F6]
 #. REC = INFO:NAM1
 msgctxt "000447"
 msgid "Hey, been looking for you. Let's talk."
-msgstr ""
+msgstr "어이, 이제껏 당신을 찾고 있었어. 같이 얘기하지."
 
 #. EDID = [FD000090]
 #. REC = INFO:NAM1
@@ -16553,19 +16606,19 @@ msgctxt "000448"
 msgid ""
 "I'll be heading out soon if there's nothing more. Remember: Trackers "
 "Alliance HQ in Akila City. Speak to Agent No. 1."
-msgstr ""
+msgstr "더 얘기할 게 없다면 금방 떠나도록 할게. 기억해. 아킬라 시티의 추적자 동맹 본부야. 안에서 대행인 1호와 얘기하도록."
 
 #. EDID = [FD00007E]
 #. REC = INFO:NAM1
 msgctxt "000449"
 msgid "Wait, what did you say your name was?"
-msgstr ""
+msgstr "잠깐, 당신 이름이 뭐라고?"
 
 #. EDID = [FD000091]
 #. REC = INFO:NAM1
 msgctxt "00044A"
 msgid "Why should I join the Trackers Alliance?"
-msgstr ""
+msgstr "왜 내가 추적자 동맹에 가입해야 하지?"
 
 #. EDID = [FD00008F]
 #. REC = INFO:NAM1
@@ -16573,7 +16626,7 @@ msgctxt "00044B"
 msgid ""
 "You're free to make your own choices. I found you, I delivered my message, "
 "so my job here is done."
-msgstr ""
+msgstr "결정은 네가 스스로 자유롭게 내리는 거야. 난 널 찾았고, 메시지를 전달했으니 내 할 일은 끝났지."
 
 #. EDID = [FD00008F]
 #. REC = INFO:NAM1
@@ -16581,13 +16634,13 @@ msgctxt "00044C"
 msgid ""
 "While I would hope that you'd seriously consider our offer, it doesn't "
 "matter to me."
-msgstr ""
+msgstr "난 진지하게 우리의 제안을 고려해 주길 바라지만, 나한테는 큰 의미가 없지."
 
 #. EDID = [FD00008F]
 #. REC = INFO:NAM1
 msgctxt "00044D"
 msgid "What if you do?"
-msgstr ""
+msgstr "만일 당신이 그렇다면?"
 
 #. EDID = [FD00E28C]
 #. REC = INFO:NAM1
@@ -17747,7 +17800,7 @@ msgstr ""
 msgctxt "000563"
 msgid ""
 "It is affirmed. Henceforth you shall be known among Trackers as Terror."
-msgstr ""
+msgstr "좋다. 이제부터 너는 추적자들 사이에서 테러라는 호출 부호로 알려질 것이다."
 
 #. EDID = [FD005AE3]
 #. REC = INFO:NAM1
@@ -17762,7 +17815,7 @@ msgstr ""
 msgctxt "000565"
 msgid ""
 "It is affirmed. Henceforth you shall be known among Trackers as Tempest."
-msgstr ""
+msgstr "좋다. 이제부터 너는 추적자들 사이에서 템페스트라는 호출 부호로 알려질 것이다."
 
 #. EDID = [FD005B64]
 #. REC = INFO:NAM1
@@ -17821,7 +17874,7 @@ msgstr ""
 msgctxt "00056D"
 msgid ""
 "It is affirmed. Henceforth you shall be known among Trackers as Wraith."
-msgstr ""
+msgstr "좋다. 이제부터 너는 추적자들 사이에서 레이스라는 호출 부호로 알려질 것이다."
 
 #. EDID = [FD005A95]
 #. REC = INFO:NAM1
@@ -17869,7 +17922,7 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "000574"
 msgid "Tempest."
-msgstr ""
+msgstr "템페스트."
 
 #. EDID = [FD005A4B]
 #. REC = INFO:NAM1
@@ -17884,26 +17937,26 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "000576"
 msgid "Raven."
-msgstr ""
+msgstr "레이븐."
 
 #. EDID = [FD005B0A]
 #. REC = INFO:NAM1
 msgctxt "000577"
 msgid "Wraith."
-msgstr ""
+msgstr "레이스."
 
 #. EDID = [FD005AFB]
 #. REC = INFO:NAM1
 msgctxt "000578"
 msgid "Nova."
-msgstr ""
+msgstr "노바."
 
 #. EDID = [FD005B77]
 #. REC = INFO:NAM1
 msgctxt "000579"
 msgid ""
 "It is affirmed. Henceforth you shall be known among Trackers as Shadow."
-msgstr ""
+msgstr "좋다. 이제부터 너는 추적자들 사이에서 섀도우라는 호출 부호로 알려질 것이다."
 
 #. EDID = [FD005B19]
 #. REC = INFO:NAM1
@@ -17916,7 +17969,7 @@ msgstr ""
 msgctxt "00057B"
 msgid ""
 "It is affirmed. Henceforth you shall be known among Trackers as Blitzkrieg."
-msgstr ""
+msgstr "좋다. 이제부터 너는 추적자들 사이에서 블리츠크리그라는 호출 부호로 알려질 것이다."
 
 #. EDID = [FD005ACF]
 #. REC = INFO:NAM1
@@ -17929,13 +17982,13 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "00057D"
 msgid "Bear."
-msgstr ""
+msgstr "베어."
 
 #. EDID = [FD005AA8]
 #. REC = INFO:NAM1
 msgctxt "00057E"
 msgid "Nightstalker."
-msgstr ""
+msgstr "나이트스토커."
 
 #. EDID = [FD005A75]
 #. REC = INFO:NAM1
@@ -19346,25 +19399,25 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "00065C"
 msgid "Fancy a drink, Wraith, or just come to bend my ear?"
-msgstr ""
+msgstr "술 한 잔 줄까, 레이스? 아니면 나랑 얘기하러 온 거야?"
 
 #. EDID = [FD004C7C]
 #. REC = INFO:NAM1
 msgctxt "00065D"
 msgid "Fancy a drink, Terror, or just come to bend my ear?"
-msgstr ""
+msgstr "술 한 잔 줄까, 테러? 아니면 나랑 얘기하러 온 거야?"
 
 #. EDID = [FD004C7A]
 #. REC = INFO:NAM1
 msgctxt "00065E"
 msgid "Fancy a drink, Shadow, or just come to bend my ear?"
-msgstr ""
+msgstr "술 한 잔 줄까, 섀도우? 아니면 나랑 얘기하러 온 거야?"
 
 #. EDID = [FD004C79]
 #. REC = INFO:NAM1
 msgctxt "00065F"
 msgid "Fancy a drink, Raven, or just come to bend my ear?"
-msgstr ""
+msgstr "술 한 잔 줄까, 레이븐? 아니면 나랑 얘기하러 온 거야?"
 
 #. EDID = [FD000E73]
 #. REC = INFO:NAM1
@@ -19813,7 +19866,7 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "0006A7"
 msgid "Did you think you could just take that?"
-msgstr ""
+msgstr "그 물건을 멋대로 가져가도 된다고 생각했나?"
 
 #. EDID = [FD000DCD]
 #. REC = INFO:NAM1
@@ -19834,13 +19887,13 @@ msgstr ""
 msgctxt "0006AA"
 msgid ""
 "I wasn't. But now that you mention it, I'm second guessing my decision."
-msgstr ""
+msgstr "걱정이 안 됐는데, 그 말을 들으니 내 선택에 의심이 들기 시작했어."
 
 #. EDID = [FD000E7D]
 #. REC = INFO:NAM1
 msgctxt "0006AB"
 msgid "Inevitable? That's your callsign?"
-msgstr "인에비터블? 그게 호출 부호인가요?"
+msgstr "인에비터블? 그게 당신의 호출 부호라고?"
 
 #. EDID = [FD000DC5]
 #. REC = INFO:NAM1
@@ -19872,19 +19925,19 @@ msgctxt "0006AF"
 msgid ""
 "Does that worry you at all? Does it change your mind about wanting to be a "
 "Tracker?"
-msgstr ""
+msgstr "이 말을 들으니 혹시 걱정이 들어? 추적자가 되겠다는 생각이 바뀌는 건 아닌지 모르겠네?"
 
 #. EDID = [FD000DBD]
 #. REC = INFO:NAM1
 msgctxt "0006B0"
 msgid "Any advice for a new Tracker?"
-msgstr ""
+msgstr "신참 추적자에게 해 줄 조언이 있나?"
 
 #. EDID = [FD000E3E]
 #. REC = INFO:NAM1
 msgctxt "0006B1"
 msgid "I don't really want to think about it right now."
-msgstr ""
+msgstr "지금 그 얘기는 하고 싶지 않아."
 
 #. EDID = [FD000DF9]
 #. REC = INFO:NAM1
@@ -19894,6 +19947,8 @@ msgid ""
 "Bounty hunting tends to paint a target on your back, and attracts those "
 "looking for revenge."
 msgstr ""
+"생각한 것보다 일이 더 어려울 수만 있단 것을 알아 둬. 현상수배는 표적의 등 뒤에 과녁을 그리는 일이라, 복수를 원하는 자들까지 꼬일 "
+"수 있거든."
 
 #. EDID = [FD000DF9]
 #. REC = INFO:NAM1
@@ -19901,7 +19956,7 @@ msgctxt "0006B3"
 msgid ""
 "Fair enough. A pragmatic approach is sometimes best. This isn't a gang. "
 "You're allowed to leave."
-msgstr ""
+msgstr "나쁘지 않네. 실용적인 접근이야말로 가끔 최선이지. 여긴 갱단도 아니야. 언제든 떠날 수 있어."
 
 #. EDID = [FD000DD6]
 #. REC = INFO:NAM1
@@ -19909,7 +19964,7 @@ msgctxt "0006B4"
 msgid ""
 "Some of us decide to continue our service to the Alliance as Agents and "
 "offer our services as guides and teachers. Our experience is valued."
-msgstr ""
+msgstr "우리 중 일부는 계속 추적자 동맹의 대행인으로 일하며 스승이나 가이드 노릇을 해 주지. 우리의 경험은 값지거든."
 
 #. EDID = [FD000E2F]
 #. REC = INFO:NAM1
@@ -19917,7 +19972,7 @@ msgctxt "0006B5"
 msgid ""
 "Of course. Just understand that I'm the exception, not the rule. This is "
 "dangerous work, even by your standards."
-msgstr ""
+msgstr "물론이지. 다만 나는 예외 사항이지, 규칙이 아니란 것을 알아 둬. 이 일은 위험해, 네 기준에서 보더라도."
 
 #. EDID = [FD000E7F]
 #. REC = INFO:NAM1
@@ -19925,19 +19980,19 @@ msgctxt "0006B6"
 msgid ""
 "That being said, I rarely go on the hunt these days. My experience is now "
 "far more valuable as an Agent than a field Tracker."
-msgstr ""
+msgstr "물론 요즘은 더 이상 사냥을 나가진 않아. 내 경험은 현장 추적자로 쓰이기 보단 대행인으로서 활용되는 게 더 값지니까."
 
 #. EDID = [FD000DBF]
 #. REC = INFO:NAM1
 msgctxt "0006B7"
 msgid "Are you retired?"
-msgstr ""
+msgstr "이제 은퇴했나 보군?"
 
 #. EDID = [FD000E40]
 #. REC = INFO:NAM1
 msgctxt "0006B8"
 msgid "So, how did you find me?"
-msgstr ""
+msgstr "그래, 어떻게 나를 찾아냈지?"
 
 #. EDID = [FD000E27]
 #. REC = INFO:NAM1
@@ -19945,7 +20000,7 @@ msgctxt "0006B9"
 msgid ""
 "Not much. I've been doing this longer than any of the other Trackers. Even "
 "Agent No. 1."
-msgstr ""
+msgstr "딱히 말할 게 없네. 난 다른 추적자들보단 이 일을 오래 해 왔어. 대행인 1호보다도 더."
 
 #. EDID = [FD000E19]
 #. REC = INFO:NAM1
@@ -19954,12 +20009,13 @@ msgid ""
 "If I'm being completely honest, it was pure luck. I had been searching high "
 "and low, then it seems fate aligned and our paths crossed."
 msgstr ""
+"정말 솔직히 말하자면 순전히 내가 운이 좋았어. 그동안 사방팔방을 다 들쑤셨다가, 운명 덕분인 건지 우리가 서로 만나게 된 거야."
 
 #. EDID = [FD000E1F]
 #. REC = INFO:NAM1
 msgctxt "0006BB"
 msgid "And you didn't think to just check with my parents in New Atlantis?"
-msgstr ""
+msgstr "뉴아틀란티스에 있는 내 부모님을 확인할 생각은 해 보지 않았나 보군?"
 
 #. EDID = [FD000E23]
 #. REC = INFO:NAM1
@@ -19967,7 +20023,7 @@ msgctxt "0006BC"
 msgid ""
 "Sure. I'm a veritable wealth of information. Anything particular on your "
 "mind?"
-msgstr ""
+msgstr "물론. 난 알고 있는 정보가 참 많아. 특별히 생각하고 있던 게 있었나?"
 
 #. EDID = [FD00F34D]
 #. REC = INFO:NAM1
@@ -19975,7 +20031,7 @@ msgctxt "0006BD"
 msgid ""
 "You're welcome. Though, it turns out all my effort was for nothing. You "
 "brought yourself."
-msgstr ""
+msgstr "천만에. 다만 내가 노력한 게 아무 의미 없어졌네. 이렇게 네가 나타났으니."
 
 #. EDID = [FD000DAB]
 #. REC = INFO:NAM1
@@ -19983,7 +20039,7 @@ msgctxt "0006BE"
 msgid ""
 "You're welcome. All I did was extend the invitation. You decided to follow "
 "through, and brought yourself."
-msgstr ""
+msgstr "천만에. 난 그냥 좀 더 오래 머무르기로 했고, 네가 결국 이렇게 내 앞에 나타난 거야."
 
 #. EDID = [FD000DFB]
 #. REC = INFO:NAM1
@@ -19991,7 +20047,7 @@ msgctxt "0006BF"
 msgid ""
 "Sorry. Maybe I should have left a more obvious trail for you, or my enemies,"
 " to follow."
-msgstr ""
+msgstr "미안해. 그쪽이 날 찾을 수 있도록 좀 더 뻔한 단서들이나 적들을 남겨 놨어야 했나 보네."
 
 #. EDID = [FD00F333]
 #. REC = INFO:NAM1
@@ -20005,13 +20061,13 @@ msgctxt "0006C1"
 msgid ""
 "Let's just say it exposes a vulnerability in my armor. Perhaps my skills are"
 " not what they once were."
-msgstr ""
+msgstr "내 방어구의 약점이 드러난다고 해 두지. 내 능력이 예전만큼은 못한지도 모르고."
 
 #. EDID = [FD000DB8]
 #. REC = INFO:NAM1
 msgctxt "0006C2"
 msgid "Being hard to find seems like a good trait for a Tracker."
-msgstr ""
+msgstr "찾기 힘든 것은 추적자로서 좋은 특성인 것 같네."
 
 #. EDID = [FD00F348]
 #. REC = INFO:NAM1
@@ -20019,7 +20075,7 @@ msgctxt "0006C3"
 msgid ""
 "I didn't choose to recruit you, but I did the research and attempted to "
 "track you down. Surprisingly, it was... not easy."
-msgstr ""
+msgstr "난 널 모집하려고 결정한 게 아니야. 다만 내 나름대로 알아봤고, 널 추적하기로 결정했지. 놀라울 정도로, 쉽지... 않았어."
 
 #. EDID = [FD000DC2]
 #. REC = INFO:NAM1
@@ -20027,7 +20083,7 @@ msgctxt "0006C4"
 msgid ""
 "You ain't wrong. But I'll tell ya, I sleep better knowing I didn't condemn "
 "those people 'n their kids to starvation."
-msgstr ""
+msgstr "틀린 말은 아닌데. 이건 말할게, 난 그 사람들과 자녀들이 쫄쫄 굶게 만들지 않았단 사실 때문에 편히 잠을 잔다고."
 
 #. EDID = [FD000DDC]
 #. REC = INFO:NAM1
@@ -20036,6 +20092,8 @@ msgid ""
 "Nevertheless, I agree with Agent No. 1 that you could prove to be a valuable"
 " asset for the Alliance. I would rather you with us than against."
 msgstr ""
+"어쨌든, 난 대행인 1호의 말에 동의해. 너라면 우리 동맹의 뛰어난 인재가 될 수 있을 것 같아. 우릴 적대하는 것보단 같은 편이 되어 "
+"줬으면 해."
 
 #. EDID = [FD000DDC]
 #. REC = INFO:NAM1
@@ -20043,13 +20101,13 @@ msgctxt "0006C6"
 msgid ""
 "In the grand scheme of things, it doesn't. The Trackers Alliance will "
 "function and thrive even without your help."
-msgstr ""
+msgstr "넓은 관점에서 보면 상관 없으니까. 추적자 동맹은 네 도움이 없어도 잘 유지되고 번창할 거야."
 
 #. EDID = [FD000DB0]
 #. REC = INFO:NAM1
 msgctxt "0006C7"
 msgid "Why? What does it matter if I joined or didn't?"
-msgstr ""
+msgstr "어째서? 내가 가입하든 안 하든 왜 상관이 없는 거지?"
 
 #. EDID = [FD000DD2]
 #. REC = INFO:NAM1
@@ -20057,7 +20115,7 @@ msgctxt "0006C8"
 msgid ""
 "Anyway, you're gonna do you, and I won't judge. But don't come cryin' to me "
 "if you can't reckon with your own demons."
-msgstr ""
+msgstr "아무튼, 너도 하고 싶은 대로 행동해. 뭐라 하지 않을 테니. 다만 나중에 마음이 괴롭다고 울면서 나한테 오진 말라고."
 
 #. EDID = [FD000DC0]
 #. REC = INFO:NAM1
@@ -20065,7 +20123,7 @@ msgctxt "0006C9"
 msgid ""
 "No. I would have left, reported back to Agent No. 1, and we would have moved"
 " on with our lives."
-msgstr ""
+msgstr "아니. 난 여길 떠난 다음, 대행인 1호에게 보고하고 우린 서로 제 갈 길을 가고 그렇게 끝날 거야."
 
 #. EDID = [FD000DC0]
 #. REC = INFO:NAM1
@@ -20073,32 +20131,32 @@ msgctxt "0006CA"
 msgid ""
 "What? Did you think we would hunt you down if you declined? Please. That's "
 "not how we operate."
-msgstr ""
+msgstr "뭐? 네가 거절하면 우리가 널 세상 끝까지 쫓을 줄 알았니? 우린 그런 사람들 아니야."
 
 #. EDID = [FD000DBB]
 #. REC = INFO:NAM1
 msgctxt "0006CB"
 msgid "I'm not doing this to please you."
-msgstr ""
+msgstr "그쪽 기분을 맞춰 주고 싶진 않아."
 
 #. EDID = [FD000E2C]
 #. REC = INFO:NAM1
 msgctxt "0006CC"
 msgid ""
 "I'm glad you decided to show. All that effort finding you was not wasted."
-msgstr ""
+msgstr "드디어 나타나다니 다행이네. 그동안 찾으려고 노력한 게 헛된 노력은 아니게 됐어."
 
 #. EDID = [FD00F340]
 #. REC = INFO:NAM1
 msgctxt "0006CD"
 msgid "I'm pleased you showed up here. It made finding you easier."
-msgstr ""
+msgstr "네가 이곳에 나타나서 다행이네. 찾는 일이 훨씬 더 쉬워졌어."
 
 #. EDID = [FD000E2B]
 #. REC = INFO:NAM1
 msgctxt "0006CE"
 msgid "I'm pleased you chose to join us."
-msgstr ""
+msgstr "우리와 함께하기로 결정해서 참 기뻐."
 
 #. EDID = [FD000DB2]
 #. REC = INFO:NAM1
@@ -20107,6 +20165,7 @@ msgid ""
 "I tell ya, it ain't an easy job. No sir. Some'll tell you to do it as "
 "written. Me? I like to sleep soundly."
 msgstr ""
+"확실히 이 일은 쉬운 일이 아니야, 암. 누구는 시킨 대로 해야 한다고 말하긴 하지만... 나는? 편히 숙면을 취하고 싶어서 말이야."
 
 #. EDID = [FD000DF5]
 #. REC = INFO:NAM1
@@ -20114,13 +20173,13 @@ msgctxt "0006D0"
 msgid ""
 "Yeah, I got cussed out pretty good, but sometimes it's worth it to do some "
 "good in the 'verse."
-msgstr ""
+msgstr "그래, 날 엄청 호되게 꾸짖었지. 하지만 가끔 우주를 위해 좋은 일을 하는 것 또한 충분히 가치가 있어."
 
 #. EDID = [FD000E3B]
 #. REC = INFO:NAM1
 msgctxt "0006D1"
 msgid "I probably would have done the same."
-msgstr ""
+msgstr "나도 같은 선택을 내렸을 것 같아."
 
 #. EDID = [FD000E1C]
 #. REC = INFO:NAM1
@@ -20130,12 +20189,13 @@ msgid ""
 " ol' feller in my sights who's wanted for thievin' from Ryujin and other big"
 " corpos."
 msgstr ""
+"그래서, 어느 외딴 촌뜨기들만 있는 위성의 전초기지에 갔는데 내 가늠자에 류진이랑 다른 대기업의 물건을 훔치는 녀석이 나타난 거야."
 
 #. EDID = [FD000DAA]
 #. REC = INFO:NAM1
 msgctxt "0006D3"
 msgid "Loads. But let me tell you just one."
-msgstr ""
+msgstr "무진장 많지. 근데 이것 하나만 말해 줄게."
 
 #. EDID = [FD000DEE]
 #. REC = INFO:NAM1
@@ -20145,6 +20205,8 @@ msgid ""
 " servant of the God of Death or somethin' and thinkin' you're doing them "
 "poor souls a favor. Ain't no life for me."
 msgstr ""
+"머지않아 저기 있는 야마처럼 자신이 무슨 사신이 된 것처럼 믿고, 불쌍한 녀석들 죽이는 게 좋은 일을 한다고 생각하기 마련이야. 난 그런 "
+"삶을 살고 싶지 않아."
 
 #. EDID = [FD000DEE]
 #. REC = INFO:NAM1
@@ -20188,7 +20250,7 @@ msgid ""
 "The Trackers Alliance was formally established and sanctioned by the "
 "Freestar Collective and the United Colonies as a way to combat this growing "
 "problem."
-msgstr ""
+msgstr "추적자 동맹은 점점 커져 가는 이 문제를 해결하기 위해 자유항성 공동체와 식민지 연합에 의해 공식적으로 설립, 인가되었다."
 
 #. EDID = [FD000E07]
 #. REC = INFO:NAM1
@@ -20206,12 +20268,14 @@ msgid ""
 "Alliance is not for you. Trust that it is a necessity that was carefully "
 "considered."
 msgstr ""
+"오직 내 직책 때문에 그런 조치가 필요했던 것이다. 추적자 동맹의 지도자가 되는 것은 네게 맞지 않을 수 있겠군. 엄연히 신중히 고려되어 "
+"필요에 의해 취해진 조치다."
 
 #. EDID = [FD000DFE]
 #. REC = INFO:NAM1
 msgctxt "0006DD"
 msgid "That's absurd! You shouldn't have to give up your entire identity."
-msgstr ""
+msgstr "말도 안 돼! 아무리 그래도 자신의 개성을 포기하는 건 받아들이지 말아야지."
 
 #. EDID = [FD000DA9]
 #. REC = INFO:NAM1
@@ -20220,24 +20284,25 @@ msgid ""
 "Use \"they\" or \"them\" when speaking about me, as to further protect my "
 "identity. However, that had already been my preference."
 msgstr ""
+"모두가 날 지칭할 땐 내 신원이 알려지지 않도록, '그들' 그 사람'이라고 한다. 물론, 나는 예전부터 성별을 따지지 않는 사람이긴 했지."
 
 #. EDID = [FD000DA9]
 #. REC = INFO:NAM1
 msgctxt "0006DF"
 msgid "They call me Agent No. 1. or \"Agent No One.\""
-msgstr ""
+msgstr "추적자들은 나를 대행인 1호, 또는 '1호'라고 부른다."
 
 #. EDID = [FD000DDA]
 #. REC = INFO:NAM1
 msgctxt "0006E0"
 msgid "No real name? So how do people refer to you, in general?"
-msgstr ""
+msgstr "실제 이름이 없다고? 그럼 다들 당신을 부를 때 보통 뭐라고 하지?"
 
 #. EDID = [FD000DED]
 #. REC = INFO:NAM1
 msgctxt "0006E1"
 msgid "How did you wipe out your entire records and history?"
-msgstr ""
+msgstr "어떻게 자신의 모든 기록과 정보를 없앨 수가 있던 거지?"
 
 #. EDID = [FD000E43]
 #. REC = INFO:NAM1
@@ -20252,20 +20317,20 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "0006E3"
 msgid "I understand. I hope I don't need to give up my identity."
-msgstr ""
+msgstr "이해해. 나도 그렇게 내 신상 정보를 포기하는 일은 안 겪으면 좋겠어."
 
 #. EDID = [FD000E04]
 #. REC = INFO:NAM1
 msgctxt "0006E4"
 msgid "In Akila City, you brought merciless justice upon hostage-takers."
-msgstr ""
+msgstr "아킬라 시티에서, 너는 인질극을 벌이던 자들에게 무자비한 정의를 안겨다 주었지."
 
 #. EDID = [FD000E03]
 #. REC = INFO:NAM1
 msgctxt "0006E5"
 msgid ""
 "In Akila City, you thwarted a dangerous hostage situation. Without violence."
-msgstr ""
+msgstr "아킬라 시티에서, 너는 위험한 인질극을 해결했지. 폭력을 쓰지도 않고."
 
 #. EDID = [FD000DD1]
 #. REC = INFO:NAM1
@@ -20386,13 +20451,13 @@ msgctxt "0006F6"
 msgid ""
 "Well, I can see why you'd take that name. You've got my seal of approval, "
 "not that you need it."
-msgstr ""
+msgstr "음, 네가 왜 그런 이름을 택했는지 알겠다. 아무튼 인정해 줄게, 굳이 필요하진 않겠다만."
 
 #. EDID = [FD000E1E]
 #. REC = INFO:NAM1
 msgctxt "0006F7"
 msgid "This mutual trust is rarely breached."
-msgstr ""
+msgstr "이 상호 신뢰 관계는 거의 깨진 적이 없지."
 
 #. EDID = [FD000DDF]
 #. REC = INFO:NAM1
@@ -20402,6 +20467,8 @@ msgid ""
 "and allow us to operate largely unhindered, in exchange for holding us "
 "accountable."
 msgstr ""
+"개척 성계의 각 정부는 우리의 특별한 능력을 쓰기 위해 고용하고, 우리가 임무의 모든 책임을 지는 대신 거의 규제를 받지 않고 활동하도록 "
+"허락해 주고 있다."
 
 #. EDID = [FD000E37]
 #. REC = INFO:NAM1
@@ -20409,26 +20476,26 @@ msgctxt "0006F9"
 msgid ""
 "I could say more, but trust that you would not be here if I did not believe "
 "you worthy."
-msgstr ""
+msgstr "더 말할 수 있지만, 네 가치가 충분하다고 믿지 않았다면 이곳에 올 일도 없었단 것은 믿어 주길 바란다."
 
 #. EDID = [FD000DD7]
 #. REC = INFO:NAM1
 msgctxt "0006FA"
 msgid ""
 "Do not be alarmed. That is a secret I respect and will take to the grave."
-msgstr ""
+msgstr "놀랄 필요 없다. 난 네 비밀을 존경하고, 죽을 때까지 남에게 발설하지 않을 테니."
 
 #. EDID = [FD000DD7]
 #. REC = INFO:NAM1
 msgctxt "0006FB"
 msgid "And, I know about \"The Mantis.\""
-msgstr ""
+msgstr "그리고, 난 '맨티스'에 관해 알고 있다."
 
 #. EDID = [FD000E0C]
 #. REC = INFO:NAM1
 msgctxt "0006FC"
 msgid "Both roles are equally crucial to our operation."
-msgstr ""
+msgstr "두 역할 모두 우리의 실무에 매우 중요하지."
 
 #. EDID = [FD000DBE]
 #. REC = INFO:NAM1
@@ -20438,12 +20505,14 @@ msgid ""
 " their experience and wisdom is valued, and it can be difficult to "
 "reassimilate into society."
 msgstr ""
+"가끔 추적자가 나이가 들게 되면, 그 사람의 경험과 지혜는 귀중해지므로 대행인이 된다. 대행인 정도가 될 정도면 사회로 다시 복귀하기 "
+"어려워지니 말이다."
 
 #. EDID = [FD000DAC]
 #. REC = INFO:NAM1
 msgctxt "0006FE"
 msgid "Why does a formal organization like the Trackers even exist?"
-msgstr ""
+msgstr "애초에 어째서 추적자 동맹 같은 공식 단체가 존재하는 것이지?"
 
 #. EDID = [FD000E30]
 #. REC = INFO:NAM1
@@ -20524,7 +20593,7 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "000709"
 msgid "Why not you? I know of your accomplishments."
-msgstr ""
+msgstr "그럼 왜 택하지 말아야 하지? 상당한 위업을 달성했단 걸 알고 있는데."
 
 #. EDID = [FD000E20]
 #. REC = INFO:NAM1
@@ -20532,7 +20601,7 @@ msgctxt "00070A"
 msgid ""
 "Now hold on. Don't go jumping the gun! I'm not sure the Trackers Alliance is"
 " right for me."
-msgstr ""
+msgstr "자, 잠깐. 벌써부터 막 나가지 말고! 아직 추적자 동맹이 나한테 맞는 곳인지 잘 모르겠어."
 
 #. EDID = [FD000DF6]
 #. REC = INFO:NAM1
@@ -20581,7 +20650,7 @@ msgctxt "000711"
 msgid ""
 "...is standing right here. Yeah, I said I know.  I'm aware of their "
 "presence. Have been since they walked in the door."
-msgstr ""
+msgstr "...그래, 저기 서 있지. 안다고 말했잖아. 곁에 있는 거 이미 다 알아. 문을 열고 들어왔을 때부터 다 느꼈어."
 
 #. EDID = [FD0011FB]
 #. REC = INFO:NAM1
@@ -20589,7 +20658,7 @@ msgctxt "000712"
 msgid ""
 "...is standing right here. Yeah, I said I know.  I'm aware of her presence. "
 "Have been since she walked in the door."
-msgstr ""
+msgstr "...그래, 저기 서 있지. 안다고 말했잖아. 곁에 있는 거 이미 다 알아. 문을 열고 들어왔을 때부터 다 느꼈어."
 
 #. EDID = [FD00249E]
 #. REC = INFO:NAM1
@@ -20609,13 +20678,13 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "000715"
 msgid "You are prompt. Good trait for a Tracker."
-msgstr ""
+msgstr "시간을 딱 맞춰 왔군. 추적자에게 맞는 좋은 특성이다."
 
 #. EDID = [FD0011FE]
 #. REC = INFO:NAM1
 msgctxt "000716"
 msgid "Pay Roach no mind. Let us talk."
-msgstr ""
+msgstr "로치에겐 신경 쓰지 마라. 같이 얘기하지."
 
 #. EDID = [FD0011EC]
 #. REC = INFO:NAM1
@@ -20629,7 +20698,7 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "000718"
 msgid "Roach."
-msgstr ""
+msgstr "로치."
 
 #. EDID = [FD0011F0]
 #. REC = INFO:NAM1
@@ -20669,7 +20738,7 @@ msgctxt "00071E"
 msgid ""
 "...Kind of weird reaching out to them instead of the other way around, isn't"
 " it? You're pretty convinced."
-msgstr ""
+msgstr "...저쪽에서 우리한테 먼저 말을 걸어야지, 왜 우리가 먼저 저쪽한테 얘기를 해. 이상하지 않아? 충분히 아는 것 같은데."
 
 #. EDID = [FD004AC7]
 #. REC = INFO:NAM1
@@ -21162,7 +21231,7 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "000762"
 msgid "Call me Blitzkrieg."
-msgstr ""
+msgstr "블리츠크리그라고 불러."
 
 #. EDID = [FD004B55]
 #. REC = INFO:NAM1
@@ -21176,7 +21245,7 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "000764"
 msgid "Call me Nightstalker."
-msgstr ""
+msgstr "나이트스토커라고 불러."
 
 #. EDID = [FD004BC6]
 #. REC = INFO:NAM1
@@ -21191,7 +21260,7 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "000766"
 msgid "Call me Mantis."
-msgstr ""
+msgstr "맨티스라고 불러."
 
 #. EDID = [FD004B0A]
 #. REC = INFO:NAM1
@@ -22085,7 +22154,7 @@ msgctxt "0007DE"
 msgid ""
 "Your previous mission could have gone better, but I'll give you credit for "
 "completing it."
-msgstr ""
+msgstr "이전 임무에서 더 좋은 성과를 낼 수도 있었지만, 완수는 했으니 크레딧은 주지."
 
 #. EDID = [FD004BF8]
 #. REC = INFO:NAM1
@@ -22111,19 +22180,19 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "0007E3"
 msgid "Uh, did I do something wrong? Am I wanted?"
-msgstr ""
+msgstr "어, 내가 나쁜 짓이라도 했나? 설마 현상수배가 된 건가?"
 
 #. EDID = [FD000020]
 #. REC = INFO:NAM1
 msgctxt "0007E4"
 msgid "I'm listening."
-msgstr ""
+msgstr "듣고 있어."
 
 #. EDID = [FD000018]
 #. REC = INFO:NAM1
 msgctxt "0007E5"
 msgid "No, well... at least not as far as we're concerned for the moment."
-msgstr ""
+msgstr "아니, 어... 적어도 지금 당장은 아닌 것 같군."
 
 #. EDID = [FD000080]
 #. REC = INFO:NAM1
@@ -22131,38 +22200,38 @@ msgctxt "0007E6"
 msgid ""
 "But until then, there's really no need for me to share that information with"
 " you."
-msgstr ""
+msgstr "어쨌든 그때 전까진 네게 그 정보를 알려 줄 필요는 없지."
 
 #. EDID = [FD000080]
 #. REC = INFO:NAM1
 msgctxt "0007E7"
 msgid ""
 "There will be time for introductions later, assuming you decide to join us."
-msgstr ""
+msgstr "자기소개할 기회는 나중에도 있을 거야. 우리 동맹에 가입할 생각이 있다면."
 
 #. EDID = [FD000032]
 #. REC = INFO:NAM1
 msgctxt "0007E8"
 msgid "I'm from the Trackers Alliance. We have a proposal for you."
-msgstr ""
+msgstr "나는 추적자 동맹 소속이다. 우린 네게 제안할 것이 있어."
 
 #. EDID = [FD000021]
 #. REC = INFO:NAM1
 msgctxt "0007E9"
 msgid "Sign me up! I've been wanting to join the Trackers Alliance."
-msgstr ""
+msgstr "물론이지! 난 항상 추적자 동맹에 가입하고 싶었다고."
 
 #. EDID = [FD000095]
 #. REC = INFO:NAM1
 msgctxt "0007EA"
 msgid "Yes?"
-msgstr ""
+msgstr "그래?"
 
 #. EDID = [FD00001B]
 #. REC = INFO:NAM1
 msgctxt "0007EB"
 msgid "Well then, this may be your lucky day."
-msgstr ""
+msgstr "음, 그럼 오늘 너 운이 좋은 것 같구나."
 
 #. EDID = [FD00F52A]
 #. REC = INFO:NAM1
@@ -22170,37 +22239,37 @@ msgctxt "0007EC"
 msgid ""
 "As I was saying, if you wish to join us, you will need to go speak with "
 "Agent No. 1 at the new Trackers Alliance headquarters in Akila City."
-msgstr ""
+msgstr "내가 말했듯이, 우리 동맹에 가입하고 싶다면 아킬라 시티에 있는 새 추적자 동맹 본부의 대행인 1호를 만나 대화를 청하도록 해."
 
 #. EDID = [FD00001F]
 #. REC = INFO:NAM1
 msgctxt "0007ED"
 msgid "I'm glad I finally caught up with you."
-msgstr ""
+msgstr "드디어 이렇게 만나 기쁘네."
 
 #. EDID = [FD00001E]
 #. REC = INFO:NAM1
 msgctxt "0007EE"
 msgid "A proposal? No thanks, I'm already happily married."
-msgstr ""
+msgstr "제안이라면... 프로포즈? 됐어. 난 이미 결혼한 몸이라고."
 
 #. EDID = [FD00001D]
 #. REC = INFO:NAM1
 msgctxt "0007EF"
 msgid "A proposal? Me? But I don't even know you."
-msgstr ""
+msgstr "내가 프로포즈를? 난 네가 누군지도 모르는걸."
 
 #. EDID = [FD00E2A0]
 #. REC = INFO:NAM1
 msgctxt "0007F0"
 msgid "I have questions."
-msgstr ""
+msgstr "질문할 것이 있는데."
 
 #. EDID = [FD00008A]
 #. REC = INFO:NAM1
 msgctxt "0007F1"
 msgid "I suppose we will."
-msgstr ""
+msgstr "그래, 그렇겠지."
 
 #. EDID = [FD000087]
 #. REC = INFO:NAM1
@@ -22210,6 +22279,8 @@ msgid ""
 "what it takes to join our ranks. You're being invited to our new "
 "headquarters in Akila City."
 msgstr ""
+"추적자 동맹은 그동안 네가 여러 위업을 달성한 것을 관찰해 왔고 이제 우리의 동료가 될 능력이 있다고 생각한다. 아킬라 시티에 있는 "
+"우리의 새 본부에 초대하고 싶어 온 것이다."
 
 #. EDID = [FD00008E]
 #. REC = INFO:NAM1
@@ -22217,7 +22288,7 @@ msgctxt "0007F3"
 msgid ""
 "There, you'll meet with Agent No. 1. If you decide to consider our offer, "
 "they'll guide you through our initiation process."
-msgstr ""
+msgstr "그곳에서 대행인 1호를 만나 우리의 제안을 받아들일 것인지 결정하게 될 거다. 나머지 가입 절차는 그 후에 안내해 줄 거야."
 
 #. EDID = [FD000084]
 #. REC = INFO:NAM1
@@ -22225,13 +22296,13 @@ msgctxt "0007F4"
 msgid ""
 "Listen to what I have to say before you walk away from this opportunity "
 "forever. It won't be offered again."
-msgstr ""
+msgstr "등을 돌려 떠나기 전에 내 말부터 들어, 이번 기회를 영영 잃게 될 테니. 다신 제안하지도 않을 테니까."
 
 #. EDID = [FD00F521]
 #. REC = INFO:NAM1
 msgctxt "0007F5"
 msgid "Excuse me. Don't go just yet."
-msgstr ""
+msgstr "실례하지. 아직 갑자기 떠나진 마."
 
 #. EDID = [FD000082]
 #. REC = INFO:NAM1
@@ -22249,7 +22320,7 @@ msgstr "좋았어. 얘기를 들어 줘서 정말 고마워."
 #. REC = INFO:NAM1
 msgctxt "0007F8"
 msgid "I'll consider it. And if I show up, you'll have your answer."
-msgstr "생각해 볼게. 내가 다시 왔을 때 답을 알려줄게."
+msgstr "생각해 볼게. 내가 다시 나타나면 그때 얘기해 줘."
 
 #. EDID = [FD00008D]
 #. REC = INFO:NAM1
@@ -22263,13 +22334,13 @@ msgctxt "0007FA"
 msgid ""
 "Still here. Still finding you. Let's talk, and we can all go our separate "
 "ways if that's what you want."
-msgstr ""
+msgstr "난 아직 여기 있어. 널 찾아냈지. 같이 얘기하자. 서로 헤어지길 바란다면 말만 하면 돼."
 
 #. EDID = [FD00002C]
 #. REC = INFO:NAM1
 msgctxt "0007FB"
 msgid "I've got all the time in the world to keep tracking you down."
-msgstr ""
+msgstr "널 계속 추적할 시간은 얼마든지 있어."
 
 #. EDID = [FD00002A]
 #. REC = INFO:NAM1
@@ -22285,7 +22356,7 @@ msgctxt "0007FD"
 msgid ""
 "Hey, come on. Let's stop this little game we're playing and get down to "
 "business."
-msgstr ""
+msgstr "어이, 이제 놀이는 그만하고 사업 얘기부터 하자고."
 
 #. EDID = [FD000027]
 #. REC = INFO:NAM1
@@ -22319,7 +22390,7 @@ msgstr "혹시 현상금 사냥꾼이 하고 싶은 마음이 조금이라도 �
 #. REC = INFO:NAM1
 msgctxt "000802"
 msgid "Then why did you say you did? Anyway..."
-msgstr ""
+msgstr "그럼 왜 하고 싶다 말한 거야? 아무튼..."
 
 #. EDID = [FD00E2AB]
 #. REC = INFO:NAM1
@@ -22343,7 +22414,7 @@ msgstr "알아. 날 추적자 본부에 초대할려고 찾아다닌 거잖아."
 #. REC = INFO:NAM1
 msgctxt "000819"
 msgid "Those mission board bounties ain't gonna clear themselves, Tracker."
-msgstr ""
+msgstr "가만히 있으면 임무 단말기의 지명수배가 사라지지 않아, 추적자 친구."
 
 #. EDID = [FD00F54F]
 #. REC = INFO:NAM1
@@ -22351,7 +22422,7 @@ msgctxt "00081A"
 msgid ""
 "Hey Tracker. I know you don't need it, but there's some work available on "
 "the mission boards."
-msgstr ""
+msgstr "반가워, 추적자. 필요하진 않겠지만, 임무 단말기에 아직 남아 있는 일거리가 있어."
 
 #. EDID = [FD00F551]
 #. REC = INFO:NAM1
@@ -22361,6 +22432,8 @@ msgid ""
 "thing. There's nothin' wrong with that. Look no further than the Broken "
 "Spear."
 msgstr ""
+"뭐야, 너와 같은 추적자가 이 동네의 평범한 일거리를 맡으려고? 물론이지. 그게 잘못된 것도 아니고. 브로큰 스피어에 가면 찾을 수 있을 "
+"거야."
 
 #. EDID = [FD00F546]
 #. REC = INFO:NAM1
@@ -22368,13 +22441,13 @@ msgctxt "00081C"
 msgid ""
 "Oh darlin', I don't know why you're asking when you already know the answer."
 " We're the baddest bounty hunters in the Settled Systems."
-msgstr ""
+msgstr "이런, 자기. 이미 답을 알고 있으면서 그런 건 왜 묻는지 모르겠네. 우린 개척 성계에서 가장 뛰어난 현상금 사냥꾼들이라고."
 
 #. EDID = [FD00F53F]
 #. REC = INFO:NAM1
 msgctxt "00081D"
 msgid "Not someone whose bad side you want to find yourself on, believe me."
-msgstr ""
+msgstr "우리가 척을 짓고 싶진 않을 거야, 내 말 믿으라고."
 
 #. EDID = [FD00F541]
 #. REC = INFO:NAM1
@@ -22383,6 +22456,8 @@ msgid ""
 "There's always an Agent No. 1 leading the Trackers Alliance. And they're "
 "always completely anonymous. Sometimes chosen from our ranks, sometimes not."
 msgstr ""
+"추적자 동맹을 이끄는 대행인 1호란 직책은 지금껏 항상 있어 왔지. 그리고 그 정체는 절대 공개되지 않았고. 동료들 사이에서 선발되기도, "
+"외부 출신이 선발되기도 했어."
 
 #. EDID = [FD00F540]
 #. REC = INFO:NAM1
@@ -22391,6 +22466,8 @@ msgid ""
 "It's way better than the old HQ. That place was a dump: underground in the "
 "middle of nowhere. So glad Agent No. 1 decided to move it."
 msgstr ""
+"그 옛날 본부보다 훨씬 나아. 그곳은 완전 엉망이고 허허벌판 한 가운데 있는 지하 공간이었으니까. 대행인 1호가 그곳을 없애기로 해서 "
+"다행이야."
 
 #. EDID = [FD00F548]
 #. REC = INFO:NAM1
@@ -22398,7 +22475,7 @@ msgctxt "000820"
 msgid ""
 "Well, if you're a Tracker, then you've been there, right? That's where "
 "you're gonna find the good missions..."
-msgstr ""
+msgstr "이미 추적자라면 그곳에 가 보았겠지? 그곳에 가야 제대로 된 임무를 받을 수 있어..."
 
 #. EDID = [FD00F547]
 #. REC = INFO:NAM1
@@ -22408,6 +22485,8 @@ msgid ""
 "times myself. If you want to actually join the Trackers, it's the only place"
 " to do it."
 msgstr ""
+"아! 우리한테는 아킬라 시티에 새 본부가 생겼어. 좋은 곳이지. 나도 그곳에 직접 가 봤고. 혹시 정말 추적자가 되고 싶다면 그곳에서만 "
+"될 수 있단 걸 기억해 둬."
 
 #. EDID = [FD00332F]
 #. REC = INFO:NAM1
@@ -22463,13 +22542,13 @@ msgctxt "017119"
 msgid ""
 "Mission boards? Yeah, you'll find one here in the Broken Spear. They're "
 "usually in spaceport bars like that."
-msgstr "임무 단말기? 네, 브로큰 스피어에 가면 있어요. 보통 우주항에 있는 술집에 있지요."
+msgstr "임무 단말기? 그래, 브로큰 스피어에 가면 있어. 보통 우주항에 있는 술집에 있지."
 
 #. EDID = [00123A5F]
 #. REC = INFO:NAM1
 msgctxt "0175A0"
 msgid "Talk to me if you reckon you can hack it as a bounty hunter."
-msgstr "현상금 사냥꾼의 자질이 있는 사람에게만 말을 걸고."
+msgstr "현상금 사냥꾼의 자질이 있다고 생각되면 내게 말해 봐."
 
 #. EDID = [001D8C30]
 #. REC = INFO:NAM1
@@ -22477,7 +22556,7 @@ msgctxt "0175A2"
 msgid ""
 "Hey... Y'all better not be taking all the fun jobs yourself, y'hear? I'm "
 "almost done with this assignment, so you better leave some for me!"
-msgstr "이봐... 즐거운 임무를 혼자 독차지하지 마, 알았지? 이번 배치는 곧 끝날 것 같아. 남겨둬!"
+msgstr "이봐... 즐거운 임무를 혼자 독차지하지 마, 알았지? 이번 임무는 곧 끝날 것 같아. 나한테 줄 것도 남겨 둬!"
 
 #. EDID = [001D8C18]
 #. REC = INFO:NAM1
@@ -22489,13 +22568,13 @@ msgstr "'추적자 동맹'이란?"
 #. REC = INFO:NAM1
 msgctxt "01E3E7"
 msgid "And if I'm already a hunter? I need to join your little club?"
-msgstr "이미 현상금 사냥꾼이면요? 그쪽 단체에 가입해야 하는 건가요?"
+msgstr "이미 현상금 사냥꾼이면? 내가 그쪽 단체에 꼭 가입해야 하나?"
 
 #. EDID = [001D8C35]
 #. REC = INFO:NAM1
 msgctxt "020014"
 msgid "Oh darlin', we're the baddest bounty hunters in the Settled Systems."
-msgstr "그건 바로 개척성계 최고의 현상금 사냥꾼들의 모임이다!"
+msgstr "우리는 바로 개척 성계 최고의 현상금 사냥꾼들의 모임이야."
 
 #. EDID = [0030B867]
 #. REC = INFO:NAM1

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2024-07-30 13:08+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2024-07-31 08:43+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -965,7 +965,7 @@ msgid "$CommandModeFail_Moral"
 msgstr "할 수 없는 행동입니다."
 
 msgid "$Common"
-msgstr "'커먼'"
+msgstr "'초급'"
 
 msgid "$Companion"
 msgstr "동료"
@@ -2146,7 +2146,7 @@ msgid "$ExitSurvivalConfirmMessage"
 msgstr "정말 난이도를 낮추시겠습니까? 이후 이 캐릭터로는 다시 생존 모드를 선택해 플레이할 수 없습니다."
 
 msgid "$Exotic"
-msgstr "'엑조틱'"
+msgstr "'상급'"
 
 msgid "$EXPERIENCE"
 msgstr "경험치"
@@ -2236,13 +2236,13 @@ msgid "$FACTIONS"
 msgstr "세력"
 
 msgid "$Fanfare_Epic"
-msgstr "'에픽' 등급 아이템 획득함"
+msgstr "'특급' 등급 아이템 획득함"
 
 msgid "$Fanfare_Legendary"
-msgstr "'레전더리' 등급 아이템 획득함"
+msgstr "'전설' 등급 아이템 획득함"
 
 msgid "$Fanfare_Rare"
-msgstr "'레어' 등급 아이템 획득함"
+msgstr "'희귀' 등급 아이템 획득함"
 
 msgid "$Fanfare_SkillBook"
 msgstr "스킬 보너스 획득"
@@ -3184,13 +3184,13 @@ msgid "$ItemNameInvalid"
 msgstr "아이템 이름을 변경할 수 없습니다. 아이템 이름이 너무 길거나 잘못된 문자가 포함되어 있습니다."
 
 msgid "$ItemRarity_Epic"
-msgstr "'에픽'"
+msgstr "'특급'"
 
 msgid "$ItemRarity_Legendary"
-msgstr "'레전더리'"
+msgstr "'전설'"
 
 msgid "$ItemRarity_Rare"
-msgstr "'레어'"
+msgstr "'희귀'"
 
 msgid "$ItemRename"
 msgstr "아이템 이름 입력"
@@ -5102,7 +5102,7 @@ msgid "$RANK_UP"
 msgstr "랭크 올리기"
 
 msgid "$Rare"
-msgstr "'레어'"
+msgstr "'희귀'"
 
 msgid "$Rate"
 msgstr "평가"
@@ -7901,7 +7901,7 @@ msgid "$UNCATEGORIZED"
 msgstr "분류되지 않음"
 
 msgid "$Uncommon"
-msgstr "'언커먼'"
+msgstr "'하급'"
 
 msgid "$UNDO"
 msgstr "되돌리기"
@@ -7925,7 +7925,7 @@ msgid "$Unfollowing"
 msgstr "즐겨찾기 해제 중..."
 
 msgid "$Unique"
-msgstr "'유니크'"
+msgstr "'특급'"
 
 msgid "$UnitedColonies"
 msgstr "식민지 연합"
@@ -8252,13 +8252,13 @@ msgid "$WEAPONGROUPZERO"
 msgstr "무기 0번"
 
 msgid "$WeaponRarityAndType_Epic {0}"
-msgstr "'에픽' {0}"
+msgstr "'특급' {0}"
 
 msgid "$WeaponRarityAndType_Legendary {0}"
-msgstr "'레전더리' {0}"
+msgstr "'전설' {0}"
 
 msgid "$WeaponRarityAndType_Rare {0}"
-msgstr "'레어' {0}"
+msgstr "'희귀' {0}"
 
 msgid "$WEAPONS"
 msgstr "무기"

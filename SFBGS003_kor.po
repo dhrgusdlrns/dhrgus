@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-07-31 09:43+0000\n"
-"Last-Translator: secarnadia <ellwionsia@gmail.com>\n"
+"PO-Revision-Date: 2024-08-02 13:37+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -11026,7 +11026,7 @@ msgstr "만약 이게 네 인생에서 새 출발을 할 큰 기회라면?"
 #, fuzzy
 msgctxt "000125"
 msgid "How about this: if you walk away now, I let *you* live."
-msgstr "이건 어때, 지금 돌아서면 내가 *네* 목숨은 남겨줄게."
+msgstr "이건 어때, 지금 돌아서면 내가 *너의* 목숨은 살려줄게."
 
 #. EDID = [FD00B97A]
 #. REC = INFO:NAM1
@@ -12097,7 +12097,7 @@ msgstr "계속 어떤 기록 때문에 걱정하는 것 같은데, 그게 뭐지
 #. REC = INFO:NAM1
 msgctxt "0001CC"
 msgid "Let's rewind and try to start on the right foot. I'm <Alias=Player>."
-msgstr "다시 처음부터 시작해 보도록 하자. 내 이름은 <Alias=Player>(이)라고 한다."
+msgstr "다시 처음부터 시작해 보도록 하자. 내 이름은 <Alias=Player>인데 기억할 수 있겠지?"
 
 #. EDID = [FD004B8B]
 #. REC = INFO:NAM1
@@ -14560,7 +14560,7 @@ msgctxt "00032C"
 msgid ""
 "Turns out, he's stealin' so they can all just have a life. I get it. So I "
 "let 'em go. Far as the corpos know, he's dead."
-msgstr "알고 보니 먹고 살려고 물건을 훔치는 거였어. 난 이해했고, 녀석을 풀어 줬지. 기업 녀석들은 그가 죽은 줄 알겠지만."
+msgstr "알고 보니 먹고 살려고 물건을 훔치는 거였어. 난 이해했고, 녀석을 풀어 줬지. 기업 녀석들은 놈이 죽은 줄 알겠지만."
 
 #. EDID = [FD000E08]
 #. REC = INFO:NAM1
@@ -15361,13 +15361,13 @@ msgctxt "000395"
 msgid ""
 "Bloodhound's one of the old timers. He's good people, but I hear that wasn't"
 " always the case."
-msgstr ""
+msgstr "블러드하운드는 오래된 전설 중 하나지. 블러드하운드는 좋은 사람이지만, 항상 그렇지는 않다고 들었어."
 
 #. EDID = [FD004ACE]
 #. REC = INFO:NAM1
 msgctxt "000396"
 msgid "Can you tell me about Bloodhound?"
-msgstr ""
+msgstr "블러드하운드에 대해 얘기해줄 수 있어?"
 
 #. EDID = [FD004AAE]
 #. REC = INFO:NAM1
@@ -15377,6 +15377,8 @@ msgid ""
 "chained, and buried underneath an active volcano on the most distant moon of"
 " the most distant planet of the furthest star system."
 msgstr ""
+"대행인 1호는 마치 닫힌 책 같아. 그 책이 풀로 붙여지고, 죔쇠로 고정되고, 사슬로 묶인 후 가장 먼 항성계의 가장 먼 행성의 가장 먼 "
+"위성의 활화산 아래에 묻혀있다면 말이지."
 
 #. EDID = [FD004AAE]
 #. REC = INFO:NAM1
@@ -15384,7 +15386,7 @@ msgctxt "000398"
 msgid ""
 "That job comes with a giant target on your back, so the less people know, "
 "the better."
-msgstr ""
+msgstr "그 일은 거대한 과녁을 등에 짊어지고 다니는 꼴이나 다름없기 때문에, 사람들이 알지 못할수록 좋아."
 
 #. EDID = [FD004AAE]
 #. REC = INFO:NAM1
@@ -15393,7 +15395,7 @@ msgid ""
 "There's no story there. That's kind of the point with any Agent No. 1. You "
 "gotta give up your identity completely when you become leader of the "
 "Trackers."
-msgstr ""
+msgstr "사연 따위는 없어. 그게 대행인 1호의 핵심사항이지. 추적자 동맹의 지휘관이 되면 자신의 신분을 완전히 포기해야 해."
 
 #. EDID = [FD004B05]
 #. REC = INFO:NAM1
@@ -15403,6 +15405,8 @@ msgid ""
 " I pour such strong drinks that now they say it doesn't take any more than "
 "two shots to down a Tracker, so it stuck."
 msgstr ""
+"아이가 생기고 추적자를 은퇴하고 나면 금주할 줄 알았는데, 이제는 독한 술을 두 잔 마실 때마다 추적자를 쓰러뜨린다는 말이 나올 정도로 "
+"술독에 빠져서 살고 있지."
 
 #. EDID = [FD004BE6]
 #. REC = INFO:NAM1
@@ -15410,7 +15414,7 @@ msgctxt "00039B"
 msgid ""
 "Whatever you want, sunshine, as long as you've got a CredStik and a stomach "
 "that can handle it."
-msgstr ""
+msgstr "뭘 원하든, 형씨, 크레드스틱과 독한 술을 견딜 수 있는 위장만 있다면 뭐든 할 수 있어."
 
 #. EDID = [FD004BE4]
 #. REC = INFO:NAM1
@@ -15418,44 +15422,44 @@ msgctxt "00039C"
 msgid ""
 "I know it should go without saying, but don't drink and track. Trust me, "
 "I've seen it happen and it doesn't end well."
-msgstr ""
+msgstr "당연한 말이지만 술 마시고 수배범 추적하지 마. 내 말 믿어. 내가 그러다 일을 겪어봤고 끝이 좋지 않았거든."
 
 #. EDID = [FD004BE3]
 #. REC = INFO:NAM1
 msgctxt "00039D"
 msgid ""
 "I've got anything you need, provided what you need is some liquid courage."
-msgstr ""
+msgstr "술기운만 있다면 필요한 게 뭐든 할 준비가 돼 있지."
 
 #. EDID = [FD004BE0]
 #. REC = INFO:NAM1
 msgctxt "00039E"
 msgid "Sure thing, sunshine."
-msgstr ""
+msgstr "물론이지. 형씨."
 
 #. EDID = [FD004AB0]
 #. REC = INFO:NAM1
 msgctxt "00039F"
 msgid "Let's see what you've got behind that bar."
-msgstr ""
+msgstr "저 바 뒤에 뭐가 있는지 보자고."
 
 #. EDID = [FD004B06]
 #. REC = INFO:NAM1
 msgctxt "0003A0"
 msgid "Remind me not to get on your bad side, Terror. What can I get for you?"
-msgstr ""
+msgstr "네 심기를 건드리지 말라고 상기시켜줘. 테러. 뭐로 드릴까?"
 
 #. EDID = [FD004B76]
 #. REC = INFO:NAM1
 msgctxt "0003A1"
 msgid "Should I be going around giving out my name like that?"
-msgstr ""
+msgstr "그런 식으로 내 이름을 알려줘야 하나?"
 
 #. EDID = [FD004B2A]
 #. REC = INFO:NAM1
 msgctxt "0003A2"
 msgid "Call me Wraith."
-msgstr ""
+msgstr "레이스라고 불러."
 
 #. EDID = [FD004AC2]
 #. REC = INFO:NAM1
@@ -15463,7 +15467,7 @@ msgctxt "0003A3"
 msgid ""
 "Hey, as long as you don't leave my bar a disaster area, I'll call you "
 "whatever you want. So what can I get for you, Tempest?"
-msgstr ""
+msgstr "이봐, 내 바를 재난 지역으로 만들지만 않는다면 원하는 대로 불러줄게. 그래서 뭐로 드릴까? 템페스트?"
 
 #. EDID = [FD004B51]
 #. REC = INFO:NAM1
@@ -15471,25 +15475,25 @@ msgctxt "0003A4"
 msgid ""
 "Huh, I hope you do your haunting out there and not in here. Not that I mind "
 "the company. What can I get for you, Wraith?"
-msgstr ""
+msgstr "허, 푸닥거리는 여기서 하지 말고 밖에서 했으면 좋겠네. 같이 있는 건 상관없지만. 뭐로 드릴까? 레이스?"
 
 #. EDID = [FD004AA1]
 #. REC = INFO:NAM1
 msgctxt "0003A5"
 msgid "Call me Tempest."
-msgstr ""
+msgstr "템페스트라고 불러."
 
 #. EDID = [FD004BB4]
 #. REC = INFO:NAM1
 msgctxt "0003A6"
 msgid "Call me Shadow."
-msgstr ""
+msgstr "섀도우라고 불러."
 
 #. EDID = [FD004B65]
 #. REC = INFO:NAM1
 msgctxt "0003A7"
 msgid "Call me Raven."
-msgstr ""
+msgstr "레이븐이라고 불러."
 
 #. EDID = [FD004B3A]
 #. REC = INFO:NAM1
@@ -15497,13 +15501,13 @@ msgctxt "0003A8"
 msgid ""
 "Seems appropriate for a bright new star around here. Hopefully you live up "
 "to it. So what can I get for you, Nova?"
-msgstr ""
+msgstr "여기 새로 온 샛별다운 이름 같군. 기대에 부응하길 바라지. 뭐로 드릴까? 노바?"
 
 #. EDID = [FD004B19]
 #. REC = INFO:NAM1
 msgctxt "0003A9"
 msgid "Call me Nova."
-msgstr ""
+msgstr "노바라고 불러."
 
 #. EDID = [FD004AF4]
 #. REC = INFO:NAM1
@@ -15511,7 +15515,7 @@ msgctxt "0003AA"
 msgid ""
 "That's got kind of an old school noir flair to it. So what can I get for "
 "you, Nightstalker?"
-msgstr ""
+msgstr "옛날 느와르 느낌이 나네. 뭐로 드릴까? 나이트스토커?"
 
 #. EDID = [FD004AB2]
 #. REC = INFO:NAM1
@@ -15519,7 +15523,7 @@ msgctxt "0003AB"
 msgid ""
 "Mantis? Not like the Mantis though, right? You know what? Better to leave it"
 " a mystery. What can I get for you, Mantis?"
-msgstr ""
+msgstr "맨티스? 맨티스는 아니지? 그거 알아? 수수께끼로 남겨두는 게 좋겠어. 뭐로 드릴까? 맨티스?"
 
 #. EDID = [FD004BC5]
 #. REC = INFO:NAM1
@@ -15527,7 +15531,7 @@ msgctxt "0003AC"
 msgid ""
 "I sell drinks to wet your whistle, and other provisions you may need out "
 "there. So what'll it be?"
-msgstr ""
+msgstr "목을 축일 음료수나, 필요한 다른 식료품을 팔아. 뭐로 드릴까?"
 
 #. EDID = [FD004B79]
 #. REC = INFO:NAM1
@@ -15537,25 +15541,27 @@ msgid ""
 "Used to be a Tracker in the field like you. But I traded in gunslinging for "
 "slinging drinks."
 msgstr ""
+"내 매너는 어디 갔지! 사람들은 나를 투샷, 줄여서 투스라고 부르지. 예전엔 너처럼 현장에서 추적자로 일했어. 하지만 총질 대신 술잔을 "
+"던지는 일을 했지."
 
 #. EDID = [FD004AE5]
 #. REC = INFO:NAM1
 msgctxt "0003AE"
 msgid "Call me Bear."
-msgstr ""
+msgstr "베어라고 불러."
 
 #. EDID = [FD004BC3]
 #. REC = INFO:NAM1
 msgctxt "0003AF"
 msgid ""
 "Nah, same old face I've always had. That's not what you meant though, is it?"
-msgstr ""
+msgstr "아니, 내가 늘 하던 얼굴이잖아. 하지만 그런 뜻은 아니겠지?"
 
 #. EDID = [FD004A8B]
 #. REC = INFO:NAM1
 msgctxt "0003B0"
 msgid "If I felt he would do it, I would end him, but I wouldn't like it."
-msgstr ""
+msgstr "저 남자가 그럴 것 같으면 끝내버렸을 텐데, 그건 싫네."
 
 #. EDID = [FD004B8A]
 #. REC = INFO:NAM1
@@ -15563,14 +15569,14 @@ msgctxt "0003B1"
 msgid ""
 "Unfortunately, you gotta make these decisions fast, so I wouldn't want to "
 "hesitate too much. That's a good way to get yourself killed."
-msgstr ""
+msgstr "안타깝게도 이런 결정은 빨리 내려야 하니까 너무 망설이고 싶지 않아. 그건 스스로 죽는 방법일 테니까."
 
 #. EDID = [FD004B8A]
 #. REC = INFO:NAM1
 msgctxt "0003B2"
 msgid ""
 "I hear you. Don't want to be too hasty, but you gotta watch your own hide."
-msgstr ""
+msgstr "알겠어. 너무 서두르긴 싫지만, 몸조심해야 하니까."
 
 #. EDID = [FD004B63]
 #. REC = INFO:NAM1
@@ -17347,7 +17353,7 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "00051E"
 msgid "Nah, I'm good, Twosh."
-msgstr ""
+msgstr "아니, 난 괜찮아. 투스."
 
 #. EDID = [FD004BA5]
 #. REC = INFO:NAM1

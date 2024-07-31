@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-07-31 08:44+0000\n"
-"Last-Translator: singularity <eldergmg@gmail.com>\n"
+"PO-Revision-Date: 2024-07-31 09:43+0000\n"
+"Last-Translator: secarnadia <ellwionsia@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -15262,7 +15262,7 @@ msgid ""
 "Would you allow even a slim chance that they escape again? Even if they "
 "turned from their criminal path, would you deny their victims true justice?"
 msgstr ""
-"놈들이 다시 탈출하게 될 기회가 약간이라도 생긱는 것을 허용하겠는가? 그 범죄자들이 손을 씻는다 하더라도, 피해자들을 위한 진정한 정의를 "
+"놈들이 다시 탈출하게 될 기회가 약간이라도 생기는 것을 허용하겠는가? 그 범죄자들이 손을 씻는다 하더라도, 피해자들을 위한 진정한 정의를 "
 "거부할 텐가?"
 
 #. EDID = [FD004B86]
@@ -15273,6 +15273,8 @@ msgid ""
 "never done anyone here any harm, or even so much as let anyone down, he "
 "still gives me the creeps."
 msgstr ""
+"있지, 내가 불편하게 만들 정도면 꽤 심각한 거란 말이지. 이곳 사람들한테 전혀 해를 입히지도, 남을 깔보지도 않았지만... 여전히 "
+"보기만 해도 소름이 돋아."
 
 #. EDID = [FD004B86]
 #. REC = INFO:NAM1
@@ -15280,7 +15282,7 @@ msgctxt "00038A"
 msgid ""
 "Everyone says he must have seen - or done - some pretty terrible things. I "
 "don't have anything to go on but that."
-msgstr ""
+msgstr "저 친구가 무언가 아주 끔찍한 것들을 봤거나 직접 했다고 말하는데... 딱히 뭐라 말할 거리는 없어."
 
 #. EDID = [FD004B86]
 #. REC = INFO:NAM1
@@ -15322,18 +15324,20 @@ msgid ""
 "I know he's also run the Red Mile under his Tracker callsign, which may get "
 "him into trouble with someone someday, but it's his decision."
 msgstr ""
+"게다가 그 친구는 레드 마일에 도전할 때 추적자 호출 부호를 썼다고 해. 언젠가 그 일 때문에 큰 문제를 겪게 될 거야. 다 걔 "
+"선택이지만."
 
 #. EDID = [FD004BDC]
 #. REC = INFO:NAM1
 msgctxt "000391"
 msgid "He's a big teddy bear. Such a departure from the norm around here."
-msgstr ""
+msgstr "커다란 곰돌이 인형 같은 사람이야. 이곳 기준과는 완전 동떨어진 사람이지."
 
 #. EDID = [FD004BB0]
 #. REC = INFO:NAM1
 msgctxt "000392"
 msgid "What do you know about Tank?"
-msgstr ""
+msgstr "탱크에 관해 뭘 알고 있지?"
 
 #. EDID = [FD004AEF]
 #. REC = INFO:NAM1
@@ -15341,7 +15345,7 @@ msgctxt "000393"
 msgid ""
 "Quite a turn to go from an outlaw to someone who chases outlaws, but the "
 "skills transfer pretty well I imagine."
-msgstr ""
+msgstr "범죄자였다가 범죄자를 쫓는 사람이 되다니 큰 반전이지? 하지만 그 기술은 빠르게 습득했을 것 같아."
 
 #. EDID = [FD004AEF]
 #. REC = INFO:NAM1
@@ -15349,7 +15353,7 @@ msgctxt "000394"
 msgid ""
 "I can't say for sure, but based on some of the stories he used to tell, I "
 "think he was ex-Fleet. As in the Crimson Fleet."
-msgstr ""
+msgstr "자세히 말할 수 없지만, 말하는 내용에 의하면 전직 해적이었단 것 같아. 크림슨 함대 말이야."
 
 #. EDID = [FD004AEF]
 #. REC = INFO:NAM1

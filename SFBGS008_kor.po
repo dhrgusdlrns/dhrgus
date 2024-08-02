@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-26 16:17+0900\n"
-"PO-Revision-Date: 2024-07-04 03:49+0000\n"
+"PO-Revision-Date: 2024-08-03 16:37+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -218,7 +218,7 @@ msgstr "지크하트 장비점"
 # List: 0, EDID: CityMapMarkers_LegrandesLiquors, REC: REFR:FULL
 msgctxt "00002D"
 msgid "Legrande's Liquors"
-msgstr "레그란데 주류 판매점"
+msgstr "르그랑드 주류 판매점"
 
 # List: 0, EDID: CityMapMarkers_NeonTactical, REC: REFR:FULL
 msgctxt "00002E"

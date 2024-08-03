@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2024-08-01 16:37+0000\n"
+"PO-Revision-Date: 2024-08-04 11:56+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -1978,7 +1978,7 @@ msgid "$ELEMENTAL STATS"
 msgstr "원소 현황"
 
 msgid "$EliminateUnusedKeys"
-msgstr "필요 없는 복호화 키 제거"
+msgstr "필요 없는 암호 해독키 제거"
 
 msgid "$ELM"
 msgstr "ELM"
@@ -4375,7 +4375,7 @@ msgid "$NO_ITEM_EQUIPPED"
 msgstr "무기 미장착"
 
 msgid "$Nvidia_ReflexMode_LowLatencyWithBoost"
-msgstr "저지연+부스트"
+msgstr "저지연+부스터"
 
 msgid "$O2"
 msgstr "산소"
@@ -6041,7 +6041,7 @@ msgid "$SECURITYLEVEL"
 msgstr "보안도"
 
 msgid "$SecurityMenuConfirmEliminateUnusedKeys"
-msgstr "필요 없는 복호화 키를 제거하시겠습니까? 디지픽 1개를 소모합니다."
+msgstr "필요 없는 암호 해독키를 제거하시겠습니까? 디지픽 1개를 소모합니다."
 
 msgid "$SecurityMenuConfirmExit"
 msgstr "포기합니까? 재시도에는 디지픽이 소모됩니다."
@@ -6050,7 +6050,7 @@ msgid "$Security_CancelPick"
 msgstr "디지픽 취소"
 
 msgid "$Security_EliminateUnusedKeys"
-msgstr "필요 없는 복호화 키 제거"
+msgstr "필요 없는 암호 해독키 제거"
 
 msgid "$Security_Left"
 msgstr "왼쪽으로 회전"
@@ -7805,7 +7805,7 @@ msgid "$TOTAL PWR"
 msgstr "총 동력"
 
 msgid "$Total XP"
-msgstr "총 XP"
+msgstr "총 경험치"
 
 msgid "$TOTAL_DAMAGE"
 msgstr "피해"

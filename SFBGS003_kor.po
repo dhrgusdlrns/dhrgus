@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-08-02 13:37+0000\n"
+"PO-Revision-Date: 2024-08-04 11:57+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -790,8 +790,8 @@ msgid ""
 "case the banks failed. Rumor is, a member of the Trackers Alliance still "
 "accepts them."
 msgstr ""
-"아스트라는 나리온 전쟁 당시 일부가 은행이 파산했을 때를 대비해 만든 경화입니다. 소문에 따르면 추적자 동맹의 한 구성원은 여전히 "
-"아스트라를 받고 있다고 합니다."
+"아스트라는 나리온 전쟁 당시 일부 사람들이 은행이 파산했을 때를 대비해 만든 실물 경화입니다. 소문에 따르면 추적자 동맹의 한 구성원은 "
+"여전히 아스트라를 받고 있다고 합니다."
 
 #. EDID = LS_SFBGS003_TrackersHQ_MiscPointer01
 #. REC = LSCR:DESC
@@ -13305,7 +13305,7 @@ msgctxt "000274"
 msgid ""
 "As you can imagine, it's hard to find someone when you don't know their "
 "face, and can't find their base of operations."
-msgstr "잘 알겠지만 주요 아지트의 위치는 물론 얼굴조차 알 수 없는 사람을 찾기는 힘들지."
+msgstr "잘 알겠지만 주요 은신처의 위치는 물론 얼굴조차 알 수 없는 사람을 찾기는 힘들지."
 
 #. EDID = [FD006E7D]
 #. REC = INFO:NAM1

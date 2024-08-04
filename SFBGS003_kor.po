@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-08-04 11:57+0000\n"
+"PO-Revision-Date: 2024-08-04 13:17+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -13407,7 +13407,7 @@ msgctxt "000282"
 msgid ""
 "I am assigning another Tracker, Roach, to be your partner. You should speak "
 "with him for more details."
-msgstr "또 다른 추적자, 로치가 네 곁을 지키도록 하겠다. 추가 세부 사항에 관해서는 로치와 대화를 하도록."
+msgstr "또 다른 추적자, 로치가 네 곁을 지키도록 하겠다. 추가 세부사항에 관해서는 로치와 대화를 하도록."
 
 #. EDID = [FD00F526]
 #. REC = INFO:NAM1

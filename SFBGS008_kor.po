@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-26 16:17+0900\n"
-"PO-Revision-Date: 2024-08-03 16:37+0000\n"
+"PO-Revision-Date: 2024-08-04 11:56+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -188,7 +188,7 @@ msgstr "CJ 마트"
 # List: 0, EDID: CityMapMarker_Whetstone, REC: REFR:FULL
 msgctxt "000027"
 msgid "Whetstone"
-msgstr "웻스톤"
+msgstr "웨트스톤"
 
 # List: 0, EDID: CityMapMarker_TheWell01, REC: REFR:FULL
 msgctxt "000028"

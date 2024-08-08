@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-27 00:51+0900\n"
-"PO-Revision-Date: 2024-08-04 11:56+0000\n"
+"PO-Revision-Date: 2024-08-09 08:37+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -802,7 +802,7 @@ msgstr "감소"
 # List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:VOVS
 msgctxt "000090"
 msgid "{0}: Medical items restore the standard amount more slowly."
-msgstr "{0}: 의약품의 회복량은 기본 수치로 설정되지만 회복 속도가 느려집니다."
+msgstr "{0}: 의약품 회복량 기본, 회복 속도가 느려짐."
 
 # List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:RESN
 msgctxt "000091"
@@ -812,7 +812,7 @@ msgstr "보통"
 # List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:VOVS
 msgctxt "000092"
 msgid "{0}: Medical items restore the standard amount."
-msgstr "{0}: 의약품의 회복량이 기본 수치로 설정됩니다."
+msgstr "{0}: 의약품 회복량 기본."
 
 # List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:RESN
 msgctxt "000093"
@@ -822,7 +822,7 @@ msgstr "증가"
 # List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:VOVS
 msgctxt "000094"
 msgid "{0}: Medical items restore more."
-msgstr "{0}: 의약품의 회복량이 증가합니다."
+msgstr "{0}: 의약품 회복량 증가."
 
 # List: 0, EDID: PEO_GPO_MedicalItemHealing, REC: GPOF:DNAM
 msgctxt "000095"
@@ -912,7 +912,7 @@ msgctxt "0000A0"
 msgid ""
 "{0}: Environmental Damage and Afflictions are gained from hazards, weather, "
 "and ambiently on dangerous planets."
-msgstr "{0}: 위험 행성이나 위성의 환경 위험 요소, 날씨, 주변 환경으로 인해 환경 피해와 상태 이상이 발생합니다."
+msgstr "{0}: 위험 행성이나 위성의 환경 위험 요소, 날씨, 주변 환경으로 인해 환경 피해와 상태 이상이 발생."
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:RESN
 msgctxt "0000A3"
@@ -924,8 +924,7 @@ msgctxt "0000A4"
 msgid ""
 "{0}: Environmental Damage and Afflictions are gained from hazards. "
 "Afflictions are gained from weather."
-msgstr ""
-"{0}: 위험 행성이나 위성의 환경 위험 요소로 인해 환경 피해가 발생합니다. 위험 행성이나 위성의 날씨로 인해 상태 이상이 발생합니다."
+msgstr "{0}: 위험 행성이나 위성의 환경 위험 요소로 인해 환경 피해가 발생. 위험 행성이나 위성의 날씨로 인해 상태 이상이 발생."
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:RESN
 msgctxt "0000A5"
@@ -936,7 +935,7 @@ msgstr "끔"
 msgctxt "0000A6"
 msgid ""
 "{0}: No Environmental Damage or Afflictions are gained from the environment."
-msgstr "{0}: 위험 행성이나 위성의 환경으로 인해 환경 피해와 상태 이상이 발생하지 않습니다."
+msgstr "{0}: 위험 행성이나 위성의 환경으로 인해 환경 피해와 상태 이상이 발생하지 않음."
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamage, REC: GPOF:DNAM
 msgctxt "0000A7"
@@ -1094,7 +1093,7 @@ msgstr "함선 안에서만"
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:VOVS
 msgctxt "0000BC"
 msgid "{0}: Access your ship's cargo only while inside the ship."
-msgstr "{0}: 함선 안에 있을 때만 함선 화물칸에 적재할 수 있다."
+msgstr "{0}: 함선 안에 있을 때만 함선 화물칸에 적재 가능."
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:RESN
 msgctxt "0000BD"
@@ -1104,7 +1103,7 @@ msgstr "보통"
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:VOVS
 msgctxt "0000BE"
 msgid "{0}: Access your ship's cargo only while near the ship."
-msgstr "{0}: 함선 근처에 있을 때만 함선 화물칸에 적재할 수 있다."
+msgstr "{0}: 함선 근처에 있을 때만 함선 화물칸에 적재 가능."
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:RESN
 msgctxt "0000BF"
@@ -1114,7 +1113,7 @@ msgstr "제한된 장소에서만"
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:VOVS
 msgctxt "0000C0"
 msgid "{0}: Access your ship's cargo while in outposts or settlements."
-msgstr "{0}: 전초기지, 정착지 안에 있을 때만 함선 화물칸에 적재할 수 있다."
+msgstr "{0}: 전초기지, 정착지 안에 있을 때만 함선 화물칸에 적재 가능."
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:RESN
 msgctxt "0000C1"
@@ -1124,7 +1123,7 @@ msgstr "어디서든"
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:VOVS
 msgctxt "0000C2"
 msgid "{0}: Access your ship's cargo from any distance."
-msgstr "{0}: 지표면 어디서든 함선 화물칸에 적재할 수 있다."
+msgstr "{0}: 지표면 어디서든 함선 화물칸에 적재 가능."
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:DNAM
 msgctxt "0000C3"

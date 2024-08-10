@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-27 00:51+0900\n"
-"PO-Revision-Date: 2024-05-26 15:51+0000\n"
+"PO-Revision-Date: 2024-08-11 16:37+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ko\n"
+"Language: kor\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2014,37 +2014,37 @@ msgstr "화장실"
 #. REC = FURN:FULL
 msgctxt "0070CC"
 msgid "Pilot Seat"
-msgstr "조종실"
+msgstr "조종석"
 
 #. EDID = PilotSeatHopeTech
 #. REC = FURN:FULL
 msgctxt "0070CD"
 msgid "Pilot Seat"
-msgstr "조종실"
+msgstr "조종석"
 
 #. EDID = PilotSeatDeimos
 #. REC = FURN:FULL
 msgctxt "0070CE"
 msgid "Pilot Seat"
-msgstr "조종실"
+msgstr "조종석"
 
 #. EDID = PilotSeatStroud
 #. REC = FURN:FULL
 msgctxt "0070DC"
 msgid "Pilot Seat"
-msgstr "조종실"
+msgstr "조종석"
 
 #. EDID = PilotSeatFurniture
 #. REC = FURN:FULL
 msgctxt "00711D"
 msgid "Pilot Seat"
-msgstr "조종실"
+msgstr "조종석"
 
 #. EDID = PilotSeatStarborn
 #. REC = FURN:FULL
 msgctxt "0309D3"
 msgid "Pilot Seat"
-msgstr "조종실"
+msgstr "조종석"
 
 #. EDID = ShipPI_SMOD_Hab_Nova_Frontier_2L1W1H_A
 #. REC = PKIN:FULL

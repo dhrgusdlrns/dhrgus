@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-08-10 15:37+0000\n"
+"PO-Revision-Date: 2024-08-11 18:37+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -12813,7 +12813,7 @@ msgid ""
 " I can keep an eye on our good buddy Adrastos. Let's wrap this one up nice "
 "and quick."
 msgstr ""
-"함선은 우주항에 착륙되어 있어. 너는 조종사 자리에 앉으라고, 나는 우리 친구 아드라스토스를 지켜볼 테니. 이 일을 깔끔하게 해결해 보자."
+"함선은 우주항에 착륙되어 있어. 너는 조종석에 앉으라고, 나는 우리 친구 아드라스토스를 지켜볼 테니. 이 일을 깔끔하게 해결해 보자."
 
 #. EDID = [FD005A9A]
 #. REC = INFO:NAM1
@@ -16560,7 +16560,7 @@ msgstr "그럴 줄 알았어."
 #. REC = INFO:NAM1
 msgctxt "00043E"
 msgid "Thanks. I'll be there."
-msgstr "고마워. 갈게."
+msgstr "고마워. 거기로 가볼게."
 
 #. EDID = [FD000031]
 #. REC = INFO:NAM1
@@ -16656,13 +16656,13 @@ msgctxt "00044C"
 msgid ""
 "While I would hope that you'd seriously consider our offer, it doesn't "
 "matter to me."
-msgstr "난 진지하게 우리의 제안을 고려해 주길 바라지만, 나한테는 큰 의미가 없지."
+msgstr "진지하게 우리의 제안을 고려해 주면 좋겠지만, 사실 나하고는 상관없지."
 
 #. EDID = [FD00008F]
 #. REC = INFO:NAM1
 msgctxt "00044D"
 msgid "What if you do?"
-msgstr "만일 당신이 그렇다면?"
+msgstr "뭐라고 대답할 건데?"
 
 #. EDID = [FD00E28C]
 #. REC = INFO:NAM1
@@ -22262,7 +22262,7 @@ msgctxt "0007E6"
 msgid ""
 "But until then, there's really no need for me to share that information with"
 " you."
-msgstr "어쨌든 그때 전까진 네게 그 정보를 알려 줄 필요는 없지."
+msgstr "어쨌든, 그때 전까진 네게 그 정보를 알려 줄 필요는 없지."
 
 #. EDID = [FD000080]
 #. REC = INFO:NAM1
@@ -22313,13 +22313,13 @@ msgstr "드디어 이렇게 만나 기쁘네."
 #. REC = INFO:NAM1
 msgctxt "0007EE"
 msgid "A proposal? No thanks, I'm already happily married."
-msgstr "제안이라면... 프로포즈? 됐어. 난 이미 결혼한 몸이라고."
+msgstr "제안이라면... 설마 프로포즈? 됐어. 난 이미 결혼한 몸이라고."
 
 #. EDID = [FD00001D]
 #. REC = INFO:NAM1
 msgctxt "0007EF"
 msgid "A proposal? Me? But I don't even know you."
-msgstr "내가 프로포즈를? 난 네가 누군지도 모르는걸."
+msgstr "내게 프로포즈라도 하게? 난 네가 누군지도 모르는걸."
 
 #. EDID = [FD00E2A0]
 #. REC = INFO:NAM1
@@ -22341,8 +22341,8 @@ msgid ""
 "what it takes to join our ranks. You're being invited to our new "
 "headquarters in Akila City."
 msgstr ""
-"추적자 동맹은 그동안 네가 여러 위업을 달성한 것을 관찰해 왔고 이제 우리의 동료가 될 능력이 있다고 생각한다. 아킬라 시티에 있는 "
-"우리의 새 본부에 초대하고 싶어 온 것이다."
+"추적자 동맹은 그동안 네가 여러 위업을 달성한 것을 관찰해 왔고 이제 우리의 동료가 될 능력이 있다고 생각했어. 아킬라 시티에 있는 "
+"우리의 새 본부에 초대하고 싶어 온 거야."
 
 #. EDID = [FD00008E]
 #. REC = INFO:NAM1
@@ -22350,7 +22350,7 @@ msgctxt "0007F3"
 msgid ""
 "There, you'll meet with Agent No. 1. If you decide to consider our offer, "
 "they'll guide you through our initiation process."
-msgstr "그곳에서 대행인 1호를 만나 우리의 제안을 받아들일 것인지 결정하게 될 거다. 나머지 가입 절차는 그 후에 안내해 줄 거야."
+msgstr "그곳에서 대행인 1호를 만나 우리의 제안을 받아들일 것인지 결정하게 되겠지. 나머지 가입 절차는 그 후에 안내해 줄 거야."
 
 #. EDID = [FD000084]
 #. REC = INFO:NAM1
@@ -22358,7 +22358,7 @@ msgctxt "0007F4"
 msgid ""
 "Listen to what I have to say before you walk away from this opportunity "
 "forever. It won't be offered again."
-msgstr "등을 돌려 떠나기 전에 내 말부터 들어, 이번 기회를 영영 잃게 될 테니. 다신 제안하지도 않을 테니까."
+msgstr "등을 돌려 떠나기 전에 내 말부터 들어. 이번 기회를 영영 잃게 될 테니. 다신 제안하지도 않을 테니까."
 
 #. EDID = [FD00F521]
 #. REC = INFO:NAM1

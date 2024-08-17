@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-26 16:17+0900\n"
-"PO-Revision-Date: 2024-07-18 04:14+0000\n"
+"PO-Revision-Date: 2024-08-18 18:37+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -413,7 +413,7 @@ msgstr "롱소드"
 # List: 0, EDID: Freighter_B_Deimos_Bireme01_Template, REC: GBFM:FULL
 msgctxt "007AE8"
 msgid "Bireme"
-msgstr "비레메"
+msgstr "바이림"
 
 # List: 0, EDID: Explorer_A_Stroud_Galileo01_Template, REC: GBFM:FULL
 msgctxt "007AEF"
@@ -620,7 +620,7 @@ msgstr "폴리스 II"
 # List: 0, EDID: Freighter_B_Deimos_Bireme02_Template, REC: GBFM:FULL
 msgctxt "02FA0B"
 msgid "Bireme II"
-msgstr "비레메 II"
+msgstr "바이림 II"
 
 # List: 0, EDID: Destroyer_B_Taiyo_Falcon03_Template, REC: GBFM:FULL
 msgctxt "02FA0D"

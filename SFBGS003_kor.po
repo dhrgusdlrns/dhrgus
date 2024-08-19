@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-08-18 18:37+0000\n"
+"PO-Revision-Date: 2024-08-20 14:37+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -18732,7 +18732,7 @@ msgctxt "0005E3"
 msgid ""
 "Gah... ugh... *cough* You take 'shoot first ask questions later' pretty "
 "seriously..."
-msgstr "으악... 으윽... *기침* '선 발사 후 심문' 같은 말을 꽤 심각하게 받아들이는구만..."
+msgstr "으악... 으윽... *기침* '선 발사 후 심문' 같은 말을 꽤 심각하게 받아들이는구먼..."
 
 #. EDID = [FD005A96]
 #. REC = INFO:NAM1

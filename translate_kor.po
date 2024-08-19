@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2024-08-18 16:37+0000\n"
+"PO-Revision-Date: 2024-08-20 10:37+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -196,8 +196,9 @@ msgstr "체포"
 msgid "$ASCENDING"
 msgstr "상승"
 
+#, fuzzy
 msgid "$Assign"
-msgstr "할당"
+msgstr "배치"
 
 msgid "$ASSIGN CREW"
 msgstr "승무원 배치"
@@ -7543,8 +7544,9 @@ msgstr "환경 조사"
 msgid "$SURVEY LEVEL INCREASED"
 msgstr "환경 조사 레벨 오름"
 
+#, fuzzy
 msgid "$SURVEYED"
-msgstr "환경 조사"
+msgstr "환경 조사 완료"
 
 msgid "$SURVEYOR"
 msgstr "조사자"

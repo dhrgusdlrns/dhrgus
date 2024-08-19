@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-27 00:51+0900\n"
-"PO-Revision-Date: 2024-08-11 16:37+0000\n"
+"PO-Revision-Date: 2024-08-20 12:37+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -428,7 +428,7 @@ msgstr "스트라우드 의무실 빈칸 2x1"
 #. REC = GBFM:FULL
 msgctxt "00030B"
 msgid "Stroud Battle Stations 2x2"
-msgstr "스트라우드 전투지휘실 2x2"
+msgstr "스트라우드 전투지휘실 빈칸 2x2"
 
 # GBFM:FULL
 msgctxt "00030C"
@@ -445,7 +445,7 @@ msgstr "스트라우드 다목적실 빈칸 2x1 B"
 #. REC = GBFM:FULL
 msgctxt "00030E"
 msgid "Stroud Cargo Hall 2x2"
-msgstr "스트라우드 화물실 2x2"
+msgstr "스트라우드 화물실 빈칸 2x2"
 
 #. EDID = SMS_Hab_Taiyo_MessHall_Empty_3L2W1H_Top_A
 #. REC = GBFM:FULL
@@ -463,7 +463,7 @@ msgstr "스트라우드 컴퓨터 코어 빈칸 2x1"
 #. REC = GBFM:FULL
 msgctxt "000311"
 msgid "Stroud Computer Core 2x2"
-msgstr "스트라우드 컴퓨터 코어 2x2"
+msgstr "스트라우드 컴퓨터 코어 빈칸 2x2"
 
 #. EDID = SMS_Hab_Stroud_Control_Empty_2L1W1H_A
 #. REC = GBFM:FULL

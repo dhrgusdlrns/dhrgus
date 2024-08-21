@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2024-08-20 10:37+0000\n"
+"PO-Revision-Date: 2024-08-22 03:58+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -5877,7 +5877,7 @@ msgid "$SB_LIMITHEADER_MIN_ENGINE"
 msgstr "최소 엔진 개수"
 
 msgid "$SB_LIMITHEADER_MIN_FUEL_TANK"
-msgstr "최소 연로 탱크 개수"
+msgstr "최소 연료 탱크 개수"
 
 msgid "$SB_LIMITHEADER_MIN_LANDING_GEAR"
 msgstr "최소 착륙 장치 개수"
@@ -6780,7 +6780,7 @@ msgid "$ShipHUD_Cancel_Cancel"
 msgstr "취소"
 
 msgid "$ShipHUD_Down"
-msgstr "시스템 동력 감소"
+msgstr "하위 시스템 동력 감소"
 
 msgid "$ShipHUD_Left"
 msgstr "이전 시스템"
@@ -6798,13 +6798,13 @@ msgid "$ShipHUD_Right"
 msgstr "다음 시스템"
 
 msgid "$ShipHUD_SelectTarget"
-msgstr "목표 선택"
+msgstr "대상 선택"
 
 msgid "$ShipHUD_SHMonocle"
 msgstr "스캐너 열기"
 
 msgid "$ShipHUD_SwitchFlightModes"
-msgstr "추력기 비행 모드 변경"
+msgstr "비행 모드 변경 (측면 추력기 작동)"
 
 msgid "$ShipHUD_TogglePOV"
 msgstr "시점 변경"

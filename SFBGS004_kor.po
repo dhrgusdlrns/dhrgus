@@ -1,350 +1,364 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-23 00:19+0900\n"
+"PO-Revision-Date: 2024-08-22 15:19+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: kor\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
+
+#
 
 # List: 0, EDID: SMSSet_Vehicle_Nova_REV8, REC: FLST:FULL
 msgctxt "000001"
 msgid "Vehicle REV-8 Module Set"
-msgstr ""
+msgstr "차량 REV-8 모듈 세트"
 
 # List: 0, EDID: SMS_Vehicle_Nova_REV8_Top, REC: GBFM:FULL
 msgctxt "0001F1"
 msgid "REV-8"
-msgstr ""
+msgstr "REV-8"
 
 # List: 0, EDID: Category_ShipMod_Vehicle, REC: KYWD:FULL
 msgctxt "000208"
 msgid "Vehicles"
-msgstr ""
+msgstr "차량"
 
 # List: 0, EDID: VehicleDriverDamageReductionFactor_AV, REC: AVIF:FULL
 msgctxt "000249"
 msgid "Armor"
-msgstr ""
+msgstr "방어구"
 
 # List: 0, EDID: VehicleDriverPerk, REC: PERK:FULL
 msgctxt "00024B"
 msgid "Vehicle Driver Perk"
-msgstr ""
+msgstr "차량 운전자 특성"
 
 # List: 0, EDID: SFBGS004_RoverWeaponProjectile, REC: PROJ:FULL
 msgctxt "00025D"
 msgid "LaserProjectile"
-msgstr ""
+msgstr "LaserProjectile"
 
 # List: 0, EDID: Rev8_MountedLaser, REC: WEAP:WABB
 msgctxt "00025E"
 msgid "LAS"
-msgstr ""
+msgstr "레이저"
 
 # List: 0, EDID: Rev8_MountedLaser, REC: WEAP:FULL
 msgctxt "00025F"
 msgid "Rev8 Laser"
-msgstr ""
+msgstr "Rev8 레이저"
 
 # List: 0, EDID: Rev8, REC: FURN:ATTX
 msgctxt "000260"
 msgid "Drive"
-msgstr ""
+msgstr "탑승"
 
 # List: 0, EDID: Rev8, REC: FURN:FULL
 msgctxt "000261"
 msgid "REV-8"
-msgstr ""
+msgstr "REV-8"
 
 # List: 0, EDID: ShipPI_SMOD_Vehicle_Nova_REV8_Top, REC: PKIN:FULL
 msgctxt "000262"
 msgid "REV-8"
-msgstr ""
+msgstr "REV-8"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:SNAM
 msgctxt "000263"
 msgid "Humans"
-msgstr ""
+msgstr "Humans"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000264"
 msgid "Forehead"
-msgstr ""
+msgstr "이마"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000265"
 msgid "Eyes"
-msgstr ""
+msgstr "눈 모양"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000266"
 msgid "Eyebrows"
-msgstr ""
+msgstr "눈썹 모양"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000267"
 msgid "Ears"
-msgstr ""
+msgstr "귀"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000268"
 msgid "Nose"
-msgstr ""
+msgstr "코"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000269"
 msgid "Cheeks"
-msgstr ""
+msgstr "뺨"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "00026A"
 msgid "Mouth"
-msgstr ""
+msgstr "입"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "00026B"
 msgid "Jaw"
-msgstr ""
+msgstr "턱"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "00026C"
 msgid "Chin"
-msgstr ""
+msgstr "턱끝"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "00026D"
 msgid "Neck"
-msgstr ""
+msgstr "목"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "00026E"
 msgid "Head Shapes"
-msgstr ""
+msgstr "두상 및 얼굴형"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "00026F"
 msgid "female_as_yo1"
-msgstr ""
+msgstr "female_as_yo1"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000270"
 msgid "female_eu_yo1"
-msgstr ""
+msgstr "female_eu_yo1"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000271"
 msgid "female_af_ol1"
-msgstr ""
+msgstr "female_af_ol1"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000272"
 msgid "female_af_yo1"
-msgstr ""
+msgstr "female_af_yo1"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000273"
 msgid "female_as_ol1"
-msgstr ""
+msgstr "female_as_ol1"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000274"
 msgid "female_af_md1"
-msgstr ""
+msgstr "female_af_md1"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000275"
 msgid "female_as_md1"
-msgstr ""
+msgstr "female_as_md1"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000276"
 msgid "female_eu_ol1"
-msgstr ""
+msgstr "female_eu_ol1"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000277"
 msgid "female_eu_md2"
-msgstr ""
+msgstr "female_eu_md2"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000278"
 msgid "Chin"
-msgstr ""
+msgstr "턱끝"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000279"
 msgid "Cheeks"
-msgstr ""
+msgstr "뺨"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "00027A"
 msgid "Eyebrows"
-msgstr ""
+msgstr "눈썹 모양"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "00027B"
 msgid "Forehead"
-msgstr ""
+msgstr "이마"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "00027C"
 msgid "Neck"
-msgstr ""
+msgstr "목"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "00027D"
 msgid "Head Shapes"
-msgstr ""
+msgstr "두상 및 얼굴형"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "00027E"
 msgid "male_as_yo1"
-msgstr ""
+msgstr "male_as_yo1"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "00027F"
 msgid "male_as_ol1"
-msgstr ""
+msgstr "male_as_ol1"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000280"
 msgid "male_af_yo1"
-msgstr ""
+msgstr "male_af_yo1"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000281"
 msgid "male_af_ol1"
-msgstr ""
+msgstr "male_af_ol1"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000282"
 msgid "Jaw"
-msgstr ""
+msgstr "턱"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000283"
 msgid "Nose"
-msgstr ""
+msgstr "코"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000284"
 msgid "Eyes"
-msgstr ""
+msgstr "눈 모양"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000285"
 msgid "Ears"
-msgstr ""
+msgstr "귀"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000286"
 msgid "Mouth"
-msgstr ""
+msgstr "입"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000287"
 msgid "male_eu_yo1"
-msgstr ""
+msgstr "male_eu_yo1"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000288"
 msgid "male_eu_ol1"
-msgstr ""
+msgstr "male_eu_ol1"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "000289"
 msgid "male_eu_md2"
-msgstr ""
+msgstr "male_eu_md2"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "00028A"
 msgid "male_af_md1"
-msgstr ""
+msgstr "male_af_md1"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FMRN
 msgctxt "00028B"
 msgid "male_as_md1"
-msgstr ""
+msgstr "male_as_md1"
 
 # List: 0, EDID: SFBGS004_HumanRace, REC: RACE:FULL
 msgctxt "00028C"
 msgid "Human"
-msgstr ""
+msgstr "Human"
 
 # List: 0, EDID: LS_Vehicle03, REC: LSCR:DESC
 msgctxt "00028D"
 msgid ""
 "You can purchase access to and manage your vehicles by talking with a Ship "
 "Services Tech at any port."
-msgstr ""
+msgstr "우주항에 있는 함선 서비스 기술자와 상담하여 차량에 대한 이용 권한을 구매하고 관리할 수 있습니다."
 
 # List: 0, EDID: LS_Vehicle02, REC: LSCR:DESC
 msgctxt "00028E"
 msgid ""
 "When lining up a shot in a vehicle, Aim Mode utilizes O2 to slow time "
 "temporarily."
-msgstr ""
+msgstr "차량에서 사격할 때 조준 모드를 켜면 산소를 소모하여 일시적으로 시간이 느리게 흐르도록 할 수 있습니다."
 
 # List: 0, EDID: LS_Vehicle01, REC: LSCR:DESC
 msgctxt "00028F"
 msgid ""
 "You can upgrade the REV-8's turret by investing in Lasers, Heavy Weapon, and"
 " Demolitions skills."
-msgstr ""
+msgstr "레이저 자격 인증, 중화기 자격 인증, 폭파술 스킬을 올리면 REV-8의 포탑을 업그레이드할 수 있습니다."
 
 # List: 0, EDID: LS_Vehicle07, REC: LSCR:DESC
 msgctxt "000290"
 msgid ""
 "Tailor a vehicle's driving characteristics to your taste in the Settings "
 "Menu."
-msgstr ""
+msgstr "설정 메뉴에서 차량 조종 방식을 취향에 맞게 변경할 수 있습니다."
 
 # List: 0, EDID: LS_Vehicle06, REC: LSCR:DESC
 msgctxt "000291"
 msgid ""
 "You can customize a vehicle's paint job in the Vehicle Hangar, accessible by"
 " talking with any Ship Services Tech."
-msgstr ""
+msgstr "함선 서비스 기술자에게 말을 걸어 내 차량을 확인하고 도색을 변경할 수 있습니다."
 
 # List: 0, EDID: LS_Vehicle05, REC: LSCR:DESC
 msgctxt "000292"
 msgid ""
 "Utilize a vehicle's vertical and forward boosters to hop over obstacles and "
 "navigate complex environments."
-msgstr ""
+msgstr "차량의 도약 부스터 및 돌진 부스터를 활용하여 장애물을 뛰어넘으며 복잡한 환경을 탐색할 수 있습니다."
 
 # List: 0, EDID: LS_Vehicle04, REC: LSCR:DESC
 msgctxt "000293"
 msgid ""
 "Driving a vehicle through a crowded city is frowned upon by local "
 "authorities. And Sarah."
-msgstr ""
+msgstr "군중이 있는 도시에서 차량을 운전하면 당국의 눈살을 찌푸리게 만들 것입니다. 그리고 사라도요."
 
 # List: 0, EDID: sVehicleObstructedCannotExit, REC: GMST:DATA
 msgctxt "000294"
 msgid "Vehicle exit is obstructed."
-msgstr ""
+msgstr "공간이 없어 차량에서 하차할 수 없습니다."
 
 # List: 0, EDID: sNoFastTravelWhileDriving, REC: GMST:DATA
 msgctxt "000295"
 msgid "You cannot fast travel here while driving."
-msgstr ""
+msgstr "이곳에서 운전 중에는 빠른 이동을 할 수 없습니다."
 
 # List: 0, EDID: HelpVehicle, REC: MESG:NNAM
 msgctxt "000296"
 msgid "Vehicle"
-msgstr ""
+msgstr "차량"
 
 # List: 0, EDID: HelpVehicle, REC: MESG:FULL
 msgctxt "000297"
 msgid "Vehicle"
-msgstr ""
+msgstr "차량"
 
 # List: 0, EDID: sMiscStatLongVehicleJumps, REC: GMST:DATA
+#, fuzzy
 msgctxt "000299"
 msgid "Sweet Jumps"
-msgstr ""
+msgstr "Sweet Jumps"
 
 # List: 0, EDID: sNotAllowedToUseAutoDoorsWhileInVehicle, REC: GMST:DATA
 msgctxt "00029A"
 msgid "Exit vehicle before going through door."
-msgstr ""
+msgstr "문을 지나가려면 먼저 차량에서 하차하세요."
 
 # List: 0, EDID: sWorkshopBeaconPlacement_InVehicle, REC: GMST:DATA
 msgctxt "00029B"
@@ -356,65 +370,65 @@ msgstr ""
 # REC: GMST:DATA
 msgctxt "00029C"
 msgid "VehiclePassengerVerticalCollisionLowVelocity"
-msgstr ""
+msgstr "VehiclePassengerVerticalCollisionLowVelocity"
 
 # List: 0, EDID:
 # sTopicSubtypeTextMiscellaneousVehiclePassengerHorizontalCollision, REC:
 # GMST:DATA
 msgctxt "00029D"
 msgid "VehiclePassengerHorizontalCollision"
-msgstr ""
+msgstr "VehiclePassengerHorizontalCollision"
 
 # List: 0, EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEnterVehicle,
 # REC: GMST:DATA
 msgctxt "00029E"
 msgid "VehiclePassengerEnterVehicle"
-msgstr ""
+msgstr "VehiclePassengerEnterVehicle"
 
 # List: 0, EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEngageBoost,
 # REC: GMST:DATA
 msgctxt "00029F"
 msgid "VehiclePassengerEngageBoost"
-msgstr ""
+msgstr "VehiclePassengerEngageBoost"
 
 # List: 0, EDID:
 # sTopicSubtypeTextMiscellaneousVehiclePassengerVerticalCollision, REC:
 # GMST:DATA
 msgctxt "0002A0"
 msgid "VehiclePassengerVerticalCollision"
-msgstr ""
+msgstr "VehiclePassengerVerticalCollision"
 
 # List: 0, EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEnterWater,
 # REC: GMST:DATA
 msgctxt "0002A1"
 msgid "VehiclePassengerEnterWater"
-msgstr ""
+msgstr "VehiclePassengerEnterWater"
 
 # List: 0, EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerNonMovingIdle,
 # REC: GMST:DATA
 msgctxt "0002A2"
 msgid "VehiclePassengerNonMovingIdle"
-msgstr ""
+msgstr "VehiclePassengerNonMovingIdle"
 
 # List: 0, EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerTriggerMine,
 # REC: GMST:DATA
 msgctxt "0002A3"
 msgid "VehiclePassengerTriggerMine"
-msgstr ""
+msgstr "VehiclePassengerTriggerMine"
 
 # List: 0, EDID:
 # sTopicSubtypeTextMiscellaneousVehiclePassengerAimMountedWeapon, REC:
 # GMST:DATA
 msgctxt "0002A4"
 msgid "VehiclePassengerAimMountedWeapon"
-msgstr ""
+msgstr "VehiclePassengerAimMountedWeapon"
 
 # List: 0, EDID:
 # sTopicSubtypeTextMiscellaneousVehiclePassengerKillWithCollision, REC:
 # GMST:DATA
 msgctxt "0002A5"
 msgid "VehiclePassengerKillWithCollision"
-msgstr ""
+msgstr "VehiclePassengerKillWithCollision"
 
 # List: 0, EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerKillWithWeapon,
 # REC: GMST:DATA

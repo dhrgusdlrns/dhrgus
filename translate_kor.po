@@ -97,6 +97,9 @@ msgstr "유효 상금"
 msgid "$ACTIVE_EFFECTS"
 msgstr "활성 효과"
 
+msgid "$$ACTIVE_VEHICLE"
+msgstr "활성화"
+
 msgid "$Activity"
 msgstr "활동"
 
@@ -1448,6 +1451,12 @@ msgstr "배경음악 끄기"
 msgid "$CreationsUnableToConnectChangeLoadOrder"
 msgstr "Bethesda.net 서버에 연결할 수 없습니다. 불러오기 순서를 편집하시겠습니까?"
 
+msgid "$CreationsVisitStore_Microsoft"
+msgstr "마이크로소프트 스토어 방문"
+
+msgid "$CreationsVisitStore_Steam"
+msgstr "스팀 스토어 방문"
+
 msgid "$Creations_CC_Content_LoadOrder_Desc"
 msgstr "크리에이션 클럽 콘텐츠는 항상 다른 크리에이션 모드보다 먼저 불러오기되며, 비활성화할 수 없습니다."
 
@@ -1462,6 +1471,9 @@ msgstr ""
 "크리에이션 클럽은 Bethesda Games Studios와 최고의 커뮤니티 크리에이터들을 포함한 외부 개발 파트너들이 만든 새로운 "
 "아이템, 능력, 게임플레이를 즐길 수 있는 공간입니다. 크리에이션 클럽 콘텐츠는 완전히 감독된 콘텐츠이며, 정식 게임 본편, 공식 추가 "
 "콘텐츠 및 트로피와 호환됩니다."
+
+msgid "$CreationPriceChange"
+msgstr "가격이 변경되었습니다. 다시 시도해주세요."
 
 msgid "$Creations_Credits_500"
 msgstr "스타필드 크리에이션 크레딧 - 500"
@@ -2031,6 +2043,9 @@ msgstr "지구력"
 
 msgid "$ENERGY"
 msgstr "에너지"
+
+msgid "$ENERGY DAMAGE"
+msgstr "에너지 피해"
 
 msgid "$ENG"
 msgstr "엔진"
@@ -4675,6 +4690,9 @@ msgstr "신체"
 msgid "$PHYSICAL"
 msgstr "신체"
 
+msgid "$PHYSICAL DAMAGE"
+msgstr "물리 피해"
+
 msgid "$PHYSICAL_SKILLS"
 msgstr "신체 스킬"
 
@@ -5870,6 +5888,9 @@ msgstr "반응로 중복됨"
 msgid "$SB_LIMITHEADER_MAX_SHIELD"
 msgstr "보호막 중복됨"
 
+msgid "$SB_LIMITHEADER_MAX_VEHICLE"
+msgstr "차고 모듈 중복됨"
+
 msgid "$SB_LIMITHEADER_MAX_WEAPONS"
 msgstr "최대 무기 개수"
 
@@ -6124,6 +6145,9 @@ msgstr "길게 눌러 항로 설정"
 
 msgid "$SET MISSION ACTIVE"
 msgstr "임무 활성화하기"
+
+msgid "$SET_ACTIVE"
+msgstr "활성화하기"
 
 msgid "$SetCourseToBody"
 msgstr "{1} 목적지로 가는 항로를 설정할까요?"
@@ -6418,6 +6442,24 @@ msgstr "초고성능"
 
 msgid "$Settings_UpscalingPreset_UltraQuality"
 msgstr "울트라 품질"
+
+msgid "$Settings_VehicleFirstPersonCameraMovement"
+msgstr "차량 카메라 흔들림 설정"
+
+msgid "$Settings_VehicleFirstPersonCameraMovement_Desc"
+msgstr "1인칭 시점에서 차량의 흔들림을 설정합니다."
+
+msgid "$Settings_VehicleFirstPersonCameraFOVOffset"
+msgstr "차량 1인칭 시야각"
+
+msgid "$Settings_VehicleFirstPersonCameraFOVOffset_Desc"
+msgstr "차량을 조종할 때 1인칭 카메라의 시야각을 설정 합니다. 차량마다 기본 시야각이 다를 수 있습니다. 이를 기본 설정 이상으로 조정하면 성능이나 시각적 문제가 발생할 수 있습니다."
+
+msgid "$Settings_VehicleThirdPersonCameraFOVOffset"
+msgstr "차량 3인칭 시야각"
+
+msgid "$Settings_VehicleThirdPersonCameraFOVOffset_Desc"
+msgstr "차량을 조종할 때 3인칭 카메라의 시야각을 설정 합니다. 차량마다 기본 시야각이 다를 수 있습니다. 이를 기본 설정 이상으로 조정하면 성능이나 시각적 문제가 발생할 수 있습니다."
 
 msgid "$Settings_VolumetricLighting"
 msgstr "볼류메트릭 라이팅"
@@ -7980,6 +8022,9 @@ msgstr "모두 내리기"
 msgid "$UNLOCK"
 msgstr "잠금 해제:"
 
+msgid "$UNLOCK VEHICLE PROMPT"
+msgstr "차량을 이용해 행성을 탐험하세요. 구매하면 차고를 이용할 수 있으며 자동으로 함선에 REV-8이 탑재됩니다.\n\n{1} 크레딧으로 구매하시겠습니까?"
+
 msgid "$UnlockedWithKey"
 msgstr "{1} 이용해 잠금 해제함."
 
@@ -8120,6 +8165,57 @@ msgstr "변형"
 
 msgid "$VATS"
 msgstr "VATS"
+
+msgid "$Vehicle"
+msgstr "차량"
+
+msgid "$VEHICLE UNLOCKED MESSAGE"
+msgstr "이제 차량을 이용할 수 있습니다. REV-8은 함선이 착륙하면 자동으로 함선 옆에 배치됩니다. 주요 우주항에 있는 함선 정비 기술자를 방문하여 차량을 관리하세요."
+
+msgid "$Vehicle_VehicleBoost"
+msgstr "부스터"
+
+msgid "$Vehicle_VehicleExit"
+msgstr "내리기"
+
+msgid "$Vehicle_VehicleFireWeapon"
+msgstr "발사"
+
+msgid "$Vehicle_VehicleResetCamera"
+msgstr "시점 전환"
+
+msgid "$Vehicle_ZoomIn"
+msgstr "확대"
+
+msgid "$Vehicle_ZoomOut"
+msgstr "축소"
+
+msgid "$Vehicle_ControlMode_Flexible"
+msgstr "탄력적 방식"
+
+msgid "$Vehicle_ControlMode_Traditional"
+msgstr "기존 방식"
+
+msgid "$Vehicle_ControlStickSwap"
+msgstr "차량 조향 반전"
+
+msgid "$Vehicle_ControlStickSwap_Desc"
+msgstr "차량의 조향 방향을 반전시킵니다."
+
+msgid "$Vehicle_Gamepad_ControlMode"
+msgstr "차량 조종"
+
+msgid "$Vehicle_Gamepad_ControlMode_Desc"
+msgstr "컨트롤러를 사용할 때 차량의 조종 방식을 변경합니다.\n\n탄력적 방식: 카메라가 바라보는 방향이 차량의 전진 방향이 되며, 입력하는 방향키에 따라 전후좌우 이동이 됩니다.\n\n기존 방식: 카메라가 바라보는 방향을 따라 차량 조향이 이뤄지며, 전진키와 후진키로 전진과 후진을 조종합니다.\n\n참고: 이 차량 조종 설정은 3인칭에서만 적용됩니다."
+
+msgid "$Vehicle_MKB_ControlMode"
+msgstr "차량 마우스/키보드 조종"
+
+msgid "$Vehicle_MKB_ControlMode_Desc"
+msgstr "마우스와 키보드를 사용할 때 차량의 조종 방식을 변경합니다.\n\n탄력적 방식: 카메라가 바라보는 방향이 차량의 전진 방향이 되며, 입력하는 방향키에 따라 전후좌우 이동이 됩니다.\n\n기존 방식: 카메라가 바라보는 방향을 따라 차량 조향이 이뤄지며, 전진키와 후진키로 전진과 후진을 조종합니다.\n\n참고: 이 차량 조종 설정은 3인칭에서만 적용됩니다."
+
+msgid "$VehicleInsufficientPlayerFunds"
+msgstr "차량을 구매하기 위해선 {1} 크레딧이 필요합니다. "
 
 msgid "$VENDOR"
 msgstr "거래"

@@ -665,6 +665,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00027E]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000002"
 msgid "Enemy killed."
 msgstr ""
@@ -672,6 +673,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00027D]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000003"
 msgid "We've eliminated the target."
 msgstr ""
@@ -679,6 +681,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00027C]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000004"
 msgid "The enemy has been cleared from the battlefield."
 msgstr ""
@@ -686,6 +689,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00027B]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000005"
 msgid "Hostile destroyed."
 msgstr ""
@@ -693,6 +697,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00027A]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000006"
 msgid "Hostile removed."
 msgstr ""
@@ -700,6 +705,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000279]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000007"
 msgid "Target removed."
 msgstr ""
@@ -707,6 +713,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000278]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000008"
 msgid "Excellent shooting, Captain."
 msgstr ""
@@ -714,6 +721,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000277]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000009"
 msgid "Target destroyed."
 msgstr ""
@@ -721,6 +729,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000276]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00000A"
 msgid "Target eliminated."
 msgstr ""
@@ -728,6 +737,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000274]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00000B"
 msgid "We've got a hit!"
 msgstr ""
@@ -735,6 +745,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000273]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00000C"
 msgid "Target eliminated!"
 msgstr ""
@@ -742,6 +753,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000272]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00000D"
 msgid "Scratch another one!"
 msgstr ""
@@ -749,6 +761,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000271]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00000E"
 msgid "Good work!"
 msgstr ""
@@ -756,6 +769,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000270]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00000F"
 msgid "Nailed 'em!"
 msgstr ""
@@ -763,6 +777,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00026F]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000010"
 msgid "Hell of a shot!"
 msgstr ""
@@ -770,6 +785,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00026E]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000011"
 msgid "Nice shooting!"
 msgstr ""
@@ -777,6 +793,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00026D]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000012"
 msgid "You're done!"
 msgstr ""
@@ -784,6 +801,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00026C]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000013"
 msgid "Target destroyed!"
 msgstr ""
@@ -791,6 +809,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00026B]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000014"
 msgid "Not a bad idea to stop and get your bearings."
 msgstr ""
@@ -798,6 +817,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000269]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000015"
 msgid "Ha! Victory!"
 msgstr ""
@@ -805,6 +825,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000268]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000016"
 msgid "Another triumph!"
 msgstr ""
@@ -812,6 +833,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000267]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000017"
 msgid "Target neutralized!"
 msgstr ""
@@ -819,6 +841,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000266]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000018"
 msgid "Excellent shot!"
 msgstr ""
@@ -826,6 +849,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000265]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000019"
 msgid "Target destroyed!"
 msgstr ""
@@ -833,6 +857,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000264]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00001A"
 msgid "That's a direct hit!"
 msgstr ""
@@ -840,6 +865,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000263]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00001B"
 msgid "Enemy down!"
 msgstr ""
@@ -847,6 +873,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000262]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00001C"
 msgid "Target eliminated!"
 msgstr ""
@@ -854,6 +881,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000261]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00001D"
 msgid "Target's down!"
 msgstr ""
@@ -861,6 +889,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000260]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00001E"
 msgid "Victory is ours!"
 msgstr ""
@@ -868,6 +897,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00025E]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00001F"
 msgid "Direct hit!"
 msgstr ""
@@ -875,6 +905,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00025D]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000020"
 msgid "Like shooting fish in a barrel!"
 msgstr ""
@@ -882,6 +913,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00025C]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000021"
 msgid "Target destroyed!"
 msgstr ""
@@ -889,6 +921,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00025B]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000022"
 msgid "Got 'em!"
 msgstr ""
@@ -896,6 +929,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00025A]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000023"
 msgid "Target eliminated!"
 msgstr ""
@@ -903,6 +937,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000259]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000024"
 msgid "Easy peasy, lemon squeezie."
 msgstr ""
@@ -910,6 +945,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000258]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000025"
 msgid "See ya, wouldn't want to be ya."
 msgstr ""
@@ -917,6 +953,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000257]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000026"
 msgid "Bang!"
 msgstr ""
@@ -924,6 +961,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000256]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000027"
 msgid "So long!"
 msgstr ""
@@ -931,6 +969,7 @@ msgstr ""
 #. List: 2
 #. EDID: Niceonedusty
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000028"
 msgid "Target's down!"
 msgstr ""
@@ -938,6 +977,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000254]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000029"
 msgid "Good shot, dusty!"
 msgstr ""
@@ -945,6 +985,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000252]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00002A"
 msgid "Target destroyed."
 msgstr ""
@@ -952,6 +993,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000251]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00002B"
 msgid "They won't be messing with us again!"
 msgstr ""
@@ -959,6 +1001,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000250]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00002C"
 msgid "Bag 'em and tag 'em."
 msgstr ""
@@ -966,6 +1009,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00024F]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00002D"
 msgid "Couldn't have done it better myself."
 msgstr ""
@@ -973,6 +1017,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00024E]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00002E"
 msgid "Damn good shot."
 msgstr ""
@@ -980,6 +1025,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00024D]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00002F"
 msgid "That's another down!"
 msgstr ""
@@ -987,6 +1033,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00024C]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000030"
 msgid "We got 'em!"
 msgstr ""
@@ -994,6 +1041,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00024B]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000031"
 msgid "Nice shot!"
 msgstr ""
@@ -1001,6 +1049,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00024A]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000032"
 msgid "Nice shooting."
 msgstr ""
@@ -1008,6 +1057,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000249]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000033"
 msgid "Heck of a shot."
 msgstr ""
@@ -1015,6 +1065,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000247]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000034"
 msgid "Enemy target locked."
 msgstr ""
@@ -1022,6 +1073,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000246]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000035"
 msgid "Fire when ready."
 msgstr ""
@@ -1029,6 +1081,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000245]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000036"
 msgid "Target in range."
 msgstr ""
@@ -1036,6 +1089,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000244]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000037"
 msgid "Enemy targeted."
 msgstr ""
@@ -1043,6 +1097,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000243]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000038"
 msgid "Lock engaged."
 msgstr ""
@@ -1050,6 +1105,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000242]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000039"
 msgid "Ready to fire."
 msgstr ""
@@ -1057,6 +1113,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000241]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00003A"
 msgid "Lock acquired."
 msgstr ""
@@ -1064,6 +1121,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000240]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00003B"
 msgid "Hostile target identified."
 msgstr ""
@@ -1071,6 +1129,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00023F]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00003C"
 msgid "Target acquired."
 msgstr ""
@@ -1078,6 +1137,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00023E]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00003D"
 msgid "Target locked."
 msgstr ""
@@ -1085,6 +1145,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00023C]
 #. REC: INFO:NAM1
+#. Speaker: ALLCompanions
 msgctxt "00003E"
 msgid "Target acquired!"
 msgstr ""
@@ -1092,6 +1153,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00023B]
 #. REC: INFO:NAM1
+#. Speaker: ALLCompanions
 msgctxt "00003F"
 msgid "Fire when ready!"
 msgstr ""
@@ -1099,6 +1161,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00023A]
 #. REC: INFO:NAM1
+#. Speaker: ALLCompanions
 msgctxt "000040"
 msgid "Locked on!"
 msgstr ""
@@ -1106,6 +1169,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000239]
 #. REC: INFO:NAM1
+#. Speaker: ALLCompanions
 msgctxt "000041"
 msgid "We've got tone!"
 msgstr ""
@@ -1113,6 +1177,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000238]
 #. REC: INFO:NAM1
+#. Speaker: ALLCompanions
 msgctxt "000042"
 msgid "We've got a lock!"
 msgstr ""
@@ -1120,6 +1185,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000237]
 #. REC: INFO:NAM1
+#. Speaker: ALLCompanions
 msgctxt "000043"
 msgid "Fire the turret!"
 msgstr ""
@@ -1127,6 +1193,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000236]
 #. REC: INFO:NAM1
+#. Speaker: ALLCompanions
 msgctxt "000044"
 msgid "Target locked!"
 msgstr ""
@@ -1134,6 +1201,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000235]
 #. REC: INFO:NAM1
+#. Speaker: ALLCompanions
 msgctxt "000045"
 msgid "They're in range!"
 msgstr ""
@@ -1141,6 +1209,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000234]
 #. REC: INFO:NAM1
+#. Speaker: ALLCompanions
 msgctxt "000046"
 msgid "Ready to fire!"
 msgstr ""
@@ -1148,6 +1217,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000233]
 #. REC: INFO:NAM1
+#. Speaker: ALLCompanions
 msgctxt "000047"
 msgid "We've locked a target!"
 msgstr ""
@@ -1155,6 +1225,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000232]
 #. REC: INFO:NAM1
+#. Speaker: ALLCompanions
 msgctxt "000048"
 msgid "We have scoped the target!"
 msgstr ""
@@ -1162,6 +1233,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000231]
 #. REC: INFO:NAM1
+#. Speaker: ALLCompanions
 msgctxt "000049"
 msgid "Zeroing in!"
 msgstr ""
@@ -1169,6 +1241,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000230]
 #. REC: INFO:NAM1
+#. Speaker: ALLCompanions
 msgctxt "00004A"
 msgid "Got one in our sights!"
 msgstr ""
@@ -1176,6 +1249,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00022F]
 #. REC: INFO:NAM1
+#. Speaker: ALLCompanions
 msgctxt "00004B"
 msgid "Got 'em in our crosshairs!"
 msgstr ""
@@ -1183,6 +1257,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00021D]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00004C"
 msgid ""
 "My sensors indicate we have been parked for some time. Please consult your "
@@ -1192,6 +1267,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00021C]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00004D"
 msgid "Please take all the time you need to admire this view."
 msgstr ""
@@ -1199,6 +1275,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00021B]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00004E"
 msgid "We have been idle for some time. Would you like me to set an alarm?"
 msgstr ""
@@ -1206,6 +1283,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00021A]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00004F"
 msgid ""
 "If you don't intend on moving, I will use this time to contemplate my "
@@ -1215,6 +1293,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000219]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000050"
 msgid ""
 "The vehicle has been parked for an extended period of time. Do you require "
@@ -1224,6 +1303,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000218]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000051"
 msgid "We have stopped. Please let me know if you need any assistance."
 msgstr ""
@@ -1231,6 +1311,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000217]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000052"
 msgid "I can perform some vehicular calibrations while we wait."
 msgstr ""
@@ -1238,6 +1319,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000216]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000053"
 msgid "The vehicle has been idle for some time. Do you wish to dismount?"
 msgstr ""
@@ -1245,6 +1327,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000215]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000054"
 msgid ""
 "We have not moved for some time. Checking vitals. It seems you are still "
@@ -1254,6 +1337,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000214]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000055"
 msgid "Entering sleep mode."
 msgstr ""
@@ -1261,6 +1345,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000212]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000056"
 msgid "If we're going to sit here, I hope you brought some entertainment."
 msgstr ""
@@ -1268,6 +1353,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000211]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000057"
 msgid "If you need to take a moment and clear your head, by all means."
 msgstr ""
@@ -1275,6 +1361,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000210]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000058"
 msgid "Just nudge me when we're about to get going."
 msgstr ""
@@ -1282,6 +1369,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00020F]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000059"
 msgid "Taking in the view?"
 msgstr ""
@@ -1289,6 +1377,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00020E]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00005A"
 msgid "We've stopped. Did you need anything from me?"
 msgstr ""
@@ -1296,6 +1385,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00020D]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00005B"
 msgid "I can use this time to go over my planner if you like."
 msgstr ""
@@ -1303,6 +1393,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00020C]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00005C"
 msgid "There's a lot to study here, I'm sure."
 msgstr ""
@@ -1310,6 +1401,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00020B]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00005D"
 msgid "Well, at least we know the brakes work."
 msgstr ""
@@ -1317,6 +1409,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00020A]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00005E"
 msgid "*Ahem* Should we get moving?"
 msgstr ""
@@ -1324,6 +1417,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000209]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00005F"
 msgid "Not a bad idea to stop and get your bearings."
 msgstr ""
@@ -1331,6 +1425,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000207]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000060"
 msgid "I have packed some food, if we are to spend any more time here."
 msgstr ""
@@ -1338,6 +1433,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000206]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000061"
 msgid "These seats are quite comfortable."
 msgstr ""
@@ -1345,6 +1441,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000205]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000062"
 msgid "I appreciate you taking a moment to stop and observe."
 msgstr ""
@@ -1352,6 +1449,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000204]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000063"
 msgid "A break is well deserved."
 msgstr ""
@@ -1359,6 +1457,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000203]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000064"
 msgid "Should we depart? We have been idle for some time."
 msgstr ""
@@ -1366,6 +1465,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000202]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000065"
 msgid "I savor these moments of peace and quiet."
 msgstr ""
@@ -1373,6 +1473,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000201]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000066"
 msgid "If you need a moment, I can go over the mission plan while we wait."
 msgstr ""
@@ -1380,6 +1481,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000200]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000067"
 msgid "We should get moving."
 msgstr ""
@@ -1387,6 +1489,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001FF]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000068"
 msgid "I shouldn't have had that extra drink of water."
 msgstr ""
@@ -1394,6 +1497,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001FE]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000069"
 msgid "Is the vehicle broken?"
 msgstr ""
@@ -1401,6 +1505,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001FC]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00006A"
 msgid "Now where are my snacks?"
 msgstr ""
@@ -1408,6 +1513,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001FB]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00006B"
 msgid "Should've taken the train."
 msgstr ""
@@ -1415,6 +1521,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001FA]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00006C"
 msgid "Just my luck, I always end up in the slow lane."
 msgstr ""
@@ -1422,6 +1529,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001F9]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00006D"
 msgid "I bet this is what it feels like to be stuck in rush hour traffic."
 msgstr ""
@@ -1429,6 +1537,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001F8]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00006E"
 msgid "*Exhales*"
 msgstr ""
@@ -1436,6 +1545,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001F7]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00006F"
 msgid "Just gonna sit here and go over my daily affirmations."
 msgstr ""
@@ -1443,6 +1553,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001F6]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000070"
 msgid "Take your time. It's a lot to take in."
 msgstr ""
@@ -1450,6 +1561,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001F5]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000071"
 msgid ""
 "I'll just sit here and go over my scans while you figure out where we're off"
@@ -1459,6 +1571,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001F4]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000072"
 msgid "Did you remember where we're going?"
 msgstr ""
@@ -1466,6 +1579,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001F3]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000073"
 msgid "Don't mind me, just enjoying the moment."
 msgstr ""
@@ -1473,6 +1587,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001F1]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000074"
 msgid "You know where you're going next?"
 msgstr ""
@@ -1480,6 +1595,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001F0]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000075"
 msgid "Are we uh... are we there yet?"
 msgstr ""
@@ -1487,6 +1603,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001EF]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000076"
 msgid "I'd put my feet up, but I got manners still."
 msgstr ""
@@ -1494,6 +1611,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001EE]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000077"
 msgid "Just need to adjust my seat... mmh, there. That's better."
 msgstr ""
@@ -1501,6 +1619,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001ED]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000078"
 msgid "This thing have cup holders?"
 msgstr ""
@@ -1508,6 +1627,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001EC]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000079"
 msgid "If we're lost, I can take a look at the map."
 msgstr ""
@@ -1515,6 +1635,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001EB]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00007A"
 msgid "I might take a nap while you sort things out."
 msgstr ""
@@ -1522,6 +1643,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001EA]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00007B"
 msgid "I could use a drink."
 msgstr ""
@@ -1529,6 +1651,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001E9]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00007C"
 msgid "I'm always good with putting it in park."
 msgstr ""
@@ -1536,6 +1659,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001E8]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00007D"
 msgid "Smelling the roses, huh."
 msgstr ""
@@ -1543,6 +1667,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001E6]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00007E"
 msgid "We've entered the water. Adjusting scans for undulation."
 msgstr ""
@@ -1550,6 +1675,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001E5]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00007F"
 msgid "Caution should be exercised when traversing deep waters."
 msgstr ""
@@ -1557,6 +1683,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001E4]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000080"
 msgid "Preparing for water submersion."
 msgstr ""
@@ -1564,6 +1691,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001E3]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000081"
 msgid "I will send out a signal to repel any aquatic life."
 msgstr ""
@@ -1571,6 +1699,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001E2]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000082"
 msgid "Be careful when navigating through water."
 msgstr ""
@@ -1578,6 +1707,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001E1]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000083"
 msgid "We have entered the water. Please exercise caution."
 msgstr ""
@@ -1585,6 +1715,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001E0]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000084"
 msgid "Based on my calculations, this vehicle is now technically a boat."
 msgstr ""
@@ -1592,6 +1723,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001DF]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000085"
 msgid "It seems this planet's gravity cannot contain you, Captain."
 msgstr ""
@@ -1599,6 +1731,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001DE]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000086"
 msgid ""
 "Rest assured I am fully waterproof, able to withstand both immersion and "
@@ -1608,6 +1741,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001DD]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000087"
 msgid ""
 "This vehicle is equipped with the latest in aquatic traversal technology."
@@ -1616,6 +1750,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001DB]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000088"
 msgid "By all means, dive in."
 msgstr ""
@@ -1623,6 +1758,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001DA]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000089"
 msgid "Just a quick dip in the pool."
 msgstr ""
@@ -1630,6 +1766,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001D9]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00008A"
 msgid "We should be careful not to spend too long in the water."
 msgstr ""
@@ -1637,6 +1774,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001D8]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00008B"
 msgid "I always wanted to go sailing. Didn't imagine it'd be like this."
 msgstr ""
@@ -1644,6 +1782,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001D7]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00008C"
 msgid "Going for a swim, I take it."
 msgstr ""
@@ -1651,6 +1790,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001D6]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00008D"
 msgid ""
 "I'm glad we can drive through waters like this, instead of having to swim."
@@ -1659,6 +1799,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001D5]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00008E"
 msgid "We should use caution when going through water."
 msgstr ""
@@ -1666,6 +1807,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001D4]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00008F"
 msgid "This vehicle functions well as a boat."
 msgstr ""
@@ -1673,6 +1815,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001D3]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000090"
 msgid "We should try to avoid driving through deep waters."
 msgstr ""
@@ -1680,6 +1823,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001D2]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000091"
 msgid "Fancy a dip?"
 msgstr ""
@@ -1687,6 +1831,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001D0]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000092"
 msgid "I hope we don't disturb any aquatic life."
 msgstr ""
@@ -1694,6 +1839,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001CF]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000093"
 msgid "When they said all-terrain, they really meant it."
 msgstr ""
@@ -1701,6 +1847,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001CE]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000094"
 msgid "This vehicle handles surprisingly well in the water."
 msgstr ""
@@ -1708,6 +1855,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001CD]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000095"
 msgid "The water doesn't seem too bad."
 msgstr ""
@@ -1715,6 +1863,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001CC]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000096"
 msgid "Be sure to drive slowly and steady, so you don't make a bow wave."
 msgstr ""
@@ -1722,6 +1871,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001CB]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000097"
 msgid "We should use caution. Water can hide debris and other obstacles."
 msgstr ""
@@ -1729,6 +1879,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001CA]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000098"
 msgid "The vehicle handles pretty well in the water."
 msgstr ""
@@ -1736,6 +1887,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001C9]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000099"
 msgid "Water's fine, it seems."
 msgstr ""
@@ -1743,6 +1895,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001C8]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00009A"
 msgid "I did think the vehicle could use some cooling off."
 msgstr ""
@@ -1750,6 +1903,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001C7]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00009B"
 msgid "This is more of a canoe than a boat, but it does the job."
 msgstr ""
@@ -1757,6 +1911,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001C5]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00009C"
 msgid "Try to find the high ground so we don't sink too much."
 msgstr ""
@@ -1764,6 +1919,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001C4]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00009D"
 msgid "Keep it slow and steady when driving through water like this."
 msgstr ""
@@ -1771,6 +1927,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001C3]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00009E"
 msgid "Who's up for a swim?"
 msgstr ""
@@ -1778,6 +1935,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001C2]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00009F"
 msgid "Don't drive too fast in the water or you might lose control."
 msgstr ""
@@ -1785,6 +1943,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001C1]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000A0"
 msgid "Dive in! Water's warm!"
 msgstr ""
@@ -1792,6 +1951,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001C0]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000A1"
 msgid "I've always been partial to stomping through puddles."
 msgstr ""
@@ -1799,6 +1959,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001BF]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000A2"
 msgid "Like wading through a pool."
 msgstr ""
@@ -1806,6 +1967,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001BE]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000A3"
 msgid "I was gonna wash this outfit anyway."
 msgstr ""
@@ -1813,6 +1975,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001BD]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000A4"
 msgid "I always thought this ride was part submarine."
 msgstr ""
@@ -1820,6 +1983,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001BC]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000A5"
 msgid "Hey! Free car wash!"
 msgstr ""
@@ -1827,6 +1991,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001BA]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000A6"
 msgid "Damn, didn't we just wash this thing?"
 msgstr ""
@@ -1834,6 +1999,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001B9]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000A7"
 msgid "Hope this water isn't too deep."
 msgstr ""
@@ -1841,6 +2007,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001B8]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000A8"
 msgid "We should be careful when going through water like this."
 msgstr ""
@@ -1848,6 +2015,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001B7]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000A9"
 msgid "Try to keep from hydroplaning."
 msgstr ""
@@ -1855,6 +2023,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001B6]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000AA"
 msgid "Don't worry, this ride can handle a little water."
 msgstr ""
@@ -1862,6 +2031,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001B5]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000AB"
 msgid ""
 "Back in the day, you'd have to dry your brakes with a few slow taps. But "
@@ -1871,6 +2041,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001B4]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000AC"
 msgid "I'm glad I brought a change of clothes."
 msgstr ""
@@ -1878,6 +2049,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001B3]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000AD"
 msgid "Hope this ride can handle a little water."
 msgstr ""
@@ -1885,6 +2057,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001B2]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000AE"
 msgid "I forgot my swimsuit."
 msgstr ""
@@ -1892,6 +2065,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001B1]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000AF"
 msgid "Good time to hit the pool."
 msgstr ""
@@ -1899,6 +2073,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001AF]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000B0"
 msgid ""
 "We continue to ignore vehicle safety recommendations with every jump, "
@@ -1908,6 +2083,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001AE]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000B1"
 msgid "Preliminary diagnostics indicate a successful jump, Captain."
 msgstr ""
@@ -1915,6 +2091,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001AD]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000B2"
 msgid "Your heart rate has increased considerably after that jump, Captain."
 msgstr ""
@@ -1922,6 +2099,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001AC]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000B3"
 msgid ""
 "Warning. High vertical jumps will result in an overwhelming amount of fun."
@@ -1930,6 +2108,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001AB]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000B4"
 msgid ""
 "Landing achieved. Vehicle suspension and tire pressure appear to be optimal."
@@ -1938,6 +2117,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001AA]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000B5"
 msgid "Your ability to leap over great distances is quite the feat."
 msgstr ""
@@ -1945,6 +2125,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001A9]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000B6"
 msgid "Based on my calculations, this vehicle is now technically an aircraft."
 msgstr ""
@@ -1952,6 +2133,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001A8]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000B7"
 msgid "It seems this planet's gravity cannot contain you, Captain."
 msgstr ""
@@ -1959,6 +2141,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001A7]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000B8"
 msgid ""
 "You've managed to land this vehicle intact, despite only a ten percent "
@@ -1968,6 +2151,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001A6]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000B9"
 msgid "An impressive jump, Captain."
 msgstr ""
@@ -1975,6 +2159,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001A4]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000BA"
 msgid "Your landings are always graceful."
 msgstr ""
@@ -1982,6 +2167,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001A3]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000BB"
 msgid "We definitely took a shortcut there."
 msgstr ""
@@ -1989,6 +2175,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001A2]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000BC"
 msgid "Beats taking the road, anyway."
 msgstr ""
@@ -1996,6 +2183,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001A1]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000BD"
 msgid "I'm glad I buckled up."
 msgstr ""
@@ -2003,6 +2191,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0001A0]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000BE"
 msgid "I'm more impressed by the landing."
 msgstr ""
@@ -2010,6 +2199,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00019F]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000BF"
 msgid "Were you a daredevil in another life? Could've fooled me."
 msgstr ""
@@ -2017,6 +2207,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00019E]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000C0"
 msgid ""
 "That reminds me of the old theme park rides in the New Atlantis fairgrounds."
@@ -2025,6 +2216,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00019D]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000C1"
 msgid "That jump was straight out of a movie set. Bravo."
 msgstr ""
@@ -2032,6 +2224,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00019C]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000C2"
 msgid "When you say jump, I often wonder how high."
 msgstr ""
@@ -2039,6 +2232,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00019B]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000C3"
 msgid "Textbook landing!"
 msgstr ""
@@ -2046,6 +2240,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000199]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000C4"
 msgid "That was a leap of faith."
 msgstr ""
@@ -2053,6 +2248,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000198]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000C5"
 msgid "We soar like the eagles of old."
 msgstr ""
@@ -2060,6 +2256,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000197]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000C6"
 msgid "That was thrilling!"
 msgstr ""
@@ -2067,6 +2264,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000196]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000C7"
 msgid "I think we can go higher."
 msgstr ""
@@ -2074,6 +2272,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000195]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000C8"
 msgid "A picture-perfect landing."
 msgstr ""
@@ -2081,6 +2280,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000194]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000C9"
 msgid "That was impressive."
 msgstr ""
@@ -2088,6 +2288,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000193]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000CA"
 msgid ""
 "A very solid jump. Even the judge from House Va'ruun gives it a ten out of "
@@ -2097,6 +2298,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000192]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000CB"
 msgid "You have a knack for these vehicular gymnastics."
 msgstr ""
@@ -2104,6 +2306,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000191]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000CC"
 msgid "Your dismounts are flawless."
 msgstr ""
@@ -2111,6 +2314,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000190]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000CD"
 msgid "Perfect execution."
 msgstr ""
@@ -2118,6 +2322,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00018E]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000CE"
 msgid "Hell of a jump, dusty!"
 msgstr ""
@@ -2125,6 +2330,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00018D]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000CF"
 msgid "Nice! Let's do it again!"
 msgstr ""
@@ -2132,6 +2338,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00018C]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000D0"
 msgid "Woohoo!"
 msgstr ""
@@ -2139,6 +2346,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00018B]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000D1"
 msgid "Like a boss!"
 msgstr ""
@@ -2146,6 +2354,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00018A]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000D2"
 msgid "Nailed it!"
 msgstr ""
@@ -2153,6 +2362,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000189]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000D3"
 msgid "We're flying high in this ride, that's for sure."
 msgstr ""
@@ -2160,6 +2370,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000188]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000D4"
 msgid "We caught some rare air on that jump."
 msgstr ""
@@ -2167,6 +2378,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000187]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000D5"
 msgid "Perfect dismount, perfect landing."
 msgstr ""
@@ -2174,6 +2386,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000186]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000D6"
 msgid "Smooth as butter!"
 msgstr ""
@@ -2181,6 +2394,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000185]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000D7"
 msgid "We defied the laws of gravity on that one!"
 msgstr ""
@@ -2188,6 +2402,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000184]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0000D8"
 msgid "I bet we could do a flip next time."
 msgstr ""
@@ -2195,6 +2410,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000182]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000D9"
 msgid "Smooth."
 msgstr ""
@@ -2202,6 +2418,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000181]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000DA"
 msgid "Whew! That was some jump."
 msgstr ""
@@ -2209,6 +2426,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000180]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000DB"
 msgid "We should do shows."
 msgstr ""
@@ -2216,6 +2434,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00017F]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000DC"
 msgid "Got some good air on that one."
 msgstr ""
@@ -2223,6 +2442,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00017E]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000DD"
 msgid "You aiming to be a stunt driver?"
 msgstr ""
@@ -2230,6 +2450,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00017D]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000DE"
 msgid "Way to stick the landing."
 msgstr ""
@@ -2237,6 +2458,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00017C]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000DF"
 msgid "Reminds me of hopping across the ravine back home."
 msgstr ""
@@ -2244,6 +2466,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00017B]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000E0"
 msgid "Whew! We got a ton of air on that one!"
 msgstr ""
@@ -2251,6 +2474,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00017A]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000E1"
 msgid "That was one helluva jump!"
 msgstr ""
@@ -2258,6 +2482,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000179]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0000E2"
 msgid "Holy shit!"
 msgstr ""
@@ -2265,6 +2490,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000177]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000E3"
 msgid "Be forewarned I am not suitable for crash tests as I am not a human."
 msgstr ""
@@ -2272,6 +2498,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000176]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000E4"
 msgid "I am gathering crash statistics with every collision."
 msgstr ""
@@ -2279,6 +2506,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000175]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000E5"
 msgid ""
 "We should have you inspected for a concussion when we return to the ship."
@@ -2287,6 +2515,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000174]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000E6"
 msgid ""
 "Be aware that collision avoidance warnings have not been installed in this "
@@ -2296,6 +2525,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000173]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000E7"
 msgid "This vehicle is fully equipped for your unique driving style."
 msgstr ""
@@ -2303,6 +2533,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000172]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000E8"
 msgid "We have caused cosmetic damage to the vehicle."
 msgstr ""
@@ -2310,6 +2541,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000171]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000E9"
 msgid "Based on my calculations, a collision here was avoidable."
 msgstr ""
@@ -2317,6 +2549,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000170]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000EA"
 msgid ""
 "Do not worry. This vehicle is designed to survive the occasional crash. "
@@ -2326,6 +2559,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00016F]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000EB"
 msgid "In the future, it may be wise to install airbags in this vehicle."
 msgstr ""
@@ -2333,6 +2567,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00016E]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0000EC"
 msgid "We've hit an object."
 msgstr ""
@@ -2340,6 +2575,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00016C]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000ED"
 msgid "Minor crashes aside, I do hope we can make it home in one piece."
 msgstr ""
@@ -2347,6 +2583,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00016B]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000EE"
 msgid "We're going to need to bring this in for repairs."
 msgstr ""
@@ -2354,6 +2591,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00016A]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000EF"
 msgid "Be mindful of what's in front of us!"
 msgstr ""
@@ -2361,6 +2599,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000169]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000F0"
 msgid "I don't mean to backseat drive, but in your case, it's warranted."
 msgstr ""
@@ -2368,6 +2607,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000168]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000F1"
 msgid "Must you collide with everything in our path?"
 msgstr ""
@@ -2375,6 +2615,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000167]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000F2"
 msgid "You should try going around obstacles."
 msgstr ""
@@ -2382,6 +2623,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000166]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000F3"
 msgid "If this were a test, you would've failed."
 msgstr ""
@@ -2389,6 +2631,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000165]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000F4"
 msgid "For the love of- *sigh*."
 msgstr ""
@@ -2396,6 +2639,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000164]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000F5"
 msgid "Keep your eyes on the road, please!"
 msgstr ""
@@ -2403,6 +2647,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000280]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000F6"
 msgid "I disliked that."
 msgstr ""
@@ -2410,6 +2655,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000163]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0000F7"
 msgid "Watch it!"
 msgstr ""
@@ -2417,6 +2663,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000161]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000F8"
 msgid "Do the brakes not work?"
 msgstr ""
@@ -2424,6 +2671,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000160]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000F9"
 msgid "That is going to leave a dent."
 msgstr ""
@@ -2431,6 +2679,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00015F]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000FA"
 msgid "For what it's worth, I still think you are a decent driver."
 msgstr ""
@@ -2438,6 +2687,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00015E]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000FB"
 msgid "Sometimes a good crash can relieve stress."
 msgstr ""
@@ -2445,6 +2695,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00015D]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000FC"
 msgid "Forgive me if I do not understand our current course."
 msgstr ""
@@ -2452,6 +2703,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00022D]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000FD"
 msgid "Don't worry, it's just a scratch."
 msgstr ""
@@ -2459,6 +2711,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00022C]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000FE"
 msgid "Careful!"
 msgstr ""
@@ -2466,6 +2719,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00015C]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0000FF"
 msgid "Any accident you can walk away from..."
 msgstr ""
@@ -2473,6 +2727,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00015B]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000100"
 msgid "Keep in mind you have brakes."
 msgstr ""
@@ -2480,6 +2735,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00015A]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000101"
 msgid "Are you trying to hit things?"
 msgstr ""
@@ -2487,6 +2743,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000159]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000102"
 msgid "If it wasn't dead already, it is now."
 msgstr ""
@@ -2494,6 +2751,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000158]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000103"
 msgid "I think I got whiplash from that one."
 msgstr ""
@@ -2501,6 +2759,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00022B]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000104"
 msgid "Another one for the blooper reel."
 msgstr ""
@@ -2508,6 +2767,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00022A]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000105"
 msgid "Oopsies."
 msgstr ""
@@ -2515,6 +2775,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000156]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000106"
 msgid "Yikes!"
 msgstr ""
@@ -2522,6 +2783,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000155]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000107"
 msgid "Caution, objects in your face may be closer than they appear."
 msgstr ""
@@ -2529,6 +2791,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000154]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000108"
 msgid "Did you at least signal first?"
 msgstr ""
@@ -2536,6 +2799,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000153]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000109"
 msgid "Incoming!"
 msgstr ""
@@ -2543,6 +2807,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000152]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00010A"
 msgid "Didn't even feel that one."
 msgstr ""
@@ -2550,6 +2815,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000151]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00010B"
 msgid "I've always wanted to be a crash test dummy."
 msgstr ""
@@ -2557,6 +2823,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000150]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00010C"
 msgid "Just another boo-boo."
 msgstr ""
@@ -2564,6 +2831,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00014F]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00010D"
 msgid "In your defense, I didn't see it either."
 msgstr ""
@@ -2571,6 +2839,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00014E]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00010E"
 msgid "You didn't have anything to drink, did you?"
 msgstr ""
@@ -2578,6 +2847,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00014D]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00010F"
 msgid "I hope you're not crashing this thing on purpose."
 msgstr ""
@@ -2585,6 +2855,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000286]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000110"
 msgid "Sarah would NOT have liked that."
 msgstr ""
@@ -2592,6 +2863,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000285]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000111"
 msgid "I'm glad I don't have to pay insurance on this thing!"
 msgstr ""
@@ -2599,6 +2871,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00014C]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000112"
 msgid "Would it be bad if I talked to my lawyer about this?"
 msgstr ""
@@ -2606,6 +2879,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00014A]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000113"
 msgid ""
 "Whenever we crash into something, I just figure it probably deserves it."
@@ -2614,6 +2888,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000149]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000114"
 msgid "If you ask me, that thing jumped right in front of you."
 msgstr ""
@@ -2621,6 +2896,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000148]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000115"
 msgid ""
 "You know when they say \"Buckle up, it's gonna be a bumpy ride.\" They were "
@@ -2630,6 +2906,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000147]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000116"
 msgid "You walloped that thing good."
 msgstr ""
@@ -2637,6 +2914,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000146]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000117"
 msgid "You've gotten your eyes checked lately? Just saying."
 msgstr ""
@@ -2644,6 +2922,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000145]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000118"
 msgid "Agh! My neck!"
 msgstr ""
@@ -2651,6 +2930,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000144]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000119"
 msgid "Glad I buckled up."
 msgstr ""
@@ -2658,6 +2938,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000143]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00011A"
 msgid "You're hitting everything on my bingo card."
 msgstr ""
@@ -2665,6 +2946,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000142]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00011B"
 msgid "Easy!"
 msgstr ""
@@ -2672,6 +2954,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000141]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00011C"
 msgid "Whoa!"
 msgstr ""
@@ -2679,6 +2962,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00013F]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00011D"
 msgid "Overall traffic on this road has decreased."
 msgstr ""
@@ -2686,6 +2970,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00013E]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00011E"
 msgid "Road hazard removed."
 msgstr ""
@@ -2693,6 +2978,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00013D]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00011F"
 msgid "We hit the hostile with significant velocity to cause death."
 msgstr ""
@@ -2700,6 +2986,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00013C]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000120"
 msgid "Pedestrians should look both ways before crossing the road."
 msgstr ""
@@ -2707,6 +2994,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00013B]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000121"
 msgid "Statistically, this area is now known for vehicular accidents."
 msgstr ""
@@ -2714,6 +3002,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00013A]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000122"
 msgid "Damage to vehicle -- minor. Damage to hostile -- permanent."
 msgstr ""
@@ -2721,6 +3010,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000139]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000123"
 msgid ""
 "Pedestrians yield the right of way when there is no designated crosswalk."
@@ -2729,6 +3019,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000138]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000124"
 msgid "Obstacle removed."
 msgstr ""
@@ -2736,6 +3027,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000137]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000125"
 msgid "The road is now clear."
 msgstr ""
@@ -2743,6 +3035,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000136]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000126"
 msgid "Pedestrian eliminated."
 msgstr ""
@@ -2750,6 +3043,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000134]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000127"
 msgid "Certainly more effective than a banana peel."
 msgstr ""
@@ -2757,6 +3051,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000133]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000128"
 msgid "That's a direct hit!"
 msgstr ""
@@ -2764,6 +3059,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000132]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000129"
 msgid "And stay down!"
 msgstr ""
@@ -2771,6 +3067,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000131]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00012A"
 msgid "Force equals mass times acceleration."
 msgstr ""
@@ -2778,6 +3075,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000130]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00012B"
 msgid "They won't be standing up from that!"
 msgstr ""
@@ -2785,6 +3083,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00012F]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00012C"
 msgid "That's one fewer hostile!"
 msgstr ""
@@ -2792,6 +3091,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00012E]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00012D"
 msgid ""
 "I don't think this vehicle was designed to run over people, but it's "
@@ -2801,6 +3101,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00012D]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00012E"
 msgid "I hope your insurance covers that!"
 msgstr ""
@@ -2808,6 +3109,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00012C]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00012F"
 msgid "They'll think twice before stepping in front of us!"
 msgstr ""
@@ -2815,6 +3117,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00012B]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000130"
 msgid "Having a lead foot is good in some situations!"
 msgstr ""
@@ -2822,6 +3125,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000229]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000131"
 msgid "You thought you could run?"
 msgstr ""
@@ -2829,6 +3133,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000228]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000132"
 msgid "Their heads are our trophies!"
 msgstr ""
@@ -2836,6 +3141,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000129]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000133"
 msgid "A perfect way to test the shocks!"
 msgstr ""
@@ -2843,6 +3149,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000128]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000134"
 msgid "They were foolish to stand in our path!"
 msgstr ""
@@ -2850,6 +3157,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000126]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000135"
 msgid "They have reaped what they have sown!"
 msgstr ""
@@ -2857,6 +3165,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000125]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000136"
 msgid "It's almost as if they had a death wish."
 msgstr ""
@@ -2864,6 +3173,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000124]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000137"
 msgid "As they say, sometimes you're the bug."
 msgstr ""
@@ -2871,6 +3181,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000123]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000138"
 msgid "I think I heard their bones crunch."
 msgstr ""
@@ -2878,6 +3189,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000122]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000139"
 msgid "If they do not abide by the rules of the road, than neither shall we."
 msgstr ""
@@ -2885,6 +3197,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000120]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00013A"
 msgid "Fighting enemies like this is highly efficient!"
 msgstr ""
@@ -2892,6 +3205,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000121]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00013B"
 msgid "In war, anything can be a weapon."
 msgstr ""
@@ -2899,6 +3213,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000127]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00013C"
 msgid "You clearly had the right of way."
 msgstr ""
@@ -2906,6 +3221,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00011E]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00013D"
 msgid "Who needs a gun when you have four wheels and a lead foot!"
 msgstr ""
@@ -2913,6 +3229,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00011D]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00013E"
 msgid "And that's why we say always wear a helmet..."
 msgstr ""
@@ -2920,6 +3237,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00011C]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00013F"
 msgid "Think you get bonus points for that one!"
 msgstr ""
@@ -2927,6 +3245,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00011B]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000140"
 msgid "Please be patient! We're student drivers!"
 msgstr ""
@@ -2934,6 +3253,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00011A]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000141"
 msgid "I hope it's not my turn to clean up the bloodstains."
 msgstr ""
@@ -2941,6 +3261,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000119]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000142"
 msgid "That'll teach them to cross the road!"
 msgstr ""
@@ -2948,6 +3269,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000227]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000143"
 msgid "I hope they got our plate number!"
 msgstr ""
@@ -2955,6 +3277,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000284]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000144"
 msgid "Move it or lose it!"
 msgstr ""
@@ -2962,6 +3285,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000226]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000145"
 msgid "Ouchie!"
 msgstr ""
@@ -2969,6 +3293,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000118]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000146"
 msgid "Bonk!"
 msgstr ""
@@ -2976,6 +3301,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000117]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000147"
 msgid "Someone's gonna need a chiropractor!"
 msgstr ""
@@ -2983,6 +3309,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000116]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000148"
 msgid "They were probably jaywalking."
 msgstr ""
@@ -2990,6 +3317,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000115]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000149"
 msgid "Head, meet bumper!"
 msgstr ""
@@ -2997,6 +3325,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000113]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00014A"
 msgid "That's one way to take somebody out!"
 msgstr ""
@@ -3004,6 +3333,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000112]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00014B"
 msgid "I'm sure their mother will still think they're a catch."
 msgstr ""
@@ -3011,6 +3341,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000111]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00014C"
 msgid "Ouch. I felt that up here."
 msgstr ""
@@ -3018,6 +3349,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000110]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00014D"
 msgid "Think they're dead?"
 msgstr ""
@@ -3025,6 +3357,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00010F]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00014E"
 msgid "That's what happens when you get in our way!"
 msgstr ""
@@ -3032,6 +3365,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00010E]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00014F"
 msgid "That's gotta hurt!"
 msgstr ""
@@ -3039,6 +3373,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00010D]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000150"
 msgid "No one's gonna recognize that body!"
 msgstr ""
@@ -3046,6 +3381,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00010C]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000151"
 msgid "Road rage always leads to roadkill."
 msgstr ""
@@ -3053,6 +3389,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000225]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000152"
 msgid "Run 'em through!"
 msgstr ""
@@ -3060,6 +3397,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00010B]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000153"
 msgid "Got 'em!"
 msgstr ""
@@ -3067,6 +3405,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00010A]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000154"
 msgid "Like a fly on a windshield!"
 msgstr ""
@@ -3074,6 +3413,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000108]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000155"
 msgid "Explosive devices in the immediate vicinity."
 msgstr ""
@@ -3081,6 +3421,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000107]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000156"
 msgid "The vehicle has suffered damage."
 msgstr ""
@@ -3088,6 +3429,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000106]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000157"
 msgid "Caution: bumpy road."
 msgstr ""
@@ -3095,6 +3437,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000105]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000158"
 msgid "The ground does not appear to be free of dangers."
 msgstr ""
@@ -3102,6 +3445,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000104]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000159"
 msgid "Use caution when driving over mines."
 msgstr ""
@@ -3109,6 +3453,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000103]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00015A"
 msgid "It appears there are mines in the immediate area."
 msgstr ""
@@ -3116,6 +3461,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000102]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00015B"
 msgid "There appear to be mines on the ground here."
 msgstr ""
@@ -3123,6 +3469,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000101]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00015C"
 msgid ""
 "This unit is equipped to deal with sudden shocks. The same cannot be said "
@@ -3132,6 +3479,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000100]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00015D"
 msgid "The mine has been obliterated."
 msgstr ""
@@ -3139,6 +3487,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000FF]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00015E"
 msgid ""
 "Running over mines can significantly decrease the lifespan of this vehicle."
@@ -3147,6 +3496,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000FD]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00015F"
 msgid "This isn't a tank, you know!"
 msgstr ""
@@ -3154,6 +3504,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000FC]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000160"
 msgid "We can't take much more of this!"
 msgstr ""
@@ -3161,6 +3512,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000FB]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000161"
 msgid "Be mindful!"
 msgstr ""
@@ -3168,6 +3520,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000FA]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000162"
 msgid "Gah!"
 msgstr ""
@@ -3175,6 +3528,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000F9]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000163"
 msgid "Be careful!"
 msgstr ""
@@ -3182,6 +3536,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000F8]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000164"
 msgid "Think, think, think!"
 msgstr ""
@@ -3189,6 +3544,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000F7]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000165"
 msgid "Pay attention!"
 msgstr ""
@@ -3196,6 +3552,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000F6]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000166"
 msgid "Now I'm wondering how you manage to pilot a ship."
 msgstr ""
@@ -3203,6 +3560,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000F5]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000167"
 msgid "Do you always drive like this?"
 msgstr ""
@@ -3210,6 +3568,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000F4]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000168"
 msgid "Do we really need to drive over EVERY mine?"
 msgstr ""
@@ -3217,6 +3576,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000F2]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000169"
 msgid "We hit a mine!"
 msgstr ""
@@ -3224,6 +3584,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000F1]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00016A"
 msgid "Watch the mines!"
 msgstr ""
@@ -3231,6 +3592,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000F0]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00016B"
 msgid "Be more attentive!"
 msgstr ""
@@ -3238,6 +3600,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000EF]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00016C"
 msgid "Too many mines!"
 msgstr ""
@@ -3245,6 +3608,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000EE]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00016D"
 msgid "We've taken another hit!"
 msgstr ""
@@ -3252,6 +3616,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000ED]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00016E"
 msgid "That one sounded bad."
 msgstr ""
@@ -3259,6 +3624,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000EC]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00016F"
 msgid "Ugh! Try to steer clear of the mines!"
 msgstr ""
@@ -3266,6 +3632,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000EB]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000170"
 msgid "Stay alert!"
 msgstr ""
@@ -3273,6 +3640,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000EA]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000171"
 msgid "Agh! Watch where you're driving!"
 msgstr ""
@@ -3280,6 +3648,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000E9]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "000172"
 msgid "You would do well to avoid the mines."
 msgstr ""
@@ -3287,6 +3656,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000E7]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000173"
 msgid "Is my head still attached?"
 msgstr ""
@@ -3294,6 +3664,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000E6]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000174"
 msgid "I wonder if my insurance covers this."
 msgstr ""
@@ -3301,6 +3672,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000E5]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000175"
 msgid "This is one bumpy ride!"
 msgstr ""
@@ -3308,6 +3680,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000E4]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000176"
 msgid "Nuh!"
 msgstr ""
@@ -3315,6 +3688,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000E3]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000177"
 msgid "Agh!"
 msgstr ""
@@ -3322,6 +3696,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000E2]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000178"
 msgid "They do say the most direct path is a straight line!"
 msgstr ""
@@ -3329,6 +3704,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000E1]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "000179"
 msgid "That's gonna require some repairs!"
 msgstr ""
@@ -3336,6 +3712,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000E0]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00017A"
 msgid ""
 "I was going to say \"Watch out for the mine,\" but I figured it'd be more "
@@ -3345,6 +3722,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000DF]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00017B"
 msgid "I felt that one in my back."
 msgstr ""
@@ -3352,6 +3730,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000DE]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "00017C"
 msgid "Hold it together, old girl!"
 msgstr ""
@@ -3359,6 +3738,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000DC]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00017D"
 msgid "Damn things are all over the place!"
 msgstr ""
@@ -3366,6 +3746,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000DB]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00017E"
 msgid "They just creep up on you, don't they?"
 msgstr ""
@@ -3373,6 +3754,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000DA]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "00017F"
 msgid "That one hurt!"
 msgstr ""
@@ -3380,6 +3762,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000D9]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000180"
 msgid "Oof! Let's hope this thing stays in one piece!"
 msgstr ""
@@ -3387,6 +3770,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000D8]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000181"
 msgid "Watch the road!"
 msgstr ""
@@ -3394,6 +3778,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000D7]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000182"
 msgid "You could lose your license for that."
 msgstr ""
@@ -3401,6 +3786,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000D6]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000183"
 msgid "There goes my lunch."
 msgstr ""
@@ -3408,6 +3794,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000D5]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000184"
 msgid "Ugh! These mines are hard to miss!"
 msgstr ""
@@ -3415,6 +3802,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000D4]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000185"
 msgid "Goddamn, didn't see that one!"
 msgstr ""
@@ -3422,6 +3810,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000D3]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "000186"
 msgid "Ugh!"
 msgstr ""
@@ -3429,6 +3818,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000D1]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000187"
 msgid "Engine at maximum power."
 msgstr ""
@@ -3436,6 +3826,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000D0]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000188"
 msgid "Engine throttle at maximum."
 msgstr ""
@@ -3443,6 +3834,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000CF]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000189"
 msgid "I apologize for any decreased speed in this vehicle due to my weight."
 msgstr ""
@@ -3450,6 +3842,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000CE]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00018A"
 msgid "Unlike humans, I do not experience thrills from increased velocity."
 msgstr ""
@@ -3457,6 +3850,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000CD]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00018B"
 msgid "The faster we go, the faster we will reach our destination."
 msgstr ""
@@ -3464,6 +3858,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000CC]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00018C"
 msgid "Vehicle boosted."
 msgstr ""
@@ -3471,6 +3866,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000CB]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00018D"
 msgid "Velocity at unsafe levels."
 msgstr ""
@@ -3478,6 +3874,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000CA]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00018E"
 msgid "Be sure not to hit any obstacles at high speeds."
 msgstr ""
@@ -3485,6 +3882,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000C9]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "00018F"
 msgid "Vehicle is at optimum velocity."
 msgstr ""
@@ -3492,6 +3890,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000C8]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "000190"
 msgid "Redlining vehicle."
 msgstr ""
@@ -3499,6 +3898,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000C6]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000191"
 msgid "We're really moving now!"
 msgstr ""
@@ -3506,6 +3906,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000C5]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000192"
 msgid "We're making good time."
 msgstr ""
@@ -3513,6 +3914,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000C4]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000193"
 msgid "It's like our own little roller coaster."
 msgstr ""
@@ -3520,6 +3922,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000C3]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000194"
 msgid "This is too much fun!"
 msgstr ""
@@ -3527,6 +3930,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000C2]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000195"
 msgid "Nothing like the wind in your hair."
 msgstr ""
@@ -3534,6 +3938,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000C1]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000196"
 msgid "There's no slowing down now!"
 msgstr ""
@@ -3541,6 +3946,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000C0]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000197"
 msgid "And off we go!"
 msgstr ""
@@ -3548,6 +3954,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000BF]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000198"
 msgid "Let's push it!"
 msgstr ""
@@ -3555,6 +3962,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000BE]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "000199"
 msgid "Full speed ahead!"
 msgstr ""
@@ -3562,6 +3970,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000BD]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "00019A"
 msgid "Hold on tight!"
 msgstr ""
@@ -3569,6 +3978,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000BB]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00019B"
 msgid "Now we are having fun!"
 msgstr ""
@@ -3576,6 +3986,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000BA]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00019C"
 msgid "Let's go!"
 msgstr ""
@@ -3583,6 +3994,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000B9]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00019D"
 msgid "You can go faster."
 msgstr ""
@@ -3590,6 +4002,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000B8]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00019E"
 msgid "We'll get there in no time."
 msgstr ""
@@ -3597,6 +4010,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000B7]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "00019F"
 msgid "Boosting gives me such a rush."
 msgstr ""
@@ -3604,6 +4018,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000B6]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0001A0"
 msgid "We will leave everyone in the dust."
 msgstr ""
@@ -3611,6 +4026,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000B5]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0001A1"
 msgid "I prefer it when we are boosting."
 msgstr ""
@@ -3618,6 +4034,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000B4]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0001A2"
 msgid "We've reached peak velocity."
 msgstr ""
@@ -3625,6 +4042,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000B3]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0001A3"
 msgid "All systems go."
 msgstr ""
@@ -3632,6 +4050,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000B2]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0001A4"
 msgid "We are better when we are faster."
 msgstr ""
@@ -3639,6 +4058,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000B0]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001A5"
 msgid "Who wants to race?"
 msgstr ""
@@ -3646,6 +4066,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000AF]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001A6"
 msgid "Let's see what this thing can do!"
 msgstr ""
@@ -3653,6 +4074,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000AE]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001A7"
 msgid "Full throttle!"
 msgstr ""
@@ -3660,6 +4082,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000AD]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001A8"
 msgid "Time to test the laws of motion!"
 msgstr ""
@@ -3667,6 +4090,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000AC]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001A9"
 msgid "Faster than a speeding bullet!"
 msgstr ""
@@ -3674,6 +4098,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000AB]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001AA"
 msgid "We're burning rubber!"
 msgstr ""
@@ -3681,6 +4106,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000AA]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001AB"
 msgid "Full steam ahead!"
 msgstr ""
@@ -3688,6 +4114,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000283]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001AC"
 msgid "Do you feel that momentum!? Yeeeow, baby!"
 msgstr ""
@@ -3695,6 +4122,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000A9]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001AD"
 msgid "And we have lift off!"
 msgstr ""
@@ -3702,6 +4130,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000A8]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001AE"
 msgid "Vroom vroom!"
 msgstr ""
@@ -3709,6 +4138,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000A7]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001AF"
 msgid "Pedal to the metal!"
 msgstr ""
@@ -3716,6 +4146,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000A5]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001B0"
 msgid "That's putting it in gear."
 msgstr ""
@@ -3723,6 +4154,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000A4]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001B1"
 msgid "Go, go, go!"
 msgstr ""
@@ -3730,6 +4162,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000A3]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001B2"
 msgid "Who needs brakes, am I right?"
 msgstr ""
@@ -3737,6 +4170,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000A2]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001B3"
 msgid "Hell yeah, spam that boost."
 msgstr ""
@@ -3744,6 +4178,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000A1]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001B4"
 msgid "Hang on to your hats!"
 msgstr ""
@@ -3751,6 +4186,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE0000A0]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001B5"
 msgid "Punching it!"
 msgstr ""
@@ -3758,6 +4194,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00009F]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001B6"
 msgid "Like a bat out of hell."
 msgstr ""
@@ -3765,6 +4202,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00009E]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001B7"
 msgid "God's speed."
 msgstr ""
@@ -3772,6 +4210,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00009D]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001B8"
 msgid "Buckle up!"
 msgstr ""
@@ -3779,6 +4218,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00009C]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001B9"
 msgid "Oh we're moving now."
 msgstr ""
@@ -3786,6 +4226,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00009A]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0001BA"
 msgid "Overall traffic on this road has decreased."
 msgstr ""
@@ -3793,6 +4234,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000099]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0001BB"
 msgid "Road hazard removed."
 msgstr ""
@@ -3800,6 +4242,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000098]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0001BC"
 msgid "The vehicle now carries the burden of our adventure."
 msgstr ""
@@ -3807,6 +4250,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000097]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0001BD"
 msgid "The vehicle should help carry the additional weight we've accumulated."
 msgstr ""
@@ -3814,6 +4258,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000096]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0001BE"
 msgid "All systems are operational. Please proceed to press pedal to metal."
 msgstr ""
@@ -3821,6 +4266,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000095]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0001BF"
 msgid ""
 "I require no seat belt. Please ignore all warning systems to the contrary."
@@ -3829,6 +4275,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000094]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0001C0"
 msgid "Entering vehicle. Please drive safely."
 msgstr ""
@@ -3836,6 +4283,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000093]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0001C1"
 msgid "All systems appear to be working correctly. Adventure may commence."
 msgstr ""
@@ -3843,6 +4291,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000092]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0001C2"
 msgid "Vehicle mode initialized."
 msgstr ""
@@ -3850,6 +4299,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000091]
 #. REC: INFO:NAM1
+#. Speaker: Vasco
 msgctxt "0001C3"
 msgid "Checking gauges -- we are ready for ignition."
 msgstr ""
@@ -3857,6 +4307,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00008F]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0001C4"
 msgid "It's good to give our legs a rest."
 msgstr ""
@@ -3864,6 +4315,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00008E]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0001C5"
 msgid "Smart. My feet could use the break."
 msgstr ""
@@ -3871,6 +4323,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00008D]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0001C6"
 msgid "A vehicle comes in handy when exploring terrain like this."
 msgstr ""
@@ -3878,6 +4331,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00008C]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0001C7"
 msgid "You read my mind. We should be safer taking the vehicle."
 msgstr ""
@@ -3885,6 +4339,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00008B]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0001C8"
 msgid "I'll try not to be a backseat driver."
 msgstr ""
@@ -3892,6 +4347,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00008A]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0001C9"
 msgid "Where to?"
 msgstr ""
@@ -3899,6 +4355,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000089]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0001CA"
 msgid "You take the wheel."
 msgstr ""
@@ -3906,6 +4363,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000088]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0001CB"
 msgid "Now we're exploring in style."
 msgstr ""
@@ -3913,6 +4371,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000087]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0001CC"
 msgid "Let's put it in gear."
 msgstr ""
@@ -3920,6 +4379,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000086]
 #. REC: INFO:NAM1
+#. Speaker: SarahMorgan
 msgctxt "0001CD"
 msgid "Fancy a drive?"
 msgstr ""
@@ -3927,6 +4387,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000084]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0001CE"
 msgid "I was worried we'd have to walk back. Good thing we have this ride."
 msgstr ""
@@ -3934,6 +4395,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000083]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0001CF"
 msgid "It's nice to not have to walk back with all our things."
 msgstr ""
@@ -3941,6 +4403,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000082]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0001D0"
 msgid "I appreciate the extra leg room, especially when wearing a spacesuit."
 msgstr ""
@@ -3948,6 +4411,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000081]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0001D1"
 msgid "It's nice to have a vehicle to navigate places like this."
 msgstr ""
@@ -3955,6 +4419,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000080]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0001D2"
 msgid "I appreciate you taking the wheel."
 msgstr ""
@@ -3962,6 +4427,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00007F]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0001D3"
 msgid "I'll let you steer."
 msgstr ""
@@ -3969,6 +4435,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00007E]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0001D4"
 msgid "Why walk when we can coast?"
 msgstr ""
@@ -3976,6 +4443,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00007D]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0001D5"
 msgid "You drive. I get too much road rage."
 msgstr ""
@@ -3983,6 +4451,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00007C]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0001D6"
 msgid "Fine day for a drive, isn't it?"
 msgstr ""
@@ -3990,6 +4459,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00007B]
 #. REC: INFO:NAM1
+#. Speaker: Andreja
 msgctxt "0001D7"
 msgid "Riding in style, I see."
 msgstr ""
@@ -3997,6 +4467,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000079]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001D8"
 msgid "I love a nice long drive in an inhospitable world."
 msgstr ""
@@ -4004,6 +4475,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000078]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001D9"
 msgid "Hopefully we got enough room for all the loot we're carrying."
 msgstr ""
@@ -4011,6 +4483,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000077]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001DA"
 msgid "I'm sure your back appreciates the lift."
 msgstr ""
@@ -4018,6 +4491,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000076]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001DB"
 msgid "This thing have A/C?"
 msgstr ""
@@ -4025,6 +4499,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000075]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001DC"
 msgid "Let's turn on the heat!"
 msgstr ""
@@ -4032,6 +4507,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000282]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001DD"
 msgid "If you see a perfectly ramp-shaped outcrop, go ahead. I'm ready."
 msgstr ""
@@ -4039,6 +4515,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000074]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001DE"
 msgid "Buckle up, it's time to roll!"
 msgstr ""
@@ -4046,6 +4523,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000073]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001DF"
 msgid "Now this is one sweet ride."
 msgstr ""
@@ -4053,6 +4531,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000072]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001E0"
 msgid "Nice wheels."
 msgstr ""
@@ -4060,6 +4539,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000281]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001E1"
 msgid "Does this thing play music?"
 msgstr ""
@@ -4067,6 +4547,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000071]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001E2"
 msgid "I got shotgun!"
 msgstr ""
@@ -4074,6 +4555,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000070]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001E3"
 msgid "Thanks for driving, by the way."
 msgstr ""
@@ -4081,6 +4563,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00006F]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001E4"
 msgid "Thanks for the lift!"
 msgstr ""
@@ -4088,6 +4571,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00006E]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001E5"
 msgid "Checking the fuel gauge -- we should be good!"
 msgstr ""
@@ -4095,6 +4579,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00006D]
 #. REC: INFO:NAM1
+#. Speaker: Barrett
 msgctxt "0001E6"
 msgid "Rubber, meet road."
 msgstr ""
@@ -4102,6 +4587,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00006B]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001E7"
 msgid "Got my helmet on, just in case."
 msgstr ""
@@ -4109,6 +4595,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE00006A]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001E8"
 msgid "Good idea. It's way too hazardous to walk."
 msgstr ""
@@ -4116,6 +4603,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000069]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001E9"
 msgid "Thank god for the wheels. That'll save us a long walk back."
 msgstr ""
@@ -4123,6 +4611,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000068]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001EA"
 msgid "Good call. As much as we're carrying, my feet could use a break."
 msgstr ""
@@ -4130,6 +4619,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000067]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001EB"
 msgid "All systems go."
 msgstr ""
@@ -4137,6 +4627,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000066]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001EC"
 msgid "Looks like I got shotgun."
 msgstr ""
@@ -4144,6 +4635,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000065]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001ED"
 msgid "Keys, check. Hat, double check."
 msgstr ""
@@ -4151,6 +4643,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000064]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001EE"
 msgid "Time to hit the road."
 msgstr ""
@@ -4158,6 +4651,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000063]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001EF"
 msgid "Giddyup."
 msgstr ""
@@ -4165,6 +4659,7 @@ msgstr ""
 #. List: 2
 #. EDID: [FE000062]
 #. REC: INFO:NAM1
+#. Speaker: SamCoe
 msgctxt "0001F0"
 msgid "Let's ride."
 msgstr ""
@@ -4287,5 +4782,3 @@ msgstr ""
 msgctxt "00025C"
 msgid "Hostile destroyed."
 msgstr ""
-
-

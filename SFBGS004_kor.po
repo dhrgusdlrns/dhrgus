@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-23 00:19+0900\n"
-"PO-Revision-Date: 2024-08-22 15:53+0000\n"
-"Last-Translator: singularity <eldergmg@gmail.com>\n"
+"PO-Revision-Date: 2024-08-25 02:24+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -668,7 +668,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000002"
 msgid "Enemy killed."
-msgstr ""
+msgstr "적 사살됨."
 
 #. List: 2
 #. EDID: [FE00027D]
@@ -676,7 +676,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000003"
 msgid "We've eliminated the target."
-msgstr ""
+msgstr "목표를 제거했습니다."
 
 #. List: 2
 #. EDID: [FE00027C]
@@ -684,7 +684,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000004"
 msgid "The enemy has been cleared from the battlefield."
-msgstr ""
+msgstr "적이 전장에서 치워졌습니다."
 
 #. List: 2
 #. EDID: [FE00027B]
@@ -692,7 +692,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000005"
 msgid "Hostile destroyed."
-msgstr ""
+msgstr "적대제 개체 파괴됨."
 
 #. List: 2
 #. EDID: [FE00027A]
@@ -700,7 +700,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000006"
 msgid "Hostile removed."
-msgstr ""
+msgstr "적대제 개체 제거됨."
 
 #. List: 2
 #. EDID: [FE000279]
@@ -708,7 +708,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000007"
 msgid "Target removed."
-msgstr ""
+msgstr "목표 제거됨."
 
 #. List: 2
 #. EDID: [FE000278]
@@ -716,7 +716,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000008"
 msgid "Excellent shooting, Captain."
-msgstr ""
+msgstr "훌륭한 사격입니다, 선장님."
 
 #. List: 2
 #. EDID: [FE000277]
@@ -724,7 +724,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000009"
 msgid "Target destroyed."
-msgstr ""
+msgstr "목표 파괴됨."
 
 #. List: 2
 #. EDID: [FE000276]
@@ -732,7 +732,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00000A"
 msgid "Target eliminated."
-msgstr ""
+msgstr "목표 제거 완료."
 
 #. List: 2
 #. EDID: [FE000274]
@@ -748,7 +748,7 @@ msgstr ""
 #. Speaker: SarahMorgan
 msgctxt "00000C"
 msgid "Target eliminated!"
-msgstr ""
+msgstr "목표 제거 완료!"
 
 #. List: 2
 #. EDID: [FE000272]
@@ -876,7 +876,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "00001C"
 msgid "Target eliminated!"
-msgstr ""
+msgstr "목표 제거 완료!"
 
 #. List: 2
 #. EDID: [FE000261]
@@ -932,7 +932,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "000023"
 msgid "Target eliminated!"
-msgstr ""
+msgstr "목표 제거 완료!"
 
 #. List: 2
 #. EDID: [FE000259]
@@ -1066,9 +1066,10 @@ msgstr ""
 #. EDID: [FE000247]
 #. REC: INFO:NAM1
 #. Speaker: Vasco
+#, fuzzy
 msgctxt "000034"
 msgid "Enemy target locked."
-msgstr ""
+msgstr "적 대상에 락온했습니다."
 
 #. List: 2
 #. EDID: [FE000246]
@@ -1076,7 +1077,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000035"
 msgid "Fire when ready."
-msgstr ""
+msgstr "준비되면 발사."
 
 #. List: 2
 #. EDID: [FE000245]
@@ -1084,7 +1085,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000036"
 msgid "Target in range."
-msgstr ""
+msgstr "대상 범위 안에 들어옴."
 
 #. List: 2
 #. EDID: [FE000244]
@@ -1092,15 +1093,16 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000037"
 msgid "Enemy targeted."
-msgstr ""
+msgstr "적 대상 조준됨."
 
 #. List: 2
 #. EDID: [FE000243]
 #. REC: INFO:NAM1
 #. Speaker: Vasco
+#, fuzzy
 msgctxt "000038"
 msgid "Lock engaged."
-msgstr ""
+msgstr "락온 중입니다."
 
 #. List: 2
 #. EDID: [FE000242]
@@ -1108,15 +1110,16 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000039"
 msgid "Ready to fire."
-msgstr ""
+msgstr "발사 준비 완료."
 
 #. List: 2
 #. EDID: [FE000241]
 #. REC: INFO:NAM1
 #. Speaker: Vasco
+#, fuzzy
 msgctxt "00003A"
 msgid "Lock acquired."
-msgstr ""
+msgstr "락온 완료됐습니다."
 
 #. List: 2
 #. EDID: [FE000240]
@@ -1124,7 +1127,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00003B"
 msgid "Hostile target identified."
-msgstr ""
+msgstr "적 대상이 확인되었습니다."
 
 #. List: 2
 #. EDID: [FE00023F]
@@ -1132,15 +1135,16 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00003C"
 msgid "Target acquired."
-msgstr ""
+msgstr "대상 발견."
 
 #. List: 2
 #. EDID: [FE00023E]
 #. REC: INFO:NAM1
 #. Speaker: Vasco
+#, fuzzy
 msgctxt "00003D"
 msgid "Target locked."
-msgstr ""
+msgstr "대상 락온 완료."
 
 #. List: 2
 #. EDID: [FE00023C]
@@ -1148,7 +1152,7 @@ msgstr ""
 #. Speaker: ALLCompanions
 msgctxt "00003E"
 msgid "Target acquired!"
-msgstr ""
+msgstr "대상 발견!"
 
 #. List: 2
 #. EDID: [FE00023B]
@@ -1156,15 +1160,16 @@ msgstr ""
 #. Speaker: ALLCompanions
 msgctxt "00003F"
 msgid "Fire when ready!"
-msgstr ""
+msgstr "준비되면 발사!"
 
 #. List: 2
 #. EDID: [FE00023A]
 #. REC: INFO:NAM1
 #. Speaker: ALLCompanions
+#, fuzzy
 msgctxt "000040"
 msgid "Locked on!"
-msgstr ""
+msgstr "락온!"
 
 #. List: 2
 #. EDID: [FE000239]
@@ -1178,9 +1183,10 @@ msgstr ""
 #. EDID: [FE000238]
 #. REC: INFO:NAM1
 #. Speaker: ALLCompanions
+#, fuzzy
 msgctxt "000042"
 msgid "We've got a lock!"
-msgstr ""
+msgstr "락온됨!"
 
 #. List: 2
 #. EDID: [FE000237]
@@ -1194,9 +1200,10 @@ msgstr ""
 #. EDID: [FE000236]
 #. REC: INFO:NAM1
 #. Speaker: ALLCompanions
+#, fuzzy
 msgctxt "000044"
 msgid "Target locked!"
-msgstr ""
+msgstr "대상 락온 완료!"
 
 #. List: 2
 #. EDID: [FE000235]
@@ -1212,15 +1219,16 @@ msgstr ""
 #. Speaker: ALLCompanions
 msgctxt "000046"
 msgid "Ready to fire!"
-msgstr ""
+msgstr "발사 준비 완료!"
 
 #. List: 2
 #. EDID: [FE000233]
 #. REC: INFO:NAM1
 #. Speaker: ALLCompanions
+#, fuzzy
 msgctxt "000047"
 msgid "We've locked a target!"
-msgstr ""
+msgstr "대상에 락온됨!"
 
 #. List: 2
 #. EDID: [FE000232]
@@ -1262,7 +1270,7 @@ msgctxt "00004C"
 msgid ""
 "My sensors indicate we have been parked for some time. Please consult your "
 "instruction manual if you wish to accelerate. No further action is required."
-msgstr ""
+msgstr "센서에 따르면 한동안 주차되어 있었습니다. 가속을 원하시면 사용 설명서를 참고하세요. 추가 조치는 필요하지 않습니다."
 
 #. List: 2
 #. EDID: [FE00021C]
@@ -1270,7 +1278,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00004D"
 msgid "Please take all the time you need to admire this view."
-msgstr ""
+msgstr "이 경치를 감상하기 위해 충분히 시간을 가져주십시오."
 
 #. List: 2
 #. EDID: [FE00021B]
@@ -1278,7 +1286,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00004E"
 msgid "We have been idle for some time. Would you like me to set an alarm?"
-msgstr ""
+msgstr "한동안 아무 일도 안 하고 있었습니다. 알람을 설정할까요?"
 
 #. List: 2
 #. EDID: [FE00021A]
@@ -1288,7 +1296,7 @@ msgctxt "00004F"
 msgid ""
 "If you don't intend on moving, I will use this time to contemplate my "
 "existence."
-msgstr ""
+msgstr "이동할 생각이 없다면, 이 시간을 제 존재에 대해 고민하는 시간으로 삼겠습니다."
 
 #. List: 2
 #. EDID: [FE000219]
@@ -1298,7 +1306,7 @@ msgctxt "000050"
 msgid ""
 "The vehicle has been parked for an extended period of time. Do you require "
 "anything of me?"
-msgstr ""
+msgstr "차량이 장시간 주차되어 있었습니다. 제가 도와드릴 일이 있습니까?"
 
 #. List: 2
 #. EDID: [FE000218]
@@ -1306,7 +1314,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000051"
 msgid "We have stopped. Please let me know if you need any assistance."
-msgstr ""
+msgstr "차량이 멈췄습니다. 도움이 필요하면 알려주십시오."
 
 #. List: 2
 #. EDID: [FE000217]
@@ -1314,7 +1322,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000052"
 msgid "I can perform some vehicular calibrations while we wait."
-msgstr ""
+msgstr "기다리는 동안 차량 교정 작업을 할 수 있습니다."
 
 #. List: 2
 #. EDID: [FE000216]
@@ -1322,7 +1330,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000053"
 msgid "The vehicle has been idle for some time. Do you wish to dismount?"
-msgstr ""
+msgstr "차량이 한동안 아무 동작도 안 하고 있었습니다. 하차하시겠습니까?"
 
 #. List: 2
 #. EDID: [FE000215]
@@ -1332,7 +1340,7 @@ msgctxt "000054"
 msgid ""
 "We have not moved for some time. Checking vitals. It seems you are still "
 "alive."
-msgstr ""
+msgstr "한동안 움직이지 않았습니다. 생체 신호 확인 중입니다. 당신은 아직 살아 있는 것 같습니다."
 
 #. List: 2
 #. EDID: [FE000214]
@@ -1340,7 +1348,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000055"
 msgid "Entering sleep mode."
-msgstr ""
+msgstr "절전 모드로 전환합니다."
 
 #. List: 2
 #. EDID: [FE000212]
@@ -1670,7 +1678,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00007E"
 msgid "We've entered the water. Adjusting scans for undulation."
-msgstr ""
+msgstr "물에 들어갔습니다. 물결에 맞춰 스캔을 조정합니다."
 
 #. List: 2
 #. EDID: [FE0001E5]
@@ -1678,7 +1686,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00007F"
 msgid "Caution should be exercised when traversing deep waters."
-msgstr ""
+msgstr "깊은 바다를 횡단할 때는 주의를 기울여야 합니다."
 
 #. List: 2
 #. EDID: [FE0001E4]
@@ -1686,15 +1694,16 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000080"
 msgid "Preparing for water submersion."
-msgstr ""
+msgstr "침수에 대비하십시오."
 
 #. List: 2
 #. EDID: [FE0001E3]
 #. REC: INFO:NAM1
 #. Speaker: Vasco
+#, fuzzy
 msgctxt "000081"
 msgid "I will send out a signal to repel any aquatic life."
-msgstr ""
+msgstr "수생 생물 퇴치 신호를 내보내겠습니다."
 
 #. List: 2
 #. EDID: [FE0001E2]
@@ -1702,7 +1711,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000082"
 msgid "Be careful when navigating through water."
-msgstr ""
+msgstr "수상을 항해할 때는 주의하십시오."
 
 #. List: 2
 #. EDID: [FE0001E1]
@@ -1710,7 +1719,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000083"
 msgid "We have entered the water. Please exercise caution."
-msgstr ""
+msgstr "물에 들어갔습니다. 주의하십시오."
 
 #. List: 2
 #. EDID: [FE0001E0]
@@ -1718,7 +1727,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000084"
 msgid "Based on my calculations, this vehicle is now technically a boat."
-msgstr ""
+msgstr "제 계산에 따르면, 이 차량은 이제 엄밀히 말하면 보트에 해당합니다."
 
 #. List: 2
 #. EDID: [FE0001DF]
@@ -1726,7 +1735,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000085"
 msgid "It seems this planet's gravity cannot contain you, Captain."
-msgstr ""
+msgstr "이 행성의 중력이 당신을 감당할 수 없는 것 같습니다. 선장님."
 
 #. List: 2
 #. EDID: [FE0001DE]
@@ -1736,7 +1745,7 @@ msgctxt "000086"
 msgid ""
 "Rest assured I am fully waterproof, able to withstand both immersion and "
 "water based attacks."
-msgstr ""
+msgstr "침수 및 물 기반 공격을 모두 견딜 수 있는 완전 방수 기능을 갖추고 있으니 안심하십시오."
 
 #. List: 2
 #. EDID: [FE0001DD]
@@ -1745,7 +1754,7 @@ msgstr ""
 msgctxt "000087"
 msgid ""
 "This vehicle is equipped with the latest in aquatic traversal technology."
-msgstr ""
+msgstr "이 차량에는 최신 수상 횡단 기술이 탑재되어 있습니다."
 
 #. List: 2
 #. EDID: [FE0001DB]
@@ -2078,7 +2087,7 @@ msgctxt "0000B0"
 msgid ""
 "We continue to ignore vehicle safety recommendations with every jump, "
 "Captain. It is to be commended."
-msgstr ""
+msgstr "우리는 매번 도약할 때마다 차량 안전 권고를 무시하고 있습니다. 선장님. 칭찬받아야 할 일입니다."
 
 #. List: 2
 #. EDID: [FE0001AE]
@@ -2086,7 +2095,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0000B1"
 msgid "Preliminary diagnostics indicate a successful jump, Captain."
-msgstr ""
+msgstr "예비 진단 결과 도약에 성공한 것 같습니다. 선장님."
 
 #. List: 2
 #. EDID: [FE0001AD]
@@ -2094,7 +2103,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0000B2"
 msgid "Your heart rate has increased considerably after that jump, Captain."
-msgstr ""
+msgstr "도약 후 심박수가 상당히 높아졌습니다. 선장님."
 
 #. List: 2
 #. EDID: [FE0001AC]
@@ -2103,7 +2112,7 @@ msgstr ""
 msgctxt "0000B3"
 msgid ""
 "Warning. High vertical jumps will result in an overwhelming amount of fun."
-msgstr ""
+msgstr "경고. 높은 수직 도약은 압도적인 재미를 선사합니다."
 
 #. List: 2
 #. EDID: [FE0001AB]
@@ -2112,7 +2121,7 @@ msgstr ""
 msgctxt "0000B4"
 msgid ""
 "Landing achieved. Vehicle suspension and tire pressure appear to be optimal."
-msgstr ""
+msgstr "착지에 성공했습니다. 차량 서스펜션과 타이어 공기압이 최적 상태인 것으로 보입니다."
 
 #. List: 2
 #. EDID: [FE0001AA]
@@ -2120,7 +2129,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0000B5"
 msgid "Your ability to leap over great distances is quite the feat."
-msgstr ""
+msgstr "먼 거리를 도약하는 당신의 능력은 대단한 솜씨입니다."
 
 #. List: 2
 #. EDID: [FE0001A9]
@@ -2128,7 +2137,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0000B6"
 msgid "Based on my calculations, this vehicle is now technically an aircraft."
-msgstr ""
+msgstr "제 계산에 따르면, 이 차량은 이제 엄밀히 말하면 항공기에 해당합니다."
 
 #. List: 2
 #. EDID: [FE0001A8]
@@ -2136,7 +2145,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0000B7"
 msgid "It seems this planet's gravity cannot contain you, Captain."
-msgstr ""
+msgstr "이 행성의 중력이 당신을 감당할 수 없는 것 같습니다. 선장님."
 
 #. List: 2
 #. EDID: [FE0001A7]
@@ -2146,7 +2155,7 @@ msgctxt "0000B8"
 msgid ""
 "You've managed to land this vehicle intact, despite only a ten percent "
 "chance of survival."
-msgstr ""
+msgstr "생존 확률이 10%에 불과했지만, 이 차량을 온전하게 착지시켰습니다."
 
 #. List: 2
 #. EDID: [FE0001A6]
@@ -2154,7 +2163,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0000B9"
 msgid "An impressive jump, Captain."
-msgstr ""
+msgstr "인상적인 도약이었습니다. 선장님."
 
 #. List: 2
 #. EDID: [FE0001A4]
@@ -2493,7 +2502,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0000E3"
 msgid "Be forewarned I am not suitable for crash tests as I am not a human."
-msgstr ""
+msgstr "저는 사람이 아니기 때문에 충돌 테스트에 적합하지 않다는 점을 미리 알려드립니다."
 
 #. List: 2
 #. EDID: [FE000176]
@@ -2501,7 +2510,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0000E4"
 msgid "I am gathering crash statistics with every collision."
-msgstr ""
+msgstr "저는 충돌할 때마다 충돌 통계 자료를 수집하고 있습니다."
 
 #. List: 2
 #. EDID: [FE000175]
@@ -2510,7 +2519,7 @@ msgstr ""
 msgctxt "0000E5"
 msgid ""
 "We should have you inspected for a concussion when we return to the ship."
-msgstr ""
+msgstr "함선으로 돌아가면 뇌진탕 검사를 해야 합니다."
 
 #. List: 2
 #. EDID: [FE000174]
@@ -2520,7 +2529,7 @@ msgctxt "0000E6"
 msgid ""
 "Be aware that collision avoidance warnings have not been installed in this "
 "vehicle."
-msgstr ""
+msgstr "이 차량에는 충돌 회피 경보기가 설치되어 있지 않다는 점에 유의하십시오."
 
 #. List: 2
 #. EDID: [FE000173]
@@ -2528,7 +2537,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0000E7"
 msgid "This vehicle is fully equipped for your unique driving style."
-msgstr ""
+msgstr "이 차량은 당신의 독특한 운전 스타일에 맞게 완벽하게 준비되어 있습니다."
 
 #. List: 2
 #. EDID: [FE000172]
@@ -2536,7 +2545,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0000E8"
 msgid "We have caused cosmetic damage to the vehicle."
-msgstr ""
+msgstr "차량 외장에 손상이 발생했습니다."
 
 #. List: 2
 #. EDID: [FE000171]
@@ -2544,7 +2553,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0000E9"
 msgid "Based on my calculations, a collision here was avoidable."
-msgstr ""
+msgstr "제 계산에 따르면, 이곳에서 발생한 충돌은 피할 수 있었습니다."
 
 #. List: 2
 #. EDID: [FE000170]
@@ -2554,7 +2563,7 @@ msgctxt "0000EA"
 msgid ""
 "Do not worry. This vehicle is designed to survive the occasional crash. "
 "However, its occupants are another matter."
-msgstr ""
+msgstr "걱정하지 마십시오. 이 차량은 가끔 발생하는 충돌에도 버틸 수 있도록 설계되었습니다. 하지만 탑승자가 버틸지는 다른 문제입니다."
 
 #. List: 2
 #. EDID: [FE00016F]
@@ -2562,7 +2571,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0000EB"
 msgid "In the future, it may be wise to install airbags in this vehicle."
-msgstr ""
+msgstr "향후 이 차량에 에어백을 설치하는 것이 현명할 수 있습니다."
 
 #. List: 2
 #. EDID: [FE00016E]
@@ -2570,7 +2579,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0000EC"
 msgid "We've hit an object."
-msgstr ""
+msgstr "물체에 부딪혔습니다."
 
 #. List: 2
 #. EDID: [FE00016C]
@@ -2770,7 +2779,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "000105"
 msgid "Oopsies."
-msgstr ""
+msgstr "웁스."
 
 #. List: 2
 #. EDID: [FE000156]
@@ -2778,7 +2787,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "000106"
 msgid "Yikes!"
-msgstr ""
+msgstr "앗!"
 
 #. List: 2
 #. EDID: [FE000155]
@@ -2802,7 +2811,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "000109"
 msgid "Incoming!"
-msgstr ""
+msgstr "온다!"
 
 #. List: 2
 #. EDID: [FE000152]
@@ -2965,7 +2974,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00011D"
 msgid "Overall traffic on this road has decreased."
-msgstr ""
+msgstr "이 도로의 교통량이 전반적으로 감소했습니다."
 
 #. List: 2
 #. EDID: [FE00013E]
@@ -2973,7 +2982,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00011E"
 msgid "Road hazard removed."
-msgstr ""
+msgstr "도로 위험이 제거되었습니다."
 
 #. List: 2
 #. EDID: [FE00013D]
@@ -2981,7 +2990,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00011F"
 msgid "We hit the hostile with significant velocity to cause death."
-msgstr ""
+msgstr "적을 사망에 이르게 할 정도로 빠른 속도로 충돌했습니다."
 
 #. List: 2
 #. EDID: [FE00013C]
@@ -2989,7 +2998,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000120"
 msgid "Pedestrians should look both ways before crossing the road."
-msgstr ""
+msgstr "보행자는 길을 건너기 전에 양쪽을 모두 살펴야 합니다."
 
 #. List: 2
 #. EDID: [FE00013B]
@@ -2997,7 +3006,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000121"
 msgid "Statistically, this area is now known for vehicular accidents."
-msgstr ""
+msgstr "통계적으로 이 지역은 차량 사고가 많이 발생하는 지역으로 알려져 있습니다."
 
 #. List: 2
 #. EDID: [FE00013A]
@@ -3005,7 +3014,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000122"
 msgid "Damage to vehicle -- minor. Damage to hostile -- permanent."
-msgstr ""
+msgstr "차량 피해, 경미합니다. 적에게 입힌 피해, 영구적입니다."
 
 #. List: 2
 #. EDID: [FE000139]
@@ -3014,7 +3023,7 @@ msgstr ""
 msgctxt "000123"
 msgid ""
 "Pedestrians yield the right of way when there is no designated crosswalk."
-msgstr ""
+msgstr "지정된 횡단보도가 없는 경우 보행자는 통행권을 양보해야 합니다."
 
 #. List: 2
 #. EDID: [FE000138]
@@ -3022,7 +3031,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000124"
 msgid "Obstacle removed."
-msgstr ""
+msgstr "장애물이 제거되었습니다."
 
 #. List: 2
 #. EDID: [FE000137]
@@ -3030,7 +3039,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000125"
 msgid "The road is now clear."
-msgstr ""
+msgstr "이제 도로가 정리되었습니다."
 
 #. List: 2
 #. EDID: [FE000136]
@@ -3038,7 +3047,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000126"
 msgid "Pedestrian eliminated."
-msgstr ""
+msgstr "보행자 제거 완료."
 
 #. List: 2
 #. EDID: [FE000134]
@@ -3288,7 +3297,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "000145"
 msgid "Ouchie!"
-msgstr ""
+msgstr "아으!"
 
 #. List: 2
 #. EDID: [FE000118]
@@ -3400,7 +3409,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "000153"
 msgid "Got 'em!"
-msgstr ""
+msgstr "잡았다!"
 
 #. List: 2
 #. EDID: [FE00010A]
@@ -3416,7 +3425,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000155"
 msgid "Explosive devices in the immediate vicinity."
-msgstr ""
+msgstr "주변에 폭발물이 있습니다."
 
 #. List: 2
 #. EDID: [FE000107]
@@ -3424,7 +3433,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000156"
 msgid "The vehicle has suffered damage."
-msgstr ""
+msgstr "차량이 피해를 입었습니다."
 
 #. List: 2
 #. EDID: [FE000106]
@@ -3432,7 +3441,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000157"
 msgid "Caution: bumpy road."
-msgstr ""
+msgstr "주의. 도로가 울퉁불퉁합니다."
 
 #. List: 2
 #. EDID: [FE000105]
@@ -3440,7 +3449,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000158"
 msgid "The ground does not appear to be free of dangers."
-msgstr ""
+msgstr "지상에 위험이 없는 것 같지 않습니다."
 
 #. List: 2
 #. EDID: [FE000104]
@@ -3448,7 +3457,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000159"
 msgid "Use caution when driving over mines."
-msgstr ""
+msgstr "지뢰 위를 운전할 때는 주의하십시오."
 
 #. List: 2
 #. EDID: [FE000103]
@@ -3456,7 +3465,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00015A"
 msgid "It appears there are mines in the immediate area."
-msgstr ""
+msgstr "인근 지역에 지뢰가 있는 것 같습니다."
 
 #. List: 2
 #. EDID: [FE000102]
@@ -3464,7 +3473,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00015B"
 msgid "There appear to be mines on the ground here."
-msgstr ""
+msgstr "여기 지상에 지뢰가 있는 것 같습니다."
 
 #. List: 2
 #. EDID: [FE000101]
@@ -3474,7 +3483,7 @@ msgctxt "00015C"
 msgid ""
 "This unit is equipped to deal with sudden shocks. The same cannot be said "
 "for the vehicle it rides in."
-msgstr ""
+msgstr "이 기체는 갑작스러운 충격에 대처할 수 있도록 설계되었습니다. 탑승하는 차량도 마찬가지입니다."
 
 #. List: 2
 #. EDID: [FE000100]
@@ -3482,7 +3491,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00015D"
 msgid "The mine has been obliterated."
-msgstr ""
+msgstr "지뢰가 제거되었습니다."
 
 #. List: 2
 #. EDID: [FE0000FF]
@@ -3491,7 +3500,7 @@ msgstr ""
 msgctxt "00015E"
 msgid ""
 "Running over mines can significantly decrease the lifespan of this vehicle."
-msgstr ""
+msgstr "지뢰를 밟으면 차량의 수명이 크게 감소할 수 있습니다."
 
 #. List: 2
 #. EDID: [FE0000FD]
@@ -3523,7 +3532,7 @@ msgstr ""
 #. Speaker: SarahMorgan
 msgctxt "000162"
 msgid "Gah!"
-msgstr ""
+msgstr "으아아!"
 
 #. List: 2
 #. EDID: [FE0000F9]
@@ -3683,7 +3692,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "000176"
 msgid "Nuh!"
-msgstr ""
+msgstr "욱!"
 
 #. List: 2
 #. EDID: [FE0000E3]
@@ -3691,7 +3700,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "000177"
 msgid "Agh!"
-msgstr ""
+msgstr "아!"
 
 #. List: 2
 #. EDID: [FE0000E2]
@@ -3813,7 +3822,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "000186"
 msgid "Ugh!"
-msgstr ""
+msgstr "억!"
 
 #. List: 2
 #. EDID: [FE0000D1]
@@ -3821,7 +3830,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000187"
 msgid "Engine at maximum power."
-msgstr ""
+msgstr "엔진 최대 출력."
 
 #. List: 2
 #. EDID: [FE0000D0]
@@ -3829,7 +3838,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000188"
 msgid "Engine throttle at maximum."
-msgstr ""
+msgstr "엔진 스로틀을 최대로 개방합니다."
 
 #. List: 2
 #. EDID: [FE0000CF]
@@ -3837,7 +3846,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000189"
 msgid "I apologize for any decreased speed in this vehicle due to my weight."
-msgstr ""
+msgstr "저의 중량으로 인해 차량의 속도가 느려진 점에 대해 사과드립니다."
 
 #. List: 2
 #. EDID: [FE0000CE]
@@ -3845,7 +3854,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00018A"
 msgid "Unlike humans, I do not experience thrills from increased velocity."
-msgstr ""
+msgstr "인간과 달리 저는 속도가 빨라져도 설렘을 느끼지 못합니다."
 
 #. List: 2
 #. EDID: [FE0000CD]
@@ -3853,7 +3862,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00018B"
 msgid "The faster we go, the faster we will reach our destination."
-msgstr ""
+msgstr "더 빨리 갈수록, 목적지에 더 빨리 도착할 수 있습니다."
 
 #. List: 2
 #. EDID: [FE0000CC]
@@ -3861,7 +3870,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00018C"
 msgid "Vehicle boosted."
-msgstr ""
+msgstr "차량 부스터 점화."
 
 #. List: 2
 #. EDID: [FE0000CB]
@@ -3869,7 +3878,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00018D"
 msgid "Velocity at unsafe levels."
-msgstr ""
+msgstr "안전하지 않은 수준의 속도입니다."
 
 #. List: 2
 #. EDID: [FE0000CA]
@@ -3877,7 +3886,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00018E"
 msgid "Be sure not to hit any obstacles at high speeds."
-msgstr ""
+msgstr "빠른 속도로 장애물에 부딪히지 않도록 주의하십시오."
 
 #. List: 2
 #. EDID: [FE0000C9]
@@ -3885,7 +3894,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "00018F"
 msgid "Vehicle is at optimum velocity."
-msgstr ""
+msgstr "차량이 최적의 속도로 주행 중입니다."
 
 #. List: 2
 #. EDID: [FE0000C8]
@@ -3893,7 +3902,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "000190"
 msgid "Redlining vehicle."
-msgstr ""
+msgstr "차량의 운용한계에 주의하십시오."
 
 #. List: 2
 #. EDID: [FE0000C6]
@@ -4133,7 +4142,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001AE"
 msgid "Vroom vroom!"
-msgstr ""
+msgstr "부릉 부릉!"
 
 #. List: 2
 #. EDID: [FE0000A7]
@@ -4229,7 +4238,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0001BA"
 msgid "Overall traffic on this road has decreased."
-msgstr ""
+msgstr "이 도로의 전반적인 교통량이 감소했습니다."
 
 #. List: 2
 #. EDID: [FE000099]
@@ -4237,7 +4246,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0001BB"
 msgid "Road hazard removed."
-msgstr ""
+msgstr "도로 위험이 제거되었습니다."
 
 #. List: 2
 #. EDID: [FE000098]
@@ -4245,7 +4254,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0001BC"
 msgid "The vehicle now carries the burden of our adventure."
-msgstr ""
+msgstr "이제 차량이 우리 모험의 짐을 짊어지고 있습니다."
 
 #. List: 2
 #. EDID: [FE000097]
@@ -4253,7 +4262,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0001BD"
 msgid "The vehicle should help carry the additional weight we've accumulated."
-msgstr ""
+msgstr "차량은 우리가 축적한 추가 중량물을 운반하는 데 도움이 될 것입니다."
 
 #. List: 2
 #. EDID: [FE000096]
@@ -4261,7 +4270,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0001BE"
 msgid "All systems are operational. Please proceed to press pedal to metal."
-msgstr ""
+msgstr "모든 시스템이 작동합니다. 페달을 전속력으로 밟아주십시오."
 
 #. List: 2
 #. EDID: [FE000095]
@@ -4270,7 +4279,7 @@ msgstr ""
 msgctxt "0001BF"
 msgid ""
 "I require no seat belt. Please ignore all warning systems to the contrary."
-msgstr ""
+msgstr "안전벨트는 필요하지 않습니다. 안전벨트를 매라는 경고 시스템은 모두 무시해 주십시오."
 
 #. List: 2
 #. EDID: [FE000094]
@@ -4278,7 +4287,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0001C0"
 msgid "Entering vehicle. Please drive safely."
-msgstr ""
+msgstr "차량에 탑승했습니다. 안전 운전하십시오."
 
 #. List: 2
 #. EDID: [FE000093]
@@ -4286,7 +4295,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0001C1"
 msgid "All systems appear to be working correctly. Adventure may commence."
-msgstr ""
+msgstr "모든 시스템이 정상 작동하는 것 같습니다. 모험을 시작해도 좋습니다."
 
 #. List: 2
 #. EDID: [FE000092]
@@ -4294,7 +4303,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0001C2"
 msgid "Vehicle mode initialized."
-msgstr ""
+msgstr "차량 모드가 초기화되었습니다."
 
 #. List: 2
 #. EDID: [FE000091]
@@ -4302,7 +4311,7 @@ msgstr ""
 #. Speaker: Vasco
 msgctxt "0001C3"
 msgid "Checking gauges -- we are ready for ignition."
-msgstr ""
+msgstr "게이지 확인. 점화 준비 완료되었습니다."
 
 #. List: 2
 #. EDID: [FE00008F]
@@ -4542,7 +4551,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001E1"
 msgid "Does this thing play music?"
-msgstr ""
+msgstr "이거 노래도 틀 수 있나?"
 
 #. List: 2
 #. EDID: [FE000071]
@@ -4558,7 +4567,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001E3"
 msgid "Thanks for driving, by the way."
-msgstr ""
+msgstr "그나저나, 태워줘서 고마워."
 
 #. List: 2
 #. EDID: [FE00006F]
@@ -4582,7 +4591,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001E6"
 msgid "Rubber, meet road."
-msgstr ""
+msgstr "고무, 길을 만나다."
 
 #. List: 2
 #. EDID: [FE00006B]
@@ -4598,7 +4607,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0001E8"
 msgid "Good idea. It's way too hazardous to walk."
-msgstr ""
+msgstr "좋은 생각이야. 걸어다니기는 너무 위험한 곳이야."
 
 #. List: 2
 #. EDID: [FE000069]
@@ -4622,7 +4631,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0001EB"
 msgid "All systems go."
-msgstr ""
+msgstr "모든 시스템 정상."
 
 #. List: 2
 #. EDID: [FE000066]
@@ -4638,7 +4647,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0001ED"
 msgid "Keys, check. Hat, double check."
-msgstr ""
+msgstr "열쇠? 체크. 모자? 더블 체크."
 
 #. List: 2
 #. EDID: [FE000064]
@@ -4646,7 +4655,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0001EE"
 msgid "Time to hit the road."
-msgstr ""
+msgstr "길을 나설때로군."
 
 #. List: 2
 #. EDID: [FE000063]
@@ -4654,7 +4663,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0001EF"
 msgid "Giddyup."
-msgstr ""
+msgstr "이럇."
 
 #. List: 2
 #. EDID: [FE000062]
@@ -4662,14 +4671,14 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0001F0"
 msgid "Let's ride."
-msgstr ""
+msgstr "가보자고."
 
 #. List: 2
 #. EDID: [FE000324]
 #. REC: INFO:NAM1
 msgctxt "00024C"
 msgid "Dialogue Warning"
-msgstr ""
+msgstr "Dialogue Warning"
 
 #. List: 2
 #. EDID: [FE0002FC]
@@ -4690,42 +4699,42 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "00024F"
 msgid "Smooth landing, dusty."
-msgstr ""
+msgstr "매끄러운 착륙이야, 두더지."
 
 #. List: 2
 #. EDID: [FE0002F8]
 #. REC: INFO:NAM1
 msgctxt "000250"
 msgid "That's a touch down."
-msgstr ""
+msgstr "터치다운이군."
 
 #. List: 2
 #. EDID: [FE0002F7]
 #. REC: INFO:NAM1
 msgctxt "000251"
 msgid "Gentle as a pillow."
-msgstr ""
+msgstr "베개처럼 부드럽게."
 
 #. List: 2
 #. EDID: [FE0002F6]
 #. REC: INFO:NAM1
 msgctxt "000252"
 msgid "Easy does it."
-msgstr ""
+msgstr "식은죽먹기지."
 
 #. List: 2
 #. EDID: [FE0002F4]
 #. REC: INFO:NAM1
 msgctxt "000253"
 msgid "Textbook landing."
-msgstr ""
+msgstr "아주 교과서적인 착륙이야."
 
 #. List: 2
 #. EDID: [FE0002F3]
 #. REC: INFO:NAM1
 msgctxt "000254"
 msgid "Light as a feather."
-msgstr ""
+msgstr "깃털처럼 가볍게."
 
 #. List: 2
 #. EDID: [FE0002F2]
@@ -4739,46 +4748,46 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "000256"
 msgid "Textbook landing."
-msgstr ""
+msgstr "교과서적인 착륙이네."
 
 #. List: 2
 #. EDID: [FE0002EF]
 #. REC: INFO:NAM1
 msgctxt "000257"
 msgid "Like landing on a cloud."
-msgstr ""
+msgstr "구름에 착륙하는 기분이야."
 
 #. List: 2
 #. EDID: [FE0002EE]
 #. REC: INFO:NAM1
 msgctxt "000258"
 msgid "Descents in low gravity are so gentle."
-msgstr ""
+msgstr "저중력인 곳에서 하강하는 건 진짜 부드럽다니까."
 
 #. List: 2
 #. EDID: [FE0002E7]
 #. REC: INFO:NAM1
 msgctxt "000259"
 msgid "Textbook landing, Captain."
-msgstr ""
+msgstr "교과서적인 착륙입니다, 선장님."
 
 #. List: 2
 #. EDID: [FE0002E6]
 #. REC: INFO:NAM1
 msgctxt "00025A"
 msgid "Exemplary landing."
-msgstr ""
+msgstr "모범적인 착륙이십니다."
 
 #. List: 2
 #. EDID: [FE0002E5]
 #. REC: INFO:NAM1
 msgctxt "00025B"
 msgid "Flawless descent."
-msgstr ""
+msgstr "완벽한 하강이십니다."
 
 #. List: 2
 #. EDID: [FE00027F]
 #. REC: INFO:NAM1
 msgctxt "00025C"
 msgid "Hostile destroyed."
-msgstr ""
+msgstr "적대제 개체 파괴됨."

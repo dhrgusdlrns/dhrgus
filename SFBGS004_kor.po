@@ -14,379 +14,379 @@ msgstr ""
 "X-Generator: Weblate 4.1.1\n"
 
 #. List: 0
-#. List: EDID: SMSSet_Vehicle_Nova_REV8
-#. List: REC: FLST:FULL
+#. EDID: SMSSet_Vehicle_Nova_REV8
+#. REC: FLST:FULL
 msgctxt "000001"
 msgid "Vehicle REV-8 Module Set"
 msgstr "차량 REV-8 모듈 세트"
 
 #. List: 0
-#. List: EDID: SMS_Vehicle_Nova_REV8_Top
-#. List: REC: GBFM:FULL
+#. EDID: SMS_Vehicle_Nova_REV8_Top
+#. REC: GBFM:FULL
 msgctxt "0001F1"
 msgid "REV-8"
 msgstr "REV-8"
 
 #. List: 0
-#. List: EDID: Category_ShipMod_Vehicle
-#. List: REC: KYWD:FULL
+#. EDID: Category_ShipMod_Vehicle
+#. REC: KYWD:FULL
 msgctxt "000208"
 msgid "Vehicles"
 msgstr "차량"
 
 #. List: 0
-#. List: EDID: VehicleDriverDamageReductionFactor_AV
-#. List: REC: AVIF:FULL
+#. EDID: VehicleDriverDamageReductionFactor_AV
+#. REC: AVIF:FULL
 msgctxt "000249"
 msgid "Armor"
 msgstr "방어구"
 
 #. List: 0
-#. List: EDID: VehicleDriverPerk
-#. List: REC: PERK:FULL
+#. EDID: VehicleDriverPerk
+#. REC: PERK:FULL
 msgctxt "00024B"
 msgid "Vehicle Driver Perk"
 msgstr "차량 운전자 특성"
 
 #. List: 0
-#. List: EDID: SFBGS004_RoverWeaponProjectile
-#. List: REC: PROJ:FULL
+#. EDID: SFBGS004_RoverWeaponProjectile
+#. REC: PROJ:FULL
 msgctxt "00025D"
 msgid "LaserProjectile"
 msgstr "LaserProjectile"
 
 #. List: 0
-#. List: EDID: Rev8_MountedLaser
-#. List: REC: WEAP:WABB
+#. EDID: Rev8_MountedLaser
+#. REC: WEAP:WABB
 msgctxt "00025E"
 msgid "LAS"
 msgstr "레이저"
 
 #. List: 0
-#. List: EDID: Rev8_MountedLaser
-#. List: REC: WEAP:FULL
+#. EDID: Rev8_MountedLaser
+#. REC: WEAP:FULL
 msgctxt "00025F"
 msgid "Rev8 Laser"
 msgstr "Rev8 레이저"
 
 #. List: 0
-#. List: EDID: Rev8
-#. List: REC: FURN:ATTX
+#. EDID: Rev8
+#. REC: FURN:ATTX
 msgctxt "000260"
 msgid "Drive"
 msgstr "탑승"
 
 #. List: 0
-#. List: EDID: Rev8
-#. List: REC: FURN:FULL
+#. EDID: Rev8
+#. REC: FURN:FULL
 msgctxt "000261"
 msgid "REV-8"
 msgstr "REV-8"
 
 #. List: 0
-#. List: EDID: ShipPI_SMOD_Vehicle_Nova_REV8_Top
-#. List: REC: PKIN:FULL
+#. EDID: ShipPI_SMOD_Vehicle_Nova_REV8_Top
+#. REC: PKIN:FULL
 msgctxt "000262"
 msgid "REV-8"
 msgstr "REV-8"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:SNAM
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:SNAM
 msgctxt "000263"
 msgid "Humans"
 msgstr "Humans"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000264"
 msgid "Forehead"
 msgstr "이마"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000265"
 msgid "Eyes"
 msgstr "눈 모양"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000266"
 msgid "Eyebrows"
 msgstr "눈썹 모양"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000267"
 msgid "Ears"
 msgstr "귀"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000268"
 msgid "Nose"
 msgstr "코"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000269"
 msgid "Cheeks"
 msgstr "뺨"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "00026A"
 msgid "Mouth"
 msgstr "입"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "00026B"
 msgid "Jaw"
 msgstr "턱"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "00026C"
 msgid "Chin"
 msgstr "턱끝"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "00026D"
 msgid "Neck"
 msgstr "목"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "00026E"
 msgid "Head Shapes"
 msgstr "두상 및 얼굴형"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "00026F"
 msgid "female_as_yo1"
 msgstr "female_as_yo1"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000270"
 msgid "female_eu_yo1"
 msgstr "female_eu_yo1"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000271"
 msgid "female_af_ol1"
 msgstr "female_af_ol1"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000272"
 msgid "female_af_yo1"
 msgstr "female_af_yo1"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000273"
 msgid "female_as_ol1"
 msgstr "female_as_ol1"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000274"
 msgid "female_af_md1"
 msgstr "female_af_md1"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000275"
 msgid "female_as_md1"
 msgstr "female_as_md1"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000276"
 msgid "female_eu_ol1"
 msgstr "female_eu_ol1"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000277"
 msgid "female_eu_md2"
 msgstr "female_eu_md2"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000278"
 msgid "Chin"
 msgstr "턱끝"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000279"
 msgid "Cheeks"
 msgstr "뺨"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "00027A"
 msgid "Eyebrows"
 msgstr "눈썹 모양"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "00027B"
 msgid "Forehead"
 msgstr "이마"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "00027C"
 msgid "Neck"
 msgstr "목"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "00027D"
 msgid "Head Shapes"
 msgstr "두상 및 얼굴형"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "00027E"
 msgid "male_as_yo1"
 msgstr "male_as_yo1"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "00027F"
 msgid "male_as_ol1"
 msgstr "male_as_ol1"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000280"
 msgid "male_af_yo1"
 msgstr "male_af_yo1"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000281"
 msgid "male_af_ol1"
 msgstr "male_af_ol1"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000282"
 msgid "Jaw"
 msgstr "턱"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000283"
 msgid "Nose"
 msgstr "코"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000284"
 msgid "Eyes"
 msgstr "눈 모양"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000285"
 msgid "Ears"
 msgstr "귀"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000286"
 msgid "Mouth"
 msgstr "입"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000287"
 msgid "male_eu_yo1"
 msgstr "male_eu_yo1"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000288"
 msgid "male_eu_ol1"
 msgstr "male_eu_ol1"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "000289"
 msgid "male_eu_md2"
 msgstr "male_eu_md2"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "00028A"
 msgid "male_af_md1"
 msgstr "male_af_md1"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FMRN
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FMRN
 msgctxt "00028B"
 msgid "male_as_md1"
 msgstr "male_as_md1"
 
 #. List: 0
-#. List: EDID: SFBGS004_HumanRace
-#. List: REC: RACE:FULL
+#. EDID: SFBGS004_HumanRace
+#. REC: RACE:FULL
 msgctxt "00028C"
 msgid "Human"
 msgstr "Human"
 
 #. List: 0
-#. List: EDID: LS_Vehicle03
-#. List: REC: LSCR:DESC
+#. EDID: LS_Vehicle03
+#. REC: LSCR:DESC
 msgctxt "00028D"
 msgid ""
 "You can purchase access to and manage your vehicles by talking with a Ship "
@@ -394,8 +394,8 @@ msgid ""
 msgstr "우주항에 있는 함선 서비스 기술자와 상담하여 차량에 대한 이용 권한을 구매하고 관리할 수 있습니다."
 
 #. List: 0
-#. List: EDID: LS_Vehicle02
-#. List: REC: LSCR:DESC
+#. EDID: LS_Vehicle02
+#. REC: LSCR:DESC
 msgctxt "00028E"
 msgid ""
 "When lining up a shot in a vehicle, Aim Mode utilizes O2 to slow time "
@@ -403,8 +403,8 @@ msgid ""
 msgstr "차량에서 사격할 때 조준 모드를 켜면 산소를 소모하여 일시적으로 시간이 느리게 흐르도록 할 수 있습니다."
 
 #. List: 0
-#. List: EDID: LS_Vehicle01
-#. List: REC: LSCR:DESC
+#. EDID: LS_Vehicle01
+#. REC: LSCR:DESC
 msgctxt "00028F"
 msgid ""
 "You can upgrade the REV-8's turret by investing in Lasers, Heavy Weapon, and"
@@ -412,8 +412,8 @@ msgid ""
 msgstr "레이저 자격 인증, 중화기 자격 인증, 폭파술 스킬을 올리면 REV-8의 포탑을 업그레이드할 수 있습니다."
 
 #. List: 0
-#. List: EDID: LS_Vehicle07
-#. List: REC: LSCR:DESC
+#. EDID: LS_Vehicle07
+#. REC: LSCR:DESC
 msgctxt "000290"
 msgid ""
 "Tailor a vehicle's driving characteristics to your taste in the Settings "
@@ -421,8 +421,8 @@ msgid ""
 msgstr "설정 메뉴에서 차량 조종 방식을 취향에 맞게 변경할 수 있습니다."
 
 #. List: 0
-#. List: EDID: LS_Vehicle06
-#. List: REC: LSCR:DESC
+#. EDID: LS_Vehicle06
+#. REC: LSCR:DESC
 msgctxt "000291"
 msgid ""
 "You can customize a vehicle's paint job in the Vehicle Hangar, accessible by"
@@ -430,8 +430,8 @@ msgid ""
 msgstr "함선 서비스 기술자에게 말을 걸어 내 차량을 확인하고 도색을 변경할 수 있습니다."
 
 #. List: 0
-#. List: EDID: LS_Vehicle05
-#. List: REC: LSCR:DESC
+#. EDID: LS_Vehicle05
+#. REC: LSCR:DESC
 msgctxt "000292"
 msgid ""
 "Utilize a vehicle's vertical and forward boosters to hop over obstacles and "
@@ -439,8 +439,8 @@ msgid ""
 msgstr "차량의 도약 부스터 및 돌진 부스터를 활용하여 장애물을 뛰어넘으며 복잡한 환경을 탐색할 수 있습니다."
 
 #. List: 0
-#. List: EDID: LS_Vehicle04
-#. List: REC: LSCR:DESC
+#. EDID: LS_Vehicle04
+#. REC: LSCR:DESC
 msgctxt "000293"
 msgid ""
 "Driving a vehicle through a crowded city is frowned upon by local "
@@ -448,146 +448,146 @@ msgid ""
 msgstr "군중이 있는 도시에서 차량을 운전하면 당국의 눈살을 찌푸리게 만들 것입니다. 그리고 사라도요."
 
 #. List: 0
-#. List: EDID: sVehicleObstructedCannotExit
-#. List: REC: GMST:DATA
+#. EDID: sVehicleObstructedCannotExit
+#. REC: GMST:DATA
 msgctxt "000294"
 msgid "Vehicle exit is obstructed."
 msgstr "공간이 없어 차량에서 하차할 수 없습니다."
 
 #. List: 0
-#. List: EDID: sNoFastTravelWhileDriving
-#. List: REC: GMST:DATA
+#. EDID: sNoFastTravelWhileDriving
+#. REC: GMST:DATA
 msgctxt "000295"
 msgid "You cannot fast travel here while driving."
 msgstr "이곳에서 운전 중에는 빠른 이동을 할 수 없습니다."
 
 #. List: 0
-#. List: EDID: HelpVehicle
-#. List: REC: MESG:NNAM
+#. EDID: HelpVehicle
+#. REC: MESG:NNAM
 msgctxt "000296"
 msgid "Vehicle"
 msgstr "차량"
 
 #. List: 0
-#. List: EDID: HelpVehicle
-#. List: REC: MESG:FULL
+#. EDID: HelpVehicle
+#. REC: MESG:FULL
 msgctxt "000297"
 msgid "Vehicle"
 msgstr "차량"
 
 #. List: 0
-#. List: EDID: sMiscStatLongVehicleJumps
-#. List: REC: GMST:DATA
+#. EDID: sMiscStatLongVehicleJumps
+#. REC: GMST:DATA
 msgctxt "000299"
 msgid "Sweet Jumps"
 msgstr "Sweet Jumps"
 
 #. List: 0
-#. List: EDID: sNotAllowedToUseAutoDoorsWhileInVehicle
-#. List: REC: GMST:DATA
+#. EDID: sNotAllowedToUseAutoDoorsWhileInVehicle
+#. REC: GMST:DATA
 msgctxt "00029A"
 msgid "Exit vehicle before going through door."
 msgstr "문을 지나가려면 먼저 차량에서 하차하세요."
 
 #. List: 0
-#. List: EDID: sWorkshopBeaconPlacement_InVehicle
-#. List: REC: GMST:DATA
+#. EDID: sWorkshopBeaconPlacement_InVehicle
+#. REC: GMST:DATA
 msgctxt "00029B"
 msgid "Cannot place outpost: Must exit vehicle first."
 msgstr "전초기지 배치 불가: 먼저 차량에서 하차해야 합니다."
 
 #. List: 0
-#. List: EDID:
-# sTopicSubtypeTextMiscellaneousVehiclePassengerVerticalCollisionLowVelocity,
+#. EDID:
+#. sTopicSubtypeTextMiscellaneousVehiclePassengerVerticalCollisionLowVelocity,
 #. REC: GMST:DATA
 msgctxt "00029C"
 msgid "VehiclePassengerVerticalCollisionLowVelocity"
 msgstr "VehiclePassengerVerticalCollisionLowVelocity"
 
 #. List: 0
-#. List: EDID:
-# sTopicSubtypeTextMiscellaneousVehiclePassengerHorizontalCollision, REC:
-# GMST:DATA
+#. EDID:
+#. sTopicSubtypeTextMiscellaneousVehiclePassengerHorizontalCollision, REC:
+#. GMST:DATA
 msgctxt "00029D"
 msgid "VehiclePassengerHorizontalCollision"
 msgstr "VehiclePassengerHorizontalCollision"
 
 #. List: 0
-#. List: EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEnterVehicle,
+#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEnterVehicle,
 #. REC: GMST:DATA
 msgctxt "00029E"
 msgid "VehiclePassengerEnterVehicle"
 msgstr "VehiclePassengerEnterVehicle"
 
 #. List: 0
-#. List: EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEngageBoost,
+#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEngageBoost,
 #. REC: GMST:DATA
 msgctxt "00029F"
 msgid "VehiclePassengerEngageBoost"
 msgstr "VehiclePassengerEngageBoost"
 
 #. List: 0
-#. List: EDID:
-# sTopicSubtypeTextMiscellaneousVehiclePassengerVerticalCollision, REC:
-# GMST:DATA
+#. EDID:
+#. sTopicSubtypeTextMiscellaneousVehiclePassengerVerticalCollision, REC:
+#. GMST:DATA
 msgctxt "0002A0"
 msgid "VehiclePassengerVerticalCollision"
 msgstr "VehiclePassengerVerticalCollision"
 
 #. List: 0
-#. List: EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEnterWater,
+#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEnterWater,
 #. REC: GMST:DATA
 msgctxt "0002A1"
 msgid "VehiclePassengerEnterWater"
 msgstr "VehiclePassengerEnterWater"
 
 #. List: 0
-#. List: EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerNonMovingIdle,
+#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerNonMovingIdle,
 #. REC: GMST:DATA
 msgctxt "0002A2"
 msgid "VehiclePassengerNonMovingIdle"
 msgstr "VehiclePassengerNonMovingIdle"
 
 #. List: 0
-#. List: EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerTriggerMine,
+#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerTriggerMine,
 #. REC: GMST:DATA
 msgctxt "0002A3"
 msgid "VehiclePassengerTriggerMine"
 msgstr "VehiclePassengerTriggerMine"
 
 #. List: 0
-#. List: EDID:
-# sTopicSubtypeTextMiscellaneousVehiclePassengerAimMountedWeapon, REC:
-# GMST:DATA
+#. EDID:
+#. sTopicSubtypeTextMiscellaneousVehiclePassengerAimMountedWeapon, REC:
+#. GMST:DATA
 msgctxt "0002A4"
 msgid "VehiclePassengerAimMountedWeapon"
 msgstr "VehiclePassengerAimMountedWeapon"
 
 #. List: 0
-#. List: EDID:
-# sTopicSubtypeTextMiscellaneousVehiclePassengerKillWithCollision, REC:
-# GMST:DATA
+#. EDID:
+#. sTopicSubtypeTextMiscellaneousVehiclePassengerKillWithCollision, REC:
+#. GMST:DATA
 msgctxt "0002A5"
 msgid "VehiclePassengerKillWithCollision"
 msgstr "VehiclePassengerKillWithCollision"
 
 #. List: 0
-#. List: EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerKillWithWeapon,
+#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerKillWithWeapon,
 #. REC: GMST:DATA
 msgctxt "0002A6"
 msgid "VehiclePassengerKillWithWeapon"
 msgstr "VehiclePassengerKillWithWeapon"
 
 #. List: 0
-#. List: EDID: SFBGS004_ShipModuleRecipeCategories
-#. List: REC: FLST:FULL
+#. EDID: SFBGS004_ShipModuleRecipeCategories
+#. REC: FLST:FULL
 msgctxt "0002A7"
 msgid "SFBGS004 Ship Modules Additive"
 msgstr "SFBGS004 함선 모듈 추가 부품"
 
 #. List: 1
-#. List: EDID: co_SMS_Vehicle_Nova_REV8_Set
-#. List: REC: COBJ:DESC
+#. EDID: co_SMS_Vehicle_Nova_REV8_Set
+#. REC: COBJ:DESC
 msgctxt "000248"
 msgid ""
 "The Retrievable Exploration Vehicle is a classic buggy from Nova Galactic's "
@@ -598,15 +598,15 @@ msgstr ""
 "매우 뛰어납니다. 레이저 포탑이 장착되어 있습니다."
 
 #. List: 1
-#. List: EDID: VehicleDriverPerk
-#. List: REC: PERK:DESC
+#. EDID: VehicleDriverPerk
+#. REC: PERK:DESC
 msgctxt "00024A"
 msgid "Perk applied to the driver while they are in a vehicle"
 msgstr "차량에 탑승한 운전자에게 적용되는 특성"
 
 #. List: 1
-#. List: EDID: HelpVehicle
-#. List: REC: MESG:DESC
+#. EDID: HelpVehicle
+#. REC: MESG:DESC
 msgctxt "000298"
 msgid ""
 "To unlock access to vehicles, visit a Ship Services Tech and ask to purchase a vehicle. This will give you access to the REV-8, any other vehicles you may own, and allow you to customize them.\n"
@@ -663,526 +663,526 @@ msgstr ""
 "경적 - [VehicleHorn]"
 
 #. List: 2
-#. List: EDID: [FE00027E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00027E]
+#. REC: INFO:NAM1
 msgctxt "000002"
 msgid "Enemy killed."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00027D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00027D]
+#. REC: INFO:NAM1
 msgctxt "000003"
 msgid "We've eliminated the target."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00027C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00027C]
+#. REC: INFO:NAM1
 msgctxt "000004"
 msgid "The enemy has been cleared from the battlefield."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00027B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00027B]
+#. REC: INFO:NAM1
 msgctxt "000005"
 msgid "Hostile destroyed."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00027A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00027A]
+#. REC: INFO:NAM1
 msgctxt "000006"
 msgid "Hostile removed."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000279]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000279]
+#. REC: INFO:NAM1
 msgctxt "000007"
 msgid "Target removed."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000278]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000278]
+#. REC: INFO:NAM1
 msgctxt "000008"
 msgid "Excellent shooting, Captain."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000277]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000277]
+#. REC: INFO:NAM1
 msgctxt "000009"
 msgid "Target destroyed."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000276]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000276]
+#. REC: INFO:NAM1
 msgctxt "00000A"
 msgid "Target eliminated."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000274]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000274]
+#. REC: INFO:NAM1
 msgctxt "00000B"
 msgid "We've got a hit!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000273]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000273]
+#. REC: INFO:NAM1
 msgctxt "00000C"
 msgid "Target eliminated!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000272]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000272]
+#. REC: INFO:NAM1
 msgctxt "00000D"
 msgid "Scratch another one!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000271]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000271]
+#. REC: INFO:NAM1
 msgctxt "00000E"
 msgid "Good work!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000270]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000270]
+#. REC: INFO:NAM1
 msgctxt "00000F"
 msgid "Nailed 'em!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00026F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00026F]
+#. REC: INFO:NAM1
 msgctxt "000010"
 msgid "Hell of a shot!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00026E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00026E]
+#. REC: INFO:NAM1
 msgctxt "000011"
 msgid "Nice shooting!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00026D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00026D]
+#. REC: INFO:NAM1
 msgctxt "000012"
 msgid "You're done!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00026C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00026C]
+#. REC: INFO:NAM1
 msgctxt "000013"
 msgid "Target destroyed!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00026B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00026B]
+#. REC: INFO:NAM1
 msgctxt "000014"
 msgid "Not a bad idea to stop and get your bearings."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000269]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000269]
+#. REC: INFO:NAM1
 msgctxt "000015"
 msgid "Ha! Victory!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000268]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000268]
+#. REC: INFO:NAM1
 msgctxt "000016"
 msgid "Another triumph!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000267]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000267]
+#. REC: INFO:NAM1
 msgctxt "000017"
 msgid "Target neutralized!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000266]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000266]
+#. REC: INFO:NAM1
 msgctxt "000018"
 msgid "Excellent shot!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000265]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000265]
+#. REC: INFO:NAM1
 msgctxt "000019"
 msgid "Target destroyed!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000264]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000264]
+#. REC: INFO:NAM1
 msgctxt "00001A"
 msgid "That's a direct hit!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000263]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000263]
+#. REC: INFO:NAM1
 msgctxt "00001B"
 msgid "Enemy down!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000262]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000262]
+#. REC: INFO:NAM1
 msgctxt "00001C"
 msgid "Target eliminated!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000261]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000261]
+#. REC: INFO:NAM1
 msgctxt "00001D"
 msgid "Target's down!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000260]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000260]
+#. REC: INFO:NAM1
 msgctxt "00001E"
 msgid "Victory is ours!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00025E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00025E]
+#. REC: INFO:NAM1
 msgctxt "00001F"
 msgid "Direct hit!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00025D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00025D]
+#. REC: INFO:NAM1
 msgctxt "000020"
 msgid "Like shooting fish in a barrel!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00025C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00025C]
+#. REC: INFO:NAM1
 msgctxt "000021"
 msgid "Target destroyed!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00025B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00025B]
+#. REC: INFO:NAM1
 msgctxt "000022"
 msgid "Got 'em!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00025A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00025A]
+#. REC: INFO:NAM1
 msgctxt "000023"
 msgid "Target eliminated!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000259]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000259]
+#. REC: INFO:NAM1
 msgctxt "000024"
 msgid "Easy peasy, lemon squeezie."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000258]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000258]
+#. REC: INFO:NAM1
 msgctxt "000025"
 msgid "See ya, wouldn't want to be ya."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000257]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000257]
+#. REC: INFO:NAM1
 msgctxt "000026"
 msgid "Bang!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000256]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000256]
+#. REC: INFO:NAM1
 msgctxt "000027"
 msgid "So long!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: Niceonedusty
-#. List: REC: INFO:NAM1
+#. EDID: Niceonedusty
+#. REC: INFO:NAM1
 msgctxt "000028"
 msgid "Target's down!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000254]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000254]
+#. REC: INFO:NAM1
 msgctxt "000029"
 msgid "Good shot, dusty!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000252]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000252]
+#. REC: INFO:NAM1
 msgctxt "00002A"
 msgid "Target destroyed."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000251]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000251]
+#. REC: INFO:NAM1
 msgctxt "00002B"
 msgid "They won't be messing with us again!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000250]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000250]
+#. REC: INFO:NAM1
 msgctxt "00002C"
 msgid "Bag 'em and tag 'em."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00024F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00024F]
+#. REC: INFO:NAM1
 msgctxt "00002D"
 msgid "Couldn't have done it better myself."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00024E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00024E]
+#. REC: INFO:NAM1
 msgctxt "00002E"
 msgid "Damn good shot."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00024D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00024D]
+#. REC: INFO:NAM1
 msgctxt "00002F"
 msgid "That's another down!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00024C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00024C]
+#. REC: INFO:NAM1
 msgctxt "000030"
 msgid "We got 'em!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00024B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00024B]
+#. REC: INFO:NAM1
 msgctxt "000031"
 msgid "Nice shot!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00024A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00024A]
+#. REC: INFO:NAM1
 msgctxt "000032"
 msgid "Nice shooting."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000249]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000249]
+#. REC: INFO:NAM1
 msgctxt "000033"
 msgid "Heck of a shot."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000247]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000247]
+#. REC: INFO:NAM1
 msgctxt "000034"
 msgid "Enemy target locked."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000246]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000246]
+#. REC: INFO:NAM1
 msgctxt "000035"
 msgid "Fire when ready."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000245]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000245]
+#. REC: INFO:NAM1
 msgctxt "000036"
 msgid "Target in range."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000244]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000244]
+#. REC: INFO:NAM1
 msgctxt "000037"
 msgid "Enemy targeted."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000243]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000243]
+#. REC: INFO:NAM1
 msgctxt "000038"
 msgid "Lock engaged."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000242]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000242]
+#. REC: INFO:NAM1
 msgctxt "000039"
 msgid "Ready to fire."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000241]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000241]
+#. REC: INFO:NAM1
 msgctxt "00003A"
 msgid "Lock acquired."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000240]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000240]
+#. REC: INFO:NAM1
 msgctxt "00003B"
 msgid "Hostile target identified."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00023F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00023F]
+#. REC: INFO:NAM1
 msgctxt "00003C"
 msgid "Target acquired."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00023E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00023E]
+#. REC: INFO:NAM1
 msgctxt "00003D"
 msgid "Target locked."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00023C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00023C]
+#. REC: INFO:NAM1
 msgctxt "00003E"
 msgid "Target acquired!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00023B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00023B]
+#. REC: INFO:NAM1
 msgctxt "00003F"
 msgid "Fire when ready!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00023A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00023A]
+#. REC: INFO:NAM1
 msgctxt "000040"
 msgid "Locked on!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000239]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000239]
+#. REC: INFO:NAM1
 msgctxt "000041"
 msgid "We've got tone!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000238]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000238]
+#. REC: INFO:NAM1
 msgctxt "000042"
 msgid "We've got a lock!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000237]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000237]
+#. REC: INFO:NAM1
 msgctxt "000043"
 msgid "Fire the turret!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000236]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000236]
+#. REC: INFO:NAM1
 msgctxt "000044"
 msgid "Target locked!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000235]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000235]
+#. REC: INFO:NAM1
 msgctxt "000045"
 msgid "They're in range!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000234]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000234]
+#. REC: INFO:NAM1
 msgctxt "000046"
 msgid "Ready to fire!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000233]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000233]
+#. REC: INFO:NAM1
 msgctxt "000047"
 msgid "We've locked a target!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000232]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000232]
+#. REC: INFO:NAM1
 msgctxt "000048"
 msgid "We have scoped the target!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000231]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000231]
+#. REC: INFO:NAM1
 msgctxt "000049"
 msgid "Zeroing in!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000230]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000230]
+#. REC: INFO:NAM1
 msgctxt "00004A"
 msgid "Got one in our sights!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00022F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00022F]
+#. REC: INFO:NAM1
 msgctxt "00004B"
 msgid "Got 'em in our crosshairs!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00021D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00021D]
+#. REC: INFO:NAM1
 msgctxt "00004C"
 msgid ""
 "My sensors indicate we have been parked for some time. Please consult your "
@@ -1190,22 +1190,22 @@ msgid ""
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00021C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00021C]
+#. REC: INFO:NAM1
 msgctxt "00004D"
 msgid "Please take all the time you need to admire this view."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00021B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00021B]
+#. REC: INFO:NAM1
 msgctxt "00004E"
 msgid "We have been idle for some time. Would you like me to set an alarm?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00021A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00021A]
+#. REC: INFO:NAM1
 msgctxt "00004F"
 msgid ""
 "If you don't intend on moving, I will use this time to contemplate my "
@@ -1213,8 +1213,8 @@ msgid ""
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000219]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000219]
+#. REC: INFO:NAM1
 msgctxt "000050"
 msgid ""
 "The vehicle has been parked for an extended period of time. Do you require "
@@ -1222,29 +1222,29 @@ msgid ""
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000218]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000218]
+#. REC: INFO:NAM1
 msgctxt "000051"
 msgid "We have stopped. Please let me know if you need any assistance."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000217]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000217]
+#. REC: INFO:NAM1
 msgctxt "000052"
 msgid "I can perform some vehicular calibrations while we wait."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000216]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000216]
+#. REC: INFO:NAM1
 msgctxt "000053"
 msgid "The vehicle has been idle for some time. Do you wish to dismount?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000215]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000215]
+#. REC: INFO:NAM1
 msgctxt "000054"
 msgid ""
 "We have not moved for some time. Checking vitals. It seems you are still "
@@ -1252,204 +1252,204 @@ msgid ""
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000214]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000214]
+#. REC: INFO:NAM1
 msgctxt "000055"
 msgid "Entering sleep mode."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000212]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000212]
+#. REC: INFO:NAM1
 msgctxt "000056"
 msgid "If we're going to sit here, I hope you brought some entertainment."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000211]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000211]
+#. REC: INFO:NAM1
 msgctxt "000057"
 msgid "If you need to take a moment and clear your head, by all means."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000210]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000210]
+#. REC: INFO:NAM1
 msgctxt "000058"
 msgid "Just nudge me when we're about to get going."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00020F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00020F]
+#. REC: INFO:NAM1
 msgctxt "000059"
 msgid "Taking in the view?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00020E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00020E]
+#. REC: INFO:NAM1
 msgctxt "00005A"
 msgid "We've stopped. Did you need anything from me?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00020D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00020D]
+#. REC: INFO:NAM1
 msgctxt "00005B"
 msgid "I can use this time to go over my planner if you like."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00020C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00020C]
+#. REC: INFO:NAM1
 msgctxt "00005C"
 msgid "There's a lot to study here, I'm sure."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00020B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00020B]
+#. REC: INFO:NAM1
 msgctxt "00005D"
 msgid "Well, at least we know the brakes work."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00020A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00020A]
+#. REC: INFO:NAM1
 msgctxt "00005E"
 msgid "*Ahem* Should we get moving?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000209]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000209]
+#. REC: INFO:NAM1
 msgctxt "00005F"
 msgid "Not a bad idea to stop and get your bearings."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000207]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000207]
+#. REC: INFO:NAM1
 msgctxt "000060"
 msgid "I have packed some food, if we are to spend any more time here."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000206]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000206]
+#. REC: INFO:NAM1
 msgctxt "000061"
 msgid "These seats are quite comfortable."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000205]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000205]
+#. REC: INFO:NAM1
 msgctxt "000062"
 msgid "I appreciate you taking a moment to stop and observe."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000204]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000204]
+#. REC: INFO:NAM1
 msgctxt "000063"
 msgid "A break is well deserved."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000203]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000203]
+#. REC: INFO:NAM1
 msgctxt "000064"
 msgid "Should we depart? We have been idle for some time."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000202]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000202]
+#. REC: INFO:NAM1
 msgctxt "000065"
 msgid "I savor these moments of peace and quiet."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000201]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000201]
+#. REC: INFO:NAM1
 msgctxt "000066"
 msgid "If you need a moment, I can go over the mission plan while we wait."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000200]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000200]
+#. REC: INFO:NAM1
 msgctxt "000067"
 msgid "We should get moving."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001FF]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001FF]
+#. REC: INFO:NAM1
 msgctxt "000068"
 msgid "I shouldn't have had that extra drink of water."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001FE]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001FE]
+#. REC: INFO:NAM1
 msgctxt "000069"
 msgid "Is the vehicle broken?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001FC]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001FC]
+#. REC: INFO:NAM1
 msgctxt "00006A"
 msgid "Now where are my snacks?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001FB]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001FB]
+#. REC: INFO:NAM1
 msgctxt "00006B"
 msgid "Should've taken the train."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001FA]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001FA]
+#. REC: INFO:NAM1
 msgctxt "00006C"
 msgid "Just my luck, I always end up in the slow lane."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001F9]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001F9]
+#. REC: INFO:NAM1
 msgctxt "00006D"
 msgid "I bet this is what it feels like to be stuck in rush hour traffic."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001F8]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001F8]
+#. REC: INFO:NAM1
 msgctxt "00006E"
 msgid "*Exhales*"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001F7]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001F7]
+#. REC: INFO:NAM1
 msgctxt "00006F"
 msgid "Just gonna sit here and go over my daily affirmations."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001F6]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001F6]
+#. REC: INFO:NAM1
 msgctxt "000070"
 msgid "Take your time. It's a lot to take in."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001F5]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001F5]
+#. REC: INFO:NAM1
 msgctxt "000071"
 msgid ""
 "I'll just sit here and go over my scans while you figure out where we're off"
@@ -1457,148 +1457,148 @@ msgid ""
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001F4]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001F4]
+#. REC: INFO:NAM1
 msgctxt "000072"
 msgid "Did you remember where we're going?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001F3]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001F3]
+#. REC: INFO:NAM1
 msgctxt "000073"
 msgid "Don't mind me, just enjoying the moment."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001F1]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001F1]
+#. REC: INFO:NAM1
 msgctxt "000074"
 msgid "You know where you're going next?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001F0]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001F0]
+#. REC: INFO:NAM1
 msgctxt "000075"
 msgid "Are we uh... are we there yet?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001EF]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001EF]
+#. REC: INFO:NAM1
 msgctxt "000076"
 msgid "I'd put my feet up, but I got manners still."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001EE]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001EE]
+#. REC: INFO:NAM1
 msgctxt "000077"
 msgid "Just need to adjust my seat... mmh, there. That's better."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001ED]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001ED]
+#. REC: INFO:NAM1
 msgctxt "000078"
 msgid "This thing have cup holders?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001EC]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001EC]
+#. REC: INFO:NAM1
 msgctxt "000079"
 msgid "If we're lost, I can take a look at the map."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001EB]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001EB]
+#. REC: INFO:NAM1
 msgctxt "00007A"
 msgid "I might take a nap while you sort things out."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001EA]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001EA]
+#. REC: INFO:NAM1
 msgctxt "00007B"
 msgid "I could use a drink."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001E9]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001E9]
+#. REC: INFO:NAM1
 msgctxt "00007C"
 msgid "I'm always good with putting it in park."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001E8]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001E8]
+#. REC: INFO:NAM1
 msgctxt "00007D"
 msgid "Smelling the roses, huh."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001E6]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001E6]
+#. REC: INFO:NAM1
 msgctxt "00007E"
 msgid "We've entered the water. Adjusting scans for undulation."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001E5]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001E5]
+#. REC: INFO:NAM1
 msgctxt "00007F"
 msgid "Caution should be exercised when traversing deep waters."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001E4]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001E4]
+#. REC: INFO:NAM1
 msgctxt "000080"
 msgid "Preparing for water submersion."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001E3]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001E3]
+#. REC: INFO:NAM1
 msgctxt "000081"
 msgid "I will send out a signal to repel any aquatic life."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001E2]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001E2]
+#. REC: INFO:NAM1
 msgctxt "000082"
 msgid "Be careful when navigating through water."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001E1]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001E1]
+#. REC: INFO:NAM1
 msgctxt "000083"
 msgid "We have entered the water. Please exercise caution."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001E0]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001E0]
+#. REC: INFO:NAM1
 msgctxt "000084"
 msgid "Based on my calculations, this vehicle is now technically a boat."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001DF]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001DF]
+#. REC: INFO:NAM1
 msgctxt "000085"
 msgid "It seems this planet's gravity cannot contain you, Captain."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001DE]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001DE]
+#. REC: INFO:NAM1
 msgctxt "000086"
 msgid ""
 "Rest assured I am fully waterproof, able to withstand both immersion and "
@@ -1606,262 +1606,262 @@ msgid ""
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001DD]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001DD]
+#. REC: INFO:NAM1
 msgctxt "000087"
 msgid ""
 "This vehicle is equipped with the latest in aquatic traversal technology."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001DB]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001DB]
+#. REC: INFO:NAM1
 msgctxt "000088"
 msgid "By all means, dive in."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001DA]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001DA]
+#. REC: INFO:NAM1
 msgctxt "000089"
 msgid "Just a quick dip in the pool."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001D9]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001D9]
+#. REC: INFO:NAM1
 msgctxt "00008A"
 msgid "We should be careful not to spend too long in the water."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001D8]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001D8]
+#. REC: INFO:NAM1
 msgctxt "00008B"
 msgid "I always wanted to go sailing. Didn't imagine it'd be like this."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001D7]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001D7]
+#. REC: INFO:NAM1
 msgctxt "00008C"
 msgid "Going for a swim, I take it."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001D6]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001D6]
+#. REC: INFO:NAM1
 msgctxt "00008D"
 msgid ""
 "I'm glad we can drive through waters like this, instead of having to swim."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001D5]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001D5]
+#. REC: INFO:NAM1
 msgctxt "00008E"
 msgid "We should use caution when going through water."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001D4]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001D4]
+#. REC: INFO:NAM1
 msgctxt "00008F"
 msgid "This vehicle functions well as a boat."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001D3]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001D3]
+#. REC: INFO:NAM1
 msgctxt "000090"
 msgid "We should try to avoid driving through deep waters."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001D2]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001D2]
+#. REC: INFO:NAM1
 msgctxt "000091"
 msgid "Fancy a dip?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001D0]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001D0]
+#. REC: INFO:NAM1
 msgctxt "000092"
 msgid "I hope we don't disturb any aquatic life."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001CF]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001CF]
+#. REC: INFO:NAM1
 msgctxt "000093"
 msgid "When they said all-terrain, they really meant it."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001CE]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001CE]
+#. REC: INFO:NAM1
 msgctxt "000094"
 msgid "This vehicle handles surprisingly well in the water."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001CD]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001CD]
+#. REC: INFO:NAM1
 msgctxt "000095"
 msgid "The water doesn't seem too bad."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001CC]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001CC]
+#. REC: INFO:NAM1
 msgctxt "000096"
 msgid "Be sure to drive slowly and steady, so you don't make a bow wave."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001CB]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001CB]
+#. REC: INFO:NAM1
 msgctxt "000097"
 msgid "We should use caution. Water can hide debris and other obstacles."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001CA]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001CA]
+#. REC: INFO:NAM1
 msgctxt "000098"
 msgid "The vehicle handles pretty well in the water."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001C9]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001C9]
+#. REC: INFO:NAM1
 msgctxt "000099"
 msgid "Water's fine, it seems."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001C8]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001C8]
+#. REC: INFO:NAM1
 msgctxt "00009A"
 msgid "I did think the vehicle could use some cooling off."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001C7]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001C7]
+#. REC: INFO:NAM1
 msgctxt "00009B"
 msgid "This is more of a canoe than a boat, but it does the job."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001C5]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001C5]
+#. REC: INFO:NAM1
 msgctxt "00009C"
 msgid "Try to find the high ground so we don't sink too much."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001C4]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001C4]
+#. REC: INFO:NAM1
 msgctxt "00009D"
 msgid "Keep it slow and steady when driving through water like this."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001C3]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001C3]
+#. REC: INFO:NAM1
 msgctxt "00009E"
 msgid "Who's up for a swim?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001C2]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001C2]
+#. REC: INFO:NAM1
 msgctxt "00009F"
 msgid "Don't drive too fast in the water or you might lose control."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001C1]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001C1]
+#. REC: INFO:NAM1
 msgctxt "0000A0"
 msgid "Dive in! Water's warm!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001C0]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001C0]
+#. REC: INFO:NAM1
 msgctxt "0000A1"
 msgid "I've always been partial to stomping through puddles."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001BF]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001BF]
+#. REC: INFO:NAM1
 msgctxt "0000A2"
 msgid "Like wading through a pool."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001BE]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001BE]
+#. REC: INFO:NAM1
 msgctxt "0000A3"
 msgid "I was gonna wash this outfit anyway."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001BD]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001BD]
+#. REC: INFO:NAM1
 msgctxt "0000A4"
 msgid "I always thought this ride was part submarine."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001BC]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001BC]
+#. REC: INFO:NAM1
 msgctxt "0000A5"
 msgid "Hey! Free car wash!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001BA]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001BA]
+#. REC: INFO:NAM1
 msgctxt "0000A6"
 msgid "Damn, didn't we just wash this thing?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001B9]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001B9]
+#. REC: INFO:NAM1
 msgctxt "0000A7"
 msgid "Hope this water isn't too deep."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001B8]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001B8]
+#. REC: INFO:NAM1
 msgctxt "0000A8"
 msgid "We should be careful when going through water like this."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001B7]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001B7]
+#. REC: INFO:NAM1
 msgctxt "0000A9"
 msgid "Try to keep from hydroplaning."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001B6]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001B6]
+#. REC: INFO:NAM1
 msgctxt "0000AA"
 msgid "Don't worry, this ride can handle a little water."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001B5]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001B5]
+#. REC: INFO:NAM1
 msgctxt "0000AB"
 msgid ""
 "Back in the day, you'd have to dry your brakes with a few slow taps. But "
@@ -1869,36 +1869,36 @@ msgid ""
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001B4]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001B4]
+#. REC: INFO:NAM1
 msgctxt "0000AC"
 msgid "I'm glad I brought a change of clothes."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001B3]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001B3]
+#. REC: INFO:NAM1
 msgctxt "0000AD"
 msgid "Hope this ride can handle a little water."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001B2]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001B2]
+#. REC: INFO:NAM1
 msgctxt "0000AE"
 msgid "I forgot my swimsuit."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001B1]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001B1]
+#. REC: INFO:NAM1
 msgctxt "0000AF"
 msgid "Good time to hit the pool."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001AF]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001AF]
+#. REC: INFO:NAM1
 msgctxt "0000B0"
 msgid ""
 "We continue to ignore vehicle safety recommendations with every jump, "
@@ -1906,59 +1906,59 @@ msgid ""
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001AE]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001AE]
+#. REC: INFO:NAM1
 msgctxt "0000B1"
 msgid "Preliminary diagnostics indicate a successful jump, Captain."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001AD]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001AD]
+#. REC: INFO:NAM1
 msgctxt "0000B2"
 msgid "Your heart rate has increased considerably after that jump, Captain."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001AC]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001AC]
+#. REC: INFO:NAM1
 msgctxt "0000B3"
 msgid ""
 "Warning. High vertical jumps will result in an overwhelming amount of fun."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001AB]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001AB]
+#. REC: INFO:NAM1
 msgctxt "0000B4"
 msgid ""
 "Landing achieved. Vehicle suspension and tire pressure appear to be optimal."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001AA]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001AA]
+#. REC: INFO:NAM1
 msgctxt "0000B5"
 msgid "Your ability to leap over great distances is quite the feat."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001A9]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001A9]
+#. REC: INFO:NAM1
 msgctxt "0000B6"
 msgid "Based on my calculations, this vehicle is now technically an aircraft."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001A8]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001A8]
+#. REC: INFO:NAM1
 msgctxt "0000B7"
 msgid "It seems this planet's gravity cannot contain you, Captain."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001A7]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001A7]
+#. REC: INFO:NAM1
 msgctxt "0000B8"
 msgid ""
 "You've managed to land this vehicle intact, despite only a ten percent "
@@ -1966,128 +1966,128 @@ msgid ""
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001A6]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001A6]
+#. REC: INFO:NAM1
 msgctxt "0000B9"
 msgid "An impressive jump, Captain."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001A4]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001A4]
+#. REC: INFO:NAM1
 msgctxt "0000BA"
 msgid "Your landings are always graceful."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001A3]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001A3]
+#. REC: INFO:NAM1
 msgctxt "0000BB"
 msgid "We definitely took a shortcut there."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001A2]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001A2]
+#. REC: INFO:NAM1
 msgctxt "0000BC"
 msgid "Beats taking the road, anyway."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001A1]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001A1]
+#. REC: INFO:NAM1
 msgctxt "0000BD"
 msgid "I'm glad I buckled up."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0001A0]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0001A0]
+#. REC: INFO:NAM1
 msgctxt "0000BE"
 msgid "I'm more impressed by the landing."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00019F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00019F]
+#. REC: INFO:NAM1
 msgctxt "0000BF"
 msgid "Were you a daredevil in another life? Could've fooled me."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00019E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00019E]
+#. REC: INFO:NAM1
 msgctxt "0000C0"
 msgid ""
 "That reminds me of the old theme park rides in the New Atlantis fairgrounds."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00019D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00019D]
+#. REC: INFO:NAM1
 msgctxt "0000C1"
 msgid "That jump was straight out of a movie set. Bravo."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00019C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00019C]
+#. REC: INFO:NAM1
 msgctxt "0000C2"
 msgid "When you say jump, I often wonder how high."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00019B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00019B]
+#. REC: INFO:NAM1
 msgctxt "0000C3"
 msgid "Textbook landing!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000199]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000199]
+#. REC: INFO:NAM1
 msgctxt "0000C4"
 msgid "That was a leap of faith."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000198]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000198]
+#. REC: INFO:NAM1
 msgctxt "0000C5"
 msgid "We soar like the eagles of old."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000197]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000197]
+#. REC: INFO:NAM1
 msgctxt "0000C6"
 msgid "That was thrilling!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000196]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000196]
+#. REC: INFO:NAM1
 msgctxt "0000C7"
 msgid "I think we can go higher."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000195]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000195]
+#. REC: INFO:NAM1
 msgctxt "0000C8"
 msgid "A picture-perfect landing."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000194]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000194]
+#. REC: INFO:NAM1
 msgctxt "0000C9"
 msgid "That was impressive."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000193]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000193]
+#. REC: INFO:NAM1
 msgctxt "0000CA"
 msgid ""
 "A very solid jump. Even the judge from House Va'ruun gives it a ten out of "
@@ -2095,198 +2095,198 @@ msgid ""
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000192]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000192]
+#. REC: INFO:NAM1
 msgctxt "0000CB"
 msgid "You have a knack for these vehicular gymnastics."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000191]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000191]
+#. REC: INFO:NAM1
 msgctxt "0000CC"
 msgid "Your dismounts are flawless."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000190]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000190]
+#. REC: INFO:NAM1
 msgctxt "0000CD"
 msgid "Perfect execution."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00018E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00018E]
+#. REC: INFO:NAM1
 msgctxt "0000CE"
 msgid "Hell of a jump, dusty!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00018D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00018D]
+#. REC: INFO:NAM1
 msgctxt "0000CF"
 msgid "Nice! Let's do it again!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00018C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00018C]
+#. REC: INFO:NAM1
 msgctxt "0000D0"
 msgid "Woohoo!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00018B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00018B]
+#. REC: INFO:NAM1
 msgctxt "0000D1"
 msgid "Like a boss!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00018A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00018A]
+#. REC: INFO:NAM1
 msgctxt "0000D2"
 msgid "Nailed it!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000189]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000189]
+#. REC: INFO:NAM1
 msgctxt "0000D3"
 msgid "We're flying high in this ride, that's for sure."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000188]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000188]
+#. REC: INFO:NAM1
 msgctxt "0000D4"
 msgid "We caught some rare air on that jump."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000187]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000187]
+#. REC: INFO:NAM1
 msgctxt "0000D5"
 msgid "Perfect dismount, perfect landing."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000186]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000186]
+#. REC: INFO:NAM1
 msgctxt "0000D6"
 msgid "Smooth as butter!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000185]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000185]
+#. REC: INFO:NAM1
 msgctxt "0000D7"
 msgid "We defied the laws of gravity on that one!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000184]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000184]
+#. REC: INFO:NAM1
 msgctxt "0000D8"
 msgid "I bet we could do a flip next time."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000182]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000182]
+#. REC: INFO:NAM1
 msgctxt "0000D9"
 msgid "Smooth."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000181]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000181]
+#. REC: INFO:NAM1
 msgctxt "0000DA"
 msgid "Whew! That was some jump."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000180]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000180]
+#. REC: INFO:NAM1
 msgctxt "0000DB"
 msgid "We should do shows."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00017F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00017F]
+#. REC: INFO:NAM1
 msgctxt "0000DC"
 msgid "Got some good air on that one."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00017E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00017E]
+#. REC: INFO:NAM1
 msgctxt "0000DD"
 msgid "You aiming to be a stunt driver?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00017D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00017D]
+#. REC: INFO:NAM1
 msgctxt "0000DE"
 msgid "Way to stick the landing."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00017C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00017C]
+#. REC: INFO:NAM1
 msgctxt "0000DF"
 msgid "Reminds me of hopping across the ravine back home."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00017B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00017B]
+#. REC: INFO:NAM1
 msgctxt "0000E0"
 msgid "Whew! We got a ton of air on that one!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00017A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00017A]
+#. REC: INFO:NAM1
 msgctxt "0000E1"
 msgid "That was one helluva jump!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000179]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000179]
+#. REC: INFO:NAM1
 msgctxt "0000E2"
 msgid "Holy shit!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000177]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000177]
+#. REC: INFO:NAM1
 msgctxt "0000E3"
 msgid "Be forewarned I am not suitable for crash tests as I am not a human."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000176]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000176]
+#. REC: INFO:NAM1
 msgctxt "0000E4"
 msgid "I am gathering crash statistics with every collision."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000175]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000175]
+#. REC: INFO:NAM1
 msgctxt "0000E5"
 msgid ""
 "We should have you inspected for a concussion when we return to the ship."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000174]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000174]
+#. REC: INFO:NAM1
 msgctxt "0000E6"
 msgid ""
 "Be aware that collision avoidance warnings have not been installed in this "
@@ -2294,29 +2294,29 @@ msgid ""
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000173]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000173]
+#. REC: INFO:NAM1
 msgctxt "0000E7"
 msgid "This vehicle is fully equipped for your unique driving style."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000172]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000172]
+#. REC: INFO:NAM1
 msgctxt "0000E8"
 msgid "We have caused cosmetic damage to the vehicle."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000171]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000171]
+#. REC: INFO:NAM1
 msgctxt "0000E9"
 msgid "Based on my calculations, a collision here was avoidable."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000170]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000170]
+#. REC: INFO:NAM1
 msgctxt "0000EA"
 msgid ""
 "Do not worry. This vehicle is designed to survive the occasional crash. "
@@ -2324,303 +2324,303 @@ msgid ""
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00016F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00016F]
+#. REC: INFO:NAM1
 msgctxt "0000EB"
 msgid "In the future, it may be wise to install airbags in this vehicle."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00016E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00016E]
+#. REC: INFO:NAM1
 msgctxt "0000EC"
 msgid "We've hit an object."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00016C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00016C]
+#. REC: INFO:NAM1
 msgctxt "0000ED"
 msgid "Minor crashes aside, I do hope we can make it home in one piece."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00016B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00016B]
+#. REC: INFO:NAM1
 msgctxt "0000EE"
 msgid "We're going to need to bring this in for repairs."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00016A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00016A]
+#. REC: INFO:NAM1
 msgctxt "0000EF"
 msgid "Be mindful of what's in front of us!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000169]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000169]
+#. REC: INFO:NAM1
 msgctxt "0000F0"
 msgid "I don't mean to backseat drive, but in your case, it's warranted."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000168]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000168]
+#. REC: INFO:NAM1
 msgctxt "0000F1"
 msgid "Must you collide with everything in our path?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000167]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000167]
+#. REC: INFO:NAM1
 msgctxt "0000F2"
 msgid "You should try going around obstacles."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000166]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000166]
+#. REC: INFO:NAM1
 msgctxt "0000F3"
 msgid "If this were a test, you would've failed."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000165]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000165]
+#. REC: INFO:NAM1
 msgctxt "0000F4"
 msgid "For the love of- *sigh*."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000164]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000164]
+#. REC: INFO:NAM1
 msgctxt "0000F5"
 msgid "Keep your eyes on the road, please!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000280]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000280]
+#. REC: INFO:NAM1
 msgctxt "0000F6"
 msgid "I disliked that."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000163]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000163]
+#. REC: INFO:NAM1
 msgctxt "0000F7"
 msgid "Watch it!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000161]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000161]
+#. REC: INFO:NAM1
 msgctxt "0000F8"
 msgid "Do the brakes not work?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000160]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000160]
+#. REC: INFO:NAM1
 msgctxt "0000F9"
 msgid "That is going to leave a dent."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00015F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00015F]
+#. REC: INFO:NAM1
 msgctxt "0000FA"
 msgid "For what it's worth, I still think you are a decent driver."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00015E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00015E]
+#. REC: INFO:NAM1
 msgctxt "0000FB"
 msgid "Sometimes a good crash can relieve stress."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00015D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00015D]
+#. REC: INFO:NAM1
 msgctxt "0000FC"
 msgid "Forgive me if I do not understand our current course."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00022D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00022D]
+#. REC: INFO:NAM1
 msgctxt "0000FD"
 msgid "Don't worry, it's just a scratch."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00022C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00022C]
+#. REC: INFO:NAM1
 msgctxt "0000FE"
 msgid "Careful!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00015C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00015C]
+#. REC: INFO:NAM1
 msgctxt "0000FF"
 msgid "Any accident you can walk away from..."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00015B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00015B]
+#. REC: INFO:NAM1
 msgctxt "000100"
 msgid "Keep in mind you have brakes."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00015A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00015A]
+#. REC: INFO:NAM1
 msgctxt "000101"
 msgid "Are you trying to hit things?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000159]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000159]
+#. REC: INFO:NAM1
 msgctxt "000102"
 msgid "If it wasn't dead already, it is now."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000158]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000158]
+#. REC: INFO:NAM1
 msgctxt "000103"
 msgid "I think I got whiplash from that one."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00022B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00022B]
+#. REC: INFO:NAM1
 msgctxt "000104"
 msgid "Another one for the blooper reel."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00022A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00022A]
+#. REC: INFO:NAM1
 msgctxt "000105"
 msgid "Oopsies."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000156]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000156]
+#. REC: INFO:NAM1
 msgctxt "000106"
 msgid "Yikes!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000155]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000155]
+#. REC: INFO:NAM1
 msgctxt "000107"
 msgid "Caution, objects in your face may be closer than they appear."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000154]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000154]
+#. REC: INFO:NAM1
 msgctxt "000108"
 msgid "Did you at least signal first?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000153]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000153]
+#. REC: INFO:NAM1
 msgctxt "000109"
 msgid "Incoming!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000152]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000152]
+#. REC: INFO:NAM1
 msgctxt "00010A"
 msgid "Didn't even feel that one."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000151]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000151]
+#. REC: INFO:NAM1
 msgctxt "00010B"
 msgid "I've always wanted to be a crash test dummy."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000150]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000150]
+#. REC: INFO:NAM1
 msgctxt "00010C"
 msgid "Just another boo-boo."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00014F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00014F]
+#. REC: INFO:NAM1
 msgctxt "00010D"
 msgid "In your defense, I didn't see it either."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00014E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00014E]
+#. REC: INFO:NAM1
 msgctxt "00010E"
 msgid "You didn't have anything to drink, did you?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00014D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00014D]
+#. REC: INFO:NAM1
 msgctxt "00010F"
 msgid "I hope you're not crashing this thing on purpose."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000286]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000286]
+#. REC: INFO:NAM1
 msgctxt "000110"
 msgid "Sarah would NOT have liked that."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000285]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000285]
+#. REC: INFO:NAM1
 msgctxt "000111"
 msgid "I'm glad I don't have to pay insurance on this thing!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00014C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00014C]
+#. REC: INFO:NAM1
 msgctxt "000112"
 msgid "Would it be bad if I talked to my lawyer about this?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00014A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00014A]
+#. REC: INFO:NAM1
 msgctxt "000113"
 msgid ""
 "Whenever we crash into something, I just figure it probably deserves it."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000149]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000149]
+#. REC: INFO:NAM1
 msgctxt "000114"
 msgid "If you ask me, that thing jumped right in front of you."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000148]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000148]
+#. REC: INFO:NAM1
 msgctxt "000115"
 msgid ""
 "You know when they say \"Buckle up, it's gonna be a bumpy ride.\" They were "
@@ -2628,170 +2628,170 @@ msgid ""
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000147]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000147]
+#. REC: INFO:NAM1
 msgctxt "000116"
 msgid "You walloped that thing good."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000146]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000146]
+#. REC: INFO:NAM1
 msgctxt "000117"
 msgid "You've gotten your eyes checked lately? Just saying."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000145]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000145]
+#. REC: INFO:NAM1
 msgctxt "000118"
 msgid "Agh! My neck!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000144]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000144]
+#. REC: INFO:NAM1
 msgctxt "000119"
 msgid "Glad I buckled up."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000143]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000143]
+#. REC: INFO:NAM1
 msgctxt "00011A"
 msgid "You're hitting everything on my bingo card."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000142]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000142]
+#. REC: INFO:NAM1
 msgctxt "00011B"
 msgid "Easy!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000141]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000141]
+#. REC: INFO:NAM1
 msgctxt "00011C"
 msgid "Whoa!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00013F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00013F]
+#. REC: INFO:NAM1
 msgctxt "00011D"
 msgid "Overall traffic on this road has decreased."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00013E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00013E]
+#. REC: INFO:NAM1
 msgctxt "00011E"
 msgid "Road hazard removed."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00013D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00013D]
+#. REC: INFO:NAM1
 msgctxt "00011F"
 msgid "We hit the hostile with significant velocity to cause death."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00013C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00013C]
+#. REC: INFO:NAM1
 msgctxt "000120"
 msgid "Pedestrians should look both ways before crossing the road."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00013B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00013B]
+#. REC: INFO:NAM1
 msgctxt "000121"
 msgid "Statistically, this area is now known for vehicular accidents."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00013A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00013A]
+#. REC: INFO:NAM1
 msgctxt "000122"
 msgid "Damage to vehicle -- minor. Damage to hostile -- permanent."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000139]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000139]
+#. REC: INFO:NAM1
 msgctxt "000123"
 msgid ""
 "Pedestrians yield the right of way when there is no designated crosswalk."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000138]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000138]
+#. REC: INFO:NAM1
 msgctxt "000124"
 msgid "Obstacle removed."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000137]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000137]
+#. REC: INFO:NAM1
 msgctxt "000125"
 msgid "The road is now clear."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000136]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000136]
+#. REC: INFO:NAM1
 msgctxt "000126"
 msgid "Pedestrian eliminated."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000134]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000134]
+#. REC: INFO:NAM1
 msgctxt "000127"
 msgid "Certainly more effective than a banana peel."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000133]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000133]
+#. REC: INFO:NAM1
 msgctxt "000128"
 msgid "That's a direct hit!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000132]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000132]
+#. REC: INFO:NAM1
 msgctxt "000129"
 msgid "And stay down!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000131]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000131]
+#. REC: INFO:NAM1
 msgctxt "00012A"
 msgid "Force equals mass times acceleration."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000130]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000130]
+#. REC: INFO:NAM1
 msgctxt "00012B"
 msgid "They won't be standing up from that!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00012F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00012F]
+#. REC: INFO:NAM1
 msgctxt "00012C"
 msgid "That's one fewer hostile!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00012E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00012E]
+#. REC: INFO:NAM1
 msgctxt "00012D"
 msgid ""
 "I don't think this vehicle was designed to run over people, but it's "
@@ -2799,330 +2799,330 @@ msgid ""
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00012D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00012D]
+#. REC: INFO:NAM1
 msgctxt "00012E"
 msgid "I hope your insurance covers that!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00012C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00012C]
+#. REC: INFO:NAM1
 msgctxt "00012F"
 msgid "They'll think twice before stepping in front of us!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00012B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00012B]
+#. REC: INFO:NAM1
 msgctxt "000130"
 msgid "Having a lead foot is good in some situations!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000229]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000229]
+#. REC: INFO:NAM1
 msgctxt "000131"
 msgid "You thought you could run?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000228]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000228]
+#. REC: INFO:NAM1
 msgctxt "000132"
 msgid "Their heads are our trophies!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000129]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000129]
+#. REC: INFO:NAM1
 msgctxt "000133"
 msgid "A perfect way to test the shocks!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000128]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000128]
+#. REC: INFO:NAM1
 msgctxt "000134"
 msgid "They were foolish to stand in our path!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000126]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000126]
+#. REC: INFO:NAM1
 msgctxt "000135"
 msgid "They have reaped what they have sown!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000125]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000125]
+#. REC: INFO:NAM1
 msgctxt "000136"
 msgid "It's almost as if they had a death wish."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000124]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000124]
+#. REC: INFO:NAM1
 msgctxt "000137"
 msgid "As they say, sometimes you're the bug."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000123]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000123]
+#. REC: INFO:NAM1
 msgctxt "000138"
 msgid "I think I heard their bones crunch."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000122]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000122]
+#. REC: INFO:NAM1
 msgctxt "000139"
 msgid "If they do not abide by the rules of the road, than neither shall we."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000120]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000120]
+#. REC: INFO:NAM1
 msgctxt "00013A"
 msgid "Fighting enemies like this is highly efficient!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000121]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000121]
+#. REC: INFO:NAM1
 msgctxt "00013B"
 msgid "In war, anything can be a weapon."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000127]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000127]
+#. REC: INFO:NAM1
 msgctxt "00013C"
 msgid "You clearly had the right of way."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00011E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00011E]
+#. REC: INFO:NAM1
 msgctxt "00013D"
 msgid "Who needs a gun when you have four wheels and a lead foot!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00011D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00011D]
+#. REC: INFO:NAM1
 msgctxt "00013E"
 msgid "And that's why we say always wear a helmet..."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00011C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00011C]
+#. REC: INFO:NAM1
 msgctxt "00013F"
 msgid "Think you get bonus points for that one!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00011B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00011B]
+#. REC: INFO:NAM1
 msgctxt "000140"
 msgid "Please be patient! We're student drivers!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00011A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00011A]
+#. REC: INFO:NAM1
 msgctxt "000141"
 msgid "I hope it's not my turn to clean up the bloodstains."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000119]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000119]
+#. REC: INFO:NAM1
 msgctxt "000142"
 msgid "That'll teach them to cross the road!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000227]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000227]
+#. REC: INFO:NAM1
 msgctxt "000143"
 msgid "I hope they got our plate number!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000284]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000284]
+#. REC: INFO:NAM1
 msgctxt "000144"
 msgid "Move it or lose it!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000226]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000226]
+#. REC: INFO:NAM1
 msgctxt "000145"
 msgid "Ouchie!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000118]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000118]
+#. REC: INFO:NAM1
 msgctxt "000146"
 msgid "Bonk!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000117]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000117]
+#. REC: INFO:NAM1
 msgctxt "000147"
 msgid "Someone's gonna need a chiropractor!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000116]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000116]
+#. REC: INFO:NAM1
 msgctxt "000148"
 msgid "They were probably jaywalking."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000115]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000115]
+#. REC: INFO:NAM1
 msgctxt "000149"
 msgid "Head, meet bumper!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000113]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000113]
+#. REC: INFO:NAM1
 msgctxt "00014A"
 msgid "That's one way to take somebody out!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000112]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000112]
+#. REC: INFO:NAM1
 msgctxt "00014B"
 msgid "I'm sure their mother will still think they're a catch."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000111]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000111]
+#. REC: INFO:NAM1
 msgctxt "00014C"
 msgid "Ouch. I felt that up here."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000110]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000110]
+#. REC: INFO:NAM1
 msgctxt "00014D"
 msgid "Think they're dead?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00010F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00010F]
+#. REC: INFO:NAM1
 msgctxt "00014E"
 msgid "That's what happens when you get in our way!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00010E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00010E]
+#. REC: INFO:NAM1
 msgctxt "00014F"
 msgid "That's gotta hurt!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00010D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00010D]
+#. REC: INFO:NAM1
 msgctxt "000150"
 msgid "No one's gonna recognize that body!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00010C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00010C]
+#. REC: INFO:NAM1
 msgctxt "000151"
 msgid "Road rage always leads to roadkill."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000225]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000225]
+#. REC: INFO:NAM1
 msgctxt "000152"
 msgid "Run 'em through!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00010B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00010B]
+#. REC: INFO:NAM1
 msgctxt "000153"
 msgid "Got 'em!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00010A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00010A]
+#. REC: INFO:NAM1
 msgctxt "000154"
 msgid "Like a fly on a windshield!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000108]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000108]
+#. REC: INFO:NAM1
 msgctxt "000155"
 msgid "Explosive devices in the immediate vicinity."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000107]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000107]
+#. REC: INFO:NAM1
 msgctxt "000156"
 msgid "The vehicle has suffered damage."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000106]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000106]
+#. REC: INFO:NAM1
 msgctxt "000157"
 msgid "Caution: bumpy road."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000105]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000105]
+#. REC: INFO:NAM1
 msgctxt "000158"
 msgid "The ground does not appear to be free of dangers."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000104]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000104]
+#. REC: INFO:NAM1
 msgctxt "000159"
 msgid "Use caution when driving over mines."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000103]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000103]
+#. REC: INFO:NAM1
 msgctxt "00015A"
 msgid "It appears there are mines in the immediate area."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000102]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000102]
+#. REC: INFO:NAM1
 msgctxt "00015B"
 msgid "There appear to be mines on the ground here."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000101]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000101]
+#. REC: INFO:NAM1
 msgctxt "00015C"
 msgid ""
 "This unit is equipped to deal with sudden shocks. The same cannot be said "
@@ -3130,212 +3130,212 @@ msgid ""
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000100]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000100]
+#. REC: INFO:NAM1
 msgctxt "00015D"
 msgid "The mine has been obliterated."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000FF]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000FF]
+#. REC: INFO:NAM1
 msgctxt "00015E"
 msgid ""
 "Running over mines can significantly decrease the lifespan of this vehicle."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000FD]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000FD]
+#. REC: INFO:NAM1
 msgctxt "00015F"
 msgid "This isn't a tank, you know!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000FC]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000FC]
+#. REC: INFO:NAM1
 msgctxt "000160"
 msgid "We can't take much more of this!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000FB]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000FB]
+#. REC: INFO:NAM1
 msgctxt "000161"
 msgid "Be mindful!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000FA]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000FA]
+#. REC: INFO:NAM1
 msgctxt "000162"
 msgid "Gah!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000F9]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000F9]
+#. REC: INFO:NAM1
 msgctxt "000163"
 msgid "Be careful!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000F8]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000F8]
+#. REC: INFO:NAM1
 msgctxt "000164"
 msgid "Think, think, think!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000F7]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000F7]
+#. REC: INFO:NAM1
 msgctxt "000165"
 msgid "Pay attention!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000F6]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000F6]
+#. REC: INFO:NAM1
 msgctxt "000166"
 msgid "Now I'm wondering how you manage to pilot a ship."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000F5]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000F5]
+#. REC: INFO:NAM1
 msgctxt "000167"
 msgid "Do you always drive like this?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000F4]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000F4]
+#. REC: INFO:NAM1
 msgctxt "000168"
 msgid "Do we really need to drive over EVERY mine?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000F2]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000F2]
+#. REC: INFO:NAM1
 msgctxt "000169"
 msgid "We hit a mine!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000F1]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000F1]
+#. REC: INFO:NAM1
 msgctxt "00016A"
 msgid "Watch the mines!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000F0]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000F0]
+#. REC: INFO:NAM1
 msgctxt "00016B"
 msgid "Be more attentive!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000EF]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000EF]
+#. REC: INFO:NAM1
 msgctxt "00016C"
 msgid "Too many mines!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000EE]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000EE]
+#. REC: INFO:NAM1
 msgctxt "00016D"
 msgid "We've taken another hit!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000ED]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000ED]
+#. REC: INFO:NAM1
 msgctxt "00016E"
 msgid "That one sounded bad."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000EC]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000EC]
+#. REC: INFO:NAM1
 msgctxt "00016F"
 msgid "Ugh! Try to steer clear of the mines!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000EB]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000EB]
+#. REC: INFO:NAM1
 msgctxt "000170"
 msgid "Stay alert!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000EA]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000EA]
+#. REC: INFO:NAM1
 msgctxt "000171"
 msgid "Agh! Watch where you're driving!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000E9]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000E9]
+#. REC: INFO:NAM1
 msgctxt "000172"
 msgid "You would do well to avoid the mines."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000E7]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000E7]
+#. REC: INFO:NAM1
 msgctxt "000173"
 msgid "Is my head still attached?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000E6]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000E6]
+#. REC: INFO:NAM1
 msgctxt "000174"
 msgid "I wonder if my insurance covers this."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000E5]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000E5]
+#. REC: INFO:NAM1
 msgctxt "000175"
 msgid "This is one bumpy ride!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000E4]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000E4]
+#. REC: INFO:NAM1
 msgctxt "000176"
 msgid "Nuh!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000E3]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000E3]
+#. REC: INFO:NAM1
 msgctxt "000177"
 msgid "Agh!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000E2]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000E2]
+#. REC: INFO:NAM1
 msgctxt "000178"
 msgid "They do say the most direct path is a straight line!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000E1]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000E1]
+#. REC: INFO:NAM1
 msgctxt "000179"
 msgid "That's gonna require some repairs!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000E0]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000E0]
+#. REC: INFO:NAM1
 msgctxt "00017A"
 msgid ""
 "I was going to say \"Watch out for the mine,\" but I figured it'd be more "
@@ -3343,948 +3343,949 @@ msgid ""
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000DF]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000DF]
+#. REC: INFO:NAM1
 msgctxt "00017B"
 msgid "I felt that one in my back."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000DE]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000DE]
+#. REC: INFO:NAM1
 msgctxt "00017C"
 msgid "Hold it together, old girl!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000DC]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000DC]
+#. REC: INFO:NAM1
 msgctxt "00017D"
 msgid "Damn things are all over the place!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000DB]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000DB]
+#. REC: INFO:NAM1
 msgctxt "00017E"
 msgid "They just creep up on you, don't they?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000DA]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000DA]
+#. REC: INFO:NAM1
 msgctxt "00017F"
 msgid "That one hurt!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000D9]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000D9]
+#. REC: INFO:NAM1
 msgctxt "000180"
 msgid "Oof! Let's hope this thing stays in one piece!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000D8]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000D8]
+#. REC: INFO:NAM1
 msgctxt "000181"
 msgid "Watch the road!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000D7]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000D7]
+#. REC: INFO:NAM1
 msgctxt "000182"
 msgid "You could lose your license for that."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000D6]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000D6]
+#. REC: INFO:NAM1
 msgctxt "000183"
 msgid "There goes my lunch."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000D5]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000D5]
+#. REC: INFO:NAM1
 msgctxt "000184"
 msgid "Ugh! These mines are hard to miss!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000D4]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000D4]
+#. REC: INFO:NAM1
 msgctxt "000185"
 msgid "Goddamn, didn't see that one!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000D3]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000D3]
+#. REC: INFO:NAM1
 msgctxt "000186"
 msgid "Ugh!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000D1]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000D1]
+#. REC: INFO:NAM1
 msgctxt "000187"
 msgid "Engine at maximum power."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000D0]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000D0]
+#. REC: INFO:NAM1
 msgctxt "000188"
 msgid "Engine throttle at maximum."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000CF]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000CF]
+#. REC: INFO:NAM1
 msgctxt "000189"
 msgid "I apologize for any decreased speed in this vehicle due to my weight."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000CE]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000CE]
+#. REC: INFO:NAM1
 msgctxt "00018A"
 msgid "Unlike humans, I do not experience thrills from increased velocity."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000CD]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000CD]
+#. REC: INFO:NAM1
 msgctxt "00018B"
 msgid "The faster we go, the faster we will reach our destination."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000CC]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000CC]
+#. REC: INFO:NAM1
 msgctxt "00018C"
 msgid "Vehicle boosted."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000CB]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000CB]
+#. REC: INFO:NAM1
 msgctxt "00018D"
 msgid "Velocity at unsafe levels."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000CA]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000CA]
+#. REC: INFO:NAM1
 msgctxt "00018E"
 msgid "Be sure not to hit any obstacles at high speeds."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000C9]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000C9]
+#. REC: INFO:NAM1
 msgctxt "00018F"
 msgid "Vehicle is at optimum velocity."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000C8]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000C8]
+#. REC: INFO:NAM1
 msgctxt "000190"
 msgid "Redlining vehicle."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000C6]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000C6]
+#. REC: INFO:NAM1
 msgctxt "000191"
 msgid "We're really moving now!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000C5]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000C5]
+#. REC: INFO:NAM1
 msgctxt "000192"
 msgid "We're making good time."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000C4]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000C4]
+#. REC: INFO:NAM1
 msgctxt "000193"
 msgid "It's like our own little roller coaster."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000C3]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000C3]
+#. REC: INFO:NAM1
 msgctxt "000194"
 msgid "This is too much fun!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000C2]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000C2]
+#. REC: INFO:NAM1
 msgctxt "000195"
 msgid "Nothing like the wind in your hair."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000C1]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000C1]
+#. REC: INFO:NAM1
 msgctxt "000196"
 msgid "There's no slowing down now!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000C0]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000C0]
+#. REC: INFO:NAM1
 msgctxt "000197"
 msgid "And off we go!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000BF]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000BF]
+#. REC: INFO:NAM1
 msgctxt "000198"
 msgid "Let's push it!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000BE]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000BE]
+#. REC: INFO:NAM1
 msgctxt "000199"
 msgid "Full speed ahead!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000BD]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000BD]
+#. REC: INFO:NAM1
 msgctxt "00019A"
 msgid "Hold on tight!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000BB]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000BB]
+#. REC: INFO:NAM1
 msgctxt "00019B"
 msgid "Now we are having fun!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000BA]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000BA]
+#. REC: INFO:NAM1
 msgctxt "00019C"
 msgid "Let's go!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000B9]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000B9]
+#. REC: INFO:NAM1
 msgctxt "00019D"
 msgid "You can go faster."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000B8]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000B8]
+#. REC: INFO:NAM1
 msgctxt "00019E"
 msgid "We'll get there in no time."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000B7]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000B7]
+#. REC: INFO:NAM1
 msgctxt "00019F"
 msgid "Boosting gives me such a rush."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000B6]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000B6]
+#. REC: INFO:NAM1
 msgctxt "0001A0"
 msgid "We will leave everyone in the dust."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000B5]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000B5]
+#. REC: INFO:NAM1
 msgctxt "0001A1"
 msgid "I prefer it when we are boosting."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000B4]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000B4]
+#. REC: INFO:NAM1
 msgctxt "0001A2"
 msgid "We've reached peak velocity."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000B3]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000B3]
+#. REC: INFO:NAM1
 msgctxt "0001A3"
 msgid "All systems go."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000B2]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000B2]
+#. REC: INFO:NAM1
 msgctxt "0001A4"
 msgid "We are better when we are faster."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000B0]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000B0]
+#. REC: INFO:NAM1
 msgctxt "0001A5"
 msgid "Who wants to race?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000AF]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000AF]
+#. REC: INFO:NAM1
 msgctxt "0001A6"
 msgid "Let's see what this thing can do!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000AE]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000AE]
+#. REC: INFO:NAM1
 msgctxt "0001A7"
 msgid "Full throttle!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000AD]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000AD]
+#. REC: INFO:NAM1
 msgctxt "0001A8"
 msgid "Time to test the laws of motion!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000AC]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000AC]
+#. REC: INFO:NAM1
 msgctxt "0001A9"
 msgid "Faster than a speeding bullet!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000AB]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000AB]
+#. REC: INFO:NAM1
 msgctxt "0001AA"
 msgid "We're burning rubber!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000AA]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000AA]
+#. REC: INFO:NAM1
 msgctxt "0001AB"
 msgid "Full steam ahead!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000283]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000283]
+#. REC: INFO:NAM1
 msgctxt "0001AC"
 msgid "Do you feel that momentum!? Yeeeow, baby!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000A9]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000A9]
+#. REC: INFO:NAM1
 msgctxt "0001AD"
 msgid "And we have lift off!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000A8]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000A8]
+#. REC: INFO:NAM1
 msgctxt "0001AE"
 msgid "Vroom vroom!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000A7]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000A7]
+#. REC: INFO:NAM1
 msgctxt "0001AF"
 msgid "Pedal to the metal!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000A5]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000A5]
+#. REC: INFO:NAM1
 msgctxt "0001B0"
 msgid "That's putting it in gear."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000A4]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000A4]
+#. REC: INFO:NAM1
 msgctxt "0001B1"
 msgid "Go, go, go!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000A3]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000A3]
+#. REC: INFO:NAM1
 msgctxt "0001B2"
 msgid "Who needs brakes, am I right?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000A2]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000A2]
+#. REC: INFO:NAM1
 msgctxt "0001B3"
 msgid "Hell yeah, spam that boost."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000A1]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000A1]
+#. REC: INFO:NAM1
 msgctxt "0001B4"
 msgid "Hang on to your hats!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0000A0]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0000A0]
+#. REC: INFO:NAM1
 msgctxt "0001B5"
 msgid "Punching it!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00009F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00009F]
+#. REC: INFO:NAM1
 msgctxt "0001B6"
 msgid "Like a bat out of hell."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00009E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00009E]
+#. REC: INFO:NAM1
 msgctxt "0001B7"
 msgid "God's speed."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00009D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00009D]
+#. REC: INFO:NAM1
 msgctxt "0001B8"
 msgid "Buckle up!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00009C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00009C]
+#. REC: INFO:NAM1
 msgctxt "0001B9"
 msgid "Oh we're moving now."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00009A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00009A]
+#. REC: INFO:NAM1
 msgctxt "0001BA"
 msgid "Overall traffic on this road has decreased."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000099]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000099]
+#. REC: INFO:NAM1
 msgctxt "0001BB"
 msgid "Road hazard removed."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000098]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000098]
+#. REC: INFO:NAM1
 msgctxt "0001BC"
 msgid "The vehicle now carries the burden of our adventure."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000097]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000097]
+#. REC: INFO:NAM1
 msgctxt "0001BD"
 msgid "The vehicle should help carry the additional weight we've accumulated."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000096]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000096]
+#. REC: INFO:NAM1
 msgctxt "0001BE"
 msgid "All systems are operational. Please proceed to press pedal to metal."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000095]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000095]
+#. REC: INFO:NAM1
 msgctxt "0001BF"
 msgid ""
 "I require no seat belt. Please ignore all warning systems to the contrary."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000094]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000094]
+#. REC: INFO:NAM1
 msgctxt "0001C0"
 msgid "Entering vehicle. Please drive safely."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000093]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000093]
+#. REC: INFO:NAM1
 msgctxt "0001C1"
 msgid "All systems appear to be working correctly. Adventure may commence."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000092]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000092]
+#. REC: INFO:NAM1
 msgctxt "0001C2"
 msgid "Vehicle mode initialized."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000091]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000091]
+#. REC: INFO:NAM1
 msgctxt "0001C3"
 msgid "Checking gauges -- we are ready for ignition."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00008F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00008F]
+#. REC: INFO:NAM1
 msgctxt "0001C4"
 msgid "It's good to give our legs a rest."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00008E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00008E]
+#. REC: INFO:NAM1
 msgctxt "0001C5"
 msgid "Smart. My feet could use the break."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00008D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00008D]
+#. REC: INFO:NAM1
 msgctxt "0001C6"
 msgid "A vehicle comes in handy when exploring terrain like this."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00008C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00008C]
+#. REC: INFO:NAM1
 msgctxt "0001C7"
 msgid "You read my mind. We should be safer taking the vehicle."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00008B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00008B]
+#. REC: INFO:NAM1
 msgctxt "0001C8"
 msgid "I'll try not to be a backseat driver."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00008A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00008A]
+#. REC: INFO:NAM1
 msgctxt "0001C9"
 msgid "Where to?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000089]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000089]
+#. REC: INFO:NAM1
 msgctxt "0001CA"
 msgid "You take the wheel."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000088]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000088]
+#. REC: INFO:NAM1
 msgctxt "0001CB"
 msgid "Now we're exploring in style."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000087]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000087]
+#. REC: INFO:NAM1
 msgctxt "0001CC"
 msgid "Let's put it in gear."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000086]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000086]
+#. REC: INFO:NAM1
 msgctxt "0001CD"
 msgid "Fancy a drive?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000084]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000084]
+#. REC: INFO:NAM1
 msgctxt "0001CE"
 msgid "I was worried we'd have to walk back. Good thing we have this ride."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000083]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000083]
+#. REC: INFO:NAM1
 msgctxt "0001CF"
 msgid "It's nice to not have to walk back with all our things."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000082]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000082]
+#. REC: INFO:NAM1
 msgctxt "0001D0"
 msgid "I appreciate the extra leg room, especially when wearing a spacesuit."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000081]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000081]
+#. REC: INFO:NAM1
 msgctxt "0001D1"
 msgid "It's nice to have a vehicle to navigate places like this."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000080]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000080]
+#. REC: INFO:NAM1
 msgctxt "0001D2"
 msgid "I appreciate you taking the wheel."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00007F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00007F]
+#. REC: INFO:NAM1
 msgctxt "0001D3"
 msgid "I'll let you steer."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00007E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00007E]
+#. REC: INFO:NAM1
 msgctxt "0001D4"
 msgid "Why walk when we can coast?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00007D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00007D]
+#. REC: INFO:NAM1
 msgctxt "0001D5"
 msgid "You drive. I get too much road rage."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00007C]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00007C]
+#. REC: INFO:NAM1
 msgctxt "0001D6"
 msgid "Fine day for a drive, isn't it?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00007B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00007B]
+#. REC: INFO:NAM1
 msgctxt "0001D7"
 msgid "Riding in style, I see."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000079]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000079]
+#. REC: INFO:NAM1
 msgctxt "0001D8"
 msgid "I love a nice long drive in an inhospitable world."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000078]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000078]
+#. REC: INFO:NAM1
 msgctxt "0001D9"
 msgid "Hopefully we got enough room for all the loot we're carrying."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000077]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000077]
+#. REC: INFO:NAM1
 msgctxt "0001DA"
 msgid "I'm sure your back appreciates the lift."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000076]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000076]
+#. REC: INFO:NAM1
 msgctxt "0001DB"
 msgid "This thing have A/C?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000075]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000075]
+#. REC: INFO:NAM1
 msgctxt "0001DC"
 msgid "Let's turn on the heat!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000282]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000282]
+#. REC: INFO:NAM1
 msgctxt "0001DD"
 msgid "If you see a perfectly ramp-shaped outcrop, go ahead. I'm ready."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000074]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000074]
+#. REC: INFO:NAM1
 msgctxt "0001DE"
 msgid "Buckle up, it's time to roll!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000073]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000073]
+#. REC: INFO:NAM1
 msgctxt "0001DF"
 msgid "Now this is one sweet ride."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000072]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000072]
+#. REC: INFO:NAM1
 msgctxt "0001E0"
 msgid "Nice wheels."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000281]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000281]
+#. REC: INFO:NAM1
 msgctxt "0001E1"
 msgid "Does this thing play music?"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000071]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000071]
+#. REC: INFO:NAM1
 msgctxt "0001E2"
 msgid "I got shotgun!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000070]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000070]
+#. REC: INFO:NAM1
 msgctxt "0001E3"
 msgid "Thanks for driving, by the way."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00006F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00006F]
+#. REC: INFO:NAM1
 msgctxt "0001E4"
 msgid "Thanks for the lift!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00006E]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00006E]
+#. REC: INFO:NAM1
 msgctxt "0001E5"
 msgid "Checking the fuel gauge -- we should be good!"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00006D]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00006D]
+#. REC: INFO:NAM1
 msgctxt "0001E6"
 msgid "Rubber, meet road."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00006B]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00006B]
+#. REC: INFO:NAM1
 msgctxt "0001E7"
 msgid "Got my helmet on, just in case."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00006A]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00006A]
+#. REC: INFO:NAM1
 msgctxt "0001E8"
 msgid "Good idea. It's way too hazardous to walk."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000069]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000069]
+#. REC: INFO:NAM1
 msgctxt "0001E9"
 msgid "Thank god for the wheels. That'll save us a long walk back."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000068]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000068]
+#. REC: INFO:NAM1
 msgctxt "0001EA"
 msgid "Good call. As much as we're carrying, my feet could use a break."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000067]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000067]
+#. REC: INFO:NAM1
 msgctxt "0001EB"
 msgid "All systems go."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000066]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000066]
+#. REC: INFO:NAM1
 msgctxt "0001EC"
 msgid "Looks like I got shotgun."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000065]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000065]
+#. REC: INFO:NAM1
 msgctxt "0001ED"
 msgid "Keys, check. Hat, double check."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000064]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000064]
+#. REC: INFO:NAM1
 msgctxt "0001EE"
 msgid "Time to hit the road."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000063]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000063]
+#. REC: INFO:NAM1
 msgctxt "0001EF"
 msgid "Giddyup."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000062]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000062]
+#. REC: INFO:NAM1
 msgctxt "0001F0"
 msgid "Let's ride."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE000324]
-#. List: REC: INFO:NAM1
+#. EDID: [FE000324]
+#. REC: INFO:NAM1
 msgctxt "00024C"
 msgid "Dialogue Warning"
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0002FC]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0002FC]
+#. REC: INFO:NAM1
 msgctxt "00024D"
 msgid "Way to stick the landing."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0002FB]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0002FB]
+#. REC: INFO:NAM1
 msgctxt "00024E"
 msgid "We always land on our feet."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0002FA]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0002FA]
+#. REC: INFO:NAM1
 msgctxt "00024F"
 msgid "Smooth landing, dusty."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0002F8]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0002F8]
+#. REC: INFO:NAM1
 msgctxt "000250"
 msgid "That's a touch down."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0002F7]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0002F7]
+#. REC: INFO:NAM1
 msgctxt "000251"
 msgid "Gentle as a pillow."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0002F6]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0002F6]
+#. REC: INFO:NAM1
 msgctxt "000252"
 msgid "Easy does it."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0002F4]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0002F4]
+#. REC: INFO:NAM1
 msgctxt "000253"
 msgid "Textbook landing."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0002F3]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0002F3]
+#. REC: INFO:NAM1
 msgctxt "000254"
 msgid "Light as a feather."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0002F2]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0002F2]
+#. REC: INFO:NAM1
 msgctxt "000255"
 msgid "Back on solid ground."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0002F0]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0002F0]
+#. REC: INFO:NAM1
 msgctxt "000256"
 msgid "Textbook landing."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0002EF]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0002EF]
+#. REC: INFO:NAM1
 msgctxt "000257"
 msgid "Like landing on a cloud."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0002EE]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0002EE]
+#. REC: INFO:NAM1
 msgctxt "000258"
 msgid "Descents in low gravity are so gentle."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0002E7]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0002E7]
+#. REC: INFO:NAM1
 msgctxt "000259"
 msgid "Textbook landing, Captain."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0002E6]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0002E6]
+#. REC: INFO:NAM1
 msgctxt "00025A"
 msgid "Exemplary landing."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE0002E5]
-#. List: REC: INFO:NAM1
+#. EDID: [FE0002E5]
+#. REC: INFO:NAM1
 msgctxt "00025B"
 msgid "Flawless descent."
 msgstr ""
 
 #. List: 2
-#. List: EDID: [FE00027F]
-#. List: REC: INFO:NAM1
+#. EDID: [FE00027F]
+#. REC: INFO:NAM1
 msgctxt "00025C"
 msgid "Hostile destroyed."
 msgstr ""
+
 

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-26 16:17+0900\n"
-"PO-Revision-Date: 2024-08-18 18:37+0000\n"
+"PO-Revision-Date: 2024-08-27 14:45+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -157,7 +157,7 @@ msgstr "키메라 II"
 # List: 0, EDID: UC01_SimEnemy_Tier06_UCNavy_C_Combat_01, REC: GBFM:FULL
 msgctxt "0074D9"
 msgid "Tier VI Simulated Ship"
-msgstr "티어 VI 가상 적함"
+msgstr "6단계 가상 적함"
 
 # List: 0, EDID: OutpostStarstation01, REC: GBFM:FULL
 msgctxt "007510"

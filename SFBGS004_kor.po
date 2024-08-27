@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-23 00:19+0900\n"
-"PO-Revision-Date: 2024-08-27 06:08+0000\n"
-"Last-Translator: singularity <eldergmg@gmail.com>\n"
+"PO-Revision-Date: 2024-08-27 14:45+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -1503,7 +1503,7 @@ msgstr "물을 지나치게 마시지 말았어야 했는데."
 #. Speaker: Andreja
 msgctxt "000069"
 msgid "Is the vehicle broken?"
-msgstr "차량이 고장이라도 난 거야?"
+msgstr "차가 고장이라도 난 거야?"
 
 #. List: 2
 #. EDID: [FE0001FC]
@@ -1815,7 +1815,7 @@ msgstr "물을 통과할 때는 주의해."
 #. Speaker: SarahMorgan
 msgctxt "00008F"
 msgid "This vehicle functions well as a boat."
-msgstr "이 차량이 보트 역할을 잘하고 있네."
+msgstr "이 차가 보트 역할을 잘하고 있네."
 
 #. List: 2
 #. EDID: [FE0001D3]
@@ -1839,7 +1839,7 @@ msgstr "물놀이 하고 싶어?"
 #. Speaker: Andreja
 msgctxt "000092"
 msgid "I hope we don't disturb any aquatic life."
-msgstr ""
+msgstr "우리가 해양 생물들을 방해하지는 않았으면 좋겠네."
 
 #. List: 2
 #. EDID: [FE0001CF]
@@ -1847,7 +1847,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "000093"
 msgid "When they said all-terrain, they really meant it."
-msgstr ""
+msgstr "전천후 차량이라고 들었는데, 정말이었네."
 
 #. List: 2
 #. EDID: [FE0001CE]
@@ -1855,7 +1855,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "000094"
 msgid "This vehicle handles surprisingly well in the water."
-msgstr ""
+msgstr "이 차 생각보다 수중에서 핸들링이 잘 되는데."
 
 #. List: 2
 #. EDID: [FE0001CD]
@@ -1863,7 +1863,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "000095"
 msgid "The water doesn't seem too bad."
-msgstr ""
+msgstr "물 상태는 괜찮아 보이네."
 
 #. List: 2
 #. EDID: [FE0001CC]
@@ -1871,7 +1871,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "000096"
 msgid "Be sure to drive slowly and steady, so you don't make a bow wave."
-msgstr ""
+msgstr "천천히 안전하게 운전해. 그래야 선수파가 안 생기거든."
 
 #. List: 2
 #. EDID: [FE0001CB]
@@ -1879,7 +1879,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "000097"
 msgid "We should use caution. Water can hide debris and other obstacles."
-msgstr ""
+msgstr "조심해야 해. 물 때문에 잔해나 장애물이 안 보일 수도 있으니까."
 
 #. List: 2
 #. EDID: [FE0001CA]
@@ -1887,7 +1887,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "000098"
 msgid "The vehicle handles pretty well in the water."
-msgstr ""
+msgstr "이 차는 물 위에서도 잘 이동하는걸."
 
 #. List: 2
 #. EDID: [FE0001C9]
@@ -1895,7 +1895,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "000099"
 msgid "Water's fine, it seems."
-msgstr ""
+msgstr "보니까 물은 괜찮은 것 같네."
 
 #. List: 2
 #. EDID: [FE0001C8]
@@ -1903,7 +1903,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "00009A"
 msgid "I did think the vehicle could use some cooling off."
-msgstr ""
+msgstr "마침 차를 식혀야 하지 않나 생각하던 참이었어."
 
 #. List: 2
 #. EDID: [FE0001C7]
@@ -1911,7 +1911,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "00009B"
 msgid "This is more of a canoe than a boat, but it does the job."
-msgstr ""
+msgstr "보트보다는 카누 같기는 한데, 잘 굴러가면 됐지."
 
 #. List: 2
 #. EDID: [FE0001C5]
@@ -1984,7 +1984,7 @@ msgstr "어차피 이 옷 세탁하려고 했어."
 #, fuzzy
 msgctxt "0000A4"
 msgid "I always thought this ride was part submarine."
-msgstr "나는 항상 이 차량이 잠수함의 일부였다고 생각했어."
+msgstr "나는 항상 이 차가 잠수함의 일부였다고 생각했어."
 
 #. List: 2
 #. EDID: [FE0001BC]
@@ -2000,7 +2000,7 @@ msgstr "이야! 무료 세차야!"
 #. Speaker: SamCoe
 msgctxt "0000A6"
 msgid "Damn, didn't we just wash this thing?"
-msgstr ""
+msgstr "젠장, 우리 방금 이거 세차한 거 아니었어?"
 
 #. List: 2
 #. EDID: [FE0001B9]
@@ -2016,7 +2016,7 @@ msgstr "수심이 너무 안 깊었으면 좋겠는데."
 #. Speaker: SamCoe
 msgctxt "0000A8"
 msgid "We should be careful when going through water like this."
-msgstr ""
+msgstr "이렇게 물을 헤쳐 나갈 때에는 조심하는 게 좋겠어."
 
 #. List: 2
 #. EDID: [FE0001B7]
@@ -2024,7 +2024,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0000A9"
 msgid "Try to keep from hydroplaning."
-msgstr ""
+msgstr "수막현상 안 일어나게 조심해."
 
 #. List: 2
 #. EDID: [FE0001B6]
@@ -2032,7 +2032,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0000AA"
 msgid "Don't worry, this ride can handle a little water."
-msgstr "걱정 마, 물 좀 묻었다고 문제가 있겠어."
+msgstr "걱정 마. 물 좀 묻었다고 문제가 있겠어."
 
 #. List: 2
 #. EDID: [FE0001B5]
@@ -2042,7 +2042,7 @@ msgctxt "0000AB"
 msgid ""
 "Back in the day, you'd have to dry your brakes with a few slow taps. But "
 "it's all automated now."
-msgstr ""
+msgstr "옛날에는 브레이크를 몇 번 천천히 툭툭 쳐서 물을 털어내야 했어. 이제는 완전 자동이네."
 
 #. List: 2
 #. EDID: [FE0001B4]
@@ -2050,7 +2050,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0000AC"
 msgid "I'm glad I brought a change of clothes."
-msgstr ""
+msgstr "갈아입을 옷을 챙겨와서 다행이야."
 
 #. List: 2
 #. EDID: [FE0001B3]
@@ -2058,7 +2058,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0000AD"
 msgid "Hope this ride can handle a little water."
-msgstr ""
+msgstr "이 차가 물을 좀 버틸 수 있어야 할 텐데."
 
 #. List: 2
 #. EDID: [FE0001B2]
@@ -2074,7 +2074,7 @@ msgstr "수영복 챙겨오는 걸 까먹었네."
 #. Speaker: SamCoe
 msgctxt "0000AF"
 msgid "Good time to hit the pool."
-msgstr ""
+msgstr "수영장 가기 딱 좋은 날이네."
 
 #. List: 2
 #. EDID: [FE0001AF]
@@ -2241,7 +2241,7 @@ msgstr "도약한다고 하면, 얼마나 높이 솟구칠지 궁금하더라."
 #. Speaker: SarahMorgan
 msgctxt "0000C3"
 msgid "Textbook landing!"
-msgstr "교과서 같은 착륙이야!"
+msgstr "교과서에 나올 착륙이었어!"
 
 #. List: 2
 #. EDID: [FE000199]
@@ -2249,7 +2249,7 @@ msgstr "교과서 같은 착륙이야!"
 #. Speaker: Andreja
 msgctxt "0000C4"
 msgid "That was a leap of faith."
-msgstr ""
+msgstr "신뢰의 도약이었어."
 
 #. List: 2
 #. EDID: [FE000198]
@@ -2257,7 +2257,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0000C5"
 msgid "We soar like the eagles of old."
-msgstr ""
+msgstr "옛날의 독수리처럼 날아올랐네."
 
 #. List: 2
 #. EDID: [FE000197]
@@ -2265,7 +2265,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0000C6"
 msgid "That was thrilling!"
-msgstr ""
+msgstr "스릴 넘쳤어!"
 
 #. List: 2
 #. EDID: [FE000196]
@@ -2273,7 +2273,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0000C7"
 msgid "I think we can go higher."
-msgstr ""
+msgstr "더 높이 뛸 수도 있겠어."
 
 #. List: 2
 #. EDID: [FE000195]
@@ -2281,7 +2281,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0000C8"
 msgid "A picture-perfect landing."
-msgstr ""
+msgstr "완전무결한 착지였어."
 
 #. List: 2
 #. EDID: [FE000194]
@@ -2299,7 +2299,7 @@ msgctxt "0000CA"
 msgid ""
 "A very solid jump. Even the judge from House Va'ruun gives it a ten out of "
 "ten."
-msgstr ""
+msgstr "정말 안정적인 도약이었어. 바룬 가문 심판자마저도 10점 만점에 10점을 주겠는걸."
 
 #. List: 2
 #. EDID: [FE000192]
@@ -2307,7 +2307,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0000CB"
 msgid "You have a knack for these vehicular gymnastics."
-msgstr ""
+msgstr "운전 실력이 진짜 출중하구나."
 
 #. List: 2
 #. EDID: [FE000191]
@@ -2315,7 +2315,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0000CC"
 msgid "Your dismounts are flawless."
-msgstr ""
+msgstr "하강이 완벽하네."
 
 #. List: 2
 #. EDID: [FE000190]
@@ -2323,7 +2323,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0000CD"
 msgid "Perfect execution."
-msgstr ""
+msgstr "완벽한 솜씨였어."
 
 #. List: 2
 #. EDID: [FE00018E]
@@ -2331,7 +2331,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0000CE"
 msgid "Hell of a jump, dusty!"
-msgstr ""
+msgstr "끝내주는 도약이였어! 두더지!"
 
 #. List: 2
 #. EDID: [FE00018D]
@@ -2339,7 +2339,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0000CF"
 msgid "Nice! Let's do it again!"
-msgstr ""
+msgstr "멋진데! 다시 해보자고!"
 
 #. List: 2
 #. EDID: [FE00018C]
@@ -2355,7 +2355,7 @@ msgstr "우후!"
 #. Speaker: Barrett
 msgctxt "0000D1"
 msgid "Like a boss!"
-msgstr ""
+msgstr "두목이 된 것 같네!"
 
 #. List: 2
 #. EDID: [FE00018A]
@@ -2363,7 +2363,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0000D2"
 msgid "Nailed it!"
-msgstr ""
+msgstr "성공했어!"
 
 #. List: 2
 #. EDID: [FE000189]
@@ -2371,7 +2371,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0000D3"
 msgid "We're flying high in this ride, that's for sure."
-msgstr ""
+msgstr "이 차를 타고 높이 날고 있어. 확실히."
 
 #. List: 2
 #. EDID: [FE000188]
@@ -2379,7 +2379,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0000D4"
 msgid "We caught some rare air on that jump."
-msgstr ""
+msgstr "이번 도약에서 희박한 공기를 좀 쐬었네."
 
 #. List: 2
 #. EDID: [FE000187]
@@ -2387,7 +2387,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0000D5"
 msgid "Perfect dismount, perfect landing."
-msgstr ""
+msgstr "완벽한 하강, 완벽한 착지."
 
 #. List: 2
 #. EDID: [FE000186]
@@ -2395,7 +2395,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0000D6"
 msgid "Smooth as butter!"
-msgstr ""
+msgstr "버터처럼 매끄럽네!"
 
 #. List: 2
 #. EDID: [FE000185]
@@ -2403,7 +2403,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0000D7"
 msgid "We defied the laws of gravity on that one!"
-msgstr ""
+msgstr "방금 중력의 법칙을 무시했어!"
 
 #. List: 2
 #. EDID: [FE000184]
@@ -2411,7 +2411,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0000D8"
 msgid "I bet we could do a flip next time."
-msgstr ""
+msgstr "다음에는 공중제비도 할 수 있겠는걸."
 
 #. List: 2
 #. EDID: [FE000182]
@@ -2427,7 +2427,7 @@ msgstr "매끄러운데."
 #. Speaker: SamCoe
 msgctxt "0000DA"
 msgid "Whew! That was some jump."
-msgstr "휴! 엄청난 점프였어."
+msgstr "휴! 엄청난 도약이었어."
 
 #. List: 2
 #. EDID: [FE000180]
@@ -2435,7 +2435,7 @@ msgstr "휴! 엄청난 점프였어."
 #. Speaker: SamCoe
 msgctxt "0000DB"
 msgid "We should do shows."
-msgstr ""
+msgstr "공연을 해야겠는데."
 
 #. List: 2
 #. EDID: [FE00017F]
@@ -2443,7 +2443,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0000DC"
 msgid "Got some good air on that one."
-msgstr ""
+msgstr "좋은 바람이 들어오는군."
 
 #. List: 2
 #. EDID: [FE00017E]
@@ -2451,7 +2451,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0000DD"
 msgid "You aiming to be a stunt driver?"
-msgstr ""
+msgstr "자동차 스턴트 연기자라도 되려고?"
 
 #. List: 2
 #. EDID: [FE00017D]
@@ -2467,7 +2467,7 @@ msgstr "흔들림없는 편안한 착륙이었어."
 #. Speaker: SamCoe
 msgctxt "0000DF"
 msgid "Reminds me of hopping across the ravine back home."
-msgstr ""
+msgstr "고향에서 계곡을 뛰어넘던 게 떠오르네."
 
 #. List: 2
 #. EDID: [FE00017B]
@@ -2475,7 +2475,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0000E0"
 msgid "Whew! We got a ton of air on that one!"
-msgstr ""
+msgstr "휴! 바람이 엄청나게 들이닥쳤네!"
 
 #. List: 2
 #. EDID: [FE00017A]
@@ -2483,7 +2483,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0000E1"
 msgid "That was one helluva jump!"
-msgstr ""
+msgstr "정말 대단한 도약이었어!"
 
 #. List: 2
 #. EDID: [FE000179]
@@ -2592,7 +2592,7 @@ msgstr "사소한 충돌은 제쳐두더라도, 무사히 집에 도착했으면
 #. Speaker: SarahMorgan
 msgctxt "0000EE"
 msgid "We're going to need to bring this in for repairs."
-msgstr "이 차량을 수리하러 가져가야 할 것 같아."
+msgstr "차를 수리하러 가야 할 것 같아."
 
 #. List: 2
 #. EDID: [FE00016A]
@@ -2648,7 +2648,7 @@ msgstr "제발... *한숨*"
 #. Speaker: SarahMorgan
 msgctxt "0000F5"
 msgid "Keep your eyes on the road, please!"
-msgstr "도로에서 눈을 떼지 마! 제발!"
+msgstr "길에서 눈을 떼지 마, 제발!"
 
 #. List: 2
 #. EDID: [FE000280]
@@ -2680,7 +2680,7 @@ msgstr "브레이크 고장이라도 났어?"
 #. Speaker: Andreja
 msgctxt "0000F9"
 msgid "That is going to leave a dent."
-msgstr ""
+msgstr "덴트 수리 받으러 가야겠는데."
 
 #. List: 2
 #. EDID: [FE00015F]
@@ -2688,7 +2688,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0000FA"
 msgid "For what it's worth, I still think you are a decent driver."
-msgstr ""
+msgstr "그냥 내 생각일 뿐이지만, 너 정도면 괜찮은 운전자라고 생각해."
 
 #. List: 2
 #. EDID: [FE00015E]
@@ -2704,7 +2704,7 @@ msgstr "가끔은 꼬라박는 것도 스트레스 푸는데 좋지."
 #. Speaker: Andreja
 msgctxt "0000FC"
 msgid "Forgive me if I do not understand our current course."
-msgstr ""
+msgstr "현재 코스를 파악하지 못하더라도 이해해 줘."
 
 #. List: 2
 #. EDID: [FE00022D]
@@ -2712,7 +2712,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0000FD"
 msgid "Don't worry, it's just a scratch."
-msgstr ""
+msgstr "걱정 마. 긁힌 것 뿐이야."
 
 #. List: 2
 #. EDID: [FE00022C]
@@ -2728,7 +2728,7 @@ msgstr "조심해!"
 #. Speaker: Andreja
 msgctxt "0000FF"
 msgid "Any accident you can walk away from..."
-msgstr ""
+msgstr "어떤 사고라도 너라면 벗어날 수 있겠어..."
 
 #. List: 2
 #. EDID: [FE00015B]
@@ -2736,7 +2736,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "000100"
 msgid "Keep in mind you have brakes."
-msgstr "제발 브레이크 쓸 줄 안다고 말해줘."
+msgstr "브레이크 있다는 거 잊지 마."
 
 #. List: 2
 #. EDID: [FE00015A]
@@ -2744,7 +2744,7 @@ msgstr "제발 브레이크 쓸 줄 안다고 말해줘."
 #. Speaker: Andreja
 msgctxt "000101"
 msgid "Are you trying to hit things?"
-msgstr ""
+msgstr "무언가를 치려는 건 아니지?"
 
 #. List: 2
 #. EDID: [FE000159]
@@ -2752,7 +2752,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "000102"
 msgid "If it wasn't dead already, it is now."
-msgstr "저게 죽었는지 모르겠는데, 이제는 확실히 알겠다."
+msgstr "저게 죽은 건지 아닌지 몰랐는데, 이제는 확실히 알겠다."
 
 #. List: 2
 #. EDID: [FE000158]
@@ -2760,7 +2760,7 @@ msgstr "저게 죽었는지 모르겠는데, 이제는 확실히 알겠다."
 #. Speaker: Andreja
 msgctxt "000103"
 msgid "I think I got whiplash from that one."
-msgstr ""
+msgstr "그거 때문에 목이 뻐근해."
 
 #. List: 2
 #. EDID: [FE00022B]
@@ -2768,7 +2768,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "000104"
 msgid "Another one for the blooper reel."
-msgstr ""
+msgstr "또 다시 실수 연발이네."
 
 #. List: 2
 #. EDID: [FE00022A]
@@ -2776,7 +2776,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "000105"
 msgid "Oopsies."
-msgstr "웁스."
+msgstr "아이고야."
 
 #. List: 2
 #. EDID: [FE000156]
@@ -2816,7 +2816,7 @@ msgstr "온다!"
 #. Speaker: Barrett
 msgctxt "00010A"
 msgid "Didn't even feel that one."
-msgstr ""
+msgstr "이번엔 느낌도 안 왔어."
 
 #. List: 2
 #. EDID: [FE000151]
@@ -2832,7 +2832,7 @@ msgstr "그래, 나도 항상 차에 치이는 사람 모형이 되고 싶었어
 #. Speaker: Barrett
 msgctxt "00010C"
 msgid "Just another boo-boo."
-msgstr ""
+msgstr "또 다시 바보 같은 실수를 했네."
 
 #. List: 2
 #. EDID: [FE00014F]
@@ -2848,7 +2848,7 @@ msgstr "괜찮아, 나도 못 봤어."
 #. Speaker: Barrett
 msgctxt "00010E"
 msgid "You didn't have anything to drink, did you?"
-msgstr ""
+msgstr "뭐 마실 거 없지? 그치?"
 
 #. List: 2
 #. EDID: [FE00014D]
@@ -2856,7 +2856,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "00010F"
 msgid "I hope you're not crashing this thing on purpose."
-msgstr ""
+msgstr "일부러 충돌하는 게 아니길 바랄게."
 
 #. List: 2
 #. EDID: [FE000286]
@@ -2872,7 +2872,7 @@ msgstr "사라가 절대 안 좋아하겠는데."
 #. Speaker: Barrett
 msgctxt "000111"
 msgid "I'm glad I don't have to pay insurance on this thing!"
-msgstr ""
+msgstr "이거에 보험금은 안 내도 돼서 다행이야!"
 
 #. List: 2
 #. EDID: [FE00014C]
@@ -2907,7 +2907,7 @@ msgctxt "000115"
 msgid ""
 "You know when they say \"Buckle up, it's gonna be a bumpy ride.\" They were "
 "talking about this. This ride."
-msgstr ""
+msgstr "이런 말 많이 하지, \"안전벨트 꽉 매. 많이 덜컹댈 거야.\" 그게 지금을 말하는 거였어. 지금 이 차 말이야."
 
 #. List: 2
 #. EDID: [FE000147]
@@ -2915,7 +2915,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "000116"
 msgid "You walloped that thing good."
-msgstr ""
+msgstr "잘 처박아 버렸네."
 
 #. List: 2
 #. EDID: [FE000146]
@@ -2939,7 +2939,7 @@ msgstr "악! 내 목!"
 #. Speaker: SamCoe
 msgctxt "000119"
 msgid "Glad I buckled up."
-msgstr "벨트메서 진짜 다행이네."
+msgstr "벨트 매서 진짜 다행이네."
 
 #. List: 2
 #. EDID: [FE000143]
@@ -2947,7 +2947,7 @@ msgstr "벨트메서 진짜 다행이네."
 #. Speaker: SamCoe
 msgctxt "00011A"
 msgid "You're hitting everything on my bingo card."
-msgstr ""
+msgstr "내가 빙고에 적은 그대로 행동하고 있네."
 
 #. List: 2
 #. EDID: [FE000142]
@@ -3036,7 +3036,7 @@ msgstr "장애물이 제거되었습니다."
 #. Speaker: Vasco
 msgctxt "000125"
 msgid "The road is now clear."
-msgstr "이제 도로가 정리되었습니다."
+msgstr "이제 길이 뻥 뚫렸습니다."
 
 #. List: 2
 #. EDID: [FE000136]
@@ -3052,7 +3052,7 @@ msgstr "보행자 제거 완료."
 #. Speaker: SarahMorgan
 msgctxt "000127"
 msgid "Certainly more effective than a banana peel."
-msgstr "바나나 껍질보다 확실히 더 효과적이네."
+msgstr "확실히 바나나 껍질보다는 더 효과적이네."
 
 #. List: 2
 #. EDID: [FE000133]
@@ -3084,7 +3084,7 @@ msgstr "힘은 질량 곱하기 가속도라고."
 #. Speaker: SarahMorgan
 msgctxt "00012B"
 msgid "They won't be standing up from that!"
-msgstr "녀석들은 자리에서 일어나지 못할 거야!"
+msgstr "이걸 맞고도 서 있지는 못 하겠지!"
 
 #. List: 2
 #. EDID: [FE00012F]
@@ -3102,7 +3102,7 @@ msgctxt "00012D"
 msgid ""
 "I don't think this vehicle was designed to run over people, but it's "
 "certainly a feature."
-msgstr "이 차량은 사람을 치면서 주행하도록 설계된 건 아니겠지만, 분명 그런 기능이 있는 거 같네."
+msgstr "이 차가 사람을 치면서 주행하도록 설계된 건 아니겠지만, 분명 그런 기능이 있는 거 같네."
 
 #. List: 2
 #. EDID: [FE00012D]
@@ -3126,7 +3126,7 @@ msgstr "녀석들은 우리 앞에 나서기 전에 망설이게 될 거야!"
 #. Speaker: SarahMorgan
 msgctxt "000130"
 msgid "Having a lead foot is good in some situations!"
-msgstr "어떤 상황에서는 폭주족처럼 행동하는 게 나아!"
+msgstr "마구 밟는 게 이로운 상황도 있지!"
 
 #. List: 2
 #. EDID: [FE000229]
@@ -3142,7 +3142,7 @@ msgstr "도망칠 수 있다고 생각했냐?"
 #. Speaker: Andreja
 msgctxt "000132"
 msgid "Their heads are our trophies!"
-msgstr ""
+msgstr "녀석들 머리는 우리 트로피지!"
 
 #. List: 2
 #. EDID: [FE000129]
@@ -3150,7 +3150,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "000133"
 msgid "A perfect way to test the shocks!"
-msgstr ""
+msgstr "완벽한 충돌 테스트 방법이네!"
 
 #. List: 2
 #. EDID: [FE000128]
@@ -3158,7 +3158,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "000134"
 msgid "They were foolish to stand in our path!"
-msgstr ""
+msgstr "녀석들은 우리 가는 길을 가로막는 어리석은 짓을 했지!"
 
 #. List: 2
 #. EDID: [FE000126]
@@ -3166,7 +3166,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "000135"
 msgid "They have reaped what they have sown!"
-msgstr ""
+msgstr "녀석들은 뿌린 대로 거둔 거야!"
 
 #. List: 2
 #. EDID: [FE000125]
@@ -3174,15 +3174,16 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "000136"
 msgid "It's almost as if they had a death wish."
-msgstr ""
+msgstr "녀석들 죽고 싶어서 안달 난 거 같아."
 
 #. List: 2
 #. EDID: [FE000124]
 #. REC: INFO:NAM1
 #. Speaker: Andreja
+#, fuzzy
 msgctxt "000137"
 msgid "As they say, sometimes you're the bug."
-msgstr ""
+msgstr "요즘 말에, 가끔은 네가 벌레처럼 될 수도 있다는 말이 있지."
 
 #. List: 2
 #. EDID: [FE000123]
@@ -3190,7 +3191,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "000138"
 msgid "I think I heard their bones crunch."
-msgstr ""
+msgstr "녀석들 뼈 부서지는 소리가 들린 것 같아."
 
 #. List: 2
 #. EDID: [FE000122]
@@ -3198,7 +3199,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "000139"
 msgid "If they do not abide by the rules of the road, than neither shall we."
-msgstr ""
+msgstr "누군가 도로교통법을 지키지 않는다면, 우리도 지킬 필요는 없지."
 
 #. List: 2
 #. EDID: [FE000120]
@@ -3206,7 +3207,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "00013A"
 msgid "Fighting enemies like this is highly efficient!"
-msgstr ""
+msgstr "이렇게 적과 싸우는 거 매우 효율적이네!"
 
 #. List: 2
 #. EDID: [FE000121]
@@ -3222,7 +3223,7 @@ msgstr "전쟁에서는, 뭐든 무기가 될 수 있는 법이지."
 #. Speaker: Andreja
 msgctxt "00013C"
 msgid "You clearly had the right of way."
-msgstr ""
+msgstr "분명 너에게 우선 통행권이 있지."
 
 #. List: 2
 #. EDID: [FE00011E]
@@ -3230,7 +3231,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "00013D"
 msgid "Who needs a gun when you have four wheels and a lead foot!"
-msgstr ""
+msgstr "바퀴 네 개에 가속 페달이 있는데 총이 뭐가 필요해!"
 
 #. List: 2
 #. EDID: [FE00011D]
@@ -3238,7 +3239,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "00013E"
 msgid "And that's why we say always wear a helmet..."
-msgstr "이래서 사람들이 항상 안전벨트 메라는 거야..."
+msgstr "이래서 사람들이 항상 안전벨트 매라는 거야..."
 
 #. List: 2
 #. EDID: [FE00011C]
@@ -3246,7 +3247,7 @@ msgstr "이래서 사람들이 항상 안전벨트 메라는 거야..."
 #. Speaker: Barrett
 msgctxt "00013F"
 msgid "Think you get bonus points for that one!"
-msgstr ""
+msgstr "보너스 점수를 받는다고 생각해!"
 
 #. List: 2
 #. EDID: [FE00011B]
@@ -3254,7 +3255,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "000140"
 msgid "Please be patient! We're student drivers!"
-msgstr ""
+msgstr "조금만 기다려! 우리는 운전 교습생이라고!"
 
 #. List: 2
 #. EDID: [FE00011A]
@@ -3270,7 +3271,7 @@ msgstr "이번주 핏자국 청소 담당이 내가 아니길."
 #. Speaker: Barrett
 msgctxt "000142"
 msgid "That'll teach them to cross the road!"
-msgstr ""
+msgstr "녀석들에게 길을 건너는 방법을 가르쳐 준 셈이군!"
 
 #. List: 2
 #. EDID: [FE000227]
@@ -3278,7 +3279,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "000143"
 msgid "I hope they got our plate number!"
-msgstr ""
+msgstr "우리 번호판을 외웠으면 좋겠는데!"
 
 #. List: 2
 #. EDID: [FE000284]
@@ -3286,7 +3287,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "000144"
 msgid "Move it or lose it!"
-msgstr ""
+msgstr "차는 몰아주지 않으면 녹슨다고!"
 
 #. List: 2
 #. EDID: [FE000226]
@@ -3302,7 +3303,7 @@ msgstr "아으!"
 #. Speaker: Barrett
 msgctxt "000146"
 msgid "Bonk!"
-msgstr ""
+msgstr "뿅!"
 
 #. List: 2
 #. EDID: [FE000117]
@@ -3310,7 +3311,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "000147"
 msgid "Someone's gonna need a chiropractor!"
-msgstr ""
+msgstr "지압사 불러야 하겠는걸!"
 
 #. List: 2
 #. EDID: [FE000116]
@@ -3318,7 +3319,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "000148"
 msgid "They were probably jaywalking."
-msgstr ""
+msgstr "무단횡단이었을 거야."
 
 #. List: 2
 #. EDID: [FE000115]
@@ -3326,7 +3327,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "000149"
 msgid "Head, meet bumper!"
-msgstr ""
+msgstr "머리와 범퍼의 극적인 만남!"
 
 #. List: 2
 #. EDID: [FE000113]
@@ -3334,7 +3335,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "00014A"
 msgid "That's one way to take somebody out!"
-msgstr ""
+msgstr "이런 식으로도 사람을 없앨 수 있겠지!"
 
 #. List: 2
 #. EDID: [FE000112]
@@ -3342,7 +3343,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "00014B"
 msgid "I'm sure their mother will still think they're a catch."
-msgstr ""
+msgstr "이래도 쟤 엄마는 우리 이쁜 새끼라고 할걸."
 
 #. List: 2
 #. EDID: [FE000111]
@@ -3350,7 +3351,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "00014C"
 msgid "Ouch. I felt that up here."
-msgstr ""
+msgstr "아야. 내가 다 아프네."
 
 #. List: 2
 #. EDID: [FE000110]
@@ -3374,7 +3375,7 @@ msgstr "이제 우리 앞 길을 막으면 어떻게 되는지 알겠지!"
 #. Speaker: SamCoe
 msgctxt "00014F"
 msgid "That's gotta hurt!"
-msgstr "이야 좀 아프겠는데!"
+msgstr "좀 아프겠는데!"
 
 #. List: 2
 #. EDID: [FE00010D]
@@ -3390,7 +3391,7 @@ msgstr "저거 진짜 뼈도 못 추리겠는데!"
 #. Speaker: SamCoe
 msgctxt "000151"
 msgid "Road rage always leads to roadkill."
-msgstr ""
+msgstr "운전 중에 빡돌면 뺑소니가 생긴다니까."
 
 #. List: 2
 #. EDID: [FE000225]
@@ -3398,7 +3399,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "000152"
 msgid "Run 'em through!"
-msgstr ""
+msgstr "밟고 지나가!"
 
 #. List: 2
 #. EDID: [FE00010B]
@@ -3414,7 +3415,7 @@ msgstr "잡았다!"
 #. Speaker: SamCoe
 msgctxt "000154"
 msgid "Like a fly on a windshield!"
-msgstr ""
+msgstr "앞유리에 붙은 파리 같네!"
 
 #. List: 2
 #. EDID: [FE000108]
@@ -3529,7 +3530,7 @@ msgstr "조심해!"
 #. Speaker: SarahMorgan
 msgctxt "000162"
 msgid "Gah!"
-msgstr "으아아!"
+msgstr "으악!"
 
 #. List: 2
 #. EDID: [FE0000F9]
@@ -3561,7 +3562,7 @@ msgstr "집중해!"
 #. Speaker: SarahMorgan
 msgctxt "000166"
 msgid "Now I'm wondering how you manage to pilot a ship."
-msgstr "이제 어떻게 우주선을 조종했는지 궁금해질 지경이네."
+msgstr "이제 우주선은 어떻게 조종했는지 궁금해질 지경이네."
 
 #. List: 2
 #. EDID: [FE0000F5]
@@ -3577,7 +3578,7 @@ msgstr "항상 이렇게 운전해?"
 #. Speaker: SarahMorgan
 msgctxt "000168"
 msgid "Do we really need to drive over EVERY mine?"
-msgstr "우리 굳이 이 지뢰를 모두 피해 가며 운전해야 할까?"
+msgstr "우리 굳이 이 지뢰를 전부 밟고 가야 할까?"
 
 #. List: 2
 #. EDID: [FE0000F2]
@@ -3585,7 +3586,7 @@ msgstr "우리 굳이 이 지뢰를 모두 피해 가며 운전해야 할까?"
 #. Speaker: Andreja
 msgctxt "000169"
 msgid "We hit a mine!"
-msgstr ""
+msgstr "지뢰를 밟았어!"
 
 #. List: 2
 #. EDID: [FE0000F1]
@@ -3601,7 +3602,7 @@ msgstr "지뢰 조심해!"
 #. Speaker: Andreja
 msgctxt "00016B"
 msgid "Be more attentive!"
-msgstr ""
+msgstr "좀 더 조심해!"
 
 #. List: 2
 #. EDID: [FE0000EF]
@@ -3617,7 +3618,7 @@ msgstr "지뢰가 너무 많잖아!"
 #. Speaker: Andreja
 msgctxt "00016D"
 msgid "We've taken another hit!"
-msgstr ""
+msgstr "또 맞았다!"
 
 #. List: 2
 #. EDID: [FE0000ED]
@@ -3625,15 +3626,16 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "00016E"
 msgid "That one sounded bad."
-msgstr "어 이거 소리 안 좋은데."
+msgstr "이거 소리가 안 좋은데."
 
 #. List: 2
 #. EDID: [FE0000EC]
 #. REC: INFO:NAM1
 #. Speaker: Andreja
+#, fuzzy
 msgctxt "00016F"
 msgid "Ugh! Try to steer clear of the mines!"
-msgstr ""
+msgstr "으악! 지뢰를 피해서 운전대 돌려!"
 
 #. List: 2
 #. EDID: [FE0000EB]
@@ -3657,7 +3659,7 @@ msgstr "아! 운전 좀 제대로 해 봐!"
 #. Speaker: Andreja
 msgctxt "000172"
 msgid "You would do well to avoid the mines."
-msgstr ""
+msgstr "지뢰는 피하는 게 좋아."
 
 #. List: 2
 #. EDID: [FE0000E7]
@@ -3673,7 +3675,7 @@ msgstr "내 머리 아직 붙어있는 거 맞지?"
 #. Speaker: Barrett
 msgctxt "000174"
 msgid "I wonder if my insurance covers this."
-msgstr "이거 보험처리 되려나."
+msgstr "이거 보험 처리되려나."
 
 #. List: 2
 #. EDID: [FE0000E5]
@@ -3681,7 +3683,7 @@ msgstr "이거 보험처리 되려나."
 #. Speaker: Barrett
 msgctxt "000175"
 msgid "This is one bumpy ride!"
-msgstr ""
+msgstr "승차감이 참 험하네!"
 
 #. List: 2
 #. EDID: [FE0000E4]
@@ -3705,7 +3707,7 @@ msgstr "아!"
 #. Speaker: Barrett
 msgctxt "000178"
 msgid "They do say the most direct path is a straight line!"
-msgstr "뭐, 두 점 사이의 최단거리는 직선이라고들 하지!"
+msgstr "두 점 사이의 최단 거리는 직선이라고들 하지!"
 
 #. List: 2
 #. EDID: [FE0000E1]
@@ -3729,17 +3731,19 @@ msgstr "내가 '지뢰 조심해'라고 말하려고 했거든, 근데 생각해
 #. EDID: [FE0000DF]
 #. REC: INFO:NAM1
 #. Speaker: Barrett
+#, fuzzy
 msgctxt "00017B"
 msgid "I felt that one in my back."
-msgstr ""
+msgstr "등 뒤에 뭔가 느껴졌어."
 
 #. List: 2
 #. EDID: [FE0000DE]
 #. REC: INFO:NAM1
 #. Speaker: Barrett
+#, fuzzy
 msgctxt "00017C"
 msgid "Hold it together, old girl!"
-msgstr ""
+msgstr "정신 차려! 아줌마!"
 
 #. List: 2
 #. EDID: [FE0000DC]
@@ -3755,7 +3759,7 @@ msgstr "저 빌어먹을 게 아주 여기저기 널려있잖아!"
 #. Speaker: SamCoe
 msgctxt "00017E"
 msgid "They just creep up on you, don't they?"
-msgstr ""
+msgstr "녀석들 슬금슬금 다가오는 거 같은데? 그렇지?"
 
 #. List: 2
 #. EDID: [FE0000DA]
@@ -3779,7 +3783,7 @@ msgstr "어흠, 저거 두동강난 게 아니길 빌자고!"
 #. Speaker: SamCoe
 msgctxt "000181"
 msgid "Watch the road!"
-msgstr ""
+msgstr "길 조심해!"
 
 #. List: 2
 #. EDID: [FE0000D7]
@@ -3795,7 +3799,7 @@ msgstr "그러다 면허 정지된다."
 #. Speaker: SamCoe
 msgctxt "000183"
 msgid "There goes my lunch."
-msgstr ""
+msgstr "점심은 물 건너 갔군."
 
 #. List: 2
 #. EDID: [FE0000D5]
@@ -3803,7 +3807,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "000184"
 msgid "Ugh! These mines are hard to miss!"
-msgstr ""
+msgstr "윽! 여기 지뢰들은 피하기 어렵군!"
 
 #. List: 2
 #. EDID: [FE0000D4]
@@ -4011,15 +4015,16 @@ msgstr "더 빨리 가도 돼."
 #. Speaker: Andreja
 msgctxt "00019E"
 msgid "We'll get there in no time."
-msgstr ""
+msgstr "금방 도착할 거야."
 
 #. List: 2
 #. EDID: [FE0000B7]
 #. REC: INFO:NAM1
 #. Speaker: Andreja
+#, fuzzy
 msgctxt "00019F"
 msgid "Boosting gives me such a rush."
-msgstr ""
+msgstr "부스터를 쓰면 마음이 긴박해지더라."
 
 #. List: 2
 #. EDID: [FE0000B6]
@@ -4027,7 +4032,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0001A0"
 msgid "We will leave everyone in the dust."
-msgstr ""
+msgstr "우리가 모두를 압도할 거야."
 
 #. List: 2
 #. EDID: [FE0000B5]
@@ -4035,7 +4040,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0001A1"
 msgid "I prefer it when we are boosting."
-msgstr ""
+msgstr "나는 부스터를 쓸 때가 좋더라."
 
 #. List: 2
 #. EDID: [FE0000B4]
@@ -4057,9 +4062,10 @@ msgstr "모든 시스템 정상."
 #. EDID: [FE0000B2]
 #. REC: INFO:NAM1
 #. Speaker: Andreja
+#, fuzzy
 msgctxt "0001A4"
 msgid "We are better when we are faster."
-msgstr ""
+msgstr "빠를수록 좋은 거지."
 
 #. List: 2
 #. EDID: [FE0000B0]
@@ -4075,7 +4081,7 @@ msgstr "누구 레이스하고 싶은 사람?"
 #. Speaker: Barrett
 msgctxt "0001A6"
 msgid "Let's see what this thing can do!"
-msgstr ""
+msgstr "이걸로 뭘 할 수 있을지 보자고!"
 
 #. List: 2
 #. EDID: [FE0000AE]
@@ -4083,7 +4089,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001A7"
 msgid "Full throttle!"
-msgstr ""
+msgstr "전속력으로!"
 
 #. List: 2
 #. EDID: [FE0000AD]
@@ -4091,7 +4097,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001A8"
 msgid "Time to test the laws of motion!"
-msgstr ""
+msgstr "운동 법칙을 시험해 볼 시간이야!"
 
 #. List: 2
 #. EDID: [FE0000AC]
@@ -4107,7 +4113,7 @@ msgstr "총알보다 빠르게!"
 #. Speaker: Barrett
 msgctxt "0001AA"
 msgid "We're burning rubber!"
-msgstr ""
+msgstr "고무 타이어를 태워버리자고!"
 
 #. List: 2
 #. EDID: [FE0000AA]
@@ -4115,23 +4121,25 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001AB"
 msgid "Full steam ahead!"
-msgstr ""
+msgstr "전속력으로 전진!"
 
 #. List: 2
 #. EDID: [FE000283]
 #. REC: INFO:NAM1
 #. Speaker: Barrett
+#, fuzzy
 msgctxt "0001AC"
 msgid "Do you feel that momentum!? Yeeeow, baby!"
-msgstr ""
+msgstr "가속도가 느껴져? 야호! 베이비!"
 
 #. List: 2
 #. EDID: [FE0000A9]
 #. REC: INFO:NAM1
 #. Speaker: Barrett
+#, fuzzy
 msgctxt "0001AD"
 msgid "And we have lift off!"
-msgstr ""
+msgstr "이륙하는 느낌이야!"
 
 #. List: 2
 #. EDID: [FE0000A8]
@@ -4147,15 +4155,16 @@ msgstr "부릉 부릉!"
 #. Speaker: Barrett
 msgctxt "0001AF"
 msgid "Pedal to the metal!"
-msgstr ""
+msgstr "페달을 밟아 봐!"
 
 #. List: 2
 #. EDID: [FE0000A5]
 #. REC: INFO:NAM1
 #. Speaker: SamCoe
+#, fuzzy
 msgctxt "0001B0"
 msgid "That's putting it in gear."
-msgstr ""
+msgstr "기어를 넣어."
 
 #. List: 2
 #. EDID: [FE0000A4]
@@ -4171,15 +4180,16 @@ msgstr "가즈아!"
 #. Speaker: SamCoe
 msgctxt "0001B2"
 msgid "Who needs brakes, am I right?"
-msgstr ""
+msgstr "브레이크가 왜 필요하겠어? 맞지?"
 
 #. List: 2
 #. EDID: [FE0000A2]
 #. REC: INFO:NAM1
 #. Speaker: SamCoe
+#, fuzzy
 msgctxt "0001B3"
 msgid "Hell yeah, spam that boost."
-msgstr ""
+msgstr "오예, 부스터 마구 써."
 
 #. List: 2
 #. EDID: [FE0000A1]
@@ -4187,15 +4197,16 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0001B4"
 msgid "Hang on to your hats!"
-msgstr ""
+msgstr "모자 꽉 잡아!"
 
 #. List: 2
 #. EDID: [FE0000A0]
 #. REC: INFO:NAM1
 #. Speaker: SamCoe
+#, fuzzy
 msgctxt "0001B5"
 msgid "Punching it!"
-msgstr ""
+msgstr "뚫어 버려!"
 
 #. List: 2
 #. EDID: [FE00009F]
@@ -4203,15 +4214,16 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0001B6"
 msgid "Like a bat out of hell."
-msgstr ""
+msgstr "쏜살같이 가자."
 
 #. List: 2
 #. EDID: [FE00009E]
 #. REC: INFO:NAM1
 #. Speaker: SamCoe
+#, fuzzy
 msgctxt "0001B7"
 msgid "God's speed."
-msgstr ""
+msgstr "안전을 빌어."
 
 #. List: 2
 #. EDID: [FE00009D]
@@ -4219,7 +4231,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0001B8"
 msgid "Buckle up!"
-msgstr ""
+msgstr "안전벨트 매!"
 
 #. List: 2
 #. EDID: [FE00009C]
@@ -4227,7 +4239,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0001B9"
 msgid "Oh we're moving now."
-msgstr ""
+msgstr "오, 이제 가자."
 
 #. List: 2
 #. EDID: [FE00009A]
@@ -4332,7 +4344,7 @@ msgstr "똑똑하네. 발이 좀 편안해졌으면 좋겠어."
 #. Speaker: SarahMorgan
 msgctxt "0001C6"
 msgid "A vehicle comes in handy when exploring terrain like this."
-msgstr "이런 지형을 탐험할 때는 차량이 유용하지."
+msgstr "이런 지형을 탐험할 때 차가 있으면 유용하지."
 
 #. List: 2
 #. EDID: [FE00008C]
@@ -4340,7 +4352,7 @@ msgstr "이런 지형을 탐험할 때는 차량이 유용하지."
 #. Speaker: SarahMorgan
 msgctxt "0001C7"
 msgid "You read my mind. We should be safer taking the vehicle."
-msgstr "마음이 통하나 보네. 차량을 타고 가는 게 더 안전할 것 같아."
+msgstr "마음이 통하나 보네. 차를 타고 가는 게 더 안전할 것 같아."
 
 #. List: 2
 #. EDID: [FE00008B]
@@ -4396,7 +4408,7 @@ msgstr "운전하고 싶어?"
 #. Speaker: Andreja
 msgctxt "0001CE"
 msgid "I was worried we'd have to walk back. Good thing we have this ride."
-msgstr ""
+msgstr "걸어서 돌아가야 하나 걱정했어. 차가 있어서 다행이야."
 
 #. List: 2
 #. EDID: [FE000083]
@@ -4404,7 +4416,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0001CF"
 msgid "It's nice to not have to walk back with all our things."
-msgstr ""
+msgstr "짐을 모두 들고 돌아가지 않아도 되니 좋네."
 
 #. List: 2
 #. EDID: [FE000082]
@@ -4412,7 +4424,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0001D0"
 msgid "I appreciate the extra leg room, especially when wearing a spacesuit."
-msgstr ""
+msgstr "특히 우주복을 입을 때 다리 공간이 넉넉한 점이 마음에 들어."
 
 #. List: 2
 #. EDID: [FE000081]
@@ -4420,7 +4432,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0001D1"
 msgid "It's nice to have a vehicle to navigate places like this."
-msgstr ""
+msgstr "이런 곳을 돌아다니려면 차가 있는 게 좋지."
 
 #. List: 2
 #. EDID: [FE000080]
@@ -4428,7 +4440,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0001D2"
 msgid "I appreciate you taking the wheel."
-msgstr ""
+msgstr "운전대를 잡아줘서 고마워."
 
 #. List: 2
 #. EDID: [FE00007F]
@@ -4436,7 +4448,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0001D3"
 msgid "I'll let you steer."
-msgstr ""
+msgstr "운전대는 양보할게."
 
 #. List: 2
 #. EDID: [FE00007E]
@@ -4444,7 +4456,7 @@ msgstr ""
 #. Speaker: Andreja
 msgctxt "0001D4"
 msgid "Why walk when we can coast?"
-msgstr ""
+msgstr "해안으로 갈 수 있는데 왜 걸어야 할까?"
 
 #. List: 2
 #. EDID: [FE00007D]
@@ -4468,7 +4480,7 @@ msgstr "드라이브하기 좋은 날이네, 그치?"
 #. Speaker: Andreja
 msgctxt "0001D7"
 msgid "Riding in style, I see."
-msgstr ""
+msgstr "아주 멋지게 운전하네."
 
 #. List: 2
 #. EDID: [FE000079]
@@ -4476,7 +4488,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001D8"
 msgid "I love a nice long drive in an inhospitable world."
-msgstr ""
+msgstr "나는 험난한 세상에서 멋지게 장거리 운전을 즐기는 걸 좋아하지."
 
 #. List: 2
 #. EDID: [FE000078]
@@ -4484,7 +4496,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001D9"
 msgid "Hopefully we got enough room for all the loot we're carrying."
-msgstr ""
+msgstr "짊어진 전리품을 모두 실을 만큼 공간이 충분했으면 좋겠네."
 
 #. List: 2
 #. EDID: [FE000077]
@@ -4492,7 +4504,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001DA"
 msgid "I'm sure your back appreciates the lift."
-msgstr ""
+msgstr "등이 한결 가벼워졌을 거야."
 
 #. List: 2
 #. EDID: [FE000076]
@@ -4500,7 +4512,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001DB"
 msgid "This thing have A/C?"
-msgstr ""
+msgstr "차에 에어컨 있어?"
 
 #. List: 2
 #. EDID: [FE000075]
@@ -4508,7 +4520,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001DC"
 msgid "Let's turn on the heat!"
-msgstr ""
+msgstr "기총을 퍼붓자고!"
 
 #. List: 2
 #. EDID: [FE000282]
@@ -4516,7 +4528,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001DD"
 msgid "If you see a perfectly ramp-shaped outcrop, go ahead. I'm ready."
-msgstr ""
+msgstr "완벽한 경사로 모양으로 튀어나온 바위가 보이면, 타고 가. 준비는 됐어."
 
 #. List: 2
 #. EDID: [FE000074]
@@ -4524,7 +4536,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001DE"
 msgid "Buckle up, it's time to roll!"
-msgstr ""
+msgstr "안전벨트 매. 굴러갈 시간이야!"
 
 #. List: 2
 #. EDID: [FE000073]
@@ -4532,7 +4544,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001DF"
 msgid "Now this is one sweet ride."
-msgstr ""
+msgstr "이거 정말 멋진 승차감이네."
 
 #. List: 2
 #. EDID: [FE000072]
@@ -4540,7 +4552,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001E0"
 msgid "Nice wheels."
-msgstr ""
+msgstr "바퀴가 멋지네."
 
 #. List: 2
 #. EDID: [FE000281]
@@ -4556,7 +4568,7 @@ msgstr "이거 노래도 틀 수 있나?"
 #. Speaker: Barrett
 msgctxt "0001E2"
 msgid "I got shotgun!"
-msgstr ""
+msgstr "조수석은 내 자리야!"
 
 #. List: 2
 #. EDID: [FE000070]
@@ -4572,7 +4584,7 @@ msgstr "그나저나, 태워줘서 고마워."
 #. Speaker: Barrett
 msgctxt "0001E4"
 msgid "Thanks for the lift!"
-msgstr ""
+msgstr "태워 줘서 고마워!"
 
 #. List: 2
 #. EDID: [FE00006E]
@@ -4580,7 +4592,7 @@ msgstr ""
 #. Speaker: Barrett
 msgctxt "0001E5"
 msgid "Checking the fuel gauge -- we should be good!"
-msgstr ""
+msgstr "연료 게이지 확인. 아직 충분하군!"
 
 #. List: 2
 #. EDID: [FE00006D]
@@ -4612,7 +4624,7 @@ msgstr "좋은 생각이야. 걸어다니기는 너무 위험한 곳이야."
 #. Speaker: SamCoe
 msgctxt "0001E9"
 msgid "Thank god for the wheels. That'll save us a long walk back."
-msgstr ""
+msgstr "바퀴가 있어서 다행이네. 먼 길을 돌아갈 필요가 없겠군."
 
 #. List: 2
 #. EDID: [FE000068]
@@ -4620,7 +4632,7 @@ msgstr ""
 #. Speaker: SamCoe
 msgctxt "0001EA"
 msgid "Good call. As much as we're carrying, my feet could use a break."
-msgstr ""
+msgstr "좋은 생각이야. 짐을 많이 들고 다녔더니, 발 좀 편안하게 하고 싶어."
 
 #. List: 2
 #. EDID: [FE000067]
@@ -4636,7 +4648,7 @@ msgstr "모든 시스템 정상."
 #. Speaker: SamCoe
 msgctxt "0001EC"
 msgid "Looks like I got shotgun."
-msgstr ""
+msgstr "조수석은 내 차지인 거 같네."
 
 #. List: 2
 #. EDID: [FE000065]
@@ -4689,7 +4701,7 @@ msgstr "흔들림없는 편안한 착륙이었어."
 #. REC: INFO:NAM1
 msgctxt "00024E"
 msgid "We always land on our feet."
-msgstr "우리는 항상 깔끔하게 나오지."
+msgstr "우리는 항상 일이 잘 풀리지."
 
 #. List: 2
 #. EDID: [FE0002FA]

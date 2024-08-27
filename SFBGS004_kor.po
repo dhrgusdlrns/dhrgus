@@ -498,81 +498,77 @@ msgstr "전초기지 배치 불가: 먼저 차량에서 하차해야 합니다."
 
 #. List: 0
 #. EDID:
-#. sTopicSubtypeTextMiscellaneousVehiclePassengerVerticalCollisionLowVelocity,
+#. sTopicSubtypeTextMiscellaneousVehiclePassengerVerticalCollisionLowVelocity
 #. REC: GMST:DATA
 msgctxt "00029C"
 msgid "VehiclePassengerVerticalCollisionLowVelocity"
 msgstr "VehiclePassengerVerticalCollisionLowVelocity"
 
 #. List: 0
-#. EDID:
-#. sTopicSubtypeTextMiscellaneousVehiclePassengerHorizontalCollision, REC:
-#. GMST:DATA
+#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerHorizontalCollision
+#. REC: GMST:DATA
 msgctxt "00029D"
 msgid "VehiclePassengerHorizontalCollision"
 msgstr "VehiclePassengerHorizontalCollision"
 
 #. List: 0
-#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEnterVehicle,
+#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEnterVehicle
 #. REC: GMST:DATA
 msgctxt "00029E"
 msgid "VehiclePassengerEnterVehicle"
 msgstr "VehiclePassengerEnterVehicle"
 
 #. List: 0
-#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEngageBoost,
+#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEngageBoost
 #. REC: GMST:DATA
 msgctxt "00029F"
 msgid "VehiclePassengerEngageBoost"
 msgstr "VehiclePassengerEngageBoost"
 
 #. List: 0
-#. EDID:
-#. sTopicSubtypeTextMiscellaneousVehiclePassengerVerticalCollision, REC:
-#. GMST:DATA
+#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerVerticalCollision
+#. REC: GMST:DATA
 msgctxt "0002A0"
 msgid "VehiclePassengerVerticalCollision"
 msgstr "VehiclePassengerVerticalCollision"
 
 #. List: 0
-#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEnterWater,
+#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEnterWater
 #. REC: GMST:DATA
 msgctxt "0002A1"
 msgid "VehiclePassengerEnterWater"
 msgstr "VehiclePassengerEnterWater"
 
 #. List: 0
-#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerNonMovingIdle,
+#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerNonMovingIdl
 #. REC: GMST:DATA
 msgctxt "0002A2"
 msgid "VehiclePassengerNonMovingIdle"
 msgstr "VehiclePassengerNonMovingIdle"
 
 #. List: 0
-#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerTriggerMine,
+#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerTriggerMine
 #. REC: GMST:DATA
 msgctxt "0002A3"
 msgid "VehiclePassengerTriggerMine"
 msgstr "VehiclePassengerTriggerMine"
 
 #. List: 0
-#. EDID:
-#. sTopicSubtypeTextMiscellaneousVehiclePassengerAimMountedWeapon, REC:
-#. GMST:DATA
+#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerAimMountedWeapon
+#. REC: GMST:DATA
 msgctxt "0002A4"
 msgid "VehiclePassengerAimMountedWeapon"
 msgstr "VehiclePassengerAimMountedWeapon"
 
 #. List: 0
-#. EDID:
-#. sTopicSubtypeTextMiscellaneousVehiclePassengerKillWithCollision, REC:
-#. GMST:DATA
+#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerKillWithCollision
+#. REC: GMST:DATA
 msgctxt "0002A5"
 msgid "VehiclePassengerKillWithCollision"
 msgstr "VehiclePassengerKillWithCollision"
 
 #. List: 0
-#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerKillWithWeapon,
+#. EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerKillWithWeapon
 #. REC: GMST:DATA
 msgctxt "0002A6"
 msgid "VehiclePassengerKillWithWeapon"

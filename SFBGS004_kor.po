@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-23 00:19+0900\n"
-"PO-Revision-Date: 2024-08-29 05:37+0000\n"
+"PO-Revision-Date: 2024-09-01 11:37+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -4186,10 +4186,9 @@ msgstr "브레이크가 왜 필요하겠어? 맞지?"
 #. EDID: [FE0000A2]
 #. REC: INFO:NAM1
 #. Speaker: SamCoe
-#, fuzzy
 msgctxt "0001B3"
 msgid "Hell yeah, spam that boost."
-msgstr "오예, 부스터 마구 써."
+msgstr "끝내주네! 부스터 마구 써."
 
 #. List: 2
 #. EDID: [FE0000A1]

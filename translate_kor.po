@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2024-08-29 06:37+0000\n"
+"PO-Revision-Date: 2024-09-02 06:05+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -97,6 +97,7 @@ msgstr "유효 상금"
 msgid "$ACTIVE_EFFECTS"
 msgstr "활성 효과"
 
+#, fuzzy
 msgid "$$ACTIVE_VEHICLE"
 msgstr "활성화"
 
@@ -7050,7 +7051,7 @@ msgid "$SIZE"
 msgstr "크기"
 
 msgid "$SKILL POINT AVAILABLE"
-msgstr "스킬 포인트 이용 가능"
+msgstr "스킬 포인트 사용 가능"
 
 msgid "$SKILL POINTS"
 msgstr "스킬 포인트"
@@ -7206,10 +7207,10 @@ msgid "$SPACEBAR)"
 msgstr "스페이스바)"
 
 msgid "$SPACESHIP EDITOR"
-msgstr "우주선 편집기"
+msgstr "함선 편집기"
 
 msgid "$SpaceshipEditor"
-msgstr "우주선 편집기"
+msgstr "함선 편집기"
 
 msgid "$SpaceshipEditorSimplified"
 msgstr "함선 제작기"

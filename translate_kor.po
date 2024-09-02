@@ -98,7 +98,7 @@ msgid "$ACTIVE_EFFECTS"
 msgstr "활성 효과"
 
 #, fuzzy
-msgid "$$ACTIVE_VEHICLE"
+msgid "$ACTIVE_VEHICLE"
 msgstr "활성화"
 
 msgid "$Activity"

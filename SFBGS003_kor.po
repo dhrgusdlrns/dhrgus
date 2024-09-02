@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-09-01 15:37+0000\n"
+"PO-Revision-Date: 2024-09-05 15:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -585,7 +585,6 @@ msgstr "개인 통신문"
 
 #. EDID = mod_AVM_Cutter_SFBGS003_Cutter_TrackersAlliance
 #. REC = OMOD:FULL
-#, fuzzy
 msgctxt "000034"
 msgid "ShipBreaker Skin"
 msgstr "함선분쇄 스킨"
@@ -781,8 +780,8 @@ msgid ""
 "in alive by arresting them. No need to take them anywhere, as someone will "
 "be alerted to collect them."
 msgstr ""
-"스캐너를 사용하여 수배범의 신원을 확인한 후 체포하여 생포할 수 있습니다. 누군가가 체포하라는 알림이 가게 되므로 어딘가로 데려갈 필요는 "
-"없습니다."
+"스캐너를 사용하여 수배범의 신원을 확인한 후 체포하여 생포할 수 있습니다. 누군가에게 호송하라는 알림이 가게 되므로 어딘가로 데려갈 "
+"필요는 없습니다."
 
 #. EDID = LS_SFBGS003_Astras01
 #. REC = LSCR:DESC
@@ -817,7 +816,7 @@ msgctxt "0000D3"
 msgid ""
 "Agent No. 1, the mysterious leader of the Trackers Alliance, gave up all "
 "traces of their identity in order to protect themselves and any associates."
-msgstr "추적자 동맹의 비밀스러운 지휘관인 대행인 1호는 자신과 동료들을 보호하기 위해 모든 신원정보 흔적을 지웠습니다."
+msgstr "추적자 동맹의 비밀스러운 지휘관인 대행인 1호는 자신과 동료들을 보호하기 위해 모든 신상 정보 흔적을 지웠습니다."
 
 #. EDID = SFBGS003_Bounty_SpeechChallenge
 #. REC = QUST:FULL
@@ -8866,14 +8865,12 @@ msgstr "[Update 5 Hotfix 01]"
 
 #. EDID = Player
 #. REC = NPC_:FULL
-#, fuzzy
 msgctxt "000ED9"
 msgid "Player"
 msgstr "플레이어"
 
 #. EDID = SQ_imGui_1_Missions
 #. REC = FLST:FULL
-#, fuzzy
 msgctxt "006E97"
 msgid "Missions"
 msgstr "임무"
@@ -9349,7 +9346,7 @@ msgstr "로봇 유기"
 #. REC = MESG:DESC
 msgctxt "000075"
 msgid "False imprisonment and explotation of colonial settlers"
-msgstr "식민지 정착민 불법 감금 및 착취"
+msgstr "정착지 정착민 불법 감금 및 착취"
 
 #. EDID = SFBGS003_BountyCrime_73
 #. REC = MESG:DESC
@@ -9746,7 +9743,7 @@ msgstr "캔-넉!에 담아 밀수한 오로라를 실수로 배포"
 #. REC = MESG:DESC
 msgctxt "0000BD"
 msgid "Extorting a colony resulting in multiple casualties"
-msgstr "식민지를 강탈하면서 다수의 사상자를 발생시킴"
+msgstr "정착지를 갈취하면서 다수의 사상자를 발생시킴"
 
 #. EDID = SFBGS003_BountyCrime_21
 #. REC = MESG:DESC
@@ -9879,7 +9876,7 @@ msgstr ""
 #. REC = MESG:DESC
 msgctxt "0004AD"
 msgid "Murder and identity theft of the deceased"
-msgstr "살인 및 살해된 사망자의 신원 도용"
+msgstr "살인 및 살해된 사망자의 신상 정보 도용"
 
 #. EDID = SFBGS003_BountyCrime_06
 #. REC = MESG:DESC
@@ -11397,7 +11394,8 @@ msgid ""
 "[Extort <Global=SFBGS003_NPCDemandMoney_Large> Credits] Maybe this is just a"
 " glitch in the system, hmm?"
 msgstr ""
-"[<Global=SFBGS003_NPCDemandMoney_Large>크레딧 갈취하기] 그냥 우리 시스템에 오류가 생겼던 걸지도 모르겠군?"
+"[<Global=SFBGS003_NPCDemandMoney_Large> 크레딧 갈취하기] 그냥 우리 시스템에 오류가 생겼던 걸지도 "
+"모르겠군?"
 
 #. EDID = SFBGS003_SharedInfo_Player_Bribe_01
 #. REC = INFO:NAM1
@@ -11406,7 +11404,7 @@ msgid ""
 "[Extort <Global=SFBGS003_NPCDemandMoney_Medium> Credits] Sometimes the "
 "scanner picks up the wrong people."
 msgstr ""
-"[<Global=SFBGS003_NPCDemandMoney_Large>크레딧 갈취하기] 가끔 스캐너가 엄한 사람을 잡을 때가 있지."
+"[<Global=SFBGS003_NPCDemandMoney_Large> 크레딧 갈취하기] 가끔 스캐너가 엄한 사람을 잡을 때가 있지."
 
 #. EDID = SFBGS003_SharedInfo_Player_Bribe_00
 #. REC = INFO:NAM1
@@ -11414,7 +11412,7 @@ msgctxt "000162"
 msgid ""
 "[Extort <Global=SFBGS003_NPCDemandMoney_Small> Credits] For the right price,"
 " I never saw you."
-msgstr "[<Global=SFBGS003_NPCDemandMoney_Large>크레딧 갈취하기] 돈만 적당히 주면 모른 척해 주지."
+msgstr "[<Global=SFBGS003_NPCDemandMoney_Large> 크레딧 갈취하기] 돈만 적당히 주면 모른 척해 주지."
 
 #. EDID = SFBGS003_SharedInfo_Player_Goodbye_02
 #. REC = INFO:NAM1
@@ -11758,7 +11756,7 @@ msgstr "어이, 아이는 잘 지내고 있나?"
 #. REC = INFO:NAM1
 msgctxt "00019A"
 msgid "I do. Thank you for understanding, and for your blessing."
-msgstr "그래. 이해해 주고... 좋은 말 해 줘서 고마워."
+msgstr "그래. 이해해 주고... 좋은 말 해줘서 고마워."
 
 #. EDID = [FD004BAD]
 #. REC = INFO:NAM1
@@ -11766,13 +11764,13 @@ msgctxt "00019B"
 msgid ""
 "If that is what you would like, who am I to stop you? There are few I trust "
 "more than you. This you know."
-msgstr "네가 그렇게 하길 바란다면 내가 어찌 말릴 수 있겠어? 또 너보다 믿음직한 친구는 거의 없지. 너도 알겠지만."
+msgstr "네가 그러길 바란다면 내가 어찌 말릴 수 있겠나? 또 너보다 믿음직한 인재는 거의 없지. 너도 알겠지만."
 
 #. EDID = [FD004B81]
 #. REC = INFO:NAM1
 msgctxt "00019C"
 msgid "I would still continue my duties as an Agent, of course."
-msgstr "나는 물론 계속해서 대행인으로서의 의무를 다할 생각이야."
+msgstr "물론 계속 대행인 업무는 할 거야."
 
 #. EDID = [FD00F33A]
 #. REC = INFO:NAM1
@@ -12459,8 +12457,8 @@ msgid ""
 "Lastly, you will choose a callsign. This is how other Trackers will know you"
 " within the Alliance. It will obfuscate your identity and keep you safe."
 msgstr ""
-"마지막으로, 넌 호출명을 정해야 한다. 호출명은 네가 동맹 소속임을 다른 추적자들이 알게 해줄 거고, 네 정체를 더욱 안전하게 숨겨 줄 "
-"거다."
+"마지막으로, 넌 호출명을 정해야 한다. 호출명은 네가 동맹 소속임을 다른 추적자들이 알게 해줄 거고, 네 신상 정보를 더욱 안전하게 숨겨 "
+"줄 거다."
 
 #. EDID = [FD005A67]
 #. REC = INFO:NAM1
@@ -13552,23 +13550,24 @@ msgstr ""
 
 #. EDID = [FD004AB9]
 #. REC = INFO:NAM1
+#, fuzzy
 msgctxt "000292"
 msgid ""
 "Fine. Well maybe I don't make any promises to give you a clean glass to "
 "drink out of. How's that for you?"
-msgstr "좋아. 그럼 더 이상 네 녀석한테 서빙할 때 깨끗한 잔으로 주겠다고 약속 못해 줘. 어때?"
+msgstr "좋아. 그럼 나도 더 이상 네 녀석한테 깨끗한 잔으로 서빙해 주겠다고 약속 못해. 어때?"
 
 #. EDID = [FD004B75]
 #. REC = INFO:NAM1
 msgctxt "000293"
 msgid "Yes. That was likely me."
-msgstr "그래. 아마 나였을 거야."
+msgstr "그래. 아마 내가 그랬을걸."
 
 #. EDID = [FD004AC5]
 #. REC = INFO:NAM1
 msgctxt "000294"
 msgid "Yama! You tracked blood in all over my damn floor again earlier."
-msgstr "야마! 전에 내 망할 바닥에 핏자국을 잔뜩 남겼었지?"
+msgstr "야마! 전에 또 바닥에 망할 핏자국을 잔뜩 남겼지?"
 
 #. EDID = [FD00E2EE]
 #. REC = INFO:NAM1
@@ -13899,7 +13898,7 @@ msgstr "우리의 길을 하나로 이어 준 별들에게 묵례를."
 #. REC = INFO:NAM1
 msgctxt "0002C9"
 msgid "Hey, good luck catching bad guys out there."
-msgstr "어이, 밖에서 나쁜 놈들 잡을 때 행운이 있길 바라."
+msgstr "어이, 밖에서 나쁜 놈들 잡을 때 행운이 있길 바랄게."
 
 #. EDID = [FD004C5D]
 #. REC = INFO:NAM1
@@ -14669,7 +14668,7 @@ msgstr "응, 항상 그렇지. 네가 내 삶을 살았고, 내가 목격한 걸
 #. REC = INFO:NAM1
 msgctxt "000335"
 msgid "You really always bring your targets in alive? Isn't that hard?"
-msgstr "모든 수배범을 전부 생포해서 데려온다고? 힘들지 않나?"
+msgstr "수배범을 전부 생포해서 호송한다고? 힘들지 않을까?"
 
 #. EDID = [FD000DB9]
 #. REC = INFO:NAM1
@@ -14678,7 +14677,8 @@ msgid ""
 "My name was no great loss. Nor were other aspects of my identity. I never "
 "conformed to gender, for instance. For me, it was an easy decision."
 msgstr ""
-"내 이름을 잃는 건 큰 상실이 아니었다. 내 신원의 다른 사항도 마찬가지로. 예를 들어 난 성별을 인정하지 않았기에 꽤 쉬운 결정이었다."
+"내 이름을 잃는 건 큰 손실이 아니었다. 내 신상 정보의 다른 사항도 마찬가지였지. 한 예로, 난 성별을 따지지 않아서, 그 부분은 꽤 "
+"쉽게 결정할 수 있었다."
 
 #. EDID = [FD000DB9]
 #. REC = INFO:NAM1
@@ -14686,7 +14686,7 @@ msgctxt "000337"
 msgid ""
 "However, I am fortunate that I did not have many family, associates, or "
 "records to lose."
-msgstr "하지만 나는 감수해야 하는 많은 가족이나, 동료, 기록 같은 것들이 없어서 다행이지."
+msgstr "하지만 나는 감수해야 하는 가족, 동료, 기록 같은 것들이 많은 없어서 다행이었지."
 
 #. EDID = [FD000DB9]
 #. REC = INFO:NAM1
@@ -14694,7 +14694,7 @@ msgctxt "000338"
 msgid ""
 "As far as anyone knows, my former self is dead. Records of my life are... "
 "mysteriously lost. I assume that is difficult for those one leaves behind."
-msgstr "모두가 아는 예전의 나는 죽었다. 내 삶의 기록은... 모호하게 사라졌지. 예전 삶을 함께하던 사람들에겐 힘들 일일 것이다."
+msgstr "모두가 아는 예전의 나는 죽었다. 내 삶의 기록은... 비밀스럽게 사라졌지. 예전에 삶을 함께하던 이들에겐 힘든 일일 것이다."
 
 #. EDID = [FD000DB9]
 #. REC = INFO:NAM1
@@ -14703,13 +14703,13 @@ msgid ""
 "Yes, and no. When one attains this position. Ties to family and other "
 "associates are cut off. That is the most difficult aspect."
 msgstr ""
-"그렇기도, 아니기도 하다. 이 자리에 오르게 된 사람은 가족과 다른 지인들 사이의 관계가 끝이 난다. 이 과정의 가장 어려운 점이지."
+"그렇기도, 아니기도 하다. 이 직책을 맡게 된 인간은 가족이나 다른 지인들과 관계가 끝장나게 된다. 이 과정의 가장 어려운 점이지."
 
 #. EDID = [FD000DC9]
 #. REC = INFO:NAM1
 msgctxt "00033A"
 msgid "Was it difficult to give up your identity?"
-msgstr "자신의 신원을 포기해야 했을 텐데, 힘들진 않았나?"
+msgstr "자신의 신상 정보를 포기해야 했을 텐데, 힘들진 않았나?"
 
 #. EDID = [FD000DB1]
 #. REC = INFO:NAM1
@@ -14717,7 +14717,7 @@ msgctxt "00033B"
 msgid ""
 "I will simply state that our partnership with the United Colonies and "
 "Freestar Collective comes with some powerful tools."
-msgstr "난 그저 식민지 연합과 자유항성 공동체 사이와 우리의 동반자 관계 덕분에 강력한 도구를 지닐 수 있게 됐다고 말하겠다."
+msgstr "그냥 식민지 연합, 자유항성 공동체 사이, 우리 사이의 제휴 관계 덕분에 강력한 도구를 이용할 수 있게 됐다고만 말해두겠다."
 
 #. EDID = [FD000E34]
 #. REC = INFO:NAM1
@@ -14725,7 +14725,7 @@ msgctxt "00033C"
 msgid ""
 "For a leader such as myself, it is an absolute necessity for the safety of "
 "the entire organization."
-msgstr "나와 같은 지도자는 우리 단체 전체의 안전을 지키기 위해선 절대적으로 중요하다."
+msgstr "나 같은 지도자는, 우리 단체 전체의 안전을 지키기 위해 절대적으로 필요하다."
 
 #. EDID = [FD000E34]
 #. REC = INFO:NAM1
@@ -14733,7 +14733,7 @@ msgctxt "00033D"
 msgid ""
 "As a rank and file Tracker, it is not a requirement, but it is advised. For "
 "the safety of those you know."
-msgstr "추적자라는 일반구성원에는 필수 요건은 아니지만, 추천된다. 네가 아는 지인들의 안전을 지킬 수 있도록."
+msgstr "일반 추적자 구성원에게 필수 요건인 건 아니지만, 권장한다. 네 지인들의 안전을 지키기 위해."
 
 #. EDID = [FD000DF3]
 #. REC = INFO:NAM1
@@ -14743,7 +14743,7 @@ msgid ""
 "here I am. Always saw to it to bring in my targets alive in case they have "
 "any... similar revelations."
 msgstr ""
-"물론, 그런 종류의 기술을 동료들에게 전해 주기는 참 힘들지, 그래서 지금 난... 항상 수배범들을 생포해서 데려오려고 노력해. 남들도 "
+"물론, 그런 종류의 기술을 동료들에게 전해 주기는 참 힘들지, 그래서 지금 난... 항상 수배범들을 생포해서 호송하려고 노력해. 남들도 "
 "그렇게... 깨닫기를 바라거든."
 
 #. EDID = [FD000E06]
@@ -14849,7 +14849,7 @@ msgctxt "00034C"
 msgid ""
 "After the Narion War, there were... issues with extra-judicial vigilantism "
 "involving bounty hunting."
-msgstr "나리온 전쟁 이후... 현상수배범 사냥과 관련해 자경단의 사적 제재가 아니냐는 논란이 발생하기 시작했다."
+msgstr "나리온 전쟁 이후... 현상수배범 사냥이 사적 제재가 아니냐는 논란이 있었지."
 
 #. EDID = [FD000E0E]
 #. REC = INFO:NAM1
@@ -14857,8 +14857,7 @@ msgctxt "00034D"
 msgid ""
 "Know that to attain my position of leadership, it was a combination of "
 "deeds, competency, professionalism, and above all, trust."
-msgstr ""
-"내가 이 지도자 자리에 오르기 위해 수많은 위업과 역량, 전문성... 그리고 신뢰가 함께 모여 이 자리에 오를 수 있었단 걸 명심하라."
+msgstr "내가 이 지도자 직책을 맡을 수 있었던 건, 수많은 위업, 역량, 전문성... 그리고 신뢰가 있었기에 가능했단 걸 명심해라."
 
 #. EDID = [FD000DCE]
 #. REC = INFO:NAM1
@@ -15132,8 +15131,8 @@ msgid ""
 "targets alive. I aim for brutal efficiency. I do not \"work well with "
 "others.\""
 msgstr ""
-"나에 관해 들었을 소문은 아마 다 사실일 것이다. 난 모든 수배범을 한번도 생포한 적이 없다. 철저할 정도로 효율적이고, '남들과 "
-"어울리는 것'도 모르지."
+"나에 관한 소문은 아마 다 사실일 거다. 난 한 번도 수배범을 생포한 적이 없다. 철저할 정도로 효율적이고, '남들과 어울리는 것'도 "
+"모르지."
 
 #. EDID = [FD004AD6]
 #. REC = INFO:NAM1
@@ -15427,7 +15426,7 @@ msgid ""
 "There's no story there. That's kind of the point with any Agent No. 1. You "
 "gotta give up your identity completely when you become leader of the "
 "Trackers."
-msgstr "사연 따위는 없어. 그게 대행인 1호의 핵심사항이지. 추적자 동맹의 지휘관이 되면 자신의 신분을 완전히 포기해야 해."
+msgstr "사연 따위는 없어. 그게 대행인 1호의 핵심사항이지. 추적자 동맹의 지휘관이 되면 자신의 신상 정보를 완전히 포기해야 해."
 
 #. EDID = [FD004B05]
 #. REC = INFO:NAM1
@@ -15672,62 +15671,58 @@ msgstr "멋진 현상수배범 사냥 이야기를 더 듣고 싶었는데."
 
 #. EDID = [FD004B8F]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003BB"
 msgid "Loose cannon? How so?"
-msgstr "말썽꾼이라고? 어떤 식으로?"
+msgstr "'예측불허’라고? 어떤 식으로?"
 
 #. EDID = [FD004AE8]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003BC"
 msgid ""
 "Turns out I wasn't much for following rules. They said I was a bit of a "
 "\"loose cannon.\" But, they liked my equipment, so here I am, peddling wares"
 " for other Trackers."
 msgstr ""
-"규칙 따르는 게 별로 안 맞더라고. 내가 좀 '말썽꾼’이래. 근데 내 장비는 마음에 들어 해서, 여기서 다른 추적자들한테 물건 팔고 있는 "
-"거지."
+"일하고 보니 규칙을 따르는 건 별로 내 체질이랑 안 맞더라고. 다른 추적자들 말로는 내가 좀 '예측불허’라더군. 근데 내 장비는 마음에 "
+"들어 해서, 여기서 추적자들한테 물건을 팔게 됐지."
 
 #. EDID = [FD004AE8]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003BD"
 msgid ""
 "Well, I never did care much for those gangs, the way they preyed on folks "
 "weaker than them. So when I found out about the Trackers, I decided on a "
 "career change."
-msgstr "그 갱들이 약한 사람들 괴롭히는 걸 별로 안 좋아했거든. 그래서 추적자들에 대해 알게 됐을 때 직업을 바꾸기로 했지."
+msgstr ""
+"뭐, 갱단을 좋아한 적은 한 번도 없었어. 갱들은 자기들보다 약한 사람들을 약탈했거든. 그래서 추적자에 대해 알게 됐을 때, 경력을 "
+"바꾸기로 했지."
 
 #. EDID = [FD004BB6]
 #. REC = INFO:NAM1
 #, fuzzy
 msgctxt "0003BE"
 msgid "Gotta do what you've gotta do to survive."
-msgstr "살아남으려면 해야 할 일은 해야지."
+msgstr "살아남으려면 해야 할 일을 해야지."
 
 #. EDID = [FD004AF9]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003BF"
 msgid "Well, I don't miss it. That's for sure. Good to be where I am today."
-msgstr "그래, 그때가 그립진 않아. 확실해. 지금 여기 있는 게 좋아."
+msgstr "뭐, 그때가 그립진 않아. 그건 확실해. 지금 여기 있는 게 좋지."
 
 #. EDID = [FD004AB5]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003C0"
 msgid "A Tracker like you must have some great stories, huh?"
-msgstr "너같은 추적자는 재밌는 이야기 많이 있겠다, 안 그래?"
+msgstr "너 같은 추적자면 재밌는 이야기 많이 알겠다? 안 그래?"
 
 #. EDID = [FD00E2C2]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003C1"
 msgid ""
 "Astras, you say? I can take those off your hands, and put something better "
 "in 'em."
-msgstr "아스트라? 그거 내가 가져가고 더 좋은 걸로 바꿔줄 수 있지."
+msgstr "아스트라? 내가 받고, 더 좋은 걸로 바꿔줄 수 있지."
 
 #. EDID = [FD00E2BF]
 #. REC = INFO:NAM1
@@ -15794,7 +15789,7 @@ msgstr "그래. 어떤 장비가 네 마음에 드는지 보자고."
 #, fuzzy
 msgctxt "0003CA"
 msgid "I'd like to exchange Astras for equipment."
-msgstr "아스트라로 장비 교환하고 싶어."
+msgstr "아스트라를 장비로 교환하고 싶어."
 
 #. EDID = [FD004C9D]
 #. REC = INFO:NAM1
@@ -15805,12 +15800,11 @@ msgstr "여기서 하는 일에 대해 좀 더 자세히 말해줄 수 있어?"
 
 #. EDID = [FD004B1E]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003CC"
 msgid ""
 "But yeah, it does work out like that, doesn't it? You're not the first to "
 "suggest it, and I doubt you'll be the last."
-msgstr "그래, 그렇게 되는 것 같지? 넌 처음도 아니고 마지막도 아닐 거야."
+msgstr "하지만, 그래. 스타일리쉬도 말이 되겠네? 그렇네? 이런 말장난 하는 사람이 네가 처음도 아닐 거고, 마지막도 아닐 거야."
 
 #. EDID = [FD004BBD]
 #. REC = INFO:NAM1
@@ -15819,8 +15813,8 @@ msgid ""
 "No, and yes. No, it's \"Stache,\" like my moustache. Yes, it's kind of on "
 "the nose, like my moustache. Well, under it, but you get the idea."
 msgstr ""
-"아니, 그리고 맞아. 아니, '스태쉬’야, 내 콧수염처럼. 맞아, 좀 노골적이지. 내 콧수염처럼. 뭐, 그 밑이긴 한데, 무슨 말인지 "
-"알겠지."
+"아닐걸? 맞나? 아니야. 내 이름은 '스태쉬’야. 그래. 내 콧수염 보면, 왜 호출명이 그건지 알겠지. 뭐, 넘어갈까. 무슨 말인지 "
+"알테니."
 
 #. EDID = [FD004B90]
 #. REC = INFO:NAM1
@@ -15832,10 +15826,9 @@ msgstr "스태쉬라는 이름, 스타일리쉬한 장비라도 꽁쳐둬서 그
 
 #. EDID = [FD004AD5]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003CF"
 msgid "Mostly stand around waiting for someone to interact with me."
-msgstr "주로 누가 와서 말 걸기를 기다리면서 서 있지."
+msgstr "주로 누가 와서 말 걸기를 기다리면서 서 있습니다."
 
 #. EDID = [FD004B24]
 #. REC = INFO:NAM1
@@ -15846,21 +15839,20 @@ msgstr "여기서 뭐 하는데?"
 
 #. EDID = [FD004A91]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003D1"
 msgid ""
 "No. It is a pseudo-acronym meant to emphasize my station as hardware and "
 "software. My programmer thought it would be clever, but clearly it goes over"
 " most heads."
 msgstr ""
-"아니. 내가 하드웨어와 소프트웨어라는 걸 강조하려고 만든 유사 약자야. 프로그래머가 재치 있다고 생각했나 봐. 근데 대부분 이해를 못 "
-"하는 것 같더라."
+"아닙니다. 제가 하드웨어와 소프트웨어로 구성됐다는 걸 강조하려고 만든 유사 줄임말입니다. 제 프로그래머는 재치 있다고 생각했나 봅니다. "
+"근데 대부분 이해를 못 하는 것 같습니다."
 
 #. EDID = [FD004B4B]
 #. REC = INFO:NAM1
 msgctxt "0003D2"
 msgid "KoiOS? Does that stand for something?"
-msgstr "코이오스? 그게 무슨 뜻이야?"
+msgstr "코이오스? 뭐의 줄임말이야?"
 
 #. EDID = [FD004BBF]
 #. REC = INFO:NAM1
@@ -15870,10 +15862,9 @@ msgstr "대행인 코이오스, 도와드리겠습니다."
 
 #. EDID = [FD004B45]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003D4"
 msgid "What is your query? If I don't know it, no one here does."
-msgstr "무엇을 알고 싶으십니까? 제가 모르면 여기 아무도 모릅니다."
+msgstr "입력할 질의어가 있으십니까? 제가 모르면, 여기 있는 아무도 모릅니다."
 
 #. EDID = [FD004B44]
 #. REC = INFO:NAM1
@@ -16027,26 +16018,24 @@ msgstr "뭐, 그렇게 나쁜 파트너는 아니었어. 점점 정이 들더라
 
 #. EDID = [FD005A7C]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003E8"
 msgid ""
 "I thought you didn't like me. Why'd you stick up for me after our first "
 "mission?"
-msgstr "난 네가 날 싫어하는 줄 알았는데. 첫 임무 후에 왜 날 옹호했어?"
+msgstr "날 싫어하는 줄 알았는데. 첫 임무 후에 왜 날 옹호해 줬어?"
 
 #. EDID = [FD00E28A]
 #. REC = INFO:NAM1
 #, fuzzy
 msgctxt "0003E9"
 msgid "No problem. Lay it on me."
-msgstr "문제없어. 말해봐."
+msgstr "문제없어. 말해 봐."
 
 #. EDID = [FD00E28F]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003EA"
 msgid "Actually, I've got something else I wanted to ask you about."
-msgstr "사실 네게 물어보고 싶은 게 또 있어."
+msgstr "사실 또 너에게 물어보고 싶은 게 있어."
 
 #. EDID = [FD00E297]
 #. REC = INFO:NAM1
@@ -16054,7 +16043,7 @@ msgctxt "0003EB"
 msgid ""
 "Name's Stache. And I'm more than just a pretty face. You ever need my help, "
 "you can step right over here to my little corner and we can talk shop."
-msgstr "이름은 스태쉬야. 그냥 잘생긴 얼굴만 가진 게 아니라고. 내 도움이 필요하면 이쪽 구석으로 와서 장비 얘기나 하자고."
+msgstr "이름은 스태쉬야. 그냥 얼굴만 잘생긴 게 아니지. 도움이 필요하면 이쪽 구석으로 와서 장비 얘기나 하자고."
 
 #. EDID = [FD00E28E]
 #. REC = INFO:NAM1
@@ -16062,7 +16051,7 @@ msgctxt "0003EC"
 msgid ""
 "[Pay <Global=SFBGS003_Astras_MedAmount> Astras] I'd like something a little "
 "better."
-msgstr "[<Global=SFBGS003_Astras_MedAmount> 아스트라 주기] 좀 더 좋은 걸로 부탁해."
+msgstr "[<Global=SFBGS003_Astras_MedAmount> 아스트라 주기] 좀 더 좋은 물건으로 부탁해."
 
 #. EDID = [FD00E29E]
 #. REC = INFO:NAM1
@@ -16079,7 +16068,7 @@ msgctxt "0003EE"
 msgid ""
 "[Pay <Global=SFBGS003_Astras_LargeAmount> Astras] Give me one of the best "
 "items you've got."
-msgstr "[<Global=SFBGS003_Astras_LargeAmount> 아스트라 주기] 제일 좋은 물건 중 하나로 줘."
+msgstr "[<Global=SFBGS003_Astras_LargeAmount> 아스트라 주기] 제일 좋은 물건으로 줘."
 
 #. EDID = [FD00E2A5]
 #. REC = INFO:NAM1
@@ -16092,19 +16081,18 @@ msgstr "공짜로 줄 순 없어. 아스트라 생기면 다시 와."
 
 #. EDID = [FD00E2B1]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003F1"
 msgid ""
 "Guns, melee weapons, lethal, nonlethal, suits, you name it. All with my own "
 "modifications."
-msgstr "총, 근접무기, 살상, 비살상, 슈트 등 뭐든지 있어. 다 내가 직접 개조한 거고."
+msgstr "총기, 근접 무기, 살상 무기, 비살상 무기, 슈트, 뭐든 있어. 다 내가 직접 개조한 거고."
 
 #. EDID = [FD00E290]
 #. REC = INFO:NAM1
 #, fuzzy
 msgctxt "0003F2"
 msgid "What kind of equipment do you have?"
-msgstr "어떤 장비들 있어?"
+msgstr "어떤 장비가 있어?"
 
 #. EDID = [FD00E29C]
 #. REC = INFO:NAM1
@@ -16115,63 +16103,57 @@ msgstr "아스트라는 어디서 구할 수 있어?"
 
 #. EDID = [FD00E293]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003F4"
 msgid ""
 "Anyway, Astras are rare, but they're out there. Still used in some black "
 "market circles since they're untraceable by any government."
-msgstr "그래, 아스트라는 희귀하지만 여기저기 있어. 정부가 추적할 수 없어서 일부 암시장에서 아직도 쓰이고 있지."
+msgstr "어쨌든, 아스트라는 희귀하지만, 밖에서 찾을 수 있지. 어떤 정부도 추적할 수 없어서 일부 암시장에서 아직도 쓰이고 있지."
 
 #. EDID = [FD00E293]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003F5"
 msgid ""
 "So, some enterprising individuals took matters into their own hands and "
 "started minting their own currency, Astras, just in case the worst came to "
 "pass."
-msgstr "그래서 일부 기업가들이 직접 나서서 최악의 상황에 대비해 자기들만의 통화인 아스트라를 만들기 시작했어."
+msgstr "그래서 일부 기업가들이 최악의 상황에 대비하기 위해 직접 나섰고, 자기들만의 통화인 아스트라를 만들기 시작했지."
 
 #. EDID = [FD00E293]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003F6"
 msgid ""
 "I was hoping you'd ask. Back during the Narion War, there was some serious "
 "concern that the banks were going to fail."
-msgstr "그 얘기 해주길 바랐어. 나리온 전쟁 때 은행들이 무너질 거란 심각한 우려가 있었거든."
+msgstr "그 얘기를 꺼내길 바라고 있었지. 과거 나리온 전쟁 때, 사람들은 은행들이 도산할 거라고 심각하게 우려했어."
 
 #. EDID = [FD00E2B0]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003F7"
 msgid ""
 "Darn right they trust me. The modifications are solid. My gear's always held"
 " up when Trackers have needed it."
-msgstr "당연히 날 믿지. 개조는 확실해. 내 장비는 추적자들이 필요할 때마다 항상 제 역할을 했으니까."
+msgstr "당연히 추적자들은 날 믿지. 내 개조는 확실하거든. 추적자들이 필요로 하는 순간에 내 장비는 항상 제 역할을 해냈다고."
 
 #. EDID = [FD00E2B3]
 #. REC = INFO:NAM1
 #, fuzzy
 msgctxt "0003F8"
 msgid "Seems shady, but the others trust you, so I guess I do too."
-msgstr "좀 수상해 보이긴 하지만 다들 널 믿으니까 나도 믿어야겠네."
+msgstr "조금 수상해 보이긴 하지만, 다들 널 믿으니까, 나도 믿어야겠네."
 
 #. EDID = [FD00E2B7]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003F9"
 msgid "Good. Then we're on the same page."
-msgstr "좋아. 그럼 우리 의견이 일치하는군."
+msgstr "좋아. 그럼 우리 둘 다 동의한 거군."
 
 #. EDID = [FD00E298]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003FA"
 msgid ""
 "And, you get whatever I give you, no questions, no special requests, no "
 "refunds."
-msgstr "그리고 내가 주는 걸 받는 거야. 질문도, 특별 요청도, 환불도 없어."
+msgstr "그리고, 너는 내가 주는 게 뭐든 받으면 돼. 질문도, 특별 주문도, 환불도 안 돼."
 
 #. EDID = [FD00E285]
 #. REC = INFO:NAM1
@@ -16182,10 +16164,9 @@ msgstr "그럼 정부가 그냥 추적자들한테 죽일 자유를 줬다고?"
 
 #. EDID = [FD00E284]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003FC"
 msgid "Sounds good. I can work with that."
-msgstr "좋아. 그렇게 할 수 있어."
+msgstr "좋아. 그 정도야 감내할 수 있지."
 
 #. EDID = [FD00E2D1]
 #. REC = INFO:NAM1
@@ -16220,7 +16201,7 @@ msgstr "고마워! 새 장비 잘 써!"
 #, fuzzy
 msgctxt "000401"
 msgid "Keep the Astras flowing and I'll make sure you're well equipped."
-msgstr "아스트라만 계속 가져오면 최고의 장비로 무장시켜 줄게."
+msgstr "아스트라만 계속 가져다주면 최고의 장비로 무장시켜 줄게."
 
 #. EDID = [FD00E2CB]
 #. REC = INFO:NAM1
@@ -16238,13 +16219,13 @@ msgstr "곧 가져다 줄게."
 
 #. EDID = [FD00E2B8]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "000404"
 msgid ""
 "And before you ask, no, I didn't grow the 'stache because I got a stash of "
 "goods, or vice versa. Sometimes nicknames just stick."
 msgstr ""
-"그리고 묻기 전에 말하는데, 물건 보관소가 있어서 콧수염을 기른 게 아니고 그 반대도 아니야. 때론 별명이 그냥 붙기도 하는 법이지."
+"그리고 묻기 전에 말하겠는데, 아냐. 스타일리쉬한 장비를 꽁쳐두려고 콧수염을 기른 게 아니고, 그 반대도 아니야. 때론 별명이 그냥 "
+"붙기도 하는 법이지."
 
 #. EDID = [FD00E292]
 #. REC = INFO:NAM1
@@ -16359,12 +16340,11 @@ msgstr "난 대행인 1호다. 아니면 '아무것도 아닌 자’라고 불�
 
 #. EDID = [FD00F324]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "000413"
 msgid ""
 "They have the ships and equipment required to ensure successful handoff to "
 "the appropriate authority."
-msgstr "그들은 적절한 당국에 성공적으로 인계하는 데 필요한 함선과 장비를 가지고 있어."
+msgstr "그 추적자들은 수배범을 해당 당국에 성공적으로 인계하기 위해 필요한 함선과 장비를 가지고 있지."
 
 #. EDID = [FD00F324]
 #. REC = INFO:NAM1
@@ -16373,20 +16353,20 @@ msgctxt "000414"
 msgid ""
 "We have Trackers who specialize in prisoner escort and detainment rather "
 "than what we're asking you to do."
-msgstr "우리는 네가 하는 일과는 달리 죄수 호송과 구금을 전문으로 하는 추적자들이 있어."
+msgstr "네가 하는 일과는 달리 죄수 호송과 구금을 전문으로 하는 추적자들이 있다."
 
 #. EDID = [FD00F32F]
 #. REC = INFO:NAM1
 msgctxt "000415"
 msgid "What if the target runs after I register them?"
-msgstr "등록한 후에 수배범이 도망가면 어떡해?"
+msgstr "등록한 후에 수배범이 도망가면 어떡하지?"
 
 #. EDID = [FD00F356]
 #. REC = INFO:NAM1
 #, fuzzy
 msgctxt "000416"
 msgid "Sounds like you have it all figured out."
-msgstr "다 알아낸 것 같군."
+msgstr "다 알아낸 것 같네."
 
 #. EDID = [FD00F335]
 #. REC = INFO:NAM1
@@ -16405,7 +16385,7 @@ msgctxt "000418"
 msgid ""
 "The motto: \"Leave no quarter. Show no mercy.\" Isn't bringing them in alive"
 " showing mercy?"
-msgstr "\"관용을 보이지 마라. 자비를 베풀지 마라.\"는 문구 말이야. 생포해서 데려오는 건 자비를 베푸는 게 아닌가?"
+msgstr "\"관용을 보이지 마라. 자비를 베풀지 마라.\"는 문구 말이야. 생포해서 데려오는 건 자비를 베푸는 거 아닌가?"
 
 #. EDID = [FD004C16]
 #. REC = INFO:NAM1
@@ -16518,7 +16498,7 @@ msgctxt "000427"
 msgid ""
 "You seem leave a trail of bodies in your wake, rather than bring your "
 "targets in alive."
-msgstr "넌 수배범을 생포해서 데려오기보다는 시체의 흔적만 남기는 것 같군."
+msgstr "넌 수배범을 생포해서 호송하기보다는 시체의 흔적만 남기는 것 같군."
 
 #. EDID = [FD004BF3]
 #. REC = INFO:NAM1
@@ -17579,19 +17559,17 @@ msgstr "아니, 난 괜찮아. 투스."
 
 #. EDID = [FD004BA5]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "00051F"
 msgid "You need anything, Bloodhound?"
-msgstr "필요한 거 있어, 블러드하운드?"
+msgstr "필요한 거 있어? 블러드하운드?"
 
 #. EDID = [FD004BA2]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "000520"
 msgid ""
 "I believe so. I want to take advantage of the time I've got while I still "
 "have some fight left in me."
-msgstr "그런 것 같아. 아직 싸울 기력이 남아있을 때 시간을 활용하고 싶어."
+msgstr "그러고 싶어. 아직 싸울 기력이 남아있을 때 남은 시간을 활용하고 싶거든."
 
 #. EDID = [FD004B5C]
 #. REC = INFO:NAM1
@@ -17599,14 +17577,14 @@ msgctxt "000521"
 msgid ""
 "Oh? You know that I value your work as an Agent. You have helped us recruit "
 "some quality candidates. Are you certain about this?"
-msgstr "오? 네가 대행인으로서 하는 일을 높이 평가한다는 걸 알잖아. 좋은 후보들을 모집하는 데 도움을 줬지. 확실해?"
+msgstr "오? 네 대행인 업무 처리 능력을 높이 평가한다는 거 알잖나. 좋은 후보들을 모집할 수 있게 도움을 줬지. 정말 그러고 싶나?"
 
 #. EDID = [FD004B33]
 #. REC = INFO:NAM1
 #, fuzzy
 msgctxt "000522"
 msgid "I've been thinking about getting back out there. Hunting again."
-msgstr "다시 나가볼까 생각 중이야. 다시 사냥하는 거지."
+msgstr "다시 나가 일해볼까 생각 중이야. 다시 사냥하는 거지."
 
 #. EDID = [FD00F33B]
 #. REC = INFO:NAM1
@@ -18287,7 +18265,7 @@ msgctxt "000582"
 msgid ""
 "Even if we didn't catch our target, rookie here did a good job. I stood back"
 " and advised. Rookie did most of the work. They'd make a good Tracker."
-msgstr "수배범을 잡진 못했지만, 신참은 잘했어. 난 뒤에서 조언만 했고, 신참이 일의 대부분을 처리했지. 좋은 추적자가 될 거야."
+msgstr "수배범을 잡진 못했지만, 신참은 잘했어. 난 뒤에서 조언만 했고, 신참이 일 대부분을 처리했지. 좋은 추적자가 될 거야."
 
 #. EDID = [FD005ABB]
 #. REC = INFO:NAM1
@@ -19660,7 +19638,7 @@ msgstr "뭐? 나? 아냐, 원한다면 양팔을 등 뒤로 묶고도 할 수 �
 #. REC = INFO:NAM1
 msgctxt "000641"
 msgid "Well... could you not? I'm tired of cleaning up after you."
-msgstr "음... 그러지 말아줄래? 네 뒤처리 하는 것도 지겨워."
+msgstr "음... 그러지 말아 줄래? 네 뒤처리 하는 것도 지겹다고."
 
 #. EDID = [FD004BBE]
 #. REC = INFO:NAM1
@@ -19669,14 +19647,14 @@ msgctxt "000642"
 msgid ""
 "I mean, look at you now. Not a speck of blood on you. You clearly know how "
 "to clean up after yourself."
-msgstr "지금 널 봐. 피 한 방울 묻지 않았잖아. 너도 뒤처리 하는 법을 분명히 알고 있어."
+msgstr "내 말은, 지금 널 봐. 피 한 방울 묻지 않았지. 너도 뒤처리하는 방법을 분명히 알고 있잖아."
 
 #. EDID = [FD004BC8]
 #. REC = INFO:NAM1
 #, fuzzy
 msgctxt "000643"
 msgid "For you, I will try to be more careful, but I make no promises."
-msgstr "너를 위해서라면 더 조심하려고 노력은 할게. 하지만 약속은 못 해."
+msgstr "너를 위해서, 더 조심하려고 노력은 하지. 하지만 약속은 못 하겠군."
 
 #. EDID = [FD004C8E]
 #. REC = INFO:NAM1
@@ -19747,7 +19725,7 @@ msgstr "조언이 필요하다면, 기꺼이 해줄게."
 #, fuzzy
 msgctxt "00065A"
 msgid "Pull up a seat, there's no judgment here."
-msgstr "앉아. 여기선 아무도 널 판단하지 않아."
+msgstr "앉아. 여기선 아무도 널 평가하지 않아."
 
 #. EDID = [FD000E77]
 #. REC = INFO:NAM1
@@ -19898,10 +19876,9 @@ msgstr "아, 좋아. 아직 아무도 널 쫓아내지 않았군."
 
 #. EDID = [FD000E65]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "000671"
 msgid "Howdy, Tracker."
-msgstr "안녕, 추적자."
+msgstr "안녕하신가. 추적자."
 
 #. EDID = [FD004C6A]
 #. REC = INFO:NAM1
@@ -19954,10 +19931,9 @@ msgstr "사냥은 계속해야 한다. 잘 해내길 바란다."
 
 #. EDID = [FD004C5F]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "00067A"
 msgid "I'm working on getting some new stock, so check back again later."
-msgstr "새 물건 들여오는 중이니까 나중에 다시 와."
+msgstr "새 물건 들이는 중이니까, 나중에 다시 와."
 
 #. EDID = [FD004C5A]
 #. REC = INFO:NAM1
@@ -20678,14 +20654,14 @@ msgid ""
 "Alliance is not for you. Trust that it is a necessity that was carefully "
 "considered."
 msgstr ""
-"오직 내 직책 때문에 그런 조치가 필요했던 것이다. 추적자 동맹의 지도자가 되는 것은 네게 맞지 않을 수 있겠군. 엄연히 신중히 고려되어 "
-"필요에 의해 취해진 조치다."
+"오로지 내 직책 때문에 그런 조치가 필요했던 것이다. 추적자 동맹의 지도자가 되는 것은 네게 맞지 않을 수 있겠군. 엄연히 신중히 "
+"고려해서 필요에 의해 취한 조치다."
 
 #. EDID = [FD000DFE]
 #. REC = INFO:NAM1
 msgctxt "0006DD"
 msgid "That's absurd! You shouldn't have to give up your entire identity."
-msgstr "말도 안 돼! 아무리 그래도 자신의 개성을 포기하는 건 받아들이지 말아야지."
+msgstr "말도 안 돼! 아무리 그래도 자신의 신상 정보를 포기하는 걸 받아들이면 안 되지."
 
 #. EDID = [FD000DA9]
 #. REC = INFO:NAM1
@@ -20694,7 +20670,8 @@ msgid ""
 "Use \"they\" or \"them\" when speaking about me, as to further protect my "
 "identity. However, that had already been my preference."
 msgstr ""
-"모두가 날 지칭할 땐 내 신원이 알려지지 않도록, '그들' 그 사람'이라고 한다. 물론, 나는 예전부터 성별을 따지지 않는 사람이긴 했지."
+"모두가 날 지칭할 땐 내 신상 정보가 알려지지 않도록, '그들' 이나 '그 사람'이라고 한다. 물론, 나는 예전부터 성별을 따지지 않는 "
+"사람이긴 했지."
 
 #. EDID = [FD000DA9]
 #. REC = INFO:NAM1
@@ -20706,13 +20683,13 @@ msgstr "추적자들은 나를 대행인 1호, 또는 '아무것도 아닌 자�
 #. REC = INFO:NAM1
 msgctxt "0006E0"
 msgid "No real name? So how do people refer to you, in general?"
-msgstr "실제 이름이 없다고? 그럼 다들 당신을 부를 때 보통 뭐라고 하지?"
+msgstr "실제 이름이 없다고? 그럼 다들 너를 부를 때 보통 뭐라고 하지?"
 
 #. EDID = [FD000DED]
 #. REC = INFO:NAM1
 msgctxt "0006E1"
 msgid "How did you wipe out your entire records and history?"
-msgstr "어떻게 자신의 모든 기록과 정보를 없앨 수가 있던 거지?"
+msgstr "어떻게 자신의 기록과 정보를 모두 없앨 수 있었지?"
 
 #. EDID = [FD000E43]
 #. REC = INFO:NAM1
@@ -20730,7 +20707,7 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "0006E3"
 msgid "I understand. I hope I don't need to give up my identity."
-msgstr "이해해. 나도 그렇게 내 신상 정보를 포기하는 일은 안 겪으면 좋겠어."
+msgstr "이해해. 나는 그렇게 신상 정보를 포기하는 일은 안 겪었으면 좋겠어."
 
 #. EDID = [FD000E04]
 #. REC = INFO:NAM1
@@ -20874,7 +20851,7 @@ msgstr "음, 네가 왜 그런 이름을 택했는지 알겠다. 아무튼 인�
 #. REC = INFO:NAM1
 msgctxt "0006F7"
 msgid "This mutual trust is rarely breached."
-msgstr "이 상호 신뢰 관계는 거의 깨진 적이 없지."
+msgstr "이 상호 신뢰 관계가 깨진 적은 거의 없지."
 
 #. EDID = [FD000DDF]
 #. REC = INFO:NAM1
@@ -20884,8 +20861,8 @@ msgid ""
 "and allow us to operate largely unhindered, in exchange for holding us "
 "accountable."
 msgstr ""
-"개척 성계의 각 정부는 우리의 특별한 능력을 쓰기 위해 고용하고, 우리가 임무의 모든 책임을 지는 대신 거의 규제를 받지 않고 활동하도록 "
-"허락해 주고 있다."
+"개척 성계의 두 정부는 우리의 특별한 능력을 이용하기 위해 우리를 고용했고, 임무 관련 책임은 모두 우리가 지는 대신, 거의 규제를 받지 "
+"않고 활동할 수 있도록 허락했다."
 
 #. EDID = [FD000E37]
 #. REC = INFO:NAM1
@@ -20912,7 +20889,7 @@ msgstr "그리고, 난 '맨티스'에 관해 알고 있다."
 #. REC = INFO:NAM1
 msgctxt "0006FC"
 msgid "Both roles are equally crucial to our operation."
-msgstr "두 역할 모두 우리의 실무에 매우 중요하지."
+msgstr "두 역할 모두 우리의 실무에서 매우 중요하지."
 
 #. EDID = [FD000DBE]
 #. REC = INFO:NAM1
@@ -20922,14 +20899,14 @@ msgid ""
 " their experience and wisdom is valued, and it can be difficult to "
 "reassimilate into society."
 msgstr ""
-"가끔 추적자가 나이가 들게 되면, 그 사람의 경험과 지혜는 귀중해지므로 대행인이 된다. 대행인 정도가 될 정도면 사회로 다시 복귀하기 "
-"어려워지니 말이다."
+"가끔 추적자가 나이가 들게 되면, 대행인이 되기도 한다. 그런 추적자의 경험과 지혜는 귀중하고, 대행인이 될 정도면 사회로 다시 "
+"복귀하기도 어려워지니 말이다."
 
 #. EDID = [FD000DAC]
 #. REC = INFO:NAM1
 msgctxt "0006FE"
 msgid "Why does a formal organization like the Trackers even exist?"
-msgstr "애초에 어째서 추적자 동맹 같은 공식 단체가 존재하는 거지?"
+msgstr "애초에 어째서 추적자 동맹 같은 단체가 공식으로 존재하는 거지?"
 
 #. EDID = [FD000E30]
 #. REC = INFO:NAM1
@@ -20937,7 +20914,7 @@ msgctxt "0006FF"
 msgid ""
 "To protect family and associates, our identity is more than confidential. It"
 " is eliminated from existence."
-msgstr "가족과 관계자들을 보호하기 위해, 우리의 신원은 기밀 이상으로 취급돼. 존재 자체가 없어지는 거지."
+msgstr "가족과 관계자들을 보호하기 위해, 우리의 신상 정보는 기밀 이상으로 취급돼. 존재 자체가 없어지는 거지."
 
 #. EDID = [FD000DDD]
 #. REC = INFO:NAM1
@@ -20954,14 +20931,14 @@ msgid ""
 " one's records and history. Even gender and voice. You can imagine, many "
 "would seek to do harm to one in this position."
 msgstr ""
-"이 역할을 맡으면, 모든 신원의 흔적을 지워야 해. 모든 기록과 이력까지. 심지어 성별과 목소리도. 많은 사람이 이 위치에 있는 인물을 "
-"해치려 할 거란 건 너라면 충분히 상상할 수 있겠지."
+"이 역할을 맡으면, 모든 신상 정보의 흔적을 지워야 해. 모든 기록과 이력까지. 심지어 성별과 목소리도. 너라면 많은 사람이 이 직책에 "
+"있는 인물을 해치려 할 거란 걸 충분히 상상할 수 있겠지."
 
 #. EDID = [FD000DB7]
 #. REC = INFO:NAM1
 msgctxt "000702"
 msgid "What's the difference between an Agent and a regular old Tracker?"
-msgstr "대행인과 일반 추적자의 차이가 뭐야?"
+msgstr "대행인과 일반 추적자의 차이가 뭐지?"
 
 #. EDID = [FD000E15]
 #. REC = INFO:NAM1
@@ -20983,7 +20960,7 @@ msgctxt "000705"
 msgid ""
 "An Agent takes on a more administrative role, where as Trackers primarily "
 "work in the field."
-msgstr "대행인은 더 관리적인 역할을 맡고, 추적자들은 주로 현장에서 일해."
+msgstr "대행인은 더 관리직 역할을 맡고, 추적자들은 주로 현장직으로 일하지."
 
 #. EDID = [FD000E26]
 #. REC = INFO:NAM1
@@ -21450,19 +21427,17 @@ msgstr "창립자들과 그런 것들에 대해 더 알고 싶다면 여기 어�
 
 #. EDID = [FD004B4C]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "000742"
 msgid ""
 "I tinker. I make, modify, and refurbish weapons and other equipment. For "
 "Trackers only."
-msgstr "난 이것저것 만지작거려. 무기와 다른 장비들을 만들고, 개조하고, 수리해. 오직 추적자들을 위해서만."
+msgstr "난 이것저것 손봐. 무기나 다른 장비들을 만들고, 개조하고, 수리해. 오직 추적자들을 위해서."
 
 #. EDID = [FD004B25]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "000743"
 msgid "But I wouldn't expect you to know that."
-msgstr "하지만 네가 그걸 알 거라고는 기대하지 않아."
+msgstr "하지만 당신이 그런 것을 알 거라 기대하지는 않습니다."
 
 #. EDID = [FD004ABF]
 #. REC = INFO:NAM1
@@ -21922,10 +21897,9 @@ msgstr ""
 
 #. EDID = [FD004B73]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "00077B"
 msgid "How about that, we've got a new Tracker in the building."
-msgstr "이거 봐, 새로운 추적자가 들어왔네."
+msgstr "이거 보소. 새로운 추적자가 들어왔군."
 
 #. EDID = [FD004ADD]
 #. REC = INFO:NAM1
@@ -21978,16 +21952,16 @@ msgctxt "000782"
 msgid ""
 "But uh, hey, as a consolation I have plenty of great gear you can buy. And "
 "that's of better use to you than some old tall tale."
-msgstr "그렇지만 저기, 위로 삼아 네가 살 수 있는 좋은 장비가 많이 있어. 그게 오래된 허풍보다 더 유용할 거야."
+msgstr ""
+"그렇지만, 어이, 위로 삼아 좋은 장비를 네가 살 수 있게 많이 마련해 뒀지. 그게 왕년에 대해 허풍떠는 것보다 더 유용할 거야."
 
 #. EDID = [FD004A8F]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "000783"
 msgid ""
 "Yup, me too. Sorry to disappoint, but my days as a Tracker in the field were"
 " pretty limited."
-msgstr "응, 나도 그래. 실망시켜 미안하지만, 현장에서 추적자로 일한 날은 꽤 제한적이었어."
+msgstr "응, 나도 그러고 싶어. 실망하게 해서 미안하지만, 현장에서 추적자로 일한 날이 아주 많지는 않거든."
 
 #. EDID = [FD004B27]
 #. REC = INFO:NAM1
@@ -22003,20 +21977,20 @@ msgstr "레드 마일에서 달려봤어?"
 
 #. EDID = [FD004AE6]
 #. REC = INFO:NAM1
+#, fuzzy
 msgctxt "000786"
 msgid ""
 "Just, uh... Try not to do what you've gotta do with reckless abandon. "
 "Survival isn't always without consequences."
-msgstr "그냥, 어... 무모하게 해야 할 일을 하지 마. 생존이 항상 결과 없이 끝나는 건 아니야."
+msgstr "그냥, 어... 해야 할 일을 완전히 제멋대로 하지 마. 생존이 항상 대가 없이 가능한 건 아니야."
 
 #. EDID = [FD004AE6]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "000787"
 msgid ""
 "Absolutely. And that's a good thing to keep in mind as you're out there "
 "catching bad guys."
-msgstr "물론이지. 그리고 그건 네가 밖에서 나쁜 놈들을 잡을 때 명심해야 할 좋은 점이야."
+msgstr "물론이지. 그걸 명심하고 밖에서 나쁜 놈들을 잡으면 좋을 거야."
 
 #. EDID = [FD004B8D]
 #. REC = INFO:NAM1
@@ -22024,7 +21998,7 @@ msgctxt "000788"
 msgid ""
 "Anyway. I like what I do now. I'm putting my technical skills to use in a "
 "way the Trackers Alliance appreciates."
-msgstr "어쨌든. 난 지금 하는 일이 좋아. 추적자 동맹이 인정하는 방식으로 내 기술을 활용하고 있거든."
+msgstr "어쨌든. 난 지금 하는 일이 좋아. 추적자 동맹이 인정하는 방식으로 내 기술을 활용하고 있으니까."
 
 #. EDID = [FD004B8D]
 #. REC = INFO:NAM1
@@ -22032,17 +22006,18 @@ msgctxt "000789"
 msgid ""
 "Too much \"collateral damage.\" Don't worry - no one died. But let's just "
 "say I may have temporarily increased the homeless population."
-msgstr "'부수적 피해’가 너무 컸어. 걱정 마. 아무도 죽진 않았어. 그냥 말하자면 일시적으로 노숙자 인구를 늘렸다고 할 수 있지."
+msgstr "'부수적 피해’가 너무 많았지. 걱정 마. 아무도 죽이진 않았어. 그냥 말하자면 일시적으로 노숙자 인구를 늘렸다고 할 수 있지."
 
 #. EDID = [FD004B8D]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "00078A"
 msgid ""
 "Well, when you grow up on the Neon streets, you learn to fly by the seat of "
 "your pants. That doesn't always jive with protocol, even by Tracker "
 "standards."
-msgstr "뭐, 네온 거리에서 자랐으면 즉흥적으로 행동하는 법을 배우게 돼. 그게 추적자 기준으로도 항상 규정과 맞지는 않아."
+msgstr ""
+"뭐, 네온 길바닥에서 자랐으면, 직감에 따라 행동하는 방법을 배우게 돼. 그 직감이 항상 규정과 일치하지는 않지. 추적자 기준으로 봐도 "
+"말이야."
 
 #. EDID = [FD00E2C3]
 #. REC = INFO:NAM1
@@ -22061,12 +22036,11 @@ msgstr "운 좋게도 네가 좋아할 만한 새로운 물건을 막 완성했�
 
 #. EDID = [FD00E2C0]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "00078D"
 msgid ""
 "Look, I can't guarantee you're going to like what I give you, but I can "
 "guarantee it'll work like a charm."
-msgstr "내가 주는 게 마음에 들 거란 보장은 못 하지만, 완벽하게 작동할 거란 건 장담해."
+msgstr "내가 주는 게 네 마음에 들 거라 보장은 못 하겠지만, 장담하는데 완벽하게 작동할 거야."
 
 #. EDID = [FD004C55]
 #. REC = INFO:NAM1
@@ -22084,31 +22058,29 @@ msgstr "그런 일에서 어떻게 추적자가 된 거야?"
 
 #. EDID = [FD004A94]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "000790"
 msgid ""
 "Matter of fact, I do. But the most interesting ones aren't from my Tracker "
 "field work. Instead, I'm gonna take you back in time to my youth."
-msgstr "사실, 있지. 하지만 가장 흥미로운 건 추적자 현장 일에서 온 게 아니야. 대신 내 젊은 시절로 데려갈게."
+msgstr ""
+"사실, 알지. 하지만 내가 추적자 현장 일하다 겪은 이야기가 가장 흥미로운 이야기는 아니야. 대신 내 젊은 시절 이야기를 해주지."
 
 #. EDID = [FD004ABE]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "000791"
 msgid "Sounds like a tough life. Glad you got away from it."
-msgstr "힘든 삶이었겠네. 그걸 벗어났다니 다행이야."
+msgstr "살기 힘들었겠네. 벗어나서 다행이야."
 
 #. EDID = [FD004A9A]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "000792"
 msgid ""
 "That's right. Gangbangers and other lowlifes. I saw what they used these "
 "weapons for, but I had to make money, and it kept me safe from the gangs, "
 "'cause they needed me."
 msgstr ""
-"맞아. 갱단과 다른 하층민들. 그들이 이 무기들을 어디에 쓰는지 봤지만, 돈을 벌어야 했고 그게 날 갱단으로부터 안전하게 지켜줬어. "
-"그들이 날 필요로 했거든."
+"맞아. 갱단과 다른 하층민들. 녀석들이 어디에 무기를 쓰는지 봤지만, 돈을 벌기 위해 계속 만들어야 했어. 그 일이 날 갱단으로부터 "
+"안전하게 지켜줬지. 갱단에겐 내가 필요했으니까."
 
 #. EDID = [FD004BA4]
 #. REC = INFO:NAM1
@@ -22123,12 +22095,11 @@ msgstr ""
 
 #. EDID = [FD004B2D]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "000794"
 msgid ""
 "My directive is to assist Trackers with any queries they have, and if "
 "desired, give advice based on the information we have compiled."
-msgstr "내 임무는 추적자들의 질문에 답하고, 원한다면 우리가 모은 정보를 바탕으로 조언을 제공하는 거야."
+msgstr "제 임무는 추적자들의 질의어에 답하고, 원한다면 우리가 모은 정보를 바탕으로 조언을 제공하는 것입니다."
 
 #. EDID = [FD004BB8]
 #. REC = INFO:NAM1
@@ -22136,7 +22107,7 @@ msgctxt "000795"
 msgid ""
 "I am connected to the Tracker database, so when a Tracker either has, or "
 "needs, information about a certain target, they come to me."
-msgstr "추적자 데이터베이스에 연결되어 있어서, 추적자가 특정 수배범에 대한 정보가 있거나 필요할 때 날 찾아와."
+msgstr "추적자 데이터베이스에 연결되어 있어서, 추적자가 특정 수배범에 대한 정보를 가지고 있거나, 정보가 필요할 때 저를 찾아옵니다."
 
 #. EDID = [FD004BCA]
 #. REC = INFO:NAM1
@@ -22144,7 +22115,7 @@ msgctxt "000796"
 msgid ""
 "Koios was a Greek titan god, born of Uranus and Gaia. He was known as a "
 "titan of knowledge and queries."
-msgstr "코이오스는 그리스의 거인 신으로, 우라노스와 가이아 사이에서 태어났습니다. 코이오스는 지식과 의문의 거인으로 알려져 있습니다."
+msgstr "코이오스는 그리스의 거인 신으로, 우라노스와 가이아 사이에서 태어났습니다. 코이오스는 지식과 질문의 거인으로 알려져 있습니다."
 
 #. EDID = [FD004B43]
 #. REC = INFO:NAM1
@@ -22295,10 +22266,9 @@ msgstr "그러려면 아스트라가 더 필요하지 않겠어? 있을 때 다�
 
 #. EDID = [FD00E287]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0007A9"
 msgid "Whether it's for business or pleasure, that's up to you."
-msgstr "업무든 즐거움이든, 그건 네가 정하는 거야."
+msgstr "일이 될지 여흥이 될지, 그건 네가 정하는 거야."
 
 #. EDID = [FD00E288]
 #. REC = INFO:NAM1
@@ -22330,7 +22300,7 @@ msgstr "그걸 알면 내가 직접 찾으러 갔지 남들한테 해달라고 �
 #, fuzzy
 msgctxt "0007AD"
 msgid "And I'd like to give you one, but you're out of Astras."
-msgstr "하나 주고 싶지만, 네 아스트라가 다 떨어졌네."
+msgstr "하나 주고 싶지만, 너 아스트라가 다 떨어졌잖아."
 
 #. EDID = [FD00E2CE]
 #. REC = INFO:NAM1
@@ -22365,12 +22335,11 @@ msgstr "[<Global=SFBGS003_Astras_SmallAmount> 아스트라 주기] 좋은 장비
 
 #. EDID = [FD00E286]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0007B2"
 msgid ""
 "But I don't do it for free, and I don't do it for credits either. I only "
 "take Astras."
-msgstr "하지만 공짜로는 안 하고, 크레딧도 안 받아. 오직 아스트라만 받지."
+msgstr "하지만 공짜로는 안 되고, 크레딧도 안 받아. 오직 아스트라만 받지."
 
 #. EDID = [FD00E299]
 #. REC = INFO:NAM1
@@ -22452,7 +22421,7 @@ msgstr "나를 찾으라고 누굴 보낸 거지?"
 #, fuzzy
 msgctxt "0007BD"
 msgid "Who are these specialized Trackers?"
-msgstr "그 전문 추적자들은 누구야?"
+msgstr "전문 분야에 특화된 추적자로는 뭐가 있지?"
 
 #. EDID = [FD00F342]
 #. REC = INFO:NAM1
@@ -22461,14 +22430,13 @@ msgid ""
 "Yes. I won't go into the particulars, but even if you are in the furthest "
 "reaches of space, someone will eventually be directed to pick up your "
 "target."
-msgstr "그래. 자세한 건 말 못 하지만, 우주 끝에 있더라도 결국 누군가가 네 수배범을 잡으러 올 거야."
+msgstr "그래. 자세한 건 말 못 하지만, 우주 끝에 있더라도 결국 누군가가 네 수배범을 호송하러 올 거다."
 
 #. EDID = [FD00F32C]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0007BF"
 msgid "Will someone always come, no matter where I am?"
-msgstr "내가 어디 있든 항상 누군가 올 거야?"
+msgstr "내가 어디 있든 항상 누군가 오는 건가?"
 
 #. EDID = [FD00F33D]
 #. REC = INFO:NAM1
@@ -22498,14 +22466,15 @@ msgctxt "0007C3"
 msgid ""
 "With someone on their way, your target would not get far. They would be "
 "charged with additional felonies. It would only be worse for them."
-msgstr "누군가 오고 있다면 네 수배범은 멀리 가지 못할 거야. 추가 중죄로 기소될 거고. 그들에겐 더 나쁜 상황이 될 뿐이야."
+msgstr ""
+"누군가 호송하러 오고 있다면, 네 수배범은 멀리 도망가지 못할 거야. 추가 중죄 혐의로 기소될 거고. 수배범에겐 상황이 더 나빠질 뿐이지."
 
 #. EDID = [FD00F326]
 #. REC = INFO:NAM1
 #, fuzzy
 msgctxt "0007C4"
 msgid "Our system works pretty well for us."
-msgstr "우리 시스템은 꽤 잘 작동해."
+msgstr "우리 시스템이 꽤 잘 작동하지."
 
 #. EDID = [FD00F33F]
 #. REC = INFO:NAM1
@@ -22549,7 +22518,7 @@ msgid ""
 "pursue your targets to the end of the universe so they can face justice one "
 "way or another."
 msgstr ""
-"그건 전통에 가까운 거야. 절대 포기하지 말고 우주 끝까지 수배범을 쫓아 어떻게든 법의 심판을 받게 해야 한다는 걸 상기시켜주지."
+"그건 전통에 가까운 거다. 절대 포기하지 말고 우주 끝까지 수배범을 쫓아 어떻게든 법의 심판을 받게 해야 한다는 걸 상기시켜주지."
 
 #. EDID = [FD00F527]
 #. REC = INFO:NAM1
@@ -22557,17 +22526,16 @@ msgctxt "0007CA"
 msgid ""
 "Not everyone in the Alliance feels the same about the motto, as it's a bit "
 "of a holdover from older times."
-msgstr "추적자 동맹의 모든 사람들이 그 구호에 대해 같은 생각을 하진 않아. 옛날부터 이어져 온 거니까."
+msgstr "추적자 동맹의 구성원들이 모두 그 구호에 대해 똑같이 생각하진 않는다. 옛날부터 이어져 온 거니까."
 
 #. EDID = [FD00F527]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0007CB"
 msgid ""
 "I can see why you would ask, but no. Criminals are punished by the justice "
 "system depending on their crimes. Some of those punishments can be harsh."
 msgstr ""
-"왜 그렇게 물어보는지 알겠지만, 아니야. 범죄자들은 그들의 범죄에 따라 사법 체계에 의해 처벌받아. 그 처벌 중 일부는 가혹할 수 있지."
+"왜 그렇게 물어보는지는 알겠지만, 아니다. 범죄자들은 범죄에 따라 사법 체계에 의해 처벌받는다. 그 처벌 중 일부는 가혹할 수 있지."
 
 #. EDID = [FD004C17]
 #. REC = INFO:NAM1
@@ -22653,7 +22621,7 @@ msgstr "다른 사람들은 이 다음 수배범을 찾지 못했어. 네가 한
 msgctxt "0007D5"
 msgid ""
 "This may be the most challenging bounty target yet. Good luck out there."
-msgstr "이게 지금까지 중 가장 도전적인 현상수배 수배범일 수 있어. 행운을 빌어."
+msgstr "이게 지금까지 맡은 수배범 중 가장 도전적인 수배범일 거 같네. 행운을 빌어."
 
 #. EDID = [FD004C05]
 #. REC = INFO:NAM1
@@ -22726,7 +22694,7 @@ msgctxt "0007DF"
 msgid ""
 "We have another target for you. They need to be brought in alive so they can"
 " face justice."
-msgstr "너를 위한 다른 수배범이 있어. 법의 심판을 받도록 생포해야 해."
+msgstr "네가 맡아야 할 다른 수배범이 있어. 법의 심판을 받도록 생포해야 해."
 
 #. EDID = [FD004BF5]
 #. REC = INFO:NAM1

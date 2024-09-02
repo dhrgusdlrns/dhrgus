@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2024-09-02 06:05+0000\n"
+"PO-Revision-Date: 2024-09-04 13:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -99,7 +99,7 @@ msgstr "활성 효과"
 
 #, fuzzy
 msgid "$ACTIVE_VEHICLE"
-msgstr "활성화"
+msgstr "운전 차량"
 
 msgid "$Activity"
 msgstr "활동"
@@ -925,7 +925,7 @@ msgid "$Cockpit"
 msgstr "조종실"
 
 msgid "$Colony Goods"
-msgstr "식민지 물품"
+msgstr "정착지 물품"
 
 msgid "$COLOR"
 msgstr "색상"

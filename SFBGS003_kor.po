@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-09-09 14:43+0000\n"
+"PO-Revision-Date: 2024-09-15 07:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -27190,7 +27190,7 @@ msgstr "왜 그렇게 물어보는지는 알겠지만, 아니다. 범죄자들�
 #, fuzzy
 msgctxt "0007CC"
 msgid "I'm impressed with your work, Wraith. My confidence in your potential as a Tracker was not misplaced."
-msgstr "네 일에 감명받았어, 레이스. 추적자로서의 네 잠재력에 대한 내 확신이 틀리지 않았어."
+msgstr "네 일 처리에 감명받았어. 레이스. 추적자로서의 네 잠재력에 대한 내 확신이 틀리지 않았어."
 
 #. SCRIPT NOTES: 
 #. ALIAS: 
@@ -27201,7 +27201,7 @@ msgstr "네 일에 감명받았어, 레이스. 추적자로서의 네 잠재력�
 #, fuzzy
 msgctxt "0007CD"
 msgid "I'm impressed with your work, Tempest. My confidence in your potential as a Tracker was not misplaced."
-msgstr "네 일에 감명받았어, 템페스트. 추적자로서의 네 잠재력에 대한 내 확신이 틀리지 않았어."
+msgstr "네 일 처리에 감명받았어. 템페스트. 추적자로서의 네 잠재력에 대한 내 확신이 틀리지 않았어."
 
 #. SCRIPT NOTES: 
 #. ALIAS: 
@@ -27212,7 +27212,7 @@ msgstr "네 일에 감명받았어, 템페스트. 추적자로서의 네 잠재�
 #, fuzzy
 msgctxt "0007CE"
 msgid "I'm impressed with your work, Shadow. My confidence in your potential as a Tracker was not misplaced."
-msgstr "네 일에 감명받았어, 섀도우. 추적자로서의 네 잠재력에 대한 내 확신이 틀리지 않았어."
+msgstr "네 일 처리에 감명받았어. 섀도우. 추적자로서의 네 잠재력에 대한 내 확신이 틀리지 않았어."
 
 #. SCRIPT NOTES: 
 #. ALIAS: 
@@ -27223,7 +27223,7 @@ msgstr "네 일에 감명받았어, 섀도우. 추적자로서의 네 잠재력�
 #, fuzzy
 msgctxt "0007CF"
 msgid "I'm impressed with your work, Nova. My confidence in your potential as a Tracker was not misplaced."
-msgstr "네 일에 감명받았어, 노바. 추적자로서의 네 잠재력에 대한 내 확신이 틀리지 않았어."
+msgstr "네 일 처리에 감명받았어. 노바. 추적자로서의 네 잠재력에 대한 내 확신이 틀리지 않았어."
 
 #. SCRIPT NOTES: 
 #. ALIAS: 
@@ -27234,7 +27234,7 @@ msgstr "네 일에 감명받았어, 노바. 추적자로서의 네 잠재력에 
 #, fuzzy
 msgctxt "0007D0"
 msgid "I'm impressed with your work, Nightstalker. My confidence in your potential as a Tracker was not misplaced."
-msgstr "네 일에 감명받았어, 나이트스토커. 추적자로서의 네 잠재력에 대한 내 확신이 틀리지 않았어."
+msgstr "네 일 처리에 감명받았어. 나이트스토커. 추적자로서의 네 잠재력에 대한 내 확신이 틀리지 않았어."
 
 #. SCRIPT NOTES: 
 #. ALIAS: 
@@ -27245,7 +27245,7 @@ msgstr "네 일에 감명받았어, 나이트스토커. 추적자로서의 네 �
 #, fuzzy
 msgctxt "0007D1"
 msgid "I'm impressed with your work, Bear. My confidence in your potential as a Tracker was not misplaced."
-msgstr "네 일에 감명받았어, 베어. 추적자로서의 네 잠재력에 대한 내 확신이 틀리지 않았어."
+msgstr "네 일 처리에 감명받았어. 베어. 추적자로서의 네 잠재력에 대한 내 확신이 틀리지 않았어."
 
 #. SCRIPT NOTES: 
 #. ALIAS: 
@@ -27323,10 +27323,9 @@ msgstr "관심 있다면 많은 현상수배 임무가 있어."
 #. QUEST: SFBGS003_DialogueTAHQ
 #. EDID = [FD004C01]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0007D9"
 msgid "Focus, Tracker. Your current mission takes priority."
-msgstr "집중해, 추적자. 현재 임무가 우선이야."
+msgstr "집중해. 추적자. 현재 임무가 우선이야."
 
 #. SCRIPT NOTES: 
 #. ALIAS: 
@@ -27354,10 +27353,9 @@ msgstr "시간을 낭비할수록 수배범을 찾기가 더 어려워져."
 #. QUEST: SFBGS003_DialogueTAHQ
 #. EDID = [FD004BFD]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0007DC"
 msgid "This is not a good time, Tracker."
-msgstr "지금은 적절한 때가 아니야, 추적자."
+msgstr "지금은 적절한 때가 아니야. 추적자."
 
 #. SCRIPT NOTES: 
 #. ALIAS: 
@@ -27945,10 +27943,9 @@ msgstr "이봐... 즐거운 임무를 혼자 독차지하지 마, 알았지? 이
 #. QUEST: DialogueTrackersAllianceAgents
 #. EDID = [001D8C18]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "01ACE8"
 msgid "What's the Trackers Alliance?"
-msgstr "'추적자 동맹'이란?"
+msgstr "추적자 동맹이 뭐야?"
 
 #. SCRIPT NOTES:  / to TrackersAllianceAgentCydonia
 #. ALIAS: Player Default

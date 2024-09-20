@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-09-15 07:43+0000\n"
+"PO-Revision-Date: 2024-09-22 12:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -749,7 +749,9 @@ msgstr "스캐너는 시민들 사이에 숨어 있는 수배범을 찾는 데 �
 #. REC = LSCR:DESC
 msgctxt "0000CF"
 msgid "After using your scanner to identify a wanted criminal, you can bring them in alive by arresting them. No need to take them anywhere, as someone will be alerted to collect them."
-msgstr "스캐너를 사용하여 수배범의 신원을 확인한 후 체포하여 생포할 수 있습니다. 누군가에게 호송하라는 알림이 가게 되므로 어딘가로 데려갈 필요는 없습니다."
+msgstr ""
+"스캐너를 사용하여 수배범의 신원을 확인한 후 체포하여 생포할 수 있습니다. 다른 추적자에게 호송 요청 알림이 가게 되므로 어딘가로 데려갈 "
+"필요는 없습니다."
 
 #. EDID = LS_SFBGS003_Astras01
 #. REC = LSCR:DESC
@@ -4053,7 +4055,7 @@ msgstr "에티엔 뒤부아"
 #. REC = MESG:FULL
 msgctxt "000A49"
 msgid "Cameron the Ghost"
-msgstr "유령 카메론"
+msgstr "유령 캐머런"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_16
 #. REC = MESG:FULL
@@ -6219,7 +6221,7 @@ msgstr "뤼페 스미스"
 #. REC = MESG:FULL
 msgctxt "000BB2"
 msgid "Cameron Jacobs"
-msgstr "카메론 제이콥스"
+msgstr "캐머런 제이콥스"
 
 #. EDID = SFBGS003_BountyTarget_Name_NB_185
 #. REC = MESG:FULL
@@ -6705,7 +6707,7 @@ msgstr "뤼페 오카시오"
 #. REC = MESG:FULL
 msgctxt "000C03"
 msgid "Cameron Moreno"
-msgstr "카메론 모레노"
+msgstr "캐머런 모레노"
 
 #. EDID = SFBGS003_BountyTarget_Name_NB_126
 #. REC = MESG:FULL
@@ -7407,7 +7409,7 @@ msgstr "뤼페 칼훈"
 #. REC = MESG:FULL
 msgctxt "000C78"
 msgid "Cameron Strauss"
-msgstr "카메론 스트라우스"
+msgstr "캐머런 스트라우스"
 
 #. EDID = SFBGS003_BountyTarget_Name_F_238
 #. REC = MESG:FULL
@@ -9788,7 +9790,7 @@ msgstr ""
 #. REC = MESG:DESC
 msgctxt "0004AD"
 msgid "Murder and identity theft of the deceased"
-msgstr "살인 및 살해된 사망자의 신상 정보 도용"
+msgstr "살인 및 살해한 사망자의 신상 정보 도용"
 
 #. EDID = SFBGS003_BountyCrime_06
 #. REC = MESG:DESC
@@ -12809,7 +12811,9 @@ msgstr "지금 당장 놈을 무력화시켜야 해, 도망치기 전에!"
 #. REC = INFO:NAM1
 msgctxt "0001DA"
 msgid "Normally, you'd either kill your target or disable and arrest them. At that point, you'd put a tracking beacon on them and someone would be called in to come take 'em away."
-msgstr "보통은 수배범을 죽이거나 무력화시켜 체포하게 돼. 제압을 끝내고 수배범에게 추적 신호기를 붙이면, 누군가 와서 수배범을 호송해 갈 거야."
+msgstr ""
+"보통은 수배범을 죽이거나 무력화시켜 체포하게 돼. 제압을 끝내고 수배범에게 추적 신호기를 붙이면, 다른 추적자가 와서 수배범을 호송해 갈 "
+"거야."
 
 #. SCRIPT NOTES: Stern
 #. ALIAS: Player Default
@@ -14519,7 +14523,9 @@ msgstr "그럼 한니발 유트로피오에 관해 알고 있나 보군? 가서 
 #. REC = INFO:NAM1
 msgctxt "000285"
 msgid "So, normally, you'd register Adrastos with the system, and leave him bound for someone to come pick him up. But, we need him to tag along with us."
-msgstr "보통은 시스템에 아드라스토스를 등록시킨 다음, 결박해 놓고 다른 누군가가 수배범을 호송해 가도록 하면 되지만, 지금은 임무 내내 녀석을 데리고 다녀야 해."
+msgstr ""
+"보통은 시스템에 아드라스토스를 등록시킨 다음, 결박해 놓고 다른 추적자가 수배범을 호송해 가도록 하면 되지만, 지금은 임무 내내 녀석을 "
+"데리고 다녀야 해."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Roach
@@ -18707,7 +18713,7 @@ msgstr "현상금이 쌓이고 있어. 네 도움이 필요해."
 #. REC = INFO:NAM1
 msgctxt "000426"
 msgid "We have another target for you. This time, they want proof of death."
-msgstr "또 다른 수배범이 있어. 이번엔 사망 증거를 원해."
+msgstr "또 다른 수배범이 있어. 이번엔 사망했다는 증거가 필요해."
 
 #. SCRIPT NOTES: 
 #. ALIAS: 
@@ -27048,7 +27054,7 @@ msgstr "전문 분야에 특화된 추적자로는 뭐가 있지?"
 #. REC = INFO:NAM1
 msgctxt "0007BE"
 msgid "Yes. I won't go into the particulars, but even if you are in the furthest reaches of space, someone will eventually be directed to pick up your target."
-msgstr "그래. 자세한 건 말 못 하지만, 우주 끝에 있더라도 결국 누군가가 네 수배범을 호송하러 올 거다."
+msgstr "그래. 자세한 건 말 못 하지만, 우주 끝에 있더라도 결국 다른 추적자가 네 수배범을 호송하러 올 거다."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: AgentNo1
@@ -27098,7 +27104,9 @@ msgstr "한니발은 최근에 수배범 명단에 올랐어. 내가 대행인�
 #. REC = INFO:NAM1
 msgctxt "0007C3"
 msgid "With someone on their way, your target would not get far. They would be charged with additional felonies. It would only be worse for them."
-msgstr "누군가 호송하러 오고 있다면, 네 수배범은 멀리 도망가지 못할 거야. 추가 중죄 혐의로 기소될 거고. 수배범에겐 상황이 더 나빠질 뿐이지."
+msgstr ""
+"다른 추적자가 호송하러 오고 있다면, 네 수배범은 멀리 도망가지 못할 거야. 추가 중죄 혐의로 기소될 거고. 수배범에겐 상황이 더 나빠질 "
+"뿐이지."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Player Default

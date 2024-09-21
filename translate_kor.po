@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2024-09-04 13:43+0000\n"
+"PO-Revision-Date: 2024-09-22 12:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -472,13 +472,13 @@ msgid "$Bounty"
 msgstr "현상금"
 
 msgid "$Bounty_Alive"
-msgstr "지명수배: 생포"
+msgstr "지명수배: 생포한정"
 
 msgid "$Bounty_Dead"
-msgstr "지명수배: 사망"
+msgstr "지명수배: 사살한정"
 
 msgid "$Bounty_DeadOrAlive"
-msgstr "지명수배: 생사불명"
+msgstr "지명수배: 생사불문"
 
 msgid "$Bounty_Resolved"
 msgstr "현상금 해결됨"
@@ -6167,14 +6167,14 @@ msgstr "모든 레이어에서 이방성 사용"
 
 msgid "$Settings_AllLayersUseAnisotropic Desc"
 msgstr ""
-"모든 머티리얼 레이어에서 항상 이방성 텍스처 필터링을 사용합니다. 끄면 성능이 향상되고, 켜면 특정 머티리얼 레이어의 영상 품질이 약간 "
-"향상됩니다."
+"모든 머티리얼 레이어에서 항상 이방성 텍스처 필터링을 사용합니다. 끄면 성능이 향상되고, 켜면 특정 머티리얼 레이어의 텍스처 화질 "
+"선명도가 약간 향상됩니다."
 
 msgid "$Settings_AnisotropicFiltering"
 msgstr "이방성 필터링"
 
 msgid "$Settings_AnisotropicFiltering Desc"
-msgstr "이방성 텍스처 필터링의 품질을 설정합니다. 값을 낮추면 성능이 향상되고, 값을 높이면 텍스처의 화질이 개선됩니다."
+msgstr "이방성 텍스처 필터링의 품질을 설정합니다. 값을 낮추면 성능이 향상되고, 값을 높이면 텍스처 화질 선명도가 개선됩니다."
 
 msgid "$Settings_Brightness"
 msgstr "밝기 조정"

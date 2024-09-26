@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-09-22 12:43+0000\n"
+"PO-Revision-Date: 2024-09-27 14:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -2495,7 +2495,7 @@ msgid ""
 "    Warning: Mechanical locks engaged; manual key entry required."
 msgstr ""
 "승무원 숙소 - 성공\n"
-"    잠금 해제됨\n"
+"    봉쇄 해제됨\n"
 "적재 구획 - 오류\n"
 "    경고: 출입문이 응답하지 않습니다. 막혀있는지 확인하십시오.\n"
 "도킹 출입구 - 오류\n"
@@ -10000,7 +10000,9 @@ msgstr "적재 구획 문은 봉인되어 있어 이쪽에서 열 방법이 없�
 #. REC = QUST:CNAM
 msgctxt "0008CB"
 msgid "Hannibal came over the PA system calling for complete lockdown of the Chop Shop. Given Hannibal's insistence that the loading bay be particularly secured, Roach believes that's where we'll find him."
-msgstr "한니발이 PA 시스템을 통해 찹샵을 완전히 폐쇄하라는 명령을 내렸다. 로치에 따르면 한니발은 특히 적재 구획의 보안을 철저하게 유지하려고 고집했다고 하며, 로치는 이에 미뤄 적재 구획에서 한니발을 찾을 수 있을 거라고 믿었다."
+msgstr ""
+"한니발이 PA 시스템을 통해 찹샵을 완전히 봉쇄하라는 명령을 내렸다. 로치에 따르면 한니발은 특히 적재 구획의 보안을 철저하게 유지하려고 "
+"고집했다고 하며, 로치는 이에 미뤄 적재 구획에서 한니발을 찾을 수 있을 거라고 믿었다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM

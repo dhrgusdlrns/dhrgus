@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-23 00:19+0900\n"
-"PO-Revision-Date: 2024-09-08 13:43+0000\n"
+"PO-Revision-Date: 2024-09-29 17:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -39,7 +39,7 @@ msgstr "차량"
 #. REC: AVIF:FULL
 msgctxt "000249"
 msgid "Armor"
-msgstr "방어구"
+msgstr "방호력"
 
 #. List: 0
 #. EDID: VehicleDriverPerk
@@ -1317,7 +1317,7 @@ msgstr "차량이 멈췄습니다. 도움이 필요하면 알려주십시오."
 #. Speaker: Vasco
 msgctxt "000052"
 msgid "I can perform some vehicular calibrations while we wait."
-msgstr "기다리는 동안 차량 교정 작업을 할 수 있습니다."
+msgstr "기다리는 동안 차량 조정 작업을 할 수 있습니다."
 
 #. List: 2
 #. EDID: [FE000216]

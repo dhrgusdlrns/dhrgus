@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-10-01 11:41+0000\n"
+"PO-Revision-Date: 2024-10-01 14:23+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -367,7 +367,7 @@ msgstr ""
 # EDID: LvlTerrormorphAlpha_NoBurrow, REC: NPC_:FULL
 msgctxt "0000AB"
 msgid "Alpha Terrormorph"
-msgstr ""
+msgstr "우두머리 테러모프"
 
 # EDID: SFBGS001LC06_DoorNameOverride_WestStairwell, REC: MESG:FULL
 msgctxt "0000B1"
@@ -685,27 +685,27 @@ msgstr ""
 # EDID: SKavnyk_PKavnykII_MKavnykII-b_Orbit, REC: LCTN:FULL
 msgctxt "000268"
 msgid "Kavnyk II-b"
-msgstr ""
+msgstr "카브닉 II-b"
 
 # EDID: SKavnyk_PKavnykII_MKavnykII-e, REC: LCTN:FULL
 msgctxt "000269"
 msgid "Kavnyk II-e"
-msgstr ""
+msgstr "카브닉 II-e"
 
 # EDID: SKavnyk_PKavnykI_MVaruunKai_Surface, REC: LCTN:FULL
 msgctxt "00026A"
 msgid "Va'ruun'kai"
-msgstr ""
+msgstr "바룬카이"
 
 # EDID: SKavnyk_PKavnykII_MKavnykII-a_Surface, REC: LCTN:FULL
 msgctxt "00026B"
 msgid "Kavnyk II-a"
-msgstr ""
+msgstr "카브닉 II-a"
 
 # EDID: SKavnyk_PKavnykII_MKavnykII-a, REC: LCTN:FULL
 msgctxt "00026C"
 msgid "Kavnyk II-a"
-msgstr ""
+msgstr "카브닉 II-a"
 
 # EDID: SFBGS001LC03ExteriorLocation, REC: LCTN:FULL
 msgctxt "00026D"
@@ -715,132 +715,132 @@ msgstr ""
 # EDID: SKavnyk_PKavnykI_MKavnykI-a_Orbit, REC: LCTN:FULL
 msgctxt "00026E"
 msgid "Kavnyk I-a"
-msgstr ""
+msgstr "카브닉 I-a"
 
 # EDID: SKavnyk_PKavnykII_Surface, REC: LCTN:FULL
 msgctxt "00026F"
 msgid "Kavnyk II"
-msgstr ""
+msgstr "카브닉 II"
 
 # EDID: SKavnyk_PKavnykII_MKavnykII-c_Orbit, REC: LCTN:FULL
 msgctxt "000270"
 msgid "Kavnyk II-c"
-msgstr ""
+msgstr "카브닉 II-c"
 
 # EDID: SKavnyk_PKavnykI_MVaruunKai, REC: LCTN:FULL
 msgctxt "000271"
 msgid "Va'ruun'kai"
-msgstr ""
+msgstr "바룬카이"
 
 # EDID: SKavnyk_PKavnykII, REC: LCTN:FULL
 msgctxt "000272"
 msgid "Kavnyk II"
-msgstr ""
+msgstr "카브닉 II"
 
 # EDID: SKavnyk_PKavnykI_MKavnykI-c_Orbit, REC: LCTN:FULL
 msgctxt "000273"
 msgid "Kavnyk I-c"
-msgstr ""
+msgstr "카브닉 I-c"
 
 # EDID: SKavnyk_PKavnykII_Orbit, REC: LCTN:FULL
 msgctxt "000274"
 msgid "Kavnyk II"
-msgstr ""
+msgstr "카브닉 II"
 
 # EDID: SKavnyk_PKavnykII_MKavnykII-a_Orbit, REC: LCTN:FULL
 msgctxt "000275"
 msgid "Kavnyk II-a"
-msgstr ""
+msgstr "카브닉 II-a"
 
 # EDID: SKavnyk_PKavnykII_MKavnykII-d_Surface, REC: LCTN:FULL
 msgctxt "000276"
 msgid "Kavnyk II-d"
-msgstr ""
+msgstr "카브닉 II-d"
 
 # EDID: SKavnyk_PKavnykI_MKavnykI-a, REC: LCTN:FULL
 msgctxt "000277"
 msgid "Kavnyk I-a"
-msgstr ""
+msgstr "카브닉 I-a"
 
 # EDID: SKavnyk_PKavnykII_MKavnykII-b, REC: LCTN:FULL
 msgctxt "000278"
 msgid "Kavnyk II-b"
-msgstr ""
+msgstr "카브닉 II-b"
 
 # EDID: SKavnyk_PKavnykII_MKavnykII-b_Surface, REC: LCTN:FULL
 msgctxt "000279"
 msgid "Kavnyk II-b"
-msgstr ""
+msgstr "카브닉 II-b"
 
 # EDID: SKavnyk_PKavnykI_Orbit, REC: LCTN:FULL
 msgctxt "00027A"
 msgid "Kavnyk I"
-msgstr ""
+msgstr "카브닉 I"
 
 # EDID: SKavnyk, REC: LCTN:FULL
 msgctxt "00027B"
 msgid "Kavnyk"
-msgstr ""
+msgstr "카브닉"
 
 # EDID: SKavnyk_PKavnykI_MKavnykI-a_Surface, REC: LCTN:FULL
 msgctxt "00027C"
 msgid "Kavnyk I-a"
-msgstr ""
+msgstr "카브닉 I-a"
 
 # EDID: SKavnyk_PKavnykI_Surface, REC: LCTN:FULL
 msgctxt "00027D"
 msgid "Kavnyk I"
-msgstr ""
+msgstr "카브닉 I"
 
 # EDID: SKavnyk_PKavnykI_MVaruunKai_Orbit, REC: LCTN:FULL
 msgctxt "00027E"
 msgid "Va'ruun'kai"
-msgstr ""
+msgstr "바룬카이"
 
 # EDID: SKavnyk_PKavnykII_MKavnykII-c, REC: LCTN:FULL
 msgctxt "00027F"
 msgid "Kavnyk II-c"
-msgstr ""
+msgstr "카브닉 II-c"
 
 # EDID: SKavnyk_PKavnykII_MKavnykII-d, REC: LCTN:FULL
 msgctxt "000280"
 msgid "Kavnyk II-d"
-msgstr ""
+msgstr "카브닉 II-d"
 
 # EDID: SKavnyk_PKavnykI_MKavnykI-c, REC: LCTN:FULL
 msgctxt "000281"
 msgid "Kavnyk I-c"
-msgstr ""
+msgstr "카브닉 I-c"
 
 # EDID: SKavnyk_PKavnykII_MKavnykII-d_Orbit, REC: LCTN:FULL
 msgctxt "000282"
 msgid "Kavnyk II-d"
-msgstr ""
+msgstr "카브닉 II-d"
 
 # EDID: SKavnyk_PKavnykII_MKavnykII-c_Surface, REC: LCTN:FULL
 msgctxt "000283"
 msgid "Kavnyk II-c"
-msgstr ""
+msgstr "카브닉 II-c"
 
 # EDID: SKavnyk_PKavnykII_MKavnykII-e_Surface, REC: LCTN:FULL
 msgctxt "000284"
 msgid "Kavnyk II-e"
-msgstr ""
+msgstr "카브닉 II-e"
 
 # EDID: SKavnyk_PKavnykI_MKavnykI-c_Surface, REC: LCTN:FULL
 msgctxt "000285"
 msgid "Kavnyk I-c"
-msgstr ""
+msgstr "카브닉 I-c"
 
 # EDID: SKavnyk_PKavnykII_MKavnykII-e_Orbit, REC: LCTN:FULL
 msgctxt "000286"
 msgid "Kavnyk II-e"
-msgstr ""
+msgstr "카브닉 II-e"
 
 # EDID: SKavnyk_PKavnykI, REC: LCTN:FULL
 msgctxt "000287"
 msgid "Kavnyk I"
-msgstr ""
+msgstr "카브닉 I"
 
 # EDID: SFBGS001LC010_EavesdropScene_CaveWall, REC: QUST:FULL
 msgctxt "00028C"
@@ -1448,22 +1448,22 @@ msgstr ""
 # EDID: KavnykStar, REC: STDT:FULL
 msgctxt "00072C"
 msgid "Kavnyk"
-msgstr ""
+msgstr "카브닉"
 
 # EDID: KavnykI-aPlanetData, REC: PNDT:FULL
 msgctxt "00072D"
 msgid "Kavnyk I-a"
-msgstr ""
+msgstr "카브닉 I-a"
 
 # EDID: KavnykIIPlanetData, REC: PNDT:FULL
 msgctxt "00072E"
 msgid "Kavnyk II"
-msgstr ""
+msgstr "카브닉 II"
 
 # EDID: KavnykIPlanetData, REC: PNDT:FULL
 msgctxt "00072F"
 msgid "Kavnyk I"
-msgstr ""
+msgstr "카브닉 I"
 
 # EDID: SFBGS001FrozenLifeVaruunkai, REC: BIOM:FULL
 msgctxt "000730"
@@ -1641,6 +1641,8 @@ msgid ""
 "Overload the Vortex Gate "
 "(<Global=SFBGS001LC06_VortexGateModulatorsDestroyedCurrent>/<Global=SFBGS001LC06_VortexGateModulatorsDestroyedTotal>)"
 msgstr ""
+"볼텍스 차원문 과부하시키기 (<Global=SFBGS001LC06_VortexGateModulatorsDestroyedCurrent>/<G"
+"lobal=SFBGS001LC06_VortexGateModulatorsDestroyedTotal>)"
 
 # EDID: SFBGS001_MQ06, REC: QUST:NNAM
 msgctxt "000769"
@@ -1860,72 +1862,72 @@ msgstr ""
 # EDID: SFBGS001_MS01_MinistryOfCommerceOfficial01, REC: NPC_:FULL
 msgctxt "000B44"
 msgid "Medical Robot VK-1736"
-msgstr ""
+msgstr "의료용 로봇 VK-1736"
 
 # EDID: SFBGS001_CREW_Elite_SahimaKadic, REC: NPC_:FULL
 msgctxt "000B46"
 msgid "Sahima Ka'dic"
-msgstr ""
+msgstr "사히마 카딕"
 
 # EDID: SFBGS001_HV_MaliborDulkehf, REC: NPC_:FULL
 msgctxt "000B47"
 msgid "Malibor Dul'kehf"
-msgstr ""
+msgstr "말리보어 둘케프"
 
 # EDID: SFBGS001_HV_InazaKaisir, REC: NPC_:FULL
 msgctxt "000B48"
 msgid "Inaza Kaisir"
-msgstr ""
+msgstr "이나자 카이시르"
 
 # EDID: SFBGS001_MS01_HV_OchimKadic, REC: NPC_:FULL
 msgctxt "000B49"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVortexHorrorSmall08, REC: NPC_:FULL
 msgctxt "000B4A"
 msgid "Dread Vortex Horrorling"
-msgstr ""
+msgstr "두려운 볼텍스 호러링"
 
 # EDID: SFBGS001_EncVortexSpawn01_Template, REC: NPC_:FULL
 msgctxt "000B4B"
 msgid "Dim Vortex Spawn"
-msgstr ""
+msgstr "어둑한 볼텍스 스폰"
 
 # EDID: SFBGS001_EncVortexSpawn02, REC: NPC_:FULL
 msgctxt "000B4C"
 msgid "Dull Vortex Spawn"
-msgstr ""
+msgstr "흐릿한 볼텍스 스폰"
 
 # EDID: SFBGS001_EncVortexSpawn03, REC: NPC_:FULL
 msgctxt "000B4D"
 msgid "Faint Vortex Spawn"
-msgstr ""
+msgstr "희미한 볼텍스 스폰"
 
 # EDID: SFBGS001_EncVortexHorror06, REC: NPC_:FULL
 msgctxt "000B4E"
 msgid "Ruinous Vortex Horror"
-msgstr ""
+msgstr "황폐한 볼텍스 호러"
 
 # EDID: SFBGS001_EncVortexSpawn05, REC: NPC_:FULL
 msgctxt "000B4F"
 msgid "Focused Vortex Spawn"
-msgstr ""
+msgstr "명확한 볼텍스 스폰"
 
 # EDID: SFBGS001_EncVortexSpawn06, REC: NPC_:FULL
 msgctxt "000B50"
 msgid "Distinct Vortex Spawn"
-msgstr ""
+msgstr "뚜렷한 볼텍스 스폰"
 
 # EDID: SFBGS001_EncVortexSpawn07, REC: NPC_:FULL
 msgctxt "000B51"
 msgid "Lucid Vortex Spawn"
-msgstr ""
+msgstr "명료한 볼텍스 스폰"
 
 # EDID: SFBGS001_EncVortexSpawn08, REC: NPC_:FULL
 msgctxt "000B52"
 msgid "Vivid Vortex Spawn"
-msgstr ""
+msgstr "선명한 볼텍스 스폰"
 
 # EDID: SFBGS001_ParasiteA_VortexSpawn, REC: NPC_:FULL
 msgctxt "000B53"
@@ -1940,92 +1942,92 @@ msgstr ""
 # EDID: SFBGS001_MQ01_Announcer_NoAppearanceData, REC: NPC_:FULL
 msgctxt "000B55"
 msgid "Announcer"
-msgstr ""
+msgstr "안내 방송"
 
 # EDID: SFBGS001_CREW_Elite_TaneSalavea, REC: NPC_:FULL
 msgctxt "000B57"
 msgid "Tane Salavea"
-msgstr ""
+msgstr "타네 샐라베아"
 
 # EDID: SFBGS001_EncVortexSpawn04, REC: NPC_:FULL
 msgctxt "000B58"
 msgid "Pale Vortex Spawn"
-msgstr ""
+msgstr "창백한 볼텍스 스폰"
 
 # EDID: SFBGS001_EncVortexHorror01_Template, REC: NPC_:FULL
 msgctxt "000B5A"
 msgid "Vortex Horror"
-msgstr ""
+msgstr "볼텍스 호러"
 
 # EDID: SFBGS001_EncVortexHorrorSmall02, REC: NPC_:FULL
 msgctxt "000B5B"
 msgid "Tainted Vortex Horrorling"
-msgstr ""
+msgstr "오염된 볼텍스 호러링"
 
 # EDID: SFBGS001_EncVortexHorror02, REC: NPC_:FULL
 msgctxt "000B5C"
 msgid "Tainted Vortex Horror"
-msgstr ""
+msgstr "오염된 볼텍스 호러"
 
 # EDID: SFBGS001_EncVortexHorror03, REC: NPC_:FULL
 msgctxt "000B5D"
 msgid "Foul Vortex Horror"
-msgstr ""
+msgstr "부정한 볼텍스 호러"
 
 # EDID: SFBGS001_MS01_MinistryOfCommerceOfficial02, REC: NPC_:FULL
 msgctxt "000B5E"
 msgid "Executor"
-msgstr ""
+msgstr "집행자"
 
 # EDID: SFBGS001_EncVortexHorror07, REC: NPC_:FULL
 msgctxt "000B5F"
 msgid "Dire Vortex Horror"
-msgstr ""
+msgstr "끔찍한 볼텍스 호러"
 
 # EDID: SFBGS001_EncVortexHorror08, REC: NPC_:FULL
 msgctxt "000B60"
 msgid "Dread Vortex Horror"
-msgstr ""
+msgstr "두려운 볼텍스 호러"
 
 # EDID: SFBGS001_EncVortexHorror04, REC: NPC_:FULL
 msgctxt "000B61"
 msgid "Wretched Vortex Horror"
-msgstr ""
+msgstr "비참한 볼텍스 호러"
 
 # EDID: SFBGS001_EncVortexHorror05, REC: NPC_:FULL
 msgctxt "000B62"
 msgid "Vile Vortex Horror"
-msgstr ""
+msgstr "불쾌한 볼텍스 호러"
 
 # EDID: SFBGS001_EncVortexHorrorSmall07, REC: NPC_:FULL
 msgctxt "000B63"
 msgid "Dire Vortex Horrorling"
-msgstr ""
+msgstr "끔찍한 볼텍스 호러링"
 
 # EDID: SFBGS001_EncVortexHorrorSmall06, REC: NPC_:FULL
 msgctxt "000B64"
 msgid "Ruinous Vortex Horrorling"
-msgstr ""
+msgstr "황폐한 볼텍스 호러링"
 
 # EDID: SFBGS001_EncVortexHorrorSmall05, REC: NPC_:FULL
 msgctxt "000B65"
 msgid "Vile Vortex Horrorling"
-msgstr ""
+msgstr "불쾌한 볼텍스 호러링"
 
 # EDID: SFBGS001_EncVortexHorrorSmall04, REC: NPC_:FULL
 msgctxt "000B66"
 msgid "Wretched Vortex Horrorling"
-msgstr ""
+msgstr "비참한 볼텍스 호러링"
 
 # EDID: SFBGS001_EncVortexHorrorSmall03, REC: NPC_:FULL
 msgctxt "000B67"
 msgid "Foul Vortex Horrorling"
-msgstr ""
+msgstr "부정한 볼텍스 호러링"
 
 # EDID: SFBGS001_EncVortexHorrorSmall01_Template, REC: NPC_:FULL
 msgctxt "000B68"
 msgid "Vortex Horrorling"
-msgstr ""
+msgstr "볼텍스 호러링"
 
 # EDID: SFBGS001_MS01_HV_MujeenKadic, REC: NPC_:FULL
 msgctxt "000B69"
@@ -2110,7 +2112,7 @@ msgstr ""
 # EDID: SFBGS001LC20_SlateCrate, REC: CONT:FULL
 msgctxt "000B7C"
 msgid "Storage Box"
-msgstr ""
+msgstr "보관 상자"
 
 # EDID: SFBGS001_MS01_TevinaStateEvidence03, REC: BOOK:FULL
 msgctxt "000B7E"
@@ -2235,42 +2237,42 @@ msgstr ""
 # EDID: SFBGS001TreePineWispLeaves_DarkRed_Swap_Keyword01, REC: KYWD:FULL
 msgctxt "000BA0"
 msgid "TreePineWispLeaves_DarkRed_Swap"
-msgstr ""
+msgstr "TreePineWispLeaves_DarkRed_Swap"
 
 # EDID: SFBGS001TreePineWispBark_Pale_Swap_Keyword01, REC: KYWD:FULL
 msgctxt "000BA1"
 msgid "TreePineWispBark_Pale_Swap"
-msgstr ""
+msgstr "TreePineWispBark_Pale_Swap"
 
 # EDID: KavnykII-ePlanetData, REC: PNDT:FULL
 msgctxt "000BA2"
 msgid "Kavnyk II-e"
-msgstr ""
+msgstr "카브닉 II-e"
 
 # EDID: KavnykII-dPlanetData, REC: PNDT:FULL
 msgctxt "000BA3"
 msgid "Kavnyk II-d"
-msgstr ""
+msgstr "카브닉 II-d"
 
 # EDID: KavnykII-cPlanetData, REC: PNDT:FULL
 msgctxt "000BA4"
 msgid "Kavnyk II-c"
-msgstr ""
+msgstr "카브닉 II-c"
 
 # EDID: KavnykII-bPlanetData, REC: PNDT:FULL
 msgctxt "000BA5"
 msgid "Kavnyk II-b"
-msgstr ""
+msgstr "카브닉 II-b"
 
 # EDID: KavnykII-aPlanetData, REC: PNDT:FULL
 msgctxt "000BA6"
 msgid "Kavnyk II-a"
-msgstr ""
+msgstr "카브닉 II-a"
 
 # EDID: KavnykI-cPlanetData, REC: PNDT:FULL
 msgctxt "000BA7"
 msgid "Kavnyk I-c"
-msgstr ""
+msgstr "카브닉 I-c"
 
 # EDID: SFBGS001DesertSandyLifeVaruunkai, REC: BIOM:FULL
 msgctxt "000BA8"
@@ -2335,12 +2337,12 @@ msgstr ""
 # EDID: SFBGS001_MS01_MujeenComputerDesktop, REC: TMLM:ITXT
 msgctxt "000C15"
 msgid "The Accident"
-msgstr ""
+msgstr "사고"
 
 # EDID: _SFBGS001_LC01OrbitPlanetData, REC: PNDT:FULL
 msgctxt "000C16"
 msgid "The Oracle"
-msgstr ""
+msgstr "오라클"
 
 # EDID: SFBGS001LC05ResearchSiteLocation, REC: LCTN:FULL
 msgctxt "000C1B"
@@ -2520,7 +2522,7 @@ msgstr ""
 # EDID: SFBGS001_EncVortexPhantom01Template, REC: NPC_:FULL
 msgctxt "000D14"
 msgid "Vortex Phantom"
-msgstr ""
+msgstr "볼텍스 팬텀"
 
 # EDID: SFBGS001_AmmoParticleRocket, REC: AMMO:ONAM
 msgctxt "000D15"
@@ -2615,12 +2617,12 @@ msgstr ""
 # EDID: SFBGS001_Human_Male_Hair_Back_Buzz, REC: HDPT:FULL
 msgctxt "000D41"
 msgid "Human_Male_Hair_Back_Buzz"
-msgstr ""
+msgstr "Human_Male_Hair_Back_Buzz"
 
 # EDID: SFBGS001_Human_Female_Hair_Back_Buzz, REC: HDPT:FULL
 msgctxt "000D42"
 msgid "Human_Female_Hair_Back_Buzz"
-msgstr ""
+msgstr "Human_Female_Hair_Back_Buzz"
 
 # EDID: SFBGS001_MS01_OchimDesktop, REC: TMLM:UNAM
 msgctxt "000D43"
@@ -2736,22 +2738,22 @@ msgstr ""
 # EDID: SFBGS001_Human_Female_Hair_Messy_Mullet, REC: HDPT:FULL
 msgctxt "000D86"
 msgid "Human_Female_Hair_Messy_Mullet"
-msgstr ""
+msgstr "Human_Female_Hair_Messy_Mullet"
 
 # EDID: SFBGS001_Human_Male_Hair_Messy_Mullet, REC: HDPT:FULL
 msgctxt "000D87"
 msgid "Human_Male_Hair_Back_Buzz"
-msgstr ""
+msgstr "Human_Male_Hair_Back_Buzz"
 
 # EDID: SFBGS001_Human_Female_Hair_Shaved_Top_Knot, REC: HDPT:FULL
 msgctxt "000D88"
 msgid "Human_Female_Hair_Shaved_Top_Knot"
-msgstr ""
+msgstr "Human_Female_Hair_Shaved_Top_Knot"
 
 # EDID: SFBGS001_Human_Male_Hair_Shaved_Top_Knot, REC: HDPT:FULL
 msgctxt "000D89"
 msgid "Human_Male_Hair_Shaved_Top_Knot"
-msgstr ""
+msgstr "Human_Male_Hair_Shaved_Top_Knot"
 
 # EDID: SFBGS001_MS01_OchimDesktop_SubMenu01, REC: TMLM:UNAM
 msgctxt "000D8A"
@@ -3753,7 +3755,7 @@ msgstr ""
 # EDID: SFBGS001_EncVortexSpawn00, REC: NPC_:FULL
 msgctxt "001287"
 msgid "Vortex Spawn"
-msgstr ""
+msgstr "볼텍스 스폰"
 
 # EDID: SFBGS001_EncTerrormorph01Template_SpawnTest, REC: NPC_:FULL
 msgctxt "001288"
@@ -3943,37 +3945,37 @@ msgstr ""
 # EDID: SFBGS001_EncVortexPhantom08, REC: NPC_:FULL
 msgctxt "001386"
 msgid "Unforgiving Vortex Phantom"
-msgstr ""
+msgstr "지독한 볼텍스 팬텀"
 
 # EDID: SFBGS001_EncVortexPhantom07, REC: NPC_:FULL
 msgctxt "001387"
 msgid "Harrowing Vortex Phantom"
-msgstr ""
+msgstr "참혹한 볼텍스 팬텀"
 
 # EDID: SFBGS001_EncVortexPhantom06, REC: NPC_:FULL
 msgctxt "001388"
 msgid "Anguished Vortex Phantom"
-msgstr ""
+msgstr "고뇌하는 볼텍스 팬텀"
 
 # EDID: SFBGS001_EncVortexPhantom05, REC: NPC_:FULL
 msgctxt "001389"
 msgid "Forlorn Vortex Phantom"
-msgstr ""
+msgstr "허망한 볼텍스 팬텀"
 
 # EDID: SFBGS001_EncVortexPhantom04, REC: NPC_:FULL
 msgctxt "00138A"
 msgid "Grim Vortex Phantom"
-msgstr ""
+msgstr "음침한 볼텍스 팬텀"
 
 # EDID: SFBGS001_EncVortexPhantom03, REC: NPC_:FULL
 msgctxt "00138B"
 msgid "Woeful Vortex Phantom"
-msgstr ""
+msgstr "비통한 볼텍스 팬텀"
 
 # EDID: SFBGS001_EncVortexPhantom02, REC: NPC_:FULL
 msgctxt "00138C"
 msgid "Hopeless Vortex Phantom"
-msgstr ""
+msgstr "절망하는 볼텍스 팬텀"
 
 # EDID: SFBGS001_DazraZ01, REC: QUST:FULL
 msgctxt "00138D"
@@ -4058,22 +4060,22 @@ msgstr ""
 # EDID: SFBGS001FloraLifebell_Varuun_Swap_Keyword01, REC: KYWD:FULL
 msgctxt "0013E4"
 msgid "FloraLifebell_Varuun_Swap"
-msgstr ""
+msgstr "FloraLifebell_Varuun_Swap"
 
 # EDID: SFBGS001FloraGrappleBloom_Varuun_Swap_Keyword01, REC: KYWD:FULL
 msgctxt "0013E5"
 msgid "FloraGrappleBloom_Varuun_Swap"
-msgstr ""
+msgstr "FloraGrappleBloom_Varuun_Swap"
 
 # EDID: SFBGS001FloraHangingPalm_Varuun_Swap_Keyword01, REC: KYWD:FULL
 msgctxt "0013E6"
 msgid "FloraHangingPalm_Varuun_Swap"
-msgstr ""
+msgstr "FloraHangingPalm_Varuun_Swap"
 
 # EDID: SFBGS001FloraChitinousSponge_Varuun_Swap_Keyword01, REC: KYWD:FULL
 msgctxt "0013E7"
 msgid "FloraChitinousSponge_Varuun_Swap"
-msgstr ""
+msgstr "FloraChitinousSponge_Varuun_Swap"
 
 # EDID: SFBGS001_SE_VaruunMissionary_Name, REC: MESG:FULL
 msgctxt "0013E8"
@@ -4413,17 +4415,17 @@ msgstr ""
 # EDID: SFBGS001_MS02_OrahimFaction, REC: FACT:FULL
 msgctxt "0016A1"
 msgid "Orahim Faction"
-msgstr ""
+msgstr "오라힘 세력"
 
 # EDID: SFBGS001_MS02_ZealotFaction, REC: FACT:FULL
 msgctxt "0016A2"
 msgid "Zealot Faction"
-msgstr ""
+msgstr "광신도 세력"
 
 # EDID: SFBGS001_MS02_KhaslavFaction, REC: FACT:FULL
 msgctxt "0016A3"
 msgid "Khaslav Faction"
-msgstr ""
+msgstr "카슬라프 세력"
 
 # EDID: SFBGS001_MQ05_InfoTerminal02Menu, REC: TMLM:ITXT
 msgctxt "0016A4"
@@ -4667,7 +4669,7 @@ msgstr ""
 # EDID: SFBGS001_Container_Reigen_Safe, REC: CONT:FULL
 msgctxt "001812"
 msgid "Safe"
-msgstr ""
+msgstr "금고"
 
 # EDID: SFBGS001_VkaiZ03_AudioSlate04, REC: BOOK:FNAM
 msgctxt "001813"
@@ -5377,7 +5379,7 @@ msgstr ""
 # CONT:FULL
 msgctxt "001C1F"
 msgid "Safe"
-msgstr ""
+msgstr "금고"
 
 # EDID: SFBGS001LC02_Loot_Storage_Cooler01_NoFoodOrDrink, REC: CONT:FULL
 msgctxt "001C20"
@@ -5432,7 +5434,7 @@ msgstr ""
 # EDID: SFBGS001_Citadel_PI, REC: PKIN:FULL
 msgctxt "001CBC"
 msgid "SFBGS001_Citadel_PI"
-msgstr ""
+msgstr "SFBGS001_Citadel_PI"
 
 # EDID: SFBGS001LC06_nativeTerminalDNLocalAlarm, REC: TMLM:UNAM
 msgctxt "001CBD"
@@ -5723,9 +5725,10 @@ msgid "Ship Departure Records"
 msgstr ""
 
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
+#, fuzzy
 msgctxt "001D83"
 msgid "Restore Power to the Depot (<Global=SFBGS001_MS01_PowerCellGlobal>/4)"
-msgstr ""
+msgstr "보급 기지 동력 복구 (<Global=SFBGS001_MS01_PowerCellGlobal>/4)"
 
 # EDID: SFBGS001_MS01_UkaruClue00, REC: BOOK:FNAM
 msgctxt "001D86"
@@ -5790,7 +5793,7 @@ msgstr ""
 # EDID: SFBGS001LC06_BattleDamageModPerk, REC: PERK:FULL
 msgctxt "001DA4"
 msgid "SFBGS001LC06_BattleDamageModPerk"
-msgstr ""
+msgstr "SFBGS001LC06_BattleDamageModPerk"
 
 # EDID: SFBGS001_DazraZ02, REC: QUST:NNAM
 msgctxt "001DC1"
@@ -5830,17 +5833,17 @@ msgstr ""
 # EDID: SFBGS001_EncVortexPhantom00, REC: NPC_:FULL
 msgctxt "001DFC"
 msgid "Vortex Phantom"
-msgstr ""
+msgstr "볼텍스 팬텀"
 
 # EDID: SFBGS001_Loot_Corpse_VortexPhantomM_Fresh02, REC: NPC_:FULL
 msgctxt "001DFD"
 msgid "Vortex Phantom"
-msgstr ""
+msgstr "볼텍스 팬텀"
 
 # EDID: SFBGS001_Loot_Corpse_VortexPhantomM_Fresh01, REC: NPC_:FULL
 msgctxt "001DFE"
 msgid "Vortex Phantom"
-msgstr ""
+msgstr "볼텍스 팬텀"
 
 # EDID: SFBGS001_HV_EkrisKaisir, REC: NPC_:FULL
 msgctxt "001E00"
@@ -5850,12 +5853,12 @@ msgstr ""
 # EDID: SFBGS001_Loot_Corpse_VortexPhantomF_Fresh01, REC: NPC_:FULL
 msgctxt "001E02"
 msgid "Vortex Phantom"
-msgstr ""
+msgstr "볼텍스 팬텀"
 
 # EDID: SFBGS001_Loot_Corpse_VortexPhantomF_Fresh02, REC: NPC_:FULL
 msgctxt "001E03"
 msgid "Vortex Phantom"
-msgstr ""
+msgstr "볼텍스 팬텀"
 
 # EDID: SFBGS001_BenchA_1Way01, REC: FURN:FULL
 msgctxt "001E05"
@@ -6269,7 +6272,7 @@ msgstr ""
 # EDID: SFBGS001_Citadel_Platform_PI, REC: PKIN:FULL
 msgctxt "002186"
 msgid "SFBGS001_Citadel_Platform_PI"
-msgstr ""
+msgstr "SFBGS001_Citadel_Platform_PI"
 
 # EDID: SFBGS001_MS03, REC: QUST:NNAM
 msgctxt "002217"
@@ -6394,17 +6397,17 @@ msgstr ""
 # EDID: SFBGS001_Citadel_DoorFrame_01_PI, REC: PKIN:FULL
 msgctxt "002309"
 msgid "SFBGS001_Citadel_DoorFrame_01_PI"
-msgstr ""
+msgstr "SFBGS001_Citadel_DoorFrame_01_PI"
 
 # EDID: SFBGS001_Citadel_Kit_Collumn_02_PI, REC: PKIN:FULL
 msgctxt "00230A"
 msgid "SFBGS001_Citadel_Kit_Collumn_02_PI"
-msgstr ""
+msgstr "SFBGS001_Citadel_Kit_Collumn_02_PI"
 
 # EDID: SFBGS001_Citadel_Kit_PanelWall01_PI, REC: PKIN:FULL
 msgctxt "00230B"
 msgid "SFBGS001_Citadel_Kit_PanelWall01"
-msgstr ""
+msgstr "SFBGS001_Citadel_Kit_PanelWall01"
 
 # EDID: SFBGS001_GenericDazraCitizen_Male02, REC: NPC_:FULL
 msgctxt "00235A"
@@ -6660,22 +6663,22 @@ msgstr ""
 # EDID: SFBGS001_DazraGenericHealerFaction, REC: FACT:FULL
 msgctxt "0023B2"
 msgid "Generic NPC faction"
-msgstr ""
+msgstr "일반 NPC 세력"
 
 # EDID: SFBGS001_DazraGenericSoldierFaction, REC: FACT:FULL
 msgctxt "0023B3"
 msgid "Generic NPC faction"
-msgstr ""
+msgstr "일반 NPC 세력"
 
 # EDID: SFBGS001_DazraGenericChildFaction, REC: FACT:FULL
 msgctxt "0023B4"
 msgid "Generic NPC faction"
-msgstr ""
+msgstr "일반 NPC 세력"
 
 # EDID: SFBGS001_DazraGenericFaction, REC: FACT:FULL
 msgctxt "0023B5"
 msgid "Generic NPC faction"
-msgstr ""
+msgstr "일반 NPC 세력"
 
 # EDID: SFBGS001_mod_CCT_Skin_QuadrupedAGroatFemale, REC: OMOD:FULL
 msgctxt "0023B7"
@@ -6876,12 +6879,12 @@ msgstr ""
 # EDID: SFBGS001_DazraGenericWorkerFaction, REC: FACT:FULL
 msgctxt "0024D3"
 msgid "Generic NPC faction"
-msgstr ""
+msgstr "일반 NPC 세력"
 
 # EDID: SFBGS001_DazraGenericCitizenFaction, REC: FACT:FULL
 msgctxt "0024D4"
 msgid "Generic NPC faction"
-msgstr ""
+msgstr "일반 NPC 세력"
 
 # EDID: SFBGS001_AnimHelper_MourningDevice_Screen01_TiltAxis01, REC: ACTI:FULL
 msgctxt "00250B"
@@ -6926,7 +6929,7 @@ msgstr ""
 # EDID: SFBGS001_SQ_Group_Faction_List_VaruunAll, REC: FLST:FULL
 msgctxt "002596"
 msgid "ONLY SQ_Group_Faction_XXX objects with SQ_GroupScript attached allowed"
-msgstr ""
+msgstr "ONLY SQ_Group_Faction_XXX objects with SQ_GroupScript attached allowed"
 
 # EDID: SFBGS001_SQ_Group_Faction_VaruunHouseA, REC: ACTI:FULL
 msgctxt "0025C9"
@@ -6941,22 +6944,22 @@ msgstr ""
 # EDID: SFBGS001_CaveFungi06_BubbleGlow_NoEmissive_Keyword, REC: KYWD:FULL
 msgctxt "0025CB"
 msgid "SFBGS001_CaveFungi06_BubbleGlow_NoEmissive"
-msgstr ""
+msgstr "SFBGS001_CaveFungi06_BubbleGlow_NoEmissive"
 
 # EDID: SFBGS001_CaveFungi05_BubbleGlow_NoEmissive_Keyword, REC: KYWD:FULL
 msgctxt "0025CC"
 msgid "SFBGS001_CaveFungi05_BubbleGlow_NoEmissive"
-msgstr ""
+msgstr "SFBGS001_CaveFungi05_BubbleGlow_NoEmissive"
 
 # EDID: SFBGS001_CaveFungi04_BubbleGlow_NoEmissive_Keyword, REC: KYWD:FULL
 msgctxt "0025CD"
 msgid "SFBGS001_CaveFungi04_BubbleGlow_NoEmissive"
-msgstr ""
+msgstr "SFBGS001_CaveFungi04_BubbleGlow_NoEmissive"
 
 # EDID: SFBGS001_CaveFungi03_BubbleGlow_NoEmissive_Keyword, REC: KYWD:FULL
 msgctxt "0025CE"
 msgid "SFBGS001_CaveFungi03_BubbleGlow_NoEmissive"
-msgstr ""
+msgstr "SFBGS001_CaveFungi03_BubbleGlow_NoEmissive"
 
 # EDID: SFBGS001RefugeeCampElevatorMessage_Floor02, REC: MESG:FULL
 msgctxt "0025CF"
@@ -6976,57 +6979,57 @@ msgstr ""
 # EDID: SFBGS001_VortexCraterEdgeCliff07, REC: PKIN:FULL
 msgctxt "0025D4"
 msgid "SFBGS001_VortexCraterEdgeCliff01"
-msgstr ""
+msgstr "SFBGS001_VortexCraterEdgeCliff01"
 
 # EDID: SFBGS001_VortexCraterTunnel01, REC: PKIN:FULL
 msgctxt "0025D5"
 msgid "SFBGS001_VortexCraterTunnel01"
-msgstr ""
+msgstr "SFBGS001_VortexCraterTunnel01"
 
 # EDID: SFBGS001_VortexCraterEdgeCliff01, REC: PKIN:FULL
 msgctxt "0025D6"
 msgid "SFBGS001_VortexCraterEdgeCliff01"
-msgstr ""
+msgstr "SFBGS001_VortexCraterEdgeCliff01"
 
 # EDID: SFBGS001_VortexCraterEdgeCliff03, REC: PKIN:FULL
 msgctxt "0025D7"
 msgid "SFBGS001_VortexCraterEdgeCliff01"
-msgstr ""
+msgstr "SFBGS001_VortexCraterEdgeCliff01"
 
 # EDID: SFBGS001_VortexCraterEdgeCliff05, REC: PKIN:FULL
 msgctxt "0025D8"
 msgid "SFBGS001_VortexCraterEdgeCliff01"
-msgstr ""
+msgstr "SFBGS001_VortexCraterEdgeCliff01"
 
 # EDID: SFBGS001_VortexCraterEdgeCliff06, REC: PKIN:FULL
 msgctxt "0025D9"
 msgid "SFBGS001_VortexCraterEdgeCliff01"
-msgstr ""
+msgstr "SFBGS001_VortexCraterEdgeCliff01"
 
 # EDID: SFBGS001_VortexCraterEdgeCliff02, REC: PKIN:FULL
 msgctxt "0025DA"
 msgid "SFBGS001_VortexCraterEdgeCliff01"
-msgstr ""
+msgstr "SFBGS001_VortexCraterEdgeCliff01"
 
 # EDID: SFBGS001_VortexCraterEdgeCliff04, REC: PKIN:FULL
 msgctxt "0025DB"
 msgid "SFBGS001_VortexCraterEdgeCliff01"
-msgstr ""
+msgstr "SFBGS001_VortexCraterEdgeCliff01"
 
 # EDID: SFBGS001_VortexCraterTunnel02, REC: PKIN:FULL
 msgctxt "0025DC"
 msgid "SFBGS001_VortexCraterTunnel01"
-msgstr ""
+msgstr "SFBGS001_VortexCraterTunnel01"
 
 # EDID: SFBGS001_VortexCraterTunnel03, REC: PKIN:FULL
 msgctxt "0025DD"
 msgid "SFBGS001_VortexCraterTunnel01"
-msgstr ""
+msgstr "SFBGS001_VortexCraterTunnel01"
 
 # EDID: SFBGS001_VortexCraterTunnel04, REC: PKIN:FULL
 msgctxt "0025DE"
 msgid "SFBGS001_VortexCraterTunnel01"
-msgstr ""
+msgstr "SFBGS001_VortexCraterTunnel01"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Prey01_Groat_Female_Corpse, REC:
 # NPC_:FULL
@@ -7107,17 +7110,17 @@ msgstr ""
 # EDID: SFBGS001_VortexTunnelArch02, REC: PKIN:FULL
 msgctxt "002660"
 msgid "SFBGS001_VortexTunnelArch02"
-msgstr ""
+msgstr "SFBGS001_VortexTunnelArch02"
 
 # EDID: SFBGS001_VortexTunnelArch03, REC: PKIN:FULL
 msgctxt "002661"
 msgid "SFBGS001_VortexTunnelArch01"
-msgstr ""
+msgstr "SFBGS001_VortexTunnelArch01"
 
 # EDID: SFBGS001_VortexTunnelArch01, REC: PKIN:FULL
 msgctxt "002662"
 msgid "SFBGS001_VortexTunnelArch01"
-msgstr ""
+msgstr "SFBGS001_VortexTunnelArch01"
 
 # EDID: SFBGS001LC21_BarnStorageKey, REC: KEYM:FULL
 msgctxt "00266D"
@@ -7153,7 +7156,7 @@ msgstr ""
 # EDID: SFBGS001_Citadel_PICOPY0000, REC: PKIN:FULL
 msgctxt "0026B2"
 msgid "SFBGS001_Citadel_PI"
-msgstr ""
+msgstr "SFBGS001_Citadel_PI"
 
 # EDID: SFBGS001_mod_CCT_Skin_BipedABladedBack_VaruunkaiDeCa, REC: OMOD:FULL
 msgctxt "00272E"
@@ -7209,7 +7212,7 @@ msgstr ""
 # EDID: SFBGS001_VortexHorror_Ranged_Weapon, REC: WEAP:FULL
 msgctxt "00C2A2"
 msgid "VortexHorror_Ranged"
-msgstr ""
+msgstr "VortexHorror_Ranged"
 
 # EDID: [0100879C], REC: REFR:FULL
 msgctxt "00F54D"
@@ -7262,9 +7265,10 @@ msgid "Qisrani's Access Approval"
 msgstr ""
 
 # EDID: SFBGS001_MS01Vendor_ShipServicesFaction, REC: FACT:FULL
+#, fuzzy
 msgctxt "011040"
 msgid "Ship Services Vendor Faction"
-msgstr ""
+msgstr "함선 정비 기술자 상인 세력"
 
 # EDID: SFBGS001_mod_ParticleMachineGun_Muzzle_SpreadNozzle, REC: OMOD:FULL
 msgctxt "011041"
@@ -7517,7 +7521,7 @@ msgstr ""
 # EDID: SFBGS001_DazraZ02_RewardSafe, REC: CONT:FULL
 msgctxt "01113F"
 msgid "Safe"
-msgstr ""
+msgstr "금고"
 
 # EDID: SFBGS001_VortexCore_02_Damaged, REC: MISC:FULL
 msgctxt "011142"
@@ -7728,7 +7732,7 @@ msgstr ""
 # EDID: SFBGS001_Citadel_Kit_WallStr12x16_01_PI, REC: PKIN:FULL
 msgctxt "01119A"
 msgid "SFBGS001_Citadel_Kit_WallStr12x16_01_PI"
-msgstr ""
+msgstr "SFBGS001_Citadel_Kit_WallStr12x16_01_PI"
 
 # EDID: SFBGS001_MQ01_BasiraLog, REC: BOOK:FULL
 msgctxt "01119C"
@@ -7995,7 +7999,7 @@ msgstr ""
 # EDID: SFBGS001_MS01Crate, REC: CONT:FULL
 msgctxt "011370"
 msgid "Storage Box"
-msgstr ""
+msgstr "보관 상자"
 
 # EDID: SFBGS001LC48_BossKey, REC: KEYM:FULL
 msgctxt "01137B"
@@ -8135,22 +8139,22 @@ msgstr ""
 # EDID: SFBGS001_VortexCraterEdgeSpike02, REC: PKIN:FULL
 msgctxt "011568"
 msgid "SFBGS001_VortexCraterEdgeSpike01"
-msgstr ""
+msgstr "SFBGS001_VortexCraterEdgeSpike01"
 
 # EDID: SFBGS001_VortexCraterEdgeSpike03, REC: PKIN:FULL
 msgctxt "011569"
 msgid "SFBGS001_VortexCraterEdgeSpike01"
-msgstr ""
+msgstr "SFBGS001_VortexCraterEdgeSpike01"
 
 # EDID: SFBGS001_VortexCraterEdgeSpike04, REC: PKIN:FULL
 msgctxt "01156A"
 msgid "SFBGS001_VortexCraterEdgeSpike01"
-msgstr ""
+msgstr "SFBGS001_VortexCraterEdgeSpike01"
 
 # EDID: SFBGS001_VortexCraterEdgeSpike01, REC: PKIN:FULL
 msgctxt "01156B"
 msgid "SFBGS001_VortexCraterEdgeSpike01"
-msgstr ""
+msgstr "SFBGS001_VortexCraterEdgeSpike01"
 
 # EDID: SFBGS001_Clothes_Security_Guard_Helmet_01_VaruunElite, REC: ARMO:FULL
 msgctxt "01156C"
@@ -8889,12 +8893,12 @@ msgstr ""
 # EDID: SFBGS001_SQ_Group_Faction_List_VaruunMilitary_Enemy, REC: FLST:FULL
 msgctxt "0118D0"
 msgid "ONLY SQ_Group_Faction_XXX objects with SQ_GroupScript attached allowed"
-msgstr ""
+msgstr "ONLY SQ_Group_Faction_XXX objects with SQ_GroupScript attached allowed"
 
 # EDID: SFBGS001_SQ_Group_Faction_List_VaruunCivilians, REC: FLST:FULL
 msgctxt "0118D1"
 msgid "ONLY SQ_Group_Faction_XXX objects with SQ_GroupScript attached allowed"
-msgstr ""
+msgstr "ONLY SQ_Group_Faction_XXX objects with SQ_GroupScript attached allowed"
 
 # EDID: SFBGS001_MB_Hunt01Local, REC: QUST:QMDP
 msgctxt "011930"
@@ -9028,7 +9032,7 @@ msgstr ""
 # EDID: SFBGS001LC06_AnaskoDamageModPerk, REC: PERK:FULL
 msgctxt "011B84"
 msgid "SFBGS001LC06_AnaskoDamageModPerk"
-msgstr ""
+msgstr "SFBGS001LC06_AnaskoDamageModPerk"
 
 # EDID: SFBGS001LC07_CellBlock_Terminal, REC: TERM:FULL
 msgctxt "011BB2"
@@ -9193,7 +9197,7 @@ msgstr ""
 # EDID: SFBGS001_VortexPhantom_ParticleProjectile_BigBang, REC: PROJ:FULL
 msgctxt "011C12"
 msgid "ParticleProjectile_BigBang"
-msgstr ""
+msgstr "ParticleProjectile_BigBang"
 
 # EDID: SFBGS001_VortexPhantom_ParticleProjectile_ParticleRocketLauncher, REC:
 # PROJ:FULL
@@ -9245,7 +9249,7 @@ msgstr ""
 # EDID: SFBGS001_DazraZ03_Hellos, REC: DIAL:FULL
 msgctxt "011C1D"
 msgid "SFBGS001_DazraZ03_Hellos"
-msgstr ""
+msgstr "SFBGS001_DazraZ03_Hellos"
 
 # EDID: SFBGS001OE05World, REC: WRLD:FULL
 msgctxt "011C61"
@@ -9939,9 +9943,10 @@ msgid "Research notes in new disease resistant variety"
 msgstr ""
 
 # EDID: SFBGS001LC18_ResearchTerminal_Genesis, REC: TMLM:BTXT
+#, fuzzy
 msgctxt "012161"
 msgid "_ Ongoing Operations LOG"
-msgstr ""
+msgstr "_ 진행 중인 작전 기록"
 
 # EDID: SFBGS001LC18_ResearchTerminal_Genesis, REC: TMLM:FULL
 msgctxt "012162"
@@ -9975,11 +9980,27 @@ msgid ""
 "    ://///////////////////////////////////////////////////////////////////////////////////////////////////////////\n"
 "UF4H05PI4J5R0934UIJP4///9UR-94RFORF;GODK[RPOFI34OERF3094O23///3U4UNR034R34//"
 msgstr ""
+":////////////////////////////////////////////////////////////////////////////"
+"//////////////////////////////////////\n"
+"_오류. 5 경고 감지됨.\n"
+"==aJHERFUBL2434F435RUIDFVVJVJAIFER///FREFIOEF//FE3134KNFEKFE==FEFME123KFME\n"
+"KJENFWUEHFIEFNE;IJFLKFKJDNLFVJZNDKFM.DLFKLAWEIF!!!3847028401231!!343ER\n"
+"==E\n"
+";LFKM32IJ4JN4JFD9IFAWEFM3O\n"
+"   ://///////////////////////////////////////////////////////////////////////"
+"////////////////////////////////////////\n"
+"DWAERF78GU8FG0P893449FF44444444444\n"
+" ===HTHTH389RI8J8EFMF9\n"
+"_사용자 입력 처리\n"
+"_현재 상태 == 실패\n"
+"    :////////////////////////////////////////////////////////////////////////"
+"/////////////////////////////////////\n"
+"UF4H05PI4J5R0934UIJP4///9UR-94RFORF;GODK[RPOFI34OERF3094O23///3U4UNR034R34//"
 
 # EDID: SFBGS001LC18_SecurityTerminal_Genesis, REC: TMLM:ITXT
 msgctxt "012166"
 msgid "_LOG_38583650-0"
-msgstr ""
+msgstr "_기록_38583650-0"
 
 # EDID: SFBGS001LC18_SecurityTerminal_Genesis, REC: TMLM:UNAM
 msgctxt "012167"
@@ -9992,7 +10013,7 @@ msgstr ""
 # EDID: SFBGS001LC18_SecurityTerminal_Genesis, REC: TMLM:ITXT
 msgctxt "012168"
 msgid "_LOG_38583649-2"
-msgstr ""
+msgstr "_기록_38583649-2"
 
 # EDID: SFBGS001LC18_SecurityTerminal_Genesis, REC: TMLM:UNAM
 msgctxt "012169"
@@ -10008,7 +10029,7 @@ msgstr ""
 # EDID: SFBGS001LC18_SecurityTerminal_Genesis, REC: TMLM:ITXT
 msgctxt "01216A"
 msgid "_LOG_38583649-1"
-msgstr ""
+msgstr "_기록_38583649-1"
 
 # EDID: SFBGS001LC18_SecurityTerminal_Genesis, REC: TMLM:UNAM
 msgctxt "01216B"
@@ -10023,7 +10044,7 @@ msgstr ""
 # EDID: SFBGS001LC18_SecurityTerminal_Genesis, REC: TMLM:ITXT
 msgctxt "01216C"
 msgid "_LOG_38583649-0"
-msgstr ""
+msgstr "_기록_38583649-0"
 
 # EDID: SFBGS001LC18_SecurityTerminal_Genesis, REC: TMLM:UNAM
 msgctxt "01216D"
@@ -10036,7 +10057,7 @@ msgstr ""
 # EDID: SFBGS001LC18_SecurityTerminal_Genesis, REC: TMLM:ITXT
 msgctxt "01216E"
 msgid "_LOG_38520357-1"
-msgstr ""
+msgstr "_기록_38520357-1"
 
 # EDID: SFBGS001LC18_SecurityTerminal_Genesis, REC: TMLM:UNAM
 msgctxt "01216F"
@@ -10049,12 +10070,12 @@ msgstr ""
 # EDID: SFBGS001LC18_SecurityTerminal_Genesis, REC: TMLM:ITXT
 msgctxt "012170"
 msgid "_LOG_38520357-0"
-msgstr ""
+msgstr "_기록_38520357-0"
 
 # EDID: SFBGS001LC18_SecurityTerminal_Genesis, REC: TMLM:BTXT
 msgctxt "012171"
 msgid "_ALARM LOGS"
-msgstr ""
+msgstr "_경보 기록"
 
 # EDID: SFBGS001LC18_SecurityTerminal_Genesis, REC: TMLM:FULL
 msgctxt "012172"
@@ -10850,22 +10871,22 @@ msgstr ""
 # EDID: SFBGS001_DamagedShipEffect04, REC: MSTT:FULL
 msgctxt "012684"
 msgid "SFBGS001_DamagedShipEffect01"
-msgstr ""
+msgstr "SFBGS001_DamagedShipEffect01"
 
 # EDID: SFBGS001_DamagedShipEffect03, REC: MSTT:FULL
 msgctxt "012685"
 msgid "SFBGS001_DamagedShipEffect01"
-msgstr ""
+msgstr "SFBGS001_DamagedShipEffect01"
 
 # EDID: SFBGS001_DamagedShipEffect02, REC: MSTT:FULL
 msgctxt "012686"
 msgid "SFBGS001_DamagedShipEffect01"
-msgstr ""
+msgstr "SFBGS001_DamagedShipEffect01"
 
 # EDID: SFBGS001_DamagedShipEffect01, REC: MSTT:FULL
 msgctxt "012687"
 msgid "SFBGS001_DamagedShipEffect01"
-msgstr ""
+msgstr "SFBGS001_DamagedShipEffect01"
 
 # EDID: SFBGS001_VortexShard, REC: MISC:FULL
 msgctxt "012688"
@@ -11247,7 +11268,7 @@ msgstr ""
 # EDID: Loot_Mannequin_Spacesuit_Male_Varuun_Zealot, REC: NPC_:ATTX
 msgctxt "01286B"
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 # EDID: Loot_Mannequin_Spacesuit_Male_Varuun_Zealot, REC: NPC_:FULL
 msgctxt "01286C"
@@ -11472,17 +11493,17 @@ msgstr ""
 # EDID: SFBGS001LC06_VortexGroat_Male, REC: NPC_:FULL
 msgctxt "01292A"
 msgid "Vortex Groat"
-msgstr ""
+msgstr "볼텍스 그로트"
 
 # EDID: SFBGS001LC06_VortexGroat_Female, REC: NPC_:FULL
 msgctxt "01292B"
 msgid "Vortex Groat"
-msgstr ""
+msgstr "볼텍스 그로트"
 
 # EDID: SFBGS001LC06_VortexGroat_Kid, REC: NPC_:FULL
 msgctxt "01292C"
 msgid "Vortex Groat"
-msgstr ""
+msgstr "볼텍스 그로트"
 
 # EDID: SFBGS001_HV_BE_MihaelDziri, REC: NPC_:FULL
 msgctxt "01292E"
@@ -12042,7 +12063,7 @@ msgstr ""
 # EDID: SFBGS001_LvlVortexPhantom_Assault_Aggro_Essential_Test, REC: NPC_:FULL
 msgctxt "0130FA"
 msgid "Essential Vortex Phantom"
-msgstr ""
+msgstr "에센셜 볼텍스 팬텀"
 
 # EDID: SFBGS001_VkaiZ03_Toyplushie_Dog01, REC: MISC:FULL
 msgctxt "0130FC"
@@ -13073,12 +13094,12 @@ msgstr ""
 # EDID: SFBGS001_DazraGenericWarden, REC: FACT:FULL
 msgctxt "01388A"
 msgid "Generic NPC faction"
-msgstr ""
+msgstr "일반 NPC 세력"
 
 # EDID: SFBGS001_DazraGenericEnvoy, REC: FACT:FULL
 msgctxt "01388B"
 msgid "Generic NPC faction"
-msgstr ""
+msgstr "일반 NPC 세력"
 
 # EDID: SFBGS001LC55Location, REC: LCTN:FULL
 msgctxt "01388C"
@@ -13128,12 +13149,12 @@ msgstr ""
 # EDID: SFBGS001LC48_EavesdroppingScene_03, REC: QUST:FULL
 msgctxt "0138FF"
 msgid "SFBGS001LC48_EavesdroppingScene_Heirloomtalk_03"
-msgstr ""
+msgstr "SFBGS001LC48_EavesdroppingScene_Heirloomtalk_03"
 
 # EDID: SFBGS001LC48_EavesdroppingScene_A1, REC: QUST:FULL
 msgctxt "01390A"
 msgid "SFBGS001LC48_EavesdroppingScene_Heirloomtalk_01"
-msgstr ""
+msgstr "SFBGS001LC48_EavesdroppingScene_Heirloomtalk_01"
 
 # EDID: SFBGS001_mod_VaruunOrion_Quality_01, REC: OMOD:FULL
 msgctxt "013A33"
@@ -13634,7 +13655,7 @@ msgstr ""
 # EDID: SFBGS001_LC13GenericModelA, REC: FACT:FULL
 msgctxt "013F54"
 msgid "Generic NPC faction"
-msgstr ""
+msgstr "일반 NPC 세력"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunZealotM_Fresh01, REC: NPC_:FULL
 msgctxt "013F56"
@@ -13654,7 +13675,7 @@ msgstr ""
 # EDID: Loot_Mannequin_Spacesuit_Male_Orahim, REC: NPC_:ATTX
 msgctxt "013F59"
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 # EDID: Loot_Mannequin_Spacesuit_Male_Orahim, REC: NPC_:FULL
 msgctxt "013F5A"
@@ -13704,38 +13725,38 @@ msgstr ""
 # EDID: SFBGS001_GenericExecutor_Female06, REC: NPC_:FULL
 msgctxt "0140EC"
 msgid "Executor"
-msgstr ""
+msgstr "집행자"
 
 # EDID: SFBGS001_GenericExecutor_Female07, REC: NPC_:FULL
 msgctxt "0140ED"
 msgid "Executor"
-msgstr ""
+msgstr "집행자"
 
 # EDID: SFBGS001_GenericExecutor_Male05, REC: NPC_:FULL
 msgctxt "0140EE"
 msgid "Executor"
-msgstr ""
+msgstr "집행자"
 
 # EDID: SFBGS001_GenericExecutor_Male07, REC: NPC_:FULL
 msgctxt "0140EF"
 msgid "Executor"
-msgstr ""
+msgstr "집행자"
 
 # EDID: SFBGS001_LC48_Captain, REC: NPC_:FULL
 msgctxt "0140F0"
 msgid "Captain"
-msgstr ""
+msgstr "선장"
 
 # EDID: SFBGS001LC27_Loot_Mannequin_Spacesuit_Male, REC: NPC_:ATTX
 msgctxt "0140F1"
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 # EDID: SFBGS001_Loot_Mannequin_Spacesuit_Female_MS05_FangSpacesuit, REC:
 # NPC_:ATTX
 msgctxt "0140F2"
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 # EDID: SFBGS001_Loot_Display_WeaponsCase_MS05_FangRifle, REC: CONT:FULL
 msgctxt "0140F3"
@@ -13800,7 +13821,7 @@ msgstr ""
 # EDID: SFBGS001_DazraGenericExecutor, REC: FACT:FULL
 msgctxt "0140FF"
 msgid "Generic NPC faction"
-msgstr ""
+msgstr "일반 NPC 세력"
 
 # EDID: SFBGS001LC05_LoadElevatorMessage_Floor01, REC: MESG:FULL
 msgctxt "014101"
@@ -14000,7 +14021,7 @@ msgstr ""
 # EDID: SFBGS001_VortexGateStableStateTest, REC: MSTT:FULL
 msgctxt "01437D"
 msgid "SFBGS001_DamagedShipEffect01"
-msgstr ""
+msgstr "SFBGS001_DamagedShipEffect01"
 
 # EDID: VarIntRmSmWallMid_DoorA00_Load, REC: DOOR:FULL
 msgctxt "01437E"
@@ -14568,7 +14589,7 @@ msgstr ""
 # EDID: VortexGhostStepMarker_2, REC: ACTI:FULL
 msgctxt "0144D8"
 msgid "SFBGS001_GhostFootprints_2_Activator"
-msgstr ""
+msgstr "SFBGS001_GhostFootprints_2_Activator"
 
 # EDID: SFBGS001_MQIN_DoorActivator, REC: ACTI:FULL
 msgctxt "0144D9"
@@ -15164,7 +15185,7 @@ msgstr ""
 # EDID: VaruunkaiPlanetData, REC: PNDT:FULL
 msgctxt "01492D"
 msgid "Va'ruun'kai"
-msgstr ""
+msgstr "바룬카이"
 
 # EDID: SFBGS001_VkaiZ03_StorageKey, REC: KEYM:FULL
 msgctxt "01492E"
@@ -15204,7 +15225,7 @@ msgstr ""
 # EDID: SFBGS001_VKaiZ03_SlateCrate, REC: CONT:FULL
 msgctxt "014936"
 msgid "Storage Box"
-msgstr ""
+msgstr "보관 상자"
 
 # EDID: SFBGS001_SecureBreifcase_Container_01_CraterOfficeDebris, REC:
 # CONT:FULL
@@ -17364,7 +17385,7 @@ msgstr ""
 # EDID: SFBGS001_VortexHorror_Ranged_Weapon_Small, REC: WEAP:FULL
 msgctxt "014B25"
 msgid "VortexHorror_Ranged"
-msgstr ""
+msgstr "VortexHorror_Ranged"
 
 # EDID: SFBGS001_GenericPilgrim_Shrine_Female05, REC: NPC_:FULL
 msgctxt "014B2E"
@@ -19105,6 +19126,8 @@ msgid ""
 "History of House Va'ruun - Sol Date 2192\n"
 "With a growing number of followers, Jinan Va'ruun helps lead the efforts to colonize the second moon of Kavnyk I."
 msgstr ""
+"바룬 가문의 역사 - 태양력 2192년\n"
+"추종자가 늘어나자, 지난 바룬은 카브닉 I의 두 번째 위성을 정착지로 만드는 데 노력을 기울이도록 사람들을 이끌었습니다."
 
 # EDID: SFBGS001_LS_Monastery01, REC: LSCR:DESC
 msgctxt "014C9B"
@@ -19191,6 +19214,9 @@ msgid ""
 "History of House Va'ruun - Sol Date 2191\n"
 "The colony ship \"Archimedes\" grav jumps into the Kavnyk system, 6 months after departing New Atlantis. On board, Jinan Va'ruun begins screaming."
 msgstr ""
+"바룬 가문의 역사 - 태양력 2191년\n"
+"뉴아틀란티스를 떠난 지 6개월 후, 개척선 \"아르키메데스\"는 카브닉 항성계를 향해 중력 도약했습니다. 함선 안에서, 지난 바룬이 "
+"비명을 지르기 시작했습니다."
 
 # EDID: SFBGS001_LS_OffWorldGoods01, REC: LSCR:DESC
 msgctxt "014CA7"
@@ -19349,32 +19375,32 @@ msgstr ""
 # EDID: SFBGS001_WNPC_GroatFarmers_WNPC5_6_7, REC: QUST:FULL
 msgctxt "014CCA"
 msgid "Dazra: Wandering NPC Groat Farmers WNPC5_6_7"
-msgstr ""
+msgstr "Dazra: Wandering NPC Groat Farmers WNPC5_6_7"
 
 # EDID: SFBGS001_WNPC_GroatFarmers_WNPC6_7_8, REC: QUST:FULL
 msgctxt "014CCB"
 msgid "Dazra: Wandering NPC Groat Farmers WNPC6_7_8"
-msgstr ""
+msgstr "Dazra: Wandering NPC Groat Farmers WNPC6_7_8"
 
 # EDID: SFBGS001_WNPC_VaruunMilPatrol_WNPC3_4_5, REC: QUST:FULL
 msgctxt "014CCC"
 msgid "Dazra: Wandering NPC Varuuun Military WNPC3_4_5"
-msgstr ""
+msgstr "Dazra: Wandering NPC Varuuun Military WNPC3_4_5"
 
 # EDID: SFBGS001_WNPC_GroatFarmers_WNPC4_5_6, REC: QUST:FULL
 msgctxt "014CCD"
 msgid "Dazra: Wandering NPC Groat Farmers WNPC4_5_6"
-msgstr ""
+msgstr "Dazra: Wandering NPC Groat Farmers WNPC4_5_6"
 
 # EDID: SFBGS001_WNPC_VaruunMilPatrol_WNPC8_1_2, REC: QUST:FULL
 msgctxt "014CCE"
 msgid "Dazra: Wandering NPC Varuuun Military WNPC8_1_2"
-msgstr ""
+msgstr "Dazra: Wandering NPC Varuuun Military WNPC8_1_2"
 
 # EDID: SFBGS001_WNPC_VaruunMilPatrol_WNPC1_2_3, REC: QUST:FULL
 msgctxt "014CCF"
 msgid "Dazra: Wandering NPC Varuuun Military WNPC1_2_3"
-msgstr ""
+msgstr "Dazra: Wandering NPC Varuuun Military WNPC1_2_3"
 
 # EDID: SFBGS001LC05_CapDoor_Computer, REC: TERM:FULL
 msgctxt "014CD0"
@@ -19764,62 +19790,62 @@ msgstr ""
 # EDID: SFBGS001_Loot_Storage_Miscbox02_Rare, REC: CONT:FULL
 msgctxt "014D1D"
 msgid "Storage Crate"
-msgstr ""
+msgstr "보관함"
 
 # EDID: SFBGS001_Loot_Storage_Miscbox03_Common, REC: CONT:FULL
 msgctxt "014D1E"
 msgid "Storage Box"
-msgstr ""
+msgstr "보관 상자"
 
 # EDID: SFBGS001_Loot_Storage_Miscbox02_Common, REC: CONT:FULL
 msgctxt "014D1F"
 msgid "Storage Crate"
-msgstr ""
+msgstr "보관함"
 
 # EDID: SFBGS001_Loot_Storage_Miscbox04_Common, REC: CONT:FULL
 msgctxt "014D20"
 msgid "Storage Box"
-msgstr ""
+msgstr "보관 상자"
 
 # EDID: SFBGS001_Loot_Storage_Miscbox05_Common, REC: CONT:FULL
 msgctxt "014D21"
 msgid "Storage Box"
-msgstr ""
+msgstr "보관 상자"
 
 # EDID: SFBGS001_Loot_Storage_Miscbox_Crate_Large_Rare, REC: CONT:FULL
 msgctxt "014D22"
 msgid "Storage Crate"
-msgstr ""
+msgstr "보관함"
 
 # EDID: SFBGS001_Loot_Storage_Safe_Floor_Reg_Common, REC: CONT:FULL
 msgctxt "014D23"
 msgid "Safe"
-msgstr ""
+msgstr "금고"
 
 # EDID: SFBGS001_Loot_Storage_Safe_Floor_Tall_Rare, REC: CONT:FULL
 msgctxt "014D24"
 msgid "Safe"
-msgstr ""
+msgstr "금고"
 
 # EDID: SFBGS001_Loot_Storage_Safe_Table_Common, REC: CONT:FULL
 msgctxt "014D25"
 msgid "Safe"
-msgstr ""
+msgstr "금고"
 
 # EDID: SFBGS001_Loot_Storage_Safe_Table_Rare, REC: CONT:FULL
 msgctxt "014D26"
 msgid "Safe"
-msgstr ""
+msgstr "금고"
 
 # EDID: SFBGS001_Loot_Storage_Safe_Wall_Reg_Common, REC: CONT:FULL
 msgctxt "014D27"
 msgid "Safe"
-msgstr ""
+msgstr "금고"
 
 # EDID: SFBGS001_Loot_Storage_Safe_Wall_Tall_Rare, REC: CONT:FULL
 msgctxt "014D28"
 msgid "Safe"
-msgstr ""
+msgstr "금고"
 
 # EDID: SFBGS001_AbVortexPhantomVFX_VoidAnasko, REC: SPEL:FULL
 msgctxt "014D29"
@@ -20047,7 +20073,7 @@ msgstr "파이브 카드"
 # EDID: SFBGS001_AidVaruunPeople_Achievement, REC: CHAL:FULL
 msgctxt "014D61"
 msgid "Savior of the Promised"
-msgstr ""
+msgstr "약속의 구원자"
 
 # EDID: SFBGS001_LC27_TerminalMenu, REC: TMLM:UNAM
 msgctxt "014D62"
@@ -20086,257 +20112,258 @@ msgstr ""
 # EDID: SFBGS001_LvlVaruunZealot_MS02_Aggro, REC: NPC_:LNAM
 msgctxt "014D67"
 msgid "Va'ruun"
-msgstr ""
+msgstr "바룬"
 
 # EDID: SFBGS001_LvlVaruunZealot_MS02_Aggro, REC: NPC_:FULL
 msgctxt "014D68"
 msgid "Va'ruun Zealot"
-msgstr ""
+msgstr "바룬 광신도"
 
 # EDID: SFBGS001_LvlVaruunZealot_MS02_Aggro01, REC: NPC_:LNAM
 msgctxt "014D69"
 msgid "Va'ruun"
-msgstr ""
+msgstr "바룬"
 
 # EDID: SFBGS001_LvlVaruunZealot_MS02_Aggro01, REC: NPC_:FULL
 msgctxt "014D6A"
 msgid "Va'ruun Zealot"
-msgstr ""
+msgstr "바룬 광신도"
 
 # EDID: SFBGS001_GenericGroatFarmer_WNPC_Male08, REC: NPC_:FULL
 msgctxt "014D6D"
 msgid "Farmer"
-msgstr ""
+msgstr "농부"
 
 # EDID: SFBGS001_WNPC_VarmilPatrol01Faction, REC: FACT:FULL
+#, fuzzy
 msgctxt "014D6E"
 msgid "VarMilPatrol01 Faction"
-msgstr ""
+msgstr "VarMilPatrol01 Faction"
 
 # EDID: SFBGS001_WNPC_GroatFarmer01Faction, REC: FACT:FULL
 msgctxt "014D6F"
 msgid "GroatFarmerGroup01 Faction"
-msgstr ""
+msgstr "GroatFarmerGroup01 Faction"
 
 # EDID: SFBGS001_WNPC_Pilgrims01Faction, REC: FACT:FULL
 msgctxt "014D70"
 msgid "PilgrimGroup01 Faction"
-msgstr ""
+msgstr "PilgrimGroup01 Faction"
 
 # EDID: SFBGS001_JarekVaruun, REC: NPC_:SHRT
 msgctxt "014D71"
 msgid "Anasko"
-msgstr ""
+msgstr "아나스코"
 
 # EDID: SFBGS001_JarekVaruun, REC: NPC_:FULL
 msgctxt "014D72"
 msgid "Anasko Va'ruun"
-msgstr ""
+msgstr "아나스코 바룬"
 
 # EDID: SFBGS001_OptiCombo_LC27_Crates04_PI, REC: PKIN:FULL
 msgctxt "014D73"
 msgid "SFBGS001_OptiCombo_LC27_Crates04_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Crates04_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Crates05_PI, REC: PKIN:FULL
 msgctxt "014D74"
 msgid "SFBGS001_OptiCombo_LC27_Crates05_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Crates05_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Crates06_PI, REC: PKIN:FULL
 msgctxt "014D75"
 msgid "SFBGS001_OptiCombo_LC27_Crates06_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Crates06_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Crates07_PI, REC: PKIN:FULL
 msgctxt "014D76"
 msgid "SFBGS001_OptiCombo_LC27_Crates07_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Crates07_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Crates08_PI, REC: PKIN:FULL
 msgctxt "014D77"
 msgid "SFBGS001_OptiCombo_LC27_Crates08_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Crates08_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Crates09_PI, REC: PKIN:FULL
 msgctxt "014D78"
 msgid "SFBGS001_OptiCombo_LC27_Crates09_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Crates09_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Ducts01_PI, REC: PKIN:FULL
 msgctxt "014D79"
 msgid "SFBGS001_OptiCombo_LC27_Ducts01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Ducts01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Electrical01_PI, REC: PKIN:FULL
 msgctxt "014D7A"
 msgid "SFBGS001_OptiCombo_LC27_Electrical01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Electrical01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_FanVent01_PI, REC: PKIN:FULL
 msgctxt "014D7B"
 msgid "SFBGS001_OptiCombo_LC27_FanVent01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_FanVent01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_GenMachine01_PI, REC: PKIN:FULL
 msgctxt "014D7C"
 msgid "SFBGS001_OptiCombo_LC27_GenMachine01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_GenMachine01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_MiscFarm01_PI, REC: PKIN:FULL
 msgctxt "014D7D"
 msgid "SFBGS001_OptiCombo_LC27_MiscFarm01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_MiscFarm01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_PlantersMisc01_PI, REC: PKIN:FULL
 msgctxt "014D7E"
 msgid "SFBGS001_OptiCombo_LC27_PlantersMisc01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_PlantersMisc01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_ScienceCounter01_PI, REC: PKIN:FULL
 msgctxt "014D7F"
 msgid "SFBGS001_OptiCombo_LC27_ScienceCounter01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_ScienceCounter01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Shelves01_PI, REC: PKIN:FULL
 msgctxt "014D80"
 msgid "SFBGS001_OptiCombo_LC27_Shelves01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Shelves01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Shelves02_PI, REC: PKIN:FULL
 msgctxt "014D81"
 msgid "SFBGS001_OptiCombo_LC27_Shelves02_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Shelves02_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_SpacePouch01_PI, REC: PKIN:FULL
 msgctxt "014D82"
 msgid "SFBGS001_OptiCombo_LC27_SpacePouch01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_SpacePouch01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_WallGreeb01_PI, REC: PKIN:FULL
 msgctxt "014D83"
 msgid "SFBGS001_OptiCombo_LC27_WallGreeb01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_WallGreeb01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Crates03_PI, REC: PKIN:FULL
 msgctxt "014D84"
 msgid "SFBGS001_OptiCombo_LC27_Crates03_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Crates03_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_WorkTable01_PI, REC: PKIN:FULL
 msgctxt "014D85"
 msgid "SFBGS001_OptiCombo_LC27_WorkTable01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_WorkTable01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Pipes01_PI, REC: PKIN:FULL
 msgctxt "014D86"
 msgid "SFBGS001_OptiCombo_LC27_Pipes01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Pipes01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_antenna01_PI, REC: PKIN:FULL
 msgctxt "014D87"
 msgid "SFBGS001_OptiCombo_LC27_antenna01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_antenna01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_pipes02_PI, REC: PKIN:FULL
 msgctxt "014D88"
 msgid "SFBGS001_OptiCombo_LC27_pipes02_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_pipes02_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Vents01_PI, REC: PKIN:FULL
 msgctxt "014D89"
 msgid "SFBGS001_OptiCombo_LC27_Vents01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Vents01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Pipes03_PI, REC: PKIN:FULL
 msgctxt "014D8A"
 msgid "SFBGS001_OptiCombo_LC27_Pipes03_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Pipes03_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Pipes04_PI, REC: PKIN:FULL
 msgctxt "014D8B"
 msgid "SFBGS001_OptiCombo_LC27_Pipes04_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Pipes04_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Bags01_PI, REC: PKIN:FULL
 msgctxt "014D8C"
 msgid "SFBGS001_OptiCombo_LC27_Bags01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Bags01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Bags02_PI, REC: PKIN:FULL
 msgctxt "014D8D"
 msgid "SFBGS001_OptiCombo_LC27_Bags02_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Bags02_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Books01_PI, REC: PKIN:FULL
 msgctxt "014D8E"
 msgid "SFBGS001_OptiCombo_LC27_Books01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Books01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Boxes01_PI, REC: PKIN:FULL
 msgctxt "014D8F"
 msgid "SFBGS001_OptiCombo_LC27_Boxes01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Boxes01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Cables01_PI, REC: PKIN:FULL
 msgctxt "014D90"
 msgid "SFBGS001_OptiCombo_LC27_Cables01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Cables01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Cables02_PI, REC: PKIN:FULL
 msgctxt "014D91"
 msgid "SFBGS001_OptiCombo_LC27_Cables02_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Cables02_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Cables03_PI, REC: PKIN:FULL
 msgctxt "014D92"
 msgid "SFBGS001_OptiCombo_LC27_Cables03_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Cables03_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_CartBin01_PI, REC: PKIN:FULL
 msgctxt "014D93"
 msgid "SFBGS001_OptiCombo_LC27_CartBin01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_CartBin01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_ConsoleKit01_PI, REC: PKIN:FULL
 msgctxt "014D94"
 msgid "SFBGS001_OptiCombo_LC27_ConsoleKit01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_ConsoleKit01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_ConsoleKit02_PI, REC: PKIN:FULL
 msgctxt "014D95"
 msgid "SFBGS001_OptiCombo_LC27_ConsoleKit02_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_ConsoleKit02_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Crates01_PI, REC: PKIN:FULL
 msgctxt "014D96"
 msgid "SFBGS001_OptiCombo_LC27_Crates01_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Crates01_PI"
 
 # EDID: SFBGS001_OptiCombo_LC27_Crates02_PI, REC: PKIN:FULL
 msgctxt "014D97"
 msgid "SFBGS001_OptiCombo_LC27_Crates02_PI"
-msgstr ""
+msgstr "SFBGS001_OptiCombo_LC27_Crates02_PI"
 
 # EDID: SFBGS001_MS02Intro_LvlSecurityDazra, REC: NPC_:FULL
 msgctxt "014D98"
 msgid "Dazra Security"
-msgstr ""
+msgstr "다즈라 경비대원"
 
 # EDID: SFBGS001DazraAdlamHouse, REC: CELL:FULL
 msgctxt "014D9B"
 msgid "Adlam House"
-msgstr ""
+msgstr "애들럼 가문의 집"
 
 # EDID: SFBGS001DazraHallsOfHealingLobby, REC: CELL:FULL
 msgctxt "014D9C"
 msgid "Halls of Healing"
-msgstr ""
+msgstr "회복의 전당"
 
 # EDID: SFBGS001DazraHouseUeda, REC: CELL:FULL
 msgctxt "014D9D"
 msgid "Ueda House"
-msgstr ""
+msgstr "우에다 가문의 집"
 
 # EDID: SFBGS001LC20_ForemanTerminalMenu, REC: TMLM:UNAM
 msgctxt "014DA1"
@@ -20596,17 +20623,17 @@ msgstr ""
 # EDID: OutpostPI_VarIntAddOn_Panel_SciHullIntRmSmWallACorIn02, REC: PKIN:FULL
 msgctxt "014DDD"
 msgid "VarIntAddOn_Panel_SciHullIntRmSmWallACorIn02"
-msgstr ""
+msgstr "VarIntAddOn_Panel_SciHullIntRmSmWallACorIn02"
 
 # EDID: OutpostPI_VarIntAddOn_Panel_SciHullIntRmSmWallACorIn01, REC: PKIN:FULL
 msgctxt "014DDE"
 msgid "VarIntAddOn_Panel_SciHullIntRmSmWallACorIn01"
-msgstr ""
+msgstr "VarIntAddOn_Panel_SciHullIntRmSmWallACorIn01"
 
 # EDID: OutpostPI_VarIntAddOn_Panel_SciHullIntRmSmWallAMid01, REC: PKIN:FULL
 msgctxt "014DDF"
 msgid "VarIntAddOn_Panel_SciHullIntRmSmWallAMid01"
-msgstr ""
+msgstr "VarIntAddOn_Panel_SciHullIntRmSmWallAMid01"
 
 # EDID: OutpostPI_VarSciIntRmSmMidFull01, REC: PKIN:FULL
 msgctxt "014DE0"
@@ -20686,7 +20713,7 @@ msgstr ""
 # EDID: SFBGS001_DazraShipServices_Vendor_Faction, REC: FACT:FULL
 msgctxt "014E00"
 msgid "Dazra Ship Services Vendor Faction"
-msgstr ""
+msgstr "다즈라 함선 정비 기술자 상인 세력"
 
 # EDID: SFBGS001_DazraPlayerHouseQuest, REC: QUST:NNAM
 msgctxt "014E01"
@@ -20731,53 +20758,53 @@ msgstr ""
 # EDID: SFBGS001_VortexEscapeExplosion_01, REC: ACTI:FULL
 msgctxt "014E0B"
 msgid "SFBGS001_VortexEscapeExplosion_01"
-msgstr ""
+msgstr "SFBGS001_VortexEscapeExplosion_01"
 
 # EDID: SFBGS001_VortexEscapeExplosion_02, REC: ACTI:FULL
 msgctxt "014E0C"
 msgid "SFBGS001_VortexEscapeExplosion_01"
-msgstr ""
+msgstr "SFBGS001_VortexEscapeExplosion_01"
 
 # EDID: SFBGS001_VortexEscapeEnergyFlow_01, REC: ACTI:FULL
 msgctxt "014E0D"
 msgid "SFBGS001_VortexEscapeExplosion_01"
-msgstr ""
+msgstr "SFBGS001_VortexEscapeExplosion_01"
 
 # EDID: SFBGS001_VortexEscapeEnergyFlow_02, REC: ACTI:FULL
 msgctxt "014E0E"
 msgid "SFBGS001_VortexEscapeExplosion_01"
-msgstr ""
+msgstr "SFBGS001_VortexEscapeExplosion_01"
 
 # EDID: SFBGS001_VortexEscapeExplosion_Small_01, REC: ACTI:FULL
 msgctxt "014E0F"
 msgid "SFBGS001_VortexEscapeExplosion_01"
-msgstr ""
+msgstr "SFBGS001_VortexEscapeExplosion_01"
 
 # EDID: SFBGS001_Invisible_DazraWorkbenchFood02, REC: FURN:FULL
 msgctxt "014E11"
 msgid "Cooking Station"
-msgstr ""
+msgstr "조리대"
 
 # EDID: SFBGS001_LC18_CrimeFactionCrimsonFleet, REC: FACT:FULL
 msgctxt "014E12"
 msgid "Crimson Fleet"
-msgstr ""
+msgstr "크림슨 함대"
 
 # EDID: SFBGS001CTESTJamesG, REC: CELL:FULL
 msgctxt "014E13"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 # EDID: SFBGS001_LvlVortexPhantom_Assault_Aggro_Essential_Test_Crater, REC:
 # NPC_:FULL
 msgctxt "014E14"
 msgid "Essential Vortex Phantom"
-msgstr ""
+msgstr "에센셜 볼텍스 팬텀"
 
 # EDID: Loot_Mannequin_Spacesuit_Varuun_Crater, REC: NPC_:ATTX
 msgctxt "014E15"
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 # EDID: SFBGS001_ENV_DMG_VortexWall_Hazard_Damage_Effect, REC: MGEF:FULL
 msgctxt "014E16"
@@ -20813,12 +20840,12 @@ msgstr ""
 # EDID: SFBGS001_Loot_Storage_Miscbox02_Common_ZeroGField, REC: CONT:FULL
 msgctxt "014E1E"
 msgid "Storage Crate"
-msgstr ""
+msgstr "보관함"
 
 # EDID: SFBGS001_Loot_Storage_Miscbox02_Rare_ZeroGField, REC: CONT:FULL
 msgctxt "014E1F"
 msgid "Storage Crate"
-msgstr ""
+msgstr "보관함"
 
 # EDID: SFBGS001_Clothes_Varuun_Unique_2_Zealots_NoScarf, REC: ARMO:FULL
 msgctxt "014E20"

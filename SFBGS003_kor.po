@@ -27996,3 +27996,8 @@ msgstr "아니. 잠깐. 네 얘기 들었어. 전에도 일을 잘 처리해 줬
 msgctxt "02CAE8"
 msgid "Ain't you brave, coming to see a bonafide Tracker."
 msgstr "용감하네. 진짜 추적자를 만나러 오다니."
+
+#. EDID = Patch_Update07_SFBGS003
+msgctxt "000D63"
+msgid "[Update 7 Patch Quest for SFBGS003]"
+msgstr "[Update 7 Patch Quest for SFBGS003]"

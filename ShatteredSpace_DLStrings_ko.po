@@ -1,6 +1,19 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-01 20:37+0900\n"
+"PO-Revision-Date: 2024-10-01 11:37+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
+
+#
 
 # EDID: SFBGS001VortexItem_PhaseVortexEffect, REC: MGEF:DNAM
 msgctxt "000009"
@@ -10,7 +23,7 @@ msgstr ""
 # EDID: SFBGS001VortexItem_PhaseVortexEffect, REC: MGEF:FULL
 msgctxt "00000A"
 msgid "Phased - Vortex Effect"
-msgstr ""
+msgstr "Phased - Vortex Effect"
 
 # EDID: SFBGS001LC06ScaledCitadel01Location, REC: LCTN:FULL
 msgctxt "00000C"
@@ -20,7 +33,7 @@ msgstr ""
 # EDID: SFBGS001_VortexItemExplosion_Explosion, REC: EXPL:FULL
 msgctxt "00000E"
 msgid "Particle Fuse Explosion"
-msgstr ""
+msgstr "Particle Fuse Explosion"
 
 # EDID: SFBGS001LC02SerpentsPath02, REC: CELL:FULL
 msgctxt "000010"
@@ -415,7 +428,7 @@ msgstr ""
 # EDID: SFBGS001_LC08, REC: QUST:NNAM
 msgctxt "0000CB"
 msgid "Explore the cave"
-msgstr ""
+msgstr "동굴 둘러보기."
 
 # EDID: OverlayTestBlock01, REC: WRLD:FULL
 msgctxt "0000CD"
@@ -20030,7 +20043,7 @@ msgstr ""
 # EDID: SFBGS001_Craft_VortexGrenades_Achievement_New, REC: CHAL:FULL
 msgctxt "014D5F"
 msgid "Five of a Kind"
-msgstr ""
+msgstr "파이브 카드"
 
 # EDID: SFBGS001_AidVaruunPeople_Achievement, REC: CHAL:FULL
 msgctxt "014D61"

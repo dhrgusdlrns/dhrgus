@@ -394,3 +394,15 @@ msgstr "시도니아 - 거주 지구"
 msgctxt "031B0C"
 msgid "Neon Core"
 msgstr "네온 코어"
+
+msgctxt "00004F"
+msgid "Madam Sauvage's Place"
+msgstr ""
+
+msgctxt "000050"
+msgid "Euphorika"
+msgstr ""
+
+msgctxt "000051"
+msgid "The Well Apartment"
+msgstr ""

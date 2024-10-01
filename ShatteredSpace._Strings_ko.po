@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2024-10-01 14:23+0000\n"
+"PO-Revision-Date: 2024-10-01 16:21+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -398,7 +398,7 @@ msgstr "외부"
 # EDID: SFBGS001_DistanceToCrate, REC: MESG:DESC
 msgctxt "000734"
 msgid "Distance to target: %.0f meters"
-msgstr ""
+msgstr "목표물과의 거리: %.0f 미터"
 
 # EDID: SFBGS001_MS01_CipherMessage04, REC: MESG:DESC
 msgctxt "00073B"

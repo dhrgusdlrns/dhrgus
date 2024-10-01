@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-10-01 14:23+0000\n"
+"PO-Revision-Date: 2024-10-01 16:21+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -4109,7 +4109,7 @@ msgstr ""
 # EDID: [0100528A], REC: INFO:NAM1
 msgctxt "000658"
 msgid "*Exhales*"
-msgstr ""
+msgstr "*숨 내뱉는 소리*"
 
 # EDID: [01003C17], REC: INFO:NAM1
 msgctxt "000659"

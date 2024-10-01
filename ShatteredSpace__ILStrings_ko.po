@@ -1,24 +1,37 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-01 20:37+0900\n"
+"PO-Revision-Date: 2024-10-01 11:37+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
+
+#
 
 # EDID: [0101D5BD], REC: INFO:NAM1
 msgctxt "00008A"
 msgid ""
 "How'd you even find this place? Ninety percent of the facility is "
 "underground..."
-msgstr ""
+msgstr "이 장소를 어떻게 찾았어? 시설의 90%가 지하에 있는데..."
 
 # EDID: [0101D5BF], REC: INFO:NAM1
 msgctxt "00008B"
 msgid ""
 "Buddy I know works at a starstation. Found this place in the shipping logs."
-msgstr ""
+msgstr "우주정거장에서 일하는 친구가 있어. 선적 기록에서 이곳을 발견했지."
 
 # EDID: [0101D5C1], REC: INFO:NAM1
 msgctxt "00008C"
 msgid "Remind me what I'm looking for again?"
-msgstr ""
+msgstr "내가 뭘 찾아야 하는지 다시 말해줘."
 
 # EDID: [0101D5C2], REC: INFO:NAM1
 msgctxt "00008D"

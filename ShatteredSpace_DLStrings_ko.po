@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-10-01 11:37+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2024-10-01 11:41+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,6 @@ msgstr ""
 "X-Generator: Weblate 4.1.1\n"
 
 #
-
 # EDID: SFBGS001VortexItem_PhaseVortexEffect, REC: MGEF:DNAM
 msgctxt "000009"
 msgid "Vortex effect for <dur> seconds."
@@ -509,7 +508,7 @@ msgstr ""
 # EDID: SFBGS001_mod_RedeemedBlade_Blade_Standard, REC: OMOD:FULL
 msgctxt "00021B"
 msgid "Standard Blade"
-msgstr ""
+msgstr "표준 사양 칼날."
 
 # EDID: SFBGS001_mod_ParticleMachineGun_Muzzle_FocalLens, REC: OMOD:FULL
 msgctxt "00021D"

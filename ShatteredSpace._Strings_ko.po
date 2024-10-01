@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2024-10-01 11:36+0000\n"
+"PO-Revision-Date: 2024-10-01 11:41+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -14,7 +14,6 @@ msgstr ""
 "X-Generator: Weblate 4.1.1\n"
 
 #
-
 # EDID: SFBGS001_LC08DebugMessage, REC: MESG:DESC
 #, fuzzy
 msgctxt "000058"
@@ -278,7 +277,7 @@ msgstr "레이저 표적 지시기 부착. 목표물 포착 능력, 명중률 �
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Blade_Standard, REC: COBJ:DESC
 msgctxt "00025A"
 msgid "Standard issue blade."
-msgstr ""
+msgstr "표준 사양 칼날."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Muzzle_FocusNozzle, REC:
 # COBJ:DESC

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2024-10-01 11:41+0000\n"
+"PO-Revision-Date: 2024-10-01 14:23+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -26,6 +26,7 @@ msgid "Found the treasure."
 msgstr "보물을 찾았다."
 
 # EDID: SFBGS001LC20_VaruunNote01, REC: BOOK:DESC
+#, fuzzy
 msgctxt "000062"
 msgid ""
 "I am in need of favor. The deal with the children of Jarek has been fruitful, as you know, and shipments have come in from all parts of the Settled Systems.\n"
@@ -34,6 +35,12 @@ msgid ""
 "\n"
 "I found the perfect spot up in the rafters, toward the corner. All you need to do is place them there and leave them overnight. I'll remove them as part of my morning detail, no one will even notice. Do this and I will cover your late shift for a month."
 msgstr ""
+"한 가지 해줬으면 하는 일이 있어. 알다시피 자렉의 아이들과의 거래는 대박이었고 거의 모든 개척 성계에서 물자가 들어오고 있지.\n"
+"\n"
+"근데 위장을 위해 개인적으로 필요한 물품이 몇 가지가 있어.\n"
+"\n"
+"지붕 구석에 딱 맞는 은닉처를 찾았어. 아무도 눈치못채게 아침에는 치워둘테니 가져온 물품을 밤 동안 거기 둬주기만 해줘. 처리해주면 한 "
+"달 간 야간 근무는 대신 해줄게."
 
 # EDID: SFBGS001_LC08_Human_Slate001, REC: BOOK:DESC
 msgctxt "00007A"
@@ -46,6 +53,13 @@ msgid ""
 "\n"
 "The Captain's got us doing patrols day and night, but I'm gonna stick to the catwalks, where I know those things won't come up from under me."
 msgstr ""
+"젠장, 이 일이 함정인걸 눈치챘어야 했어. 위험한 생물이 한가득이잖아. 더 최악인 건, 땅굴을 파는 놈들이잖아.\n"
+"\n"
+"독 뱉는 쥐새끼부터 사람먹는 거대한 파리지옥까지는 잡을 순 있어도,\n"
+"\n"
+"숨어서 공격하는 애들이라고? 안돼. 불공평하잖아.\n"
+"\n"
+"대장은 우릴 순찰로 밤낮으로 굴리지만 난 저놈들이 안나오는 통로에 있을래."
 
 # EDID: SFBGS001_LC08_Human_Slate002, REC: BOOK:DESC
 msgctxt "00007D"
@@ -56,6 +70,11 @@ msgid ""
 "\n"
 "That's what's scary. The silence."
 msgstr ""
+"대장은 딴 녀석들이 동굴을 파는동안 우린 동굴 밖을 순찰했으면 돌릴 생각인가 보다.\n"
+"\n"
+"굴을 파는 동안 들리던 소리가 깊게 파들어 갈수록 점점 멀어지더니 이젠 거의 들리지가 않는다.\n"
+"\n"
+"침묵이라는 공포가 느껴진다."
 
 # EDID: SFBGS001_LC08_Human_Slate003, REC: BOOK:DESC
 msgctxt "000080"
@@ -68,6 +87,13 @@ msgid ""
 "\n"
 "I don't know what'll kill us first, the beasts or the stress."
 msgstr ""
+"세 달이 지났고 주위 녀석들이 열받은 게 느껴진다.\n"
+"\n"
+"여기서 하는 거라곤 밤낮으로 땅굴을 파는 것 뿐이다. 아래로, 좌측으로, 우측으로, 위로.\n"
+"\n"
+"대장이 \"이 벽뒤에 보물이 있다!\"라고 할 때마다 진짜였다면 우린 이미 부자가 되었겠지.\n"
+"\n"
+"짐승? 스트레스? 뭐가 우릴 먼저 죽일지 궁금하다."
 
 # EDID: SFBGS001_LC08_Human_Slate004, REC: BOOK:DESC
 msgctxt "000083"
@@ -78,6 +104,12 @@ msgid ""
 "\n"
 "My cousin was right. I never should've took this job."
 msgstr ""
+"운도 더럽게 없네. 몇 달 간 파내려간 결과 우리는 이 동굴 끝에 도착했지만, 우릴 기다리고 있던 건 이 위성에서 제일 크고 더러운 "
+"생물의 둥지였다.\n"
+"\n"
+"거기다가, 한 녀석이 나무 근처에서 열쇠 하나를 찾았는데 열쇠째로 여왕같아 보이는 놈에게 잡아먹혀버렸다.\n"
+"\n"
+"사촌 말이 맞았다. 이 일을 맡으면 안됐어."
 
 # EDID: SFBGS001_LC08_Treasure_Slate, REC: BOOK:DESC
 msgctxt "000086"
@@ -90,6 +122,13 @@ msgid ""
 "\n"
 "If you're a smart goose who wants to wet their beak, one piece isn't enough. You'll know to search where the rest of me falls."
 msgstr ""
+"축하드립니다!\n"
+"\n"
+"당신은 보물의 일부분을 찾음으로서 저의 일부분을 찾으신겁니다. 이것들은 제 인생 작품들입니다. 얼마나 이상한 삶인가요.\n"
+"\n"
+"모든 사람은 나의 앞에 서는 사람, 내 아랫 사람, 뒤에 숨은 사람으로 나뉘지만,\n"
+"\n"
+"당신이 목 마른 사람이라면, 물 한 모금으론 부족하겠지요. 저의 나머지는 어디서 찾을 수 있는지 아실겁니다."
 
 # EDID: SFBGS001_LC08, REC: QUST:CNAM
 msgctxt "0000CC"
@@ -347,11 +386,14 @@ msgid ""
 "\n"
 "Do not make me remind you again."
 msgstr ""
+"잘 들어. 여기 위쪽 선반에 있는 물자에 닿게 해줄 잡동사니들이 충분히 있잖아. 앞 뒤로 부스터를 쓰면서 연료를 낭비하는 건 그만둬.\n"
+"\n"
+"두 번 말하게 하지 마."
 
 # EDID: SFBGS001_LC08ExtName, REC: MESG:DESC
 msgctxt "000733"
 msgid "Exterior"
-msgstr ""
+msgstr "외부"
 
 # EDID: SFBGS001_DistanceToCrate, REC: MESG:DESC
 msgctxt "000734"
@@ -361,22 +403,22 @@ msgstr ""
 # EDID: SFBGS001_MS01_CipherMessage04, REC: MESG:DESC
 msgctxt "00073B"
 msgid "Enter the fourth number of the password:"
-msgstr ""
+msgstr "네 번째 비밀번호를 입력:"
 
 # EDID: SFBGS001_MS01_CipherMessage03, REC: MESG:DESC
 msgctxt "000742"
 msgid "Enter the third number of the password:"
-msgstr ""
+msgstr "세 번째 비밀번호를 입력:"
 
 # EDID: SFBGS001_MS01_CipherMessage02, REC: MESG:DESC
 msgctxt "000749"
 msgid "Enter the second number of the password:"
-msgstr ""
+msgstr "두 번째 비밀번호를 입력:"
 
 # EDID: SFBGS001_MS01_CipherMessage01, REC: MESG:DESC
 msgctxt "000751"
 msgid "Enter the first number of the password:"
-msgstr ""
+msgstr "첫 번째 비밀번호를 입력:"
 
 # EDID: SFBGS001_LC08CaveName, REC: MESG:DESC
 msgctxt "000752"
@@ -4149,7 +4191,7 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_Orphanage_DataSlate02, REC: BOOK:DESC
 msgctxt "01492B"
 msgid "*Static*"
-msgstr ""
+msgstr "*잡음*"
 
 # EDID: SFBGS001_LC48Slate_RC_Conclusion, REC: BOOK:DESC
 msgctxt "01493A"
@@ -5844,12 +5886,12 @@ msgstr ""
 # EDID: SFBGS001_Craft_VortexGrenades_Achievement_New, REC: CHAL:DESC
 msgctxt "014D5E"
 msgid "Craft one of each type of Vortex Grenade"
-msgstr ""
+msgstr "볼텍스 수류탄 각 종류별로 제작하기"
 
 # EDID: SFBGS001_AidVaruunPeople_Achievement, REC: CHAL:DESC
 msgctxt "014D60"
 msgid "Aid the People of Va'ruun'kai"
-msgstr ""
+msgstr "바룬카이 사람들을 돕기"
 
 # EDID: SFBGS001_VKaiZ03a, REC: QUST:CNAM
 msgctxt "014D64"

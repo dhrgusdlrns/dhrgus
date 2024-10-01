@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-10-01 11:37+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2024-10-01 14:23+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,6 @@ msgstr ""
 "X-Generator: Weblate 4.1.1\n"
 
 #
-
 # EDID: [0101D5BD], REC: INFO:NAM1
 msgctxt "00008A"
 msgid ""
@@ -9713,7 +9712,7 @@ msgctxt "000BDE"
 msgid ""
 "[<Global=SFBGS001_MS01_Credit_BribeHigh> Credits] My silence doesn't come "
 "cheap."
-msgstr ""
+msgstr "[<Global=SFBGS001_MS01_Credit_BribeHigh> 크레딧] 나를 입 다물게 하려면 싸게는 안 될걸."
 
 # EDID: [0102B372], REC: INFO:NAM1
 msgctxt "000BDF"
@@ -12135,7 +12134,7 @@ msgctxt "000F26"
 msgid ""
 "[Demand Credits: <Global=SFBGS001_MQ03_DjimalPayment>] Show me the credits "
 "and it's a done deal."
-msgstr ""
+msgstr "[<Global=SFBGS001_MQ03_DjimalPayment> 크레딧 요구] 크레딧을 보여 줘. 거래를 끝내자고."
 
 # EDID: [0103379C], REC: INFO:NAM1
 msgctxt "000F27"
@@ -15007,7 +15006,7 @@ msgstr ""
 # EDID: [01035E4C], REC: INFO:NAM1
 msgctxt "00119A"
 msgid "[Demand Credits: <Global=SFBGS001_MQ03_RazmaPayment>] For a price."
-msgstr ""
+msgstr "[<Global=SFBGS001_MQ03_RazmaPayment> 크레딧 요구] 대가를 치러야겠지."
 
 # EDID: [01035E37], REC: INFO:NAM1
 msgctxt "00119B"
@@ -24155,6 +24154,8 @@ msgid ""
 "[Demand Credits: <Global=SFBGS001_MQ04_DemandViktorCredits>] You can have "
 "all the discretion you want for the right price."
 msgstr ""
+"[<Global=SFBGS001_MQ04_DemandViktorCredits> 크레딧 요구] 적절한 가격에 원하는 결정권을 모두 얻을 수 "
+"있을 거야."
 
 # EDID: [010410DA], REC: INFO:NAM1
 msgctxt "001A98"
@@ -26427,6 +26428,8 @@ msgid ""
 "[Pay Credits: <Global=SFBGS001_MQ04_PayTaneCredits>] It's a deal. Credits "
 "for Vaeric's location."
 msgstr ""
+"[<Global=SFBGS001_MQ04_PayTaneCredits> 크레딧 주기] 거래가 성사됐군. 배릭의 위치를 알려주는 대가로 "
+"크레딧을 주지."
 
 # EDID: [01045DE1], REC: INFO:NAM1
 msgctxt "001C96"
@@ -27019,6 +27022,7 @@ msgid ""
 "[Demand Credits: <Global=SFBGS001_MQ04_DemandIrinaCredits>] I could be "
 "persuaded to let this go."
 msgstr ""
+"[<Global=SFBGS001_MQ04_DemandIrinaCredits> 크레딧 요구] 잘하면 그냥 넘어가 줄 수 있을 거 같은데."
 
 # EDID: [01048624], REC: INFO:NAM1
 msgctxt "001D54"
@@ -27098,6 +27102,7 @@ msgid ""
 "[Pay Credits: <Global=SFBGS001_MQ04_PayIrinaCredits>] Perhaps financial "
 "support might help."
 msgstr ""
+"[<Global=SFBGS001_MQ04_PayIrinaCredits> 크레딧 주기] 재정 지원을 해주면 도움이 될 수도 있겠군."
 
 # EDID: [01048647], REC: INFO:NAM1
 msgctxt "001D67"
@@ -28453,11 +28458,13 @@ msgid "Anything. Name it."
 msgstr ""
 
 # EDID: [0105730A], REC: INFO:NAM1
+#, fuzzy
 msgctxt "001F19"
 msgid ""
 "[Demand Credits: <Global=SFBGS001_MQ04_DemandVaericCredits>] Your signet "
 "ring and hush money will do."
 msgstr ""
+"[<Global=SFBGS001_MQ04_DemandVaericCredits> 크레딧 요구] 인장 반지와 은닉 자금으로 충분할 거야."
 
 # EDID: [010572F2], REC: INFO:NAM1
 msgctxt "001F1B"
@@ -30308,6 +30315,8 @@ msgid ""
 "[Demand Credits: <Global=SFBGS001_MQ04_AcceptCreditsWithBribe>] Find. I'll "
 "take my credits back and whatever you have."
 msgstr ""
+"[<Global=SFBGS001_MQ04_AcceptCreditsWithBribe> 크레딧 요구] 찾았군. 내 크레딧과 네가 가진 걸 "
+"모두 돌려받겠어."
 
 # EDID: [01048633], REC: INFO:NAM1
 msgctxt "0020A1"
@@ -33775,6 +33784,7 @@ msgid ""
 "I can't pay the fine right now. [Bounty of "
 "<Global=SFBGS001_CrimeBountyAmountDUPLICATE000> credits]"
 msgstr ""
+"지금은 벌금을 낼 수가 없어. [현상금 <Global=SFBGS001_CrimeBountyAmountDUPLICATE000> 크레딧]"
 
 # EDID: [01088613], REC: INFO:NAM1
 msgctxt "002432"
@@ -41014,7 +41024,7 @@ msgctxt "01140A"
 msgid ""
 "[<Global=SFBGS001_MS01_Credit_BribeHigh> Credits] My silence doesn't come "
 "cheap."
-msgstr ""
+msgstr "[<Global=SFBGS001_MS01_Credit_BribeHigh> 크레딧] 나를 입 다물게 하려면 싸게는 안 될걸."
 
 # EDID: [010C419E], REC: INFO:NAM1
 msgctxt "01140B"
@@ -44711,7 +44721,7 @@ msgstr ""
 # EDID: [010D0711], REC: INFO:NAM1
 msgctxt "011851"
 msgid "<Global=SFBGS001_VkaiZ03_TakeMoney> credits."
-msgstr ""
+msgstr "<Global=SFBGS001_VkaiZ03_TakeMoney> 크레딧."
 
 # EDID: [010CE17E], REC: INFO:NAM1
 msgctxt "011852"
@@ -52991,7 +53001,7 @@ msgctxt "011F9D"
 msgid ""
 "[Demand Credits: <Global=SFBGS001_MQ03_RazmaPayment>] In that case, I'll "
 "keep your secret for a price."
-msgstr ""
+msgstr "[<Global=SFBGS001_MQ03_RazmaPayment> 크레딧 요구] 그렇다면, 대가를 받고 비밀을 지켜주지."
 
 # EDID: [010E4025], REC: INFO:NAM1
 msgctxt "011F9E"
@@ -66180,7 +66190,7 @@ msgctxt "012C0E"
 msgid ""
 "[Demand Credits: <Global=SFBGS001_MQ04_AcceptIrinaCredits>] I'll take "
 "whatever you have."
-msgstr ""
+msgstr "[<Global=SFBGS001_MQ04_AcceptIrinaCredits> 크레딧 요구] 가진 거 다 가져가겠어."
 
 # EDID: [0110436B], REC: INFO:NAM1
 msgctxt "012C0F"
@@ -68600,7 +68610,7 @@ msgctxt "012DD2"
 msgid ""
 "[Demand Credits: <Global=SFBGS001_MQ04_AcceptIrinaCredits>] I'll take "
 "whatever you have."
-msgstr ""
+msgstr "[<Global=SFBGS001_MQ04_AcceptIrinaCredits> 크레딧 요구] 가진 거 다 가져가겠어."
 
 # EDID: [0110446B], REC: INFO:NAM1
 msgctxt "012DD3"
@@ -68608,6 +68618,7 @@ msgid ""
 "[Demand Credits: <Global=SFBGS001_MQ04_DemandIrinaCredits>] I'd say a hefty "
 "fine is in order then."
 msgstr ""
+"[<Global=SFBGS001_MQ04_DemandIrinaCredits> 크레딧 요구] 그렇다면 엄청난 벌금을 부과해야 할 것 같군."
 
 # EDID: [011044A5], REC: INFO:NAM1
 msgctxt "012DD4"
@@ -102346,17 +102357,17 @@ msgstr ""
 # EDID: [01059CC1], REC: INFO:NAM1
 msgctxt "014D6B"
 msgid "I'd like to view my vehicles."
-msgstr ""
+msgstr "제 차량을 살펴보고 싶습니다."
 
 # EDID: [01059CC0], REC: INFO:NAM1
 msgctxt "014D6C"
 msgid "I'd like to purchase a vehicle."
-msgstr ""
+msgstr "차량을 거래하고 싶습니다."
 
 # EDID: [0102B6F6], REC: INFO:NAM1
 msgctxt "014DAB"
 msgid "*Static*"
-msgstr ""
+msgstr "*잡음*"
 
 # EDID: [0109555F], REC: INFO:NAM1
 msgctxt "014DD2"

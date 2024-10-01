@@ -1,16 +1,30 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-01 20:36+0900\n"
+"PO-Revision-Date: 2024-10-01 11:36+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
+
+#
 
 # EDID: SFBGS001_LC08DebugMessage, REC: MESG:DESC
+#, fuzzy
 msgctxt "000058"
 msgid "This message fired successfully!"
-msgstr ""
+msgstr "이 메시지가 성공적으로 전송되었습니다!"
 
 # EDID: SFBGS001_LC08, REC: QUST:CNAM
 msgctxt "00005C"
 msgid "Found the treasure."
-msgstr ""
+msgstr "보물을 찾았다."
 
 # EDID: SFBGS001LC20_VaruunNote01, REC: BOOK:DESC
 msgctxt "000062"
@@ -81,63 +95,63 @@ msgstr ""
 # EDID: SFBGS001_LC08, REC: QUST:CNAM
 msgctxt "0000CC"
 msgid "Explore the cave."
-msgstr ""
+msgstr "동굴 둘러보기."
 
 # EDID: SFBGS001_mod_ParticleMachineGun_Barrel_Stabilizing, REC: OMOD:DESC
 msgctxt "000217"
 msgid ""
 "Lowered ADS speed, increased accuracy, increased ADS accuracy better recoil "
 "control."
-msgstr ""
+msgstr "정조준 속도 빨라짐, 명중률 증가, 정조준 명중률 증가, 반동 제어 증가."
 
 # EDID: SFBGS001_mod_ParticleMachineGun_Barrel_Long, REC: OMOD:DESC
 msgctxt "000219"
 msgid ""
 "Increases accuracy, range, and recoil control; lowers aim down sights speed."
-msgstr ""
+msgstr "명중률, 사거리, 반동 제어 증가, 정조준 속도 느려짐."
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Optics_ShortScope, REC: OMOD:DESC
 msgctxt "00021F"
 msgid "Improved focus and better sighted accuracy."
-msgstr ""
+msgstr "초점 정렬, 시각 명중률 증가."
 
 # EDID: SFBGS001_mod_ParticleMachineGun_Laser_LaserSight, REC: OMOD:DESC
 msgctxt "000224"
 msgid "Adds Laser Sight."
-msgstr ""
+msgstr "레이저 표적 지시기 추가."
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Barrel_Stabilizing, REC: OMOD:DESC
 msgctxt "000227"
 msgid ""
 "Specialized, mag-assisted barrels vastly increases Accuracy and Recoil "
 "control at the cost of Aim Down Sights speed while standing still."
-msgstr ""
+msgstr "특수 자기 보조 총열. 가만히 서 있는 상태에서 명중률, 반동 제어 크게 증가. 정조준 속도 느려짐."
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Optics_ReflexSight, REC: OMOD:DESC
 msgctxt "00022D"
 msgid "Improved focus and better sighted accuracy."
-msgstr ""
+msgstr "초점 정렬, 시각 명중률 증가."
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Laser_ReconSight, REC: OMOD:DESC
 msgctxt "000234"
 msgid "Adds a recon sight."
-msgstr ""
+msgstr "수색 표적 지시기 추가."
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Laser_LaserSight, REC: OMOD:DESC
 msgctxt "000237"
 msgid "Adds Laser Sight."
-msgstr ""
+msgstr "레이저 표적 지시기 추가."
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Barrel_Long, REC: OMOD:DESC
 msgctxt "00023A"
 msgid ""
 "Increases accuracy, range, and recoil control; lowers aim down sights speed."
-msgstr ""
+msgstr "명중률, 사거리, 반동 제어 증가, 정조준 속도 느려짐."
 
 # EDID: SFBGS001_mod_ParticleMachineGun_Laser_ReconSight, REC: OMOD:DESC
 msgctxt "000242"
 msgid "Adds a recon sight."
-msgstr ""
+msgstr "수색 표적 지시기 추가."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Barrel_Stabilizing, REC:
 # COBJ:DESC
@@ -145,63 +159,63 @@ msgctxt "000245"
 msgid ""
 "Specialized, mag-assisted barrels vastly increases Accuracy and Recoil "
 "control at the cost of Aim Down Sights speed while standing still."
-msgstr ""
+msgstr "특수 자기 보조 총열. 가만히 서 있는 상태에서 명중률, 반동 제어 크게 증가. 정조준 속도 느려짐."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Barrel_Standard, REC: COBJ:DESC
 msgctxt "000246"
 msgid "Standard issue barrel."
-msgstr ""
+msgstr "표준 사양 총열."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Grip_Standard, REC: COBJ:DESC
 msgctxt "000247"
 msgid "Standard issue grip."
-msgstr ""
+msgstr "표준 사양 손잡이."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Muzzle_FocalLens, REC:
 # COBJ:DESC
 msgctxt "000248"
 msgid "Specialized lenses vastly increase accuracy."
-msgstr ""
+msgstr "특수 렌즈. 명중률 크게 증가."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Laser_None, REC: COBJ:DESC
 msgctxt "000249"
 msgid "Empty laser sight attachment."
-msgstr ""
+msgstr "레이저 표적 지시기 미부착."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Internal_Amplifier, REC:
 # COBJ:DESC
 msgctxt "00024A"
 msgid "Amplifies power output, increasing damage."
-msgstr ""
+msgstr "출력 증폭, 피해 증가."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Internal_None, REC: COBJ:DESC
 msgctxt "00024B"
 msgid "Empty internal module."
-msgstr ""
+msgstr "내장 부품 없음."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Internal_Overclocked, REC:
 # COBJ:DESC
 msgctxt "00024C"
 msgid "Increases Rate of Fire."
-msgstr ""
+msgstr "연사력 증가."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Mag_Tactical, REC: COBJ:DESC
 msgctxt "00024D"
 msgid ""
 "Lighter mag that vastly increases Aim Down Sight speed and Reload speed."
-msgstr ""
+msgstr "경량 탄창. 정조준 속도, 재장전 속도 크게 빨라짐."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Muzzle_None, REC: COBJ:DESC
 msgctxt "00024E"
 msgid "Empty muzzle attachment."
-msgstr ""
+msgstr "총구 부품 미부착."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Barrel_Long, REC: COBJ:DESC
 msgctxt "00024F"
 msgid ""
 "Increases Accuracy, Recoil Control, and Range at the cost of Aim Down Sight "
 "speed."
-msgstr ""
+msgstr "명중률, 반동 제어, 사거리 증가. 정조준 속도 느려짐."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Barrel_Stabilizing, REC:
 # COBJ:DESC
@@ -209,49 +223,49 @@ msgctxt "000250"
 msgid ""
 "Specialized, mag-assisted barrels vastly increases Accuracy and Recoil "
 "control at the cost of Aim Down Sights speed while standing still."
-msgstr ""
+msgstr "특수 자기 보조 총열. 가만히 서 있는 상태에서 명중률, 반동 제어 크게 증가. 정조준 속도 느려짐."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Barrel_Standard, REC:
 # COBJ:DESC
 msgctxt "000251"
 msgid "Standard issue barrel."
-msgstr ""
+msgstr "표준 사양 총열."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Grip_Standard, REC:
 # COBJ:DESC
 msgctxt "000252"
 msgid "Standard issue grip and stock."
-msgstr ""
+msgstr "표준 사양 손잡이와 개머리판."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Mag_Standard, REC: COBJ:DESC
 msgctxt "000253"
 msgid "Standard issue magazine."
-msgstr ""
+msgstr "표준 사양 탄창."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Optics_ReflexSight, REC:
 # COBJ:DESC
 msgctxt "000254"
 msgid "Reflex sights for quicker target acquisition and visibility."
-msgstr ""
+msgstr "반사식 조준기. 목표물 포착 능력, 가시성 증가."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Barrel_Long, REC: COBJ:DESC
 msgctxt "000255"
 msgid ""
 "Increases Accuracy, Recoil Control, and Range at the cost of Aim Down Sight "
 "speed."
-msgstr ""
+msgstr "명중률, 반동 제어, 사거리 증가. 정조준 속도 느려짐."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Grip_Tactical, REC: COBJ:DESC
 msgctxt "000256"
 msgid ""
 "A lighter grip that increases Aim Down Sight speed, Reload speed, and "
 "Stability."
-msgstr ""
+msgstr "경량화 손잡이. 정조준 속도, 재장전 속도 빨라짐, 안정성 증가."
 
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Handle_Standard, REC: COBJ:DESC
 msgctxt "000257"
 msgid "Standard issue hilt."
-msgstr ""
+msgstr "표준 사양 손잡이."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Laser_LaserSight, REC:
 # COBJ:DESC
@@ -259,7 +273,7 @@ msgctxt "000258"
 msgid ""
 "Laser Sight attachment to help with target acquisition and increase "
 "Accuracy."
-msgstr ""
+msgstr "레이저 표적 지시기 부착. 목표물 포착 능력, 명중률 증가."
 
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Blade_Standard, REC: COBJ:DESC
 msgctxt "00025A"
@@ -270,24 +284,24 @@ msgstr ""
 # COBJ:DESC
 msgctxt "00025B"
 msgid "Increases Damage, Headshot Damage, and Range."
-msgstr ""
+msgstr "피해, 헤드샷 피해, 사거리 증가."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Laser_ReconSight, REC:
 # COBJ:DESC
 msgctxt "00025C"
 msgid "Marks enemies while Aiming, and greatly increases Accuracy."
-msgstr ""
+msgstr "정조준 중 적을 강조 표시. 명중률 크게 증가."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Laser_ReconSight, REC:
 # COBJ:DESC
 msgctxt "00025D"
 msgid "Marks enemies while Aiming, and greatly increases Accuracy."
-msgstr ""
+msgstr "정조준 중 적을 강조 표시. 명중률 크게 증가."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Laser_None, REC: COBJ:DESC
 msgctxt "00025F"
 msgid "Empty laser sight attachment."
-msgstr ""
+msgstr "레이저 표적 지시기 미부착."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Laser_LaserSight, REC:
 # COBJ:DESC
@@ -295,37 +309,37 @@ msgctxt "000260"
 msgid ""
 "Laser Sight attachment to help with target acquisition and increase "
 "Accuracy."
-msgstr ""
+msgstr "레이저 표적 지시기 부착. 목표물 포착 능력, 명중률 증가."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Internal_None, REC:
 # COBJ:DESC
 msgctxt "000261"
 msgid "Empty internal module."
-msgstr ""
+msgstr "내장 부품 없음."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Grip_TacticalStock, REC:
 # COBJ:DESC
 msgctxt "000262"
 msgid "Lighter stock for quicker Aim Down Sights speed and better Stability."
-msgstr ""
+msgstr "경량화 개머리판. 정조준 속도 빨라짐, 안정성 증가."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Optics_IronSights, REC:
 # COBJ:DESC
 msgctxt "000263"
 msgid "Standard issue iron sights."
-msgstr ""
+msgstr "표준 사양 기계식 조준기."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Optics_ShortScope, REC:
 # COBJ:DESC
 msgctxt "000264"
 msgid "Short scope for 2x magnified view."
-msgstr ""
+msgstr "배율 2배의 저배율 조준경."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Internal_Overclocked, REC:
 # COBJ:DESC
 msgctxt "000265"
 msgid "Increases Rate of Fire."
-msgstr ""
+msgstr "연사력 증가."
 
 # EDID: SFBGS001LC20_VaruunNote02, REC: BOOK:DESC
 msgctxt "00069F"
@@ -375,7 +389,7 @@ msgctxt "00079B"
 msgid ""
 "I don't have access to the Engineering Bay. I should be able to find an "
 "access card somewhere on the station."
-msgstr ""
+msgstr "엔지니어링 구역에 접근할 수 없다. 우주정거장 어딘가에서 출입 카드를 찾을 수 있을 것이다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "00079E"
@@ -384,6 +398,8 @@ msgid ""
 "people to stay away. If I want to find out what transpired there, I have no "
 "choice but to board."
 msgstr ""
+"오라클이라는 이름의 우주정거장을 발견했다. 오라클은 사람들에게 접근하지 말라고 경고 신호를 보내고 있다. 오라클에서 무슨 일이 일어났는지 "
+"알아내려면, 승선하는 수밖에 없다."
 
 # EDID: SFBGS001_MS01_TevinaStateEvidence03, REC: BOOK:DESC
 msgctxt "000B7D"
@@ -738,9 +754,10 @@ msgid "A Va'ruun groat-flavored Chunks food cube. Now with more groat flavor!"
 msgstr ""
 
 # EDID: SFBGS001_Food_Produce_Seaweed, REC: ALCH:DESC
+#, fuzzy
 msgctxt "0011A9"
 msgid "Cultivated and harvested on Va'ruun'kai."
-msgstr ""
+msgstr "바룬카이에서 재배하고 수확한 제품이다."
 
 # EDID: SFBGS001_Food_Meat_Groat, REC: ALCH:DESC
 msgctxt "0011AB"
@@ -814,9 +831,10 @@ msgid ""
 msgstr ""
 
 # EDID: SFBGS001_SQ_Crew_SpawnManager, REC: QUST:CNAM
+#, fuzzy
 msgctxt "001440"
 msgid "Stop()"
-msgstr ""
+msgstr "Stop()"
 
 # EDID: SFBGS001_VkaiZ03_DumpsterName, REC: MESG:DESC
 msgctxt "0016B1"
@@ -999,16 +1017,19 @@ msgid ""
 msgstr ""
 
 # EDID: SFBGS001_mod_CCT_Temperament_Aggro, REC: OMOD:DESC
+#, fuzzy
 msgctxt "001D8A"
 msgid ""
 "Attacks enemies and neutrals on sight. Confidence: Foolhardy. Will never "
 "retreat from combat - will fight to the death."
 msgstr ""
+"Attacks enemies and neutrals on sight. Confidence: Foolhardy. Will never "
+"retreat from combat - will fight to the death."
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Barrel_Fluted, REC: OMOD:DESC
 msgctxt "001D9B"
 msgid "A lighter barrel with increased accuracy and recoil control."
-msgstr ""
+msgstr "경량화 총열. 명중률, 반동 제어 증가."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Barrel_Fluted, REC:
 # COBJ:DESC
@@ -1016,13 +1037,13 @@ msgctxt "001D9D"
 msgid ""
 "Specialized, mag-assisted barrels vastly increases Accuracy and Recoil "
 "control at the cost of Aim Down Sights speed while standing still."
-msgstr ""
+msgstr "특수 자기 보조 총열. 가만히 서 있는 상태에서 명중률, 반동 제어 크게 증가. 정조준 속도 느려짐."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Muzzle_Standard, REC:
 # COBJ:DESC
 msgctxt "001D9E"
 msgid "Standard issue muzzle."
-msgstr ""
+msgstr "표준 사양 총구."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Muzzle_Brake, REC:
 # COBJ:DESC
@@ -1030,7 +1051,7 @@ msgctxt "001D9F"
 msgid ""
 "Increases long-range Accuracy and Stability at the cost of Hip-Fire "
 "accuracy."
-msgstr ""
+msgstr "장거리 사격 명중률, 안정성 증가. 지향 사격 명중률 감소."
 
 # EDID: SFBGS001_co_gun_mod_ParticleRocketLauncher_Muzzle_Compensator, REC:
 # COBJ:DESC
@@ -1038,17 +1059,17 @@ msgctxt "001DA0"
 msgid ""
 "Increases Stability and Hip-Fire accuracy at the cost of long-range "
 "Accuracy."
-msgstr ""
+msgstr "안정성, 지향 사격 명중률 증가. 장거리 사격 명중률 감소."
 
 # EDID: SFBGS001LC06_BattleDamageModPerk, REC: PERK:DESC
 msgctxt "001DA3"
 msgid "EM Resistant"
-msgstr ""
+msgstr "전자기 저항"
 
 # EDID: SFBGS001_LC08, REC: QUST:CNAM
 msgctxt "001FFE"
 msgid "Explore the cave, find the treasure."
-msgstr ""
+msgstr "동굴을 둘러보고, 보물을 찾자."
 
 # EDID: SFBGS001_LC08_Human_Slate000, REC: BOOK:DESC
 msgctxt "002005"
@@ -1111,49 +1132,50 @@ msgid "Add tranquilizer to Amila's cup, Borhal's, or both?"
 msgstr ""
 
 # EDID: mod_CCT_RaceOverrides_Teleport, REC: OMOD:DESC
+#, fuzzy
 msgctxt "002374"
 msgid "Creature can teleport in combat."
-msgstr ""
+msgstr "Creature can teleport in combat."
 
 # EDID: SFBGS001_mod_CCT_Skin_QuadrupedAGroatFemale, REC: OMOD:DESC
 msgctxt "0023B6"
 msgid "QuadrupedA Groat Female"
-msgstr ""
+msgstr "QuadrupedA Groat Female"
 
 # EDID: SFBGS001_mod_CCT_Skin_QuadrupedAGroatKid, REC: OMOD:DESC
 msgctxt "0023B8"
 msgid "QuadrupedA Groat Kid"
-msgstr ""
+msgstr "QuadrupedA Groat Kid"
 
 # EDID: SFBGS001_mod_CCT_Skin_QuadrupedAGroatMale, REC: OMOD:DESC
 msgctxt "0023BA"
 msgid "QuadrupedA Groat Male"
-msgstr ""
+msgstr "QuadrupedA Groat Male"
 
 # EDID: SFBGS001_mod_CCT_Skin_BipedABladedBack_Varuunkai, REC: OMOD:DESC
 msgctxt "0023CF"
 msgid "Va'ruun'kai Biped A Bladed Back"
-msgstr ""
+msgstr "Va'ruun'kai Biped A Bladed Back"
 
 # EDID: SFBGS001_mod_CCT_Skin_FloaterANautiloos_VaruunkaiDe, REC: OMOD:DESC
 msgctxt "0023D1"
 msgid "Va'ruun'kai Floater Nautiloos Skin - Desert"
-msgstr ""
+msgstr "Va'ruun'kai Floater Nautiloos Skin - Desert"
 
 # EDID: SFBGS001_mod_CCT_Skin_FlyerANautilus_VaruunkaiCaDe, REC: OMOD:DESC
 msgctxt "0023D3"
 msgid "Va'ruun'kai Flyer A Nautilus - Desert"
-msgstr ""
+msgstr "Va'ruun'kai Flyer A Nautilus - Desert"
 
 # EDID: SFBGS001_mod_CCT_Skin_LarvaAGrub_VaruunkaiDe, REC: OMOD:DESC
 msgctxt "0023D5"
 msgid "Va'ruun'kai Larva A Grub - Desert"
-msgstr ""
+msgstr "Va'ruun'kai Larva A Grub - Desert"
 
 # EDID: SFBGS001_mod_CCT_Skin_MantidAPlatedMantis_Varuunkai, REC: OMOD:DESC
 msgctxt "0023D7"
 msgid "Va'ruun'kai MantidA Plated Mantis Skin"
-msgstr ""
+msgstr "Va'ruun'kai MantidA Plated Mantis Skin"
 
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Handle_ForceExtruded, REC:
 # COBJ:DESC
@@ -1187,48 +1209,48 @@ msgstr ""
 # OMOD:DESC
 msgctxt "00267A"
 msgid "Va'ruun'kai Floater Nautiloos Skin - Frozen"
-msgstr ""
+msgstr "Va'ruun'kai Floater Nautiloos Skin - Frozen"
 
 # EDID: SFBGS001_mod_CCT_Skin_FlyerANautilus_VaruunkaiCaDeFr, REC: OMOD:DESC
 msgctxt "00267C"
 msgid "Va'ruun'kai Flyer A Nautilus - Frozen"
-msgstr ""
+msgstr "Va'ruun'kai Flyer A Nautilus - Frozen"
 
 # EDID: SFBGS001_mod_CCT_Skin_LarvaAGrub_VaruunkaiCaDeFr, REC: OMOD:DESC
 msgctxt "00267E"
 msgid "Va'ruun'kai Larva A Grub - Frozen"
-msgstr ""
+msgstr "Va'ruun'kai Larva A Grub - Frozen"
 
 # EDID: SFBGS001_mod_CCT_Skin_MantidAPlatedMantis_VaruunkaiFr, REC: OMOD:DESC
 msgctxt "002680"
 msgid "Va'ruun'kai MantidA Plated Mantis - Frozen"
-msgstr ""
+msgstr "Va'ruun'kai MantidA Plated Mantis - Frozen"
 
 # EDID: SFBGS001_mod_CCT_Skin_BipedABladedBack_VaruunkaiDeCa, REC: OMOD:DESC
 msgctxt "00272D"
 msgid "Va'ruun'kai Biped A Bladed Back - Desert"
-msgstr ""
+msgstr "Va'ruun'kai Biped A Bladed Back - Desert"
 
 # EDID: SFBGS001_mod_CCT_Skin_FloaterANautiloos_VaruunkaiCaDeFr, REC:
 # OMOD:DESC
 msgctxt "00272F"
 msgid "Va'ruun'kai Floater Nautiloos Skin - Desert II"
-msgstr ""
+msgstr "Va'ruun'kai Floater Nautiloos Skin - Desert II"
 
 # EDID: SFBGS001_mod_CCT_Skin_FlyerANautilus_VaruunkaiCa, REC: OMOD:DESC
 msgctxt "002731"
 msgid "Va'ruun'kai Flyer A Nautilus - Desert II"
-msgstr ""
+msgstr "Va'ruun'kai Flyer A Nautilus - Desert II"
 
 # EDID: SFBGS001_mod_CCT_Skin_LarvaAGrub_VaruunkaiCa, REC: OMOD:DESC
 msgctxt "002733"
 msgid "Va'ruun'kai Larva A Grub - Desert II"
-msgstr ""
+msgstr "Va'ruun'kai Larva A Grub - Desert II"
 
 # EDID: SFBGS001_mod_CCT_Skin_MantidAPlatedMantis_VaruunkaiDe, REC: OMOD:DESC
 msgctxt "002735"
 msgid "Va'ruun'kai MantidA Plated Mantis - Desert II"
-msgstr ""
+msgstr "Va'ruun'kai MantidA Plated Mantis - Desert II"
 
 # EDID: SFBGS001_MS01_ApprovalSlate, REC: BOOK:DESC
 msgctxt "01103E"
@@ -1243,14 +1265,14 @@ msgctxt "0110A8"
 msgid ""
 "Upon entering a tomb on the surface of Va'ruun'kai, I heard a voice within "
 "calling out for help."
-msgstr ""
+msgstr "바룬카이 지표면에 있는 무덤에 들어갔을 때, 그 안에서 도움을 요청하는 목소리를 들었다."
 
 # EDID: SFBGS001_MS01, REC: QUST:CNAM
 msgctxt "0110B6"
 msgid ""
 "I've uncovered evidence that the missing supplies were being routed to "
 "Zealots. I should return to Qisrani and inform her immediately."
-msgstr ""
+msgstr "사라진 보급품이 광신도들에게 전달되었다는 증거를 발견했다. 키스라니에게 돌아가서 즉시 알려야겠다."
 
 # EDID: SFBGS001_MS01_AudioLog02Slate, REC: BOOK:DESC
 msgctxt "0110C2"
@@ -1297,6 +1319,8 @@ msgid ""
 "Veth'aal jump the station back home to transmit the data they and their "
 "science team had gathered. Unfortunately, Sirak didn't live to see it."
 msgstr ""
+"나는 오라클이라는 이름의 우주정거장을 발견했고, 시락 베타알과 시락의 과학팀이 수집한 데이터를 전송하기 위해 우주정거장을 중력 도약시켜 "
+"고향으로 돌아가는 작업을 도을 수 있었다. 안타깝게도 시락은 고향에 도착하는 순간을 보지 못했다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "011178"
@@ -1305,6 +1329,8 @@ msgid ""
 "transmitted the data they had collected. An incoming transmission came "
 "through. I should listen to whomever is speaking."
 msgstr ""
+"프로토콜의 일환으로, 오라클은 시락의 고향 행성 궤도로 중력 도약하여 수집한 데이터를 전송했다. 수신 전송 신호가 들어왔다. 누가 말하든 "
+"귀를 기울여야 할 것이다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "011179"
@@ -1546,7 +1572,7 @@ msgstr ""
 # COBJ:DESC
 msgctxt "0114B9"
 msgid "Changes shots to fire in a shotgun-like spread."
-msgstr ""
+msgstr "실탄이 산탄총처럼 퍼져서 발사됨."
 
 # EDID: SFBGS001_VkaiZ03_AudioSlate05, REC: BOOK:DESC
 msgctxt "011639"
@@ -2159,154 +2185,154 @@ msgstr ""
 # EDID: SFBGS001_mod_VaruunOrion_Optics_IronSights, REC: OMOD:DESC
 msgctxt "012548"
 msgid "Improved focus and better sighted accuracy."
-msgstr ""
+msgstr "초점 정렬, 시각 명중률 증가."
 
 # EDID: SFBGS001_mod_VaruunOrion_Optics_MediumScope, REC: OMOD:DESC
 msgctxt "01254A"
 msgid "Improved focus and better sighted accuracy."
-msgstr ""
+msgstr "초점 정렬, 시각 명중률 증가."
 
 # EDID: SFBGS001_mod_VaruunOrion_Optics_ReconScope, REC: OMOD:DESC
 msgctxt "01254C"
 msgid "Improved focus and better sighted accuracy."
-msgstr ""
+msgstr "초점 정렬, 시각 명중률 증가."
 
 # EDID: SFBGS001_mod_VaruunOrion_Optics_ReflexSight, REC: OMOD:DESC
 msgctxt "01254E"
 msgid "Improved focus and better sighted accuracy."
-msgstr ""
+msgstr "초점 정렬, 시각 명중률 증가."
 
 # EDID: SFBGS001_mod_VaruunOrion_Optics_ShortScope, REC: OMOD:DESC
 msgctxt "012550"
 msgid "Improved focus and better sighted accuracy."
-msgstr ""
+msgstr "초점 정렬, 시각 명중률 증가."
 
 # EDID: SFBGS001_mod_CCT_Skin_BipedABladedBack_VaruunkaiDeFr, REC: OMOD:DESC
 msgctxt "012558"
 msgid "Va'ruun'kai Biped A Bladed Back - Desert"
-msgstr ""
+msgstr "Va'ruun'kai Biped A Bladed Back - Desert"
 
 # EDID: SFBGS001_mod_VaruunOrion_Laser_ReconSight, REC: OMOD:DESC
 msgctxt "01255A"
 msgid "Adds a recon sight."
-msgstr ""
+msgstr "수색 표적 지시기 추가."
 
 # EDID: SFBGS001_mod_VaruunOrion_Laser_LaserSight, REC: OMOD:DESC
 msgctxt "01255D"
 msgid "Adds Laser Sight."
-msgstr ""
+msgstr "레이저 표적 지시기 추가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Grip_StabilizingStock, REC: COBJ:DESC
 msgctxt "012595"
 msgid ""
 "Specialized, mag-assisted stock vastly increases Accuracy and Recoil control"
 " at the cost of Aim Down Sights speed while standing still."
-msgstr ""
+msgstr "특수 자기 보조 개머리판. 가만히 서 있는 상태에서 명중률, 반동 제어 크게 증가. 정조준 속도 느려짐."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Grip_Standard, REC: COBJ:DESC
 msgctxt "012596"
 msgid "Standard issue grip without a stock attachment."
-msgstr ""
+msgstr "표준 사양 손잡이. 개머리판 미부착."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Laser_LaserSight, REC: COBJ:DESC
 msgctxt "012598"
 msgid ""
 "Laser Sight attachment to help with target acquisition and increase "
 "Accuracy."
-msgstr ""
+msgstr "레이저 표적 지시기 부착. 목표물 포착 능력, 명중률 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Laser_None, REC: COBJ:DESC
 msgctxt "012599"
 msgid "Empty laser sight attachment."
-msgstr ""
+msgstr "레이저 표적 지시기 미부착."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Laser_ReconSight, REC: COBJ:DESC
 msgctxt "01259A"
 msgid "Marks enemies while Aiming, and greatly increases Accuracy."
-msgstr ""
+msgstr "정조준 중 적을 강조 표시. 명중률 크게 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Mag_EM, REC: COBJ:DESC
 msgctxt "01259B"
 msgid ""
 "Electromagnetic rounds that can knockout living creatures as well as disable"
 " robotic units for a time."
-msgstr ""
+msgstr "전자기탄. 일정 시간 동안 생물을 기절시키고 로봇 기체를 무력화."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Mag_IgnitionBeams, REC: COBJ:DESC
 msgctxt "01259C"
 msgid "Lasers do more damage and now burn enemies."
-msgstr ""
+msgstr "레이저 피해 증가. 적을 연소시킴."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Mag_Large, REC: COBJ:DESC
 msgctxt "01259D"
 msgid ""
 "Increases Ammo capacity at the cost of Aim Down Sight speed and Reload "
 "speed."
-msgstr ""
+msgstr "탄창 용량 증가, 정조준 속도, 재장전 속도 느려짐."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Mag_Small, REC: COBJ:DESC
 msgctxt "01259E"
 msgid ""
 "Increases Aim Down Sight speed and Reload speed at the cost of Ammo "
 "Capacity."
-msgstr ""
+msgstr "정조준 속도, 재장전 속도 빨라짐, 탄창 용량 감소."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Mag_Standard, REC: COBJ:DESC
 msgctxt "01259F"
 msgid "Standard issue magazine."
-msgstr ""
+msgstr "표준 사양 탄창."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Mag_Tactical, REC: COBJ:DESC
 msgctxt "0125A0"
 msgid ""
 "Lighter mag that vastly increases Aim Down Sight speed and Reload speed."
-msgstr ""
+msgstr "경량 탄창. 정조준 속도, 재장전 속도 크게 빨라짐."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Muzzle_FocalLens, REC: COBJ:DESC
 msgctxt "0125A1"
 msgid "Specialized lenses vastly increase accuracy."
-msgstr ""
+msgstr "특수 렌즈. 명중률 크게 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Muzzle_FocusNozzle, REC: COBJ:DESC
 msgctxt "0125A2"
 msgid "Increases Damage, Headshot Damage, and Range."
-msgstr ""
+msgstr "피해, 헤드샷 피해, 사거리 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Muzzle_None, REC: COBJ:DESC
 msgctxt "0125A3"
 msgid "Empty muzzle attachment."
-msgstr ""
+msgstr "총구 부품 미부착."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Muzzle_StealthLasers, REC: COBJ:DESC
 msgctxt "0125A4"
 msgid "Reduces the visibilty and acoustic intensity of lasers."
-msgstr ""
+msgstr "레이저의 가시성, 총성소리 감소."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Optics_IronSights, REC: COBJ:DESC
 msgctxt "0125A5"
 msgid "Basic iron sights."
-msgstr ""
+msgstr "기본 기계식 조준기."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Optics_MediumScope, REC: COBJ:DESC
 msgctxt "0125A6"
 msgid "Medium scope for 4x magnified view."
-msgstr ""
+msgstr "배율 4배의 중배율 조준경."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Optics_ReconScope, REC: COBJ:DESC
 msgctxt "0125A7"
 msgid "Marks enemies while Aiming."
-msgstr ""
+msgstr "정조준 중 적 강조 표시."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Optics_ReflexSight, REC: COBJ:DESC
 msgctxt "0125A8"
 msgid "Reflex sights for quicker target acquisition and visibility."
-msgstr ""
+msgstr "반사식 조준기. 목표물 포착 능력, 가시성 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Optics_ShortScope_Standard, REC:
 # COBJ:DESC
 msgctxt "0125A9"
 msgid "Short scope for 2x magnified view."
-msgstr ""
+msgstr "배율 2배의 저배율 조준경."
 
 # EDID: SFBGS001_MQ04_Footprints02MSG, REC: MESG:DESC
 msgctxt "012654"
@@ -2384,109 +2410,109 @@ msgstr ""
 # EDID: SFBGS001_mod_VaruunSolstice_Optics_HoloSight, REC: OMOD:DESC
 msgctxt "01273A"
 msgid "Improved focus and better sighted accuracy."
-msgstr ""
+msgstr "초점 정렬, 시각 명중률 증가."
 
 # EDID: SFBGS001_mod_VaruunSolstice_Optics_ReflexSight_Standard, REC:
 # OMOD:DESC
 msgctxt "01273C"
 msgid "Improved focus and better sighted accuracy."
-msgstr ""
+msgstr "초점 정렬, 시각 명중률 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Barrel_Standard_Laser, REC:
 # COBJ:DESC
 msgctxt "012748"
 msgid ""
 "Standard issue barrel with a Laser Sight for better target acquisition."
-msgstr ""
+msgstr "표준 사양 총열. 목표물 포착 능력을 향상시켜주는 레이저 표적 지시기 부착."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Barrel_Standard, REC: COBJ:DESC
 msgctxt "012749"
 msgid "Standard issue barrel."
-msgstr ""
+msgstr "표준 사양 총열."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Grip_Ergonomic, REC: COBJ:DESC
 msgctxt "01274A"
 msgid ""
 "A comfortable grip that helps increase Accuracy and Aim Down Sights speed."
-msgstr ""
+msgstr "쥐기 편한 손잡이. 명중률 증가, 정조준 속도 빨라짐."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Mag_Standard, REC: COBJ:DESC
 msgctxt "01274B"
 msgid "Standard issue magazine."
-msgstr ""
+msgstr "표준 사양 탄창."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Grip_Tactical, REC: COBJ:DESC
 msgctxt "01274C"
 msgid ""
 "A lighter grip that increases Aim Down Sight speed, Reload speed, and "
 "Stability."
-msgstr ""
+msgstr "경량화 손잡이. 정조준 속도, 재장전 속도 빨라짐, 안정성 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Muzzle_None, REC: COBJ:DESC
 msgctxt "01274D"
 msgid "Empty muzzle attachment."
-msgstr ""
+msgstr "총구 부품 미부착."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Muzzle_StealthLaser, REC: COBJ:DESC
 msgctxt "01274E"
 msgid "Reduces the visibilty and acoustic intensity of lasers."
-msgstr ""
+msgstr "레이저의 가시성, 총성소리 감소."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Receiver_FullAuto, REC: COBJ:DESC
 msgctxt "01274F"
 msgid "Receiver that fires continuously while the trigger is pulled."
-msgstr ""
+msgstr "방아쇠를 당기는 동안 연속으로 발사하는 격발 장치."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Receiver_SemiAuto_Standard, REC:
 # COBJ:DESC
 msgctxt "012750"
 msgid "Receiver that fires once per trigger pull."
-msgstr ""
+msgstr "방아쇠를 당길 때마다 한 발씩 발사하는 격발 장치."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Optics_HoloSight, REC: COBJ:DESC
 msgctxt "012751"
 msgid "Holographic sight for increased target visibility."
-msgstr ""
+msgstr "목표물에 대한 가시성을 높여주는 홀로그램 조준기."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Optics_ReflexSight_Standard, REC:
 # COBJ:DESC
 msgctxt "012752"
 msgid "Standard reflex sights for better target acquisition and visibility."
-msgstr ""
+msgstr "표준 사양 반사식 조준기. 목표물 포착 능력, 가시성 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Muzzle_FocalLens, REC: COBJ:DESC
 msgctxt "012753"
 msgid "Specialized lenses vastly increase accuracy."
-msgstr ""
+msgstr "특수 렌즈. 명중률 크게 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Grip_Standard, REC: COBJ:DESC
 msgctxt "012754"
 msgid "Standard issue grip."
-msgstr ""
+msgstr "표준 사양 손잡이."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Mag_IgnitionBeams, REC: COBJ:DESC
 msgctxt "012755"
 msgid "Lasers do more damage and now burn enemies."
-msgstr ""
+msgstr "레이저 피해 증가. 적을 연소시킴."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Mag_EM, REC: COBJ:DESC
 msgctxt "012756"
 msgid ""
 "Electromagnetic rounds that can knockout living creatures as well as disable"
 " robotic units for a time."
-msgstr ""
+msgstr "전자기탄. 일정 시간 동안 생물을 기절시키고 로봇 기체를 무력화."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Laser_LaserSight, REC: COBJ:DESC
 msgctxt "012757"
 msgid ""
 "Laser Sight attachment to help with target acquisition and increase "
 "Accuracy."
-msgstr ""
+msgstr "레이저 표적 지시기 부착. 목표물 포착 능력, 명중률 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunSolstice_Muzzle_FocusNozzle, REC: COBJ:DESC
 msgctxt "012758"
 msgid "Increases Damage, Headshot Damage, and Range."
-msgstr ""
+msgstr "피해, 헤드샷 피해, 사거리 증가."
 
 # EDID: MS04_SpacerSlate01COPY0000, REC: BOOK:DESC
 msgctxt "01278D"
@@ -2503,7 +2529,7 @@ msgstr ""
 # EDID: SFBGS001_LC08, REC: QUST:CNAM
 msgctxt "012826"
 msgid "Unlock the treasure chest."
-msgstr ""
+msgstr "보물 상자를 열자."
 
 # EDID: SFBGS001_LC48Slate_Heirlooms, REC: BOOK:DESC
 msgctxt "01286E"
@@ -2538,149 +2564,149 @@ msgstr ""
 # EDID: SFBGS001_mod_VaruunEquinox_Optics_MediumScope, REC: OMOD:DESC
 msgctxt "012879"
 msgid "Improved focus and better sighted accuracy."
-msgstr ""
+msgstr "초점 정렬, 시각 명중률 증가."
 
 # EDID: SFBGS001_mod_VaruunEquinox_Optics_ReconScope, REC: OMOD:DESC
 msgctxt "01287B"
 msgid "Improved focus and better sighted accuracy."
-msgstr ""
+msgstr "초점 정렬, 시각 명중률 증가."
 
 # EDID: SFBGS001_mod_VaruunEquinox_Optics_ReflexSight_Standard, REC: OMOD:DESC
 msgctxt "01287D"
 msgid "Improved focus and better sighted accuracy."
-msgstr ""
+msgstr "초점 정렬, 시각 명중률 증가."
 
 # EDID: SFBGS001_mod_VaruunEquinox_Optics_ShortScope, REC: OMOD:DESC
 msgctxt "01287F"
 msgid "Improved focus and better sighted accuracy."
-msgstr ""
+msgstr "초점 정렬, 시각 명중률 증가."
 
 # EDID: SFBGS001_mod_VaruunEquinox_Laser_LaserSight, REC: OMOD:DESC
 msgctxt "012892"
 msgid "Adds Laser Sight."
-msgstr ""
+msgstr "레이저 표적 지시기 추가."
 
 # EDID: SFBGS001_mod_VaruunEquinox_Laser_ReconSight, REC: OMOD:DESC
 msgctxt "012895"
 msgid "Adds a recon sight."
-msgstr ""
+msgstr "수색 표적 지시기 추가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Receiver_SemiAuto_Standard, REC:
 # COBJ:DESC
 msgctxt "01289B"
 msgid "Receiver that fires once per trigger pull."
-msgstr ""
+msgstr "방아쇠를 당길 때마다 한 발씩 발사하는 격발 장치."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Receiver_FullAuto, REC: COBJ:DESC
 msgctxt "01289C"
 msgid "Receiver that fires continuously while the trigger is pulled."
-msgstr ""
+msgstr "방아쇠를 당기는 동안 연속으로 발사하는 격발 장치."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Mag_Large, REC: COBJ:DESC
 msgctxt "01289D"
 msgid ""
 "Increases Ammo capacity at the cost of Aim Down Sight speed and Reload "
 "speed."
-msgstr ""
+msgstr "탄창 용량 증가, 정조준 속도, 재장전 속도 느려짐."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Internal_None, REC: COBJ:DESC
 msgctxt "0128A0"
 msgid "Empty internal module."
-msgstr ""
+msgstr "내장 부품 없음."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Internal_Overclocked, REC: COBJ:DESC
 msgctxt "0128A1"
 msgid "Increases Rate of Fire."
-msgstr ""
+msgstr "연사력 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Internal_PrecisionTuning, REC:
 # COBJ:DESC
 msgctxt "0128A2"
 msgid "Precisely tuned to increase Accuracy and Range."
-msgstr ""
+msgstr "정밀 조정한 내장 부품. 명중률, 사거리 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Laser_LaserSight, REC: COBJ:DESC
 msgctxt "0128A3"
 msgid ""
 "Laser Sight attachment to help with target acquisition and increase "
 "Accuracy."
-msgstr ""
+msgstr "레이저 표적 지시기 부착. 목표물 포착 능력, 명중률 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Laser_None, REC: COBJ:DESC
 msgctxt "0128A4"
 msgid "Empty laser sight attachment."
-msgstr ""
+msgstr "레이저 표적 지시기 미부착."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Laser_ReconSight, REC: COBJ:DESC
 msgctxt "0128A5"
 msgid "Marks enemies while Aiming, and greatly increases Accuracy."
-msgstr ""
+msgstr "정조준 중 적을 강조 표시. 명중률 크게 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Mag_EM, REC: COBJ:DESC
 msgctxt "0128A6"
 msgid ""
 "Electromagnetic rounds that can knockout living creatures as well as disable"
 " robotic units for a time."
-msgstr ""
+msgstr "전자기탄. 일정 시간 동안 생물을 기절시키고 로봇 기체를 무력화."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Mag_IgnitionBeams, REC: COBJ:DESC
 msgctxt "0128A7"
 msgid "Lasers do more damage and now burn enemies."
-msgstr ""
+msgstr "레이저 피해 증가. 적을 연소시킴."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Optics_ShortScope, REC: COBJ:DESC
 msgctxt "0128A8"
 msgid "Short scope for 2x magnified view."
-msgstr ""
+msgstr "배율 2배의 저배율 조준경."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Mag_Small, REC: COBJ:DESC
 msgctxt "0128A9"
 msgid ""
 "Increases Aim Down Sight speed and Reload speed at the cost of Ammo "
 "Capacity."
-msgstr ""
+msgstr "정조준 속도, 재장전 속도 빨라짐, 탄창 용량 감소."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Mag_Standard, REC: COBJ:DESC
 msgctxt "0128AA"
 msgid "Standard issue magazine."
-msgstr ""
+msgstr "표준 사양 탄창."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Mag_Tactical, REC: COBJ:DESC
 msgctxt "0128AB"
 msgid ""
 "Lighter mag that vastly increases Aim Down Sight speed and Reload speed."
-msgstr ""
+msgstr "경량 탄창. 정조준 속도, 재장전 속도 크게 빨라짐."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Muzzle_None, REC: COBJ:DESC
 msgctxt "0128AC"
 msgid "Empty muzzle attachment."
-msgstr ""
+msgstr "총구 부품 미부착."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Muzzle_StealthLaser, REC: COBJ:DESC
 msgctxt "0128AD"
 msgid "Reduces the visibilty and acoustic intensity of lasers."
-msgstr ""
+msgstr "레이저의 가시성, 총성소리 감소."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Optics_MediumScope, REC: COBJ:DESC
 msgctxt "0128AE"
 msgid "Medium scope for 4x magnified view."
-msgstr ""
+msgstr "배율 4배의 중배율 조준경."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Optics_ReconScope, REC: COBJ:DESC
 msgctxt "0128AF"
 msgid "Marks enemies while Aiming."
-msgstr ""
+msgstr "정조준 중 적 강조 표시."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Optics_ReflexSight_Standard, REC:
 # COBJ:DESC
 msgctxt "0128B0"
 msgid "Standard reflex sight for better target acquisition."
-msgstr ""
+msgstr "표준 사양 반사식 조준기. 목표물 포착 능력 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunEquinox_Internal_Amplifier, REC: COBJ:DESC
 msgctxt "0128B1"
 msgid "Amplifies power output, increasing damage."
-msgstr ""
+msgstr "출력 증폭, 피해 증가."
 
 # EDID: SFBGS001_MS01, REC: QUST:CNAM
 msgctxt "012A48"
@@ -3403,23 +3429,23 @@ msgstr ""
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Internal_Amplifier, REC: COBJ:DESC
 msgctxt "013A3F"
 msgid "Amplifies power output, increasing damage."
-msgstr ""
+msgstr "출력 증폭, 피해 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Internal_None, REC: COBJ:DESC
 msgctxt "013A40"
 msgid "Empty internal module."
-msgstr ""
+msgstr "내장 부품 없음."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Internal_Overclocked, REC: COBJ:DESC
 msgctxt "013A41"
 msgid "Increases Rate of Fire."
-msgstr ""
+msgstr "연사력 증가."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Internal_PrecisionTuning, REC:
 # COBJ:DESC
 msgctxt "013A42"
 msgid "Precisely tuned to increase Accuracy and Range."
-msgstr ""
+msgstr "정밀 조정한 내장 부품. 명중률, 사거리 증가."
 
 # EDID: SFBGS001_DazraZ01, REC: QUST:CNAM
 msgctxt "013AB9"
@@ -4686,7 +4712,7 @@ msgstr ""
 # EDID: SFBGS001_NPC_MQ05_Phantom_Maleen_Perk, REC: PERK:DESC
 msgctxt "014ABB"
 msgid "EM Resistant"
-msgstr ""
+msgstr "전자기 저항"
 
 # EDID: SFBGS001_LC15Slate_Kalyn, REC: BOOK:DESC
 msgctxt "014AC4"
@@ -4946,9 +4972,10 @@ msgid ""
 msgstr ""
 
 # EDID: SFBGS001_mod_CCT_Combat_Increased_Health2, REC: OMOD:DESC
+#, fuzzy
 msgctxt "014B02"
 msgid "1.25x health."
-msgstr ""
+msgstr "1.25x health."
 
 # EDID: SFBGS001_VkaiZ01_MessageRedemption, REC: MESG:DESC
 msgctxt "014B06"
@@ -5693,12 +5720,12 @@ msgstr ""
 # EDID: SFBGS001_mod_VaruunOrion_Receiver_SemiAuto_FangBroken, REC: OMOD:DESC
 msgctxt "014C87"
 msgid "Semi-Automatic receiver for the Orion Laser Rifle."
-msgstr ""
+msgstr "오리온 레이저 소총용 반자동 격발 장치."
 
 # EDID: SFBGS001_mod_VaruunOrion_Optics_FangBroken, REC: OMOD:DESC
 msgctxt "014C89"
 msgid "Improved focus and better sighted accuracy."
-msgstr ""
+msgstr "초점 정렬, 시각 명중률 증가."
 
 # EDID: SFBGS001_DazraZ03, REC: QUST:CNAM
 msgctxt "014CBE"
@@ -5797,20 +5824,23 @@ msgstr ""
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Receiver_SemiAuto, REC: COBJ:DESC
 msgctxt "014CFA"
 msgid "Receiver that fires once per trigger pull."
-msgstr ""
+msgstr "방아쇠를 당길 때마다 한 발씩 발사하는 격발 장치."
 
 # EDID: SFBGS001_co_gun_mod_VaruunOrion_Receiver_BurstFire_Standard, REC:
 # COBJ:DESC
 msgctxt "014CFB"
 msgid "Receiver that fires 3 rounds per trigger pull."
-msgstr ""
+msgstr "방아쇠를 당길 때마다 3발씩 발사하는 격발 장치."
 
 # EDID: SFBGS001_mod_CCT_Temperament_Predator_NoWarn, REC: OMOD:DESC
+#, fuzzy
 msgctxt "014D33"
 msgid ""
 "Creature will attack anything within 8m; will attack prey within "
 "20m.Confidence: Brave"
 msgstr ""
+"Creature will attack anything within 8m; will attack prey within 20m."
+"Confidence: Brave"
 
 # EDID: SFBGS001_Craft_VortexGrenades_Achievement_New, REC: CHAL:DESC
 msgctxt "014D5E"
@@ -5890,37 +5920,37 @@ msgstr ""
 # EDID: SFBGS001_mod_RedeemedBlade_Blade_AlloyedSteel, REC: OMOD:DESC
 msgctxt "014DEB"
 msgid "Improved Sneak Attack Damage."
-msgstr ""
+msgstr "은신 공격 피해 증가."
 
 # EDID: SFBGS001_mod_RedeemedBlade_Handle_ForceExtruded, REC: OMOD:DESC
 msgctxt "014DEC"
 msgid "Raises Damage, Lowers Attack Speed."
-msgstr ""
+msgstr "피해 증가, 공격 속도 느려짐."
 
 # EDID: SFBGS001_mod_RedeemedBlade_Blade_HighCarbonSteel, REC: OMOD:DESC
 msgctxt "014DED"
 msgid "Increased damage"
-msgstr ""
+msgstr "피해 증가."
 
 # EDID: SFBGS001_mod_RedeemedBlade_Handle_Weighted, REC: OMOD:DESC
 msgctxt "014DEF"
 msgid "Raises Damage, Lowers Attack Speed."
-msgstr ""
+msgstr "피해 증가, 공격 속도 느려짐."
 
 # EDID: SFBGS001_mod_RedeemedBlade_Handle_Ergonomic, REC: OMOD:DESC
 msgctxt "014DF0"
 msgid "Increases Critical Damage, Lowers Attack Speed."
-msgstr ""
+msgstr "치명타 피해 증가, 공격 속도 느려짐."
 
 # EDID: SFBGS001_mod_RedeemedBlade_Handle_Alloy, REC: OMOD:DESC
 msgctxt "014DF1"
 msgid "Raises Attack Speed, Lowers Damage."
-msgstr ""
+msgstr "공격 속도 빨라짐, 피해 감소."
 
 # EDID: SFBGS001_mod_RedeemedBlade_Handle_ExperimentalAlloy, REC: OMOD:DESC
 msgctxt "014DF2"
 msgid "Ignores percentage of enemy armor."
-msgstr ""
+msgstr "대상의 방어력을 일정 비율만큼 무시."
 
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Blade_Corroding, REC: COBJ:DESC
 msgctxt "014DF3"
@@ -5994,4 +6024,4 @@ msgstr ""
 # EDID: SFBGS001_NPC_VaruunRedeemed_Perk, REC: PERK:DESC
 msgctxt "03380A"
 msgid "EM Resistant"
-msgstr ""
+msgstr "전자기 저항"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-10-01 14:23+0000\n"
+"PO-Revision-Date: 2024-10-01 16:21+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -1932,7 +1932,7 @@ msgstr "선명한 볼텍스 스폰"
 # EDID: SFBGS001_ParasiteA_VortexSpawn, REC: NPC_:FULL
 msgctxt "000B53"
 msgid "Heatleech"
-msgstr ""
+msgstr "열거머리"
 
 # EDID: SFBGS001_MQ01_Announcer_NoAppearanceData, REC: NPC_:SHRT
 msgctxt "000B54"
@@ -2032,47 +2032,47 @@ msgstr "볼텍스 호러링"
 # EDID: SFBGS001_MS01_HV_MujeenKadic, REC: NPC_:FULL
 msgctxt "000B69"
 msgid "Mujeen Ka'dic"
-msgstr ""
+msgstr "무진 카딕"
 
 # EDID: SFBGS001_MS01_HV_UkaruDulkehf, REC: NPC_:FULL
 msgctxt "000B6A"
 msgid "Ukaru Dul'kehf"
-msgstr ""
+msgstr "우카루 둘케프"
 
 # EDID: SFBGS001_MS01_HV_TevinaVethaal, REC: NPC_:FULL
 msgctxt "000B6B"
 msgid "Tevina Veth'aal"
-msgstr ""
+msgstr "테비나 베타알"
 
 # EDID: SFBGS001_HV_LC01_SirakVethaal, REC: NPC_:FULL
 msgctxt "000B6D"
 msgid "Sirak Veth'aal"
-msgstr ""
+msgstr "시락 베타알"
 
 # EDID: SFBGS001_MS01_HV_QisraniDulkehf, REC: NPC_:FULL
 msgctxt "000B6E"
 msgid "Qisrani Dul'kehf"
-msgstr ""
+msgstr "키스라니 둘케프"
 
 # EDID: SFBGS001_MS01_ZealotCaptain, REC: NPC_:FULL
 msgctxt "000B6F"
 msgid "Va'ruun Zealot Captain"
-msgstr ""
+msgstr "바룬 광신도 선장"
 
 # EDID: SFBGS001_MS01_Thugs, REC: NPC_:FULL
 msgctxt "000B70"
 msgid "Street Thugs"
-msgstr ""
+msgstr "길거리 깡패"
 
 # EDID: SFBGS001MQ06_Announcer_AUDIOONLY_NoAppearanceData, REC: NPC_:FULL
 msgctxt "000B71"
 msgid "Automated Message"
-msgstr ""
+msgstr "자동 메시지"
 
 # EDID: SFBGS001_HV_VorisNerun, REC: NPC_:FULL
 msgctxt "000B72"
 msgid "Voris Nerun"
-msgstr ""
+msgstr "보리스 네룬"
 
 # EDID: SFBGS001_MacKitBench_02, REC: FURN:FULL
 msgctxt "000B73"
@@ -3760,7 +3760,7 @@ msgstr "볼텍스 스폰"
 # EDID: SFBGS001_EncTerrormorph01Template_SpawnTest, REC: NPC_:FULL
 msgctxt "001288"
 msgid "Terrormorph"
-msgstr ""
+msgstr "테러모프"
 
 # EDID: SFBGS001_MQ03_SahimasResearch, REC: MISC:FULL
 msgctxt "001289"
@@ -6683,17 +6683,17 @@ msgstr "일반 NPC 세력"
 # EDID: SFBGS001_mod_CCT_Skin_QuadrupedAGroatFemale, REC: OMOD:FULL
 msgctxt "0023B7"
 msgid "QuadrupedA Groat Female"
-msgstr ""
+msgstr "QuadrupedA Groat Female"
 
 # EDID: SFBGS001_mod_CCT_Skin_QuadrupedAGroatKid, REC: OMOD:FULL
 msgctxt "0023B9"
 msgid "QuadrupedA Groat Kid"
-msgstr ""
+msgstr "QuadrupedA Groat Kid"
 
 # EDID: SFBGS001_mod_CCT_Skin_QuadrupedAGroatMale, REC: OMOD:FULL
 msgctxt "0023BB"
 msgid "QuadrupedA Groat Male"
-msgstr ""
+msgstr "QuadrupedA Groat Male"
 
 # EDID: SFBGS001_DialogueHVGenericVaruunGuards, REC: QUST:FULL
 msgctxt "0023CA"

@@ -8532,3 +8532,21 @@ msgstr "[새 저장 파일]"
 
 msgid "$?"
 msgstr "?"
+
+msgid "$CreationsReportingLegalText"
+msgstr "To report a Creation, visit https://creations.bethesda.net/starfield,  locate the Creation, select it, and click the 'REPORT' button."
+
+msgid "$EquipItemFailed"
+msgstr "Cannot equip item"
+
+msgid "$SaveGameContentPlatformUnavailable"
+msgstr "This save relies on content not available on this platform."
+
+msgid "$Settings_Quality_VeryLow"
+msgstr "Very Low"
+
+msgid "$Ship Builder Enable Loose Rules"
+msgstr "Ship Builder Allow Flip Merge"
+
+msgid "$Ship Builder Enable Loose Rules Desc"
+msgstr "Enable change to Ship Builder that reduces control of flipping objects but can allow for greater customization."

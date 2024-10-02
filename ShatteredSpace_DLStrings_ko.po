@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-10-01 16:21+0000\n"
+"PO-Revision-Date: 2024-10-03 12:34+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -498,12 +498,12 @@ msgstr ""
 # EDID: SFBGS001_mod_ParticleMachineGun_Barrel_Stabilizing, REC: OMOD:FULL
 msgctxt "000218"
 msgid "Stabilizing Barrel"
-msgstr ""
+msgstr "안정화 총열"
 
 # EDID: SFBGS001_mod_ParticleMachineGun_Barrel_Long, REC: OMOD:FULL
 msgctxt "00021A"
 msgid "Reinforced Barrel"
-msgstr ""
+msgstr "보강 총열"
 
 # EDID: SFBGS001_mod_RedeemedBlade_Blade_Standard, REC: OMOD:FULL
 msgctxt "00021B"
@@ -513,18 +513,18 @@ msgstr "표준 사양 칼날."
 # EDID: SFBGS001_mod_ParticleMachineGun_Muzzle_FocalLens, REC: OMOD:FULL
 msgctxt "00021D"
 msgid "Focal Lens"
-msgstr ""
+msgstr "초점 렌즈"
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Receiver_RocketLauncher, REC:
 # OMOD:FULL
 msgctxt "00021E"
 msgid "Rocket Launcher Receiver"
-msgstr ""
+msgstr "로켓 발사기 격발 장치"
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Optics_ShortScope, REC: OMOD:FULL
 msgctxt "000220"
 msgid "Short Scope"
-msgstr ""
+msgstr "저배율 조준경"
 
 # EDID: SFBGS001_mod_ParticleMachineGun_Grip_Tactical, REC: OMOD:FULL
 msgctxt "000221"
@@ -1712,7 +1712,7 @@ msgstr ""
 # EDID: SFBGS001_MQ06, REC: QUST:FULL
 msgctxt "000776"
 msgid "The Scaled Citadel"
-msgstr ""
+msgstr "비늘 성채"
 
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "00078D"
@@ -3915,7 +3915,7 @@ msgstr ""
 # EDID: SFBGS001LC06MapMarkerRef, REC: REFR:FULL
 msgctxt "001377"
 msgid "The Scaled Citadel"
-msgstr ""
+msgstr "비늘 성채"
 
 # EDID: SFBGS001LC47MapMarker, REC: REFR:FULL
 msgctxt "001378"
@@ -4320,7 +4320,7 @@ msgstr ""
 # EDID: SFBGS001LC06MapMarkerRef, REC: REFR:UNAM
 msgctxt "0014F9"
 msgid "The Scaled Citadel"
-msgstr ""
+msgstr "비늘 성채"
 
 # EDID: SFBGS001_MS03TranquilizerVial, REC: MISC:FULL
 msgctxt "0014FC"
@@ -6717,24 +6717,25 @@ msgid "Va'ruun'kai Biped A Bladed Back"
 msgstr ""
 
 # EDID: SFBGS001_mod_CCT_Skin_FloaterANautiloos_VaruunkaiDe, REC: OMOD:FULL
+#, fuzzy
 msgctxt "0023D2"
 msgid "Va'ruun'kai Floater Nautiloos Skin - Desert"
-msgstr ""
+msgstr "Va'ruun'kai Floater Nautiloos Skin - Desert"
 
 # EDID: SFBGS001_mod_CCT_Skin_FlyerANautilus_VaruunkaiCaDe, REC: OMOD:FULL
 msgctxt "0023D4"
 msgid "Va'ruun'kai Flyer A Nautilus - Desert"
-msgstr ""
+msgstr "Va'ruun'kai Flyer A Nautilus - Desert"
 
 # EDID: SFBGS001_mod_CCT_Skin_LarvaAGrub_VaruunkaiDe, REC: OMOD:FULL
 msgctxt "0023D6"
 msgid "Va'ruun'kai Larva A Grub - Desert"
-msgstr ""
+msgstr "Va'ruun'kai Larva A Grub - Desert"
 
 # EDID: SFBGS001_mod_CCT_Skin_MantidAPlatedMantis_Varuunkai, REC: OMOD:FULL
 msgctxt "0023D8"
 msgid "Va'ruun'kai MantidA Plated Mantis Skin"
-msgstr ""
+msgstr "Va'ruun'kai MantidA Plated Mantis Skin"
 
 # EDID: SFBGS001KeepLoadElevatorFloorNames, REC: MESG:ITXT
 msgctxt "0023D9"
@@ -7130,28 +7131,28 @@ msgstr ""
 # EDID: SFBGS001_HV_LC01_BasiraMir, REC: NPC_:FULL
 msgctxt "00266F"
 msgid "Basira Mir"
-msgstr ""
+msgstr "바시라 미르"
 
 # EDID: SFBGS001_mod_CCT_Skin_FloaterANautiloos_VaruunkaiFrCaDe, REC:
 # OMOD:FULL
 msgctxt "00267B"
 msgid "Va'ruun'kai Floater Nautiloos Skin - Frozen"
-msgstr ""
+msgstr "Va'ruun'kai Floater Nautiloos Skin - Frozen"
 
 # EDID: SFBGS001_mod_CCT_Skin_FlyerANautilus_VaruunkaiCaDeFr, REC: OMOD:FULL
 msgctxt "00267D"
 msgid "Va'ruun'kai Flyer A Nautilus - Frozen"
-msgstr ""
+msgstr "Va'ruun'kai Flyer A Nautilus - Frozen"
 
 # EDID: SFBGS001_mod_CCT_Skin_LarvaAGrub_VaruunkaiCaDeFr, REC: OMOD:FULL
 msgctxt "00267F"
 msgid "Va'ruun'kai Larva A Grub - Frozen"
-msgstr ""
+msgstr "Va'ruun'kai Larva A Grub - Frozen"
 
 # EDID: SFBGS001_mod_CCT_Skin_MantidAPlatedMantis_VaruunkaiFr, REC: OMOD:FULL
 msgctxt "002681"
 msgid "Va'ruun'kai MantidA Plated Mantis - Frozen"
-msgstr ""
+msgstr "Va'ruun'kai MantidA Plated Mantis - Frozen"
 
 # EDID: SFBGS001_Citadel_PICOPY0000, REC: PKIN:FULL
 msgctxt "0026B2"
@@ -7161,28 +7162,28 @@ msgstr "SFBGS001_Citadel_PI"
 # EDID: SFBGS001_mod_CCT_Skin_BipedABladedBack_VaruunkaiDeCa, REC: OMOD:FULL
 msgctxt "00272E"
 msgid "Va'ruun'kai Biped A Bladed Back - Desert"
-msgstr ""
+msgstr "Va'ruun'kai Biped A Bladed Back - Desert"
 
 # EDID: SFBGS001_mod_CCT_Skin_FloaterANautiloos_VaruunkaiCaDeFr, REC:
 # OMOD:FULL
 msgctxt "002730"
 msgid "Va'ruun'kai Floater Nautiloos Skin - Desert II"
-msgstr ""
+msgstr "Va'ruun'kai Floater Nautiloos Skin - Desert II"
 
 # EDID: SFBGS001_mod_CCT_Skin_FlyerANautilus_VaruunkaiCa, REC: OMOD:FULL
 msgctxt "002732"
 msgid "Va'ruun'kai Flyer A Nautilus - Desert II"
-msgstr ""
+msgstr "Va'ruun'kai Flyer A Nautilus - Desert II"
 
 # EDID: SFBGS001_mod_CCT_Skin_LarvaAGrub_VaruunkaiCa, REC: OMOD:FULL
 msgctxt "002734"
 msgid "Va'ruun'kai Larva A Grub - Desert II"
-msgstr ""
+msgstr "Va'ruun'kai Larva A Grub - Desert II"
 
 # EDID: SFBGS001_mod_CCT_Skin_MantidAPlatedMantis_VaruunkaiDe, REC: OMOD:FULL
 msgctxt "002736"
 msgid "Va'ruun'kai MantidA Plated Mantis  - Desert II"
-msgstr ""
+msgstr "Va'ruun'kai MantidA Plated Mantis  - Desert II"
 
 # EDID: SFBGS001LC06_Bench_UtilityE01_SpeakersHall, REC: FURN:FULL
 msgctxt "00706D"
@@ -10646,7 +10647,7 @@ msgstr ""
 # EDID: SFBGS001_mod_VaruunOrion_Muzzle_FocalLens, REC: OMOD:FULL
 msgctxt "012545"
 msgid "Focal Lens"
-msgstr ""
+msgstr "초점 렌즈"
 
 # EDID: SFBGS001_mod_VaruunOrion_Muzzle_FocusNozzle, REC: OMOD:FULL
 msgctxt "012546"
@@ -10681,7 +10682,7 @@ msgstr ""
 # EDID: SFBGS001_mod_VaruunOrion_Optics_ShortScope, REC: OMOD:FULL
 msgctxt "012551"
 msgid "Short Scope"
-msgstr ""
+msgstr "저배율 조준경"
 
 # EDID: SFBGS001_mod_VaruunOrion_Receiver_SemiAuto, REC: OMOD:FULL
 msgctxt "012553"
@@ -10691,7 +10692,7 @@ msgstr ""
 # EDID: SFBGS001_mod_VaruunOrion_Grip_Standard, REC: OMOD:FULL
 msgctxt "012554"
 msgid "Standard Grip"
-msgstr ""
+msgstr "표준 사양 손잡이"
 
 # EDID: SFBGS001_mod_VaruunOrion_Grip_StabilizingStock, REC: OMOD:FULL
 msgctxt "012555"
@@ -10711,7 +10712,7 @@ msgstr ""
 # EDID: SFBGS001_mod_CCT_Skin_BipedABladedBack_VaruunkaiDeFr, REC: OMOD:FULL
 msgctxt "012559"
 msgid "Va'ruun'kai Biped A Bladed Back - Frozen"
-msgstr ""
+msgstr "Va'ruun'kai Biped A Bladed Back - Frozen"
 
 # EDID: SFBGS001_mod_VaruunOrion_Laser_ReconSight, REC: OMOD:FULL
 msgctxt "01255B"
@@ -11187,7 +11188,7 @@ msgstr ""
 # EDID: SFBGS001_mod_VaruunSolstice_Muzzle_FocalLens, REC: OMOD:FULL
 msgctxt "012743"
 msgid "Focal Lens"
-msgstr ""
+msgstr "초점 렌즈"
 
 # EDID: SFBGS001_mod_VaruunSolstice_Muzzle_FocusNozzle, REC: OMOD:FULL
 msgctxt "012744"
@@ -11338,7 +11339,7 @@ msgstr ""
 # EDID: SFBGS001_mod_VaruunEquinox_Optics_ShortScope, REC: OMOD:FULL
 msgctxt "012880"
 msgid "Short Scope"
-msgstr ""
+msgstr "저배율 조준경"
 
 # EDID: SFBGS001_mod_VaruunEquinox_Quality_01, REC: OMOD:FULL
 msgctxt "012881"
@@ -11663,7 +11664,7 @@ msgstr ""
 # EDID: SFBGS001_Vendor_City_Dazra_MeatHouseContainer, REC: CONT:FULL
 msgctxt "012A9C"
 msgid "Goods Exchange Container"
-msgstr ""
+msgstr "상품 거래소 컨테이너"
 
 # EDID: SFBGS001_Vendor_City_Dazra_TheKeepContainer, REC: CONT:FULL
 msgctxt "012A9D"
@@ -11673,7 +11674,7 @@ msgstr ""
 # EDID: SFBGS001_Vendor_City_Dazra_GoodsExchangeContainer, REC: CONT:FULL
 msgctxt "012A9E"
 msgid "Goods Exchange Container"
-msgstr ""
+msgstr "상품 거래소 컨테이너"
 
 # EDID: SFBGS001_Vendor_City_Dazra_HeraldsRestContainer, REC: CONT:FULL
 msgctxt "012A9F"
@@ -11713,7 +11714,7 @@ msgstr ""
 # EDID: SFBGS001_Vendor_City_Dazra_MeatHouse_Faction, REC: FACT:FULL
 msgctxt "012AA6"
 msgid "Meat House"
-msgstr ""
+msgstr "훈제소"
 
 # EDID: SFBGS001_QuadrupedA_Groat_TrophyHead, REC: STAT:FULL
 msgctxt "012B23"
@@ -19695,42 +19696,42 @@ msgstr ""
 # EDID: CityMapMarkers_GoodsExchange001, REC: REFR:FULL
 msgctxt "014D06"
 msgid "Herald's Rest"
-msgstr ""
+msgstr "전령의 휴식처"
 
 # EDID: CityMapMarkers_AlterationClinic, REC: REFR:FULL
 msgctxt "014D07"
 msgid "Alteration Clinic"
-msgstr ""
+msgstr "변화의 진료소"
 
 # EDID: CityMapMarkers_VacantHouse, REC: REFR:FULL
 msgctxt "014D08"
 msgid "Vacant House"
-msgstr ""
+msgstr "빈집"
 
 # EDID: CityMapMarkers_MeatHouse, REC: REFR:FULL
 msgctxt "014D09"
 msgid "Meat House"
-msgstr ""
+msgstr "훈제소"
 
 # EDID: CityMapMarkers_HallsOfHealing, REC: REFR:FULL
 msgctxt "014D0A"
 msgid "Halls of Healing"
-msgstr ""
+msgstr "회복의 전당"
 
 # EDID: CityMapMarkers_VaruunDepository, REC: REFR:FULL
 msgctxt "014D0B"
 msgid "Va'ruun Depository"
-msgstr ""
+msgstr "바룬 저장소"
 
 # EDID: CityMapMarkers_KeepArmory, REC: REFR:FULL
 msgctxt "014D0C"
 msgid "Keep Armory"
-msgstr ""
+msgstr "킵 아머리"
 
 # EDID: CityMapMarkers_GoodsExchange, REC: REFR:FULL
 msgctxt "014D0D"
 msgid "Goods Exchange"
-msgstr ""
+msgstr "상품 거래소"
 
 # EDID: SFBGS001POI05Location, REC: LCTN:FULL
 msgctxt "014D0E"
@@ -20538,7 +20539,7 @@ msgstr ""
 # EDID: SFBGS001DazraGoodsExchange, REC: CELL:FULL
 msgctxt "014DC4"
 msgid "Goods Exchange"
-msgstr ""
+msgstr "상품 거래소"
 
 # EDID: SFBGS001DazraVaruunDepository, REC: CELL:FULL
 msgctxt "014DC5"
@@ -20558,12 +20559,12 @@ msgstr ""
 # EDID: SFBGS001DazraAlternationClinic, REC: CELL:FULL
 msgctxt "014DC8"
 msgid "Alteration Clinic"
-msgstr ""
+msgstr "변화의 진료소"
 
 # EDID: SFBGS001DazraMeatHouse, REC: CELL:FULL
 msgctxt "014DC9"
 msgid "Meat House"
-msgstr ""
+msgstr "훈제소"
 
 # EDID: SFBGS001_mod_ParticleMachinegun_ParticleWeapons, REC: OMOD:FULL
 msgctxt "014DCA"
@@ -20678,7 +20679,7 @@ msgstr ""
 # EDID: CityMapMarkers_MourningDevice, REC: REFR:FULL
 msgctxt "014DE9"
 msgid "Mourning Device"
-msgstr ""
+msgstr "모어닝 디바이스"
 
 # EDID: SFBGS001_mod_RedeemedBlade_Blade_HighCarbonSteel, REC: OMOD:FULL
 msgctxt "014DEE"

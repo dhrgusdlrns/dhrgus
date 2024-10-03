@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-10-03 12:34+0000\n"
+"PO-Revision-Date: 2024-10-04 16:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -534,12 +534,12 @@ msgstr ""
 # EDID: SFBGS001_mod_RedeemedBlade_Handle_Standard, REC: OMOD:FULL
 msgctxt "000222"
 msgid "Standard Handle"
-msgstr ""
+msgstr "표준 사양 손잡이"
 
 # EDID: SFBGS001_mod_ParticleMachineGun_Grip_Standard, REC: OMOD:FULL
 msgctxt "000223"
 msgid "Standard Grip"
-msgstr ""
+msgstr "표준 사양 손잡이"
 
 # EDID: SFBGS001_mod_ParticleMachineGun_Laser_LaserSight, REC: OMOD:FULL
 msgctxt "000225"
@@ -564,7 +564,7 @@ msgstr ""
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Barrel_Standard, REC: OMOD:FULL
 msgctxt "00022A"
 msgid "Standard Barrel"
-msgstr ""
+msgstr "표준 사양 총열"
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Grip_TacticalStock, REC: OMOD:FULL
 msgctxt "00022B"
@@ -584,7 +584,7 @@ msgstr ""
 # EDID: SFBGS001_mod_ParticleMachineGun_Barrel_Standard, REC: OMOD:FULL
 msgctxt "00022F"
 msgid "Standard Barrel"
-msgstr ""
+msgstr "표준 사양 총열"
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Internal_Overclocked, REC:
 # OMOD:FULL
@@ -600,12 +600,12 @@ msgstr ""
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Muzzle_Standard, REC: OMOD:FULL
 msgctxt "000232"
 msgid "Standard Muzzle"
-msgstr ""
+msgstr "표준 사양 총구"
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Mag_Standard, REC: OMOD:FULL
 msgctxt "000233"
 msgid "Standard Explosive Rounds"
-msgstr ""
+msgstr "표준 사양 폭발탄"
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Laser_ReconSight, REC: OMOD:FULL
 msgctxt "000235"
@@ -625,7 +625,7 @@ msgstr ""
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Grip_Standard, REC: OMOD:FULL
 msgctxt "000239"
 msgid "Standard Grip and Stock"
-msgstr ""
+msgstr "표준 사양 손잡이와 개머리판"
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Barrel_Long, REC: OMOD:FULL
 msgctxt "00023B"
@@ -660,7 +660,7 @@ msgstr ""
 # EDID: SFBGS001_mod_ParticleMachineGun_Mag_Standard, REC: OMOD:FULL
 msgctxt "000241"
 msgid "Standard Magazine"
-msgstr ""
+msgstr "표준 사양 탄창"
 
 # EDID: SFBGS001_mod_ParticleMachineGun_Laser_ReconSight, REC: OMOD:FULL
 msgctxt "000243"
@@ -915,12 +915,12 @@ msgstr ""
 # EDID: SFBGS001_HumanRace, REC: RACE:SNAM
 msgctxt "0006A1"
 msgid "Humans"
-msgstr ""
+msgstr "Humans"
 
 # EDID: SFBGS001_HumanRace, REC: RACE:FULL
 msgctxt "0006CA"
 msgid "Human"
-msgstr ""
+msgstr "Human"
 
 # EDID: ap_melee_Coating, REC: KYWD:FULL
 msgctxt "0006CD"
@@ -1468,12 +1468,12 @@ msgstr "카브닉 I"
 # EDID: SFBGS001FrozenLifeVaruunkai, REC: BIOM:FULL
 msgctxt "000730"
 msgid "Frozen Craters"
-msgstr ""
+msgstr "얼어붙은 크레이터"
 
 # EDID: SFBGS001DesertRockyLifeVaruunkai, REC: BIOM:FULL
 msgctxt "000731"
 msgid "Rocky Desert"
-msgstr ""
+msgstr "암석 사막"
 
 # EDID: SFBGS001_MS01_DecryptSlate, REC: MESG:FULL
 msgctxt "000732"
@@ -1947,7 +1947,7 @@ msgstr "안내 방송"
 # EDID: SFBGS001_CREW_Elite_TaneSalavea, REC: NPC_:FULL
 msgctxt "000B57"
 msgid "Tane Salavea"
-msgstr "타네 샐라베아"
+msgstr "테인 샐라베아"
 
 # EDID: SFBGS001_EncVortexSpawn04, REC: NPC_:FULL
 msgctxt "000B58"
@@ -2277,7 +2277,7 @@ msgstr "카브닉 I-c"
 # EDID: SFBGS001DesertSandyLifeVaruunkai, REC: BIOM:FULL
 msgctxt "000BA8"
 msgid "Sandy Desert"
-msgstr ""
+msgstr "모래사막"
 
 # EDID: SFBGS001_MS01_CaveKey, REC: KEYM:FULL
 msgctxt "000C03"
@@ -2307,7 +2307,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_MujeenComputerDesktop, REC: TMLM:ITXT
 msgctxt "000C11"
 msgid "Ochim Ka'dic"
-msgstr ""
+msgstr "오킴 카딕"
 
 # EDID: SFBGS001_MS01_MujeenComputerDesktop, REC: TMLM:UNAM
 msgctxt "000C12"
@@ -2357,7 +2357,7 @@ msgstr ""
 # EDID: SFBGS001_ParticleRocketlauncherExplosion, REC: EXPL:FULL
 msgctxt "000C1D"
 msgid "ParticleRocketlauncherExplosion"
-msgstr ""
+msgstr "ParticleRocketlauncherExplosion"
 
 # EDID: SFBGS001_LC05_Quest, REC: QUST:FULL
 msgctxt "000C1E"
@@ -2507,7 +2507,7 @@ msgstr ""
 # EDID: SFBGS001_ParticleRocketlauncherProjectile, REC: PROJ:FULL
 msgctxt "000D11"
 msgid "ParticleRocketlauncherProjectile"
-msgstr ""
+msgstr "ParticleRocketlauncherProjectile"
 
 # EDID: SFBGS001_MS01_DumpsterKey, REC: KEYM:FULL
 msgctxt "000D12"
@@ -2532,7 +2532,7 @@ msgstr ""
 # EDID: SFBGS001_AmmoParticleRocket, REC: AMMO:FULL
 msgctxt "000D16"
 msgid "20mm Particle Rocket"
-msgstr ""
+msgstr "20mm 입자 로켓탄"
 
 # EDID: SFBGS001_MS01_AudioLog05Slate, REC: BOOK:FULL
 msgctxt "000D18"
@@ -2577,12 +2577,12 @@ msgstr ""
 # EDID: SFBGS001_AbVortexPhantomVFX_Friendly, REC: SPEL:FULL
 msgctxt "000D25"
 msgid "Vortex Phantom VFX"
-msgstr ""
+msgstr "Vortex Phantom VFX"
 
 # EDID: SFBGS001_AbVortexPhantomVFX_Effect_Friendly, REC: MGEF:FULL
 msgctxt "000D26"
 msgid "Vortex Phantom VFX Magic Effect"
-msgstr ""
+msgstr "Vortex Phantom VFX Magic Effect"
 
 # EDID: SFBGS001_LC08CaveName, REC: MESG:FULL
 msgctxt "000D27"
@@ -3615,7 +3615,7 @@ msgstr ""
 # EDID: SFBGS001_Food_Craft_GroatPie, REC: ALCH:FULL
 msgctxt "0011A4"
 msgid "Groat Pie"
-msgstr ""
+msgstr "그로트 파이"
 
 # EDID: SFBGS001_Food_Craft_SeaweedEggPorridge, REC: ALCH:FULL
 msgctxt "0011A6"
@@ -3625,7 +3625,7 @@ msgstr ""
 # EDID: SFBGS001_Food_ChunksSingle_Chunks_GroatChunks, REC: ALCH:FULL
 msgctxt "0011A8"
 msgid "Chunks Groat"
-msgstr ""
+msgstr "그로트고기맛 청크"
 
 # EDID: SFBGS001_Food_Produce_Seaweed, REC: ALCH:FULL
 msgctxt "0011AA"
@@ -3635,7 +3635,7 @@ msgstr ""
 # EDID: SFBGS001_Food_Meat_Groat, REC: ALCH:FULL
 msgctxt "0011AC"
 msgid "Groat Meat"
-msgstr ""
+msgstr "그로트 고기"
 
 # EDID: SFBGS001_HV_DZ_HV_ViktorVethaal, REC: NPC_:FULL
 msgctxt "0011AE"
@@ -3725,17 +3725,17 @@ msgstr ""
 # EDID: SFBGS001_Drink_VaRuun_GroatMilk, REC: ALCH:FULL
 msgctxt "0011D9"
 msgid "Groat Milk"
-msgstr ""
+msgstr "그로트 젖"
 
 # EDID: SFBGS001_Drink_Alc_VaRuun_Koza, REC: ALCH:FULL
 msgctxt "0011DB"
 msgid "Koza"
-msgstr ""
+msgstr "코자"
 
 # EDID: SFBGS001_Drink_Alc_VaRuun_Seaweed, REC: ALCH:FULL
 msgctxt "0011DD"
 msgid "Seaweed Wine"
-msgstr ""
+msgstr "해초주"
 
 # EDID: SFBGS001LC05_Keycard, REC: KEYM:FULL
 msgctxt "0011DE"
@@ -3750,7 +3750,7 @@ msgstr ""
 # EDID: SFBGS001_CREW_EliteCrew_TaneSalavea, REC: QUST:FULL
 msgctxt "001285"
 msgid "Tane Salavea"
-msgstr ""
+msgstr "테인 샐라베아"
 
 # EDID: SFBGS001_EncVortexSpawn00, REC: NPC_:FULL
 msgctxt "001287"
@@ -4030,7 +4030,7 @@ msgstr ""
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Prey01_Groat_Male, REC: NPC_:FULL
 msgctxt "0013DE"
 msgid "Male Groat"
-msgstr ""
+msgstr "그로트 수컷"
 
 # EDID: SFBGS001_HV_MalikVosh, REC: NPC_:FULL
 msgctxt "0013DF"
@@ -4045,7 +4045,7 @@ msgstr ""
 # EDID: FloraBiomeVaruun01, REC: FLOR:FULL
 msgctxt "0013E1"
 msgid "Halepod"
-msgstr ""
+msgstr "할아비꼬투리"
 
 # EDID: FloraBiomeVaruun02, REC: FLOR:ATTX
 msgctxt "0013E2"
@@ -4055,7 +4055,7 @@ msgstr ""
 # EDID: FloraBiomeVaruun02, REC: FLOR:FULL
 msgctxt "0013E3"
 msgid "Pendentleaf"
-msgstr ""
+msgstr "드리개 잎사귀"
 
 # EDID: SFBGS001FloraLifebell_Varuun_Swap_Keyword01, REC: KYWD:FULL
 msgctxt "0013E4"
@@ -4315,7 +4315,7 @@ msgstr ""
 # EDID: SFBGS001LC29Location, REC: LCTN:FULL
 msgctxt "0014C1"
 msgid "Dazra Groat Farms"
-msgstr ""
+msgstr "다즈라 그로트 농장"
 
 # EDID: SFBGS001LC06MapMarkerRef, REC: REFR:UNAM
 msgctxt "0014F9"
@@ -6267,7 +6267,7 @@ msgstr ""
 # EDID: SFBGS001_Food_ChunksPack_Chunks_GroatChunks, REC: ALCH:FULL
 msgctxt "002185"
 msgid "Chunks Groat - Packaged"
-msgstr ""
+msgstr "그로트고기맛 청크 (미개봉)"
 
 # EDID: SFBGS001_Citadel_Platform_PI, REC: PKIN:FULL
 msgctxt "002186"
@@ -6492,12 +6492,12 @@ msgstr ""
 # EDID: SFBGS001_GenericDazraFemaleChild, REC: NPC_:FULL
 msgctxt "00236A"
 msgid "Child"
-msgstr ""
+msgstr "어린이"
 
 # EDID: SFBGS001_GenericDazraMaleChild, REC: NPC_:FULL
 msgctxt "00236B"
 msgid "Child"
-msgstr ""
+msgstr "어린이"
 
 # EDID: SFBGS001_MS03_TempLocation, REC: LCTN:FULL
 msgctxt "00236C"
@@ -6547,12 +6547,12 @@ msgstr ""
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Prey01_Groat_Female, REC: NPC_:FULL
 msgctxt "002378"
 msgid "Female Groat"
-msgstr ""
+msgstr "그로트 암컷"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Prey01_Groat_Kid, REC: NPC_:FULL
 msgctxt "002379"
 msgid "Kid Groat"
-msgstr ""
+msgstr "그로트 새끼"
 
 # EDID: SFBGS001_CrimeFactionDazra, REC: FACT:FULL
 msgctxt "00237B"
@@ -7036,7 +7036,7 @@ msgstr "SFBGS001_VortexCraterTunnel01"
 # NPC_:FULL
 msgctxt "0025DF"
 msgid "Female Groat"
-msgstr ""
+msgstr "그로트 암컷"
 
 # EDID: SFBGS001DazraHallsOfHealingInt01, REC: CELL:FULL
 msgctxt "0025EE"
@@ -7753,7 +7753,7 @@ msgstr ""
 # EDID: SFBGS001_mod_VaruunSolstice_Barrel_Standard, REC: OMOD:FULL
 msgctxt "0111A1"
 msgid "Standard Barrel"
-msgstr ""
+msgstr "표준 사양 총열"
 
 # EDID: SFBGS001_MS03, REC: QUST:NNAM
 msgctxt "0111AB"
@@ -7788,94 +7788,94 @@ msgstr ""
 # EDID: SFBGS001_MS01_OchimNameMessage, REC: MESG:FULL
 msgctxt "0111FF"
 msgid "Ochim Ka'dic"
-msgstr ""
+msgstr "오킴 카딕"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Predator01_DesertSandy, REC: NPC_:FULL
 msgctxt "011283"
 msgid "Sandy"
-msgstr ""
+msgstr "모래지대"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Prey02_DesertSandy, REC: NPC_:FULL
 msgctxt "011284"
 msgid "Sandy"
-msgstr ""
+msgstr "모래지대"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Critter01_DesertSandy, REC: NPC_:FULL
 msgctxt "011285"
 msgid "Sandy"
-msgstr ""
+msgstr "모래지대"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Critter02_DesertSandy, REC: NPC_:FULL
 msgctxt "011286"
 msgid "Sandy"
-msgstr ""
+msgstr "모래지대"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Critter03_Flyer_DesertSandy, REC:
 # NPC_:FULL
 msgctxt "011287"
 msgid "Sandy"
-msgstr ""
+msgstr "모래지대"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Critter01_Frozen, REC: NPC_:FULL
 msgctxt "011288"
 msgid "Frozen"
-msgstr ""
+msgstr "빙설지대"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Critter02_Frozen, REC: NPC_:FULL
 msgctxt "011289"
 msgid "Frozen"
-msgstr ""
+msgstr "빙설지대"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Critter03_Flyer_Frozen, REC: NPC_:FULL
 msgctxt "01128A"
 msgid "Frozen"
-msgstr ""
+msgstr "빙설지대"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Predator01_Frozen, REC: NPC_:FULL
 msgctxt "01128B"
 msgid "Frozen"
-msgstr ""
+msgstr "빙설지대"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Critter01_DesertRocky, REC: NPC_:FULL
 msgctxt "01128C"
 msgid "Rocky"
-msgstr ""
+msgstr "암석지대"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Critter02_DesertRocky, REC: NPC_:FULL
 msgctxt "01128D"
 msgid "Rocky"
-msgstr ""
+msgstr "암석지대"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Critter03_Flyer_DesertRocky, REC:
 # NPC_:FULL
 msgctxt "01128E"
 msgid "Rocky"
-msgstr ""
+msgstr "암석지대"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Predator01_DesertRocky, REC: NPC_:FULL
 msgctxt "01128F"
 msgid "Rocky"
-msgstr ""
+msgstr "암석지대"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Prey02_DesertRocky, REC: NPC_:FULL
 msgctxt "011290"
 msgid "Rocky"
-msgstr ""
+msgstr "암석지대"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Prey02_Frozen, REC: NPC_:FULL
 msgctxt "011291"
 msgid "Frozen"
-msgstr ""
+msgstr "빙설지대"
 
 # EDID: SFBGS001_MS01_HV_UnknownVoiceAudioOnly, REC: NPC_:FULL
 msgctxt "011292"
 msgid "Unknown Voice"
-msgstr ""
+msgstr "알 수 없는 음성"
 
 # EDID: SFBGS001_MS01_HV_OchimKadic_AudioOnly, REC: NPC_:FULL
 msgctxt "011293"
 msgid "Ochim Ka'dic"
-msgstr ""
+msgstr "오킴 카딕"
 
 # EDID: SFBGS001_MS01_MujeenComputerDesktop, REC: TMLM:UNAM
 msgctxt "011294"
@@ -8120,22 +8120,22 @@ msgstr ""
 # EDID: SFBGS001_ParticleMachineGun, REC: WEAP:FULL
 msgctxt "011564"
 msgid "Standard High"
-msgstr ""
+msgstr "Standard High"
 
 # EDID: SFBGS001_ParticleMachineGun, REC: WEAP:FULL
 msgctxt "011565"
 msgid "Standard Med"
-msgstr ""
+msgstr "Standard Med"
 
 # EDID: SFBGS001_ParticleMachineGun, REC: WEAP:FULL
 msgctxt "011566"
 msgid "Standard Low"
-msgstr ""
+msgstr "Standard Low"
 
 # EDID: SFBGS001_ParticleMachineGun, REC: WEAP:FULL
 msgctxt "011567"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 # EDID: SFBGS001_VortexCraterEdgeSpike02, REC: PKIN:FULL
 msgctxt "011568"
@@ -8190,22 +8190,22 @@ msgstr ""
 # EDID: SFBGS001_Vortex_ParticleMachineGun, REC: WEAP:FULL
 msgctxt "01157F"
 msgid "Standard High"
-msgstr ""
+msgstr "Standard High"
 
 # EDID: SFBGS001_Vortex_ParticleMachineGun, REC: WEAP:FULL
 msgctxt "011580"
 msgid "Standard Med"
-msgstr ""
+msgstr "Standard Med"
 
 # EDID: SFBGS001_Vortex_ParticleMachineGun, REC: WEAP:FULL
 msgctxt "011581"
 msgid "Standard Low"
-msgstr ""
+msgstr "Standard Low"
 
 # EDID: SFBGS001_Vortex_ParticleMachineGun, REC: WEAP:FULL
 msgctxt "011582"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 # EDID: SFBGS001_Vortex_ParticleMachineGun, REC: WEAP:FULL
 msgctxt "011583"
@@ -8220,7 +8220,7 @@ msgstr ""
 # EDID: SFBGS001_Vortex_ParticleMachineGun, REC: WEAP:FULL
 msgctxt "011585"
 msgid "VORTEX ENEMIES ONLY - Particle Machine Gun"
-msgstr ""
+msgstr "VORTEX ENEMIES ONLY - Particle Machine Gun"
 
 # EDID: SFBGS001_Vortex_ParticleRocketlauncher, REC: WEAP:FULL
 msgctxt "011586"
@@ -8235,7 +8235,7 @@ msgstr ""
 # EDID: SFBGS001_Vortex_ParticleRocketlauncher, REC: WEAP:FULL
 msgctxt "011588"
 msgid "VORTEX ENEMIES ONLY - Particle Rocket Launcher"
-msgstr ""
+msgstr "VORTEX ENEMIES ONLY - Particle Rocket Launcher"
 
 # EDID: SFBGS001_Vortex_InflictorPistol, REC: WEAP:FULL
 msgctxt "011589"
@@ -8245,7 +8245,7 @@ msgstr ""
 # EDID: SFBGS001_Vortex_InflictorPistol, REC: WEAP:FULL
 msgctxt "01158A"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 # EDID: SFBGS001_Vortex_InflictorPistol, REC: WEAP:FULL
 msgctxt "01158B"
@@ -8255,7 +8255,7 @@ msgstr ""
 # EDID: SFBGS001_Vortex_InflictorPistol, REC: WEAP:FULL
 msgctxt "01158C"
 msgid "Standard Very High"
-msgstr ""
+msgstr "Standard Very High"
 
 # EDID: SFBGS001_Vortex_InflictorPistol, REC: WEAP:FULL
 msgctxt "01158D"
@@ -8275,17 +8275,17 @@ msgstr ""
 # EDID: SFBGS001_Vortex_InflictorPistol, REC: WEAP:FULL
 msgctxt "011590"
 msgid "Standard High"
-msgstr ""
+msgstr "Standard High"
 
 # EDID: SFBGS001_Vortex_InflictorPistol, REC: WEAP:FULL
 msgctxt "011591"
 msgid "Standard Med"
-msgstr ""
+msgstr "Standard Med"
 
 # EDID: SFBGS001_Vortex_InflictorPistol, REC: WEAP:FULL
 msgctxt "011592"
 msgid "Standard Low"
-msgstr ""
+msgstr "Standard Low"
 
 # EDID: SFBGS001_Vortex_InflictorPistol, REC: WEAP:FULL
 msgctxt "011593"
@@ -8295,7 +8295,7 @@ msgstr ""
 # EDID: SFBGS001_Vortex_InflictorPistol, REC: WEAP:FULL
 msgctxt "011594"
 msgid "VORTEX ENEMIES ONLY - Va'ruun Starshard"
-msgstr ""
+msgstr "VORTEX ENEMIES ONLY - Va'ruun Starshard"
 
 # EDID: SFBGS001_Vortex_InflictorRifle, REC: WEAP:FULL
 msgctxt "011595"
@@ -8315,7 +8315,7 @@ msgstr ""
 # EDID: SFBGS001_Vortex_InflictorRifle, REC: WEAP:FULL
 msgctxt "011598"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 # EDID: SFBGS001_Vortex_InflictorRifle, REC: WEAP:FULL
 msgctxt "011599"
@@ -8330,7 +8330,7 @@ msgstr ""
 # EDID: SFBGS001_Vortex_InflictorRifle, REC: WEAP:FULL
 msgctxt "01159B"
 msgid "Standard Very High"
-msgstr ""
+msgstr "Standard Very High"
 
 # EDID: SFBGS001_Vortex_InflictorRifle, REC: WEAP:FULL
 msgctxt "01159C"
@@ -8350,17 +8350,17 @@ msgstr ""
 # EDID: SFBGS001_Vortex_InflictorRifle, REC: WEAP:FULL
 msgctxt "01159F"
 msgid "Standard High"
-msgstr ""
+msgstr "Standard High"
 
 # EDID: SFBGS001_Vortex_InflictorRifle, REC: WEAP:FULL
 msgctxt "0115A0"
 msgid "Standard Med"
-msgstr ""
+msgstr "Standard Med"
 
 # EDID: SFBGS001_Vortex_InflictorRifle, REC: WEAP:FULL
 msgctxt "0115A1"
 msgid "Standard Low"
-msgstr ""
+msgstr "Standard Low"
 
 # EDID: SFBGS001_Vortex_InflictorRifle, REC: WEAP:FULL
 msgctxt "0115A2"
@@ -8370,7 +8370,7 @@ msgstr ""
 # EDID: SFBGS001_Vortex_InflictorRifle, REC: WEAP:FULL
 msgctxt "0115A3"
 msgid "VORTEX ENEMIES ONLY - Va'ruun Inflictor"
-msgstr ""
+msgstr "VORTEX ENEMIES ONLY - Va'ruun Inflictor"
 
 # EDID: SFBGS001_Vortex_BigBang, REC: WEAP:FULL
 msgctxt "0115A4"
@@ -8380,7 +8380,7 @@ msgstr ""
 # EDID: SFBGS001_Vortex_BigBang, REC: WEAP:FULL
 msgctxt "0115A5"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 # EDID: SFBGS001_Vortex_BigBang, REC: WEAP:FULL
 msgctxt "0115A6"
@@ -8400,17 +8400,17 @@ msgstr ""
 # EDID: SFBGS001_Vortex_BigBang, REC: WEAP:FULL
 msgctxt "0115A9"
 msgid "Standard High"
-msgstr ""
+msgstr "Standard High"
 
 # EDID: SFBGS001_Vortex_BigBang, REC: WEAP:FULL
 msgctxt "0115AA"
 msgid "Standard Med"
-msgstr ""
+msgstr "Standard Med"
 
 # EDID: SFBGS001_Vortex_BigBang, REC: WEAP:FULL
 msgctxt "0115AB"
 msgid "Standard Low"
-msgstr ""
+msgstr "Standard Low"
 
 # EDID: SFBGS001_Vortex_BigBang, REC: WEAP:FULL
 msgctxt "0115AC"
@@ -8420,7 +8420,7 @@ msgstr ""
 # EDID: SFBGS001_Vortex_BigBang, REC: WEAP:FULL
 msgctxt "0115AD"
 msgid "VORTEX ENEMIES ONLY - Big Bang"
-msgstr ""
+msgstr "VORTEX ENEMIES ONLY - Big Bang"
 
 # EDID: SFBGS001_Vortex_HardTarget, REC: WEAP:FULL
 msgctxt "0115AE"
@@ -8430,7 +8430,7 @@ msgstr ""
 # EDID: SFBGS001_Vortex_HardTarget, REC: WEAP:FULL
 msgctxt "0115AF"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 # EDID: SFBGS001_Vortex_HardTarget, REC: WEAP:FULL
 msgctxt "0115B0"
@@ -8470,22 +8470,22 @@ msgstr ""
 # EDID: SFBGS001_Vortex_HardTarget, REC: WEAP:FULL
 msgctxt "0115B7"
 msgid "Standard Very High"
-msgstr ""
+msgstr "Standard Very High"
 
 # EDID: SFBGS001_Vortex_HardTarget, REC: WEAP:FULL
 msgctxt "0115B8"
 msgid "Standard High"
-msgstr ""
+msgstr "Standard High"
 
 # EDID: SFBGS001_Vortex_HardTarget, REC: WEAP:FULL
 msgctxt "0115B9"
 msgid "Standard Med"
-msgstr ""
+msgstr "Standard Med"
 
 # EDID: SFBGS001_Vortex_HardTarget, REC: WEAP:FULL
 msgctxt "0115BA"
 msgid "Standard Low"
-msgstr ""
+msgstr "Standard Low"
 
 # EDID: SFBGS001_Vortex_HardTarget, REC: WEAP:FULL
 msgctxt "0115BB"
@@ -8495,7 +8495,7 @@ msgstr ""
 # EDID: SFBGS001_Vortex_HardTarget, REC: WEAP:FULL
 msgctxt "0115BC"
 msgid "VORTEX ENEMIES ONLY - Hard Target"
-msgstr ""
+msgstr "VORTEX ENEMIES ONLY - Hard Target"
 
 # EDID: SFBGS001OE09Location, REC: LCTN:FULL
 msgctxt "0115BD"
@@ -9204,7 +9204,7 @@ msgstr "ParticleProjectile_BigBang"
 # PROJ:FULL
 msgctxt "011C13"
 msgid "Vortex ParticleRocketlauncherProjectile"
-msgstr ""
+msgstr "Vortex ParticleRocketlauncherProjectile"
 
 # EDID: SFBGS001_VortexPhantom_ParticleProjectile_InflictorPistol, REC:
 # PROJ:FULL
@@ -10305,12 +10305,12 @@ msgstr ""
 # EDID: SFBGS001_AbVortexPhantomVFX_Hostile, REC: SPEL:FULL
 msgctxt "012307"
 msgid "Vortex Phantom VFX Hostile"
-msgstr ""
+msgstr "Vortex Phantom VFX Hostile"
 
 # EDID: SFBGS001_AbVortexPhantomVFX_Effect_Hostile, REC: MGEF:FULL
 msgctxt "012308"
 msgid "Vortex Phantom VFX Magic Effect Hostile"
-msgstr ""
+msgstr "Vortex Phantom VFX Magic Effect Hostile"
 
 # EDID: SFBGS001_MQ03_MirekPersonalLogsMenu, REC: TMLM:UNAM
 msgctxt "012309"
@@ -11057,7 +11057,7 @@ msgstr ""
 # EDID: SFBGS001_DazraCityLife_Dazra06_Child, REC: NPC_:FULL
 msgctxt "012727"
 msgid "Child"
-msgstr ""
+msgstr "어린이"
 
 # EDID: SFBGS001_DazraCityLife_Dazra06_Citizen, REC: NPC_:FULL
 msgctxt "012728"
@@ -11092,12 +11092,12 @@ msgstr ""
 # EDID: SFBGS001_DazraCityLife_Dazra07_child01, REC: NPC_:FULL
 msgctxt "01272E"
 msgid "Child"
-msgstr ""
+msgstr "어린이"
 
 # EDID: SFBGS001_DazraCityLife_Dazra07_Child02, REC: NPC_:FULL
 msgctxt "01272F"
 msgid "Child"
-msgstr ""
+msgstr "어린이"
 
 # EDID: SFBGS001_DazraCityLife_Dazra08_Citizen01, REC: NPC_:FULL
 msgctxt "012730"
@@ -11132,7 +11132,7 @@ msgstr ""
 # EDID: SFBGS001_DazraCityLife_Dazra10_Child, REC: NPC_:FULL
 msgctxt "012736"
 msgid "Child"
-msgstr ""
+msgstr "어린이"
 
 # EDID: SFBGS001_mod_VaruunSolstice_Grip_Ergonomic, REC: OMOD:FULL
 msgctxt "012737"
@@ -11534,7 +11534,7 @@ msgstr ""
 # EDID: SFBGS001_VaruunEquinox, REC: WEAP:FULL
 msgctxt "012933"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 # EDID: SFBGS001_VaruunEquinox, REC: WEAP:FULL
 msgctxt "012934"
@@ -11584,22 +11584,22 @@ msgstr ""
 # EDID: SFBGS001_VaruunEquinox, REC: WEAP:FULL
 msgctxt "01293D"
 msgid "Standard Very High"
-msgstr ""
+msgstr "Standard Very High"
 
 # EDID: SFBGS001_VaruunEquinox, REC: WEAP:FULL
 msgctxt "01293E"
 msgid "Standard High"
-msgstr ""
+msgstr "Standard High"
 
 # EDID: SFBGS001_VaruunEquinox, REC: WEAP:FULL
 msgctxt "01293F"
 msgid "Standard Med"
-msgstr ""
+msgstr "Standard Med"
 
 # EDID: SFBGS001_VaruunEquinox, REC: WEAP:FULL
 msgctxt "012940"
 msgid "Standard Low"
-msgstr ""
+msgstr "Standard Low"
 
 # EDID: SFBGS001_VaruunEquinox, REC: WEAP:FULL
 msgctxt "012941"
@@ -11649,12 +11649,12 @@ msgstr ""
 # EDID: SFBGS001_AbVortexSpawnVFX, REC: SPEL:FULL
 msgctxt "012A4C"
 msgid "Vortex Spawn VFX"
-msgstr ""
+msgstr "Vortex Spawn VFX"
 
 # EDID: SFBGS001_AbVortexSpawnVFX_Effect, REC: MGEF:FULL
 msgctxt "012A4D"
 msgid "Vortex Spawn VFX Magic Effect"
-msgstr ""
+msgstr "Vortex Spawn VFX Magic Effect"
 
 # EDID: SFBGS001_Vendor_City_Dazra_VaruunDepositoryContainer, REC: CONT:FULL
 msgctxt "012A9B"
@@ -11894,22 +11894,22 @@ msgstr ""
 # EDID: SFBGS001_ParticleRocketlauncher, REC: WEAP:FULL
 msgctxt "01305A"
 msgid "Standard high"
-msgstr ""
+msgstr "Standard high"
 
 # EDID: SFBGS001_ParticleRocketlauncher, REC: WEAP:FULL
 msgctxt "01305B"
 msgid "Standard med"
-msgstr ""
+msgstr "Standard med"
 
 # EDID: SFBGS001_ParticleRocketlauncher, REC: WEAP:FULL
 msgctxt "01305C"
 msgid "Standard low"
-msgstr ""
+msgstr "Standard low"
 
 # EDID: SFBGS001_ParticleRocketlauncher, REC: WEAP:FULL
 msgctxt "01305D"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 # EDID: SFBGS001_MS04_SetStageTrigger, REC: ACTI:ATTX
 msgctxt "01305E"
@@ -12908,17 +12908,17 @@ msgstr ""
 # EDID: SFBGS001_RedeemedBlade, REC: WEAP:FULL
 msgctxt "01368A"
 msgid "Standard High"
-msgstr ""
+msgstr "Standard High"
 
 # EDID: SFBGS001_RedeemedBlade, REC: WEAP:FULL
 msgctxt "01368B"
 msgid "Standard Med"
-msgstr ""
+msgstr "Standard Med"
 
 # EDID: SFBGS001_RedeemedBlade, REC: WEAP:FULL
 msgctxt "01368C"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 # EDID: SFBGS001_RedeemedBlade, REC: WEAP:FULL
 msgctxt "01368D"
@@ -12983,12 +12983,12 @@ msgstr ""
 # EDID: SFBGS001_RedeemedRace, REC: RACE:SNAM
 msgctxt "0136A1"
 msgid "Humans"
-msgstr ""
+msgstr "Humans"
 
 # EDID: SFBGS001_RedeemedRace, REC: RACE:FULL
 msgctxt "0136A2"
 msgid "Human"
-msgstr ""
+msgstr "Human"
 
 # EDID: SFBGS001_RC_MourningDevice03, REC: QUST:FULL
 msgctxt "0136D2"
@@ -13220,62 +13220,62 @@ msgstr ""
 # EDID: SFBGS001_DazraZ01_Farmer, REC: NPC_:FULL
 msgctxt "013AEE"
 msgid "Farmer"
-msgstr ""
+msgstr "농부"
 
 # EDID: SFBGS001_DazraZ01_Groat, REC: NPC_:FULL
 msgctxt "013AEF"
 msgid "Male Groat"
-msgstr ""
+msgstr "그로트 수컷"
 
 # EDID: SFBGS001_GenericGroatFarmer_Female05, REC: NPC_:FULL
 msgctxt "013AF0"
 msgid "Farmer"
-msgstr ""
+msgstr "농부"
 
 # EDID: SFBGS001_GenericGroatFarmer_Female07, REC: NPC_:FULL
 msgctxt "013AF1"
 msgid "Farmer"
-msgstr ""
+msgstr "농부"
 
 # EDID: SFBGS001_GenericGroatFarmer_Male02, REC: NPC_:FULL
 msgctxt "013AF2"
 msgid "Farmer"
-msgstr ""
+msgstr "농부"
 
 # EDID: SFBGS001_GenericGroatFarmer_Male04, REC: NPC_:FULL
 msgctxt "013AF3"
 msgid "Farmer"
-msgstr ""
+msgstr "농부"
 
 # EDID: SFBGS001_VaruunOrion, REC: WEAP:FULL
 msgctxt "013AF4"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 # EDID: SFBGS001_VaruunOrion, REC: WEAP:FULL
 msgctxt "013AF5"
 msgid "Standard Very High"
-msgstr ""
+msgstr "Standard Very High"
 
 # EDID: SFBGS001_VaruunOrion, REC: WEAP:FULL
 msgctxt "013AF6"
 msgid "Standard High"
-msgstr ""
+msgstr "Standard High"
 
 # EDID: SFBGS001_VaruunOrion, REC: WEAP:FULL
 msgctxt "013AF7"
 msgid "Standard Med"
-msgstr ""
+msgstr "Standard Med"
 
 # EDID: SFBGS001_VaruunOrion, REC: WEAP:FULL
 msgctxt "013AF8"
 msgid "Standard Low"
-msgstr ""
+msgstr "Standard Low"
 
 # EDID: SFBGS001_VaruunOrion, REC: WEAP:FULL
 msgctxt "013AF9"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 # EDID: SFBGS001LC21_MalikTerminal_Folder_Messages, REC: TMLM:ITXT
 msgctxt "013AFD"
@@ -13441,22 +13441,22 @@ msgstr ""
 # EDID: SFBGS001_VaruunSolstice, REC: WEAP:FULL
 msgctxt "013BE8"
 msgid "Standard High"
-msgstr ""
+msgstr "Standard High"
 
 # EDID: SFBGS001_VaruunSolstice, REC: WEAP:FULL
 msgctxt "013BE9"
 msgid "Standard Med"
-msgstr ""
+msgstr "Standard Med"
 
 # EDID: SFBGS001_VaruunSolstice, REC: WEAP:FULL
 msgctxt "013BEA"
 msgid "Standard Low"
-msgstr ""
+msgstr "Standard Low"
 
 # EDID: SFBGS001_VaruunSolstice, REC: WEAP:FULL
 msgctxt "013BEB"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 # EDID: SFBGS001LC54Slate01, REC: BOOK:ENAM
 msgctxt "013BEC"
@@ -13892,12 +13892,12 @@ msgstr ""
 # EDID: SFBGS001_GenericGroatFarmer_Encounter_Male08, REC: NPC_:FULL
 msgctxt "01420F"
 msgid "Farmer"
-msgstr ""
+msgstr "농부"
 
 # EDID: SFBGS001_GenericGroatFarmer_Encounter_Female03, REC: NPC_:FULL
 msgctxt "014210"
 msgid "Farmer"
-msgstr ""
+msgstr "농부"
 
 # EDID: SFBGS001_GenericPilgrim_Encounter_Female01, REC: NPC_:FULL
 msgctxt "014211"
@@ -13937,12 +13937,12 @@ msgstr ""
 # EDID: SFBGS001_GenericGroatFarmer_Encounter_Female04, REC: NPC_:FULL
 msgctxt "014218"
 msgid "Farmer"
-msgstr ""
+msgstr "농부"
 
 # EDID: SFBGS001_GenericGroatFarmer_Encounter_Male01, REC: NPC_:FULL
 msgctxt "014219"
 msgid "Farmer"
-msgstr ""
+msgstr "농부"
 
 # EDID: SFBGS001_LC08_AudioSlate, REC: BOOK:FULL
 msgctxt "01421A"
@@ -14002,7 +14002,7 @@ msgstr ""
 # EDID: SFBGS001_LChar_VortexGroats, REC: LVLN:ONAM
 msgctxt "01436D"
 msgid "Vortex Groat"
-msgstr ""
+msgstr "볼텍스 그로트"
 
 # EDID: SFBGS001_OE_CreatureVignette03, REC: QUST:FULL
 msgctxt "01436E"
@@ -14966,7 +14966,7 @@ msgstr ""
 # EDID: SFBGS001_ARPOI12_GroatFarmer_Female05, REC: NPC_:FULL
 msgctxt "0148DB"
 msgid "Farmer"
-msgstr ""
+msgstr "농부"
 
 # EDID: SFBGS001_Dazra_SeaweedFarmSlate01, REC: BOOK:FULL
 msgctxt "0148DD"
@@ -15201,17 +15201,17 @@ msgstr ""
 # EDID: SFBGS001_LC13_GroatFemale, REC: NPC_:FULL
 msgctxt "014930"
 msgid "Female Groat"
-msgstr ""
+msgstr "그로트 암컷"
 
 # EDID: SFBGS001_LC13_GroatKid, REC: NPC_:FULL
 msgctxt "014931"
 msgid "Kid Groat"
-msgstr ""
+msgstr "그로트 새끼"
 
 # EDID: SFBGS001_LC13_GroatMale, REC: NPC_:FULL
 msgctxt "014932"
 msgid "Male Groat"
-msgstr ""
+msgstr "그로트 수컷"
 
 # EDID: SFBGS001_LvlRobotModelA_Varuun_Friendly, REC: NPC_:FULL
 msgctxt "014933"
@@ -15300,7 +15300,7 @@ msgstr ""
 # EDID: SFBGS001TestCorrieGroat, REC: NPC_:FULL
 msgctxt "01494C"
 msgid "Male Groat"
-msgstr ""
+msgstr "그로트 수컷"
 
 # EDID: SFBGS001_Loot_Storage_BossChest_Science_Rare, REC: CONT:FULL
 msgctxt "01494D"
@@ -16012,12 +16012,12 @@ msgstr ""
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Prey01_Groat_Kid_Corpse, REC: NPC_:FULL
 msgctxt "014A28"
 msgid "Kid Groat"
-msgstr ""
+msgstr "그로트 새끼"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Prey01_Groat_Male_Corpse, REC: NPC_:FULL
 msgctxt "014A29"
 msgid "Male Groat"
-msgstr ""
+msgstr "그로트 수컷"
 
 # EDID: SFBGS001_HajtalHomeSlate_MessageFromLijana, REC: BOOK:FNAM
 msgctxt "014A2C"
@@ -17509,7 +17509,7 @@ msgstr ""
 # EDID: SFBGS001LC48_Groat_Male_Spacer, REC: NPC_:FULL
 msgctxt "014B4D"
 msgid "Male Groat"
-msgstr ""
+msgstr "그로트 수컷"
 
 # EDID: SFBGS001_LC48Slate_GroatReproduction, REC: BOOK:FULL
 msgctxt "014B4F"
@@ -18391,17 +18391,17 @@ msgstr ""
 # NPC_:FULL
 msgctxt "014C14"
 msgid "Female Groat"
-msgstr ""
+msgstr "그로트 암컷"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Prey01_VortexGroat_Kid, REC: NPC_:FULL
 msgctxt "014C15"
 msgid "Kid Groat"
-msgstr ""
+msgstr "그로트 새끼"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Prey01_VortexGroat_Male, REC: NPC_:FULL
 msgctxt "014C16"
 msgid "Male Groat"
-msgstr ""
+msgstr "그로트 수컷"
 
 # EDID: SFBGS001_LC27_TerminalMenu, REC: TMLM:ITXT
 msgctxt "014C17"
@@ -19851,12 +19851,12 @@ msgstr "금고"
 # EDID: SFBGS001_AbVortexPhantomVFX_VoidAnasko, REC: SPEL:FULL
 msgctxt "014D29"
 msgid "Vortex Phantom VFX"
-msgstr ""
+msgstr "Vortex Phantom VFX"
 
 # EDID: SFBGS001_AbVortexPhantomVFX_Effect_VoidAnasko, REC: MGEF:FULL
 msgctxt "014D2A"
 msgid "Vortex Phantom VFX Magic Effect"
-msgstr ""
+msgstr "Vortex Phantom VFX Magic Effect"
 
 # EDID: SFBGS001POI04Location, REC: LCTN:FULL
 msgctxt "014D2B"
@@ -20409,12 +20409,12 @@ msgstr ""
 # EDID: SFBGS001_AbVortexHorrorSmallGlowVFX, REC: SPEL:FULL
 msgctxt "014DA9"
 msgid "Vortex Spawn VFX"
-msgstr ""
+msgstr "Vortex Spawn VFX"
 
 # EDID: SFBGS001_AbVortexHorrorSmallGlowVFX_Effect, REC: MGEF:FULL
 msgctxt "014DAA"
 msgid "Vortex Horror Small VFX Magic Effect"
-msgstr ""
+msgstr "Vortex Horror Small VFX Magic Effect"
 
 # EDID: SFBGS001LC06_VortexGateKillPlayerSpell_Player, REC: SPEL:FULL
 msgctxt "014DAC"
@@ -20459,7 +20459,7 @@ msgstr ""
 # EDID: SFBGS001_Vortex_PainBlade, REC: WEAP:FULL
 msgctxt "014DB4"
 msgid "VORTEX ENEMIES ONLY -Va'ruun Painblade"
-msgstr ""
+msgstr "VORTEX ENEMIES ONLY -Va'ruun Painblade"
 
 # EDID: SFBGS001_Clothes_HouseDulkehfLab, REC: ARMO:FULL
 msgctxt "014DB5"
@@ -20594,7 +20594,7 @@ msgstr ""
 # EDID: SFBGS001_DazraZ01_Groat01, REC: NPC_:FULL
 msgctxt "014DCF"
 msgid "Male Groat"
-msgstr ""
+msgstr "그로트 수컷"
 
 # EDID: SFBGS001_VaruunEquinox, REC: WEAP:FULL
 msgctxt "014DD0"
@@ -20659,7 +20659,7 @@ msgstr ""
 # EDID: SFBGS001_DazraMeathouse_Groat, REC: NPC_:FULL
 msgctxt "014DE4"
 msgid "Female Groat"
-msgstr ""
+msgstr "그로트 암컷"
 
 # EDID: SFBGS001_Ammo_VortexSpawn_Spit, REC: AMMO:ONAM
 msgctxt "014DE5"

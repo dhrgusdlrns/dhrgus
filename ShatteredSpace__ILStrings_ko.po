@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-10-03 12:34+0000\n"
-"Last-Translator: Nickelpie <aodcldud@gmail.com>\n"
+"PO-Revision-Date: 2024-10-03 14:09+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -37,57 +37,57 @@ msgctxt "00008D"
 msgid ""
 "We want some uncontaminated samples of whatever you can find in the lab. And"
 " don't touch the canisters, hyper freeze will kill us both."
-msgstr ""
+msgstr "실험실에서 오염되지 않은 샘플을 찾아. 그리고 용기는 만지지 마. 초저온 냉각이 우리 둘 다 죽일 거야."
 
 # EDID: [0100DFD7], REC: INFO:NAM1
 msgctxt "000288"
 msgid ""
 "We want some uncontaminated samples of whatever you can find in the lab. And"
 " don't touch the canisters, hyper freeze will kill us both."
-msgstr ""
+msgstr "실험실에서 오염되지 않은 샘플을 찾아. 그리고 용기는 만지지 마. 초저온 냉각이 우리 둘 다 죽일 거야."
 
 # EDID: [0100DFDA], REC: INFO:NAM1
 msgctxt "000289"
 msgid "Remind me what I'm looking for again?"
-msgstr ""
+msgstr "내가 뭘 찾아야 하는지 다시 말해줘."
 
 # EDID: [0100DFDD], REC: INFO:NAM1
 msgctxt "00028A"
 msgid ""
 "Buddy I know works at a starstation. Found this place in the shipping logs."
-msgstr ""
+msgstr "우주정거장에서 일하는 친구가 있어. 선적 기록에서 이곳을 발견했지."
 
 # EDID: [0100DFD9], REC: INFO:NAM1
 msgctxt "00028B"
 msgid ""
 "How'd you even find this place? Ninety percent of the facility is "
 "underground..."
-msgstr ""
+msgstr "이 장소를 어떻게 찾았어? 시설의 90%가 지하에 있는데..."
 
 # EDID: [0100DFD8], REC: INFO:NAM1
 msgctxt "00028D"
 msgid ""
 "We want some uncontaminated samples of whatever you can find in the lab. And"
 " don't touch the canisters, hyper freeze will kill us both."
-msgstr ""
+msgstr "실험실에서 오염되지 않은 샘플을 찾아. 그리고 용기는 만지지 마. 초저온 냉각이 우리 둘 다 죽일 거야."
 
 # EDID: [0100DFDB], REC: INFO:NAM1
 msgctxt "00028E"
 msgid "Remind me what I'm looking for again?"
-msgstr ""
+msgstr "내가 뭘 찾아야 하는지 다시 말해줘."
 
 # EDID: [0100DFDE], REC: INFO:NAM1
 msgctxt "00028F"
 msgid ""
 "Buddy I know works at a starstation. Found this place in the shipping logs."
-msgstr ""
+msgstr "우주정거장에서 일하는 친구가 있어. 선적 기록에서 이곳을 발견했지."
 
 # EDID: [0100DFDC], REC: INFO:NAM1
 msgctxt "000290"
 msgid ""
 "How'd you even find this place? Ninety percent of the facility is "
 "underground..."
-msgstr ""
+msgstr "이 장소를 어떻게 찾았어? 시설의 90%가 지하에 있는데..."
 
 # EDID: [01003EBE], REC: INFO:NAM1
 msgctxt "000299"
@@ -9900,7 +9900,7 @@ msgstr ""
 # EDID: [0102B9FD], REC: INFO:NAM1
 msgctxt "000C21"
 msgid "I pray our work here was not in vain."
-msgstr "우리의 노력이 헛되지 않기를 기도합니다."
+msgstr "우리의 노력이 헛되지 않았기를 기도합니다."
 
 # EDID: [0102B9FD], REC: INFO:NAM1
 msgctxt "000C22"
@@ -9945,14 +9945,14 @@ msgctxt "000C2A"
 msgid ""
 "With each passing day, more of the crew succumb to whatever residual energy "
 "we were exposed to."
-msgstr ""
+msgstr "날이 갈수록 더 많은 승무원들이 우리가 노출됐던 잔여 에너지에 굴복하고 있습니다."
 
 # EDID: [0102BA19], REC: INFO:NAM1
 msgctxt "000C2B"
 msgid ""
 "Most are instantly hostile, but we discovered some are able to retain a "
 "sense of self, at least momentarily."
-msgstr ""
+msgstr "대부분은 즉시 적대화되지만, 몇 명은 적어도 잠깐이나마 자아를 유지할 수 있다는 사실을 발견했습니다."
 
 # EDID: [0102B9FE], REC: INFO:NAM1
 msgctxt "000C2C"
@@ -9999,12 +9999,12 @@ msgctxt "000C33"
 msgid ""
 "Not only that, but I believe the initial surge of energy we experienced is "
 "transformative."
-msgstr ""
+msgstr "그것뿐만 아니라, 우리가 처음 겪었던 에너지 파동이 변형을 유발하는 것 같습니다."
 
 # EDID: [0102B9FA], REC: INFO:NAM1
 msgctxt "000C34"
 msgid "The Oracle has continued to jump. It is completely out of our control."
-msgstr ""
+msgstr "오라클은 계속 도약하고 있습니다. 완전히 통제 불능이에요."
 
 # EDID: [0102B9FA], REC: INFO:NAM1
 msgctxt "000C35"
@@ -10046,7 +10046,7 @@ msgstr ""
 # EDID: [010121E5], REC: INFO:NAM1
 msgctxt "000C3D"
 msgid "If I can get to the control room. If I can --"
-msgstr ""
+msgstr "제어실에 가기만 하면 돼. 도착하면..."
 
 # EDID: [0102B9FB], REC: INFO:NAM1
 msgctxt "000C3E"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2024-10-03 12:34+0000\n"
-"Last-Translator: vinstyle <vinsta@naver.com>\n"
+"PO-Revision-Date: 2024-10-05 14:36+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -423,7 +423,7 @@ msgstr "첫 번째 비밀번호를 입력:"
 # EDID: SFBGS001_LC08CaveName, REC: MESG:DESC
 msgctxt "000752"
 msgid "Misthaze Cavern"
-msgstr ""
+msgstr "안개서린 동굴"
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "00079B"
@@ -755,6 +755,15 @@ msgid ""
 "\n"
 "I love you sis."
 msgstr ""
+"동생아, 의문점이 많겠지만 나에 대한 소문은 사실이 아니야.\n"
+"\n"
+"교단을 위해 한 게 아냐. 다 널 위해서 한 일이지.\n"
+"\n"
+"돈 걱정은 이제 안 해도 돼. 당연한 말이지만, 어디서 그 돈을 얻었는지는 아무한테도 말하지 마.\n"
+"\n"
+"누가 물어보면, 나 같은 배신자와는 관계 없다고 해. 그게 나을거야.\n"
+"\n"
+"사랑한다 동생아."
 
 # EDID: SFBGS001_MS01_AudioLog04Slate, REC: BOOK:DESC
 msgctxt "000D1A"
@@ -779,6 +788,27 @@ msgid ""
 "\n"
 "Mujeen Ka'dic: But, no. Absolutely not. What you speak of is treason. I will have no part in it."
 msgstr ""
+"오킴 카딕: 그래서 언제 그 일을 시작하게 해줄거야?\n"
+"\n"
+"무진 카딕: 앞으로 그런 일을 할 필요가 없어졌습니다. 전쟁의 시대는 끝났어요. 휴전이 양쪽 모두에게 이득이 되는 길입니다.\n"
+"\n"
+"오킴 카딕: 당신이 그런 말을 하다니 웃기군. 카딕 가문 일원 중 한 명이 보급품을 팔아 광신도들과 휴전을 맺으려 한다는 소문을 들었어."
+"\n"
+"\n"
+"무진 카딕: 사실이라면 반역 죄입니다만. \n"
+"\n"
+"오킴 카딕: 물론 가벼운 반역죄가 되겠지. 광신도들이 값을 잘 쳐주긴 하지만 광신도들을 동맹으로 만들 순 없어. 고객이 될 뿐이지. "
+"마지막으로 당신이 목숨걸고 누군가를 위해 일한 적이 언제지? \n"
+"\n"
+"무진 카딕: 좋은 지적이군요. 머리 좀 굴려볼까요. 보급품을 그냥 공짜로 준다면...\n"
+"\n"
+"오킴 카딕: 그럼 당신에게 충성을 맹세할 수도 있겠군요. 젠장, 완전 좋은 생각인데. \n"
+"\n"
+"말만하면, 진행 해보죠.\n"
+"\n"
+"*잠시 정적이 흐른다*\n"
+"\n"
+"무진 카딕: 하지만, 절대 안됩니다. 명백한 반역죄요. 하지 않겠습니다."
 
 # EDID: SFBGS001_MS01_MadriSlateToOchim, REC: BOOK:DESC
 msgctxt "000D23"
@@ -791,6 +821,13 @@ msgid ""
 "\n"
 "Madri"
 msgstr ""
+"오킴,\n"
+"\n"
+"마지막 말이 걱정돼. \"내게 무슨 일이 생긴다면?\" 이라니? 무슨 일 있는 거야?\n"
+"\n"
+"오빠가 실종되면 우리가 집 아래 예전에 숨바꼭질하던 곳을 확인해보라고 했던 말은 기억나, 근데 확인해보기가 무서워.\n"
+"\n"
+"마드리"
 
 # EDID: SFBGS001_MS01_UkaruClue01, REC: BOOK:DESC
 msgctxt "000D5F"
@@ -823,12 +860,12 @@ msgstr ""
 # EDID: SFBGS001_MS01_CipherFail, REC: MESG:DESC
 msgctxt "000EA8"
 msgid "You failed to decrypt the slate"
-msgstr ""
+msgstr "슬레이트를 해독하는 데 실패했습니다"
 
 # EDID: SFBGS001_MS01_CipherSuccess, REC: MESG:DESC
 msgctxt "000EAA"
 msgid "You decrypted the slate"
-msgstr ""
+msgstr "슬레이트를 해독했습니다"
 
 # EDID: SFBGS001_MS01_Clue02Activator_BlockedMessage, REC: MESG:DESC
 msgctxt "000EAC"
@@ -838,22 +875,22 @@ msgstr ""
 # EDID: SFBGS001_MS01_CipherMessage08, REC: MESG:DESC
 msgctxt "000EB4"
 msgid "Enter the fourth number of the password:"
-msgstr ""
+msgstr "비밀번호의 네번 째 숫자를 입력하세요:"
 
 # EDID: SFBGS001_MS01_CipherMessage07, REC: MESG:DESC
 msgctxt "000EBB"
 msgid "Enter the third number of the password:"
-msgstr ""
+msgstr "비밀번호의 세번 째 숫자를 입력하세요:"
 
 # EDID: SFBGS001_MS01_CipherMessage06, REC: MESG:DESC
 msgctxt "000EC2"
 msgid "Enter the second number of the password:"
-msgstr ""
+msgstr "비밀번호의 두번 째 숫자를 입력하세요:"
 
 # EDID: SFBGS001_MS01_CipherMessage05, REC: MESG:DESC
 msgctxt "000EC9"
 msgid "Enter the first number of the password:"
-msgstr ""
+msgstr "비밀번호의 첫번 째 숫자를 입력하세요:"
 
 # EDID: SFBGS001_MQ02_Temp_RitualMSG, REC: MESG:DESC
 msgctxt "000ECA"
@@ -917,7 +954,7 @@ msgstr "바룬카이에서 재배하고 수확한 제품이다."
 # EDID: SFBGS001_Food_Meat_Groat, REC: ALCH:DESC
 msgctxt "0011AB"
 msgid "Meat from a groat!"
-msgstr ""
+msgstr "그로트에서 나온 고기다!"
 
 # EDID: SFBGS001_MS01_ZealotTeachings01, REC: BOOK:DESC
 msgctxt "0011B2"
@@ -960,12 +997,12 @@ msgstr ""
 # EDID: SFBGS001_Drink_VaRuun_GroatMilk, REC: ALCH:DESC
 msgctxt "0011D8"
 msgid "Pasteurized, non-alcoholic groat milk."
-msgstr ""
+msgstr "저온 살균한 무알코올 그로트 젖."
 
 # EDID: SFBGS001_Drink_Alc_VaRuun_Koza, REC: ALCH:DESC
 msgctxt "0011DA"
 msgid "Fermented groat milk. Typically paired with every meal."
-msgstr ""
+msgstr "발효시킨 그로트 젖 음료. 보통 식사를 할 때 함께 마신다."
 
 # EDID: SFBGS001_Drink_Alc_VaRuun_Seaweed, REC: ALCH:DESC
 msgctxt "0011DC"
@@ -1633,7 +1670,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_OchimNameMessage, REC: MESG:DESC
 msgctxt "011200"
 msgid "Ochim Ka'dic"
-msgstr ""
+msgstr "오킴 카딕"
 
 # EDID: SFBGS001_MS01_OchimKeyNameHidden, REC: MESG:DESC
 msgctxt "011297"
@@ -1762,7 +1799,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_Message_BrotherOnamide, REC: MESG:DESC
 msgctxt "011649"
 msgid "Brother Onamide"
-msgstr ""
+msgstr "오나마이드 수도사"
 
 # EDID: SFBGS001_MS02, REC: QUST:CNAM
 msgctxt "01187A"

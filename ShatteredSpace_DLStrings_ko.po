@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-10-05 14:37+0000\n"
+"PO-Revision-Date: 2024-10-05 14:45+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -428,7 +428,7 @@ msgstr ""
 # EDID: SFBGS001_LC08, REC: QUST:NNAM
 msgctxt "0000CB"
 msgid "Explore the cave"
-msgstr "동굴 둘러보기."
+msgstr "동굴 둘러보기"
 
 # EDID: OverlayTestBlock01, REC: WRLD:FULL
 msgctxt "0000CD"
@@ -515,7 +515,7 @@ msgstr "보강 총열"
 # EDID: SFBGS001_mod_RedeemedBlade_Blade_Standard, REC: OMOD:FULL
 msgctxt "00021B"
 msgid "Standard Blade"
-msgstr "표준 사양 칼날."
+msgstr "표준 사양 칼날"
 
 # EDID: SFBGS001_mod_ParticleMachineGun_Muzzle_FocalLens, REC: OMOD:FULL
 msgctxt "00021D"
@@ -7758,7 +7758,7 @@ msgstr ""
 # EDID: SFBGS001_HV_LC01_NadineBosovic, REC: NPC_:FULL
 msgctxt "0111A0"
 msgid "Nadine Bosovic"
-msgstr ""
+msgstr "나딘 보소빅"
 
 # EDID: SFBGS001_mod_VaruunSolstice_Barrel_Standard, REC: OMOD:FULL
 msgctxt "0111A1"

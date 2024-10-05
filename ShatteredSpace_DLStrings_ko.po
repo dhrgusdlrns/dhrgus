@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-10-05 15:24+0000\n"
-"Last-Translator: secarnadia <ellwionsia@gmail.com>\n"
+"PO-Revision-Date: 2024-10-06 14:34+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -108,22 +108,22 @@ msgstr "왜곡"
 # EDID: SFBGS001VortexItem_AnchorEnch, REC: ENCH:FULL
 msgctxt "000021"
 msgid "Anchored"
-msgstr ""
+msgstr "고정"
 
 # EDID: SFBGS001AnchoredEffect, REC: MGEF:FULL
 msgctxt "000022"
 msgid "Anchored"
-msgstr ""
+msgstr "고정"
 
 # EDID: SFBGS001VortexItem_Fear, REC: MGEF:FULL
 msgctxt "000023"
 msgid "Vortex Rift: Fear"
-msgstr ""
+msgstr "볼텍스 균열: 공포"
 
 # EDID: SFBGS001VortexItem_PhaseEtherealizeEffect, REC: MGEF:FULL
 msgctxt "000024"
 msgid "Phased - Etherealize"
-msgstr ""
+msgstr "왜곡 - 에테르화"
 
 # EDID: SFBGS001LC01TheOracleLocation, REC: LCTN:FULL
 msgctxt "000026"
@@ -138,22 +138,22 @@ msgstr "오라클"
 # EDID: SFBGS001LC06ScaledCitadel03Location, REC: LCTN:FULL
 msgctxt "000028"
 msgid "Scaled Citadel - Reactor Level"
-msgstr ""
+msgstr "비늘 성채 - 반응로 층"
 
 # EDID: SFBGS001LC06ScaledCitadel05Location, REC: LCTN:FULL
 msgctxt "00002A"
 msgid "Scaled Citadel - Pinnacle Park"
-msgstr ""
+msgstr "비늘 성채 - 첨탑 공원"
 
 # EDID: SFBGS001LC06ScaledCitadel04Location, REC: LCTN:FULL
 msgctxt "00002B"
 msgid "Scaled Citadel - Palace Level"
-msgstr ""
+msgstr "비늘 성채 - 궁궐층"
 
 # EDID: SFBGS001LC06ScaledCitadel02Location, REC: LCTN:FULL
 msgctxt "00002C"
 msgid "Scaled Citadel - Research Level"
-msgstr ""
+msgstr "비늘 성채 - 연구층"
 
 # EDID: SFBGS001LC01TheOracle, REC: CELL:FULL
 msgctxt "000030"
@@ -163,7 +163,7 @@ msgstr "오라클"
 # EDID: SFBGS001LC06ScaledCitadel05, REC: CELL:FULL
 msgctxt "000031"
 msgid "Scaled Citadel - Pinnacle"
-msgstr ""
+msgstr "비늘 성채 - 첨탑"
 
 # EDID: ssSFBGS001LC01Interior, REC: CELL:FULL
 msgctxt "000032"
@@ -178,27 +178,27 @@ msgstr "오라클"
 # EDID: SFBGS001LC05ResearchSite, REC: CELL:FULL
 msgctxt "000035"
 msgid "Ma'leen Dam"
-msgstr ""
+msgstr "마린 댐"
 
 # EDID: DLC001_LC01_PointGravHazard_SM, REC: HAZD:FULL
 msgctxt "000036"
 msgid "Point Gravity"
-msgstr ""
+msgstr "중력점"
 
 # EDID: DLC001_LC01_TRP_ElectricityArc_Spell, REC: SPEL:FULL
 msgctxt "000037"
 msgid "Electricity Arc Trap"
-msgstr ""
+msgstr "전기 아크 함정"
 
 # EDID: DLC001_LC01_TRP_ElectrictyArc_MagicEffect, REC: MGEF:FULL
 msgctxt "000038"
 msgid "Electrify"
-msgstr ""
+msgstr "Electrify"
 
 # EDID: SFBGS001LC010, REC: CELL:FULL
 msgctxt "00003C"
 msgid "Jandar's Rest"
-msgstr ""
+msgstr "잔다르의 안식처"
 
 # EDID: SFBGS001LC20, REC: CELL:FULL
 msgctxt "00003D"
@@ -213,22 +213,22 @@ msgstr "Quick Test Cell"
 # EDID: SFBGS001LC08WaterfallCaveLocation, REC: LCTN:FULL
 msgctxt "00003F"
 msgid "Misthaze Cavern"
-msgstr ""
+msgstr "안개서린 동굴"
 
 # EDID: SFBGS001LC08WaterfallCave, REC: CELL:FULL
 msgctxt "000040"
 msgid "Waterfall Cave"
-msgstr ""
+msgstr "폭포수 동굴"
 
 # EDID: SFBGS001LC06ScaledCitadel04, REC: CELL:FULL
 msgctxt "000041"
 msgid "Scaled Citadel - Palace Level"
-msgstr ""
+msgstr "비늘 성채 - 궁궐층"
 
 # EDID: SFBGS001LC06ScaledCitadel03, REC: CELL:FULL
 msgctxt "000043"
 msgid "Scaled Citadel - Reactor Level"
-msgstr ""
+msgstr "비늘 성채 - 반응로 층"
 
 # EDID: SFBGS001LC20_ForemanTerminalMenu, REC: TMLM:UNAM
 msgctxt "000049"
@@ -241,11 +241,20 @@ msgid ""
 "\n"
 "Fix this fast."
 msgstr ""
+"형제여,\n"
+"\n"
+"이 \"유지보수\"를 대체 언제까지 할 생각인가? 너무 오래 걸려서 인부들이 동요하기 시작했네. 이번 일이 예전에 우리가 했던 작업처럼 "
+"우주의 별들 사이로 사라지는 것은 바라지 않는단 말이네.\n"
+"\n"
+"이번에는 예전과 같지 않을 것이라고 약속했으니 꼭 그 말을 지키게. 자네가 사치스러운 연회에 참가하며 술이나 퍼마시는 동안 우린 자금이 "
+"전부 동날 위험에 처했네! 인부들이 자네가 여유를 부리고 있단 걸 알게 되면 더 이상 참지 못할 것이야.\n"
+"\n"
+"얼른 일을 마무리하게나."
 
 # EDID: SFBGS001LC20_ForemanTerminalMenu, REC: TMLM:ITXT
 msgctxt "00004A"
 msgid "Promises"
-msgstr ""
+msgstr "약속"
 
 # EDID: SFBGS001LC20_ForemanTerminalMenu, REC: TMLM:FULL
 msgctxt "00004B"
@@ -285,7 +294,7 @@ msgstr ""
 # EDID: SFBGS001LC06, REC: QUST:FULL
 msgctxt "000068"
 msgid "[SFBGS001LC06 - Scaled Citadel]"
-msgstr ""
+msgstr "[SFBGS001LC06 - Scaled Citadel]"
 
 # EDID: SFBGS001_LC08, REC: QUST:NNAM
 msgctxt "00006F"
@@ -423,7 +432,7 @@ msgstr ""
 # EDID: SFBGS001LC06_DoorNameOverride_ScaledCitadel, REC: MESG:FULL
 msgctxt "0000C2"
 msgid "Scaled Citadel"
-msgstr ""
+msgstr "비늘 성채"
 
 # EDID: SFBGS001_LC08, REC: QUST:NNAM
 msgctxt "0000CB"
@@ -1615,7 +1624,7 @@ msgstr ""
 # EDID: SFBGS001LC08WorldLocation, REC: LCTN:FULL
 msgctxt "000753"
 msgid "Misthaze Cavern"
-msgstr ""
+msgstr "안개서린 동굴"
 
 # EDID: SFBGS001_MS01_TestLocation, REC: LCTN:FULL
 msgctxt "000754"
@@ -2594,7 +2603,7 @@ msgstr "Vortex Phantom VFX Magic Effect"
 # EDID: SFBGS001_LC08CaveName, REC: MESG:FULL
 msgctxt "000D27"
 msgid "Misthaze Cavern"
-msgstr ""
+msgstr "안개서린 동굴"
 
 # EDID: SFBGS001_LC08ExtName, REC: MESG:FULL
 msgctxt "000D28"
@@ -17203,7 +17212,7 @@ msgstr ""
 # EDID: SFBGS001_LC48Slate_TreasureHunt, REC: BOOK:FULL
 msgctxt "014AF6"
 msgid "Mission: Misthaze Cavern"
-msgstr ""
+msgstr "임무: 안개서린 동굴"
 
 # EDID: SFBGS001_DazraChunksSlate_LastChance, REC: BOOK:FNAM
 msgctxt "014AF7"
@@ -17278,7 +17287,7 @@ msgstr ""
 # EDID: SFBGS001_LC08, REC: QUST:NNAM
 msgctxt "014B0B"
 msgid "Proceed to Misthaze Cavern"
-msgstr ""
+msgstr "안개서린 동굴로 이동하기"
 
 # EDID: SFBGS001_JinanVaruun_Slate_Speech04, REC: BOOK:FULL
 msgctxt "014B0D"
@@ -20521,7 +20530,7 @@ msgstr "Quick Test Cell"
 # EDID: SFBGS001AnchoredAnimMultEffect, REC: MGEF:FULL
 msgctxt "014DBE"
 msgid "Anchored"
-msgstr ""
+msgstr "고정"
 
 # EDID: SFBGS001AnchoredDamageJumpHeight, REC: MGEF:DNAM
 msgctxt "014DBF"

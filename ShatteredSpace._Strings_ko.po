@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2024-10-05 15:21+0000\n"
+"PO-Revision-Date: 2024-10-05 15:24+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -3490,7 +3490,7 @@ msgctxt "0135A3"
 msgid ""
 "A blade with extremely sharp and jagged edges that can cause intense "
 "bleeding."
-msgstr ""
+msgstr "매우 날카롭고 톱니 같은 모서리가 특징인 칼날. 심한 출혈을 유발함."
 
 # EDID: SFBGS001_MQIN, REC: QUST:CNAM
 msgctxt "0135ED"
@@ -6148,7 +6148,7 @@ msgstr "대상의 방어력을 일정 비율만큼 무시."
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Blade_Corroding, REC: COBJ:DESC
 msgctxt "014DF3"
 msgid "Adds Corrosion Damage."
-msgstr ""
+msgstr "부식 피해 추가."
 
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Blade_HighCarbonSteel, REC:
 # COBJ:DESC

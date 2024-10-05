@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-10-05 14:45+0000\n"
+"PO-Revision-Date: 2024-10-05 15:21+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -4087,9 +4087,10 @@ msgid "FloraChitinousSponge_Varuun_Swap"
 msgstr "FloraChitinousSponge_Varuun_Swap"
 
 # EDID: SFBGS001_SE_VaruunMissionary_Name, REC: MESG:FULL
+#, fuzzy
 msgctxt "0013E8"
 msgid "Va'ruun Missionary"
-msgstr ""
+msgstr "바룬 선교사"
 
 # EDID: SFBGS001LC21MalikGroatFarmLocation, REC: LCTN:FULL
 msgctxt "0013EA"
@@ -4097,9 +4098,10 @@ msgid "Malik's Groat Farm"
 msgstr ""
 
 # EDID: SFBGS001_SE_VaruunMissionary, REC: QUST:FULL
+#, fuzzy
 msgctxt "00141A"
 msgid "Va'ruun Missionary"
-msgstr ""
+msgstr "바룬 선교사"
 
 # EDID: QDTempInteriorMDaniels, REC: CELL:FULL
 msgctxt "001430"
@@ -4513,12 +4515,12 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_DumpsterName, REC: MESG:FULL
 msgctxt "0016B0"
 msgid "Dumpster"
-msgstr ""
+msgstr "쓰레기통"
 
 # EDID: SFBGS001_VkaiZ03_SocksMessage, REC: MESG:FULL
 msgctxt "0016B2"
 msgid "Socks"
-msgstr ""
+msgstr "양말"
 
 # EDID: SFBGS001_VkaiZ03_ReigenAptLocation, REC: LCTN:FULL
 msgctxt "0016B4"
@@ -4763,12 +4765,12 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_DumpsterTrigger, REC: ACTI:ATTX
 msgctxt "00182A"
 msgid "Empty Trash"
-msgstr ""
+msgstr "빈 쓰레기통"
 
 # EDID: SFBGS001_VkaiZ03_DumpsterTrigger, REC: ACTI:FULL
 msgctxt "00182B"
 msgid "Dumpster"
-msgstr ""
+msgstr "쓰레기통"
 
 # EDID: SFBGS001_VkaiZ03_TrashTrigger, REC: ACTI:ATTX
 msgctxt "00182C"
@@ -4868,7 +4870,7 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_IrisPhantomName, REC: MESG:FULL
 msgctxt "001911"
 msgid "Vortex Phantom"
-msgstr ""
+msgstr "볼텍스 팬텀"
 
 # EDID: SFBGS001_QDTempInteriorMDaniels, REC: LCTN:FULL
 msgctxt "001913"
@@ -7758,7 +7760,7 @@ msgstr ""
 # EDID: SFBGS001_HV_LC01_NadineBosovic, REC: NPC_:FULL
 msgctxt "0111A0"
 msgid "Nadine Bosovic"
-msgstr "나딘 보소빅"
+msgstr "나딘 보소비치"
 
 # EDID: SFBGS001_mod_VaruunSolstice_Barrel_Standard, REC: OMOD:FULL
 msgctxt "0111A1"
@@ -9675,12 +9677,12 @@ msgstr ""
 # EDID: SFBGS001_PilgrimsJournal_04, REC: BOOK:ENAM
 msgctxt "01210A"
 msgid "Zarovic's Notes"
-msgstr ""
+msgstr "자로비치의 쪽지"
 
 # EDID: SFBGS001_PilgrimsJournal_04, REC: BOOK:FULL
 msgctxt "01210C"
 msgid "Zarovic's Notes"
-msgstr ""
+msgstr "자로비치의 쪽지"
 
 # EDID: SFBGS001_PilgrimsJournal_01, REC: BOOK:FNAM
 msgctxt "012121"
@@ -11519,7 +11521,7 @@ msgstr "볼텍스 그로트"
 # EDID: SFBGS001_HV_BE_MihaelDziri, REC: NPC_:FULL
 msgctxt "01292E"
 msgid "Mihael Dziri"
-msgstr ""
+msgstr "미해일 지리"
 
 # EDID: SFBGS001_VaruunEquinox, REC: WEAP:FULL
 msgctxt "01292F"
@@ -12079,7 +12081,7 @@ msgstr "에센셜 볼텍스 팬텀"
 # EDID: SFBGS001_VkaiZ03_Toyplushie_Dog01, REC: MISC:FULL
 msgctxt "0130FC"
 msgid "Socks"
-msgstr ""
+msgstr "양말"
 
 # EDID: SFBGS001_VortexCyst_Glowing, REC: MISC:FULL
 msgctxt "0130FD"
@@ -12813,12 +12815,12 @@ msgstr ""
 # EDID: SFBGS001_LC04_Bella, REC: NPC_:FULL
 msgctxt "0133AD"
 msgid "Bella"
-msgstr ""
+msgstr "벨라"
 
 # EDID: SFBGS001_LC04_Boris, REC: NPC_:FULL
 msgctxt "0133AE"
 msgid "Boris"
-msgstr ""
+msgstr "보리스"
 
 # EDID: SFBGS001_MS04TeaserScene_Female03, REC: NPC_:FULL
 msgctxt "0133AF"
@@ -13135,12 +13137,12 @@ msgstr ""
 # EDID: SFBGS001_DazraZ03_Quasim_AUDIOONLY_NoAppearanceData, REC: NPC_:SHRT
 msgctxt "0138F4"
 msgid "Quasim Bradi"
-msgstr ""
+msgstr "콰심 브래디"
 
 # EDID: SFBGS001_DazraZ03_Quasim_AUDIOONLY_NoAppearanceData, REC: NPC_:FULL
 msgctxt "0138F5"
 msgid "Quasim Bradi"
-msgstr ""
+msgstr "콰심 브래디"
 
 # EDID: SFBGS001LC07Int02_QuasimSlate, REC: BOOK:FNAM
 msgctxt "0138F6"
@@ -13561,7 +13563,7 @@ msgstr ""
 # EDID: SFBGS001_LucjanVolkar, REC: NPC_:FULL
 msgctxt "013D58"
 msgid "Lucjan Volkar"
-msgstr ""
+msgstr "루치안 볼카"
 
 # EDID: SFBGS001_DazraChunksRefugee_Male03, REC: NPC_:FULL
 msgctxt "013D59"
@@ -13586,7 +13588,7 @@ msgstr "난민"
 # EDID: SFBGS001_MS05_MaaliyaHajtal_REVersion, REC: NPC_:FULL
 msgctxt "013D5E"
 msgid "Maaliya Hajtal"
-msgstr ""
+msgstr "말리야 하즈탈"
 
 # EDID: SFBGS001_mod_AVM_VaruunOrion_FangVariant, REC: OMOD:FULL
 msgctxt "013DA9"
@@ -17016,12 +17018,12 @@ msgstr "미르자"
 # EDID: SFBGS001_LC21_Groat_Female_Connemara, REC: NPC_:FULL
 msgctxt "014AB9"
 msgid "Connemara"
-msgstr ""
+msgstr "콘네마라"
 
 # EDID: SFBGS001_LC21_Groat_Kid_Rantanplan, REC: NPC_:FULL
 msgctxt "014ABA"
 msgid "Rantanplan"
-msgstr ""
+msgstr "랜탠플랜"
 
 # EDID: SFBGS001_VortexGrenadeSummon, REC: EXPL:FULL
 msgctxt "014ABD"
@@ -17046,17 +17048,17 @@ msgstr "바룬 리딤드 특성"
 # EDID: SFBGS001LC15_MiniBot_Kalyn, REC: NPC_:FULL
 msgctxt "014AC1"
 msgid "Ka'lyn"
-msgstr ""
+msgstr "카린"
 
 # EDID: SFBGS001LC15_MiniBot_Duke, REC: NPC_:FULL
 msgctxt "014AC2"
 msgid "Duke"
-msgstr ""
+msgstr "듀크"
 
 # EDID: SFBGS001LC15_MiniBot_Damir, REC: NPC_:FULL
 msgctxt "014AC3"
 msgid "Damir"
-msgstr ""
+msgstr "다미어"
 
 # EDID: SFBGS001_LC15Slate_Kalyn, REC: BOOK:FULL
 msgctxt "014AC5"

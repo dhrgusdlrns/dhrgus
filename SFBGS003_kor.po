@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-09-27 14:43+0000\n"
+"PO-Revision-Date: 2024-10-05 14:37+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -4529,7 +4529,7 @@ msgstr "벤자민 응고마"
 #. REC = MESG:FULL
 msgctxt "000A98"
 msgid "Oshi Bashir"
-msgstr "오시 바시르"
+msgstr "오시 바시어"
 
 #. EDID = SFBGS003_BountyTarget_Name_M_224
 #. REC = MESG:FULL
@@ -5975,7 +5975,7 @@ msgstr "에즈라 응고마"
 #. REC = MESG:FULL
 msgctxt "000B89"
 msgid "Amaros Bashir"
-msgstr "아마로스 바시르"
+msgstr "아마로스 바시어"
 
 #. EDID = SFBGS003_BountyTarget_Name_NB_194
 #. REC = MESG:FULL
@@ -6953,7 +6953,7 @@ msgstr "엘리 카트라이트"
 #. REC = MESG:FULL
 msgctxt "000C2C"
 msgid "Kaara Bashir"
-msgstr "카아라 바시르"
+msgstr "카아라 바시어"
 
 #. EDID = SFBGS003_BountyTarget_Name_NB_45
 #. REC = MESG:FULL
@@ -17888,10 +17888,9 @@ msgstr "입력할 질의어가 있으십니까? 제가 모르면, 여기 있는 
 #. QUEST: SFBGS003_DialogueTAHQ
 #. EDID = [FD004B44]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "0003D5"
 msgid "If you have need of my services, just ask. But, try not to monopolize my time."
-msgstr "도움이 필요하면 말씀하세요. 하지만 제 시간을 너무 독점하진 마세요."
+msgstr "도움이 필요하면 말씀하십시오. 하지만 제 시간을 너무 독점하진 마십시오."
 
 #. SCRIPT NOTES:  / to Roach
 #. ALIAS: Player Default
@@ -26641,10 +26640,9 @@ msgstr "코이오스는 그리스의 거인 신으로, 우라노스와 가이아
 #. QUEST: SFBGS003_DialogueTAHQ
 #. EDID = [FD004B43]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "000797"
 msgid "What do you request of me? Serious inquiries only."
-msgstr "뭘 원해? 진지한 질문만 해."
+msgstr "뭘 원하십니까? 진지하게 질의어를 입력해 주십시오."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: KoiOS
@@ -26652,10 +26650,9 @@ msgstr "뭘 원해? 진지한 질문만 해."
 #. QUEST: SFBGS003_DialogueTAHQ
 #. EDID = [FD004B42]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "000798"
 msgid "Keep it quick and don't waste my free cycles."
-msgstr "빨리 하고 내 여유 시간을 낭비하지 마."
+msgstr "빨리 진행하십시오. 제 여유 주기를 낭비하게 만들지 마십시오."
 
 #. SCRIPT NOTES: Agent No One / to Player Default
 #. ALIAS: Roach

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2024-10-05 14:36+0000\n"
+"PO-Revision-Date: 2024-10-05 15:21+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -713,7 +713,7 @@ msgstr ""
 # EDID: SFBGS001_ParasiteARace, REC: RACE:DESC
 msgctxt "000B9F"
 msgid "RightHand Claw Strike"
-msgstr ""
+msgstr "RightHand Claw Strike"
 
 # EDID: SFBGS001_MQ01_TEMP_RebootMSG, REC: MESG:DESC
 msgctxt "000C17"
@@ -1010,9 +1010,10 @@ msgid "Fermented seaweed. Hints of umami and salt, pairs well with fish."
 msgstr ""
 
 # EDID: SFBGS001_SE_VaruunMissionary_Name, REC: MESG:DESC
+#, fuzzy
 msgctxt "0013E9"
 msgid "Va'ruun Missionary"
-msgstr ""
+msgstr "바룬 선교사"
 
 # EDID: SFBGS001_DazraZ01_SeaweedMessage, REC: MESG:DESC
 msgctxt "00143E"
@@ -1031,12 +1032,12 @@ msgstr "Stop()"
 # EDID: SFBGS001_VkaiZ03_DumpsterName, REC: MESG:DESC
 msgctxt "0016B1"
 msgid "Dumpster"
-msgstr ""
+msgstr "쓰레기통"
 
 # EDID: SFBGS001_VkaiZ03_SocksMessage, REC: MESG:DESC
 msgctxt "0016B3"
 msgid "Socks"
-msgstr ""
+msgstr "양말"
 
 # EDID: SFBGS001_VkaiZ03_AudioSlate04, REC: BOOK:DESC
 msgctxt "001815"
@@ -1129,7 +1130,7 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_IrisPhantomName, REC: MESG:DESC
 msgctxt "001912"
 msgid "Vortex Phantom"
-msgstr ""
+msgstr "볼텍스 팬텀"
 
 # EDID: SFBGS001_MS04_Slate, REC: BOOK:DESC
 msgctxt "001A20"
@@ -1169,22 +1170,22 @@ msgstr ""
 # EDID: SFBGS001_MQ04_TrackerDistance, REC: MESG:DESC
 msgctxt "001C28"
 msgid "Distance to target: %.0f meters"
-msgstr ""
+msgstr "목표까지의 거리: %.0f 미터"
 
 # EDID: SFBGS001_MQ04_Bloodstain01MainMSG, REC: MESG:DESC
 msgctxt "001CC8"
 msgid "There is a dried bloodstain here."
-msgstr ""
+msgstr "말라붙은 핏자국이 남아있다."
 
 # EDID: SFBGS001_MQ04_VortexSpawnMainMSG, REC: MESG:DESC
 msgctxt "001CC9"
 msgid "A Vortex Spawn lies here dead."
-msgstr ""
+msgstr "볼텍스 스폰이 죽어 여기 누워 있다."
 
 # EDID: SFBGS001_MQ04_Footprints01MainMSG, REC: MESG:DESC
 msgctxt "001CCA"
 msgid "You can make out several footprints here."
-msgstr ""
+msgstr "바닥에 여러 발자국이 남아있는 게 보인다."
 
 # EDID: SFBGS001_MQ04_MilasJournal, REC: BOOK:DESC
 msgctxt "001D3E"
@@ -1373,17 +1374,17 @@ msgstr "Va'ruun'kai MantidA Plated Mantis Skin"
 # COBJ:DESC
 msgctxt "00243A"
 msgid "Raises Damage, Lowers Attack Speed."
-msgstr ""
+msgstr "피해 증가, 공격 속도 느려짐."
 
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Handle_Lightweight, REC: COBJ:DESC
 msgctxt "00243B"
 msgid "Raises Attack Speed, Lowers Damage."
-msgstr ""
+msgstr "공격 속도 빨라짐, 피해 감소."
 
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Blade_AlloyedSteel, REC: COBJ:DESC
 msgctxt "00243C"
 msgid "Improved Sneak Attack Damage."
-msgstr ""
+msgstr "은신 공격 피해 증가."
 
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Blade_StainlessSteel, REC:
 # COBJ:DESC

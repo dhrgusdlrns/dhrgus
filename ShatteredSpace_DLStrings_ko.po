@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-10-04 16:43+0000\n"
+"PO-Revision-Date: 2024-10-05 14:37+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -15,9 +15,10 @@ msgstr ""
 
 #
 # EDID: SFBGS001VortexItem_PhaseVortexEffect, REC: MGEF:DNAM
+#, fuzzy
 msgctxt "000009"
 msgid "Vortex effect for <dur> seconds."
-msgstr ""
+msgstr "<dur> 동안 볼텍스 효과."
 
 # EDID: SFBGS001VortexItem_PhaseVortexEffect, REC: MGEF:FULL
 msgctxt "00000A"
@@ -27,82 +28,82 @@ msgstr "Phased - Vortex Effect"
 # EDID: SFBGS001LC06ScaledCitadel01Location, REC: LCTN:FULL
 msgctxt "00000C"
 msgid "Scaled Citadel - Main Level"
-msgstr ""
+msgstr "비늘 성채 - 지상층"
 
 # EDID: SFBGS001_VortexItemExplosion_Explosion, REC: EXPL:FULL
 msgctxt "00000E"
 msgid "Particle Fuse Explosion"
-msgstr "Particle Fuse Explosion"
+msgstr "입자 퓨즈 폭발"
 
 # EDID: SFBGS001LC02SerpentsPath02, REC: CELL:FULL
 msgctxt "000010"
 msgid "Serpent's Path - Ritual Chamber"
-msgstr ""
+msgstr "뱀의 길 - 의식장"
 
 # EDID: SFBGS001LC06ScaledCitadel01, REC: CELL:FULL
 msgctxt "000011"
 msgid "Scaled Citadel - Main Level"
-msgstr ""
+msgstr "비늘 성채 - 지상층"
 
 # EDID: SFBGS001LC02SerpentsPath01, REC: CELL:FULL
 msgctxt "000012"
 msgid "Serpent's Path"
-msgstr ""
+msgstr "뱀의 길"
 
 # EDID: SFBGS001_VortexGrenadeProjectile_UnstableRandom, REC: PROJ:FULL
 msgctxt "000013"
 msgid "Vortex Cyst Projectile"
-msgstr ""
+msgstr "볼텍스 포낭 투사체"
 
 # EDID: SFBGS001_VortexGrenadeProjectile_StableAnchor, REC: PROJ:FULL
 msgctxt "000014"
 msgid "Vortex Cyst Projectile"
-msgstr ""
+msgstr "볼텍스 포낭 투사체"
 
 # EDID: SFBGS001_VortexGrenadeProjectile_StablePhase, REC: PROJ:FULL
 msgctxt "000015"
 msgid "Vortex Cyst Projectile"
-msgstr ""
+msgstr "볼텍스 포낭 투사체"
 
 # EDID: SFBGS001_VortexGrenadeProjectile_StableExplosion, REC: PROJ:FULL
 msgctxt "000016"
 msgid "Vortex Cyst Projectile"
-msgstr ""
+msgstr "볼텍스 포낭 투사체"
 
 # EDID: SFBGS001_VortexGrenadeProjectile_StableSummon, REC: PROJ:FULL
 msgctxt "000017"
 msgid "Vortex Cyst Projectile"
-msgstr ""
+msgstr "볼텍스 포낭 투사체"
 
 # EDID: SFBGS001_VortexGrenade_StablePhase, REC: WEAP:FULL
 msgctxt "000019"
 msgid "Vortex Grenade - Phasing"
-msgstr ""
+msgstr "볼텍스 수류탄 - 왜곡"
 
 # EDID: SFBGS001_VortexGrenade_StableAnchor, REC: WEAP:FULL
 msgctxt "00001A"
 msgid "Vortex Grenade - Binding"
-msgstr ""
+msgstr "볼텍스 수류탄 - 속박"
 
 # EDID: SFBGS001_VortexGrenade_StableExplosion, REC: WEAP:FULL
 msgctxt "00001B"
 msgid "Vortex Grenade - Charged"
-msgstr ""
+msgstr "볼텍스 수류탄 - 충전"
 
 # EDID: SFBGS001_VortexGrenade_Random, REC: WEAP:FULL
 msgctxt "00001D"
 msgid "Vortex Grenade - Unstable"
-msgstr ""
+msgstr "볼텍스 수류탄 - 불안정"
 
 # EDID: SFBGS001_VortexGrenade_StableSummon, REC: WEAP:FULL
 msgctxt "00001E"
 msgid "Vortex Grenade - Lure"
-msgstr ""
+msgstr "볼텍스 수류탄 - 미끼"
 
 # EDID: SFBGS001VortexItem_PhaseEnch, REC: ENCH:FULL
 msgctxt "000020"
 msgid "Phased"
-msgstr ""
+msgstr "왜곡"
 
 # EDID: SFBGS001VortexItem_AnchorEnch, REC: ENCH:FULL
 msgctxt "000021"
@@ -127,12 +128,12 @@ msgstr ""
 # EDID: SFBGS001LC01TheOracleLocation, REC: LCTN:FULL
 msgctxt "000026"
 msgid "The Oracle"
-msgstr ""
+msgstr "오라클"
 
 # EDID: SFBGS001LC01InitialSpaceCellLocation, REC: LCTN:FULL
 msgctxt "000027"
 msgid "The Oracle"
-msgstr ""
+msgstr "오라클"
 
 # EDID: SFBGS001LC06ScaledCitadel03Location, REC: LCTN:FULL
 msgctxt "000028"
@@ -157,7 +158,7 @@ msgstr ""
 # EDID: SFBGS001LC01TheOracle, REC: CELL:FULL
 msgctxt "000030"
 msgid "The Oracle"
-msgstr ""
+msgstr "오라클"
 
 # EDID: SFBGS001LC06ScaledCitadel05, REC: CELL:FULL
 msgctxt "000031"
@@ -167,12 +168,12 @@ msgstr ""
 # EDID: ssSFBGS001LC01Interior, REC: CELL:FULL
 msgctxt "000032"
 msgid "The Oracle"
-msgstr ""
+msgstr "오라클"
 
 # EDID: DLC001LC01_Station, REC: GBFM:FULL
 msgctxt "000033"
 msgid "The Oracle"
-msgstr ""
+msgstr "오라클"
 
 # EDID: SFBGS001LC05ResearchSite, REC: CELL:FULL
 msgctxt "000035"
@@ -202,12 +203,12 @@ msgstr ""
 # EDID: SFBGS001LC20, REC: CELL:FULL
 msgctxt "00003D"
 msgid "Buried Supply Depot"
-msgstr ""
+msgstr "매몰된 보급고"
 
 # EDID: CTESTJM, REC: CELL:FULL
 msgctxt "00003E"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 # EDID: SFBGS001LC08WaterfallCaveLocation, REC: LCTN:FULL
 msgctxt "00003F"
@@ -249,7 +250,7 @@ msgstr ""
 # EDID: SFBGS001LC20_ForemanTerminalMenu, REC: TMLM:FULL
 msgctxt "00004B"
 msgid "Warehouse Storage Computer"
-msgstr ""
+msgstr "창고 보관 컴퓨터"
 
 # EDID: SFBGS001LC20Location, REC: LCTN:FULL
 msgctxt "000059"
@@ -264,7 +265,7 @@ msgstr ""
 # EDID: SFBGS001LC20_ForemanTerminal, REC: TERM:FULL
 msgctxt "000061"
 msgid "Supply Depot Computer"
-msgstr ""
+msgstr "보급고 컴퓨터"
 
 # EDID: SFBGS001LC20_VaruunNote01, REC: BOOK:FULL
 msgctxt "000063"
@@ -432,7 +433,7 @@ msgstr "동굴 둘러보기."
 # EDID: OverlayTestBlock01, REC: WRLD:FULL
 msgctxt "0000CD"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGSDLC001WorldArtAssets, REC: CELL:FULL
 msgctxt "0000CF"
@@ -447,22 +448,22 @@ msgstr ""
 # EDID: DLC001LC010_RoofTerminalTurretSubMenu, REC: TMLM:UNAM
 msgctxt "00020B"
 msgid "Turrets deactivated."
-msgstr ""
+msgstr "포탑 비활성화됨."
 
 # EDID: DLC001LC010_RoofTerminalTurretSubMenu, REC: TMLM:ITXT
 msgctxt "00020C"
 msgid "Deactivate Turret(s)"
-msgstr ""
+msgstr "포탑 비활성화"
 
 # EDID: DLC001LC010_RoofTerminalTurretSubMenu, REC: TMLM:UNAM
 msgctxt "00020D"
 msgid "Turrets activated."
-msgstr ""
+msgstr "포탑 활성화됨."
 
 # EDID: DLC001LC010_RoofTerminalTurretSubMenu, REC: TMLM:ITXT
 msgctxt "00020E"
 msgid "Activate Turret(s)"
-msgstr ""
+msgstr "포탑 활성화"
 
 # EDID: DLC001LC010_RoofTerminalTurretSubMenu, REC: TMLM:BTXT
 msgctxt "00020F"
@@ -470,6 +471,8 @@ msgid ""
 "Turret Control Interface\n"
 "STATUS: Inactive"
 msgstr ""
+"포탑 제어 인터페이스\n"
+"상태: 비활성"
 
 # EDID: DLC001LC010_RoofTerminalTurretSubMenu, REC: TMLM:BTXT
 msgctxt "000210"
@@ -477,6 +480,8 @@ msgid ""
 "Turret Control Interface\n"
 "STATUS: Active"
 msgstr ""
+"포탑 제어 인터페이스\n"
+"상태: 작동 중"
 
 # EDID: DLC001LC010_RoofTerminalTurretSubMenu, REC: TMLM:BTXT
 msgctxt "000211"
@@ -484,11 +489,13 @@ msgid ""
 "Turret Control Interface\n"
 "STATUS: NO SIGNAL"
 msgstr ""
+"포탑 제어 인터페이스\n"
+"상태: 신호 없음"
 
 # EDID: DLC001LC010_RoofTerminalTurretSubMenu, REC: TMLM:FULL
 msgctxt "000212"
 msgid "Remote Turret Control"
-msgstr ""
+msgstr "원격 포탑 제어"
 
 # EDID: DLC001LC010_RoofTerminalMenu, REC: TMLM:FULL
 msgctxt "000216"
@@ -855,17 +862,17 @@ msgstr ""
 # EDID: OverlayTestBlock02, REC: WRLD:FULL
 msgctxt "000692"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001LC03ZealotOutpost, REC: CELL:FULL
 msgctxt "000694"
 msgid "Zealot Outpost"
-msgstr ""
+msgstr "광신도 전초기지"
 
 # EDID: DLC001LC010_RoofComputer, REC: TERM:FULL
 msgctxt "000695"
 msgid "Turret Terminal"
-msgstr ""
+msgstr "포탑 단말기"
 
 # EDID: SFBGS001LC06_AnaskosIDCard, REC: KEYM:FULL
 msgctxt "000696"
@@ -875,27 +882,27 @@ msgstr ""
 # EDID: SFBGS001_RedeemedBlade, REC: WEAP:FULL
 msgctxt "000698"
 msgid "Va'ruun Schimaz"
-msgstr ""
+msgstr "바룬 시마즈"
 
 # EDID: SFBGS001_ParticleMachineGun, REC: WEAP:FULL
 msgctxt "000699"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 # EDID: SFBGS001_ParticleMachineGun, REC: WEAP:FULL
 msgctxt "00069A"
 msgid "Fallback"
-msgstr ""
+msgstr "Fallback"
 
 # EDID: SFBGS001_ParticleMachineGun, REC: WEAP:FULL
 msgctxt "00069B"
 msgid "Va'ruun Starstorm"
-msgstr ""
+msgstr "바룬 스타스톰"
 
 # EDID: SFBGS001_ParticleRocketlauncher, REC: WEAP:FULL
 msgctxt "00069C"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 # EDID: SFBGS001_ParticleRocketlauncher, REC: WEAP:FULL
 msgctxt "00069D"
@@ -910,7 +917,7 @@ msgstr ""
 # EDID: SFBGS001LC20_VaruunNote02, REC: BOOK:FULL
 msgctxt "0006A0"
 msgid "Zealot Captain's Note"
-msgstr ""
+msgstr "광신도 선장의 노트"
 
 # EDID: SFBGS001_HumanRace, REC: RACE:SNAM
 msgctxt "0006A1"
@@ -983,7 +990,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_MujeenComputerDesktop, REC: TMLM:FULL
 msgctxt "0006DD"
 msgid "Mujeen Ka'dic's Computer"
-msgstr ""
+msgstr "무진 카딕의 컴퓨터"
 
 # EDID: SFBGS001LC20_ForemanTerminalSubMenu, REC: TMLM:UNAM
 msgctxt "0006DE"
@@ -1623,7 +1630,7 @@ msgstr ""
 # EDID: SFBGS001_LC01_TheOracleQuest, REC: QUST:FULL
 msgctxt "000757"
 msgid "Oracle Quest"
-msgstr ""
+msgstr "오라클 임무"
 
 # EDID: SFBGS001_MQ06, REC: QUST:NNAM
 msgctxt "000766"
@@ -1737,7 +1744,7 @@ msgstr ""
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "000791"
 msgid "Restore the Oracle's gravity"
-msgstr ""
+msgstr "오라클 중력 복구하기"
 
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "000792"
@@ -1747,7 +1754,7 @@ msgstr ""
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "000793"
 msgid "Restore the Oracle to full power"
-msgstr ""
+msgstr "오라클을 최대 출력으로 복구하기"
 
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "000794"
@@ -1782,7 +1789,7 @@ msgstr ""
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "00079A"
 msgid "Investigate the Oracle starstation (Recommend Level 35+)"
-msgstr ""
+msgstr "오라클 우주정거장 조사하기 (35 레벨 이상 권장)"
 
 # EDID: SFBGS001_MQ01, REC: QUST:FULL
 msgctxt "00079F"
@@ -1802,7 +1809,7 @@ msgstr ""
 # EDID: SFBGSDLC001TESTPickett, REC: CELL:FULL
 msgctxt "000B33"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 # EDID: SFBGS001LC19, REC: CELL:FULL
 msgctxt "000B34"
@@ -1837,7 +1844,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_UkaruComputer, REC: TERM:FULL
 msgctxt "000B3D"
 msgid "Ukaru Dul'kehf's Computer"
-msgstr ""
+msgstr "우카루 둘케프의 컴퓨터"
 
 # EDID: SFBGS001_MQ01_OperationsTerminal, REC: TERM:FULL
 msgctxt "000B3F"
@@ -1877,7 +1884,7 @@ msgstr "말리보어 둘케프"
 # EDID: SFBGS001_HV_InazaKaisir, REC: NPC_:FULL
 msgctxt "000B48"
 msgid "Inaza Kaisir"
-msgstr "이나자 카이시르"
+msgstr "이나자 카이시어"
 
 # EDID: SFBGS001_MS01_HV_OchimKadic, REC: NPC_:FULL
 msgctxt "000B49"
@@ -1937,7 +1944,7 @@ msgstr "열거머리"
 # EDID: SFBGS001_MQ01_Announcer_NoAppearanceData, REC: NPC_:SHRT
 msgctxt "000B54"
 msgid "Announcer"
-msgstr ""
+msgstr "안내 방송"
 
 # EDID: SFBGS001_MQ01_Announcer_NoAppearanceData, REC: NPC_:FULL
 msgctxt "000B55"
@@ -2082,7 +2089,7 @@ msgstr ""
 # EDID: SFBGS001_MacKitChair_01_NoDesk, REC: FURN:FULL
 msgctxt "000B74"
 msgid "Chair"
-msgstr ""
+msgstr "의자"
 
 # EDID: SFBGS001_MacKitBench_01, REC: FURN:FULL
 msgctxt "000B75"
@@ -2117,7 +2124,7 @@ msgstr "보관 상자"
 # EDID: SFBGS001_MS01_TevinaStateEvidence03, REC: BOOK:FULL
 msgctxt "000B7E"
 msgid "Zealot Slate #2032"
-msgstr ""
+msgstr "광신도 슬레이트 #2032"
 
 # EDID: SFBGS001_MS01_AudioLog03Slate, REC: BOOK:ENAM
 msgctxt "000B7F"
@@ -2127,7 +2134,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_AudioLog03Slate, REC: BOOK:FULL
 msgctxt "000B81"
 msgid "Supply Depot Recording"
-msgstr ""
+msgstr "보급고 녹음 기록"
 
 # EDID: SFBGS001_MS01_CipherSlate_Encrypted, REC: BOOK:FNAM
 msgctxt "000B82"
@@ -2142,7 +2149,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_CipherSlate_Encrypted, REC: BOOK:FULL
 msgctxt "000B85"
 msgid "Encrypted Zealot Slate #2032"
-msgstr ""
+msgstr "암호화된 광신도 슬레이트 #2032"
 
 # EDID: SFBGS001LC07Int01_Note01, REC: BOOK:FULL
 msgctxt "000B87"
@@ -2282,17 +2289,17 @@ msgstr "모래사막"
 # EDID: SFBGS001_MS01_CaveKey, REC: KEYM:FULL
 msgctxt "000C03"
 msgid "Zealot Shrine Key"
-msgstr ""
+msgstr "광신도 성소 열쇠"
 
 # EDID: SFBGS001_MS01_KeyParts, REC: MISC:FULL
 msgctxt "000C04"
 msgid "Zealot Shrine Key Parts"
-msgstr ""
+msgstr "광신도 성소 열쇠 일부분"
 
 # EDID: SFBGS001_MS01_OchimDesktop, REC: TMLM:FULL
 msgctxt "000C0F"
 msgid "Ochim Ka'dic's Computer"
-msgstr ""
+msgstr "오킴 카딕의 컴퓨터"
 
 # EDID: SFBGS001_MS01_MujeenComputerDesktop, REC: TMLM:UNAM
 msgctxt "000C10"
@@ -2352,7 +2359,7 @@ msgstr ""
 # EDID: SFBGS001LC01FinalSpaceCellLocation, REC: LCTN:FULL
 msgctxt "000C1C"
 msgid "The Oracle"
-msgstr ""
+msgstr "오라클"
 
 # EDID: SFBGS001_ParticleRocketlauncherExplosion, REC: EXPL:FULL
 msgctxt "000C1D"
@@ -2377,12 +2384,12 @@ msgstr ""
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "000CF6"
 msgid "Kill the Zealot Boss"
-msgstr ""
+msgstr "광신도 두목 죽이기"
 
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "000CF7"
 msgid "Speak to the Zealot Boss"
-msgstr ""
+msgstr "광신도 두목에게 말하기"
 
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "000CF8"
@@ -2502,7 +2509,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_OchimComputer, REC: TERM:FULL
 msgctxt "000D10"
 msgid "Ochim Ka'dic's Computer"
-msgstr ""
+msgstr "오킴 카딕의 컴퓨터"
 
 # EDID: SFBGS001_ParticleRocketlauncherProjectile, REC: PROJ:FULL
 msgctxt "000D11"
@@ -2517,7 +2524,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_OchimTerminalKey, REC: KEYM:FULL
 msgctxt "000D13"
 msgid "Ochim's Computer Passcode"
-msgstr ""
+msgstr "오킴의 컴퓨터 비밀번호"
 
 # EDID: SFBGS001_EncVortexPhantom01Template, REC: NPC_:FULL
 msgctxt "000D14"
@@ -2597,7 +2604,7 @@ msgstr ""
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "000D3C"
 msgid "(Optional) Access Ochim Ka'dic's Computer"
-msgstr ""
+msgstr "(선택) 오킴 카딕의 컴퓨터에 접속하기"
 
 # EDID: SFBGS001_LC08_BossChestKey, REC: KEYM:FULL
 msgctxt "000D3E"
@@ -3088,19 +3095,20 @@ msgid "(Optional) Give Qisrani the recording"
 msgstr ""
 
 # EDID: SFBGS001_MS01_HV_TevinaVethaal_AudioONLY, REC: NPC_:FULL
+#, fuzzy
 msgctxt "000E96"
 msgid "Contact"
-msgstr ""
+msgstr "연락책"
 
 # EDID: SFBGS001_MS01_HV_Madri, REC: NPC_:FULL
 msgctxt "000E98"
 msgid "Madri Sharon"
-msgstr ""
+msgstr "마드리 샤론"
 
 # EDID: SFBGS001_SpaceSuit_Varuun_Backpack_02, REC: ARMO:FULL
 msgctxt "000E9B"
 msgid "Entry"
-msgstr ""
+msgstr "엔트리"
 
 # EDID: SFBGS001_SpaceSuit_Varuun_Backpack_02, REC: ARMO:FULL
 msgctxt "000E9C"
@@ -3115,7 +3123,7 @@ msgstr ""
 # EDID: SFBGS001_Spacesuit_Varuun_02, REC: ARMO:FULL
 msgctxt "000EA1"
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 # EDID: SFBGS001_Spacesuit_Varuun_02, REC: ARMO:FULL
 msgctxt "000EA2"
@@ -3140,7 +3148,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_CipherSuccess, REC: MESG:FULL
 msgctxt "000EA9"
 msgid "You decrypted the slate"
-msgstr ""
+msgstr "슬레이트 암호화를 해독했습니다"
 
 # EDID: SFBGS001_MS01_Clue02Activator_BlockedMessage, REC: MESG:FULL
 msgctxt "000EAB"
@@ -3350,7 +3358,7 @@ msgstr ""
 # EDID: SFBGS001_HV_LovekVethaal, REC: NPC_:FULL
 msgctxt "000F10"
 msgid "Lovek Veth'aal"
-msgstr ""
+msgstr "로벡 베타알"
 
 # EDID: SFBGS001_MQ03, REC: QUST:NNAM
 msgctxt "000F7A"
@@ -3360,7 +3368,7 @@ msgstr ""
 # EDID: SFBGS001_MQ03, REC: QUST:NNAM
 msgctxt "000F7B"
 msgid "Kill the Zealot representatives"
-msgstr ""
+msgstr "광신도 대표들 죽이기"
 
 # EDID: SFBGS001_MQ03, REC: QUST:NNAM
 msgctxt "000F7C"
@@ -3430,17 +3438,17 @@ msgstr ""
 # EDID: SFBGS001_MQ03, REC: QUST:NNAM
 msgctxt "000F89"
 msgid "Talk to Djimal Ka'dic"
-msgstr ""
+msgstr "지말 카딕과 대화하기"
 
 # EDID: SFBGS001_MQ03, REC: QUST:NNAM
 msgctxt "000F8B"
 msgid "Return to Razma"
-msgstr ""
+msgstr "라즈마에게 돌아가기"
 
 # EDID: SFBGS001_MQ03, REC: QUST:NNAM
 msgctxt "000F8D"
 msgid "Discover the location of the Zealot base"
-msgstr ""
+msgstr "광신도 기지 위치 찾기"
 
 # EDID: SFBGS001_MQ03, REC: QUST:NNAM
 msgctxt "000F8E"
@@ -3460,27 +3468,28 @@ msgstr ""
 # EDID: SFBGS001_HV_DZ_HK_RazmaKadic, REC: NPC_:FULL
 msgctxt "000FB1"
 msgid "Razma Ka'dic"
-msgstr ""
+msgstr "라즈마 카딕"
 
 # EDID: SFBGS001_HV_DZ_HK_DjimalKadic, REC: NPC_:FULL
+#, fuzzy
 msgctxt "000FB3"
 msgid "Djimal Ka'dic"
-msgstr ""
+msgstr "지말 카딕"
 
 # EDID: SFBGS001_HV_DZ_HK_MirekKadic, REC: NPC_:FULL
 msgctxt "000FB5"
 msgid "Mirek Ka'dic"
-msgstr ""
+msgstr "마이렉 카딕"
 
 # EDID: SFBGS001_HV_DZ_HK_GavinKadic, REC: NPC_:FULL
 msgctxt "000FB7"
 msgid "Gavin Ka'dic"
-msgstr ""
+msgstr "개빈 카딕"
 
 # EDID: SFBGS001_HV_LC03_MihaelDziri, REC: NPC_:FULL
 msgctxt "000FB9"
 msgid "Mihael Dziri"
-msgstr ""
+msgstr "미해일 지리"
 
 # EDID: SFBGS001_LC03_Sahima, REC: BOOK:FULL
 msgctxt "000FBA"
@@ -3515,22 +3524,22 @@ msgstr ""
 # EDID: SFBGS001_MS01_JandarRestCitizen03, REC: MESG:FULL
 msgctxt "000FF9"
 msgid "Religious Scholar"
-msgstr ""
+msgstr "종교학자"
 
 # EDID: SFBGS001_MS01_JandarRestCitizen02, REC: MESG:FULL
 msgctxt "000FFA"
 msgid "Guard Captain"
-msgstr ""
+msgstr "경비대장"
 
 # EDID: SFBGS001_MS01_JandarRestCitizen01, REC: MESG:FULL
 msgctxt "000FFB"
 msgid "Warden"
-msgstr ""
+msgstr "관리인"
 
 # EDID: SFBGS001_MS01_LvlVaruunZealot_Herald, REC: NPC_:FULL
 msgctxt "00105A"
 msgid "Va'ruun Herald"
-msgstr ""
+msgstr "바룬 전령"
 
 # EDID: SFBGS001_MS01_ShrineContainer, REC: CONT:FULL
 msgctxt "00105B"
@@ -3565,7 +3574,7 @@ msgstr ""
 # EDID: SFBGS001_HV_AnaskoVaruun, REC: NPC_:FULL
 msgctxt "00115F"
 msgid "Anasko Va'ruun"
-msgstr ""
+msgstr "아나스코 바룬"
 
 # EDID: SFBGS001LC10_ShrineDoor, REC: DOOR:FULL
 msgctxt "001160"
@@ -3640,7 +3649,7 @@ msgstr "그로트 고기"
 # EDID: SFBGS001_HV_DZ_HV_ViktorVethaal, REC: NPC_:FULL
 msgctxt "0011AE"
 msgid "Viktor Veth'aal"
-msgstr ""
+msgstr "빅토르 베타알"
 
 # EDID: SFBGS001_MS01_Vendor_Weapons_Container, REC: CONT:FULL
 msgctxt "0011AF"
@@ -3660,7 +3669,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_ZealotTeachings01, REC: BOOK:FULL
 msgctxt "0011B3"
 msgid "Zealot Scriptures Vol. 1"
-msgstr ""
+msgstr "광신도 경전 1권"
 
 # EDID: SFBGS001_MS01_ZealotTeachings02, REC: BOOK:FNAM
 msgctxt "0011B4"
@@ -3675,7 +3684,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_ZealotTeachings02, REC: BOOK:FULL
 msgctxt "0011B7"
 msgid "Zealot Scriptures Vol. 2"
-msgstr ""
+msgstr "광신도 경전 2권"
 
 # EDID: SFBGS001_MS01_ZealotTeachings03, REC: BOOK:FNAM
 msgctxt "0011B8"
@@ -3690,7 +3699,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_ZealotTeachings03, REC: BOOK:FULL
 msgctxt "0011BB"
 msgid "Zealot Scriptures Vol. 3"
-msgstr ""
+msgstr "광신도 경전 3권"
 
 # EDID: SFBGS001_MS01_ZealotTeachings04, REC: BOOK:FNAM
 msgctxt "0011BC"
@@ -3705,7 +3714,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_ZealotTeachings04, REC: BOOK:FULL
 msgctxt "0011BF"
 msgid "Zealot Scriptures Vol. 4"
-msgstr ""
+msgstr "광신도 경전 4권"
 
 # EDID: RestoreHealthFoodPercentage, REC: MGEF:DNAM
 msgctxt "0011C0"
@@ -3800,12 +3809,12 @@ msgstr ""
 # EDID: SFBGS001WarehouseVortex, REC: CELL:FULL
 msgctxt "00129B"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "001330"
 msgid "Access the deleted logs on Ukaru's Computer"
-msgstr ""
+msgstr "우카루의 컴퓨터에서 삭제된 기록에 접속하기"
 
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "001331"
@@ -3870,7 +3879,7 @@ msgstr ""
 # EDID: SFBGS001LC17MapMarker, REC: REFR:FULL
 msgctxt "00135D"
 msgid "Zealot Plateau Sanctuary"
-msgstr ""
+msgstr "광신도 고원 성역"
 
 # EDID: SFBGS001LC27MapMarker, REC: REFR:FULL
 msgctxt "00135E"
@@ -3885,7 +3894,7 @@ msgstr ""
 # EDID: SFBGS001LC19MapMarker, REC: REFR:FULL
 msgctxt "001367"
 msgid "Zealot Supply Depot"
-msgstr ""
+msgstr "광신도 보급고"
 
 # EDID: SFBGS001LC05MapMarker, REC: REFR:FULL
 msgctxt "001369"
@@ -4005,27 +4014,27 @@ msgstr ""
 # EDID: SFBGS001_HV_HasmakDulkehf, REC: NPC_:FULL
 msgctxt "0013D9"
 msgid "Hasmak Dul'kehf"
-msgstr ""
+msgstr "해즈막 둘케프"
 
 # EDID: SFBGS001_MQ05_KaviilFahrzanas, REC: NPC_:FULL
 msgctxt "0013DA"
 msgid "Kaviil Fahrzanas"
-msgstr ""
+msgstr "캐빌 파흐자나스"
 
 # EDID: SFBGS001_MQ05_GamiralAbbas, REC: NPC_:FULL
 msgctxt "0013DB"
 msgid "Gamiral Abbas"
-msgstr ""
+msgstr "개미럴 아바스"
 
 # EDID: SFBGS001_MQ05_ComrakAbbas, REC: NPC_:FULL
 msgctxt "0013DC"
 msgid "Comrak Abbas"
-msgstr ""
+msgstr "컴락 아바스"
 
 # EDID: SFBGS001_MQ05_RaljiraAbbas, REC: NPC_:FULL
 msgctxt "0013DD"
 msgid "Raljira Abbas"
-msgstr ""
+msgstr "랄지라 아바스"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Prey01_Groat_Male, REC: NPC_:FULL
 msgctxt "0013DE"
@@ -4035,7 +4044,7 @@ msgstr "그로트 수컷"
 # EDID: SFBGS001_HV_MalikVosh, REC: NPC_:FULL
 msgctxt "0013DF"
 msgid "Malik Vosh"
-msgstr ""
+msgstr "말릭 보쉬"
 
 # EDID: FloraBiomeVaruun01, REC: FLOR:ATTX
 msgctxt "0013E0"
@@ -4095,12 +4104,12 @@ msgstr ""
 # EDID: QDTempInteriorMDaniels, REC: CELL:FULL
 msgctxt "001430"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 # EDID: SFBGS001_MS05_MaaliyaHajtal, REC: NPC_:FULL
 msgctxt "001432"
 msgid "Maaliya Hajtal"
-msgstr ""
+msgstr "말리야 하즈탈"
 
 # EDID: SFBGS001_MQ04_HouseVethaalSignetRing_01, REC: MISC:FULL
 msgctxt "001433"
@@ -4145,7 +4154,7 @@ msgstr ""
 # EDID: SFBGS001_DazraZ01_AndrahDubib, REC: NPC_:FULL
 msgctxt "00143C"
 msgid "Andrah Dubib"
-msgstr ""
+msgstr "앤드라 두비브"
 
 # EDID: SFBGS001_SQ_Crew_SpawnManager, REC: QUST:NNAM
 msgctxt "00143F"
@@ -4345,12 +4354,12 @@ msgstr ""
 # EDID: SFBGS001_HV_Orahim, REC: NPC_:FULL
 msgctxt "00168C"
 msgid "Orahim"
-msgstr ""
+msgstr "오라힘"
 
 # EDID: SFBGS001_MS02_Khaslav, REC: NPC_:FULL
 msgctxt "00168D"
 msgid "Khaslav"
-msgstr ""
+msgstr "카슬라프"
 
 # EDID: SFBGS001_RitualCavesBlockoutLocation, REC: LCTN:FULL
 msgctxt "00168F"
@@ -4385,7 +4394,7 @@ msgstr ""
 # EDID: SFBGS001_MS02, REC: QUST:NNAM
 msgctxt "001699"
 msgid "Go to the Zealot hideout"
-msgstr ""
+msgstr "광신도 은신처 가기"
 
 # EDID: SFBGS001_MS02, REC: QUST:NNAM
 msgctxt "00169A"
@@ -4405,12 +4414,12 @@ msgstr ""
 # EDID: SFBGS001_Lvl_HallsOfHealing_Medic_Female, REC: NPC_:FULL
 msgctxt "00169F"
 msgid "Medic"
-msgstr ""
+msgstr "의무병"
 
 # EDID: SFBGS001_LvlDazraGuard_Unaggressive, REC: NPC_:FULL
 msgctxt "0016A0"
 msgid "Dazra Security"
-msgstr ""
+msgstr "다즈라 경비대원"
 
 # EDID: SFBGS001_MS02_OrahimFaction, REC: FACT:FULL
 msgctxt "0016A1"
@@ -4609,7 +4618,7 @@ msgstr ""
 # EDID: SFBGS001_MQ05_InfoTerminal02, REC: TERM:FULL
 msgctxt "0017FB"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_VkaiZ03_SupplyKey, REC: KEYM:FULL
 msgctxt "0017FC"
@@ -4619,27 +4628,27 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_BreanneIbaka, REC: NPC_:FULL
 msgctxt "001806"
 msgid "Breanne Ibaka"
-msgstr ""
+msgstr "브리엔 이바카"
 
 # EDID: SFBGS001_VkaiZ03_Iris_AudioOnly, REC: NPC_:FULL
 msgctxt "001807"
 msgid "Young Woman's Voice"
-msgstr ""
+msgstr "젊은 여성의 목소리"
 
 # EDID: SFBGS001_VkaiZ03_VassilisVoyiatzi, REC: NPC_:FULL
 msgctxt "001809"
 msgid "Vassilis Voria"
-msgstr ""
+msgstr "바실리스 보리아"
 
 # EDID: SFBGS001_MS05_FarudHajtal, REC: NPC_:FULL
 msgctxt "00180B"
 msgid "Farud Hajtal"
-msgstr ""
+msgstr "파루드 하즈탈"
 
 # EDID: SFBGS001_MS05_SpacerBoss, REC: NPC_:FULL
 msgctxt "00180C"
 msgid "Spacer King"
-msgstr ""
+msgstr "스페이서 왕"
 
 # EDID: SFBGS001_VkaiZ03_Trash, REC: MISC:FULL
 msgctxt "00180D"
@@ -4674,7 +4683,7 @@ msgstr "금고"
 # EDID: SFBGS001_VkaiZ03_AudioSlate04, REC: BOOK:FNAM
 msgctxt "001813"
 msgid "Version 1.0"
-msgstr ""
+msgstr "버전 1.0"
 
 # EDID: SFBGS001_VkaiZ03_AudioSlate04, REC: BOOK:ENAM
 msgctxt "001814"
@@ -4689,7 +4698,7 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_AudioSlate01, REC: BOOK:FNAM
 msgctxt "001817"
 msgid "Version 1.0"
-msgstr ""
+msgstr "버전 1.0"
 
 # EDID: SFBGS001_VkaiZ03_AudioSlate01, REC: BOOK:ENAM
 msgctxt "001818"
@@ -4704,7 +4713,7 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_AudioSlate02, REC: BOOK:FNAM
 msgctxt "00181B"
 msgid "Version 1.0"
-msgstr ""
+msgstr "버전 1.0"
 
 # EDID: SFBGS001_VkaiZ03_AudioSlate02, REC: BOOK:ENAM
 msgctxt "00181C"
@@ -4719,7 +4728,7 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_AudioSlate03, REC: BOOK:FNAM
 msgctxt "00181F"
 msgid "Version 1.0"
-msgstr ""
+msgstr "버전 1.0"
 
 # EDID: SFBGS001_VkaiZ03_AudioSlate03, REC: BOOK:ENAM
 msgctxt "001820"
@@ -4734,12 +4743,12 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_Musicbox, REC: BOOK:FULL
 msgctxt "001825"
 msgid "Music Box"
-msgstr ""
+msgstr "뮤직 박스"
 
 # EDID: SFBGS001_VkaiZ03_DataSlate01, REC: BOOK:FNAM
 msgctxt "001826"
 msgid "Version 1.0"
-msgstr ""
+msgstr "버전 1.0"
 
 # EDID: SFBGS001_VkaiZ03_DataSlate01, REC: BOOK:ENAM
 msgctxt "001827"
@@ -4784,32 +4793,32 @@ msgstr ""
 # EDID: SFBGS001_MQ05_Phantom_KarijaMaleen, REC: NPC_:FULL
 msgctxt "001835"
 msgid "Karija Ma'leen"
-msgstr ""
+msgstr "캐리자 마린"
 
 # EDID: SFBGS001_MQ05_Phantom_DraqirMaleen, REC: NPC_:FULL
 msgctxt "001836"
 msgid "Draqir Ma'leen"
-msgstr ""
+msgstr "드라키어 마린"
 
 # EDID: SFBGS001_MQ05_Phantom_HirvanMaleen, REC: NPC_:FULL
 msgctxt "001837"
 msgid "Hirvan Ma'leen"
-msgstr ""
+msgstr "히어반 마린"
 
 # EDID: SFBGS001_MQ05_Phantom_VedrasaMaleen, REC: NPC_:FULL
 msgctxt "001838"
 msgid "Vedrasa Ma'leen"
-msgstr ""
+msgstr "베드라사 마린"
 
 # EDID: SFBGS001_VkaiZ03_ReigenUeda, REC: NPC_:FULL
 msgctxt "00183A"
 msgid "Reigen Ueda"
-msgstr ""
+msgstr "라이겐 우에다"
 
 # EDID: SFBGS001_VkaiZ03_IrisUeda, REC: NPC_:FULL
 msgctxt "00183C"
 msgid "Iris Ueda"
-msgstr ""
+msgstr "아이리스 우에다"
 
 # EDID: SFBGS001LandscapePOIMesas02, REC: WRLD:FULL
 msgctxt "0018F0"
@@ -4819,7 +4828,7 @@ msgstr ""
 # EDID: SFBGS001LandscapePOIMesas03, REC: WRLD:FULL
 msgctxt "0018F1"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001LandscapePOIMesas01, REC: WRLD:FULL
 msgctxt "0018F2"
@@ -4839,7 +4848,7 @@ msgstr ""
 # EDID: SFBGS001_TestActorCorrie, REC: NPC_:FULL
 msgctxt "0018F6"
 msgid "Sirak Mir"
-msgstr ""
+msgstr "시락 미르"
 
 # EDID: SFBGS001LandscapePOIDunes02, REC: WRLD:FULL
 msgctxt "00190E"
@@ -5004,12 +5013,12 @@ msgstr ""
 # EDID: SFBGS001_MS04_AzadDubas, REC: NPC_:FULL
 msgctxt "001A14"
 msgid "Azad Dubas"
-msgstr ""
+msgstr "아자드 두바스"
 
 # EDID: SFBGS001_MS04_SherineDubas, REC: NPC_:FULL
 msgctxt "001A16"
 msgid "Sherine Dubas"
-msgstr ""
+msgstr "셰린 두바스"
 
 # EDID: SFBGS001_MS04_AnimalSampleA, REC: MISC:FULL
 msgctxt "001A17"
@@ -5074,47 +5083,47 @@ msgstr ""
 # EDID: SFBGS001_HV_DZ_HV_VaericVethaal, REC: NPC_:FULL
 msgctxt "001AC7"
 msgid "Vaeric Veth'aal"
-msgstr ""
+msgstr "배릭 베타알"
 
 # EDID: SFBGS001_HV_DZ_HV_LutherVethaal, REC: NPC_:FULL
 msgctxt "001AC9"
 msgid "Luther Veth'aal"
-msgstr ""
+msgstr "루서 베타알"
 
 # EDID: SFBGS001_HV_DZ_HV_VitoriaVethaal, REC: NPC_:FULL
 msgctxt "001ACB"
 msgid "Vitoria Veth'aal"
-msgstr ""
+msgstr "비토리아 베타알"
 
 # EDID: SFBGS001_HV_DZ_BiancaLatif, REC: NPC_:FULL
 msgctxt "001ACD"
 msgid "Bianca Latif"
-msgstr ""
+msgstr "비앙카 라티프"
 
 # EDID: SFBGS001_HV_DZ_GennaDubari, REC: NPC_:FULL
 msgctxt "001ACF"
 msgid "Genna Dubari"
-msgstr ""
+msgstr "제나 두바리"
 
 # EDID: SFBGS001_HV_DZ_EgboKazmi, REC: NPC_:FULL
 msgctxt "001AD1"
 msgid "Egbo Kazmi"
-msgstr ""
+msgstr "에그보 카즈미"
 
 # EDID: SFBGS001_HV_LC13_IrinaMazur, REC: NPC_:FULL
 msgctxt "001AD3"
 msgid "Irina Mazur"
-msgstr ""
+msgstr "이리나 매저"
 
 # EDID: SFBGS001_HV_LC13_ZenMazur, REC: NPC_:FULL
 msgctxt "001AD5"
 msgid "Zen Mazur"
-msgstr ""
+msgstr "젠 매저"
 
 # EDID: SFBGS001_HV_LC13_MilaMazur, REC: NPC_:FULL
 msgctxt "001AD7"
 msgid "Mila Mazur"
-msgstr ""
+msgstr "밀라 매저"
 
 # EDID: SFBGS001_MS04_CarcassActivatorB, REC: ACTI:ATTX
 msgctxt "001AD8"
@@ -5174,7 +5183,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_TevinaDesktop, REC: TMLM:ITXT
 msgctxt "001AE5"
 msgid "[Decrypted] Copy of Zealot Slate #2032"
-msgstr ""
+msgstr "[해독됨] 광신도 슬레이트 #2032 사본"
 
 # EDID: SFBGS001_MS01_TevinaDesktop, REC: TMLM:ITXT
 msgctxt "001AE7"
@@ -5216,7 +5225,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_TevinaDesktop, REC: TMLM:FULL
 msgctxt "001AEA"
 msgid "Tevina Veth'aal's Computer"
-msgstr ""
+msgstr "테비나 베타알의 컴퓨터"
 
 # EDID: SFBGS001_SE_Player_VaruunAttack, REC: QUST:FULL
 msgctxt "001AFE"
@@ -5356,17 +5365,17 @@ msgstr ""
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "001C1A"
 msgid "Search the body of the Zealot Boss"
-msgstr ""
+msgstr "광신도 두목 시체 찾기"
 
 # EDID: SFBGS001_MS01_TevinaComputer, REC: TERM:FULL
 msgctxt "001C1C"
 msgid "Tevina Veth'aal's Computer"
-msgstr ""
+msgstr "테비나 베타알의 컴퓨터"
 
 # EDID: SFBGS001_MS01_BossCaptain, REC: NPC_:FULL
 msgctxt "001C1D"
 msgid "Brother Onamide"
-msgstr ""
+msgstr "오나마이드 수도사"
 
 # EDID:
 # SFBGS001LC02_Loot_Display_Backpackstand_01_Standing_Boostpack_Common_200YearOldIsolated,
@@ -5384,7 +5393,7 @@ msgstr "금고"
 # EDID: SFBGS001LC02_Loot_Storage_Cooler01_NoFoodOrDrink, REC: CONT:FULL
 msgctxt "001C20"
 msgid "Cooler"
-msgstr ""
+msgstr "아이스박스"
 
 # EDID: SFBGS001_MS01_CipherSlate_Decrypted, REC: BOOK:FNAM
 msgctxt "001C21"
@@ -5512,92 +5521,92 @@ msgstr ""
 # EDID: SFBGS001LC06_02_Descent_ReactorSecurityComputer, REC: TERM:FULL
 msgctxt "001D24"
 msgid "Reactor Security Computer"
-msgstr ""
+msgstr "반응로 보안 컴퓨터"
 
 # EDID: SFBGS001LC06_02_Descent_FacilitiesSecurityComputer, REC: TERM:FULL
 msgctxt "001D26"
 msgid "Facilities Security Computer"
-msgstr ""
+msgstr "시설 보안 컴퓨터"
 
 # EDID: SFBGS001LC06_02_Descent_FacilitiesLockdownComputer, REC: TERM:FULL
 msgctxt "001D27"
 msgid "Facilities Computer"
-msgstr ""
+msgstr "시설 컴퓨터"
 
 # EDID: SFBGS001_HV_SaharRaztan, REC: NPC_:FULL
 msgctxt "001D2B"
 msgid "Sahar Raztan"
-msgstr ""
+msgstr "사하르 라즈탠"
 
 # EDID: SFBGS001_HV_MyloDazmi, REC: NPC_:FULL
 msgctxt "001D2C"
 msgid "Mylo Dazmi"
-msgstr ""
+msgstr "마일로 다즈미"
 
 # EDID: SFBGS001_HV_KresoAbbas, REC: NPC_:FULL
 msgctxt "001D2D"
 msgid "Kreso Abbas"
-msgstr ""
+msgstr "크레소 아바스"
 
 # EDID: SFBGS001_HV_HantonIrara, REC: NPC_:FULL
 msgctxt "001D2E"
 msgid "Hanton Irara"
-msgstr ""
+msgstr "핸톤 이라라"
 
 # EDID: SFBGS001_HV_MarlanaVolav, REC: NPC_:FULL
 msgctxt "001D2F"
 msgid "Marlana Volav"
-msgstr ""
+msgstr "말라나 볼라프"
 
 # EDID: SFBGS001_HV_ZamiraValik, REC: NPC_:FULL
 msgctxt "001D30"
 msgid "Zamira Valik"
-msgstr ""
+msgstr "자미라 밸릭"
 
 # EDID: SFBGS001_HV_DanikaHagan, REC: NPC_:FULL
 msgctxt "001D31"
 msgid "Danika Hagan"
-msgstr ""
+msgstr "다니카 해이건"
 
 # EDID: SFBGS001_HV_MilaHohdan, REC: NPC_:FULL
 msgctxt "001D32"
 msgid "Mila Hohdan"
-msgstr ""
+msgstr "밀라 호던"
 
 # EDID: SFBGS001_HV_IlanaKalima, REC: NPC_:FULL
 msgctxt "001D33"
 msgid "Ilana Kalima"
-msgstr ""
+msgstr "아일라나 칼리마"
 
 # EDID: SFBGS001_HV_IvaliKalima, REC: NPC_:FULL
 msgctxt "001D34"
 msgid "Ivali Kalima"
-msgstr ""
+msgstr "이발리 칼리마"
 
 # EDID: SFBGS001_HV_OmanLabir, REC: NPC_:FULL
 msgctxt "001D35"
 msgid "Oman Labir"
-msgstr ""
+msgstr "오만 라비어"
 
 # EDID: SFBGS001_HV_DumarHasadi, REC: NPC_:FULL
 msgctxt "001D36"
 msgid "Dumar Hasadi"
-msgstr ""
+msgstr "두마르 하사디"
 
 # EDID: SFBGS001_HV_NaladaBradi, REC: NPC_:FULL
 msgctxt "001D37"
 msgid "Nalada Bradi"
-msgstr ""
+msgstr "날라다 브래디"
 
 # EDID: SFBGS001_HV_AleksahLimal, REC: NPC_:FULL
 msgctxt "001D38"
 msgid "Aleksah Limal"
-msgstr ""
+msgstr "알렉사 리말"
 
 # EDID: SFBGS001_HV_MakolaJubav, REC: NPC_:FULL
 msgctxt "001D39"
 msgid "Makola Jubav"
-msgstr ""
+msgstr "마콜라 주바브"
 
 # EDID: SFBGS001_VortexCore_01_Intact, REC: MISC:FULL
 msgctxt "001D3A"
@@ -5617,7 +5626,7 @@ msgstr ""
 # EDID: SFBGS001_MQ04_VaericsLog01, REC: BOOK:FULL
 msgctxt "001D3D"
 msgid "Vaeric's Log - Entry 1"
-msgstr ""
+msgstr "배릭의 일지 - 기록 1"
 
 # EDID: SFBGS001_MQ04_MilasJournal, REC: BOOK:FULL
 msgctxt "001D3F"
@@ -5637,7 +5646,7 @@ msgstr ""
 # EDID: SFBGS001_MQ04_VaericCampLog01, REC: BOOK:FULL
 msgctxt "001D42"
 msgid "Vaeric's Camp Log - Entry 1"
-msgstr ""
+msgstr "배릭의 캠프 일지 - 기록 1"
 
 # EDID: SFBGS001_MQ04_Footprints01Activator, REC: ACTI:ATTX
 msgctxt "001D43"
@@ -5758,17 +5767,17 @@ msgstr ""
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Predator01_Small, REC: NPC_:FULL
 msgctxt "001D96"
 msgid "Cavern Bonecrest"
-msgstr ""
+msgstr "동굴 골판벼슬 사마귀"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Predator01_Small_Ranged, REC: NPC_:FULL
 msgctxt "001D97"
 msgid "Cavern Bonecrest Spitter"
-msgstr ""
+msgstr "동굴 골판벼슬 사마귀 침 뱉기"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Predator01_Boss, REC: NPC_:FULL
 msgctxt "001D98"
 msgid "Cavern Bonecrest Queen"
-msgstr ""
+msgstr "동굴 골판벼슬 사마귀 여왕"
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Muzzle_Brake, REC: OMOD:FULL
 msgctxt "001D99"
@@ -5848,7 +5857,7 @@ msgstr "볼텍스 팬텀"
 # EDID: SFBGS001_HV_EkrisKaisir, REC: NPC_:FULL
 msgctxt "001E00"
 msgid "Ekris Kaisir"
-msgstr ""
+msgstr "에크리스 카이시어"
 
 # EDID: SFBGS001_Loot_Corpse_VortexPhantomF_Fresh01, REC: NPC_:FULL
 msgctxt "001E02"
@@ -6092,7 +6101,7 @@ msgstr ""
 # EDID: SFBGS001LC06_02_Descent_BiologicsLabComputer, REC: TERM:FULL
 msgctxt "002001"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001LC06_02_Descent_VortexResearchLabComputer, REC: TERM:FULL
 msgctxt "002002"
@@ -6102,12 +6111,12 @@ msgstr ""
 # EDID: SFBGS001_HV_AmilaAdlam, REC: NPC_:FULL
 msgctxt "002003"
 msgid "Amila Adlam"
-msgstr ""
+msgstr "아밀라 애들럼"
 
 # EDID: SFBGS001_HV_BorhalAdlam, REC: NPC_:FULL
 msgctxt "002004"
 msgid "Borhal Adlam"
-msgstr ""
+msgstr "보할 애들럼"
 
 # EDID: SFBGS001_LC08_Human_Slate000, REC: BOOK:FULL
 msgctxt "002006"
@@ -6117,7 +6126,7 @@ msgstr ""
 # EDID: SFBGS001_Spacesuit_Redeemed_Armor, REC: ARMO:FULL
 msgctxt "002007"
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 # EDID: SFBGS001_Spacesuit_Redeemed_Armor, REC: ARMO:FULL
 msgctxt "002008"
@@ -6172,27 +6181,27 @@ msgstr ""
 # EDID: SFBGS001_VKaiZ02_LijanaDulkehf, REC: NPC_:FULL
 msgctxt "00211E"
 msgid "Lijana Dul'kehf"
-msgstr ""
+msgstr "리야나 둘케프"
 
 # EDID: SFBGS001_VKaiZ02_AlicjaDalca, REC: NPC_:FULL
 msgctxt "002120"
 msgid "Alicja Dalca"
-msgstr ""
+msgstr "알리샤 달카"
 
 # EDID: SFBGS001_VKaiZ02_FihranNostal, REC: NPC_:FULL
 msgctxt "002122"
 msgid "Fihran Nostal"
-msgstr ""
+msgstr "파이란 노스탈"
 
 # EDID: SFBGS001_VKaiZ02_LazimValyan, REC: NPC_:FULL
 msgctxt "002124"
 msgid "Lazim Valyan"
-msgstr ""
+msgstr "라짐 밸리얀"
 
 # EDID: SFBGS001_LvlRobotModelS_Melee_Varuun, REC: NPC_:FULL
 msgctxt "002126"
 msgid "Va'ruun Robot Model S"
-msgstr ""
+msgstr "바룬 로봇 모델 S"
 
 # EDID: SFBGS001_VKaiZ02_PackageFihran, REC: MISC:FULL
 msgctxt "002127"
@@ -6212,7 +6221,7 @@ msgstr ""
 # EDID: SFBGS001_MS03, REC: QUST:NNAM
 msgctxt "002174"
 msgid "Talk to the brothers"
-msgstr ""
+msgstr "수도사와 대화하기"
 
 # EDID: SFBGS001_MS03, REC: QUST:NNAM
 msgctxt "002175"
@@ -6282,7 +6291,7 @@ msgstr ""
 # EDID: CTESTMarty, REC: CELL:FULL
 msgctxt "002218"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 # EDID: SFBGS001_VkaiZ01_MessageObedience, REC: MESG:FULL
 msgctxt "00221C"
@@ -6332,7 +6341,7 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ01_VijunAhkmav, REC: NPC_:FULL
 msgctxt "0022CE"
 msgid "Vijun Ahkmav"
-msgstr ""
+msgstr "비준 아크마브"
 
 # EDID: MuseumPlaque01COPY0000, REC: ACTI:FULL
 msgctxt "0022CF"
@@ -6412,82 +6421,82 @@ msgstr "SFBGS001_Citadel_Kit_PanelWall01"
 # EDID: SFBGS001_GenericDazraCitizen_Male02, REC: NPC_:FULL
 msgctxt "00235A"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_GenericDazraCitizen_Male03, REC: NPC_:FULL
 msgctxt "00235B"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_GenericLaborer_Male04, REC: NPC_:FULL
 msgctxt "00235C"
 msgid "Laborer"
-msgstr ""
+msgstr "작업자"
 
 # EDID: SFBGS001_GenericMedicalStaff_Male05, REC: NPC_:FULL
 msgctxt "00235D"
 msgid "Healer"
-msgstr ""
+msgstr "치료사"
 
 # EDID: SFBGS001_GenericSoldier_Male06, REC: NPC_:FULL
 msgctxt "00235E"
 msgid "Soldier"
-msgstr ""
+msgstr "군인"
 
 # EDID: SFBGS001_GenericDazraCitizen_Male01, REC: NPC_:FULL
 msgctxt "00235F"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_GenericSoldier_Male07, REC: NPC_:FULL
 msgctxt "002360"
 msgid "Soldier"
-msgstr ""
+msgstr "군인"
 
 # EDID: SFBGS001_GenericLaborer_Male08, REC: NPC_:FULL
 msgctxt "002361"
 msgid "Laborer"
-msgstr ""
+msgstr "작업자"
 
 # EDID: SFBGS001_GenericDazraCitizen_Female01, REC: NPC_:FULL
 msgctxt "002362"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_GenericDazraCitizen_Female02, REC: NPC_:FULL
 msgctxt "002363"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_GenericDazraCitizen_Female03, REC: NPC_:FULL
 msgctxt "002364"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_GenericLaborer_Female04, REC: NPC_:FULL
 msgctxt "002365"
 msgid "Laborer"
-msgstr ""
+msgstr "작업자"
 
 # EDID: SFBGS001_GenericMedicalStaff_Female05, REC: NPC_:FULL
 msgctxt "002366"
 msgid "Healer"
-msgstr ""
+msgstr "치료사"
 
 # EDID: SFBGS001_GenericLaborer_Female06, REC: NPC_:FULL
 msgctxt "002367"
 msgid "Laborer"
-msgstr ""
+msgstr "작업자"
 
 # EDID: SFBGS001_GenericSoldier_Female07, REC: NPC_:FULL
 msgctxt "002368"
 msgid "Soldier"
-msgstr ""
+msgstr "군인"
 
 # EDID: SFBGS001_GenericSpaceportWorker_Female08, REC: NPC_:FULL
 msgctxt "002369"
 msgid "Spaceport Worker"
-msgstr ""
+msgstr "우주항 작업자"
 
 # EDID: SFBGS001_GenericDazraFemaleChild, REC: NPC_:FULL
 msgctxt "00236A"
@@ -6517,7 +6526,7 @@ msgstr ""
 # EDID: SFBGS001_TestActorCorrieCombat, REC: NPC_:FULL
 msgctxt "002371"
 msgid "Sirak Mir"
-msgstr ""
+msgstr "시락 미르"
 
 # EDID: SFBGS001LC06_04_Ascent_AnaskosOfficeComputer_Desktop, REC: TMLM:FULL
 msgctxt "002372"
@@ -6562,7 +6571,7 @@ msgstr ""
 # EDID: SFBGS001_LvlSecurityDazra, REC: NPC_:FULL
 msgctxt "00237C"
 msgid "Dazra Security"
-msgstr ""
+msgstr "다즈라 경비대원"
 
 # EDID: SFBGS001_AnimHelper_MourningDevice01_SupportGravMotor01, REC:
 # ACTI:FULL
@@ -6598,22 +6607,22 @@ msgstr ""
 # EDID: SFBGS001_GenericSoldier_Female04, REC: NPC_:FULL
 msgctxt "002383"
 msgid "Soldier"
-msgstr ""
+msgstr "군인"
 
 # EDID: SFBGS001_GenericSoldier_Male04, REC: NPC_:FULL
 msgctxt "002384"
 msgid "Soldier"
-msgstr ""
+msgstr "군인"
 
 # EDID: SFBGS001_GenericMedicalStaff_Male08, REC: NPC_:FULL
 msgctxt "002385"
 msgid "Healer"
-msgstr ""
+msgstr "치료사"
 
 # EDID: SFBGS001_GenericMedicalStaff_Female06, REC: NPC_:FULL
 msgctxt "002386"
 msgid "Healer"
-msgstr ""
+msgstr "치료사"
 
 # EDID: SFBGS001_Clothes_Scrubs_Varuun, REC: ARMO:FULL
 msgctxt "002387"
@@ -6703,7 +6712,7 @@ msgstr ""
 # EDID: WarehouseVaruunKitMultiStoryExample, REC: CELL:FULL
 msgctxt "0023CD"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 # EDID: SFBGS001_Clothes_Neon_Gang_Strikers_NoHeadgear_01_Varuun, REC:
 # ARMO:FULL
@@ -6755,12 +6764,13 @@ msgstr ""
 # EDID: SFBGS001_EncVaruunTurret01, REC: NPC_:SHRT
 msgctxt "0023FA"
 msgid "Turret"
-msgstr ""
+msgstr "포탑"
 
 # EDID: SFBGS001_EncVaruunTurret01, REC: NPC_:FULL
+#, fuzzy
 msgctxt "0023FB"
 msgid "Va'ruun Enforcer Turret"
-msgstr ""
+msgstr "바룬 강화 포탑"
 
 # EDID: SFBGS001_RC_TheKeep03, REC: QUST:FULL
 msgctxt "002427"
@@ -6785,12 +6795,12 @@ msgstr ""
 # EDID: SFBGS001_RC_HallsOfHealing03, REC: QUST:FULL
 msgctxt "002443"
 msgid "Halls of Healing RC 03"
-msgstr ""
+msgstr "Halls of Healing RC 03"
 
 # EDID: SFBGS001_RC_HeraldsRest01, REC: QUST:FULL
 msgctxt "002449"
 msgid "Heralds Rest RC 01"
-msgstr ""
+msgstr "Heralds Rest RC 01"
 
 # EDID: SFBGS001_RC_CommonerNeighborhood01, REC: QUST:FULL
 msgctxt "002452"
@@ -6805,72 +6815,72 @@ msgstr ""
 # EDID: SFBGS001_RC_StarportArea01, REC: QUST:FULL
 msgctxt "002460"
 msgid "Starport Area RC 01"
-msgstr ""
+msgstr "Starport Area RC 01"
 
 # EDID: SFBGS001_RC_RefugeeCamp01, REC: QUST:FULL
 msgctxt "002467"
 msgid "Refugee Camp RC 01"
-msgstr ""
+msgstr "Refugee Camp RC 01"
 
 # EDID: SFBGS001_RC_Plaza01, REC: QUST:FULL
 msgctxt "00246D"
 msgid "Plaza RC 01"
-msgstr ""
+msgstr "Plaza RC 01"
 
 # EDID: SFBGS001_RC_CommonerNeighborhood02, REC: QUST:FULL
 msgctxt "002474"
 msgid "Commoner Neighborhood rc 02"
-msgstr ""
+msgstr "Commoner Neighborhood RC 02"
 
 # EDID: SFBGS001_RC_CommonerNeighborhood03, REC: QUST:FULL
 msgctxt "00247D"
 msgid "Commoner Neighborhood RC 03"
-msgstr ""
+msgstr "Commoner Neighborhood RC 03"
 
 # EDID: SFBGS001_RC_HallsOfHealing02, REC: QUST:FULL
 msgctxt "002484"
 msgid "Halls of Healing RC 02"
-msgstr ""
+msgstr "Halls of Healing RC 02"
 
 # EDID: SFBGS001_RC_HeraldsRest02, REC: QUST:FULL
 msgctxt "00248B"
 msgid "Heralds Rest RC 02"
-msgstr ""
+msgstr "Heralds Rest RC 02"
 
 # EDID: SFBGS001_RC_HeraldsRest03, REC: QUST:FULL
 msgctxt "002490"
 msgid "Heralds Rest RC 03"
-msgstr ""
+msgstr "Heralds Rest RC 03"
 
 # EDID: SFBGS001_RC_Plaza02, REC: QUST:FULL
 msgctxt "002497"
 msgid "Plaza RC 02"
-msgstr ""
+msgstr "Plaza RC 02"
 
 # EDID: SFBGS001_RC_Plaza03, REC: QUST:FULL
 msgctxt "00249E"
 msgid "Plaza RC 03"
-msgstr ""
+msgstr "Plaza RC 03"
 
 # EDID: SFBGS001_RC_RefugeeCamp02, REC: QUST:FULL
 msgctxt "0024A5"
 msgid "Refugee Camp RC 02"
-msgstr ""
+msgstr "Refugee Camp RC 02"
 
 # EDID: SFBGS001_RC_RefugeeCamp03, REC: QUST:FULL
 msgctxt "0024AC"
 msgid "Refugee Camp RC 03"
-msgstr ""
+msgstr "Refugee Camp RC 03"
 
 # EDID: SFBGS001_RC_StarportArea02, REC: QUST:FULL
 msgctxt "0024B3"
 msgid "Starport Area RC 02"
-msgstr ""
+msgstr "Starport Area RC 02"
 
 # EDID: SFBGS001_RC_RefugeeCamp05, REC: QUST:FULL
 msgctxt "0024BA"
 msgid "Refugee Camp rC 05"
-msgstr ""
+msgstr "Refugee Camp RC 05"
 
 # EDID: SFBGS001DazraHouseKadicInt01, REC: CELL:FULL
 msgctxt "0024C7"
@@ -7041,7 +7051,7 @@ msgstr "그로트 암컷"
 # EDID: SFBGS001DazraHallsOfHealingInt01, REC: CELL:FULL
 msgctxt "0025EE"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 # EDID: SFBGS001HallsOfHealingLoadElevatorFloorNames, REC: MESG:ITXT
 msgctxt "0025EF"
@@ -7081,32 +7091,32 @@ msgstr ""
 # EDID: OverlayPOIBiomeRocksSharp02, REC: WRLD:FULL
 msgctxt "00265A"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: OverlayPOIBiomeGrottoFungal01, REC: WRLD:FULL
 msgctxt "00265B"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: OverlayPOIBiomeRocksLayered01, REC: WRLD:FULL
 msgctxt "00265C"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: OverlayPOIBiomeRocksSharp03, REC: WRLD:FULL
 msgctxt "00265D"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: OverlayPOIBiomeRocksLayered03, REC: WRLD:FULL
 msgctxt "00265E"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: OverlayPOIBiomeRocksLayered02, REC: WRLD:FULL
 msgctxt "00265F"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001_VortexTunnelArch02, REC: PKIN:FULL
 msgctxt "002660"
@@ -7304,17 +7314,17 @@ msgstr ""
 # EDID: SFBGS001_LC01, REC: QUST:FULL
 msgctxt "01104B"
 msgid "[Support for the Oracle]"
-msgstr ""
+msgstr "[Support for the Oracle]"
 
 # EDID: SFBGS001TestVaruunAssets, REC: WRLD:FULL
 msgctxt "01107D"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001_ParticleMachineGun2, REC: WEAP:FULL
 msgctxt "01108A"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 # EDID: SFBGS001_ParticleMachineGun2, REC: WEAP:FULL
 msgctxt "01108B"
@@ -7329,7 +7339,7 @@ msgstr ""
 # EDID: SFBGS001_ParticleMachineGun3, REC: WEAP:FULL
 msgctxt "01108D"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 # EDID: SFBGS001_ParticleMachineGun3, REC: WEAP:FULL
 msgctxt "01108E"
@@ -7344,7 +7354,7 @@ msgstr ""
 # EDID: SFBGS001_ParticleMachineGun1, REC: WEAP:FULL
 msgctxt "011090"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 # EDID: SFBGS001_ParticleMachineGun1, REC: WEAP:FULL
 msgctxt "011091"
@@ -7379,12 +7389,12 @@ msgstr ""
 # EDID: SFBGS001_GenericDazraCitizen_Female07, REC: NPC_:FULL
 msgctxt "0110BE"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVaruunRedeemed01Template, REC: NPC_:FULL
 msgctxt "0110C0"
 msgid "Redeemed"
-msgstr ""
+msgstr "리딤드"
 
 # EDID: SFBGS001_MS01_AudioLog02Slate, REC: BOOK:ENAM
 msgctxt "0110C1"
@@ -7428,7 +7438,7 @@ msgstr ""
 # EDID: SFBGS001_MQ01_PowerDesktop, REC: TMLM:ITXT
 msgctxt "0110C9"
 msgid "Safety Protocol 12.5"
-msgstr ""
+msgstr "안전 수칙 12.5"
 
 # EDID: SFBGS001_MQ01_PowerDesktop, REC: TMLM:BTXT
 msgctxt "0110CA"
@@ -7703,7 +7713,7 @@ msgstr ""
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "011173"
 msgid "Reboot the Oracle's mainframe"
-msgstr ""
+msgstr "오라클 메인프레임 재부팅하기"
 
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "011174"
@@ -7713,7 +7723,7 @@ msgstr ""
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "011175"
 msgid "Restore the Oracle's gravity"
-msgstr ""
+msgstr "오라클 중력 복구하기"
 
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "011176"
@@ -7728,7 +7738,7 @@ msgstr ""
 # EDID: SFBGS001_HV_LC01_CorenOkasha, REC: NPC_:FULL
 msgctxt "011199"
 msgid "Coren Okasha"
-msgstr ""
+msgstr "코렌 오카샤"
 
 # EDID: SFBGS001_Citadel_Kit_WallStr12x16_01_PI, REC: PKIN:FULL
 msgctxt "01119A"
@@ -7763,7 +7773,7 @@ msgstr ""
 # EDID: SFBGS001_VaruunSolstice, REC: WEAP:FULL
 msgctxt "0111FA"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 # EDID: SFBGS001_VaruunSolstice, REC: WEAP:FULL
 msgctxt "0111FB"
@@ -7900,7 +7910,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_ZealotAssassinName, REC: MESG:FULL
 msgctxt "011298"
 msgid "Zealot Assassin"
-msgstr ""
+msgstr "광신도 암살자"
 
 # EDID: SFBGS001DazraCityHouseKadicLocation, REC: LCTN:FULL
 msgctxt "011299"
@@ -7910,7 +7920,7 @@ msgstr ""
 # EDID: SFBGS001_VortexGrenadeEnergy, REC: EXPL:FULL
 msgctxt "01129A"
 msgid "Vortex Grenade Energy"
-msgstr ""
+msgstr "볼텍스 수류탄 에너지"
 
 # EDID: SFBGS001_MourningDevice_Control, REC: QUST:FULL
 msgctxt "01129B"
@@ -7955,7 +7965,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_HV_Zealot_Security, REC: NPC_:FULL
 msgctxt "011305"
 msgid "Security"
-msgstr ""
+msgstr "경비대원"
 
 # EDID: SFBGS001_MS02_OrahimDepositContainer, REC: CONT:FULL
 msgctxt "01130B"
@@ -7970,7 +7980,7 @@ msgstr ""
 # EDID: SFBGS001_Spacesuit_Miner_Backpack_Varuun, REC: ARMO:FULL
 msgctxt "01130D"
 msgid "Entry"
-msgstr ""
+msgstr "엔트리"
 
 # EDID: SFBGS001_Spacesuit_Miner_Backpack_Varuun, REC: ARMO:FULL
 msgctxt "01130E"
@@ -8210,7 +8220,7 @@ msgstr "Standard"
 # EDID: SFBGS001_Vortex_ParticleMachineGun, REC: WEAP:FULL
 msgctxt "011583"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 # EDID: SFBGS001_Vortex_ParticleMachineGun, REC: WEAP:FULL
 msgctxt "011584"
@@ -8225,7 +8235,7 @@ msgstr "VORTEX ENEMIES ONLY - Particle Machine Gun"
 # EDID: SFBGS001_Vortex_ParticleRocketlauncher, REC: WEAP:FULL
 msgctxt "011586"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 # EDID: SFBGS001_Vortex_ParticleRocketlauncher, REC: WEAP:FULL
 msgctxt "011587"
@@ -8240,7 +8250,7 @@ msgstr "VORTEX ENEMIES ONLY - Particle Rocket Launcher"
 # EDID: SFBGS001_Vortex_InflictorPistol, REC: WEAP:FULL
 msgctxt "011589"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 # EDID: SFBGS001_Vortex_InflictorPistol, REC: WEAP:FULL
 msgctxt "01158A"
@@ -8310,7 +8320,7 @@ msgstr ""
 # EDID: SFBGS001_Vortex_InflictorRifle, REC: WEAP:FULL
 msgctxt "011597"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 # EDID: SFBGS001_Vortex_InflictorRifle, REC: WEAP:FULL
 msgctxt "011598"
@@ -8375,7 +8385,7 @@ msgstr "VORTEX ENEMIES ONLY - Va'ruun Inflictor"
 # EDID: SFBGS001_Vortex_BigBang, REC: WEAP:FULL
 msgctxt "0115A4"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 # EDID: SFBGS001_Vortex_BigBang, REC: WEAP:FULL
 msgctxt "0115A5"
@@ -8425,7 +8435,7 @@ msgstr "VORTEX ENEMIES ONLY - Big Bang"
 # EDID: SFBGS001_Vortex_HardTarget, REC: WEAP:FULL
 msgctxt "0115AE"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 # EDID: SFBGS001_Vortex_HardTarget, REC: WEAP:FULL
 msgctxt "0115AF"
@@ -8510,12 +8520,12 @@ msgstr ""
 # EDID: SFBGS001OE09World, REC: WRLD:FULL
 msgctxt "011636"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001_VkaiZ03_AudioSlate05, REC: BOOK:FNAM
 msgctxt "011637"
 msgid "Version 1.0"
-msgstr ""
+msgstr "버전 1.0"
 
 # EDID: SFBGS001_VkaiZ03_AudioSlate05, REC: BOOK:ENAM
 msgctxt "011638"
@@ -8530,7 +8540,7 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_AudioSlate06, REC: BOOK:FNAM
 msgctxt "01163B"
 msgid "Version 1.0"
-msgstr ""
+msgstr "버전 1.0"
 
 # EDID: SFBGS001_VkaiZ03_AudioSlate06, REC: BOOK:ENAM
 msgctxt "01163C"
@@ -8578,7 +8588,7 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_MusicboxTrigger, REC: ACTI:FULL
 msgctxt "011645"
 msgid "Music Box"
-msgstr ""
+msgstr "뮤직 박스"
 
 # EDID: SFBGS001LC20_ForemanTerminalSubMenu, REC: TMLM:UNAM
 msgctxt "011646"
@@ -8598,17 +8608,17 @@ msgstr ""
 # EDID: SFBGS001_MS01_Message_BrotherOnamide, REC: MESG:FULL
 msgctxt "011648"
 msgid "Brother Onamide"
-msgstr ""
+msgstr "오나마이드 수도사"
 
 # EDID: SFBGS001_DialogueHVGenericVaruunRedeemed, REC: QUST:FULL
 msgctxt "011769"
 msgid "Shared lines across Generic Voicetypes"
-msgstr ""
+msgstr "Shared lines across Generic Voicetypes"
 
 # EDID: SFBGS001_DialogueHVGenericVaruunZealots_NewVoicesOnly, REC: QUST:FULL
 msgctxt "011846"
 msgid "Shared OLD Lines for NEW Zealot Voicetypes"
-msgstr ""
+msgstr "Shared OLD Lines for NEW Zealot Voicetypes"
 
 # EDID: SFBGS001LC42ShipKey, REC: KEYM:FULL
 msgctxt "011855"
@@ -8664,7 +8674,7 @@ msgstr ""
 # EDID: SFBGS001LC05_Computer, REC: TERM:FULL
 msgctxt "011888"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_MissionBoardAccessFailureMessage_HV, REC: MESG:FULL
 msgctxt "011889"
@@ -8774,7 +8784,7 @@ msgstr ""
 # EDID: SFBGS001_DialogueHVGenericRobotModelA, REC: QUST:FULL
 msgctxt "0118AF"
 msgid "Shared lines across Generic Voicetypes"
-msgstr ""
+msgstr "Shared lines across Generic Voicetypes"
 
 # EDID: SFBGS001_MB_Bounty02Local, REC: QUST:QMDP
 msgctxt "0118B2"
@@ -8869,7 +8879,7 @@ msgstr ""
 # EDID: SFBGS001_DialogueHVGenericVaruunCitizens, REC: QUST:FULL
 msgctxt "0118C8"
 msgid "Shared lines across Generic Voicetypes"
-msgstr ""
+msgstr "Shared lines across Generic Voicetypes"
 
 # EDID: SFBGS001LC06_05_Battle_RoboticsAnnexComputer_Desktop, REC: TMLM:FULL
 msgctxt "0118CC"
@@ -9043,17 +9053,17 @@ msgstr ""
 # EDID: SFBGS001LC07_Interrogation_Terminal, REC: TERM:FULL
 msgctxt "011BB3"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001LC07_TheMaker_Terminal, REC: TERM:FULL
 msgctxt "011BB4"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001LC07_ResearchLab_Terminal, REC: TERM:FULL
 msgctxt "011BB6"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_VkaiZ03_OrphanageKeycard, REC: KEYM:FULL
 msgctxt "011BB7"
@@ -9063,57 +9073,57 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_GenericDazraFemaleChild_AudioOnly, REC: NPC_:FULL
 msgctxt "011BB8"
 msgid "Girl"
-msgstr ""
+msgstr "소녀"
 
 # EDID: SFBGS001_VkaiZ03_GenericDazraMaleChild_AudioOnly, REC: NPC_:FULL
 msgctxt "011BB9"
 msgid "Boy"
-msgstr ""
+msgstr "소년"
 
 # EDID: SFBGS001_GenericDazraCitizen_Female04, REC: NPC_:FULL
 msgctxt "011BBA"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_GenericDazraCitizen_Female05, REC: NPC_:FULL
 msgctxt "011BBB"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_GenericDazraCitizen_Female06, REC: NPC_:FULL
 msgctxt "011BBC"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_GenericSpaceportWorker_Male08, REC: NPC_:FULL
 msgctxt "011BBD"
 msgid "Spaceport Worker"
-msgstr ""
+msgstr "우주항 작업자"
 
 # EDID: SFBGS001_GenericSoldier_Female02, REC: NPC_:FULL
 msgctxt "011BBE"
 msgid "Soldier"
-msgstr ""
+msgstr "군인"
 
 # EDID: SFBGS001_GenericSoldier_Male02, REC: NPC_:FULL
 msgctxt "011BBF"
 msgid "Soldier"
-msgstr ""
+msgstr "군인"
 
 # EDID: SFBGS001_GenericSpaceportWorker_Male06, REC: NPC_:FULL
 msgctxt "011BC0"
 msgid "Spaceport Worker"
-msgstr ""
+msgstr "우주항 작업자"
 
 # EDID: SFBGS001_GenericSpaceportWorker_Female03, REC: NPC_:FULL
 msgctxt "011BC1"
 msgid "Spaceport Worker"
-msgstr ""
+msgstr "우주항 작업자"
 
 # EDID: SFBGS001_VkaiZ03_IrisUeda_Invulnerable, REC: NPC_:FULL
 msgctxt "011BC3"
 msgid "Iris Ueda"
-msgstr ""
+msgstr "아이리스 우에다"
 
 # EDID: SFBGS001_JamJar_Empty, REC: CONT:FULL
 msgctxt "011BC4"
@@ -9123,7 +9133,7 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_Orphanage_AudioSlate01, REC: BOOK:FNAM
 msgctxt "011BC5"
 msgid "Version 1.0"
-msgstr ""
+msgstr "버전 1.0"
 
 # EDID: SFBGS001_VkaiZ03_Orphanage_AudioSlate01, REC: BOOK:ENAM
 msgctxt "011BC6"
@@ -9138,7 +9148,7 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_Orphanage_AudioSlate02, REC: BOOK:FNAM
 msgctxt "011BC9"
 msgid "Version 1.0"
-msgstr ""
+msgstr "버전 1.0"
 
 # EDID: SFBGS001_VkaiZ03_Orphanage_AudioSlate02, REC: BOOK:ENAM
 msgctxt "011BCA"
@@ -9153,7 +9163,7 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_Orphanage_AudioSlate05, REC: BOOK:FNAM
 msgctxt "011BCD"
 msgid "Version 1.0"
-msgstr ""
+msgstr "버전 1.0"
 
 # EDID: SFBGS001_VkaiZ03_Orphanage_AudioSlate05, REC: BOOK:ENAM
 msgctxt "011BCE"
@@ -9168,7 +9178,7 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_Orphanage_AudioSlate04, REC: BOOK:FNAM
 msgctxt "011BD1"
 msgid "Version 1.0"
-msgstr ""
+msgstr "버전 1.0"
 
 # EDID: SFBGS001_VkaiZ03_Orphanage_AudioSlate04, REC: BOOK:ENAM
 msgctxt "011BD2"
@@ -9255,7 +9265,7 @@ msgstr "SFBGS001_DazraZ03_Hellos"
 # EDID: SFBGS001OE05World, REC: WRLD:FULL
 msgctxt "011C61"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SSFBGS001_MQ05Key, REC: KEYM:FULL
 msgctxt "011C62"
@@ -9265,82 +9275,82 @@ msgstr ""
 # EDID: SFBGS001_EncVaruunCitizenMale02, REC: NPC_:FULL
 msgctxt "011C63"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVaruunCitizenMale03, REC: NPC_:FULL
 msgctxt "011C64"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVaruunCitizenMale01, REC: NPC_:FULL
 msgctxt "011C65"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVaruunCitizenMale04, REC: NPC_:FULL
 msgctxt "011C66"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVaruunCitizenMale05, REC: NPC_:FULL
 msgctxt "011C67"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVaruunCitizenMale06, REC: NPC_:FULL
 msgctxt "011C68"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVaruunCitizenMale07, REC: NPC_:FULL
 msgctxt "011C69"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVaruunCitizenFemale01Template, REC: NPC_:FULL
 msgctxt "011C6A"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVaruunCitizenFemale02, REC: NPC_:FULL
 msgctxt "011C6B"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVaruunCitizenFemale03, REC: NPC_:FULL
 msgctxt "011C6C"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVaruunCitizenMale08, REC: NPC_:FULL
 msgctxt "011C6D"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVaruunCitizenFemale04, REC: NPC_:FULL
 msgctxt "011C6E"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVaruunCitizenFemale05, REC: NPC_:FULL
 msgctxt "011C6F"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVaruunCitizenFemale06, REC: NPC_:FULL
 msgctxt "011C70"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVaruunCitizenFemale07, REC: NPC_:FULL
 msgctxt "011C71"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_EncVaruunCitizenFemale08, REC: NPC_:FULL
 msgctxt "011C72"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001LC10_ShrineDoor01, REC: DOOR:FULL
 msgctxt "011C73"
@@ -9360,12 +9370,12 @@ msgstr ""
 # EDID: SFBGS001_DialogueHVGenericPhantom, REC: QUST:FULL
 msgctxt "011D71"
 msgid "Shared lines across Generic Voicetypes"
-msgstr ""
+msgstr "Shared lines across Generic Voicetypes"
 
 # EDID: SFBGS001_DialogueHVGenericVaruunZealots, REC: QUST:FULL
 msgctxt "011D72"
 msgid "Shared NEW Lines for Zealot Voicetypes"
-msgstr ""
+msgstr "Shared NEW Lines for Zealot Voicetypes"
 
 # EDID: SFBGS001LC07Int01_CellBlockTerminal_Desktop, REC: TMLM:UNAM
 msgctxt "011D7E"
@@ -9605,7 +9615,7 @@ msgstr ""
 # EDID: SFBGS001OE10World, REC: WRLD:FULL
 msgctxt "0120FE"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001_MQ03_MirekTerminal, REC: TERM:FULL
 msgctxt "0120FF"
@@ -9635,27 +9645,27 @@ msgstr ""
 # EDID: SFBGS001_MB_Rescue_VaruunAgent, REC: NPC_:FULL
 msgctxt "012104"
 msgid "Va'ruun Agent"
-msgstr ""
+msgstr "바룬 요원"
 
 # EDID: SFBGS001_MQ05_Scientist_NoAppearanceData, REC: NPC_:SHRT
 msgctxt "012105"
 msgid "Scientist"
-msgstr ""
+msgstr "과학자"
 
 # EDID: SFBGS001_MQ05_Scientist_NoAppearanceData, REC: NPC_:FULL
 msgctxt "012106"
 msgid "Scientist"
-msgstr ""
+msgstr "과학자"
 
 # EDID: SFBGS001_MQ03_CaptiveHostage01, REC: NPC_:FULL
 msgctxt "012107"
 msgid "Hostage"
-msgstr ""
+msgstr "인질"
 
 # EDID: SFBGS001_MQ03_CaptiveHostage02, REC: NPC_:FULL
 msgctxt "012108"
 msgid "Hostage"
-msgstr ""
+msgstr "인질"
 
 # EDID: [010E4269], REC: MISC:FULL
 msgctxt "012109"
@@ -9766,7 +9776,7 @@ msgstr ""
 # EDID: SFBGS001_LC03_ExteriorTurretControl, REC: TERM:FULL
 msgctxt "012144"
 msgid "Turret Control"
-msgstr ""
+msgstr "포탑 제어"
 
 # EDID: SFBGS001_MQ05_InfoTerminal02Menu, REC: TMLM:UNAM
 msgctxt "012145"
@@ -9887,7 +9897,7 @@ msgstr ""
 # EDID: SFBGS001LC18_ResearchTerminal_Desktop, REC: TMLM:FULL
 msgctxt "012158"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001LC18_ResearchTerminal_Genesis, REC: TMLM:UNAM
 msgctxt "012159"
@@ -10190,7 +10200,7 @@ msgstr ""
 # EDID: SFBGS001LC17_ZealotTerminal, REC: TERM:FULL
 msgctxt "0122E8"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001LC17_ZealotTerminal_02, REC: TERM:FULL
 msgctxt "0122E9"
@@ -10200,22 +10210,22 @@ msgstr ""
 # EDID: SFBGS001LC17_SermonsTerminal_REMOVE, REC: TERM:FULL
 msgctxt "0122EA"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_MQ05_InfoTerminal03, REC: TERM:FULL
 msgctxt "0122EB"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001LC18_ResearchTerminal, REC: TERM:FULL
 msgctxt "0122EC"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001LC18_SecurityTerminal, REC: TERM:FULL
 msgctxt "0122ED"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001LC17_SermonsTerminal_02_REMOVE, REC: TERM:FULL
 msgctxt "0122EE"
@@ -10225,27 +10235,27 @@ msgstr ""
 # EDID: SFBGS001_MQ05_InfoTerminal01, REC: TERM:FULL
 msgctxt "0122EF"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_MQ03_Hostage01, REC: NPC_:FULL
 msgctxt "0122F0"
 msgid "Hostage"
-msgstr ""
+msgstr "인질"
 
 # EDID: SFBGS001_MQ03_Hostage02, REC: NPC_:FULL
 msgctxt "0122F1"
 msgid "Hostage"
-msgstr ""
+msgstr "인질"
 
 # EDID: SFBGS001_MQ03_Hostage03, REC: NPC_:FULL
 msgctxt "0122F2"
 msgid "Hostage"
-msgstr ""
+msgstr "인질"
 
 # EDID: SFBGS001_MQ03_Hostage04, REC: NPC_:FULL
 msgctxt "0122F3"
 msgid "Hostage"
-msgstr ""
+msgstr "인질"
 
 # EDID: SFBGS001LC07Int02_QuasimSlate, REC: BOOK:FULL
 msgctxt "0122F9"
@@ -10339,18 +10349,18 @@ msgstr ""
 # EDID: SFBGS001OE11World, REC: WRLD:FULL
 msgctxt "01234B"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001_VkaiZ03_Musicbox_AudioOnly, REC: NPC_:FULL
 msgctxt "01234D"
 msgid "Music Box"
-msgstr ""
+msgstr "뮤직 박스"
 
 # EDID: SFBGS001_NA_LobbyU_ChunskInt_Clutter_ChairA_01_DeskEatDrink, REC:
 # FURN:FULL
 msgctxt "01234E"
 msgid "Chair"
-msgstr ""
+msgstr "의자"
 
 # EDID: CitadelIntRmSmWallMid_DoorA00b_Load, REC: DOOR:FULL
 msgctxt "01234F"
@@ -10365,22 +10375,22 @@ msgstr ""
 # EDID: SFBGS001OE01World, REC: WRLD:FULL
 msgctxt "0123EB"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001OE07World, REC: WRLD:FULL
 msgctxt "0123EC"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001OE12World, REC: WRLD:FULL
 msgctxt "0123ED"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001OE14World, REC: WRLD:FULL
 msgctxt "0123EE"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001OE01Int01, REC: CELL:FULL
 msgctxt "0123EF"
@@ -10465,12 +10475,12 @@ msgstr ""
 # EDID: SpaceSuit_Varuun_Backpack_01_PowerBoost, REC: ARMO:FULL
 msgctxt "012450"
 msgid "Entry"
-msgstr ""
+msgstr "엔트리"
 
 # EDID: SpaceSuit_Varuun_Backpack_01_PowerBoost, REC: ARMO:FULL
 msgctxt "012451"
 msgid "Va'ruun"
-msgstr ""
+msgstr "바룬"
 
 # EDID: SFBGS001LC02_JinanVaruunMemorialPlaque, REC: ACTI:FULL
 msgctxt "012452"
@@ -10480,22 +10490,22 @@ msgstr ""
 # EDID: SFBGS001OE19World, REC: WRLD:FULL
 msgctxt "01247C"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001OE15World, REC: WRLD:FULL
 msgctxt "01247D"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001OE17World, REC: WRLD:FULL
 msgctxt "01247E"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001OE06World, REC: WRLD:FULL
 msgctxt "01247F"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: [010F413A], REC: REFR:FULL
 msgctxt "012480"
@@ -10525,22 +10535,22 @@ msgstr ""
 # EDID: SFBGS001OE02World, REC: WRLD:FULL
 msgctxt "01252F"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001OE02Int, REC: CELL:FULL
 msgctxt "012530"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 # EDID: SFBGS001_LvlVaruunInfantry, REC: NPC_:LNAM
 msgctxt "012531"
 msgid "Va'ruun"
-msgstr ""
+msgstr "바룬"
 
 # EDID: SFBGS001_LvlVaruunInfantry, REC: NPC_:FULL
 msgctxt "012532"
 msgid "Va'ruun Infantry"
-msgstr ""
+msgstr "바룬 보병"
 
 # EDID: SFBGS001_LC02VarRitualShrineSmWallMid_DoorB00, REC: DOOR:FULL
 msgctxt "012533"
@@ -10622,7 +10632,7 @@ msgstr ""
 # EDID: SFBGS001LC20_CockpitTerminalMenu, REC: TMLM:FULL
 msgctxt "012540"
 msgid "Zealot's Terminal"
-msgstr ""
+msgstr "광신도의 단말기"
 
 # EDID: SFBGS001_mod_VaruunOrion_Mag_EM, REC: OMOD:FULL
 msgctxt "012541"
@@ -10752,7 +10762,7 @@ msgstr ""
 # EDID: SFBGS001OE03World, REC: WRLD:FULL
 msgctxt "01258C"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001_VaruunOrion, REC: WEAP:FULL
 msgctxt "01258D"
@@ -10797,17 +10807,17 @@ msgstr ""
 # EDID: SFBGS001_MS01_JandarRestCitizen06, REC: MESG:FULL
 msgctxt "0125AA"
 msgid "Laborer"
-msgstr ""
+msgstr "작업자"
 
 # EDID: SFBGS001_MS01_JandarRestCitizen05, REC: MESG:FULL
 msgctxt "0125AB"
 msgid "Bartender"
-msgstr ""
+msgstr "바텐더"
 
 # EDID: SFBGS001OE18Location, REC: LCTN:FULL
 msgctxt "0125AC"
 msgid "Crashed Ship"
-msgstr ""
+msgstr "추락한 함선"
 
 # EDID: SFBGS001_MS05, REC: QUST:NNAM
 msgctxt "01262A"
@@ -10817,7 +10827,7 @@ msgstr ""
 # EDID: SFBGS001OE18World, REC: WRLD:FULL
 msgctxt "01264A"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001_Genuflect, REC: FURN:FULL
 msgctxt "01264B"
@@ -10867,7 +10877,7 @@ msgstr ""
 # EDID: SFBGS001_OE_ZealotDeathSquads, REC: QUST:FULL
 msgctxt "01265C"
 msgid "Zealot Death Squads"
-msgstr ""
+msgstr "광신도 암살단"
 
 # EDID: SFBGS001_DamagedShipEffect04, REC: MSTT:FULL
 msgctxt "012684"
@@ -10952,47 +10962,47 @@ msgstr ""
 # EDID: SFBGS001_Dazra_CityLife_HallsofHealing_Citizen, REC: NPC_:FULL
 msgctxt "0126DA"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_Dazra_CityLife_HallsOfHealing01_Herald, REC: NPC_:FULL
 msgctxt "0126DB"
 msgid "Healer"
-msgstr ""
+msgstr "치료사"
 
 # EDID: SFBGS001_DazraCityLIfe_Dazra03_Guard, REC: NPC_:FULL
 msgctxt "0126DC"
 msgid "Dazra Security"
-msgstr ""
+msgstr "다즈라 경비대원"
 
 # EDID: SFBGS001_DazraCityLIfe03_Citizen, REC: NPC_:FULL
 msgctxt "0126DD"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_Dazra_CityLife_Dazra01_Citizen02, REC: NPC_:FULL
 msgctxt "0126DE"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_Dazra_CityLife_Dazra01_Citizen, REC: NPC_:FULL
 msgctxt "0126DF"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_DazraCityLife_Dazra02_FemaleCitizen, REC: NPC_:FULL
 msgctxt "0126E0"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_DazraCityLife_Dazra02_MaleCitizen, REC: NPC_:FULL
 msgctxt "0126E1"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_DazraCityLife_Dazra05_Citizen02, REC: NPC_:FULL
 msgctxt "0126E2"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_VarEmergencySupplies01_PI, REC: PKIN:FULL
 msgctxt "0126E3"
@@ -11047,12 +11057,12 @@ msgstr ""
 # EDID: SFBGS001LC06_LvlRobotModelA_VaruunCitadel_Aggro, REC: NPC_:FULL
 msgctxt "012724"
 msgid "Citadel Model A"
-msgstr ""
+msgstr "성채 모델 A"
 
 # EDID: SFBGS001LC06_LvlRobotModelS_Melee_VaruunCitadel, REC: NPC_:FULL
 msgctxt "012726"
 msgid "Citadel Model S"
-msgstr ""
+msgstr "성채 모델 S"
 
 # EDID: SFBGS001_DazraCityLife_Dazra06_Child, REC: NPC_:FULL
 msgctxt "012727"
@@ -11062,32 +11072,32 @@ msgstr "어린이"
 # EDID: SFBGS001_DazraCityLife_Dazra06_Citizen, REC: NPC_:FULL
 msgctxt "012728"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_DazraCityLife_Meathouse02_Worker02, REC: NPC_:FULL
 msgctxt "012729"
 msgid "Laborer"
-msgstr ""
+msgstr "작업자"
 
 # EDID: SFBGS001_DazraCityLife_Meathouse02_Worker01, REC: NPC_:FULL
 msgctxt "01272A"
 msgid "Laborer"
-msgstr ""
+msgstr "작업자"
 
 # EDID: SFBGS001_DazraCityLife_TheKeep01_Soldier01, REC: NPC_:FULL
 msgctxt "01272B"
 msgid "Soldier"
-msgstr ""
+msgstr "군인"
 
 # EDID: SFBGS001_DazraCityLife_TheKeep01_Soldier02, REC: NPC_:FULL
 msgctxt "01272C"
 msgid "Soldier"
-msgstr ""
+msgstr "군인"
 
 # EDID: SFBGS001_DazraCityLife_Dazra07_Citizen, REC: NPC_:FULL
 msgctxt "01272D"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_DazraCityLife_Dazra07_child01, REC: NPC_:FULL
 msgctxt "01272E"
@@ -11102,32 +11112,32 @@ msgstr "어린이"
 # EDID: SFBGS001_DazraCityLife_Dazra08_Citizen01, REC: NPC_:FULL
 msgctxt "012730"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_DazraCityLife_Dazra08_Citizen02, REC: NPC_:FULL
 msgctxt "012731"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_DazraCityLife_Dazra09_Citizen03, REC: NPC_:FULL
 msgctxt "012732"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_DazraCityLife_Dazra09_Citizen01, REC: NPC_:FULL
 msgctxt "012733"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_DazraCityLife_Dazra09_Citizen02, REC: NPC_:FULL
 msgctxt "012734"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_DazraCityLife_Dazra10_Citizen, REC: NPC_:FULL
 msgctxt "012735"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_DazraCityLife_Dazra10_Child, REC: NPC_:FULL
 msgctxt "012736"
@@ -11223,7 +11233,7 @@ msgstr ""
 # EDID: SFBGS001_GenericMedicalStaff_Female02, REC: NPC_:FULL
 msgctxt "012788"
 msgid "Healer"
-msgstr ""
+msgstr "치료사"
 
 # EDID: SFBGS001_GenuflectSinglePlay, REC: FURN:FULL
 msgctxt "012789"
@@ -11274,7 +11284,7 @@ msgstr "열기"
 # EDID: Loot_Mannequin_Spacesuit_Male_Varuun_Zealot, REC: NPC_:FULL
 msgctxt "01286C"
 msgid "Mannequin"
-msgstr ""
+msgstr "마네킹"
 
 # EDID: SFBGS001_LC08_Treasure, REC: CONT:FULL
 msgctxt "01286D"
@@ -11514,7 +11524,7 @@ msgstr ""
 # EDID: SFBGS001_VaruunEquinox, REC: WEAP:FULL
 msgctxt "01292F"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 # EDID: SFBGS001_VaruunEquinox, REC: WEAP:FULL
 msgctxt "012930"
@@ -11614,37 +11624,37 @@ msgstr ""
 # EDID: SFBGS001_RC_CommonerNeighborhood05, REC: QUST:FULL
 msgctxt "0129E3"
 msgid "Plaza RC 01"
-msgstr ""
+msgstr "Plaza RC 01"
 
 # EDID: SFBGS001_RC_Plaza06, REC: QUST:FULL
 msgctxt "0129EB"
 msgid "Plaza RC 03"
-msgstr ""
+msgstr "Plaza RC 03"
 
 # EDID: SFBGS001_RC_Plaza05, REC: QUST:FULL
 msgctxt "0129F3"
 msgid "Plaza RC 03"
-msgstr ""
+msgstr "Plaza RC 03"
 
 # EDID: SFBGS001_RC_Plaza04, REC: QUST:FULL
 msgctxt "0129FB"
 msgid "Plaza RC 03"
-msgstr ""
+msgstr "Plaza RC 03"
 
 # EDID: SFBGS001_RC_CommonerNeighborhood04, REC: QUST:FULL
 msgctxt "012A02"
 msgid "Commoner Neighborhood rc 02"
-msgstr ""
+msgstr "Commoner Neighborhood RC 02"
 
 # EDID: SFBGS001_RC_CommonerNeighborhood06, REC: QUST:FULL
 msgctxt "012A09"
 msgid "Commoner Neighborhood rc 02"
-msgstr ""
+msgstr "Commoner Neighborhood RC 02"
 
 # EDID: SFBGS001_RC_RefugeeCamp04, REC: QUST:FULL
 msgctxt "012A10"
 msgid "Refugee Camp RC 03"
-msgstr ""
+msgstr "Refugee Camp RC 03"
 
 # EDID: SFBGS001_AbVortexSpawnVFX, REC: SPEL:FULL
 msgctxt "012A4C"
@@ -11839,17 +11849,17 @@ msgstr ""
 # EDID: SFBGS001_RC_PostQuest_Citizens02, REC: QUST:FULL
 msgctxt "012F7E"
 msgid "Post Quest RC 2"
-msgstr ""
+msgstr "Post Quest RC 2"
 
 # EDID: SFBGS001_RC_PostQuest_Citizens03, REC: QUST:FULL
 msgctxt "012F89"
 msgid "Post Quest RC 3"
-msgstr ""
+msgstr "Post Quest RC 3"
 
 # EDID: SFBGS001_RC_PostQuest_Citizens01, REC: QUST:FULL
 msgctxt "012F8D"
 msgid "Post Quest RC 1"
-msgstr ""
+msgstr "Post Quest RC 1"
 
 # EDID: SFBGS001_MQ04, REC: QUST:NNAM
 msgctxt "013029"
@@ -11949,117 +11959,117 @@ msgstr ""
 # EDID: SFBGS001_RC_PostQuest_Plaza05, REC: QUST:FULL
 msgctxt "013078"
 msgid "Post Quest Plaza RC 03"
-msgstr ""
+msgstr "Post Quest Plaza RC 03"
 
 # EDID: SFBGS001_RC_PostQuest_CommonerNeighborhood05_Vethaal, REC: QUST:FULL
 msgctxt "01307C"
 msgid "Plaza RC 01"
-msgstr ""
+msgstr "Plaza RC 01"
 
 # EDID: SFBGS001_RC_PostQuest_CommonerNeighborhood06, REC: QUST:FULL
 msgctxt "013084"
 msgid "Post Quest Commoner Neighborhood rc 06"
-msgstr ""
+msgstr "Post Quest Commoner Neighborhood RC 06"
 
 # EDID: SFBGS001_RC_PostQuest_CommonerNeighborhood04, REC: QUST:FULL
 msgctxt "01308B"
 msgid "Post Quest Commoner Neighborhood rc 04"
-msgstr ""
+msgstr "Post Quest Commoner Neighborhood RC 04"
 
 # EDID: SFBGS001_RC_PostQuest_Dulkehf04, REC: QUST:FULL
 msgctxt "01308F"
 msgid "Post Quest Dulkehf RC 4"
-msgstr ""
+msgstr "Post Quest Dulkehf RC 4"
 
 # EDID: SFBGS001_RC_PostQuest_Dulkehf02, REC: QUST:FULL
 msgctxt "013093"
 msgid "Post Quest Dulkehf RC 2"
-msgstr ""
+msgstr "Post Quest Dulkehf RC 2"
 
 # EDID: SFBGS001_RC_PostQuest_Vethaal04, REC: QUST:FULL
 msgctxt "013097"
 msgid "Post Quest Vethaal RC 4"
-msgstr ""
+msgstr "Post Quest Vethaal RC 4"
 
 # EDID: SFBGS001_RC_PostQuest_Vethaal03, REC: QUST:FULL
 msgctxt "01309B"
 msgid "Post Quest Vethaal RC 3"
-msgstr ""
+msgstr "Post Quest Vethaal RC 3"
 
 # EDID: SFBGS001_RC_PostQuest_Kadic02, REC: QUST:FULL
 msgctxt "01309E"
 msgid "Post Quest Kadic RC 2"
-msgstr ""
+msgstr "Post Quest Kadic RC 2"
 
 # EDID: SFBGS001_RC_PostQuest_Vethaal01, REC: QUST:FULL
 msgctxt "0130A1"
 msgid "Post Quest Vethaal RC 1"
-msgstr ""
+msgstr "Post Quest Vethaal RC 1"
 
 # EDID: SFBGS001_RC_PostQuest_Vethaal02, REC: QUST:FULL
 msgctxt "0130A5"
 msgid "Post Quest Vethaal RC 2"
-msgstr ""
+msgstr "Post Quest Vethaal RC 2"
 
 # EDID: SFBGS001_RC_PostQuest_Kadic01, REC: QUST:FULL
 msgctxt "0130A9"
 msgid "Post Quest Kadic RC 1"
-msgstr ""
+msgstr "Post Quest Kadic RC 1"
 
 # EDID: SFBGS001_RC_PostQuest_Kadic03, REC: QUST:FULL
 msgctxt "0130AC"
 msgid "Post Quest Kadic RC 3"
-msgstr ""
+msgstr "Post Quest Kadic RC 3"
 
 # EDID: SFBGS001_RC_PostQuest_Kadic04, REC: QUST:FULL
 msgctxt "0130B1"
 msgid "Post Quest Kadic RC 4"
-msgstr ""
+msgstr "Post Quest Kadic RC 4"
 
 # EDID: SFBGS001_RC_PostQuest_Dulkehf01, REC: QUST:FULL
 msgctxt "0130B5"
 msgid "Post Quest Dulkehf RC 1"
-msgstr ""
+msgstr "Post Quest Dulkehf RC 1"
 
 # EDID: SFBGS001_RC_PostQuest_Dulkehf03, REC: QUST:FULL
 msgctxt "0130B8"
 msgid "Post Quest Dulkehf RC 3"
-msgstr ""
+msgstr "Post Quest Dulkehf RC 3"
 
 # EDID: SFBGS001_RC_PostQuest_HeraldsRest01, REC: QUST:FULL
 msgctxt "0130BE"
 msgid "Heralds Rest RC 01"
-msgstr ""
+msgstr "Heralds Rest RC 01"
 
 # EDID: SFBGS001_RC_PostQuest_HallsOfHealing01, REC: QUST:FULL
 msgctxt "0130CA"
 msgid "Halls of Healing RC 01"
-msgstr ""
+msgstr "Halls of Healing RC 01"
 
 # EDID: SFBGS001_RC_PostQuest_RefugeeCamp, REC: QUST:FULL
 msgctxt "0130D3"
 msgid "Refugee Camp RC 03"
-msgstr ""
+msgstr "Refugee Camp RC 03"
 
 # EDID: SFBGS001_RC_PostQuest_StarportArea01, REC: QUST:FULL
 msgctxt "0130DA"
 msgid "Post Quest Starport Area RC 02"
-msgstr ""
+msgstr "Post Quest Starport Area RC 02"
 
 # EDID: SFBGS001OE08World, REC: WRLD:FULL
 msgctxt "0130F7"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001_OE_LvlVaruunMiner, REC: NPC_:LNAM
 msgctxt "0130F8"
 msgid "Va'ruun"
-msgstr ""
+msgstr "바룬"
 
 # EDID: SFBGS001_OE_LvlVaruunMiner, REC: NPC_:FULL
 msgctxt "0130F9"
 msgid "Va'ruun Miner"
-msgstr ""
+msgstr "바룬 광부"
 
 # EDID: SFBGS001_LvlVortexPhantom_Assault_Aggro_Essential_Test, REC: NPC_:FULL
 msgctxt "0130FA"
@@ -12084,7 +12094,7 @@ msgstr ""
 # EDID: SFBGS001_VortexCyst, REC: MISC:FULL
 msgctxt "0130FF"
 msgid "Vortex Cyst"
-msgstr ""
+msgstr "볼텍스 포낭"
 
 # EDID: SFBGS001_MS03_CeremonialDrinksActivator, REC: ACTI:FULL
 msgctxt "013100"
@@ -12179,7 +12189,7 @@ msgstr ""
 # EDID: SFBGS001OE16World, REC: WRLD:FULL
 msgctxt "0131C9"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001_MS04_SensorTerminalA, REC: TERM:FULL
 msgctxt "0131CA"
@@ -12189,32 +12199,32 @@ msgstr ""
 # EDID: SFBGS001_GenericMourningDeviceScientist_Female02, REC: NPC_:FULL
 msgctxt "0131CB"
 msgid "Scientist"
-msgstr ""
+msgstr "과학자"
 
 # EDID: SFBGS001_GenericMourningDeviceScientist_Female04, REC: NPC_:FULL
 msgctxt "0131CC"
 msgid "Scientist"
-msgstr ""
+msgstr "과학자"
 
 # EDID: SFBGS001_GenericMourningDeviceScientist_Female06, REC: NPC_:FULL
 msgctxt "0131CD"
 msgid "Scientist"
-msgstr ""
+msgstr "과학자"
 
 # EDID: SFBGS001_GenericMourningDeviceScientist_Male03, REC: NPC_:FULL
 msgctxt "0131CE"
 msgid "Scientist"
-msgstr ""
+msgstr "과학자"
 
 # EDID: SFBGS001_GenericMourningDeviceScientist_Male05, REC: NPC_:FULL
 msgctxt "0131CF"
 msgid "Scientist"
-msgstr ""
+msgstr "과학자"
 
 # EDID: SFBGS001_GenericMourningDeviceScientist_Male07, REC: NPC_:FULL
 msgctxt "0131D0"
 msgid "Scientist"
-msgstr ""
+msgstr "과학자"
 
 # EDID: SFBGS001_LC42_SpacerCrash01, REC: BOOK:FNAM
 msgctxt "0131D1"
@@ -12783,7 +12793,7 @@ msgstr ""
 # EDID: SFBGS001OE20World, REC: WRLD:FULL
 msgctxt "0133A5"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001_MS04_SensorTerminalB, REC: TERM:FULL
 msgctxt "0133A7"
@@ -12813,12 +12823,12 @@ msgstr ""
 # EDID: SFBGS001_MS04TeaserScene_Female03, REC: NPC_:FULL
 msgctxt "0133AF"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_MS04TeaserScene_Male02, REC: NPC_:FULL
 msgctxt "0133B0"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_MS03, REC: QUST:NNAM
 msgctxt "0133B1"
@@ -12833,7 +12843,7 @@ msgstr ""
 # EDID: SFBGS001OE13World, REC: WRLD:FULL
 msgctxt "0134EC"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: SFBGS001LC60Location, REC: LCTN:FULL
 msgctxt "0134F3"
@@ -12848,7 +12858,7 @@ msgstr ""
 # EDID: SFBGSLC48_ReservoirControl, REC: TERM:FULL
 msgctxt "01359C"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001LC18KeyMalsiir, REC: KEYM:FULL
 msgctxt "01359D"
@@ -12923,7 +12933,7 @@ msgstr "Standard"
 # EDID: SFBGS001_RedeemedBlade, REC: WEAP:FULL
 msgctxt "01368D"
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 # EDID: SFBGS001_MS03_CeremonialCups, REC: STAT:FULL
 msgctxt "01368E"
@@ -12993,47 +13003,47 @@ msgstr "Human"
 # EDID: SFBGS001_RC_MourningDevice03, REC: QUST:FULL
 msgctxt "0136D2"
 msgid "Mourning Device Scientists RC03"
-msgstr ""
+msgstr "Mourning Device Scientists RC03"
 
 # EDID: SFBGS001_RC_MourningDevice01, REC: QUST:FULL
 msgctxt "0136E6"
 msgid "Mourning Device Scientists RC01"
-msgstr ""
+msgstr "Mourning Device Scientists RC01"
 
 # EDID: SFBGS001_RC_HouseVethaal02, REC: QUST:FULL
 msgctxt "0136F7"
 msgid "House Veth'aal Wardens RC02"
-msgstr ""
+msgstr "House Veth'aal Wardens RC02"
 
 # EDID: SFBGS001_RC_HouseKadic03, REC: QUST:FULL
 msgctxt "013706"
 msgid "House Ka'dic Envoys RC03"
-msgstr ""
+msgstr "House Ka'dic Envoys RC03"
 
 # EDID: SFBGS001_RC_HouseKadic01, REC: QUST:FULL
 msgctxt "013713"
 msgid "House Ka'dic Envoys RC01"
-msgstr ""
+msgstr "House Ka'dic Envoys RC01"
 
 # EDID: SFBGS001_RC_HouseKadic02, REC: QUST:FULL
 msgctxt "013723"
 msgid "House Ka'dic Envoys RC02"
-msgstr ""
+msgstr "House Ka'dic Envoys RC02"
 
 # EDID: SFBGS001_RC_HouseVethaal01, REC: QUST:FULL
 msgctxt "013731"
 msgid "House Veth'aal Wardens RC01"
-msgstr ""
+msgstr "House Veth'aal Wardens RC01"
 
 # EDID: SFBGS001_RC_HouseVethaal03, REC: QUST:FULL
 msgctxt "013741"
 msgid "House Veth'aal Wardens RC03"
-msgstr ""
+msgstr "House Veth'aal Wardens RC03"
 
 # EDID: SFBGS001_RC_MourningDevice02, REC: QUST:FULL
 msgctxt "013752"
 msgid "Mourning Device Scientists RC02"
-msgstr ""
+msgstr "Mourning Device Scientists RC02"
 
 # EDID: SFBGS001_VKaiZ01, REC: QUST:NNAM
 msgctxt "0137E5"
@@ -13045,47 +13055,47 @@ msgstr ""
 # EDID: SFBGS001OE04Int, REC: CELL:FULL
 msgctxt "01387F"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 # EDID: SFBGS001_GenericWarden_Female01, REC: NPC_:FULL
 msgctxt "013880"
 msgid "Warden"
-msgstr ""
+msgstr "관리인"
 
 # EDID: SFBGS001_GenericWarden_Female03, REC: NPC_:FULL
 msgctxt "013881"
 msgid "Warden"
-msgstr ""
+msgstr "관리인"
 
 # EDID: SFBGS001_GenericEnvoy_Male01, REC: NPC_:FULL
 msgctxt "013882"
 msgid "Envoy"
-msgstr ""
+msgstr "대표"
 
 # EDID: SFBGS001_GenericEnvoy_Male03, REC: NPC_:FULL
 msgctxt "013883"
 msgid "Envoy"
-msgstr ""
+msgstr "대표"
 
 # EDID: SFBGS001_GenericWarden_Male02, REC: NPC_:FULL
 msgctxt "013884"
 msgid "Warden"
-msgstr ""
+msgstr "관리인"
 
 # EDID: SFBGS001_GenericWarden_Male04, REC: NPC_:FULL
 msgctxt "013885"
 msgid "Warden"
-msgstr ""
+msgstr "관리인"
 
 # EDID: SFBGS001_GenericEnvoy_Female05, REC: NPC_:FULL
 msgctxt "013886"
 msgid "Envoy"
-msgstr ""
+msgstr "대표"
 
 # EDID: SFBGS001_GenericEnvoy_Female08, REC: NPC_:FULL
 msgctxt "013887"
 msgid "Envoy"
-msgstr ""
+msgstr "대표"
 
 # EDID: SFBGS001_VKaiZ01_Book, REC: BOOK:FULL
 msgctxt "013889"
@@ -13115,7 +13125,7 @@ msgstr ""
 # EDID: SFBGS001OE04World, REC: WRLD:FULL
 msgctxt "0138F2"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 # EDID: [01113C86], REC: REFR:FULL
 msgctxt "0138F3"
@@ -13541,7 +13551,7 @@ msgstr ""
 # EDID: SFBGS001LC05_LabDoor_Computer, REC: TERM:FULL
 msgctxt "013D55"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001LC53_FarmhouseKey, REC: KEYM:FULL
 msgctxt "013D56"
@@ -13556,22 +13566,22 @@ msgstr ""
 # EDID: SFBGS001_DazraChunksRefugee_Male03, REC: NPC_:FULL
 msgctxt "013D59"
 msgid "Refugee"
-msgstr ""
+msgstr "난민"
 
 # EDID: SFBGS001_DazraChunksRefugee_Female02, REC: NPC_:FULL
 msgctxt "013D5A"
 msgid "Refugee"
-msgstr ""
+msgstr "난민"
 
 # EDID: SFBGS001_DazraChunksRefugee_Female04, REC: NPC_:FULL
 msgctxt "013D5B"
 msgid "Refugee"
-msgstr ""
+msgstr "난민"
 
 # EDID: SFBGS001_DazraChunksRefugee_Male05, REC: NPC_:FULL
 msgctxt "013D5C"
 msgid "Refugee"
-msgstr ""
+msgstr "난민"
 
 # EDID: SFBGS001_MS05_MaaliyaHajtal_REVersion, REC: NPC_:FULL
 msgctxt "013D5E"
@@ -13596,52 +13606,52 @@ msgstr ""
 # EDID: SFBGS001_LC54WilliamCorpse_Dusty, REC: NPC_:FULL
 msgctxt "013F41"
 msgid "William Cartwright"
-msgstr ""
+msgstr "윌리엄 카트라이트"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunZealotF_Fresh01, REC: NPC_:FULL
 msgctxt "013F42"
 msgid "Va'ruun Zealot"
-msgstr ""
+msgstr "바룬 광신도"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunZealotF_Fresh02, REC: NPC_:FULL
 msgctxt "013F43"
 msgid "Va'ruun Zealot"
-msgstr ""
+msgstr "바룬 광신도"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunZealotF_Fresh03, REC: NPC_:FULL
 msgctxt "013F44"
 msgid "Va'ruun Zealot"
-msgstr ""
+msgstr "바룬 광신도"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunZealotM_Dusty, REC: NPC_:FULL
 msgctxt "013F45"
 msgid "Va'ruun Zealot"
-msgstr ""
+msgstr "바룬 광신도"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunZealotF_Frozen, REC: NPC_:FULL
 msgctxt "013F49"
 msgid "Va'ruun Zealot"
-msgstr ""
+msgstr "바룬 광신도"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunZealotM_Frozen, REC: NPC_:FULL
 msgctxt "013F4A"
 msgid "Va'ruun Zealot"
-msgstr ""
+msgstr "바룬 광신도"
 
 # EDID: SFBGS001_VaruunOrion, REC: WEAP:FULL
 msgctxt "013F4E"
 msgid "The Fang's Rifle"
-msgstr ""
+msgstr "송곳니의 소총"
 
 # EDID: SFBGS001_VaruunOrion, REC: WEAP:FULL
 msgctxt "013F4F"
 msgid "The Fang's Rifle"
-msgstr ""
+msgstr "송곳니의 소총"
 
 # EDID: SFBGS001_VaruunOrion, REC: WEAP:FULL
 msgctxt "013F50"
 msgid "The Fang's Rifle"
-msgstr ""
+msgstr "송곳니의 소총"
 
 # EDID: SFBGS001LC53Slate01, REC: BOOK:FNAM
 msgctxt "013F51"
@@ -13661,17 +13671,17 @@ msgstr "일반 NPC 세력"
 # EDID: SFBGS001_Loot_Corpse_VaruunZealotM_Fresh01, REC: NPC_:FULL
 msgctxt "013F56"
 msgid "Va'ruun Zealot"
-msgstr ""
+msgstr "바룬 광신도"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunZealotM_Fresh02, REC: NPC_:FULL
 msgctxt "013F57"
 msgid "Va'ruun Zealot"
-msgstr ""
+msgstr "바룬 광신도"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunZealotM_Fresh03, REC: NPC_:FULL
 msgctxt "013F58"
 msgid "Va'ruun Zealot"
-msgstr ""
+msgstr "바룬 광신도"
 
 # EDID: Loot_Mannequin_Spacesuit_Male_Orahim, REC: NPC_:ATTX
 msgctxt "013F59"
@@ -13681,12 +13691,12 @@ msgstr "열기"
 # EDID: Loot_Mannequin_Spacesuit_Male_Orahim, REC: NPC_:FULL
 msgctxt "013F5A"
 msgid "Mannequin"
-msgstr ""
+msgstr "마네킹"
 
 # EDID: SFBGS001_JinanVaruun, REC: NPC_:FULL
 msgctxt "013F5B"
 msgid "Jinan Va'ruun"
-msgstr ""
+msgstr "지난 바룬"
 
 # EDID: SFBGS001_LC17_Plaque03_Message, REC: MESG:FULL
 msgctxt "013F5C"
@@ -13772,7 +13782,7 @@ msgstr ""
 # EDID: SFBGS001_Spacesuit_Fang_Backpack_Varuun, REC: ARMO:FULL
 msgctxt "0140F5"
 msgid "Entry"
-msgstr ""
+msgstr "엔트리"
 
 # EDID: SFBGS001_Spacesuit_Fang_Backpack_Varuun, REC: ARMO:FULL
 msgctxt "0140F6"
@@ -13867,27 +13877,27 @@ msgstr ""
 # EDID: SFBGS001_GenericPilgrim_Encounter_Female05, REC: NPC_:FULL
 msgctxt "01420A"
 msgid "Penitent Citizen"
-msgstr ""
+msgstr "회개하는 시민"
 
 # EDID: SFBGS001_MQ01_DazraControl_NoAppearanceData, REC: NPC_:SHRT
 msgctxt "01420B"
 msgid "Dazra Control"
-msgstr ""
+msgstr "다즈라 통제관"
 
 # EDID: SFBGS001_MQ01_DazraControl_NoAppearanceData, REC: NPC_:FULL
 msgctxt "01420C"
 msgid "Dazra Control"
-msgstr ""
+msgstr "다즈라 통제관"
 
 # EDID: SFBGS001_LC08_SpacerFemale01_NoAppearanceData, REC: NPC_:FULL
 msgctxt "01420D"
 msgid "Spacer"
-msgstr ""
+msgstr "스페이서"
 
 # EDID: SFBGS001_LC08_SpacerMale01_NoAppearanceData, REC: NPC_:FULL
 msgctxt "01420E"
 msgid "Spacer"
-msgstr ""
+msgstr "스페이서"
 
 # EDID: SFBGS001_GenericGroatFarmer_Encounter_Male08, REC: NPC_:FULL
 msgctxt "01420F"
@@ -13902,37 +13912,37 @@ msgstr "농부"
 # EDID: SFBGS001_GenericPilgrim_Encounter_Female01, REC: NPC_:FULL
 msgctxt "014211"
 msgid "Penitent Citizen"
-msgstr ""
+msgstr "회개하는 시민"
 
 # EDID: SFBGS001_GenericPilgrim_Encounter_Male07, REC: NPC_:FULL
 msgctxt "014212"
 msgid "Penitent Citizen"
-msgstr ""
+msgstr "회개하는 시민"
 
 # EDID: SFBGS001_GenericPilgrim_Encounter_Male05, REC: NPC_:FULL
 msgctxt "014213"
 msgid "Penitent Citizen"
-msgstr ""
+msgstr "회개하는 시민"
 
 # EDID: SFBGS001_GenericPatrol_Encounter_Female06, REC: NPC_:FULL
 msgctxt "014214"
 msgid "Patrolling Guard"
-msgstr ""
+msgstr "순찰대원"
 
 # EDID: SFBGS001_GenericPatrol_Encounter_Female02, REC: NPC_:FULL
 msgctxt "014215"
 msgid "Patrolling Guard"
-msgstr ""
+msgstr "순찰대원"
 
 # EDID: SFBGS001_GenericPatrol_Encounter_Male03, REC: NPC_:FULL
 msgctxt "014216"
 msgid "Patrolling Guard"
-msgstr ""
+msgstr "순찰대원"
 
 # EDID: SFBGS001_GenericPatrol_Encounter_Male04, REC: NPC_:FULL
 msgctxt "014217"
 msgid "Patrolling Guard"
-msgstr ""
+msgstr "순찰대원"
 
 # EDID: SFBGS001_GenericGroatFarmer_Encounter_Female04, REC: NPC_:FULL
 msgctxt "014218"
@@ -13987,7 +13997,7 @@ msgstr ""
 # EDID: SFBGS001TestCellLouisL01, REC: CELL:FULL
 msgctxt "014361"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 # EDID: SFBGS001LC10_StorageKey, REC: KEYM:FULL
 msgctxt "014362"
@@ -13997,7 +14007,7 @@ msgstr ""
 # EDID: SFBGS001_AudioLog_ColonyShipPassenger_NoAppearanceData, REC: NPC_:FULL
 msgctxt "014363"
 msgid "Passenger"
-msgstr ""
+msgstr "승객"
 
 # EDID: SFBGS001_LChar_VortexGroats, REC: LVLN:ONAM
 msgctxt "01436D"
@@ -14017,7 +14027,7 @@ msgstr ""
 # EDID: SFBGS001TestCellLouisL02Int, REC: CELL:FULL
 msgctxt "01437C"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 # EDID: SFBGS001_VortexGateStableStateTest, REC: MSTT:FULL
 msgctxt "01437D"
@@ -14099,7 +14109,7 @@ msgstr ""
 # EDID: SFBGS001_MQ01_Hail, REC: QUST:FULL
 msgctxt "01439F"
 msgid "[Hailing hellos for the Oracle]"
-msgstr ""
+msgstr "[Hailing hellos for the Oracle]"
 
 # EDID: SFBGS001LC06_02_Descent_FacilitiesSecurityComputer_Desktop, REC:
 # TMLM:ITXT
@@ -14460,7 +14470,7 @@ msgstr ""
 # EDID: SFBGS001LC07_Int01_Admin_Terminal, REC: TERM:FULL
 msgctxt "014400"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_Loot_Storage_Offering01, REC: CONT:FULL
 msgctxt "014402"
@@ -14470,7 +14480,7 @@ msgstr ""
 # EDID: SFBGS001_Loot_Corpse_VaruunPilgrimM_Fresh01, REC: NPC_:FULL
 msgctxt "014403"
 msgid "Va'ruun Pilgrim"
-msgstr ""
+msgstr "바룬 순례자"
 
 # EDID: SFBGS001_MS02_SupplyDepot_Slate01, REC: BOOK:ENAM
 msgctxt "014404"
@@ -14565,7 +14575,7 @@ msgstr ""
 # EDID: SFBGS001_MS02_SUPPLYDEPOTCOMPUTER, REC: TERM:FULL
 msgctxt "0144D2"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_MQIN_VortexDoor, REC: DOOR:FULL
 msgctxt "0144D3"
@@ -14661,7 +14671,7 @@ msgstr ""
 # EDID: SFBGS001LC05_TeleKey_Computer, REC: TERM:FULL
 msgctxt "014732"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001LC05_ENV_PoolHazard_CorrosiveLiquid, REC: HAZD:FULL
 msgctxt "014733"
@@ -14671,7 +14681,7 @@ msgstr ""
 # EDID: SFBGS001_LC03_InteriorTurretControl, REC: TERM:FULL
 msgctxt "014800"
 msgid "Turret Control"
-msgstr ""
+msgstr "포탑 제어"
 
 # EDID: SFBGS001_LC03_InteriorRobotControl, REC: TERM:FULL
 msgctxt "014801"
@@ -14756,12 +14766,12 @@ msgstr ""
 # EDID: SFBGS001_ARPOI06_LvlVaruunMiner, REC: NPC_:LNAM
 msgctxt "0148A5"
 msgid "Va'ruun"
-msgstr ""
+msgstr "바룬"
 
 # EDID: SFBGS001_ARPOI06_LvlVaruunMiner, REC: NPC_:FULL
 msgctxt "0148A6"
 msgid "Va'ruun Miner"
-msgstr ""
+msgstr "바룬 광부"
 
 # EDID: SFBGS001__AFPOI17Note, REC: BOOK:FULL
 msgctxt "0148A8"
@@ -14871,17 +14881,17 @@ msgstr ""
 # EDID: SFBGS001_DazraSecurityTerminal, REC: TERM:FULL
 msgctxt "0148B8"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_AMPOI_LvlUtilityWorker, REC: NPC_:LNAM
 msgctxt "0148B9"
 msgid "Va'ruun"
-msgstr ""
+msgstr "바룬"
 
 # EDID: SFBGS001_AMPOI_LvlUtilityWorker, REC: NPC_:FULL
 msgctxt "0148BA"
 msgid "Va'ruun Utility Worker"
-msgstr ""
+msgstr "바룬 시설 작업자"
 
 # EDID: SFBGS001_ARPOI09Note, REC: BOOK:FULL
 msgctxt "0148BC"
@@ -15026,12 +15036,12 @@ msgstr ""
 # EDID: SFBGS001_LvlRobotModelA_VaruunZealot_Aggro, REC: NPC_:FULL
 msgctxt "014900"
 msgid "Va'ruun Zealot Model A"
-msgstr ""
+msgstr "바룬 광신도 모델 A"
 
 # EDID: SFBGS001_LvlRobotModelS_VaruunZealot_Aggro, REC: NPC_:FULL
 msgctxt "014902"
 msgid "Va'ruun Zealot Model S"
-msgstr ""
+msgstr "바룬 광신도 모델 S"
 
 # EDID: SFBGS001YGPOI08_Slate, REC: BOOK:FNAM
 msgctxt "014903"
@@ -15096,12 +15106,12 @@ msgstr ""
 # EDID: SFBGS001_GenericPilgrim_Shrine_Female01, REC: NPC_:FULL
 msgctxt "014915"
 msgid "Penitent Citizen"
-msgstr ""
+msgstr "회개하는 시민"
 
 # EDID: SFBGS001_GenericPilgrim_Shrine_Male07, REC: NPC_:FULL
 msgctxt "014916"
 msgid "Penitent Citizen"
-msgstr ""
+msgstr "회개하는 시민"
 
 # EDID: SFBGS001_AHPOI09_Note_Climbing04, REC: BOOK:FNAM
 msgctxt "014917"
@@ -15171,7 +15181,7 @@ msgstr ""
 # EDID: SFBGS001_VkaiZ03_Orphanage_DataSlate02, REC: BOOK:FNAM
 msgctxt "014929"
 msgid "Version 1.0"
-msgstr ""
+msgstr "버전 1.0"
 
 # EDID: SFBGS001_VkaiZ03_Orphanage_DataSlate02, REC: BOOK:ENAM
 msgctxt "01492A"
@@ -15196,7 +15206,7 @@ msgstr ""
 # EDID: SFBGS001_CraterOfficeSafeKey01, REC: KEYM:FULL
 msgctxt "01492F"
 msgid "Office Safe Key"
-msgstr ""
+msgstr "사무실 금고 열쇠"
 
 # EDID: SFBGS001_LC13_GroatFemale, REC: NPC_:FULL
 msgctxt "014930"
@@ -15216,12 +15226,12 @@ msgstr "그로트 수컷"
 # EDID: SFBGS001_LvlRobotModelA_Varuun_Friendly, REC: NPC_:FULL
 msgctxt "014933"
 msgid "Va'ruun Model A"
-msgstr ""
+msgstr "바룬 모델 A"
 
 # EDID: SFBGS001_LvlRobotModelS_Varuun_Friendly, REC: NPC_:FULL
 msgctxt "014935"
 msgid "Va'ruun Model S"
-msgstr ""
+msgstr "바룬 모델 S"
 
 # EDID: SFBGS001_VKaiZ03_SlateCrate, REC: CONT:FULL
 msgctxt "014936"
@@ -15290,12 +15300,12 @@ msgstr ""
 # EDID: SFBGS001LC48_Terminal01, REC: TERM:FULL
 msgctxt "01494A"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_LC13_RobotModelA_FarmerGreenhouse, REC: NPC_:FULL
 msgctxt "01494B"
 msgid "Light Utility Robot Model A"
-msgstr ""
+msgstr "경량 실용 로봇 모델 A"
 
 # EDID: SFBGS001TestCorrieGroat, REC: NPC_:FULL
 msgctxt "01494C"
@@ -15470,7 +15480,7 @@ msgstr ""
 # EDID: SFBGS001_CraterCorpse01, REC: NPC_:FULL
 msgctxt "01496D"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 # EDID: SFBGS001_WoodenGoose01, REC: MISC:FULL
 msgctxt "01496E"
@@ -15525,7 +15535,7 @@ msgstr ""
 # EDID: SFBGS001_MQ04_VaericCampLog02, REC: BOOK:FULL
 msgctxt "014980"
 msgid "Vaeric's Camp Log - Entry 2"
-msgstr ""
+msgstr "배릭의 캠프 일지 - 기록 2"
 
 # EDID: SFBGS001LandscapePOIDunes01Location, REC: LCTN:FULL
 msgctxt "014981"
@@ -15575,7 +15585,7 @@ msgstr ""
 # EDID: SFBGS001_MQ01_BasiraAccessCard, REC: KEYM:FULL
 msgctxt "0149A3"
 msgid "Oracle Access Card"
-msgstr ""
+msgstr "오라클 출입 카드"
 
 # EDID: SFBGS001_Invisible_DazraWorkbenchFood01, REC: FURN:FULL
 msgctxt "0149A4"
@@ -15777,7 +15787,7 @@ msgstr ""
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "0149D5"
 msgid "Find an Oracle Access Card"
-msgstr ""
+msgstr "오라클 출입 카드 찾기"
 
 # EDID: SFBGS001_MQ01_EngineeringLabTerminal, REC: TERM:FULL
 msgctxt "0149DB"
@@ -15787,22 +15797,22 @@ msgstr ""
 # EDID: SFBGS001LC55SafeKey, REC: KEYM:FULL
 msgctxt "0149DC"
 msgid "Lake Watchtower Safe Key"
-msgstr ""
+msgstr "호수 감시탑 금고 열쇠"
 
 # EDID: SFBGS001_OE_BaseGame_Civilian, REC: NPC_:LNAM
 msgctxt "0149DD"
 msgid "Civilians"
-msgstr ""
+msgstr "민간인"
 
 # EDID: SFBGS001_OE_BaseGame_Civilian, REC: NPC_:SHRT
 msgctxt "0149DE"
 msgid "Civilian"
-msgstr ""
+msgstr "민간인"
 
 # EDID: SFBGS001_OE_BaseGame_Civilian, REC: NPC_:FULL
 msgctxt "0149DF"
 msgid "Civilian"
-msgstr ""
+msgstr "민간인"
 
 # EDID: SFBGS001_MS03_Condolences, REC: BOOK:FULL
 msgctxt "0149E1"
@@ -15842,7 +15852,7 @@ msgstr ""
 # EDID: SFBGS001_ARPOI18_Scientist_Male03, REC: NPC_:FULL
 msgctxt "0149F1"
 msgid "Scientist"
-msgstr ""
+msgstr "과학자"
 
 # EDID: SFBGSLI_OE_Creature02_Slate, REC: BOOK:FULL
 msgctxt "0149F8"
@@ -15982,32 +15992,32 @@ msgstr ""
 # EDID: SFBGS001_LC01_Loot_Corpse_VaruunOracleEngineerM_Dusty, REC: NPC_:FULL
 msgctxt "014A22"
 msgid "Oracle Engineer"
-msgstr ""
+msgstr "오라클 엔지니어"
 
 # EDID: SFBGS001_LC01_Loot_Corpse_VaruunOracleSecurityF_Dusty, REC: NPC_:FULL
 msgctxt "014A23"
 msgid "Oracle Security"
-msgstr ""
+msgstr "오라클 경비대원"
 
 # EDID: SFBGS001_LC01_Loot_Corpse_VaruunOracleSecurityM_Dusty, REC: NPC_:FULL
 msgctxt "014A24"
 msgid "Oracle Security"
-msgstr ""
+msgstr "오라클 경비대원"
 
 # EDID: SFBGS001_LC01_Loot_Corpse_VaruunOracleEngineerF_Dusty, REC: NPC_:FULL
 msgctxt "014A25"
 msgid "Oracle Engineer"
-msgstr ""
+msgstr "오라클 엔지니어"
 
 # EDID: SFBGS001_LC01_Loot_Corpse_VaruunOracleCrewF_Dusty, REC: NPC_:FULL
 msgctxt "014A26"
 msgid "Oracle Crew"
-msgstr ""
+msgstr "오라클 승무원"
 
 # EDID: SFBGS001_LC01_Loot_Corpse_VaruunOracleCrewM_Dusty, REC: NPC_:FULL
 msgctxt "014A27"
 msgid "Oracle Crew"
-msgstr ""
+msgstr "오라클 승무원"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Prey01_Groat_Kid_Corpse, REC: NPC_:FULL
 msgctxt "014A28"
@@ -16022,17 +16032,17 @@ msgstr "그로트 수컷"
 # EDID: SFBGS001_HajtalHomeSlate_MessageFromLijana, REC: BOOK:FNAM
 msgctxt "014A2C"
 msgid "To: Farud Hajtal"
-msgstr ""
+msgstr "수신: 파루드 하즈탈"
 
 # EDID: SFBGS001_HajtalHomeSlate_MessageFromLijana, REC: BOOK:FULL
 msgctxt "014A2F"
 msgid "Message from Lijana Dul'kehf"
-msgstr ""
+msgstr "리야나 둘케프가 보낸 메시지"
 
 # EDID: SFBGS001_LC48Slate_Heirlooms, REC: BOOK:ENAM
 msgctxt "014A31"
 msgid "Message for Safir"
-msgstr ""
+msgstr "사피어에게 보내는 메시지"
 
 # EDID: SFBGS001_LC03_Redeemed, REC: BOOK:FULL
 msgctxt "014A33"
@@ -16826,17 +16836,17 @@ msgstr ""
 # EDID: SFBGS001LC48_OfficeTerminal, REC: TERM:FULL
 msgctxt "014A93"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001LC48_EngineeringTerminal, REC: TERM:FULL
 msgctxt "014A94"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001LC48_MaintenanceTerminal, REC: TERM:FULL
 msgctxt "014A95"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_MQ03_RazmaTerminal, REC: TERM:FULL
 msgctxt "014A96"
@@ -16851,107 +16861,107 @@ msgstr ""
 # EDID: SFBGS001_Loot_Corpse_VaruunSecurityF_Fresh01, REC: NPC_:FULL
 msgctxt "014A98"
 msgid "Va'ruun Security"
-msgstr ""
+msgstr "바룬 경비대원"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunSecurityF_Fresh02, REC: NPC_:FULL
 msgctxt "014A99"
 msgid "Va'ruun Security"
-msgstr ""
+msgstr "바룬 경비대원"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunSecurityM_Dusty, REC: NPC_:FULL
 msgctxt "014A9A"
 msgid "Va'ruun Security"
-msgstr ""
+msgstr "바룬 경비대원"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunSecurityM_Fresh01, REC: NPC_:FULL
 msgctxt "014A9B"
 msgid "Va'ruun Security"
-msgstr ""
+msgstr "바룬 경비대원"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunPilgrimF_Dusty, REC: NPC_:FULL
 msgctxt "014A9C"
 msgid "Va'ruun Pilgrim"
-msgstr ""
+msgstr "바룬 순례자"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunSecurityF_Dusty, REC: NPC_:FULL
 msgctxt "014A9D"
 msgid "Va'ruun Security"
-msgstr ""
+msgstr "바룬 경비대원"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunPilgrimM_Fresh02, REC: NPC_:FULL
 msgctxt "014A9E"
 msgid "Va'ruun Pilgrim"
-msgstr ""
+msgstr "바룬 순례자"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunCitizenF_Dusty, REC: NPC_:FULL
 msgctxt "014A9F"
 msgid "Va'ruun Citizen"
-msgstr ""
+msgstr "바룬 시민"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunCitizenF_Fresh01, REC: NPC_:FULL
 msgctxt "014AA0"
 msgid "Va'ruun Citizen"
-msgstr ""
+msgstr "바룬 시민"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunCitizenF_Fresh02, REC: NPC_:FULL
 msgctxt "014AA1"
 msgid "Va'ruun Citizen"
-msgstr ""
+msgstr "바룬 시민"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunCitizenM_Dusty, REC: NPC_:FULL
 msgctxt "014AA2"
 msgid "Va'ruun Citizen"
-msgstr ""
+msgstr "바룬 시민"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunCitizenM_Fresh01, REC: NPC_:FULL
 msgctxt "014AA3"
 msgid "Va'ruun Citizen"
-msgstr ""
+msgstr "바룬 시민"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunCitizenM_Fresh02, REC: NPC_:FULL
 msgctxt "014AA4"
 msgid "Va'ruun Citizen"
-msgstr ""
+msgstr "바룬 시민"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunSecurityM_Fresh02, REC: NPC_:FULL
 msgctxt "014AA5"
 msgid "Va'ruun Security"
-msgstr ""
+msgstr "바룬 경비대원"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunPilgrimF_Fresh01, REC: NPC_:FULL
 msgctxt "014AA6"
 msgid "Va'ruun Pilgrim"
-msgstr ""
+msgstr "바룬 순례자"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunPilgrimF_Fresh02, REC: NPC_:FULL
 msgctxt "014AA7"
 msgid "Va'ruun Pilgrim"
-msgstr ""
+msgstr "바룬 순례자"
 
 # EDID: SFBGS001_Loot_Corpse_VaruunPilgrimM_Dusty, REC: NPC_:FULL
 msgctxt "014AA8"
 msgid "Va'ruun Pilgrim"
-msgstr ""
+msgstr "바룬 순례자"
 
 # EDID: SFBGS001_MacKitChair_01_Free, REC: FURN:FULL
 msgctxt "014AA9"
 msgid "Chair"
-msgstr ""
+msgstr "의자"
 
 # EDID: SFBGS001_NA_LobbyU_ChunskInt_Clutter_ChairA_01_Free, REC: FURN:FULL
 msgctxt "014AAA"
 msgid "Chair"
-msgstr ""
+msgstr "의자"
 
 # EDID: SFBGS001_NA_LobbyU_ChunskInt_Clutter_ChairA_01_NoDesk, REC: FURN:FULL
 msgctxt "014AAB"
 msgid "Chair"
-msgstr ""
+msgstr "의자"
 
 # EDID: SFBGS001_MacKitChair_01_Desk, REC: FURN:FULL
 msgctxt "014AAC"
 msgid "Chair"
-msgstr ""
+msgstr "의자"
 
 # EDID: SFBGS001_Locker01Doors, REC: DOOR:FULL
 msgctxt "014AAD"
@@ -16981,7 +16991,7 @@ msgstr ""
 # EDID: SFBGS001_Spacesuit_Varuun_02_Armored, REC: ARMO:FULL
 msgctxt "014AB4"
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 # EDID: SFBGS001_Spacesuit_Varuun_02_Armored, REC: ARMO:FULL
 msgctxt "014AB5"
@@ -16991,17 +17001,17 @@ msgstr ""
 # EDID: SFBGS001_LC21_Groat_Male_Stewball, REC: NPC_:FULL
 msgctxt "014AB6"
 msgid "Stewball"
-msgstr ""
+msgstr "스튜볼"
 
 # EDID: SFBGS001_LC21_Groat_Male_Arvak, REC: NPC_:FULL
 msgctxt "014AB7"
 msgid "Arvak"
-msgstr ""
+msgstr "아바크"
 
 # EDID: SFBGS001_LC21_groat_Female_Mirza, REC: NPC_:FULL
 msgctxt "014AB8"
 msgid "Mirza"
-msgstr ""
+msgstr "미르자"
 
 # EDID: SFBGS001_LC21_Groat_Female_Connemara, REC: NPC_:FULL
 msgctxt "014AB9"
@@ -17016,12 +17026,12 @@ msgstr ""
 # EDID: SFBGS001_VortexGrenadeSummon, REC: EXPL:FULL
 msgctxt "014ABD"
 msgid "Vortex Grenade Explosion"
-msgstr ""
+msgstr "볼텍스 수류탄 폭발물"
 
 # EDID: SFBGS001_VortexGrenadeSummonBurst, REC: EXPL:FULL
 msgctxt "014ABE"
 msgid "Vortex Grenade SummonBurst"
-msgstr ""
+msgstr "볼텍스 수류탄 소환 파열 효과"
 
 # EDID: SFBGS001_Clothes_Varuun_Administrator_Dulkehf, REC: ARMO:FULL
 msgctxt "014ABF"
@@ -17031,7 +17041,7 @@ msgstr ""
 # EDID: SFBGS001_NPC_MQ05_Phantom_Maleen_Perk, REC: PERK:FULL
 msgctxt "014AC0"
 msgid "Varuun Redeemed Perk"
-msgstr ""
+msgstr "바룬 리딤드 특성"
 
 # EDID: SFBGS001LC15_MiniBot_Kalyn, REC: NPC_:FULL
 msgctxt "014AC1"
@@ -17056,7 +17066,7 @@ msgstr ""
 # EDID: SFBGS001LC01_LoadDoor02_DisplayName, REC: MESG:FULL
 msgctxt "014AC8"
 msgid "The Oracle Docking Bay"
-msgstr ""
+msgstr "오라클 도킹 출입구"
 
 # EDID: SFBGS001LC01_LoadDoor01_DisplayName, REC: MESG:FULL
 msgctxt "014AC9"
@@ -17081,22 +17091,22 @@ msgstr ""
 # EDID: SFBGS001_MQ02_CouncilReport_Commerce, REC: BOOK:ENAM
 msgctxt "014AD2"
 msgid "Status Report: Ministry of Commerce"
-msgstr ""
+msgstr "현황 보고서: 상무부"
 
 # EDID: SFBGS001_MQ02_CouncilReport_Commerce, REC: BOOK:FULL
 msgctxt "014AD4"
 msgid "Report: Ministry of Commerce"
-msgstr ""
+msgstr "보고서: 상무부"
 
 # EDID: SFBGS001_MQ02_CouncilReport_Incident, REC: BOOK:ENAM
 msgctxt "014AD5"
 msgid "Status Report: Ministry of Commerce"
-msgstr ""
+msgstr "현황 보고서: 상무부"
 
 # EDID: SFBGS001_MQ02_CouncilReport_Incident, REC: BOOK:FULL
 msgctxt "014AD7"
 msgid "Report: Post Incident Status"
-msgstr ""
+msgstr "보고서: 사건 이후 상황"
 
 # EDID: SFBGS001_DazraChunksSlate_NoticeOfClosure, REC: BOOK:FNAM
 msgctxt "014AD8"
@@ -17106,7 +17116,7 @@ msgstr ""
 # EDID: SFBGS001_DazraChunksSlate_NoticeOfClosure, REC: BOOK:ENAM
 msgctxt "014AD9"
 msgid "September 22, 2239"
-msgstr ""
+msgstr "2239년 9월 22일"
 
 # EDID: SFBGS001_DazraChunksSlate_NoticeOfClosure, REC: BOOK:FULL
 msgctxt "014ADB"
@@ -17116,22 +17126,22 @@ msgstr ""
 # EDID: SFBGS001_MQ02_CouncilReport_State, REC: BOOK:ENAM
 msgctxt "014ADC"
 msgid "Status Report: Ministry of State"
-msgstr ""
+msgstr "현황 보고서: 국무부"
 
 # EDID: SFBGS001_MQ02_CouncilReport_State, REC: BOOK:FULL
 msgctxt "014ADE"
 msgid "Report: Ministry of State"
-msgstr ""
+msgstr "보고서: 국무부"
 
 # EDID: SFBGS001_MQ02_CouncilReport_Conjunction, REC: BOOK:ENAM
 msgctxt "014ADF"
 msgid "Status Report: Ministry of Conjunction"
-msgstr ""
+msgstr "현황 보고서: 결합부"
 
 # EDID: SFBGS001_MQ02_CouncilReport_Conjunction, REC: BOOK:FULL
 msgctxt "014AE1"
 msgid "Report: Ministry of Conjunction"
-msgstr ""
+msgstr "보고서: 결합부"
 
 # EDID: SFBGS001_DazraZ01, REC: QUST:NNAM
 msgctxt "014AE4"
@@ -17141,27 +17151,27 @@ msgstr ""
 # EDID: SFBGS001_LC01_Loot_Corpse_Ibora, REC: NPC_:FULL
 msgctxt "014AE8"
 msgid "Oracle Engineer"
-msgstr ""
+msgstr "오라클 엔지니어"
 
 # EDID: SFBGS001_MQ02_RitualItem01b, REC: MISC:FULL
 msgctxt "014AE9"
 msgid "Effigy of Devotion"
-msgstr ""
+msgstr "헌신의 성상"
 
 # EDID: SFBGS001_MQ02_RitualItem04b, REC: MISC:FULL
 msgctxt "014AEA"
 msgid "Effigy of Perseverance"
-msgstr ""
+msgstr "인내의 성상"
 
 # EDID: SFBGS001_MQ02_RitualItem02b, REC: MISC:FULL
 msgctxt "014AEB"
 msgid "Effigy of Obedience"
-msgstr ""
+msgstr "복종의 성상"
 
 # EDID: SFBGS001_MQ02_RitualItem03b, REC: MISC:FULL
 msgctxt "014AEC"
 msgid "Effigy of Strength"
-msgstr ""
+msgstr "위력의 성상"
 
 # EDID: SFBGS001_DazraZ01_FarmerSlate, REC: BOOK:FULL
 msgctxt "014AEE"
@@ -17216,7 +17226,7 @@ msgstr ""
 # EDID: SFBGS001_DazraChunksSlate_PromotionalIdeas, REC: BOOK:ENAM
 msgctxt "014AFC"
 msgid "August 22, 2239"
-msgstr ""
+msgstr "2239년 8월 22일"
 
 # EDID: SFBGS001_DazraChunksSlate_PromotionalIdeas, REC: BOOK:FULL
 msgctxt "014AFE"
@@ -17241,7 +17251,7 @@ msgstr ""
 # EDID: SFBGS001_VortexGrenadeAnchor, REC: EXPL:FULL
 msgctxt "014B04"
 msgid "Vortex Grenade Explosion - Anchor"
-msgstr ""
+msgstr "볼텍스 수류탄 폭발물 - 고정"
 
 # EDID: SFBGS001_VkaiZ01_MessageRedemption, REC: MESG:FULL
 msgctxt "014B05"
@@ -17281,32 +17291,32 @@ msgstr ""
 # EDID: SFBGS001_JinanVaruun_Slate_Speech06, REC: BOOK:FULL
 msgctxt "014B0F"
 msgid "Jinan Va'ruun - An Admission"
-msgstr ""
+msgstr "지난 바룬 - 입교에 대하여"
 
 # EDID: SFBGS001_JinanVaruun_Slate_Speech01, REC: BOOK:FULL
 msgctxt "014B10"
 msgid "Jinan Va'ruun - From the Scriptures"
-msgstr ""
+msgstr "지난 바룬 - 경전에서 얻는 것에 대하여"
 
 # EDID: SFBGS001_JinanVaruun_Slate_Speech03, REC: BOOK:FULL
 msgctxt "014B11"
 msgid "Jinan Va'ruun - All Must Serve"
-msgstr ""
+msgstr "지난 바룬 - 모두가 섬겨야 한다"
 
 # EDID: SFBGS001_JinanVaruun_Slate_Speech02, REC: BOOK:FULL
 msgctxt "014B12"
 msgid "Jinan Va'ruun - I See You"
-msgstr ""
+msgstr "지난 바룬 - 그대를 지켜보고 있노라"
 
 # EDID: SFBGS001_JinanVaruun_Slate_Speech07, REC: BOOK:FULL
 msgctxt "014B13"
 msgid "Jinan Va'ruun - A Dedication"
-msgstr ""
+msgstr "지난 바룬 - 헌신에 대하여"
 
 # EDID: SFBGS001_JinanVaruun_Slate_Speech08, REC: BOOK:FULL
 msgctxt "014B14"
 msgid "Jinan Va'ruun - Serpent's Crusade"
-msgstr ""
+msgstr "지난 바룬 - 뱀의 성전"
 
 # EDID: SFBGS001_Z01Temple_Redemption_spell, REC: SPEL:FULL
 msgctxt "014B16"
@@ -17391,12 +17401,12 @@ msgstr "VortexHorror_Ranged"
 # EDID: SFBGS001_GenericPilgrim_Shrine_Female05, REC: NPC_:FULL
 msgctxt "014B2E"
 msgid "Penitent Citizen"
-msgstr ""
+msgstr "회개하는 시민"
 
 # EDID: SFBGS001_GenericPilgrim_Shrine_Male05, REC: NPC_:FULL
 msgctxt "014B2F"
 msgid "Penitent Citizen"
-msgstr ""
+msgstr "회개하는 시민"
 
 # EDID: SFBGS001_Crater_Note01, REC: BOOK:FULL
 msgctxt "014B31"
@@ -17472,7 +17482,7 @@ msgstr ""
 # EDID: SFBGS001_VortexGrenadePhase, REC: EXPL:FULL
 msgctxt "014B4A"
 msgid "Vortex Grenade Explosion"
-msgstr ""
+msgstr "볼텍스 수류탄 폭발물"
 
 # EDID: SFBGS001LC05_TeleKey_Desktop, REC: TMLM:UNAM
 msgctxt "014B4B"
@@ -17744,17 +17754,17 @@ msgstr ""
 # EDID: SFBGS001_MalikGroatFarmTerminalMenu, REC: TMLM:ITXT
 msgctxt "014B8C"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_MalikGroatFarmTerminalMenu, REC: TMLM:ITXT
 msgctxt "014B8D"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_MalikGroatFarmTerminalMenu, REC: TMLM:FULL
 msgctxt "014B8E"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_MalikGroatFarmTerminal_Documents, REC: TMLM:UNAM
 msgctxt "014B8F"
@@ -17807,7 +17817,7 @@ msgstr ""
 # EDID: SFBGS001_MalikGroatFarm_Terminal, REC: TERM:FULL
 msgctxt "014B97"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_AHPOI10_Note_Climbing06, REC: BOOK:FNAM
 msgctxt "014B98"
@@ -17913,12 +17923,12 @@ msgstr ""
 # EDID: SFBGS001_MQ05_InfoTerminal01COPY0000, REC: TERM:FULL
 msgctxt "014BB5"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_MQ05_ExteriorTerminal, REC: TERM:FULL
 msgctxt "014BB6"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_LC15Slate_Farmer01, REC: BOOK:FULL
 msgctxt "014BB8"
@@ -17938,7 +17948,7 @@ msgstr ""
 # EDID: SFBGS001_Spacesuit_Varuun_02_Zealot_Armored, REC: ARMO:FULL
 msgctxt "014BBE"
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 # EDID: SFBGS001_Spacesuit_Varuun_02_Zealot_Armored, REC: ARMO:FULL
 msgctxt "014BBF"
@@ -17948,7 +17958,7 @@ msgstr ""
 # EDID: SFBGS001_SpaceSuit_Varuun_Backpack_02_Zealot, REC: ARMO:FULL
 msgctxt "014BC0"
 msgid "Entry"
-msgstr ""
+msgstr "엔트리"
 
 # EDID: SFBGS001_SpaceSuit_Varuun_Backpack_02_Zealot, REC: ARMO:FULL
 msgctxt "014BC1"
@@ -17963,7 +17973,7 @@ msgstr ""
 # EDID: SFBGS001_MQ06, REC: QUST:NNAM
 msgctxt "014BC3"
 msgid "Overload the Vortex Gate"
-msgstr ""
+msgstr "볼텍스 차원문 과부하시키기"
 
 # EDID: SFBGS001_MQ04_ViktorDesktop, REC: TMLM:ITXT
 msgctxt "014BC4"
@@ -18676,27 +18686,27 @@ msgstr ""
 # EDID: SFBGS001_WNPC_Pilgrims_LC26_24, REC: QUST:FULL
 msgctxt "014C43"
 msgid "Dazra: Wandering NPC Pilgrims LC26-24"
-msgstr ""
+msgstr "Dazra: Wandering NPC Pilgrims LC26-24"
 
 # EDID: SFBGS001_WNPC_Pilgrims_LC25_23, REC: QUST:FULL
 msgctxt "014C44"
 msgid "Dazra: Wandering NPC Pilgrims LC25-23"
-msgstr ""
+msgstr "Dazra: Wandering NPC Pilgrims LC25-23"
 
 # EDID: SFBGS001_WNPC_Pilgrims_LC22_24, REC: QUST:FULL
 msgctxt "014C45"
 msgid "Dazra: Wandering NPC Pilgrims LC22-24"
-msgstr ""
+msgstr "Dazra: Wandering NPC Pilgrims LC22-24"
 
 # EDID: SFBGS001_WNPC_Pilgrims_LC24_25, REC: QUST:FULL
 msgctxt "014C46"
 msgid "Dazra: Wandering NPC Pilgrims LC24-25"
-msgstr ""
+msgstr "Dazra: Wandering NPC Pilgrims LC24-25"
 
 # EDID: SFBGS001_WNPC_Pilgrims_LC23_26, REC: QUST:FULL
 msgctxt "014C47"
 msgid "Dazra: Wandering NPC Pilgrims LC23-26"
-msgstr ""
+msgstr "Dazra: Wandering NPC Pilgrims LC23-26"
 
 # EDID: SFBGS001_LC48Slate_Lootlist_quest, REC: BOOK:FULL
 msgctxt "014C49"
@@ -18827,7 +18837,7 @@ msgstr ""
 # EDID: SFBGS001_Spacesuit_Varuun_02_Zealot, REC: ARMO:FULL
 msgctxt "014C6E"
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 # EDID: SFBGS001_Spacesuit_Varuun_02_Zealot, REC: ARMO:FULL
 msgctxt "014C6F"
@@ -19406,7 +19416,7 @@ msgstr "Dazra: Wandering NPC Varuuun Military WNPC1_2_3"
 # EDID: SFBGS001LC05_CapDoor_Computer, REC: TERM:FULL
 msgctxt "014CD0"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_Clothes_Varuun_Administrator_Variant_01, REC: ARMO:FULL
 msgctxt "014CD1"
@@ -19416,52 +19426,52 @@ msgstr ""
 # EDID: SFBGS001_Spacesuit_Varuun_01_Zealot, REC: ARMO:FULL
 msgctxt "014CD2"
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 # EDID: SFBGS001_Spacesuit_Varuun_01_Zealot, REC: ARMO:FULL
 msgctxt "014CD3"
 msgid "Zealot Spacesuit"
-msgstr ""
+msgstr "광신도 우주복"
 
 # EDID: SFBGS001_Spacesuit_Varuun_Backpack_01_Zealot, REC: ARMO:FULL
 msgctxt "014CD4"
 msgid "Entry"
-msgstr ""
+msgstr "엔트리"
 
 # EDID: SFBGS001_Spacesuit_Varuun_Backpack_01_Zealot, REC: ARMO:FULL
 msgctxt "014CD5"
 msgid "Zealot"
-msgstr ""
+msgstr "광신도"
 
 # EDID: SFBGS001_Spacesuit_Varuun_Helmet_01_Zealot, REC: ARMO:FULL
 msgctxt "014CD6"
 msgid "Zealot Helmet"
-msgstr ""
+msgstr "광신도 헬멧"
 
 # EDID: SFBGS001_Clothes_Varuun_Administrator_Vethaal_NoCape, REC: ARMO:FULL
 msgctxt "014CD7"
 msgid "House Veth'aal Suit"
-msgstr ""
+msgstr "베타알 가문 슈트"
 
 # EDID: SFBGS001_Clothes_Varuun_Administrator_Dulkehf_NoCape, REC: ARMO:FULL
 msgctxt "014CD8"
 msgid "House Dul'kehf Suit"
-msgstr ""
+msgstr "둘케프 가문 슈트"
 
 # EDID: SFBGS001_Clothes_Varuun_Administrator_Kadic_NoCape, REC: ARMO:FULL
 msgctxt "014CD9"
 msgid "House Ka'dic Suit"
-msgstr ""
+msgstr "카딕 가문 슈트"
 
 # EDID: SFBGS001_Clothes_Varuun_Administrator_Zealots_NoCape, REC: ARMO:FULL
 msgctxt "014CDA"
 msgid "Zealot Suit"
-msgstr ""
+msgstr "광신도 슈트"
 
 # EDID: SFBGS001_Clothes_Varuun_Unique_2_Zealots, REC: ARMO:FULL
 msgctxt "014CDB"
 msgid "Zealot Va'ruun Suit with Scarf"
-msgstr ""
+msgstr "스카프 달린 광신도 바룬 슈트"
 
 # EDID: SFBGS001_Clothes_Varuun_Administrator_Variant_01_NoCape, REC:
 # ARMO:FULL
@@ -19636,12 +19646,12 @@ msgstr ""
 # EDID: SFBGS001_NPCWritingAtDesk_Tech03Chair, REC: FURN:FULL
 msgctxt "014CF8"
 msgid "Chair"
-msgstr ""
+msgstr "의자"
 
 # EDID: SFBGS001_mod_VaruunOrion_Receiver_BurstFire_Standard, REC: OMOD:FULL
 msgctxt "014CF9"
 msgid "Burst Fire"
-msgstr ""
+msgstr "점사"
 
 # EDID: SFBGS001LC07ExtLocation, REC: LCTN:FULL
 msgctxt "014CFC"
@@ -19741,52 +19751,52 @@ msgstr ""
 # EDID: SFBGS001_EncVaruunRedeemed02, REC: NPC_:FULL
 msgctxt "014D13"
 msgid "Deranged Redeemed"
-msgstr ""
+msgstr "산만한 리딤드"
 
 # EDID: SFBGS001_EncVaruunRedeemed03, REC: NPC_:FULL
 msgctxt "014D14"
 msgid "Savage Redeemed"
-msgstr ""
+msgstr "무례한 리딤드"
 
 # EDID: SFBGS001_EncVaruunRedeemed04, REC: NPC_:FULL
 msgctxt "014D15"
 msgid "Vicious Redeemed"
-msgstr ""
+msgstr "사나운 리딤드"
 
 # EDID: SFBGS001_EncVaruunRedeemed05, REC: NPC_:FULL
 msgctxt "014D16"
 msgid "Frenetic Redeemed"
-msgstr ""
+msgstr "혼란의 리딤드"
 
 # EDID: SFBGS001_EncVaruunRedeemed06, REC: NPC_:FULL
 msgctxt "014D17"
 msgid "Maniacal Redeemed"
-msgstr ""
+msgstr "착란의 리딤드"
 
 # EDID: SFBGS001_EncVaruunRedeemed07, REC: NPC_:FULL
 msgctxt "014D18"
 msgid "Unhinged Redeemed"
-msgstr ""
+msgstr "광란의 리딤드"
 
 # EDID: SFBGS001_EncVaruunRedeemed08, REC: NPC_:FULL
 msgctxt "014D19"
 msgid "Merciless Redeemed"
-msgstr ""
+msgstr "무자비한 리딤드"
 
 # EDID: SFBGS001_LvlVaruunZealot_Redeemed_PowerBoost, REC: NPC_:FULL
 msgctxt "014D1A"
 msgid "Redeemed"
-msgstr ""
+msgstr "리딤드"
 
 # EDID: SFBGS001_CitadelEscapeFurniture, REC: FURN:FULL
 msgctxt "014D1B"
 msgid "ESCAPE!"
-msgstr ""
+msgstr "탈출!"
 
 # EDID: SFBGS001_Loot_Storage_Cooler_Common, REC: CONT:FULL
 msgctxt "014D1C"
 msgid "Cooler"
-msgstr ""
+msgstr "아이스박스"
 
 # EDID: SFBGS001_Loot_Storage_Miscbox02_Rare, REC: CONT:FULL
 msgctxt "014D1D"
@@ -19866,17 +19876,17 @@ msgstr ""
 # EDID: SFBGS001LC07_LvlVaruunZealot_Redeemed_Aggro, REC: NPC_:LNAM
 msgctxt "014D2C"
 msgid "Va'ruun"
-msgstr ""
+msgstr "바룬"
 
 # EDID: SFBGS001LC07_LvlVaruunZealot_Redeemed_Aggro, REC: NPC_:FULL
 msgctxt "014D2D"
 msgid "Quasim"
-msgstr ""
+msgstr "콰심"
 
 # EDID: SFBGS001_LvlVaruunZealot_Redeemed_Aggro, REC: NPC_:FULL
 msgctxt "014D2E"
 msgid "Redeemed"
-msgstr ""
+msgstr "리딤드"
 
 # EDID: SFBGS001_HouseKadicStorageKey, REC: KEYM:FULL
 msgctxt "014D2F"
@@ -19886,17 +19896,17 @@ msgstr ""
 # EDID: SFBGS001_LvlTurret_Varuun, REC: NPC_:LNAM
 msgctxt "014D30"
 msgid "Turrets"
-msgstr ""
+msgstr "포탑"
 
 # EDID: SFBGS001_LvlTurret_Varuun, REC: NPC_:SHRT
 msgctxt "014D31"
 msgid "Turret"
-msgstr ""
+msgstr "포탑"
 
 # EDID: SFBGS001_LvlTurret_Varuun, REC: NPC_:FULL
 msgctxt "014D32"
 msgid "Turret Mk I"
-msgstr ""
+msgstr "포탑 마크 I"
 
 # EDID: SFBGS001_mod_CCT_Temperament_Predator_NoWarn, REC: OMOD:FULL
 msgctxt "014D34"
@@ -19911,72 +19921,72 @@ msgstr ""
 # EDID: SFBGS001_LvlVaruun_BECrew_Crew, REC: NPC_:LNAM
 msgctxt "014D37"
 msgid "Va'ruun"
-msgstr ""
+msgstr "바룬"
 
 # EDID: SFBGS001_LvlVaruun_BECrew_Crew, REC: NPC_:FULL
 msgctxt "014D38"
 msgid "Va'ruun Crew"
-msgstr ""
+msgstr "바룬 승무원"
 
 # EDID: SFBGS001_LvlVaruun_BECrew_Assault, REC: NPC_:LNAM
 msgctxt "014D39"
 msgid "Va'ruun"
-msgstr ""
+msgstr "바룬"
 
 # EDID: SFBGS001_LvlVaruun_BECrew_Assault, REC: NPC_:FULL
 msgctxt "014D3A"
 msgid "Va'ruun Crew"
-msgstr ""
+msgstr "바룬 승무원"
 
 # EDID: SFBGS001_LvlVaruun_BECrew_Charger, REC: NPC_:LNAM
 msgctxt "014D3B"
 msgid "Va'ruun"
-msgstr ""
+msgstr "바룬"
 
 # EDID: SFBGS001_LvlVaruun_BECrew_Charger, REC: NPC_:FULL
 msgctxt "014D3C"
 msgid "Va'ruun Crew"
-msgstr ""
+msgstr "바룬 승무원"
 
 # EDID: SFBGS001_LvlVaruun_BECrew_Heavy, REC: NPC_:LNAM
 msgctxt "014D3D"
 msgid "Va'ruun"
-msgstr ""
+msgstr "바룬"
 
 # EDID: SFBGS001_LvlVaruun_BECrew_Heavy, REC: NPC_:FULL
 msgctxt "014D3E"
 msgid "Va'ruun Crew"
-msgstr ""
+msgstr "바룬 승무원"
 
 # EDID: SFBGS001_LvlVaruun_BECrew_Sniper, REC: NPC_:LNAM
 msgctxt "014D3F"
 msgid "Va'ruun"
-msgstr ""
+msgstr "바룬"
 
 # EDID: SFBGS001_LvlVaruun_BECrew_Sniper, REC: NPC_:FULL
 msgctxt "014D40"
 msgid "Va'ruun Crew"
-msgstr ""
+msgstr "바룬 승무원"
 
 # EDID: SFBGS001_LvlVaruun_BECrew_Captain, REC: NPC_:FULL
 msgctxt "014D41"
 msgid "Va'ruun Captain"
-msgstr ""
+msgstr "바룬 선장"
 
 # EDID: SFBGS001_LvlVaruunRobotModelA_BECrew, REC: NPC_:FULL
 msgctxt "014D42"
 msgid "Va'ruun Model A"
-msgstr ""
+msgstr "바룬 모델 A"
 
 # EDID: SFBGS001_DefaultBlankComputer_Standing, REC: TERM:FULL
 msgctxt "014D43"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_DefaultBlankComputer, REC: TERM:FULL
 msgctxt "014D44"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 # EDID: SFBGS001_MS01_Computer, REC: TERM:FULL
 msgctxt "014D45"
@@ -20379,7 +20389,7 @@ msgstr ""
 # EDID: SFBGS001_Spacesuit_Redeemed_Dark, REC: ARMO:FULL
 msgctxt "014DA3"
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 # EDID: SFBGS001_Spacesuit_Redeemed_Dark, REC: ARMO:FULL
 msgctxt "014DA4"
@@ -20389,7 +20399,7 @@ msgstr ""
 # EDID: SFBGS001_Spacesuit_Redeemed_light, REC: ARMO:FULL
 msgctxt "014DA5"
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 # EDID: SFBGS001_Spacesuit_Redeemed_light, REC: ARMO:FULL
 msgctxt "014DA6"
@@ -20399,7 +20409,7 @@ msgstr ""
 # EDID: SFBGS001_Spacesuit_Redeemed_Pale, REC: ARMO:FULL
 msgctxt "014DA7"
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 # EDID: SFBGS001_Spacesuit_Redeemed_Pale, REC: ARMO:FULL
 msgctxt "014DA8"
@@ -20424,7 +20434,7 @@ msgstr ""
 # EDID: SFBGS001_Vortex_PainBlade, REC: WEAP:FULL
 msgctxt "014DAD"
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 # EDID: SFBGS001_Vortex_PainBlade, REC: WEAP:FULL
 msgctxt "014DAE"
@@ -20504,7 +20514,7 @@ msgstr ""
 # EDID: SFBGS001DazraCityPerfCuts, REC: CELL:FULL
 msgctxt "014DBD"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 # EDID: SFBGS001AnchoredAnimMultEffect, REC: MGEF:FULL
 msgctxt "014DBE"
@@ -20569,12 +20579,12 @@ msgstr "훈제소"
 # EDID: SFBGS001_mod_ParticleMachinegun_ParticleWeapons, REC: OMOD:FULL
 msgctxt "014DCA"
 msgid "Default Particle Weapon Effects"
-msgstr ""
+msgstr "기본 입자 무기 효과"
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_ParticleWeapons, REC: OMOD:FULL
 msgctxt "014DCB"
 msgid "Default Particle Weapon Effects"
-msgstr ""
+msgstr "기본 입자 무기 효과"
 
 # EDID: SFBGS001_MS03, REC: QUST:NNAM
 msgctxt "014DCC"
@@ -20584,12 +20594,12 @@ msgstr ""
 # EDID: SFBGS001_SE_Player_MQ03_MihaelShip, REC: GBFM:FULL
 msgctxt "014DCD"
 msgid "Evening Star"
-msgstr ""
+msgstr "이브닝 스타"
 
 # EDID: SFBGS001_DazraCityInteriorDoorOverrideText, REC: MESG:FULL
 msgctxt "014DCE"
 msgid "Dazra"
-msgstr ""
+msgstr "다즈라"
 
 # EDID: SFBGS001_DazraZ01_Groat01, REC: NPC_:FULL
 msgctxt "014DCF"
@@ -20679,7 +20689,7 @@ msgstr ""
 # EDID: CityMapMarkers_MourningDevice, REC: REFR:FULL
 msgctxt "014DE9"
 msgid "Mourning Device"
-msgstr "모어닝 디바이스"
+msgstr ""
 
 # EDID: SFBGS001_mod_RedeemedBlade_Blade_HighCarbonSteel, REC: OMOD:FULL
 msgctxt "014DEE"
@@ -20739,22 +20749,22 @@ msgstr ""
 # EDID: SFBGS001LC06_AmbientExplosionVortexEnergy, REC: EXPL:FULL
 msgctxt "014E07"
 msgid "Particle Fuse Explosion"
-msgstr ""
+msgstr "입자 퓨즈 폭발"
 
 # EDID: SFBGS001LC06_AmbientExplosionVortexSmoke, REC: EXPL:FULL
 msgctxt "014E08"
 msgid "Particle Fuse Explosion"
-msgstr ""
+msgstr "입자 퓨즈 폭발"
 
 # EDID: SFBGS001LC06_AmbientExplosionVortexEnergyFlow_01, REC: EXPL:FULL
 msgctxt "014E09"
 msgid "Particle Fuse Explosion"
-msgstr ""
+msgstr "입자 퓨즈 폭발"
 
 # EDID: SFBGS001LC06_AmbientExplosionVortexEnergyFlow_02, REC: EXPL:FULL
 msgctxt "014E0A"
 msgid "Particle Fuse Explosion"
-msgstr ""
+msgstr "입자 퓨즈 폭발"
 
 # EDID: SFBGS001_VortexEscapeExplosion_01, REC: ACTI:FULL
 msgctxt "014E0B"
@@ -20851,7 +20861,7 @@ msgstr "보관함"
 # EDID: SFBGS001_Clothes_Varuun_Unique_2_Zealots_NoScarf, REC: ARMO:FULL
 msgctxt "014E20"
 msgid "Zealot Va'ruun Suit"
-msgstr ""
+msgstr "광신도 바룬 슈트"
 
 # EDID: SFBGS001_Clothes_Varuun_Unique_2_NoScarf, REC: ARMO:FULL
 msgctxt "014E21"
@@ -21019,68 +21029,68 @@ msgstr ""
 # REC: GMST:DATA
 msgctxt "014E3F"
 msgid "VehiclePassengerHorizontalCollision"
-msgstr ""
+msgstr "VehiclePassengerHorizontalCollision"
 
 # EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEnterVehicle, REC:
 # GMST:DATA
 msgctxt "014E40"
 msgid "VehiclePassengerEnterVehicle"
-msgstr ""
+msgstr "VehiclePassengerEnterVehicle"
 
 # EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEngageBoost, REC:
 # GMST:DATA
 msgctxt "014E41"
 msgid "VehiclePassengerEngageBoost"
-msgstr ""
+msgstr "VehiclePassengerEngageBoost"
 
 # EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerVerticalCollision, REC:
 # GMST:DATA
 msgctxt "014E42"
 msgid "VehiclePassengerVerticalCollision"
-msgstr ""
+msgstr "VehiclePassengerVerticalCollision"
 
 # EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerEnterWater, REC:
 # GMST:DATA
 msgctxt "014E43"
 msgid "VehiclePassengerEnterWater"
-msgstr ""
+msgstr "VehiclePassengerEnterWater"
 
 # EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerNonMovingIdle, REC:
 # GMST:DATA
 msgctxt "014E44"
 msgid "VehiclePassengerNonMovingIdle"
-msgstr ""
+msgstr "VehiclePassengerNonMovingIdle"
 
 # EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerTriggerMine, REC:
 # GMST:DATA
 msgctxt "014E45"
 msgid "VehiclePassengerTriggerMine"
-msgstr ""
+msgstr "VehiclePassengerTriggerMine"
 
 # EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerAimMountedWeapon, REC:
 # GMST:DATA
 msgctxt "014E46"
 msgid "VehiclePassengerAimMountedWeapon"
-msgstr ""
+msgstr "VehiclePassengerAimMountedWeapon"
 
 # EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerKillWithCollision, REC:
 # GMST:DATA
 msgctxt "014E47"
 msgid "VehiclePassengerKillWithCollision"
-msgstr ""
+msgstr "VehiclePassengerKillWithCollision"
 
 # EDID: sTopicSubtypeTextMiscellaneousVehiclePassengerKillWithWeapon, REC:
 # GMST:DATA
 msgctxt "014E48"
 msgid "VehiclePassengerKillWithWeapon"
-msgstr ""
+msgstr "VehiclePassengerKillWithWeapon"
 
 # EDID: SFBGS001_NPC_VaruunRedeemed_Perk, REC: PERK:FULL
 msgctxt "03380B"
 msgid "Varuun Redeemed Perk"
-msgstr ""
+msgstr "바룬 리딤드 특성"
 
 # EDID: SFBGS001_MourningDevice_NPCChairTech03_Console, REC: FURN:FULL
 msgctxt "033C59"
 msgid "Chair"
-msgstr ""
+msgstr "의자"

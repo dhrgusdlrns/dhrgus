@@ -1390,7 +1390,7 @@ msgstr "은신 공격 피해 증가."
 # COBJ:DESC
 msgctxt "00243D"
 msgid "Ignores percentage of enemy armor."
-msgstr ""
+msgstr "대상의 방어력을 일정 비율만큼 무시."
 
 # EDID: SFBGS001_LC18_Wine01_Malsiir, REC: ALCH:DESC
 msgctxt "0025D1"

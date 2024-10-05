@@ -6185,7 +6185,7 @@ msgstr "방사능 피해 추가."
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Blade_Venomous, REC: COBJ:DESC
 msgctxt "014DFA"
 msgid "Adds Poison Damage."
-msgstr ""
+msgstr "독 피해 추가."
 
 # EDID: SFBGS001_DazraPlayerHouseQuest, REC: QUST:CNAM
 msgctxt "014E02"

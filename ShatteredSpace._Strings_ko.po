@@ -6154,33 +6154,33 @@ msgstr "부식 피해 추가."
 # COBJ:DESC
 msgctxt "014DF4"
 msgid "Increased damage."
-msgstr ""
+msgstr "피해 증가."
 
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Handle_Ergonomic, REC: COBJ:DESC
 msgctxt "014DF5"
 msgid "Increases Critical Damage, Lowers Attack Speed."
-msgstr ""
+msgstr "치명타 피해 증가, 공격 속도 느려짐."
 
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Handle_ExperimentalAlloy, REC:
 # COBJ:DESC
 msgctxt "014DF6"
 msgid "Ignores percentage of enemy armor."
-msgstr ""
+msgstr "대상의 방어력을 일정 비율만큼 무시."
 
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Handle_Alloy, REC: COBJ:DESC
 msgctxt "014DF7"
 msgid "Raises Attack Speed, Lowers Damage."
-msgstr ""
+msgstr "공격 속도 빨라짐, 피해 감소."
 
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Handle_Weighted, REC: COBJ:DESC
 msgctxt "014DF8"
 msgid "Raises Damage, Lowers Attack Speed."
-msgstr ""
+msgstr "피해 증가, 공격 속도 느려짐."
 
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Blade_Irradiated, REC: COBJ:DESC
 msgctxt "014DF9"
 msgid "Adds radiation damage."
-msgstr ""
+msgstr "방사능 피해 추가."
 
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Blade_Venomous, REC: COBJ:DESC
 msgctxt "014DFA"

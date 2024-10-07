@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2024-10-05 15:21+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2024-10-09 14:43+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -2331,7 +2331,7 @@ msgid "$Film Grain"
 msgstr "필름 그레인 강도"
 
 msgid "$Film Grain Desc"
-msgstr "필름 그레인 효과(입상성 효과)의 강도를 설정합니다."
+msgstr "필름 그레인 효과의 강도를 설정합니다."
 
 msgid "$Filter"
 msgstr "필터"
@@ -3399,7 +3399,7 @@ msgid "$Light Fade"
 msgstr "광원 가시거리"
 
 msgid "$Like"
-msgstr "즐겨 찾기"
+msgstr "즐겨찾기"
 
 msgid "$Likes"
 msgstr "좋아요:"
@@ -3870,7 +3870,7 @@ msgid "$MapMarkerGenericTypeShip"
 msgstr "함선"
 
 msgid "$MapMarkerGenericTypeSpaceLandmark"
-msgstr "이상 현상"
+msgstr "이상현상"
 
 msgid "$MapMarkerGenericTypeStation"
 msgstr "우주정거장"
@@ -4149,16 +4149,16 @@ msgid "$MostFavorited"
 msgstr "최고 선호"
 
 msgid "$MostFavoritedAllTime"
-msgstr "최고 즐겨 찾기 - 전체 기간"
+msgstr "최고 즐겨찾기 - 전체 기간"
 
 msgid "$MostFavoritedThisMonth"
-msgstr "최고 즐겨 찾기 - 이번 달"
+msgstr "최고 즐겨찾기 - 이번 달"
 
 msgid "$MostLikedThisWeek"
-msgstr "최고 즐겨 찾기 - 이번 주"
+msgstr "최고 즐겨찾기 - 이번 주"
 
 msgid "$MostFavoritedToday"
-msgstr "최고 즐겨 찾기 - 오늘"
+msgstr "최고 즐겨찾기 - 오늘"
 
 msgid "$MostPopularAllTime"
 msgstr "최고 인기 - 모든 시간"
@@ -4782,7 +4782,7 @@ msgid "$PlayerSetMarkerName"
 msgstr "사용자 지정 위치"
 
 msgid "$PlayerSetMarkerReplaceRemove"
-msgstr "사용자 지정 위치를 제거하거나 교체하시겠습니까?"
+msgstr "사용자 지정 위치를 교체하거나 제거하시겠습니까?"
 
 msgid "$PLOT"
 msgstr "목적지 추가"
@@ -8016,7 +8016,7 @@ msgid "$UnlinkAccount"
 msgstr "Bethesda.net 계정 연결 해제"
 
 msgid "$Unlike"
-msgstr "즐겨 찾기 해제"
+msgstr "즐겨찾기 해제"
 
 msgid "$UNLOAD"
 msgstr "내리기"
@@ -8208,13 +8208,13 @@ msgid "$Vehicle_ControlStickSwap_Desc"
 msgstr "차량의 조향 방향을 반전시킵니다."
 
 msgid "$Vehicle_Gamepad_ControlMode"
-msgstr "차량 조종"
+msgstr "차량 조종 (컨트롤러)"
 
 msgid "$Vehicle_Gamepad_ControlMode_Desc"
 msgstr "컨트롤러를 사용할 때 차량의 조종 방식을 변경합니다.\n\n탄력적 방식: 카메라가 바라보는 방향이 차량의 전진 방향이 되며, 입력하는 방향키에 따라 전후좌우 이동이 됩니다.\n\n기존 방식: 카메라가 바라보는 방향을 따라 차량 조향이 이뤄지며, 전진키와 후진키로 전진과 후진을 조종합니다.\n\n참고: 이 차량 조종 설정은 3인칭에서만 적용됩니다."
 
 msgid "$Vehicle_MKB_ControlMode"
-msgstr "차량 마우스/키보드 조종"
+msgstr "차량 조종 (키보드/마우스)"
 
 msgid "$Vehicle_MKB_ControlMode_Desc"
 msgstr "마우스와 키보드를 사용할 때 차량의 조종 방식을 변경합니다.\n\n탄력적 방식: 카메라가 바라보는 방향이 차량의 전진 방향이 되며, 입력하는 방향키에 따라 전후좌우 이동이 됩니다.\n\n기존 방식: 카메라가 바라보는 방향을 따라 차량 조향이 이뤄지며, 전진키와 후진키로 전진과 후진을 조종합니다.\n\n참고: 이 차량 조종 설정은 3인칭에서만 적용됩니다."

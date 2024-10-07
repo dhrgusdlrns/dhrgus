@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2024-10-06 14:34+0000\n"
+"PO-Revision-Date: 2024-10-11 23:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -516,7 +516,7 @@ msgstr ""
 "또 길고 긴 한 주가 끝났다. 어느 때와 같이 오늘도 코자를 너무 많이 마셨다. 다음 교대를 위해 4시간 후에 깰 수 있기를. 미로가 내 "
 "침대, 아니, 우리 침대에서 자고 있다. 개인 침대도 없다.\n"
 "\n"
-"오늘 훈련장의 특별실에 출입 권한을 가진 사람과 부딪혔다. 그는 이때까지 본 적없는 이상한 표정을 지었다. 거기 뭐가 있는 지 "
+"오늘 훈련장의 특별실에 출입 권한을 가진 사람과 부딪혔다. 그 사람은 이때까지 본 적없는 이상한 표정을 지었다. 거기 뭐가 있는 지 "
 "모르겠지만, 일자리를 지키기 위해 호기심은 접어두자."
 
 # EDID: SFBGS001_MS01_TevinaStateEvidence01, REC: BOOK:DESC
@@ -549,9 +549,9 @@ msgstr ""
 "\n"
 "군인\n"
 "=============================\n"
-"미르사드 요키치 - 출신: 군인 // 권장: 국무부\n"
+"미르사드 요키치 - 출신: 군인 // 권장: 국무성\n"
 "\n"
-"데스몬드 테일러 - 출신: 군인 // 권장: 국무부\n"
+"데스몬드 테일러 - 출신: 군인 // 권장: 국무성\n"
 "\n"
 "농업 및 과학\n"
 "=============================\n"
@@ -564,9 +564,9 @@ msgstr ""
 "우주항 및 창고\n"
 "=============================\n"
 "오킴 샤론\n"
-"출신: 군인 // 권장: 결합부\n"
+"출신: 군인 // 권장: 결합성\n"
 "\n"
-"카르미나 안다자르 - 출신: 밀수꾼 // 권장: 국무부"
+"카르미나 안다자르 - 출신: 밀수꾼 // 권장: 국무성"
 
 # EDID: SFBGS001_MS01_AudioLog06Slate, REC: BOOK:DESC
 msgctxt "000B8C"
@@ -608,7 +608,7 @@ msgstr ""
 "\n"
 "오킴: 기뻐 보이시는군요.\n"
 "\n"
-"접선책: 오, 전 이 때를 오랫동안 기다려 왔습니다. 그의 얼굴을 한 번 보고 싶군요. 아니면 시체려나? 후후.\n"
+"접선책: 오, 전 이 때를 오랫동안 기다려 왔습니다. 그 사람 얼굴을 한 번 보고 싶군요. 아니면 시체려나? 후후.\n"
 "\n"
 "어쨌든, 절 위해 잘 일해주셨습니다.하지만, 이제 서로 갈라저야 할 때가 온 것 같군요. 서로 익숙해 지기 전에.\n"
 "\n"
@@ -625,7 +625,6 @@ msgstr ""
 "오킴: 그냥 제 여동생을 잘 돌봐주세요."
 
 # EDID: SFBGS001_MS01_TevinaStateEvidence02, REC: BOOK:DESC
-#, fuzzy
 msgctxt "000B90"
 msgid ""
 "The following lists matches after hours departure records with shipments marked for hold:\n"
@@ -648,17 +647,17 @@ msgstr ""
 "\n"
 "배송품:\n"
 "05.11.2330: 자원 보급 상자 HV-2294G\n"
-"05.02.2330: 의료 물자 HV-1732W \n"
+"05.02.2330: 의료 용품 HV-1732W \n"
 "04.27.2330: 무기 상자 HV-1286K \n"
 "04.25.2330: 탄약 상자 HV-1192K \n"
 "04.04.2330: 우주선 부품 HV-0329P \n"
 "\n"
 "우주항 출발 [시간 외]:\n"
-"05.11.2330: Dirge II, Prophecy I, The Cortege\n"
-"05.02.2330: Revelation III, The Cortege, Eulogy I\n"
-"04.27.2330: Hymn II, The Cortege, Prophecy I, Dirge I\n"
-"04.25.2330: The Cortege, Eulogy II\n"
-"04.04.2330: Prophecy III, Prophecy II, Dirge II, The Cortege"
+"05.11.2330: 더지 II, 프로퍼시 I, 코테지\n"
+"05.02.2330: 리벨레이션 III, 코테지, 율로지 I\n"
+"04.27.2330: 하임 II, 코테지, 프로퍼시 I, 더지 I\n"
+"04.25.2330: 코테지, 율로지II\n"
+"04.04.2330: 프로퍼시 III, 프로퍼시 II, 율로지II, 코테지"
 
 # EDID: SFBGS001_MS01_AudioLog02Slate_TrackingDevice, REC: BOOK:DESC
 msgctxt "000B93"
@@ -704,7 +703,7 @@ msgstr ""
 "\n"
 "운 좋게도, 누가 사는 곳처럼 보이진 않는다. 아무도 없나요? 저기요! 아무도 없는 것 같군. \n"
 "\n"
-"어쨌든, 주 출입구가 잠겨있어 환기구로 숨어들어 보안 사무실처럼 보이는 곳으로 들어왔다.\n"
+"어쨌든, 주 출입구가 잠겨있어 점검구로 숨어들어 보안 사무실처럼 보이는 곳으로 들어왔다.\n"
 "\n"
 "상자들이 너무 많고, 몇 개는 이미 비워져 있다. 컴퓨터를 과부하시키고, 상자에 붙여 놓은 추적 장치를 사용해 찾아봐야겠어. \n"
 "\n"
@@ -733,14 +732,15 @@ msgstr "전원 재접속이 실패할 경우 약간의 화면 흔들림과 특�
 # EDID: SFBGS001_MQ01_AccessCardReaderMSG, REC: MESG:DESC
 msgctxt "000C19"
 msgid "Access Card Reader"
-msgstr "카드 리더기에 접속"
+msgstr "카드 리더기에 삽입"
 
 # EDID: SFBGS001_MQ01_TEMP_EmergencyMSG, REC: MESG:DESC
+#, fuzzy
 msgctxt "000C1A"
 msgid ""
 "The message the player receives should be heavily laden with static so any "
 "portions of it can be obscured."
-msgstr ""
+msgstr "플레이어가 수신하는 메시지는 정적 요소가 많아야 하므로 메시지의 일부가 가려질 수 있습니다."
 
 # EDID: SFBGS001_MS01_AudioLog05Slate, REC: BOOK:DESC
 msgctxt "000D17"
@@ -788,27 +788,27 @@ msgid ""
 "\n"
 "Mujeen Ka'dic: But, no. Absolutely not. What you speak of is treason. I will have no part in it."
 msgstr ""
-"오킴 카딕: 그래서 언제 그 일을 시작하게 해줄거야?\n"
+"오킴 카딕: 그래서 언제 그 일을 시작하게 해줄 거야?\n"
 "\n"
 "무진 카딕: 앞으로 그런 일을 할 필요가 없어졌습니다. 전쟁의 시대는 끝났어요. 휴전이 양쪽 모두에게 이득이 되는 길입니다.\n"
 "\n"
 "오킴 카딕: 당신이 그런 말을 하다니 웃기군. 카딕 가문 일원 중 한 명이 보급품을 팔아 광신도들과 휴전을 맺으려 한다는 소문을 들었어."
 "\n"
 "\n"
-"무진 카딕: 사실이라면 반역 죄입니다만. \n"
+"무진 카딕: 사실이라면 반역죄입니다만. \n"
 "\n"
 "오킴 카딕: 물론 가벼운 반역죄가 되겠지. 광신도들이 값을 잘 쳐주긴 하지만 광신도들을 동맹으로 만들 순 없어. 고객이 될 뿐이지. "
-"마지막으로 당신이 목숨걸고 누군가를 위해 일한 적이 언제지? \n"
+"마지막으로 당신이 목숨 걸고 누군가를 위해 일한 적이 언제지? \n"
 "\n"
 "무진 카딕: 좋은 지적이군요. 머리 좀 굴려볼까요. 보급품을 그냥 공짜로 준다면...\n"
 "\n"
 "오킴 카딕: 그럼 당신에게 충성을 맹세할 수도 있겠군요. 젠장, 완전 좋은 생각인데. \n"
 "\n"
-"말만하면, 진행 해보죠.\n"
+"말만 하면, 진행 해보죠.\n"
 "\n"
 "*잠시 정적이 흐른다*\n"
 "\n"
-"무진 카딕: 하지만, 절대 안됩니다. 명백한 반역죄요. 하지 않겠습니다."
+"무진 카딕: 그렇지만, 절대 안 됩니다. 명백한 반역죄입니다. 하지 않겠습니다."
 
 # EDID: SFBGS001_MS01_MadriSlateToOchim, REC: BOOK:DESC
 msgctxt "000D23"
@@ -841,13 +841,21 @@ msgid ""
 "\n"
 "[10:42:13] (5) Shipments marked for hold."
 msgstr ""
+"[10:41:53] 원격 접근 로그인 내보내기 실행 중...\n"
+"[10:41:53] 관리자의 이름과 비밀번호가 발견되지 않았습니다. 필드가 누락되었을 수 있습니다.\n"
+"[10:42:13] 재정의 설정 수행 중...\n"
+"[10:42:13] 원격 접근이 승인되었습니다.\n"
+"\n"
+"[10:42:13] 오킴 샤론으로 등록된 컴퓨터에 권한이 부여되었습니다.\n"
+"\n"
+"[10:42:13] (5)개의 선적물이 보류되었습니다."
 
 # EDID: SFBGS001_MQ02_Temp_OptionalMSG01, REC: MESG:DESC
 msgctxt "000EA5"
 msgid ""
 "Final: Objective will be on candle that will blow out when activated. All "
 "other candles in the room will mysteriously blow out as well."
-msgstr ""
+msgstr "시련: 양초를 꺼야 한다. 방의 다른 모든 양초도 신비롭게 꺼질 것이다."
 
 # EDID: SFBGS001_MQ02_Temp_OptionalMSG02, REC: MESG:DESC
 msgctxt "000EA6"
@@ -855,7 +863,7 @@ msgid ""
 "Final: Objective will be on a brazier that will allow the player to place "
 "any item in it, resulting in a brief flame and other braziers in the space "
 "lighting up as well"
-msgstr ""
+msgstr "시련: 화덕에 물건을 넣어야 하며, 넣을 경우 다른 화덕들의 불꽃 또한 켜질 것이다."
 
 # EDID: SFBGS001_MS01_CipherFail, REC: MESG:DESC
 msgctxt "000EA8"
@@ -870,27 +878,27 @@ msgstr "슬레이트를 해독했습니다"
 # EDID: SFBGS001_MS01_Clue02Activator_BlockedMessage, REC: MESG:DESC
 msgctxt "000EAC"
 msgid "The slate is encrypted. A cipher key is required to unlock it."
-msgstr ""
+msgstr "슬레이트는 암호화 되어 있습니다. 해제를 위한 암호 키가 필요합니다."
 
 # EDID: SFBGS001_MS01_CipherMessage08, REC: MESG:DESC
 msgctxt "000EB4"
 msgid "Enter the fourth number of the password:"
-msgstr "비밀번호의 네번 째 숫자를 입력하세요:"
+msgstr "비밀번호의 네 번째 숫자를 입력하세요:"
 
 # EDID: SFBGS001_MS01_CipherMessage07, REC: MESG:DESC
 msgctxt "000EBB"
 msgid "Enter the third number of the password:"
-msgstr "비밀번호의 세번 째 숫자를 입력하세요:"
+msgstr "비밀번호의 세 번째 숫자를 입력하세요:"
 
 # EDID: SFBGS001_MS01_CipherMessage06, REC: MESG:DESC
 msgctxt "000EC2"
 msgid "Enter the second number of the password:"
-msgstr "비밀번호의 두번 째 숫자를 입력하세요:"
+msgstr "비밀번호의 두 번째 숫자를 입력하세요:"
 
 # EDID: SFBGS001_MS01_CipherMessage05, REC: MESG:DESC
 msgctxt "000EC9"
 msgid "Enter the first number of the password:"
-msgstr "비밀번호의 첫번 째 숫자를 입력하세요:"
+msgstr "비밀번호의 첫 번째 숫자를 입력하세요:"
 
 # EDID: SFBGS001_MQ02_Temp_RitualMSG, REC: MESG:DESC
 msgctxt "000ECA"
@@ -900,13 +908,15 @@ msgid ""
 "one must be placed on each altar to complete the ritual. For now, just "
 "activate the two switches."
 msgstr ""
+"시련: 방은 환각 가스로 채워져 있다. 방안의 두개의 제단 위에 각각 성상을 놓아야 한다. 주 성소에는 네 개의 성상이 있으며, 각 "
+"제단에 한 개씩 놓어야 한다. 당장은, 그렇게 성상을 놓아 두 개의 스위치를 작동시키면 된다."
 
 # EDID: SFBGS001_MQ02_Temp_OptionalMSG04, REC: MESG:DESC
 msgctxt "000ECB"
 msgid ""
 "Final: Objective will be over the chasm. Will automatically complete if the "
 "player leaps across."
-msgstr ""
+msgstr "시련: 갈라진 틈 너머로 넘어가야 한다. 도약해 넘어가면 시련은 자동으로 완료된다."
 
 # EDID: SFBGS001_MQ02_Temp_OptionalMSG03, REC: MESG:DESC
 msgctxt "000ECC"
@@ -914,47 +924,46 @@ msgid ""
 "Final: Objective will be on the pool. Activating it will force the player "
 "into a kneeling position for a few moments, and the player will take a "
 "slight amount of damage"
-msgstr ""
+msgstr "시련: 웅덩이에 들어가야 한다. 웅덩이에서 동작을 취할 경우 플레이어는 잠시 무릎을 꿇게 되고 약간의 피해를 입게 된다."
 
 # EDID: SFBGS001_co_food_ExoticRecipes_GroatPie, REC: COBJ:DESC
 msgctxt "001161"
 msgid ""
 "A delicious Va'ruun delicacy with groat meat, vegetables, and a chewy crust."
 " Yum!"
-msgstr ""
+msgstr "그로트 고기에 야채와 쫄깃한 크러스트를 곁들인 바룬 가문의 진미. 맛있다!"
 
 # EDID: SFBGS001_co_food_ExoticRecipes_SeaweedEggPorridge, REC: COBJ:DESC
 msgctxt "001162"
 msgid "A filling meal of seaweed, eggs, and oats."
-msgstr ""
+msgstr "미역, 계란, 오트로 채워진 식사."
 
 # EDID: SFBGS001_Food_Craft_GroatPie, REC: ALCH:DESC
 msgctxt "0011A3"
 msgid ""
 "A delicious Va'ruun delicacy with groat meat, vegetables, and a chewy crust."
 " Yum!"
-msgstr ""
+msgstr "그로트 고기에 야채와 쫄깃한 크러스트를 곁들인 바룬 가문의 진미. 맛있다!"
 
 # EDID: SFBGS001_Food_Craft_SeaweedEggPorridge, REC: ALCH:DESC
 msgctxt "0011A5"
 msgid "A filling meal of seaweed, eggs, and oats."
-msgstr ""
+msgstr "미역, 계란, 오트를 채운 식사."
 
 # EDID: SFBGS001_Food_ChunksSingle_Chunks_GroatChunks, REC: ALCH:DESC
 msgctxt "0011A7"
 msgid "A Va'ruun groat-flavored Chunks food cube. Now with more groat flavor!"
-msgstr ""
+msgstr "그로트 고기맛 청크. 그로트 고기 이상의 맛!"
 
 # EDID: SFBGS001_Food_Produce_Seaweed, REC: ALCH:DESC
-#, fuzzy
 msgctxt "0011A9"
 msgid "Cultivated and harvested on Va'ruun'kai."
-msgstr "바룬카이에서 재배하고 수확한 제품이다."
+msgstr "바룬카이에서 재배하여 수확한 제품."
 
 # EDID: SFBGS001_Food_Meat_Groat, REC: ALCH:DESC
 msgctxt "0011AB"
 msgid "Meat from a groat!"
-msgstr "그로트에서 나온 고기다!"
+msgstr "그로트 고기!"
 
 # EDID: SFBGS001_MS01_ZealotTeachings01, REC: BOOK:DESC
 msgctxt "0011B2"
@@ -965,6 +974,12 @@ msgid ""
 "\n"
 "His blasphemy sent the true believers into exile, and delayed the time of the Shrouding until the Promised were restored."
 msgstr ""
+"지난 바룬 님은 위대한 뱀의 말을 받들어 수행했다고 알려져 있다. 지난 님의 지도 아래 여명의 개척선은 기함 모어닝 호가 되었으며, "
+"성스러운 뱀의 성전을 통해 모두를 회개케 하였다.\n"
+"\n"
+"그러나 지난 바룬 님의 아들 자렉은, 정당한 계승자 잔다르 님의 왕관을 찬탈한 후, 성전을 중단하고 위대한 뱀의 뜻을 거역하였다.\n"
+"\n"
+"자렉의 신성 모독으로 인해 진정한 신자들은 추방되었고, 약속받은 자가 회복될 때까지 장막의 날의 시기는 늦춰졌다."
 
 # EDID: SFBGS001_MS01_ZealotTeachings02, REC: BOOK:DESC
 msgctxt "0011B6"
@@ -975,6 +990,14 @@ msgid ""
 "\n"
 "Yet rather than drift into the shadows of silence, Jandar vowed to honor the wishes of his father and continue the Serpent's Crusade."
 msgstr ""
+"저주받은 자들과 작당하기 위해 뱀의 성전을 중지하려는 동생의 결정에 잔다르 님은 의문을 제기하셨다. 잔다르 님은 동생을 배신하고 싶지 "
+"않았지만, 위대한 뱀의 의지도 배신하고 싶지 않아 하셨다. 그래서 잔다르 님은 대의회에서 자신의 견해를 알렸다. 잔다르 님은 장막의 날을 "
+"위해 정당한 계승권을 주장하였다.\n"
+"\n"
+"오직 잔다르와 같은 집에 기거하기로 한 마린 가문의 신부만이 잔다르 님의 주장을 지지하는 용기를 발휘하였고, 겁쟁이 자렉은 외부인들과의 "
+"불안한 평화를 유지하기 위해 잔다르 님과 마린 가문 전원을 추방하였다.\n"
+"\n"
+"그러나 잔다르 님은 침묵의 그림자 속으로 빠져들기보다는, 선왕의 숙원을 이루기 위해 뜻을 받들어 뱀의 성전을 지속하였다."
 
 # EDID: SFBGS001_MS01_ZealotTeachings03, REC: BOOK:DESC
 msgctxt "0011BA"
@@ -985,6 +1008,12 @@ msgid ""
 "\n"
 "But Jarek, in his final betrayal, deemed the Promised to be zealots, and so this lie became the word spoken by the damned."
 msgstr ""
+"이윽고 잔다르 님은 독실한 신자들로 구성된 군대를 모아, 마린 가문을 개척 성계에 필적하는 세력으로 성장시키셨다. 잔다르 님은 개척 "
+"성계에 공세를 펼치고, 듣게 될 자 모두에게 지난 님의 복음을 전파하였다.\n"
+"\n"
+"참된 말씀을 들은 배교자와 저주받은 자들은, 위대한 뱀의 혀로 축복을 받아, 잔다르의 대의에 충성을 맹세하였다.\n"
+"\n"
+"그러나 자렉은, 끝내 배신하여, 약속받은 자를 광신도로 간주하였고, 자렉의 거짓말은 저주받은 자들이 내밷는 말이 되었다."
 
 # EDID: SFBGS001_MS01_ZealotTeachings04, REC: BOOK:DESC
 msgctxt "0011BE"
@@ -993,6 +1022,9 @@ msgid ""
 "\n"
 "Let any who defy this truth be made dust, and may death befall all who speak the word zealot when confronted by the Promised."
 msgstr ""
+"모두가 알게 하라. 잔다르 님의 자식들이여. 마린 가문의 자랑스러운 구성원들이여. 위대한 뱀의 진정한 추종자들이여.\n"
+"\n"
+"진리를 거스르는 자들을 먼지로 만들고, 약속받은 자들에 맞서 광신도라 말하는 자들을 모두 죽음으로서 단죄하여라."
 
 # EDID: SFBGS001_Drink_VaRuun_GroatMilk, REC: ALCH:DESC
 msgctxt "0011D8"
@@ -1007,7 +1039,7 @@ msgstr "발효시킨 그로트 젖 음료. 보통 식사를 할 때 함께 마�
 # EDID: SFBGS001_Drink_Alc_VaRuun_Seaweed, REC: ALCH:DESC
 msgctxt "0011DC"
 msgid "Fermented seaweed. Hints of umami and salt, pairs well with fish."
-msgstr ""
+msgstr "발효 미역. 감칠맛과 짠맛을 첨가했다. 생선과 잘 어울린다."
 
 # EDID: SFBGS001_SE_VaruunMissionary_Name, REC: MESG:DESC
 #, fuzzy
@@ -1021,7 +1053,7 @@ msgid ""
 "Looks like someone left some packaged seaweed in the groat pens. Not too "
 "much to go on, but maybe whoever took the groats is at the Seaweed Farm. "
 "It's worth checking out."
-msgstr ""
+msgstr "누가 그로트 우리에 미역 포장팩을 두고갔다. 그로트를 데리고 간 사람은 미역 농장 사람인 것 같다. 확인해 보자."
 
 # EDID: SFBGS001_SQ_Crew_SpawnManager, REC: QUST:CNAM
 #, fuzzy
@@ -1285,7 +1317,7 @@ msgctxt "002184"
 msgid ""
 "A Va'ruun groat-flavored Chunks food cube. Now with more groat flavor! "
 "Packaged for freshness."
-msgstr ""
+msgstr "바룬의 그로트 풍미가 느껴지는 청크 큐브. 전보다 더 진한 그로트 풍미를 느낄 수 있다! 신선도를 유지하기 위해 포장되어 있다."
 
 # EDID: SFBGS001_VkaiZ01_MessageObedience, REC: MESG:DESC
 msgctxt "00221D"
@@ -1396,7 +1428,7 @@ msgstr "대상의 방어력을 일정 비율만큼 무시."
 msgctxt "0025D1"
 msgid ""
 "A potent Va'ruun wine made from local tubers used in ritual ceremonies."
-msgstr ""
+msgstr "독한 바룬 포도주. 지역에서 채취한 구근으로 만들었다. 통과의례 의식에 사용된다."
 
 # EDID: SFBGS001_mod_CCT_Skin_FloaterANautiloos_VaruunkaiFrCaDe, REC:
 # OMOD:DESC
@@ -1530,97 +1562,97 @@ msgctxt "011179"
 msgid ""
 "The reboot completed and Sirak's protocol went into effect. I need to wait "
 "for it to complete."
-msgstr ""
+msgstr "재시작 절차가 완료됐고 시락의 프로토콜이 작동하기 시작했다. 프로토콜이 완료되길 기다려야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "01117A"
 msgid ""
 "I rebooted the Oracle's mainframe. Now I just need to wait for the process "
 "to complete."
-msgstr ""
+msgstr "오라클의 메인프레임을 재부팅했다. 이제 재부팅 절차가 완료되길 기다리기만 하면 된다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "01117C"
 msgid ""
 "Sirak was unable to hold on and turned hostile, and at the same time, more "
 "hostile Phantoms appeared. I will need to kill them to survive."
-msgstr ""
+msgstr "시락은 버텨내지 못하고 적대적으로 변했고, 동시에 더 많은 적대적인 유령들이 나타났다. 살아남으려면 그들을 모두 죽여야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "01117D"
 msgid ""
 "Sirak appeared when I reached the Operations center. I should listen to them"
 " in case they have further instructions."
-msgstr ""
+msgstr "운영실에 도착하자 시락이 나타났다. 추가적인 설명이 나올지도 모르니 말을 들어봐야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "01117E"
 msgid ""
 "I successfully restored power to the Oracle. Now I need to find the "
 "Operations center and reboot the mainframe."
-msgstr ""
+msgstr "오라클의 동력을 성공적으로 복구했다. 이제 운영실을 찾아서 메인프레임을 재부팅해야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "01117F"
 msgid ""
 "I found the controls. I need to use them to restore gravity to the station "
 "in hopes of lowering the power cell into place."
-msgstr ""
+msgstr "제어반을 찾았다. 전지를 제자리에 맞춰놓으려면 제어반을 이용해서 정거장의 중력을 복구해야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "011180"
 msgid ""
 "I found the controls. I need to use them to restore gravity to the station "
 "in hopes of lowering the power cell into place."
-msgstr ""
+msgstr "제어반을 찾았다. 전지를 제자리에 맞춰놓으려면 제어반을 이용해서 정거장의 중력을 복구해야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "011181"
 msgid ""
 "A strange wall of energy was blocking me from getting to the gravity "
 "controls. I'll have to find another way to reach them."
-msgstr ""
+msgstr "이상한 에너지로 이루어진 벽이 중력 제어반으로 가는 길을 가로막고 있다. 다른 길을 찾아봐야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "011182"
 msgid ""
 "I need to restore gravity in order to move the ejected power cell back down."
-msgstr ""
+msgstr "분리된 전지를 다시 끼워넣으려면 중력을 복구해야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "011183"
 msgid ""
 "I attempted to restore the power but it didn't work. Sirak appeared again, "
 "so I should listen to what they have to say."
-msgstr ""
+msgstr "동력을 복구하려고 했지만 통하지 않았다. 시락이 다시 나타났으니, 무슨 말을 하는지 들어봐야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "011184"
 msgid ""
 "I've gained access to the Engineering Bay. I need to use the main controls "
 "to restore power to the station."
-msgstr ""
+msgstr "기관실 구역에 도달했다. 주 제어반을 사용해서 정거장의 동력을 복구해야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "011185"
 msgid ""
 "I found an access card. Now I need to return to the Engineering Bay so I can"
 " get to the main power controls."
-msgstr ""
+msgstr "출입 카드를 찾았다. 이제 기관실 구역으로 돌아가면 주 동력 제어반을 사용할 수 있을 것이다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "011186"
 msgid ""
 "Sirak began to speak after the loss of Basira. I should listen to what they "
 "have to say."
-msgstr ""
+msgstr "바시라가 사라진 후에 시락이 말하기 시작했다. 무슨 말을 하는지 들어봐야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "011187"
 msgid ""
 "One of the people, Basira, turned hostile and attacked me. I have no choice "
 "but to kill her to protect myself."
-msgstr ""
+msgstr "두 사람 중 한 명인 바시라가 적대적으로 변해서 날 공격했다. 나 자신을 지키기 위해 바시라를 죽일 수 밖에 없었다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "011188"
@@ -1628,6 +1660,7 @@ msgid ""
 "While exploring the Oracle, I happened upon two strangely affected people. I"
 " should watch their exchange and see what I can learn."
 msgstr ""
+"오라클을 조사하던 중에 이상한 영향을 받은 두 사람을 발견했다. 두 사람의 대화를 지켜보면서 무엇을 알아낼 수 있는지 확인해야 한다."
 
 # EDID: SFBGS001_MQ01_BasiraLog, REC: BOOK:DESC
 msgctxt "01119B"
@@ -1638,6 +1671,12 @@ msgid ""
 "\n"
 "Forgive us our curiosity, our selfishness, our pride. We only wished to truly find You, but it seems we will still meet in the traditional way, in death."
 msgstr ""
+"위대한 뱀이시여,\n"
+"\n"
+"일행이 얼마 남지 않았습니다. 제 평생을 주께 헌신하며 살아왔건만, 죽음과 앞으로 닥칠 일에 두려움을 느낍니다. 어쩌면 저희는 모르는 채 "
+"남겨두는 것이 나았을 것을 너무 깊이 파고들고, 너무 많은 것을 엿보려 한 대가를 치르는 진부한 존재일지도 모릅니다.\n"
+"\n"
+"저희의 호기심을, 이기심을, 자존심을 용서하소서. 오직 진정으로 주를 찾기를 바랐으나, 전통적인 방식인 죽음으로써 찾게 될 것 같습니다."
 
 # EDID: SFBGS001_MQ01_NadineLog, REC: BOOK:DESC
 msgctxt "01119D"
@@ -1646,11 +1685,18 @@ msgid ""
 "\n"
 "To my fellow scientists and loved ones: do not mourn me. Know that I've bore witness to unimaginable things here. My only regret is not having the tools to properly study them. But as I said, Death is upon me, and all mysteries are soon to be solved."
 msgstr ""
+"이 글을 쓰는 지금, 남은 사람은 시락, 바시라, 그리고 나까지 해서 세 명뿐이다. 우리는 모두 피할 수 없는 운명을 받아들였다. 시락이 "
+"\"볼텍스 유령\"이라고 부르는 존재들의 희생양이 되거나, 아니면 우리가 바로 그 유령이 되거나. 나는 후자가 되길 기도한다. 미지의 "
+"세계로 가는 마지막 단계니까. 내 인간적인 면은 변화를 두려워하지만, 과학적인 면은 그 변화를 받아들이고 싶어 한다.\n"
+"\n"
+"우리 동료 과학자들과 내가 사랑하는 사람들에게 전한다. 날 애도하지 마라. 내가 여기서 상상할 수 없는 것들을 이 두 눈으로 목격했음을 "
+"알아달라. 유일하게 안타까운 건 그것들을 제대로 연구해 볼 도구가 내 손에 없었다는 것뿐이다. 하지만 내가 말했듯이, 죽음이 내게 "
+"다가왔고, 모든 수수께끼는 곧 풀릴 것이다."
 
 # EDID: SFBGS001LC06_VortexControlNotRespondingMessage, REC: MESG:DESC
 msgctxt "0111A3"
 msgid "The control is not responding."
-msgstr ""
+msgstr "제어반이 응답하지 않습니다."
 
 # EDID: SFBGS001_MS05, REC: QUST:CNAM
 msgctxt "0111E6"
@@ -3051,7 +3097,7 @@ msgctxt "012F4F"
 msgid ""
 "A strange fluid found on creatures affected by the Vortex. Can be consumed "
 "to greatly increase stealth."
-msgstr ""
+msgstr "볼텍스의 영향을 받은 생물에서 발견되는 이상한 액체. 섭취하면 잡입 능력을 크게 높일 수 있다."
 
 # EDID: SFBGS001_MQ04_VaericsLog01, REC: BOOK:DESC
 msgctxt "012F51"
@@ -3790,6 +3836,8 @@ msgid ""
 "Know I fell in peace, upon the pledge of salvation. May I see you beyond the blackest sea, beyond the Shrouding, and beyon- \n"
 "[Slate ending here.]"
 msgstr ""
+"제가 구원의 서약에 따라 평화롭게 잠들었음을 아소서. 당신을 뵙기를 바라나니. 가장 검은 바다 너머, 장막의 날 너머, 그리고...\n"
+"[슬레이트 종료됨]"
 
 # EDID: SFBGS001_LC08_Treasure_Slate02, REC: BOOK:DESC
 msgctxt "01465D"
@@ -4619,20 +4667,22 @@ msgid ""
 " the Engineering Bay and see what needs to be done, but I'll need to find an"
 " Oracle Access Card to enter the main station first."
 msgstr ""
+"시락은 오라클 정거장의 동력을 복구해야 한다고 말했다. 기관실 구역을 찾아서 뭘 해야 하는지 알아봐야 하지만, 주 정거장에 들어가려면 "
+"먼저 오라클 출입 카드를 찾아야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "0149D7"
 msgid ""
 "Sirak mentioned a need to restore power to the Oracle station. I should find"
 " the Engineering Bay and see what needs to be done."
-msgstr ""
+msgstr "시락은 오라클 정거장의 동력을 복구해야 한다고 말했다. 기관실 구역을 찾아서 뭘 해야 하는지 알아봐야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "0149D8"
 msgid ""
 "I found an Oracle Access Card. Now I can find the Engineering Bay and see "
 "what needs to be done to restore the power."
-msgstr ""
+msgstr "오라클 출입 카드를 찾았다. 이제 기관실 구역을 찾아서 동력을 복구하려면 뭘 해야 하는지 알아봐야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "0149D9"
@@ -4641,6 +4691,8 @@ msgid ""
 " the Engineering Bay and see what needs to be done, but I'll need to find an"
 " Oracle Access Card to enter the main station first."
 msgstr ""
+"시락은 오라클 정거장의 동력을 복구해야 한다고 말했다. 기관실 구역을 찾아서 뭘 해야 하는지 알아봐야 하지만, 주 정거장에 들어가려면 "
+"먼저 오라클 출입 카드를 찾아야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "0149DA"
@@ -4649,6 +4701,8 @@ msgid ""
 "people to stay away. I need to explore the station if I want to find out "
 "what transpired here."
 msgstr ""
+"오라클이라는 우주정거장을 발견했다. 정거장은 접근하지 말라는 경고 신호를 보내고 있다. 여기서 무슨 일이 일어났는지 알아내려면 정거장을 "
+"탐험해야 한다."
 
 # EDID: SFBGS001_MS03_Condolences, REC: BOOK:DESC
 msgctxt "0149E0"
@@ -4678,6 +4732,17 @@ msgid ""
 "\n"
 "Now that I have written some, I know for a fact that I feel no better. I will, however, take great pleasure in telling Basira she was wrong."
 msgstr ""
+"내 마지막이 될지도 모를 순간에 이 글을 쓴다. 바시라가 이런 글을 쓰면 내 마음이 편해질 거라고 했거든. 지금 상황을 생각해 보면 그건 "
+"불가능하다고 보지만. 인정하기 싫을 만큼 오랫동안 바시라와 논쟁한 끝에, 결국 이렇게 글을 쓰고 있다.\n"
+"\n"
+"나는 내 자신에게 곧 닥칠 죽음을 받아들였다. 위대한 뱀을 향한 내 믿음이 더 큰 덕분일지도 모르지. 내 동료 에머슨은 나약함을 이겨내지 "
+"못하고 승무원 구역으로 도피해버렸거든. 이 글을 읽는 당신은 우리 기관장이라면 더 큰 결심을 할 거라고 생각했을지도 모르겠지만. 내가 "
+"관리인이 아니라 하급 과학자라서 다행이지.\n"
+"\n"
+"다른 사람들과 다르게, 나한텐 날 그리워해 줄 친구나 가족도 없고 어차피 나도 마찬가지다. 후회되는 게 하나 있다면 마지막으로 구원의 "
+"길을 완수할 기회가 없었다는 거다.\n"
+"\n"
+"글을 좀 쓰고 나니까, 기분이 나아지지 않는다는 사실을 알겠다. 그래도 바시라가 틀렸다고 말해주는 건 정말 기분 좋겠지."
 
 # EDID: SFBGS001_LC37_Slate, REC: BOOK:DESC
 msgctxt "0149E7"
@@ -4694,28 +4759,28 @@ msgctxt "0149EB"
 msgid ""
 "I found an Operations Access Card so I can use the computer to reboot the "
 "Oracle's mainframe."
-msgstr ""
+msgstr "오라클 출입 카드를 찾아냈으니 컴퓨터를 사용해서 오라클의 메인프레임을 재부팅할 수 있을 것이다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "0149EC"
 msgid ""
 "With the hostiles taken care of, I can finally reboot the Oracle's "
 "mainframe. I just need to find an Operations Access Card."
-msgstr ""
+msgstr "적들을 처리했으니, 마침내 오라클의 메인프레임을 재부팅할 수 있다. 통제실 접속 카드를 찾기만 하면 된다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "0149ED"
 msgid ""
 "With the hostiles taken care of, I can finally reboot the Oracle's "
 "mainframe. I just need to find an Operations Access Card."
-msgstr ""
+msgstr "적들을 처리했으니, 마침내 오라클의 메인프레임을 재부팅할 수 있다. 통제실 접속 카드를 찾기만 하면 된다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "0149EE"
 msgid ""
 "With the hostiles taken care of, I can finally reboot the Oracle's "
 "mainframe."
-msgstr ""
+msgstr "적들을 처리했으니, 마침내 오라클의 메인프레임을 재부팅할 수 있다."
 
 # EDID: SFBGSLI_OE_Creature02_Slate, REC: BOOK:DESC
 msgctxt "0149F7"
@@ -6087,14 +6152,14 @@ msgstr ""
 msgctxt "014DD9"
 msgid ""
 "I need to restore gravity in order to move the ejected power cell back down."
-msgstr ""
+msgstr "빠져버린 전지를 다시 끼워 넣으려면 중력을 복구해야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "014DDA"
 msgid ""
 "I restored power to the exit controls. I need to flip the Power Switch in "
 "order to open the door and leave this place."
-msgstr ""
+msgstr "출구 제어반 동력을 복구했다. 전원 스위치를 당겨서 문을 열고 이곳을 빠져나가야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "014DDB"
@@ -6102,7 +6167,7 @@ msgid ""
 "I need to insert an Emergency Power Cell into the Power Receptacle to "
 "restore power to the exit controls so I can escape before the disposal "
 "containment unit crushes me."
-msgstr ""
+msgstr "폐기물 처리기가 날 뭉개버리기 전에 탈출하려면 비상용 전지를 동력 소켓에 설치해서 출구 제어반의 동력을 복구해야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "014DDC"
@@ -6111,6 +6176,8 @@ msgid ""
 "suddenly turned on. I need to find an Emergency Power Cell in order to "
 "restore power to the exit controls before I get crushed."
 msgstr ""
+"중력 제어반으로 가는 길을 찾던 도중에 폐기물 처리기가 갑자기 작동했다. 뭉개져버리기 전에 비상용 전지를 찾아서 출구 제어반의 동력을 "
+"복구해야 한다."
 
 # EDID: SFBGS001_MQIN, REC: QUST:CNAM
 msgctxt "014DE8"
@@ -6207,7 +6274,7 @@ msgstr ""
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "014E10"
 msgid "I need to use the main controls to restore power to the station."
-msgstr ""
+msgstr "주 제어반을 사용해서 정거장의 동력을 복구해야 한다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "014E1C"

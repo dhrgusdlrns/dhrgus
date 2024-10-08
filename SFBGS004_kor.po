@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-23 00:19+0900\n"
-"PO-Revision-Date: 2024-09-29 17:43+0000\n"
+"PO-Revision-Date: 2024-10-09 11:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -480,7 +480,7 @@ msgstr "차량"
 #. REC: GMST:DATA
 msgctxt "000299"
 msgid "Sweet Jumps"
-msgstr "Sweet Jumps"
+msgstr "멋진 차량 도약"
 
 #. List: 0
 #. EDID: sNotAllowedToUseAutoDoorsWhileInVehicle

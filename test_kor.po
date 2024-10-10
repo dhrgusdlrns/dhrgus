@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-26 16:17+0900\n"
-"PO-Revision-Date: 2024-08-27 14:45+0000\n"
+"PO-Revision-Date: 2024-10-10 13:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -273,7 +273,7 @@ msgstr "헬릭스"
 # List: 0, EDID: EncShip_MQ_Scorpius02_Template, REC: GBFM:FULL
 msgctxt "00782D"
 msgid "Scorpius"
-msgstr "스콜피어스"
+msgstr "스콜피우스"
 
 # List: 0, EDID: LC132_Spacers_Ship_Template, REC: GBFM:FULL
 msgctxt "007832"
@@ -1436,7 +1436,7 @@ msgstr "디스커버리"
 # List: 0, EDID: EncShip_MQ_Scorpius01_Template, REC: GBFM:FULL
 msgctxt "0320BA"
 msgid "Scorpius"
-msgstr "스콜피어스"
+msgstr "스콜피우스"
 
 # List: 0, EDID: EncShip_MQ_Helix01_Template, REC: GBFM:FULL
 msgctxt "0320BB"
@@ -1456,12 +1456,12 @@ msgstr "헬릭스"
 # List: 0, EDID: EncShip_MQ_Scorpius03_Template, REC: GBFM:FULL
 msgctxt "0320BE"
 msgid "Scorpius"
-msgstr "스콜피어스"
+msgstr "스콜피우스"
 
 # List: 0, EDID: EncShip_MQ_Scorpius04_Template, REC: GBFM:FULL
 msgctxt "0320BF"
 msgid "Scorpius"
-msgstr "스콜피어스"
+msgstr "스콜피우스"
 
 # List: 0, EDID: Explorer_A_Nova_Endeavor03_Template, REC: GBFM:FULL
 msgctxt "032342"

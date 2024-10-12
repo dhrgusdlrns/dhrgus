@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-10-10 12:43+0000\n"
+"PO-Revision-Date: 2024-10-13 17:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -2137,7 +2137,7 @@ msgstr "제목: 답변: 맞춤 제작 화물칸"
 #. REC = OMOD:FULL
 msgctxt "0008E6"
 msgid "No Mod"
-msgstr "개조 없음"
+msgstr "부착물 없음"
 
 #. EDID = mod_PlasmaCutter_Receiver_Standard
 #. REC = OMOD:FULL
@@ -9016,7 +9016,7 @@ msgstr "악의적으로 집단의 신념을 조작하여 해를 끼침"
 #. REC = MESG:DESC
 msgctxt "00003C"
 msgid "Assault"
-msgstr "공격"
+msgstr "폭행"
 
 #. EDID = SFBGS003_ScannerCrimeBasic07
 #. REC = MESG:DESC

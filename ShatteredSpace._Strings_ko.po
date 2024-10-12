@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2024-10-11 23:43+0000\n"
+"PO-Revision-Date: 2024-10-15 14:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -655,7 +655,7 @@ msgstr ""
 "우주항 출발 [시간 외]:\n"
 "05.11.2330: 더지 II, 프로퍼시 I, 코테지\n"
 "05.02.2330: 리벨레이션 III, 코테지, 율로지 I\n"
-"04.27.2330: 하임 II, 코테지, 프로퍼시 I, 더지 I\n"
+"04.27.2330: 히임 II, 코테지, 프로퍼시 I, 더지 I\n"
 "04.25.2330: 코테지, 율로지II\n"
 "04.04.2330: 프로퍼시 III, 프로퍼시 II, 율로지II, 코테지"
 
@@ -674,7 +674,7 @@ msgid ""
 "91.120003\n"
 "97.309998"
 msgstr ""
-"페어링된 장치를 스캔하고 사용 가능한 글로벌 스캐너의 탐색을 시작합니다.\n"
+"페어링된 장치를 스캔하고 사용 가능한 전역 스캐너의 탐색을 시작합니다.\n"
 "\n"
 "페어링된 장치의 위치 변경으로 인한 현재 좌표와 거리는 0.28미터의 표준 편차를 가질 수 있습니다.\n"
 "\n"
@@ -720,7 +720,7 @@ msgid ""
 "There should be some SFX, maybe minor screenshake again as the battery moves"
 " into place, and some minor lights turning on to show that power is being "
 "connected."
-msgstr "배터리를 삽입할 경우 전원 접속 중에는 특수 효과나 화면 흔들림, 전등의 갑작스러운 점등이 약간 발생할 수 있습니다."
+msgstr "충전지를 삽입할 경우 전원 접속 중에는 특수 효과나 화면 흔들림, 전등의 갑작스러운 점등이 약간 발생할 수 있습니다."
 
 # EDID: SFBGS001_MQ01_TEMP_RedirectMSG, REC: MESG:DESC
 msgctxt "000C18"
@@ -1053,7 +1053,7 @@ msgid ""
 "Looks like someone left some packaged seaweed in the groat pens. Not too "
 "much to go on, but maybe whoever took the groats is at the Seaweed Farm. "
 "It's worth checking out."
-msgstr "누가 그로트 우리에 미역 포장팩을 두고갔다. 그로트를 데리고 간 사람은 미역 농장 사람인 것 같다. 확인해 보자."
+msgstr "누가 그로트 우리에 해조류 포장팩을 두고갔다. 그로트를 데리고 간 사람은 해조류 양식장 사람인 것 같다. 확인해 보자."
 
 # EDID: SFBGS001_SQ_Crew_SpawnManager, REC: QUST:CNAM
 #, fuzzy
@@ -1171,6 +1171,9 @@ msgid ""
 "\n"
 "Access environmental monitoring terminal administrative mode to activate data transfer."
 msgstr ""
+"링크 모드 활성화\n"
+"\n"
+"데이터 전송을 활성화하려면 환경 감시 터미널에 접속하십시오."
 
 # EDID: SFBGS001_MS01_CipherSlate_Decrypted, REC: BOOK:DESC
 msgctxt "001C23"
@@ -1186,6 +1189,16 @@ msgid ""
 "Supply Slate #12345\n"
 "Password = 14385"
 msgstr ""
+"배달 계약을 수락할 경우, 코드가 조합된 슬레이트를 받을 수 있습니다. \n"
+"\n"
+"홀수 자릿수에는 1을, 짝수 자릿수에는 2를 곱하십시오. 당신의 화물이 배달될 좌표를 확인할 수 있습니다.\n"
+"\n"
+"힌트 = 홀수 x 1, 짝수 x 2\n"
+"암호 = 슬레이트 #(번호)\n"
+"\n"
+"예시:\n"
+"보급품 슬레이트 #12345\n"
+"암호 = 14385"
 
 # EDID: SFBGS001_MS01_BossDeathNote, REC: BOOK:DESC
 msgctxt "001C25"
@@ -1631,14 +1644,14 @@ msgctxt "011184"
 msgid ""
 "I've gained access to the Engineering Bay. I need to use the main controls "
 "to restore power to the station."
-msgstr "기관실 구역에 도달했다. 주 제어반을 사용해서 정거장의 동력을 복구해야 한다."
+msgstr "엔지니어링 구역에 도달했다. 주 제어반을 사용해서 정거장의 동력을 복구해야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "011185"
 msgid ""
 "I found an access card. Now I need to return to the Engineering Bay so I can"
 " get to the main power controls."
-msgstr "출입 카드를 찾았다. 이제 기관실 구역으로 돌아가면 주 동력 제어반을 사용할 수 있을 것이다."
+msgstr "출입 카드를 찾았다. 이제 엔지니어링 구역으로 돌아가면 주전원 제어반을 사용할 수 있을 것이다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "011186"
@@ -1932,7 +1945,7 @@ msgctxt "011887"
 msgid ""
 "I met a strange man at the refugee camp in Dazra. He wants me to speak with "
 "him at his shack outside of the city."
-msgstr ""
+msgstr "다즈라의 난민 캠프에서 낯선 남자를 만났다. 그 남자는 도시 외곽에 있는 자신의 오두막에서 이야기를 나누고 싶다고 했다."
 
 # EDID: SFBGS001_MissionBoardAccessFailureMessage_HV, REC: MESG:DESC
 msgctxt "01188A"
@@ -4386,12 +4399,12 @@ msgstr ""
 # EDID: SFBGS001_VKaiZ03_DataSlateActivatorAudio, REC: MESG:DESC
 msgctxt "014921"
 msgid "Orphanage Audio Log"
-msgstr ""
+msgstr "고아원 오디오 기록"
 
 # EDID: SFBGS001_VKaiZ03_DataSlateActivator, REC: MESG:DESC
 msgctxt "014923"
 msgid "Data Slate Display"
-msgstr ""
+msgstr "데이터 슬레이트 거치대"
 
 # EDID: SFBGS001_VkaiZ03_MissingItem, REC: MESG:DESC
 msgctxt "014925"
@@ -4564,7 +4577,7 @@ msgstr ""
 # EDID: SFBGS001_HoH_LoadElevatorLockedFloorMessage, REC: MESG:DESC
 msgctxt "014987"
 msgid "Floor not responding."
-msgstr ""
+msgstr "해당 층에는 접근할 수 없습니다."
 
 # EDID: SFBGS001_DazraZ01, REC: QUST:CNAM
 msgctxt "014992"
@@ -4667,7 +4680,7 @@ msgid ""
 " the Engineering Bay and see what needs to be done, but I'll need to find an"
 " Oracle Access Card to enter the main station first."
 msgstr ""
-"시락은 오라클 정거장의 동력을 복구해야 한다고 말했다. 기관실 구역을 찾아서 뭘 해야 하는지 알아봐야 하지만, 주 정거장에 들어가려면 "
+"시락은 오라클 정거장의 동력을 복구해야 한다고 말했다. 엔지니어링 구역을 찾아서 뭘 해야 하는지 알아봐야 하지만, 주 정거장에 들어가려면 "
 "먼저 오라클 출입 카드를 찾아야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
@@ -4675,14 +4688,14 @@ msgctxt "0149D7"
 msgid ""
 "Sirak mentioned a need to restore power to the Oracle station. I should find"
 " the Engineering Bay and see what needs to be done."
-msgstr "시락은 오라클 정거장의 동력을 복구해야 한다고 말했다. 기관실 구역을 찾아서 뭘 해야 하는지 알아봐야 한다."
+msgstr "시락은 오라클 정거장의 동력을 복구해야 한다고 말했다. 엔지니어링 구역을 찾아서 뭘 해야 하는지 알아봐야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "0149D8"
 msgid ""
 "I found an Oracle Access Card. Now I can find the Engineering Bay and see "
 "what needs to be done to restore the power."
-msgstr "오라클 출입 카드를 찾았다. 이제 기관실 구역을 찾아서 동력을 복구하려면 뭘 해야 하는지 알아봐야 한다."
+msgstr "오라클 출입 카드를 찾았다. 이제 엔지니어링 구역을 찾아서 동력을 복구하려면 뭘 해야 하는지 알아봐야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "0149D9"
@@ -4691,7 +4704,7 @@ msgid ""
 " the Engineering Bay and see what needs to be done, but I'll need to find an"
 " Oracle Access Card to enter the main station first."
 msgstr ""
-"시락은 오라클 정거장의 동력을 복구해야 한다고 말했다. 기관실 구역을 찾아서 뭘 해야 하는지 알아봐야 하지만, 주 정거장에 들어가려면 "
+"시락은 오라클 정거장의 동력을 복구해야 한다고 말했다. 엔지니어링 구역을 찾아서 뭘 해야 하는지 알아봐야 하지만, 주 정거장에 들어가려면 "
 "먼저 오라클 출입 카드를 찾아야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
@@ -5521,7 +5534,7 @@ msgctxt "014B72"
 msgid ""
 "I've agreed to be Amila's second. Danika wants me to follow her so we can "
 "begin our duties."
-msgstr ""
+msgstr "아밀라의 조수가 되기로 했다. 다니카는 내가 아밀라를 따라가서 임무를 시작하길 원한다."
 
 # EDID: SFBGS001_MS03, REC: QUST:CNAM
 msgctxt "014B73"
@@ -6126,6 +6139,8 @@ msgid ""
 "With the city in turmoil, I was asked to check in on one of its citizens, "
 "Reigen Ueda. I helped him and reported back to the Halls of Healing."
 msgstr ""
+"도시가 혼란에 빠진 상황에서, 시민 중 한 명인 레이겐 우에다의 상태를 확인해 달라는 요청을 받았다. 나는 레이겐을 돕고 회복의 전당에 "
+"보고했다."
 
 # EDID: SFBGS001_VKaiZ03a, REC: QUST:CNAM
 msgctxt "014D65"
@@ -6133,6 +6148,7 @@ msgid ""
 "With the city in turmoil, I've been asked to check in on one of its "
 "citizens, Reigen Ueda, and aid him in any way I can."
 msgstr ""
+"도시가 혼란에 빠진 상황에서, 시민 중 한 명인 레이겐 우에다의 상태를 확인해 달라는 요청을 받았다. 최대한 레이겐을 도와줘야 한다."
 
 # EDID: SFBGS001_MQ04, REC: QUST:CNAM
 msgctxt "014D99"

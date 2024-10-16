@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2024-10-15 14:43+0000\n"
+"PO-Revision-Date: 2024-10-17 14:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -855,7 +855,7 @@ msgctxt "000EA5"
 msgid ""
 "Final: Objective will be on candle that will blow out when activated. All "
 "other candles in the room will mysteriously blow out as well."
-msgstr "시련: 양초를 꺼야 한다. 방의 다른 모든 양초도 신비롭게 꺼질 것이다."
+msgstr "시련: 촛불을 꺼야 한다. 방의 다른 촛불도 모두 신비롭게 꺼질 것이다."
 
 # EDID: SFBGS001_MQ02_Temp_OptionalMSG02, REC: MESG:DESC
 msgctxt "000EA6"
@@ -863,7 +863,7 @@ msgid ""
 "Final: Objective will be on a brazier that will allow the player to place "
 "any item in it, resulting in a brief flame and other braziers in the space "
 "lighting up as well"
-msgstr "시련: 화덕에 물건을 넣어야 하며, 넣을 경우 다른 화덕들의 불꽃 또한 켜질 것이다."
+msgstr "시련: 화로에 물건을 넣어야 하며, 넣을 경우 다른 화로의 불꽃 또한 켜질 것이다."
 
 # EDID: SFBGS001_MS01_CipherFail, REC: MESG:DESC
 msgctxt "000EA8"
@@ -908,8 +908,8 @@ msgid ""
 "one must be placed on each altar to complete the ritual. For now, just "
 "activate the two switches."
 msgstr ""
-"시련: 방은 환각 가스로 채워져 있다. 방안의 두개의 제단 위에 각각 성상을 놓아야 한다. 주 성소에는 네 개의 성상이 있으며, 각 "
-"제단에 한 개씩 놓어야 한다. 당장은, 그렇게 성상을 놓아 두 개의 스위치를 작동시키면 된다."
+"시련: 방 전체가 환각 가스로 채워져 있다. 방 안의 두 개의 제단 위에 각각 성상을 놓아야 한다. 주 성소에는 네 개의 성상이 있으며, "
+"각 제단에 한 개씩 놓아야 한다. 당장은, 그렇게 성상을 놓아 두 개의 스위치를 작동시키면 된다."
 
 # EDID: SFBGS001_MQ02_Temp_OptionalMSG04, REC: MESG:DESC
 msgctxt "000ECB"
@@ -1745,27 +1745,29 @@ msgid ""
 " I've been informed of the crisis affecting the city, and need to work with "
 "the High Council to avert further disaster."
 msgstr ""
+"나는 바룬 가문의 본거지인 다즈라에 착륙해, 바룬 사람들에게 인정받기 위해 통과의례를 치뤘다. 도시에 닥친 위기 상황을 보고받았고, 더 "
+"큰 재앙을 막기 위해 대의회와 협력해야 한다."
 
 # EDID: SFBGS001_MQ02, REC: QUST:CNAM
 msgctxt "0114A5"
 msgid ""
 "I have become a member of House Va'ruun, and now must speak with the High "
 "Council to find out what is happening in Dazra."
-msgstr ""
+msgstr "나는 바룬 가문의 일원이 되었다. 이제 다즈라에서 무슨 일이 일어나고 있는지 대의회와 상의해야 한다."
 
 # EDID: SFBGS001_MQ02, REC: QUST:CNAM
 msgctxt "0114A6"
 msgid ""
 "I've finished the ritual and need to talk to the Herald to find out what "
 "awaits me next in Dazra."
-msgstr ""
+msgstr "의식을 마쳤으니 전령과 이야기를 나눠 다즈라에서 어떤 일이 기다리고 있는지 알아봐야겠다."
 
 # EDID: SFBGS001_MQ02, REC: QUST:CNAM
 msgctxt "0114A7"
 msgid ""
 "After traversing a cave in Dazra, I've come to a final chamber and must "
 "complete a ritual in order to become part of House Va'ruun."
-msgstr ""
+msgstr "다즈라의 동굴을 통과해, 마지막 방에 도착했다. 나는 바룬 가문의 일원이 되기 위해 통과의례를 완료해야 한다."
 
 # EDID: SFBGS001_MQ02, REC: QUST:CNAM
 msgctxt "0114A8"
@@ -1774,20 +1776,22 @@ msgid ""
 "ritual used to convert outsiders. I need to \"Walk the Serpent's Path\" and "
 "see where it leads me."
 msgstr ""
+"위기에 처한 바룬 가문을 돕기 위해, 외부인을 개종시키는 통과의례를 치르기로 동의했다. '뱀의 길'을 걸어가 어디로 인도받게 될지 "
+"확인해야 한다."
 
 # EDID: SFBGS001_MQ02, REC: QUST:CNAM
 msgctxt "0114A9"
 msgid ""
 "I need to speak to a \"Herald of the Serpent\" to integrate myself into "
 "Va'ruun society."
-msgstr ""
+msgstr "바룬 사회의 인정을 받으려면 '뱀의 전령'과 대화해야 한다."
 
 # EDID: SFBGS001_MQ02, REC: QUST:CNAM
 msgctxt "0114AA"
 msgid ""
 "I've agreed to become part of House Va'ruun in order to aid them during the "
 "crisis they're experiencing."
-msgstr ""
+msgstr "나는 바룬 가문이 위기를 겪고 있는 상황에서 사람들을 돕기 위해 바룬 가문의 일원이 되기로 동의했다."
 
 # EDID: SFBGS001_MQ02, REC: QUST:CNAM
 msgctxt "0114AB"
@@ -1795,7 +1799,7 @@ msgid ""
 "The appearance of a Phantom at the landing pad in Dazra seems to have shaken"
 " up everyone gathered there. I should speak to the Councilor to find out "
 "what's going on."
-msgstr ""
+msgstr "다즈라의 착륙장에 유령이 나타나 그곳에 모인 사람들이 모두 동요하고 있는 것 같다. 의원을 만나서 무슨 일인지 알아봐야겠다."
 
 # EDID: SFBGS001_MQ02, REC: QUST:CNAM
 msgctxt "0114AC"
@@ -1804,13 +1808,15 @@ msgid ""
 " caused quite a reaction among the people gathered. As on the Oracle, it "
 "doesn't seem hostile. I should attempt to converse with it."
 msgstr ""
+"착륙 후 다즈라의 경비대원과 대치하는 상황에서, 유령이 등장하여 그 자리에 모인 사람들 사이에 큰 반향을 일으켰다. 오라클의 유령과 "
+"마찬가지로 적대적이지는 않은 것 같다. 대화를 시도해 봐야겠다."
 
 # EDID: SFBGS001_MQ02, REC: QUST:CNAM
 msgctxt "0114AD"
 msgid ""
 "There seems to be a group of people gathered at the landing pad in Dazra, "
 "and they appear to be waiting for me. I should find out what's going on."
-msgstr ""
+msgstr "다즈라의 착륙장에 한 무리의 사람들이 모여서 나를 기다리고 있는 것 같다. 무슨 일인지 알아봐야겠다."
 
 # EDID: SFBGS001_MQ02, REC: QUST:CNAM
 msgctxt "0114AE"
@@ -1819,6 +1825,8 @@ msgid ""
 " on the surface is attempting to contact the Oracle. I should land and "
 "investigate."
 msgstr ""
+"나는 위성의 궤도를 돌고 있는 것 같다. 위성에는 사람이 살고 있는 것 같다. 위성 지표면의 누군가가 오라클과 접촉을 시도하고 있다. "
+"착륙해서 조사해야겠다."
 
 # EDID: SFBGS001_co_gun_mod_ParticleMachineGun_Muzzle_SpreadNozzle, REC:
 # COBJ:DESC
@@ -2386,7 +2394,7 @@ msgctxt "012413"
 msgid ""
 "In these humble quarters, in the first year of settlement, resided Speaker "
 "Jinan Va'ruun, chosen of the Great Serpent."
-msgstr ""
+msgstr "이 초라한 거처에서, 정착 첫 해, 위대한 뱀의 선택을 받은 대변자 지난 바룬 님이 거주하시었다."
 
 # EDID: SFBGS001_MQ05, REC: QUST:CNAM
 msgctxt "012476"
@@ -2395,6 +2403,8 @@ msgid ""
 "information that could help with the situation in Dazra. I should explore "
 "thoroughly to see what might be here."
 msgstr ""
+"마린 댐에 들어갈 기회를 얻었다. 둘케프 가문은 그 댐에 다즈라의 상황을 해결할 수 있는 정보가 있을 거라 생각하고 있다. 댐에 뭐가 "
+"있는지 철저히 조사해 봐야겠다."
 
 # EDID: SFBGS001_MQ05, REC: QUST:CNAM
 msgctxt "012477"

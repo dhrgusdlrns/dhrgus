@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2024-10-17 14:43+0000\n"
+"PO-Revision-Date: 2024-10-19 11:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -994,7 +994,7 @@ msgstr ""
 "않았지만, 위대한 뱀의 의지도 배신하고 싶지 않아 하셨다. 그래서 잔다르 님은 대의회에서 자신의 견해를 알렸다. 잔다르 님은 장막의 날을 "
 "위해 정당한 계승권을 주장하였다.\n"
 "\n"
-"오직 잔다르와 같은 집에 기거하기로 한 마린 가문의 신부만이 잔다르 님의 주장을 지지하는 용기를 발휘하였고, 겁쟁이 자렉은 외부인들과의 "
+"오직 잔다르와 같은 집에 기거하기로 한 마린 가문의 신부만이 잔다르 님의 주장을 지지하는 용기를 발휘하였고, 겁쟁이 자렉은 이방인들과의 "
 "불안한 평화를 유지하기 위해 잔다르 님과 마린 가문 전원을 추방하였다.\n"
 "\n"
 "그러나 잔다르 님은 침묵의 그림자 속으로 빠져들기보다는, 선왕의 숙원을 이루기 위해 뜻을 받들어 뱀의 성전을 지속하였다."
@@ -1211,6 +1211,13 @@ msgid ""
 "\n"
 "If we die here, let it be known that Mujeen Ka'dic is the betrayer."
 msgstr ""
+"다즈라의 연락책이 잔다르의 안식처는 숨겨져 있고, 키스라니 둘케프라는 자는 처리할 수 있을 거라고 장담한다.\n"
+"\n"
+"하지만 우리는 전에도 자렉의 자식들을 믿었고 그들은 비겁하게도 위대한 뱀을 저버리고 말았다.\n"
+"\n"
+"이제 이방인이 우리가 위험하지 않다고 확신한 지 얼마 지나지 않아 우리리의 집으로 들어오다니.\n"
+"\n"
+"우리가 여기서 죽게 된다면, 무진 카딕이 배신자임을 알려야만 한다."
 
 # EDID: SFBGS001_MQ04_TrackerDistance, REC: MESG:DESC
 msgctxt "001C28"
@@ -1776,7 +1783,7 @@ msgid ""
 "ritual used to convert outsiders. I need to \"Walk the Serpent's Path\" and "
 "see where it leads me."
 msgstr ""
-"위기에 처한 바룬 가문을 돕기 위해, 외부인을 개종시키는 통과의례를 치르기로 동의했다. '뱀의 길'을 걸어가 어디로 인도받게 될지 "
+"위기에 처한 바룬 가문을 돕기 위해, 이방인을 개종시키는 통과의례를 치르기로 동의했다. '뱀의 길'을 걸어가 어디로 인도받게 될지 "
 "확인해야 한다."
 
 # EDID: SFBGS001_MQ02, REC: QUST:CNAM
@@ -4181,14 +4188,14 @@ msgctxt "0148E5"
 msgid ""
 "I was able to help Ekris complete the Mourning Device in hope of gaining "
 "access to the Scaled Citadel."
-msgstr ""
+msgstr "나는 비늘 성채에 접근할 수 있기를 바라면서, 에크리스를 도와 모어닝 장치를 완성했다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148E6"
 msgid ""
 "I've assisted the noble Houses and all that remains is for Ekris to make the"
 " final adjustments to the Mourning Device."
-msgstr ""
+msgstr "귀족 가문들을 도왔다. 이제 에크리스가 모어닝 장치를 최종 조정하는 일만 남았다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148E7"
@@ -4197,137 +4204,139 @@ msgid ""
 " He wants me to find him in the Scaled Citadel. I must resume aiding the "
 "noble Houses so Ekris can complete the Mourning Device."
 msgstr ""
+"이나자를 도와서 아나스코 바룬과 이야기를 나눴다. 아나스코는 우리가 분명히 연결되어 있다고 생각했다. 아나스코는 비늘 성채에서 자신을 "
+"찾으라고 했다. 에크리스가 모어닝 장치를 완성할 수 있도록 귀족 가문을 돕는 일을 다시 시작해야 한다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148E8"
 msgid "I need to assist Inaza before moving forward with the noble Houses."
-msgstr ""
+msgstr "귀족 가문 일을 하기 전에 이나자를 도와야 한다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148E9"
 msgid ""
 "I've assisted House Dul'kehf and House Veth'aal. All that remains is House "
 "Ka'dic."
-msgstr ""
+msgstr "둘케프 가문과 베타알 가문을 도왔다. 이제 카딕 가문만 남았다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148EA"
 msgid ""
 "I've assisted House Dul'kehf and House Ka'dic. All that remains is House "
 "Veth'aal."
-msgstr ""
+msgstr "둘케프 가문과 카딕 가문을 도왔다. 이제 베타알 가문만 남았다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148EB"
 msgid ""
 "I aided House Dul'kehf, but I still need to gain assistance from House "
 "Ka'dic and House Veth'aal."
-msgstr ""
+msgstr "둘케프 가문을 도왔다. 하지만 아직 카딕 가문과 베타알 가문의 조력을 구해야 한다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148EC"
 msgid ""
 "I have chosen to assist House Dul'kehf. I must complete my business with "
 "them before I can assist House Veth'aal."
-msgstr ""
+msgstr "둘케프 가문을 돕기로 했다. 베타알 가문을 돕기 전에 둘케프 가문의 일을 완료해야 한다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148ED"
 msgid ""
 "I have chosen to assist House Dul'kehf. I must complete my business with "
 "them before I can assist House Ka'dic."
-msgstr ""
+msgstr "둘케프 가문을 돕기로 했다. 카딕 가문을 돕기 전에 둘케프 가문의 일을 완료해야 한다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148EE"
 msgid ""
 "I have chosen to assist House Dul'kehf. I must complete my business with "
 "them before I can assist the other Houses."
-msgstr ""
+msgstr "둘케프 가문을 돕기로 했다. 다른 가문을 돕기 전에 둘케프 가문의 일을 완료해야 한다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148EF"
 msgid ""
 "I've assisted House Dul'kehf and House Veth'aal. All that remains is House "
 "Ka'dic."
-msgstr ""
+msgstr "둘케프 가문과 베타알 가문을 도왔다. 이제 카딕 가문만 남았다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148F0"
 msgid ""
 "I've assisted House Ka'dic and House Veth'aal. All that remains is House "
 "Dul'kehf."
-msgstr ""
+msgstr "카딕가문과 베타알 가문을 도왔다. 이제 둘케프 가문만 남았다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148F1"
 msgid ""
 "I aided House Veth'aal, but I still need to gain assistance from House "
 "Dul'kehf and House Ka'dic."
-msgstr ""
+msgstr "베타알 가문을 도왔다. 하지만 아직 둘케프 가문과 카딕 가문의 조력을 구해야 한다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148F2"
 msgid ""
 "I have chosen to assist House Veth'aal. I must complete my business with "
 "them before I can assist House Ka'dic."
-msgstr ""
+msgstr "베타알 가문을 돕기로 했다. 카딕 가문을 돕기 전에 베타알 가문의 일을 완료해야 한다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148F3"
 msgid ""
 "I have chosen to assist House Veth'aal. I must complete my business with "
 "them before I can assist House Dul'kehf."
-msgstr ""
+msgstr "베타알 가문을 돕기로 했다. 둘케프 가문을 돕기 전에 베타알 가문의 일을 완료해야 한다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148F4"
 msgid ""
 "I have chosen to assist House Veth'aal. I must complete my business with "
 "them before I can assist the other Houses."
-msgstr ""
+msgstr "베타알 가문을 돕기로 했다. 다른 가문을 돕기 전에 베타알 가문의 일을 완료해야 한다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148F5"
 msgid ""
 "I've assisted House Ka'dic and House Veth'aal. All that remains is House "
 "Dul'kehf."
-msgstr ""
+msgstr "카딕 가문과 베타알 가문을 도왔다. 이제 둘케프 가문만 남았다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148F6"
 msgid ""
 "I've assisted House Dul'kehf and House Ka'dic. All that remains is House "
 "Veth'aal."
-msgstr ""
+msgstr "둘케프 가문과 카딕 가문을 도왔다. 이제 베타알 가문만 남았다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148F7"
 msgid ""
 "I aided House Ka'dic, but I still need to gain assistance from House "
 "Dul'kehf and House Veth'aal."
-msgstr ""
+msgstr "카딕 가문을 도왔다. 하지만 아직 둘케프 가문과 베타알 가문의 조력을 구해야 한다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148F8"
 msgid ""
 "I have chosen to assist House Ka'dic. I must complete my business with them "
 "before I can assist House Veth'aal."
-msgstr ""
+msgstr "카딕 가문을 돕기로 했다. 베타알 가문을 돕기 전에 카딕 가문의 일을 완료해야 한다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148F9"
 msgid ""
 "I have chosen to assist House Ka'dic. I must complete my business with them "
 "before I can assist House Dul'kehf."
-msgstr ""
+msgstr "카딕 가문을 돕기로 했다. 둘케프 가문을 돕기 전에 카딕 가문의 일을 완료해야 한다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148FA"
 msgid ""
 "I have chosen to assist House Ka'dic. I must complete my business with them "
 "before I can assist the other Houses."
-msgstr ""
+msgstr "카딕 가문을 돕기로 했다. 다른 가문을 돕기 전에 카딕 가문의 일을 완료해야 한다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148FB"
@@ -4335,7 +4344,7 @@ msgid ""
 "In order to complete the Mourning Device to gain access to the Scaled "
 "Citadel, I need the assistance of the three noble Houses: House Dul'kehf, "
 "House Ka'dic, and House Veth'aal."
-msgstr ""
+msgstr "모어닝 장치를 완성하여 비늘 성채에 들어가려면, 둘케프, 카딕, 베타알 세 귀족 가문의 도움이 필요하다."
 
 # EDID: SFBGS001YGPOI08_Slate, REC: BOOK:DESC
 msgctxt "014905"

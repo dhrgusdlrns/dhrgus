@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-10-13 17:43+0000\n"
+"PO-Revision-Date: 2024-10-22 11:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -9793,11 +9793,19 @@ msgid ""
 msgstr ""
 "[추적자 동맹의 특별한 역사를 다룬 다소 따분한 책이다. 이하는 일부를 발췌한 내용이다.]\n"
 "\n"
-"2217년은 나리온 조약이 체결된 지 불과 1년 후이자, 20년에 걸친 전쟁의 종식을 알리는 해였다. 그러나 전쟁이 격화되는 동안 사회는 온갖 종류의 문제로 몸살을 앓고 있었다. 군경이 자원 대부분을 전쟁에 투입하면서 기아와 공급망 붕괴, 경제적 불안정, 그리고 범죄가 만연했다.\n"
+"2217년은 나리온 조약이 체결된 지 불과 1년 후이자, 20년에 걸친 전쟁의 종식을 알리는 해였다. 그러나 전쟁이 격화되는 동안 사회는 "
+"온갖 종류의 문제로 몸살을 앓고 있었다. 군경이 자원 대부분을 전쟁에 투입하면서 기아와 공급망 붕괴, 경제적 불안정, 그리고 범죄가 "
+"만연했다.\n"
 "\n"
-"국가가 인정하는 법무 집행력이 부재한 상황에서, 국민은 스페이서와 해적, 기타 폭력적인 범죄자들을 처리하기 위해 초법적 살인의 형태로 직접 문제를 해결했다. 민간인들이 스스로 문제를 해결하는 과정에서 무고한 사람들이 살해당하는 문제가 커지자, 일부 자경단 시민은 그들의 생계를 위협할 수도 있는 규제를 개척 성계 정부들에게 맡기는 대신, 함께 뭉쳐 정부들과 협력하기로 하게 되었다.\n"
+"국가가 인정하는 법무 집행력이 부재한 상황에서, 국민은 스페이서와 해적, 기타 폭력적인 범죄자들을 처리하기 위해 초법적 살인의 형태로 "
+"직접 문제를 해결했다. 민간인들이 스스로 문제를 해결하는 과정에서 무고한 사람들이 살해당하는 문제가 커지자, 일부 자경단 시민은 그 "
+"사람들의 생계를 위협할 수도 있는 규제를 개척 성계 정부들에게 맡기는 대신, 함께 뭉쳐 정부들과 협력하기로 하게 되었다.\n"
 "\n"
-"따라서, 추적자 동맹은 공식적으로 인가된 방식으로 시스템 내에서 활동하며, 공식적인 현상수배 제도를 통해 범죄자들을 식민지 연합이나 자유항성 공동체에 인도하는 조직으로 형성되었다. 개척 성계의 정부들은 위험한 범죄자들을 추적하고 체포하기 위한 자원이 전쟁 이후에는 부족했기 때문에 이러한 협약이 이점이 된다고 여겼다. 엘리트 훈련을 받은 전문가들보다 이 문제를 더 잘 다룰 수 있는 이가 누구겠는가? 반면에, 자원이 있는 사람이라면 누구나 추적자들을 사적인 현상수배 목적으로 고용할 수 있다는 것은 공공연한 비밀이기도 하다. 이 체계는 완벽과는 거리가 멀지만, 오늘날에도 여전히 존재한다."
+"따라서, 추적자 동맹은 공식적으로 인가된 방식으로 시스템 내에서 활동하며, 공식적인 현상수배 제도를 통해 범죄자들을 식민지 연합이나 "
+"자유항성 공동체에 인도하는 조직으로 형성되었다. 개척 성계의 정부들은 위험한 범죄자들을 추적하고 체포하기 위한 자원이 전쟁 이후에는 "
+"부족했기 때문에 이러한 협약이 이점이 된다고 여겼다. 엘리트 훈련을 받은 전문가들보다 이 문제를 더 잘 다룰 수 있는 이가 누구겠는가? "
+"반면에, 자원이 있는 사람이라면 누구나 추적자들을 사적인 현상수배 목적으로 고용할 수 있다는 것은 공공연한 비밀이기도 하다. 이 체계는 "
+"완벽과는 거리가 멀지만, 오늘날에도 여전히 존재한다."
 
 #. EDID = SFBGS003_BountyCrime_08
 #. REC = MESG:DESC
@@ -18394,7 +18402,7 @@ msgstr "그리고 묻기 전에 말하겠는데, 아냐. 스타일리쉬한 장�
 #, fuzzy
 msgctxt "000405"
 msgid "It's just not the only way. We don't work for them, but with them."
-msgstr "그게 유일한 방법은 아니야. 우리는 그들을 위해 일하는 게 아니라 그들과 함께 일하는 거지."
+msgstr "그게 유일한 방법은 아니야. 우리는 그 사람들을 위해 일하는 게 아니라 그 사람들과 함께 일하는 거지."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Stache
@@ -18405,7 +18413,8 @@ msgstr "그게 유일한 방법은 아니야. 우리는 그들을 위해 일하�
 #, fuzzy
 msgctxt "000406"
 msgid "Not exactly. We take a cut of the bounty offered, but since some of these bounties come directly through the governments, it means they're technically paying us."
-msgstr "정확히는 아니야. 우리는 현상금의 일부를 받지만, 일부 현상금은 정부에서 직접 오니까 기술적으로는 그들이 우리한테 돈을 주는 셈이지."
+msgstr ""
+"정확히는 아니야. 우리는 현상금의 일부를 받지만, 일부 현상금은 정부에서 직접 오니까 기술적으로는 그 사람들이 우리한테 돈을 주는 셈이지."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Stache
@@ -19191,7 +19200,7 @@ msgstr "마음이 바뀌면 어떡해?"
 #, fuzzy
 msgctxt "000453"
 msgid "Anyway, go to the headquarters in Akila City and speak with them if you wish to join."
-msgstr "어쨌든, 가입하고 싶다면 아킬라 시티의 본부로 가서 그들과 얘기해."
+msgstr "어쨌든, 가입하고 싶다면 아킬라 시티의 본부로 가서 그 사람들과 얘기해."
 
 #. SCRIPT NOTES: For New Game +. The player has done this before, unbeknownst to Inevitable.  "Agent Number 1" / Confused / to Player Default
 #. ALIAS: Player Default
@@ -19273,7 +19282,8 @@ msgstr "난 이미 현상금 사냥꾼이었어. 임무를 맡으려면 꼭 추�
 #. REC = INFO:NAM1
 msgctxt "00046F"
 msgid "I heard there's some sort of secret panel of Trackers and government agents from the Settled Systems factions that decides who to put in the role."
-msgstr "개척 성계 세력 출신의 추적자들과 정부 요원들로 구성된 비밀 합의체가 있어서 그들이 누구를 그 역할에 앉힐지 결정한다고 들었어."
+msgstr ""
+"개척 성계 세력 출신의 추적자들과 정부 요원들로 구성된 비밀 합의체가 있어서 그 사람들이 누구를 그 역할에 앉힐지 결정한다고 들었어."
 
 #. SCRIPT NOTES:  / to TrackersAllianceAgentCydonia
 #. ALIAS: Player Default
@@ -19476,7 +19486,7 @@ msgstr "뭐, 농부라도 될까? 현실적으로 생각해. 난 이 삶밖에 �
 #. REC = INFO:NAM1
 msgctxt "0004D0"
 msgid "Maybe my kids will forgive me. I made a mistake by leaving them, I thought this life would help... it didn't."
-msgstr "아마 내 아이들이 날 용서해 줄 거야. 그들을 떠난 건 실수였어. 이런 삶이 도움이 될 줄 알았는데... 그렇지 않았지."
+msgstr "아마 내 아이들이 날 용서해 줄 거야. 그 사람들을 떠난 건 실수였어. 이런 삶이 도움이 될 줄 알았는데... 그렇지 않았지."
 
 #. SCRIPT NOTES: hopeful / Thinking / to Player Default
 #. ALIAS: SpeechNPC
@@ -21508,7 +21518,7 @@ msgstr "이제 돌아가는 것 말고는 할 일이 없겠네."
 #, fuzzy
 msgctxt "000596"
 msgid "Shame about Deke and the others. I never intended for them to die, but they knew the risks."
-msgstr "디크와 다른 사람들 일은 안타깝네. 그들이 죽는 걸 원한 건 아니었지만, 위험을 알고 있었잖아."
+msgstr "디크와 다른 사람들 일은 안타깝네. 그 사람들이 죽는 걸 원한 건 아니었지만, 위험을 알고 있었잖아."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Roach
@@ -24722,7 +24732,7 @@ msgstr "추적자 동맹은 점점 커져 가는 이 문제를 해결하기 위�
 #, fuzzy
 msgctxt "0006DB"
 msgid "See, you get it. And that's where I stand. I'm hired to bring 'em in, not decide their fate."
-msgstr "맞아, 넌 이해했어. 내 입장도 그래. 난 그들을 잡아오라고 고용됐지, 그들의 운명을 결정하라고 고용된 게 아니야."
+msgstr "맞아, 넌 이해했어. 내 입장도 그래. 난 그 사람들을 잡아오라고 고용됐지, 그 사람들의 운명을 결정하라고 고용된 게 아니야."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: AgentNo1
@@ -24752,7 +24762,9 @@ msgstr "말도 안 돼! 아무리 그래도 자신의 신상 정보를 포기하
 #. REC = INFO:NAM1
 msgctxt "0006DE"
 msgid "Use \"they\" or \"them\" when speaking about me, as to further protect my identity. However, that had already been my preference."
-msgstr "모두가 날 지칭할 땐 내 신상 정보가 알려지지 않도록, '그들' 이나 '그 사람'이라고 한다. 물론, 나는 예전부터 성별을 따지지 않는 사람이긴 했지."
+msgstr ""
+"모두가 날 지칭할 땐 내 신상 정보가 알려지지 않도록, '그 자' 또는 '그 사람'이라고 한다. 물론, 나는 예전부터 성별을 따지지 않는 "
+"사람이긴 했지."
 
 #. SCRIPT NOTES: Agent No. 1 should be pronounced "Agent Number One" / to Player Default
 #. ALIAS: AgentNo1
@@ -25421,7 +25433,7 @@ msgstr "수배범에 붙은 조건이 생사불문이면, 항상 사살을 선�
 #. REC = INFO:NAM1
 msgctxt "000720"
 msgid "While we do not punish the wicked, we deliver them to a higher authority who can use their omniscience to mete out justice as they see fit."
-msgstr "우리가 악인을 처벌하진 않지만, 그들을 더 높은 권위에 넘겨 전지전능한 힘으로 적절한 심판을 내릴 수 있게 해."
+msgstr "우리가 악인을 처벌하진 않지만, 그 사람들을 더 높은 권위에 넘겨 전지전능한 힘으로 적절한 심판을 내릴 수 있게 해."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Yama
@@ -25605,7 +25617,7 @@ msgstr "우리의 대화에서 어떤 지식을 얻고 싶어?"
 #, fuzzy
 msgctxt "000731"
 msgid "Under your belief, they would still face judgment at the end of their life."
-msgstr "네 믿음대로라면, 그들은 여전히 삶의 끝에 심판을 받겠지."
+msgstr "네 믿음대로라면, 그 사람들은 여전히 삶의 끝에 심판을 받겠지."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Yama
@@ -25744,7 +25756,9 @@ msgstr "봐, 그 당시에는 정부가 전쟁 중에 자원에 대한 더 긴�
 #. REC = INFO:NAM1
 msgctxt "00073E"
 msgid "The Trackers Alliance formed in 2217, shortly after the Narion War, as a way for ex-soldiers, mercenaries, and the like to put their skills to use hunting down fugitives"
-msgstr "추적자 동맹은 2217년, 나리온 전쟁 직후에 퇴역 군인, 용병 등이 도주범을 잡는 데 그들의 기술을 활용할 수 있는 방법으로 형성됐어."
+msgstr ""
+"추적자 동맹은 2217년, 나리온 전쟁 직후에 퇴역 군인, 용병 등이 도주범을 잡는 데 그 사람들의 기술을 활용할 수 있는 방법으로 "
+"형성됐어."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Yama
@@ -25993,7 +26007,7 @@ msgstr "긴 하루를 보낸 후 추적자가 긴장을 풀 수 있는 건 뭐�
 #, fuzzy
 msgctxt "000756"
 msgid "I'm just happy they decided to keep me on the payroll."
-msgstr "그들이 날 계속 고용하기로 결정해서 다행이야."
+msgstr "그 사람들이 날 계속 고용하기로 결정해서 다행이야."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: TwoShot
@@ -26825,7 +26839,7 @@ msgstr "그리고 현상금 점수를 비교할 사람이 필요해. 네가 할 
 #, fuzzy
 msgctxt "0007A7"
 msgid "I'm with them. Seems childish."
-msgstr "나도 그들 편이야. 좀 유치해 보이는데."
+msgstr "나도 그 사람들 편이야. 좀 유치해 보이는데."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Stache

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2024-10-22 11:43+0000\n"
+"PO-Revision-Date: 2024-10-23 02:00+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -1034,7 +1034,7 @@ msgstr "저온 살균한 무알코올 그로트 젖."
 # EDID: SFBGS001_Drink_Alc_VaRuun_Koza, REC: ALCH:DESC
 msgctxt "0011DA"
 msgid "Fermented groat milk. Typically paired with every meal."
-msgstr "발효시킨 그로트 젖 음료. 보통 식사를 할 때 함께 마신다."
+msgstr "발효시킨 그로트 젖 음료. 보통 매 끼니마다 같이 마신다."
 
 # EDID: SFBGS001_Drink_Alc_VaRuun_Seaweed, REC: ALCH:DESC
 msgctxt "0011DC"
@@ -2624,12 +2624,12 @@ msgctxt "012654"
 msgid ""
 "The footprints here are less sporadic. You can tell that someone rested here"
 " and then headed to the northwest."
-msgstr ""
+msgstr "발자국이 더 많이 나있다. 누군가 이곳에서 휴식을 취한 후 북서쪽으로 향한 것 같다."
 
 # EDID: SFBGS001_MQ04_Bloodstain02MSG, REC: MESG:DESC
 msgctxt "012655"
 msgid "More blood, but no signs of a struggle."
-msgstr ""
+msgstr "핏자국은 많지만, 몸싸움의 흔적은 없다."
 
 # EDID: SFBGS001_MQ04_Footprints01ExamineBountyMSG, REC: MESG:DESC
 msgctxt "012656"
@@ -2638,6 +2638,10 @@ msgid ""
 "\n"
 "The footprints are sporadic, but the tread tells you they're only from one person. The final prints head west. Vaeric must have fled the camp after attempting to put up a small fight."
 msgstr ""
+"[현상금 사냥꾼]\n"
+"\n"
+"발자국이 드문드문 나있다. 보아하니 한 사람의 발자국임을 알 수 있다. 마지막 발자국은 서쪽을 향해 나있다. 베릭은 작은 싸움을 벌이다가 "
+"캠프를 떠났을 것이다."
 
 # EDID: SFBGS001_MQ04_Bloodstain01ExamineMedicMSG, REC: MESG:DESC
 msgctxt "012657"
@@ -2646,20 +2650,24 @@ msgid ""
 "\n"
 "The stain itself is large, but the ground below isn't saturated. The blood covers only the surface, so the bloodloss isn't as extreme as one might assume from looking at it. It's certainly not from any small injury, but at least the victim should still be alive."
 msgstr ""
+"[야전 의무병]\n"
+"\n"
+"핏자국 자체는 크지만, 아래 땅은 젖은 상태가 아니다. 피가 표면만 덮고 있기 때문에, 보이는 만큼 출혈이 심하지는 않을 것이다. 작은 "
+"부상으로 생긴 출혈은 아니겠지만, 적어도 피해자는 아직 살아있을 것이다."
 
 # EDID: SFBGS001_MQ04_Bloodstain01ExamineMSG, REC: MESG:DESC
 msgctxt "012658"
 msgid ""
 "This bloodstain is large, but it's hard to tell how much blood was lost. "
 "There's no body, so the victim may still be alive."
-msgstr ""
+msgstr "이 핏자국은 크지만, 얼마나 많은 피를 흘렸는지 가늠하기는 어렵다. 시신이 없으므로, 피해자는 아직 살아있을 수 있다."
 
 # EDID: SFBGS001_MQ04_Footprints01ExamineMSG, REC: MESG:DESC
 msgctxt "012659"
 msgid ""
 "The footprints are all over the place. It's hard to make out anything "
 "useful."
-msgstr ""
+msgstr "발자국이 사방에 나있다. 유용한 정보를 알아내기 어렵다."
 
 # EDID: SFBGS001_MQ04_VortexSpawnExamineXenoMSG, REC: MESG:DESC
 msgctxt "01265A"
@@ -2668,13 +2676,18 @@ msgid ""
 "\n"
 "This creature's elongated body and strange protrusions make it seem alien compared to the typical fauna of Va'ruun'kai. The body itself looks like an amalgamation of parts: human-like appendages, exposed bones and muscle, and multiple eyes or at least eye-like features. Feeling along the body, you find something."
 msgstr ""
+"[외계생물학자]\n"
+"\n"
+"이 생물은 길쭉한 몸통과 이상한 돌출부 때문에 바룬카이의 전형적인 동물군에 비해 외계생물처럼 보인다. 신체 자체는 여러 부분이 혼합된 "
+"것처럼 보인다. 인간 같은 부속기관, 노출된 뼈와 근육, 눈인지 눈같이 생긴 부분인지가 여러 개 난 모습이 그러하다. 신체를 따라 "
+"더듬다, 무언가를 발견했다."
 
 # EDID: SFBGS001_MQ04_VortexSpawnExamineMSG, REC: MESG:DESC
 msgctxt "01265B"
 msgid ""
 "This creature's long body looks like it's made of tentacles and bones. Its "
 "sharp teeth and multiple eyes make it look especially alien."
-msgstr ""
+msgstr "이 생물의 길쭉한 신체는 촉수와 뼈로 이루어진 것처럼 보인다. 날카로운 이빨과 여러 개의 눈이 특히 외계인처럼 보인다."
 
 # EDID: SFBGS001_MS01, REC: QUST:CNAM
 msgctxt "012682"
@@ -3125,6 +3138,11 @@ msgid ""
 "\n"
 "It's useless now, but you salvaged some materials."
 msgstr ""
+"[공학]\n"
+"\n"
+"테인이 배릭에게 준 추적 장치다. 도착했을 즈음 테인이 핑을 꺼버렸다. 배릭이 추적 장치를 여기 남겨뒀다면, 서둘러 떠났을 것이다.\n"
+"\n"
+"추적 기능은 쓸 수 없지만, 재료로 재활용할 수는 있었다."
 
 # EDID: SFBGS001_MQ04_TrackerExamineMSG, REC: MESG:DESC
 msgctxt "012B28"
@@ -3132,11 +3150,12 @@ msgid ""
 "This is the tracking device that Tane gave Vaeric. Tane turned off the ping "
 "when you arrived. If Vaeric left the tracker here, he left in a hurry."
 msgstr ""
+"테인이 배릭에게 준 추적 장치다. 도착했을 즈음 테인이 핑을 꺼버렸다. 배릭이 추적 장치를 여기 남겨뒀다면, 서둘러 떠났을 것이다."
 
 # EDID: SFBGS001_MQ04_TrackerMainMSG, REC: MESG:DESC
 msgctxt "012B2B"
 msgid "A tracking device was left here."
-msgstr ""
+msgstr "추적 장치가 여기 남겨져 있다."
 
 # EDID: SFBGS001_Chem_VortexIchor, REC: ALCH:DESC
 msgctxt "012F4F"
@@ -4406,6 +4425,10 @@ msgid ""
 "\n"
 "The footprints are sporadic, but the tread tells you they're only from one person. The final prints head west. Vaeric must have fled the camp after attempting to put up a small fight."
 msgstr ""
+"[환경 조사]\n"
+"\n"
+"발자국이 드문드문 나있다. 보아하니 한 사람의 발자국임을 알 수 있다. 마지막 발자국은 서쪽을 향해 나있다. 베릭은 작은 싸움을 벌이다가 "
+"캠프를 떠났을 것이다."
 
 # EDID: SFBGS001_MQ04_Footprints01ExamineScavengingMSG, REC: MESG:DESC
 msgctxt "014914"
@@ -4414,6 +4437,10 @@ msgid ""
 "\n"
 "The footprints are sporadic, but the tread tells you they're only from one person. The final prints head west. Vaeric must have fled the camp after attempting to put up a small fight."
 msgstr ""
+"[자원 탐색]\n"
+"\n"
+"발자국이 드문드문 나있다. 보아하니 한 사람의 발자국임을 알 수 있다. 마지막 발자국은 서쪽을 향해 나있다. 베릭은 작은 싸움을 벌이다가 "
+"캠프를 떠났을 것이다."
 
 # EDID: SFBGS001_AHPOI09_Note_Climbing04, REC: BOOK:DESC
 msgctxt "014919"
@@ -6401,7 +6428,7 @@ msgctxt "014E1D"
 msgid ""
 "When trying to access the lower level, the door was locked. I need to find a"
 " way to open it."
-msgstr ""
+msgstr "아래층으로 내려가려고 하는데 문이 잠겼다. 문을 열 방법을 찾아야 한다."
 
 # EDID: SFBGS001_NPC_VaruunRedeemed_Perk, REC: PERK:DESC
 msgctxt "03380A"

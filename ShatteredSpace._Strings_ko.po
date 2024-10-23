@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2024-10-23 02:00+0000\n"
+"PO-Revision-Date: 2024-10-27 09:58+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -1072,6 +1072,7 @@ msgid "Socks"
 msgstr "양말"
 
 # EDID: SFBGS001_VkaiZ03_AudioSlate04, REC: BOOK:DESC
+#, fuzzy
 msgctxt "001815"
 msgid ""
 "Young Woman's Voice: You keep too many notes!  It's confusing.\n"
@@ -1090,6 +1091,22 @@ msgid ""
 "\n"
 "Young Woman's Voice: By Jinan, that's a terrible system!"
 msgstr ""
+"젊은 여성의 목소리: 쪽지가 너무 많아요! 헷갈려요.\n"
+"\n"
+"레이겐: 나한테는 괜찮은걸.\n"
+"\n"
+"젊은 여성의 목소리: 그냥 아무 단어나 막 써놓으신 거 같아요. 왜 \"키카드 - 뻔뻔하게 거짓말할 때 내놓는 발은?\"이라고 적혀 있죠?"
+"\n"
+"\n"
+"레이겐: 오리!\n"
+"\n"
+"젊은 여성의 목소리: 네?\n"
+"\n"
+"레이겐: 누군가가 뻔뻔하게 거짓말을 하면 오리발을 내밀지! 나는 키카드를 세면대 위의 오리에다가 두고 있단다.\n"
+"\n"
+"세면대에서는 흐르는 물로 손을 씻지. 잊혀진 기억은 그렇게 흐른단다. 뇌 깊은 곳으로 음푹 가라앉지.\n"
+"\n"
+"젊은 여성의 목소리: 세상에, 정말 끔찍한 시스템이네요!"
 
 # EDID: SFBGS001_VkaiZ03_AudioSlate01, REC: BOOK:DESC
 msgctxt "001819"
@@ -1100,6 +1117,11 @@ msgid ""
 "\n"
 "We'll get everything sorted and just how you like it. Love you, and see you soon!"
 msgstr ""
+"젊은 여성의 목소리: 혹시 잊으셨을까 봐요, 내일 할아버지 댁에서 같이 정리하는 거 도와드릴게요.\n"
+"\n"
+"쓰레기는 쓰레기통에 버리고요, 잡동사니는 따로 선반에 정리하는 거예요.\n"
+"\n"
+"할아버지가 딱 맘에 들 방식으로 집 정리하도록 해요. 사랑해요, 곧 만나요!"
 
 # EDID: SFBGS001_VkaiZ03_AudioSlate02, REC: BOOK:DESC
 msgctxt "00181D"
@@ -1128,6 +1150,30 @@ msgid ""
 "\n"
 "Reigen: Deal."
 msgstr ""
+"젊은 여성의 목소리: 제가 뭘 찾았는지 보세요! 뮤직 박스예요!\n"
+"\n"
+"레이겐: 아, 그 오래된 물건? 더 이상 작동하지도 않는단다.\n"
+"\n"
+"젊은 여성의 목소리: 그건 할아버지가 노래를 불러 주지 않기 때문이에요.\n"
+"\n"
+"레이겐: 뭐라고?\n"
+"\n"
+"젊은 여성의 목소리: 이런 물건은 먼저 노래를 불러 줘야 해요. 노래를 채우면 뮤직 박스가 멜로디를 기억해서 다시 들려줄 거예요.\n"
+"\n"
+"레이겐: 잘 모르겠구나. 정말 그렇게 작동하는 게 맞니?\n"
+"\n"
+"젊은 여성의 목소리: *홀로 길 잃은 채, 꿈의 속삭임 속에서. 들리지 않는 어느 노랫소리, 우리의 갇힌 세상을 향해.*\n"
+"\n"
+"레이겐: 참 기억에 남는 노래구나. 잊기 어려워, 귓전에 벌레처럼 맴도는...\n"
+"\n"
+"젊은 여성의 목소리: 귀에 벌레가 맴돌면 잊기 어렵죠.\n"
+"\n"
+"레이겐: 내가 이 노래를 들으면, 아마 오늘 일을 기억할 것 같아서 그렇단다. 우리를 기억할 거야. 아마 너도 그럴 것 같구나.\n"
+"\n"
+"젊은 여성의 목소리: 음, 저도 잠시 여기 머물 계획이라서요. 좋아요, 그렇게 해요. 만약 무슨 일이 생겨서 우리가 서로를 잊어버린다면, "
+"이 노래를 연주해서 다시 기억하도록 해요.\n"
+"\n"
+"레이겐: 그렇게 하자꾸나."
 
 # EDID: SFBGS001_VkaiZ03_AudioSlate03, REC: BOOK:DESC
 msgctxt "001821"
@@ -1144,6 +1190,18 @@ msgid ""
 "\n"
 "Young Woman's Voice: *Sigh*, it's no wonder you're always losing your things."
 msgstr ""
+"젊은 여성의 목소리: 선반에 공간이 부족하다는 건 알지만, 난로에다 물건 좀 두지 마세요. 아무 이유도 없이 종이 타월 상자가 가득 "
+"올려져 있잖아요!\n"
+"\n"
+"조리대에 있는 물건들은 말할 것도 없고요!\n"
+"\n"
+"레이겐: 그게, 일부러 거기에 둔 게 아니란다! 나는 지금 거실에 있는데, 마침 물건을 둘 곳이 필요하고, 그래서 그럴 수밖에 없어.\n"
+"\n"
+"그리고 둥근 물건을 모아두려고 한 거야. 둥근 원, 둥근 물건. 그리고 내 양말 친구의 헬멧은 둥글지.\n"
+"\n"
+"나는 단어로 연상해서 정리하는 시스템을 세웠단다.\n"
+"\n"
+"젊은 여성의 목소리: *한숨*, 그러니 할아버지가 항상 물건을 잃어버리는 거죠."
 
 # EDID: SFBGS001_VkaiZ03_DataSlate01, REC: BOOK:DESC
 msgctxt "001828"
@@ -1158,6 +1216,15 @@ msgid ""
 "\n"
 "From now on, no more word association! It just makes things worse. A duck is a duck!"
 msgstr ""
+"자, 할아버지 집을 정리할 계획을 세웠어요. 대부분의 집안 물건들에다가 표시를 해 놓았으니까 이제 정리를 시작할 수 있을 거예요.\n"
+"\n"
+"\"쓰레기\"라고 표시된 건 쓰레기통에다가 넣어요.\n"
+"\n"
+"\"잡동사니\"라고 표시된 건 정리 상자에다가 넣어요.\n"
+"\n"
+"그리고 안에 들어갈 수 있는 옷장에는 중요한 물건을 보관하는 거예요.\n"
+"\n"
+"이제부터 단어로 연상해서 정리하는 건 관두세요! 오히려 엉망이 되잖아요. 오리는 오리일 뿐이에요!"
 
 # EDID: SFBGS001_VkaiZ03_IrisPhantomName, REC: MESG:DESC
 msgctxt "001912"
@@ -1346,6 +1413,22 @@ msgid ""
 "\n"
 "More importantly, my gut tells me this is the spot. So I put a crew together to go and have a look-see."
 msgstr ""
+"바룬카이 어딘가에 묻혀 있다는 큰 건수에 대한 얘기를 우연찮게 들었다.\n"
+"\n"
+"보통 외딴 세계에서 큰 건을 해냈다고 늘어놓는 술 취한 이야기는 이미 백 번이나 들었고, 대부분은 글로 쓸 가치도 없다는 것은 잘 알고 "
+"있다.\n"
+"\n"
+"대부분의 경우 세부 사항이 얼마나 확실한지로 알 수 있다. 나쁜 이야기는 충분하지 않고 좋은 이야기일수록 많아지지. 하지만 진짜 이야기는 "
+"즉각 사실로 이어진다. 거짓말, 허세 하나 없을 정도로.\n"
+"\n"
+"이 이야기는 \"구스 부인\"이라는 별명을 가진 크림슨 함대 해적에 대한 것이다. 이 여자는 자신의 모든 소지품을 한곳에 숨겼다고 "
+"주장했으나, 죽은 후 공유할 사람이 없었기 때문에 구스 부인의 물건을 찾는 사람은 누구나 가져가도 좋다고 전했다더군. 단서 하나만 "
+"남겼다고... 폭포 위에 서 있는 나무 스케치와 이름. 안개서린 동굴.\n"
+"\n"
+"지금까지 아무도 안개서린 동굴이 어디인지 몰랐지만 설명과 몇 가지 스캔을 바탕으로 보면, 드디어 일치한 곳을 찾은 것 같다. 이 장소는 "
+"물이 흐르고 지붕에 빛이 새어들어올 수 있는 구멍이 있는 것 같군.\n"
+"\n"
+"더 중요한 것은, 내 직감이 바로 이곳이 그 장소라고 말하고 있다는 것이다. 그래서 난 일행을 모아 가서 살펴보기로 했다."
 
 # EDID: SFBGS001_Food_ChunksPack_Chunks_GroatChunks, REC: ALCH:DESC
 msgctxt "002184"
@@ -1361,6 +1444,10 @@ msgid ""
 "\n"
 "Our lives are not our own. We must place our trust in the wisdom and guidance of the Great Serpent and His Speaker, and make of ourselves the instruments of His will. Only in faithful service will we be found worthy."
 msgstr ""
+"구원의 성소에서부터 시작되어, 말씀을 읽고 위대한 뱀의 가르침을 기억하기 위한 우리의 여정은 이곳으로 이어졌다.\n"
+"\n"
+"우리의 삶은 우리 자신의 것이 아니다. 우리는 위대한 뱀과 그분의 대변자의 지혜와 인도를 믿으며, 우리 자신을 그분의 뜻을 받드는 도구로 "
+"만들어야 한다. 충실하게 섬기는 것을 통해서만 우리는 합당한 존재로 인정받을 수 있다."
 
 # EDID: SFBGS001_VkaiZ01_MessagePerseverance, REC: MESG:DESC
 msgctxt "00221F"
@@ -1369,6 +1456,10 @@ msgid ""
 "\n"
 "The path of righteousness is one of hardship, toil and sacrifice. In the face of adversity, we must not falter. Only with unshakeable determination will be found worthy."
 msgstr ""
+"구원의 성소에서부터 시작되어, 말씀을 읽고 위대한 뱀의 가르침을 기억하기 위한 우리의 여정은 이곳으로 이어졌다.\n"
+"\n"
+"의로움의 길은 고난, 수고, 희생이 따르는 길이다. 역경에 직면했을 때, 우리는 흔들리지 않아야 한다. 흔들리지 않는 결단력을 통해서만 "
+"합당한 가치를 발견할 수 있다."
 
 # EDID: SFBGS001_VkaiZ01_MessageDevotion, REC: MESG:DESC
 msgctxt "002221"
@@ -1377,6 +1468,10 @@ msgid ""
 "\n"
 "Each day and each night, all that we do and think must be in service to the Great Serpent, and none other. The true believer shuns the false gods of others. Only with minds unclouded by doubt will we be found worthy."
 msgstr ""
+"구원의 성소에서부터 시작되어, 말씀을 읽고 위대한 뱀의 가르침을 기억하기 위한 우리의 여정은 이곳으로 이어졌다.\n"
+"\n"
+"매일 밤낮으로, 우리는 모든 행동과 생각을 다른 어떤 것도 아닌 위대한 뱀을 섬기는 것에 쏟아야 한다. 참된 신도는 다른 자들의 거짓 "
+"신을 멀리한다. 의심으로 흐려지지 않은 마음으로만 우리는 합당한 존재로 인정받을 수 있다."
 
 # EDID: SFBGS001_VkaiZ01_MessageStrength, REC: MESG:DESC
 msgctxt "002223"
@@ -1385,11 +1480,15 @@ msgid ""
 "\n"
 "When the time comes, we will answer the call of the crusade and blanket the stars in flame, burning away the unbelievers. When we march in the Great Serpent's name, only the mighty will be found worthy."
 msgstr ""
+"구원의 성소에서부터 시작되어, 말씀을 읽고 위대한 뱀의 가르침을 기억하기 위한 우리의 여정은 이곳으로 이어졌다.\n"
+"\n"
+"때가 되면 우리는 성전의 소집에 응답하여 불신자들을 불태우고 별들을 불꽃으로 뒤덮을 것이다. 위대한 뱀의 이름으로 행군할 때, 오직 강한 "
+"자만이 합당한 존재로 인정받을 것이다."
 
 # EDID: SFBGS001_MS03_TranquilzeDrinksChoice, REC: MESG:DESC
 msgctxt "0022DB"
 msgid "Add tranquilizer to Amila's cup, Borhal's, or both?"
-msgstr ""
+msgstr "아밀라의 컵, 보르할의 컵, 또는 둘 다에 진정제를 넣을까요?"
 
 # EDID: mod_CCT_RaceOverrides_Teleport, REC: OMOD:DESC
 #, fuzzy
@@ -1519,6 +1618,9 @@ msgid ""
 "\n"
 "Any questions should be directed toward Qisrani Dul'kehf, Case Number #176-SS."
 msgstr ""
+"이 슬레이트의 소지자는 우카루 둘케프의 컴퓨터를 사용하여 실종된 선적품에 대한 조사를 계속 수행할 수 있도록 승인을 받았음을 밝힙니다.\n"
+"\n"
+"모든 문의 사항은 키스라니 둘케프, 사건 번호 #176-SS에게 전달해 주십시오."
 
 # EDID: SFBGS001_MS05, REC: QUST:CNAM
 msgctxt "0110A8"
@@ -1545,6 +1647,13 @@ msgid ""
 "\n"
 "*Static*"
 msgstr ""
+"드디어 선적물을 찾아냈다! 다만, 그외 수많은 다른 것들까지.\n"
+"\n"
+"정말 위험하다. 엄청 위험하다고. 하지만 도대체 누굴 위해 이렇게 잔뜩 빼돌려 놓은 것이지? 또 누가 이들을 도와주는 것이고?\n"
+"\n"
+"잠깐. 방금 뭐지?\n"
+" \n"
+"*잡음*"
 
 # EDID: SFBGS001_VkaiZ03_DataSlate02, REC: BOOK:DESC
 msgctxt "0110C4"
@@ -1559,18 +1668,28 @@ msgid ""
 "And that we give by spreading your word\n"
 "In death, in life, and in love"
 msgstr ""
+"오 위대한 뱀이시여, 우리가 서로를 인도할 수 있도록 부디 우릴 인도해 주소서\n"
+"우리가 서로의 철갑과 같은 비늘과 횃불이 될 수 있도록 해 주소서\n"
+"우리의 화목함이 뱀께서 행하시는 불멸의 똬리가 되게 하소서\n"
+"그리고 뱀의 빛을 찾는 모든 이들을 위한 철석이 되게 하소서\n"
+"\n"
+"우린 오직 약속받은 자로서 결속되어 있기 때문이며\n"
+"정의가 곧 자비라는 지식으로 축복을 받았으며\n"
+"뱀의 말씀을 퍼뜨림으로써 우리가 그 자비를 베푸는 것을\n"
+"\n"
+"죽음에서도, 삶에서도, 사랑에서도"
 
 # EDID: SFBGS001_VortexCoreControlPanel_Containment_NotResponding, REC:
 # MESG:DESC
 msgctxt "011140"
 msgid "The Containment Control Lever is not responding."
-msgstr ""
+msgstr "격리 제어 레버가 응답하지 않습니다."
 
 # EDID: SFBGS001_VortexCoreControlPanel_Interlock_NotResponding, REC:
 # MESG:DESC
 msgctxt "011141"
 msgid "The Interlock Control Lever is not responding."
-msgstr ""
+msgstr "제어장치 제어 레버가 응답하지 않습니다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "011177"
@@ -1709,10 +1828,11 @@ msgid ""
 msgstr ""
 "위대한 뱀이시여,\n"
 "\n"
-"일행이 얼마 남지 않았습니다. 제 평생을 주께 헌신하며 살아왔건만, 죽음과 앞으로 닥칠 일에 두려움을 느낍니다. 어쩌면 저희는 모르는 채 "
+"일행이 얼마 남지 않았습니다. 제 평생을 뱀께 헌신하며 살아왔건만, 죽음과 앞으로 닥칠 일에 두려움을 느낍니다. 어쩌면 저희는 모르는 채 "
 "남겨두는 것이 나았을 것을 너무 깊이 파고들고, 너무 많은 것을 엿보려 한 대가를 치르는 진부한 존재일지도 모릅니다.\n"
 "\n"
-"저희의 호기심을, 이기심을, 자존심을 용서하소서. 오직 진정으로 주를 찾기를 바랐으나, 전통적인 방식인 죽음으로써 찾게 될 것 같습니다."
+"저희의 호기심을, 이기심을, 자존심을 용서하소서. 오직 진정으로 뱀께 닿기를 바랐으나, 전통적인 방식인 죽음으로써 맞이하게 될 것 "
+"같습니다."
 
 # EDID: SFBGS001_MQ01_NadineLog, REC: BOOK:DESC
 msgctxt "01119D"
@@ -1741,6 +1861,8 @@ msgid ""
 "defending the tomb of her ancestor, Mahkara the Fang, from Spacers. The "
 "Spacers stole three heirlooms from the tomb and I agreed to retrieve them."
 msgstr ""
+"나는 말리야 하즈탈이라는 여자를 만났다. 말리야는 스페이서들로부터 조상인 '송곳니의 마카라'의 무덤을 지키다 부상을 당한 상태였다. "
+"스페이서들이 무덤에서 가보 세 개를 훔쳐갔고 나는 이를 되찾아 주기로 약속했다."
 
 # EDID: SFBGS001_MS05, REC: QUST:CNAM
 msgctxt "0111E7"
@@ -1749,6 +1871,8 @@ msgid ""
 "calling out for help. I found an injured woman and helped to heal her "
 "wounds."
 msgstr ""
+"바룬카이 지표면에 있는 한 무덤에 들어갔을 때, 안에서 도움을 요청하는 목소리가 들렸다. 나는 부상당한 여자를 발견하고 상처를 치료하는 "
+"것을 도왔다."
 
 # EDID: SFBGS001_MS01_OchimNameMessage, REC: MESG:DESC
 msgctxt "011200"
@@ -1758,7 +1882,7 @@ msgstr "오킴 카딕"
 # EDID: SFBGS001_MS01_OchimKeyNameHidden, REC: MESG:DESC
 msgctxt "011297"
 msgid "Unmarked Computer Keycard"
-msgstr ""
+msgstr "평범해 보이는 컴퓨터 키카드"
 
 # EDID: SFBGS001_MQ02, REC: QUST:CNAM
 msgctxt "0114A4"
@@ -1872,8 +1996,21 @@ msgid ""
 "\n"
 "Young Woman's Voice: Careful, don't knock over the vase!"
 msgstr ""
+"레이겐: 그래, 그 아이들에 대해 말해 주렴. 고아원에 있는 애들 말이야.\n"
+"\n"
+"젊은 여성의 목소리: 아이들을 사랑하지만, 대하기가 어려울 수도 있어요. 루마린이라는 한 소년이 있는데, 나쁜 짓을 멈추지 않는 아이예요."
+"\n"
+"\n"
+"레이겐: 다루기 엄청 힘든 아이인가 보구나.\n"
+"\n"
+"젊은 여성의 목소리: 사람이 다섯 명 정도는, 아니 화물선까지 필요할 정도라니깐요.\n"
+"\n"
+"레이겐: 그렇구나.\n"
+"\n"
+"젊은 여성의 목소리: 조심해요, 꽃병 넘어트리겠어요!"
 
 # EDID: SFBGS001_VkaiZ03_AudioSlate06, REC: BOOK:DESC
+#, fuzzy
 msgctxt "01163D"
 msgid ""
 "Reigen: What's this thing?\n"
@@ -1886,6 +2023,15 @@ msgid ""
 "\n"
 "Reigen: Ah yes! Envies! They're green with."
 msgstr ""
+"레이겐: 이게 뭐니?\n"
+"\n"
+"젊은 여성의 목소리: 씨앗 가속기예요. 식물을 키우는 데 도움이 될 거예요. 저희 고아원에도 하나 있어요.\n"
+"\n"
+"레이겐: 첩자 같은 거 말이니?\n"
+"\n"
+"젊은 여성의 목소리: 아뇨, 땅에서 자라는 녹황색 채소요.\n"
+"\n"
+"레이겐: 아, 맞아! 채소. 채소는 녹황색이지."
 
 # EDID: SFBGS001_MS01_Message_BrotherOnamide, REC: MESG:DESC
 msgctxt "011649"
@@ -1898,20 +2044,21 @@ msgid ""
 "Something was off about Orahim, so I killed him. I'm not sure how things "
 "would have ended otherwise, but I can't take back what I did."
 msgstr ""
+"오라힘의 낌새가 뭔가 이상해서, 그 남자를 죽였다. 그렇지 않았다면 어떻게 끝났을지 모르겠지만, 내가 한 일은 되돌릴 수 없을 것이다."
 
 # EDID: SFBGS001_MS02, REC: QUST:CNAM
 msgctxt "01187B"
 msgid ""
 "A Zealot is a Zealot. Orahim and Khaslav were both threats, so I had to kill"
 " them both."
-msgstr ""
+msgstr "광신도는 광신도였다. 오라힘과 카슬라프는 위협이 됐기 때문에, 둘 다 죽여야 했다."
 
 # EDID: SFBGS001_MS02, REC: QUST:CNAM
 msgctxt "01187C"
 msgid ""
 "Khaslav was right. Orahim could not be trusted, and was a danger to the "
 "people of Dazra. I had to kill him."
-msgstr ""
+msgstr "카슬라프의 말이 맞았다. 오라힘은 믿을 수 없었고, 다즈라 사람들에게 위험한 존재였다. 오라힘을 죽여야만 했다."
 
 # EDID: SFBGS001_MS02, REC: QUST:CNAM
 msgctxt "01187D"
@@ -1919,57 +2066,58 @@ msgid ""
 "I teamed up with Orahim to take down Khaslav and his Zealot cohorts. Maybe "
 "now Orahim will find acceptance in Dazra, and be able to start his new life."
 msgstr ""
+"오라힘과 힘을 합쳐 카슬라프와 광신도 무리를 제거하기로 하였다. 이제 오라힘은 다즈라에서 인정받고 새로운 삶을 시작할 수 있을 것이다."
 
 # EDID: SFBGS001_MS02, REC: QUST:CNAM
 msgctxt "01187E"
 msgid "Orahim is dead. I should speak with Khaslav."
-msgstr ""
+msgstr "오라힘이 죽었다. 카슬라프와 이야기해 봐야겠다."
 
 # EDID: SFBGS001_MS02, REC: QUST:CNAM
 msgctxt "01187F"
 msgid "Khaslav is dead. I should speak with Orahim."
-msgstr ""
+msgstr "카슬라프가 죽었다. 오라힘과 이야기해 봐야겠다."
 
 # EDID: SFBGS001_MS02, REC: QUST:CNAM
 msgctxt "011880"
 msgid "Orahim can't be trusted. I have to take him down."
-msgstr ""
+msgstr "오라힘은 믿을 수 없다. 그를 제거해야 겠다."
 
 # EDID: SFBGS001_MS02, REC: QUST:CNAM
 msgctxt "011881"
 msgid "Orahim and I need to fight through the compound and take down Khaslav."
-msgstr ""
+msgstr "오라힘과 나는 건물 안으로 들어가서 카슬라프를 쓰러뜨려야 한다."
 
 # EDID: SFBGS001_MS02, REC: QUST:CNAM
 msgctxt "011882"
 msgid "I'm here. I should speak with Orahim before we go inside."
-msgstr ""
+msgstr "도착했다. 들어가기 전에 오라힘과 대화하자."
 
 # EDID: SFBGS001_MS02, REC: QUST:CNAM
 msgctxt "011883"
 msgid "I need to meet Orahim outside of Khaslav's hideout."
-msgstr ""
+msgstr "카슬라프의 은신처 외각에서 오라힘과 만나자."
 
 # EDID: SFBGS001_MS02, REC: QUST:CNAM
 msgctxt "011884"
 msgid ""
 "Orahim wanted me to help him hunt down his old comrade, Khaslav, but I "
 "declined. I should speak with him again if I change my mind."
-msgstr ""
+msgstr "오라힘은 자신의 옛 동료 카슬라프를 추적하는 일을 도와달라고 했지만, 나는 거절했다. 마음이 바뀌면 다시 얘기해 봐야겠다."
 
 # EDID: SFBGS001_MS02, REC: QUST:CNAM
 msgctxt "011885"
 msgid ""
 "I met a strange man at the refugee camp in Dazra. He wants me to speak with "
 "him at his shack outside of the city."
-msgstr ""
+msgstr "다즈라의 난민 캠프에서 낯선 남자를 만났다. 남자는 도시 외곽에 있는 자신의 오두막에서 이야기를 나누고 싶다고 했다."
 
 # EDID: SFBGS001_MS02, REC: QUST:CNAM
 msgctxt "011886"
 msgid ""
 "I witnessed an argument between a guard and a man at the refugee camp in "
 "Dazra. I should see what's going on."
-msgstr ""
+msgstr "다즈라의 난민 캠프에서 한 남성이 경비대원과 다투는 것을 목격했다. 무슨 일인지 알아봐야겠다."
 
 # EDID: SFBGS001_MS02, REC: QUST:CNAM
 msgctxt "011887"
@@ -1981,7 +2129,7 @@ msgstr "다즈라의 난민 캠프에서 낯선 남자를 만났다. 그 남자�
 # EDID: SFBGS001_MissionBoardAccessFailureMessage_HV, REC: MESG:DESC
 msgctxt "01188A"
 msgid "Only House Va'ruun members can access this Mission Board."
-msgstr ""
+msgstr "이 임무 단말기는 바룬 가문 구성원만 열람 가능합니다."
 
 # EDID: SFBGS001_Ms02_OrahimDiary01, REC: BOOK:DESC
 msgctxt "0119F4"
@@ -1998,6 +2146,25 @@ msgid ""
 "\n"
 "When I eventually grew the courage to open my eyes, the spirit of the woman was gone from my doorway. And now, I am so sad, so ashamed, so guilty and disgusted. Afflicted with the knowledge that this torment is less than I deserve."
 msgstr ""
+"또 다시 밤잠을 설친다. 정신을 잃을 것만 같다.\n"
+"\n"
+"그 여자는 마치 환상처럼 내게 다가왔다. 내 문간에 서서 팔을 뻗고 마치 나를 껴안으라고 손짓하는 듯했다. 그 아름다움에 눈이 멀었고, "
+"나는 불안하고 무서웠다. 분명 아는 여자였지만, 정작 얼굴을 알아볼 수 없었다...\n"
+"\n"
+"머릿속으로는 안 된다고 생각하면서도 난 결국 그 여자에게 다가갔다. 털끝도 움직이지 않았고, 멍한 표정이었으며, 발은 바닥에 거의 닿지 "
+"않았다. 나는 몇 인치 더 가까이 다가갔지만, 여자의 말을 듣자 그 즉시 멍하니 서고 말았다.\n"
+"\n"
+"알아들을 수 없었다. 덫에 걸린 동물처럼 들리는 웅얼거리고 고통스러운 소리였다. 여자는 계속해서 반복했고, 방금 전만 해도 아름다웠던 "
+"모습이 부풀어 오르고, 눈이 끓기 시작하고, 혀가 입 속에서 살덩어리로 변하는 것을 공포에 질려 지켜보았다. 이윽고 여자의 몸은 본래 "
+"크기의 두 배로 부풀어 올랐고, 피부는 파랗고 그로테스크한 모습으로 팽창해서 찢어질 지경이 됐다. 그때서야 여자가 무슨 말을 하는지 알 "
+"것만 같았다. \"왜?\" 나는 공포와 수치심에 눈을 감고 말았다.\n"
+"\n"
+"그래... 잘 알고 있는 여자였다. 그리고 저 여자의 승무원, 30명 전부. 함선 이름도 기억한다. 어드밴티지. 우린 그 멋들어진 배 "
+"안의 저주받은 자들을 전부 처치했고, 카슬라프의 차지가 된 것도 기억한다. 그때 우린 남은 승무원들을 에어록 앞까지 몰고 간 다음, 킬킬 "
+"웃으며 레버를 당겨 그 사람들의 운명을 끝장냈지. 우린 계속 웃었다. 미소가 끊이지 않았을 정도로.\n"
+"\n"
+"마침내 눈을 뜨는 용기가 생겼을 때, 그 여자의 영혼은 내 문에서 사라졌다. 그리고 지금... 나는 너무 슬프고, 너무 부끄럽고, 너무 "
+"죄책감이 들고 역겨운 기분마저 든다. 이 고통이 내가 받아 마땅한 것보다 못하다는 사실을 알기에 더욱 괴롭다."
 
 # EDID: SFBGS001_Ms02_OrahimDiary02, REC: BOOK:DESC
 msgctxt "0119F6"
@@ -2013,6 +2180,21 @@ msgid ""
 "\n"
 "I do not know what to do. Please, Great Serpent, tell me what I need to do. I am afraid."
 msgstr ""
+"위대한 뱀이시여, 왜 이런 환상과 죄책감으로 계속해서 저를 괴롭히시는 겁니까? 제가 뱀께서 내린 명령을 따르지 않았습니까? 제가 먼지로 "
+"만들어 버린 그 저주받은 자들, 제가 그렇게 한 것은 전부 뱀의 이름으로 행한 거란 말입니다. 제가 죽인 수많은 생명들, 그건 전부 "
+"당신, 위대한 뱀을 위해 한 거란 말입니다!\n"
+"\n"
+"물론 뱀께서는 제 말을 믿으실 정도로 아둔하지 않겠지요. 오히려 제게 명확하게 생각하도록 저주를 내리셨고, 이제 저는 뱀께서 원하시는 "
+"정도에서 벗어났다는 걸 깨달았습니다. \n"
+"제가 저주받은 자들을 파멸시켰던 것은 위대한 뱀에 대한 헌신 때문이 아니라... 카슬라프, 그자를 위한 헌신 때문이었던 겁니다.\n"
+"\n"
+"하지만 저는 너무나도 혼란스럽습니다, 위대한 뱀이시여. 너무나도 말입니다. 왜 지금 저에게 이런 수치심을 느끼게 하려는 것입니까? 왜 "
+"저란 말입니까, 카슬라브나 다른 형제들이 아니라?\n"
+"\n"
+"저는 당신의 용서뿐만 아니라 그 저주받은 자들의 용서도 원합니다. 저를 괴롭히는 죄책감은 분명... 당신의 품으로 돌아오라는 "
+"뜻이겠지요?  하지만 저는 이 명령을 따를 수 없을 것 같습니다. 더 이상 그 누구도 죽이고 싶지 않습니다.\n"
+"\n"
+"뭘 해야 할지 모르겠습니다. 제발, 위대한 뱀이시여, 제가 뭘 해야 할지 알려 주십시오. 두렵습니다."
 
 # EDID: SFBGS001_VkaiZ03_Orphanage_AudioSlate01, REC: BOOK:DESC
 msgctxt "011BC7"
@@ -2031,6 +2213,20 @@ msgid ""
 "\n"
 "In any case, lunch is over. Everyone take their bowls to the kitchen and clear the table."
 msgstr ""
+"아이리스 우에다: 자, 애들아, 지난 바룬 님의 뒤를 이어 차기 대변자로 누가 되셨는지 아는 친구 있니?\n"
+"\n"
+"힌트도 줄게. 지난 바룬께서는 두 아들, 잔다르와 자렉이 있었어.\n"
+"\n"
+"소년: 오! 오! 저 알아요!\n"
+"\n"
+"아이리스 우에다: 그래, 루마린, 누구라고 생각해? 잔다르, 아니면 자렉?\n"
+"\n"
+"소년: 둘 다 아니에요! 바로 보클버브라는 이름의 거대한 그로트였어요! 그 그로트가 위대의 뱀의 등을 타고 들어와서 자렉의 머리를 "
+"물어뜯었어요!\n"
+"\n"
+"아이리스 우에다: 음, 오늘 네가 답한 것 중에 최악은 아니구나. 진전은 있는 것 같네.\n"
+"\n"
+"어쨌든 점심 시간은 이제 끝났단다. 모두 다 그릇을 주방으로 가져가고 테이블을 치우렴."
 
 # EDID: SFBGS001_VkaiZ03_Orphanage_AudioSlate02, REC: BOOK:DESC
 msgctxt "011BCB"
@@ -2057,6 +2253,27 @@ msgid ""
 "\n"
 "Girl: Whoa."
 msgstr ""
+"소녀: 이런 잡일하는 건 싫어. 설거지할 것도 너무 많잖아.\n"
+"\n"
+"소년: 네가 하고 싶지 않으면 안 해도 돼.\n"
+"\n"
+"소녀: 응, 하지만 우에다 선생님은 다 마칠 때까지 위층에 올라가면 안 된다고 하셨어.\n"
+"\n"
+"소년: 난 선생님이 키카드를 어디에 두는지 다 알아. 맨 위 선반, 모서리에 있어. 사다리를 어디에 두셨는지 혹시 알아?\n"
+"\n"
+"소녀: 그 사다리 충분히 높진 않은 것 같던데. 어른들은 정말 불공평해.\n"
+"\n"
+"소년: 그래서 사다리에 발판을 놓은 거야. 그러면 꼭대기까지 올라갈 수 있어.\n"
+"\n"
+"소녀: 좀 위험해 보이는데. 키카드가 정말 있는 거야? 난 안 보여.\n"
+"\n"
+"소년: 잼병 안에 있어.\n"
+"\n"
+"소녀: 드러워! 그럼 잼을 꺼내려면 손을 잼에 담가야 하는 거야?\n"
+"\n"
+"소년: 아니, 그건 속임수야. 병에 실제로 잼이 가득 차 있지 않아.\n"
+"\n"
+" 소녀: 와."
 
 # EDID: SFBGS001_VkaiZ03_Orphanage_AudioSlate05, REC: BOOK:DESC
 msgctxt "011BCF"
@@ -2067,6 +2284,11 @@ msgid ""
 "\n"
 "I hate to spend less time with grandpa, given he's always forgetting things, but the children need me."
 msgstr ""
+"어젯밤에 도우미 한 명이 끌려갔다. 그 사람이 이단자라고 밝혀졌다면서.\n"
+"\n"
+"함부로 그런 결정에 항의하면 안 된다는 것 알고 있지만, 지금 우린 심각하게 인력이 부족한 상황이다.\n"
+"\n"
+"할아버지와 함께 보내는 시간이 줄어드는 것 같아서 싫다. 항상 무언가를 잊어 버리시는 분인데. 하지만 아이들도 내 도움이 절실하다."
 
 # EDID: SFBGS001_VkaiZ03_Orphanage_AudioSlate04, REC: BOOK:DESC
 msgctxt "011BD3"
@@ -2099,7 +2321,7 @@ msgctxt "011DC9"
 msgid ""
 "I picked up cargo from a ship in the <Alias=TargetSystemLocation> system and"
 " delivered it to Dazra."
-msgstr ""
+msgstr "<Alias=TargetSystemLocation> 항성계 안의 함선에서 화물을 수령하여 다즈라에 배달했다."
 
 # EDID: SFBGS001_MB_Smuggler, REC: QUST:CNAM
 msgctxt "011DCA"
@@ -2108,11 +2330,12 @@ msgid ""
 "<Alias=TargetSystemLocation> system. Retrieve the shipment and return it to "
 "Dazra."
 msgstr ""
+"<Alias=TargetSystemLocation> 항성계 안의 함선에서 화물을 수령하기로 했다. 선적물을 받아서 다즈라에 배달하자."
 
 # EDID: SFBGS001_MB_Rescue, REC: QUST:CNAM
 msgctxt "011DEB"
 msgid "I rescued the <Alias=Prisoner> and the ship is now safe again."
-msgstr ""
+msgstr "<Alias=Prisoner> 구출 완료했고 이제 함선은 다시 안전해졌다."
 
 # EDID: SFBGS001_MB_Rescue, REC: QUST:CNAM
 msgctxt "011DEC"
@@ -2120,6 +2343,8 @@ msgid ""
 "A <Alias=Prisoner> has been captured and taken hostage aboard a "
 "<Alias=PrimaryRef> in the <Alias=TargetSystemLocation> system."
 msgstr ""
+"<Alias=Prisoner>, <Alias=TargetSystemLocation> 항성계의 <Alias=PrimaryRef>에서 인질로 "
+"붙잡혔다."
 
 # EDID: SFBGS001_MS05, REC: QUST:CNAM
 msgctxt "011EAA"
@@ -2129,6 +2354,8 @@ msgid ""
 "stolen valuable heirlooms. I retrieved the heirlooms and returned them to "
 "Maaliya's father Farud for safe keeping."
 msgstr ""
+"말리야 하즈탈이라는 여자를 만났다. 그녀는 송곳니의 마카라라고 불리는 조상의 묘를 스페이서들로부터 지키려다 부상을 입었다고 했다. 나는 "
+"스페이서들이 훔쳐간 가보를 되찾아 그녀의 아버지 파루드에게 안전하게 돌려주었다."
 
 # EDID: SFBGS001_MS05, REC: QUST:CNAM
 msgctxt "011EAB"
@@ -2138,6 +2365,8 @@ msgid ""
 "stolen valuable heirlooms. I retrieved the heirlooms and Maaliya's father "
 "Farud agreed to allow his daughter to use them to protect her people."
 msgstr ""
+"말리야 하즈탈이라는 여자를 만났다. 그녀는 송곳니의 마카라라고 불리는 조상의 묘를 스페이서들로부터 지키려다 부상을 입었다고 했다. 나는 "
+"스페이서들이 훔쳐간 가보를 되찾아왔고, 그녀의 아버지 파루드는 딸이 그녀의 사람들을 보호하기 위해 그 가보를 사용하는 것을 허락했다."
 
 # EDID: SFBGS001_MS05, REC: QUST:CNAM
 msgctxt "011EAC"
@@ -2147,6 +2376,8 @@ msgid ""
 "stolen Mahkara's heirlooms. I retrieved the heirlooms from the Spacer base "
 "and should deliver them to Maaliya at her family home in Dazra."
 msgstr ""
+"말리야 하즈탈이라는 여자를 만났다. 그녀는 송곳니의 마카라라고 불리는 조상의 묘를 스페이서들로부터 지키려다 부상을 입었다고 했다. 나는 "
+"스페이서들이 훔쳐간 가보를 되찾았고, 이제 다즈라에 있는 말리야의 본가에 가져다주어야 한다."
 
 # EDID: SFBGS001_PilgrimsJournal_04, REC: BOOK:DESC
 msgctxt "01210B"
@@ -2226,7 +2457,7 @@ msgctxt "012191"
 msgid ""
 "I picked up cargo from a ship in the <Alias=TargetSystemLocation> system. I "
 "should now deliver it to Dazra."
-msgstr ""
+msgstr "<Alias=TargetSystemLocation> 항성계 안의 함선에서 화물을 수령했다. 다즈라에 배달해야 한다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122B7"
@@ -2261,7 +2492,7 @@ msgstr ""
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122BB"
 msgid "I need to kill Mihael and his guards."
-msgstr ""
+msgstr "미해일과 경호원을 죽여야 한다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122BC"
@@ -2380,7 +2611,7 @@ msgstr ""
 # EDID: SFBGS001LC07Int02_QuasimSlate, REC: BOOK:DESC
 msgctxt "0122F8"
 msgid "New Audio Message Attached"
-msgstr ""
+msgstr "새 오디오 메시지 첨부"
 
 # EDID: SFBGS001_LC18_ElixirDocumentation_01, REC: BOOK:DESC
 msgctxt "0122FB"
@@ -2640,7 +2871,7 @@ msgid ""
 msgstr ""
 "[현상금 사냥꾼]\n"
 "\n"
-"발자국이 드문드문 나있다. 보아하니 한 사람의 발자국임을 알 수 있다. 마지막 발자국은 서쪽을 향해 나있다. 베릭은 작은 싸움을 벌이다가 "
+"발자국이 드문드문 나있다. 보아하니 한 사람의 발자국임을 알 수 있다. 마지막 발자국은 서쪽을 향해 나있다. 배릭은 작은 싸움을 벌이다가 "
 "캠프를 떠났을 것이다."
 
 # EDID: SFBGS001_MQ04_Bloodstain01ExamineMedicMSG, REC: MESG:DESC
@@ -3310,14 +3541,14 @@ msgstr ""
 # EDID: SFBGS001_MQ04, REC: QUST:CNAM
 msgctxt "01303A"
 msgid "Vaeric's fate lies in my hands. I'll need to decide his future."
-msgstr ""
+msgstr "배릭의 운명은 내 손에 달렸다. 내가 배릭의 미래를 결정해야 한다."
 
 # EDID: SFBGS001_MQ04, REC: QUST:CNAM
 msgctxt "01303B"
 msgid ""
 "As I left the home, Vaeric was outside. I should speak to him and determine "
 "what to do."
-msgstr ""
+msgstr "내가 집을 나섰을 때, 배릭은 밖에 있었다. 배릭과 이야기를 나누고 어떻게 해야 할지 결정해야 한다."
 
 # EDID: SFBGS001_MQ04, REC: QUST:CNAM
 msgctxt "01303C"
@@ -3333,6 +3564,7 @@ msgid ""
 "I was able to discover that Vaeric headed to an abandoned groat farm to the "
 "north. I need to head to the farm and hope that Vaeric is still there."
 msgstr ""
+"배릭이 북쪽의 버려진 그로트 목장으로 향했다는 것을 발견할 수 있었다. 목장으로 가봐야 한다. 배릭이 아직 그곳에 있었으면 좋겠다."
 
 # EDID: SFBGS001_MQ04, REC: QUST:CNAM
 msgctxt "01303F"
@@ -3347,7 +3579,7 @@ msgctxt "013040"
 msgid ""
 "I found a journal that might have some information about Vaeric. I need to "
 "read it to find out."
-msgstr ""
+msgstr "배릭에 대한 정보가 있을지도 모를 일기를 찾았다. 일기를 읽어봐야겠다."
 
 # EDID: SFBGS001_MQ04, REC: QUST:CNAM
 msgctxt "013041"
@@ -3380,7 +3612,7 @@ msgstr ""
 # EDID: SFBGS001_MQ04, REC: QUST:CNAM
 msgctxt "013045"
 msgid "I attacked some farmers. I need to kill them all."
-msgstr ""
+msgstr "농부들을 공격했다. 모두 죽여야겠다."
 
 # EDID: SFBGS001_MQ04, REC: QUST:CNAM
 msgctxt "013046"
@@ -3415,14 +3647,14 @@ msgctxt "01304A"
 msgid ""
 "With the Vortex Horrors out of the way, I should talk to Tane to discuss "
 "what I've learned."
-msgstr ""
+msgstr "볼텍스 호러를 처치했으니, 이제 내가 알아낸 것을 테인과 논의해야겠다."
 
 # EDID: SFBGS001_MQ04, REC: QUST:CNAM
 msgctxt "01304B"
 msgid ""
 "While searching the camp, some Vortex Horrors appeared and attacked us. "
 "We'll need to defeat them if we want to survive."
-msgstr ""
+msgstr "캠프를 수색하는 동안 볼텍스 호러가 나타나서 우리를 공격했다. 살아남으려면 볼텍스 호러를 물리쳐야 한다."
 
 # EDID: SFBGS001_MQ04, REC: QUST:CNAM
 msgctxt "01304C"
@@ -3451,7 +3683,7 @@ msgctxt "01304F"
 msgid ""
 "Tane finally arrived. I should speak to him to find out what he may be able "
 "to tell me about Vaeric Veth'aal."
-msgstr ""
+msgstr "드디어 테인이 나타났다. 테인과 얘기해서 배릭 베타알에 대해 알아내야겠다."
 
 # EDID: SFBGS001_MQ04, REC: QUST:CNAM
 msgctxt "013050"
@@ -3465,7 +3697,7 @@ msgctxt "013051"
 msgid ""
 "As I started to head back to the Keep a man named Tane called out to me. I "
 "should see what he wants."
-msgstr ""
+msgstr "본성으로 돌아가는데 테인이라는 남자가 나를 불렀다. 테인이 원하는 게 뭔지 알아봐야겠다."
 
 # EDID: SFBGS001_MQ04, REC: QUST:CNAM
 msgctxt "013052"
@@ -3485,39 +3717,39 @@ msgstr ""
 # EDID: SFBGS001_co_VortexGrenade_StableSummon, REC: COBJ:DESC
 msgctxt "013060"
 msgid "A Lure Vortex Grenade that summons a Vortex Horror."
-msgstr ""
+msgstr "볼텍스 수류탄 - 미끼. 폭발 명중시 볼텍스 호러를 소환한다."
 
 # EDID: SFBGS001_co_VortexGrenade_StableAnchor, REC: COBJ:DESC
 msgctxt "013061"
 msgid "A Binding Vortex Grenade that explodes and freezes enemies in place."
-msgstr ""
+msgstr "볼텍스 수류탄 - 속박. 폭발 범위 안의 대상을 그 자리에 동결시킨다."
 
 # EDID: SFBGS001_co_VortexGrenade_StablePhase, REC: COBJ:DESC
 msgctxt "013062"
 msgid "A Phasing Vortex Grenade that phases out targets in the explosion."
-msgstr ""
+msgstr "볼텍스 수류탄 - 탈주. 폭발 범위 안의 비적대적 대상이 탈주하게 만든다."
 
 # EDID: SFBGS001_co_VortexGrenade_Random, REC: COBJ:DESC
 msgctxt "013063"
 msgid "An Unstable Vortex Grenade with unpredictable effects."
-msgstr ""
+msgstr "볼텍스 수류탄 - 불안정. 폭발 명중시 예측할 수 없는 효과가 발생한다."
 
 # EDID: SFBGS001_co_VortexGrenade_StableExplosion, REC: COBJ:DESC
 msgctxt "013064"
 msgid ""
 "A Charged Vortex Grenade that explodes and does damage like a conventional "
 "grenade."
-msgstr ""
+msgstr "볼텍스 수류탄 - 충전. 폭발 명중시 일반 수류탄처럼 피해를 입힌다."
 
 # EDID: SFBGS001_VkaiZ03_MessageDisplay, REC: MESG:DESC
 msgctxt "013066"
 msgid "Your words go unheard."
-msgstr ""
+msgstr "상대에게 말소리가 들리지 않는다."
 
 # EDID: SFBGS001_VortexGrenade_Random, REC: WEAP:DESC
 msgctxt "0130FB"
 msgid "An Unstable Vortex Grenade wiith unpredictable effects."
-msgstr ""
+msgstr "볼텍스 수류탄 - 불안정. 폭발 명중시 예측할 수 없는 효과가 발생한다."
 
 # EDID: SFBGS001LC06_CrusadersHallMuseumPlaque_StationMsg, REC: MESG:DESC
 msgctxt "01310C"
@@ -3526,6 +3758,8 @@ msgid ""
 "destroyed by the most glorious fleet of the Serpent's Crusade, in the first "
 "of its many victories."
 msgstr ""
+"저주받은 자들이 볼프-359 궤도 위에 세운 우주정거장, 더 덴의 유물을 보아라. 뱀의 성전의 가장 영광스러운 함대가, 수많은 승리 중 "
+"첫 번째로 파괴하였도다."
 
 # EDID: SFBGS001LC06_CrusadersHallMuseumPlaque_HelmetMemorialMsg, REC:
 # MESG:DESC
@@ -3535,6 +3769,8 @@ msgid ""
 "that you should be so blessed to join the armies of His Chosen, and take up "
 "battle against the Accursed in the days to come."
 msgstr ""
+"뱀의 성전에서 목숨을 바친 이들을 증언하는 자리니라. 그대가 그분의 선택을 받은 군대에 합류하여, 다가올 날에 저주받은 자들과 맞서 싸울 "
+"수 있는 축복을 받을 수 있도록 기도하라."
 
 # EDID: SFBGS001LC06_CrusadersHallMuseumPlaque_MechMsg, REC: MESG:DESC
 msgctxt "013110"
@@ -3543,6 +3779,8 @@ msgid ""
 "these false idols could not hope to withstand the might of the Great Serpent"
 " and His Promised."
 msgstr ""
+"절망에 빠진 저주받은 자들은 더욱 거대한 전쟁 기계를 만들었도다. 하지만 이 거짓된 우상들은 위대한 뱀과 약속받은 자들의 힘을 견뎌낼 수 "
+"없었느니라."
 
 # EDID: SFBGS001LC06_CrusadersHallMuseumPlaque_SpaceBattleMsg, REC: MESG:DESC
 msgctxt "013112"
@@ -3551,6 +3789,8 @@ msgid ""
 "glorious battle across dozens of worlds. But the wretched forces of the "
 "Accursed swarmed like flies, ever more numerous, ever more ravenous."
 msgstr ""
+"지난 20년 동안, 위대한 뱀의 선택받은 자들은 수십 개의 항성계에서 성전을 벌이며 웅장하고 영광스러운 전투를 벌였도다. 하지만 저주받은 "
+"자의 비참한 세력이 파리 떼처럼 몰려들었고, 그 수는 더욱 많아졌으며, 더욱 탐욕스러워졌도다."
 
 # EDID: SFBGS001LC06_CrusadersHallMuseumPlaque_ArmoryMsg, REC: MESG:DESC
 msgctxt "013114"
@@ -3559,6 +3799,8 @@ msgid ""
 "the Promised, others wrested from the Enemy. With such weapons did they "
 "conquer, and none could stand before them."
 msgstr ""
+"성전군의 무기와 병기를 보라. 일부는 약속받은 자들의 손으로 직접 만들었으며, 다른 것들은 적에게서 빼앗은 것이니라. 이러한 무기로 "
+"성전군은 정복했고, 그 누구도 성전군 앞에 설 수 없었느니라."
 
 # EDID: SFBGS001_LC42_SpacerCrash01, REC: BOOK:DESC
 msgctxt "0131D2"
@@ -3588,13 +3830,13 @@ msgctxt "0134F1"
 msgid ""
 "You can now craft grenades using Vortex Shards and Cysts at an Industrial "
 "Workbench."
-msgstr ""
+msgstr "이제 공업용 작업대에서 볼텍스 파편과 볼텍스 포낭을 사용해 수류탄을 제작할 수 있습니다."
 
 # EDID: SFBGS001LC06_VortexInterlockControlPanelPowerOutMessage, REC:
 # MESG:DESC
 msgctxt "0134F2"
 msgid "The power is out."
-msgstr ""
+msgstr "전원이 꺼졌습니다."
 
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Blade_Serrated, REC: COBJ:DESC
 msgctxt "0135A3"
@@ -3799,14 +4041,14 @@ msgctxt "013F5D"
 msgid ""
 "You fret that you cannot see Him even though your eyes are open. But your "
 "eyes are not the only way to see Him."
-msgstr ""
+msgstr "당신은 눈을 뜨고 있어도 그분을 볼 수 없다고 걱정합니다. 그러나 눈을 통해서만 그분을 볼 수 있는 것은 아닙니다."
 
 # EDID: SFBGS001_LC17_Plaque02_Message, REC: MESG:DESC
 msgctxt "013F5F"
 msgid ""
 "In order to do what we must, we need to be able to understand Him. In order "
 "to understand Him we must be willing to seek Him."
-msgstr ""
+msgstr "우리가 해야 할 일을 하기 위해서는 그분을 이해할 수 있어야 합니다. 그분을 이해하기 위해서는 기꺼이 그분을 찾아야 합니다."
 
 # EDID: SFBGS001_LC17_Plaque01_Message, REC: MESG:DESC
 msgctxt "013F61"
@@ -3814,6 +4056,8 @@ msgid ""
 "When the Great Serpent speaks, you must be ready to listen. But if you have "
 "not been seeking His signs you will not be ready to hear Him."
 msgstr ""
+"위대한 뱀이 말씀하실 때 여러분은 들을 준비가 되어 있어야 합니다. 그러나 그분의 표식을 찾지 않았다면 그분의 말씀을 들을 준비가 되어 "
+"있지 않을 것입니다."
 
 # EDID: SFBGS001_LC48Slate_RC_Intro, REC: BOOK:DESC
 msgctxt "0143BD"
@@ -3907,7 +4151,7 @@ msgstr ""
 # EDID: SFBGS001_LC08_Treasure_Slate02, REC: BOOK:DESC
 msgctxt "01465D"
 msgid "Whoever finds this place: Don't touch my geese!"
-msgstr ""
+msgstr "이곳을 찾는 사람이 누구든, 내 거위들 건드리지 마!"
 
 # EDID: SFBGS001_MS04_Slate_Complete, REC: BOOK:DESC
 msgctxt "014885"
@@ -4217,6 +4461,9 @@ msgid ""
 "Alone now I must wander,\n"
 "My Shadow absent from me."
 msgstr ""
+"어두운 길 앞,\n"
+"이제 홀로 방황해야 한다,\n"
+"그림자가 내게서 사라졌다."
 
 # EDID: SFBGS001_MQ_Shell, REC: QUST:CNAM
 msgctxt "0148E5"
@@ -4427,7 +4674,7 @@ msgid ""
 msgstr ""
 "[환경 조사]\n"
 "\n"
-"발자국이 드문드문 나있다. 보아하니 한 사람의 발자국임을 알 수 있다. 마지막 발자국은 서쪽을 향해 나있다. 베릭은 작은 싸움을 벌이다가 "
+"발자국이 드문드문 나있다. 보아하니 한 사람의 발자국임을 알 수 있다. 마지막 발자국은 서쪽을 향해 나있다. 배릭은 작은 싸움을 벌이다가 "
 "캠프를 떠났을 것이다."
 
 # EDID: SFBGS001_MQ04_Footprints01ExamineScavengingMSG, REC: MESG:DESC
@@ -4439,7 +4686,7 @@ msgid ""
 msgstr ""
 "[자원 탐색]\n"
 "\n"
-"발자국이 드문드문 나있다. 보아하니 한 사람의 발자국임을 알 수 있다. 마지막 발자국은 서쪽을 향해 나있다. 베릭은 작은 싸움을 벌이다가 "
+"발자국이 드문드문 나있다. 보아하니 한 사람의 발자국임을 알 수 있다. 마지막 발자국은 서쪽을 향해 나있다. 배릭은 작은 싸움을 벌이다가 "
 "캠프를 떠났을 것이다."
 
 # EDID: SFBGS001_AHPOI09_Note_Climbing04, REC: BOOK:DESC
@@ -4471,7 +4718,7 @@ msgstr "데이터 슬레이트 거치대"
 # EDID: SFBGS001_VkaiZ03_MissingItem, REC: MESG:DESC
 msgctxt "014925"
 msgid "You don't have the required slate"
-msgstr ""
+msgstr "필요한 슬레이트가 없습니다"
 
 # EDID: SFBGS001_VkaiZ03_Orphanage_DataSlate02, REC: BOOK:DESC
 msgctxt "01492B"
@@ -5002,28 +5249,28 @@ msgctxt "014A40"
 msgid ""
 "The Contemplation of Perseverance grants the follower enhanced movement and "
 "control over breath."
-msgstr ""
+msgstr "인내의 묵상은 동료에게 향상된 움직임과 호흡 제어 능력을 부여합니다."
 
 # EDID: SFBGS001_Z01Temple_Obedience_spell, REC: SPEL:DESC
 msgctxt "014A42"
 msgid ""
 "The Contemplation of Obedience grants the follower enhanced control of the "
 "mind."
-msgstr ""
+msgstr "복종의 묵상은 동료에게 정신을 더 잘 제어할 수 있는 능력을 부여합니다."
 
 # EDID: SFBGS001_Z01Temple_Strength_spell, REC: SPEL:DESC
 msgctxt "014A44"
 msgid ""
 "The Contemplation of Strength grants the follower enhanced control over "
 "muscles and internal energy."
-msgstr ""
+msgstr "위력의 묵상은 동료에게 근육과 내부 에너지를 더욱 효과적으로 제어할 수 있는 능력을 부여합니다."
 
 # EDID: SFBGS001_Z01Temple_Devotion_spell, REC: SPEL:DESC
 msgctxt "014A46"
 msgid ""
 "The Contemplation of Devotion grants the follower enhanced control over the "
 "soul and internal energies."
-msgstr ""
+msgstr "헌신의 묵상은 동료에게 영혼과 내면의 에너지를 더욱 강력하게 제어할 수 있는 능력을 부여합니다."
 
 # EDID: SFBGS001_MQ04_MilasNewJournal, REC: BOOK:DESC
 msgctxt "014AB0"
@@ -5051,6 +5298,16 @@ msgid ""
 "Andrew: 12 points\n"
 "Sam: 10 points"
 msgstr ""
+"점수표:\n"
+"\n"
+"미셸: 23점\n"
+"니나: 20점\n"
+"일리야: 19점\n"
+"사이먼: 16점\n"
+"매트: 15점\n"
+"캐즈: 14점\n"
+"앤드류: 12점\n"
+"샘: 10점"
 
 # EDID: SFBGS001_NPC_MQ05_Phantom_Maleen_Perk, REC: PERK:DESC
 msgctxt "014ABB"
@@ -5078,22 +5335,22 @@ msgstr ""
 # EDID: SFBGS001_Z01Temple_StrengthSpellMessage, REC: MESG:DESC
 msgctxt "014ACA"
 msgid "Contemplation on Strength Acquired"
-msgstr ""
+msgstr "위력의 명상 획득함"
 
 # EDID: SFBGS001_Z01Temple_PerserveranceSpellMessage, REC: MESG:DESC
 msgctxt "014ACB"
 msgid "Contemplation on Perseverance Acquired"
-msgstr ""
+msgstr "인내의 명상 획득함"
 
 # EDID: SFBGS001_Z01Temple_ObedienceSpellMessage, REC: MESG:DESC
 msgctxt "014ACC"
 msgid "Contemplation on Obedience Acquired"
-msgstr ""
+msgstr "복종의 명상 획득함"
 
 # EDID: SFBGS001_Z01Temple_DevotionSpellMessage, REC: MESG:DESC
 msgctxt "014ACD"
 msgid "Contemplation on Devotion Acquired"
-msgstr ""
+msgstr "헌신의 명상 획득함"
 
 # EDID: SFBGS001_MQ02_SerpentsPathSlate01, REC: BOOK:DESC
 msgctxt "014AD0"
@@ -5161,14 +5418,14 @@ msgid ""
 "\n"
 "- Supply chain disruptions have drained already low reserves. Ministry of Commerce is attempting to compensate by establishing new connections, but time delay will exacerbate already low stockpiles."
 msgstr ""
-"의회 요청에 따라, 성채에서의 사건 이후 바룬 가문의 운영 현황을 보고드립니다.\n"
+"의회 요청에 따라, 성채에서 일어난 사고 이후 바룬 가문의 운영 현황을 보고드립니다.\n"
 "\n"
 "\n"
 "- 비늘 성채 바로 근처에 있던 구조물은 사라졌으며, 권위의 전당 역시 마찬가지입니다. 모든 주요 부처 운영부가 이전되었으며, 백업 "
 "기록과 긴급 물자 및 자금으로 운영 중입니다.\n"
 "\n"
-"- 행정 인력 손실은 아직 집계 중입니다. 사건 당시 중요 인원들이 대부분 성채 내부에 있었으며, 실종 혹은 사망한 것으로 추정됩니다. "
-"과학팀의 피해가 가장 심한데, 에크리스 카이시어 정도만이 피해를 면했습니다(휴가 중이었음).\n"
+"- 행정 인력 손실은 아직 집계 중입니다. 사고 당시 중요 인원들이 대부분 성채 내부에 있었으며, 실종 혹은 사망한 것으로 추정됩니다. "
+"과학팀의 피해가 가장 심한데, 에크리스 카이시어 정도만이 피해를 면했습니다. (휴가 중이었음)\n"
 "\n"
 "- 군사, 보안 병력에 심각한 차질이 있습니다. 다즈라 내부에는 외곽 지역에서 재배치된 인원들이 최소한으로 유지되고 있습니다. 집단 "
 "탈영에 대한 소문에는 적극적으로 대응 중입니다.\n"
@@ -5207,14 +5464,14 @@ msgid ""
 msgstr ""
 "의회 요청에 따라 국무성 운영 현황을 보고드립니다.\n"
 "\n"
-"- 권위의 전당과 베타알 가문 거주지를 모두 잃었음을 고려하여, 국무성 운영부를 더 킵으로 임시 이전하였습니다.\n"
+"- 권위의 전당과 베타알 가문 거주지를 모두 잃었음을 고려하여, 국무성 운영부를 본성으로 임시 이전하였습니다.\n"
 "\n"
 "- 도시 외부에서 비중요 임무를 수행하던 군사 및 보안 인원들을 소환하여 다즈라 방어를 강화하였습니다.\n"
 "\n"
-"- \"유령\" 현상에 대한 위협 평가를 진행 중이며, 이에 맞게 전술을 조정 중입니다. 필요에 따라 주요 장소에 추가 보안 조치가 "
+"- '유령' 현상에 대한 위협 평가를 진행 중이며, 이에 맞게 전술을 조정 중입니다. 필요에 따라 주요 장소에 추가 보안 조치가 "
 "적용되었습니다.\n"
 "\n"
-"- 대중을 안심시키기 위해 이 사태는 독립적인 사건이며 모두 안전할 것이라고 선전하는 중요한 작전을 실행 중입니다.\n"
+"- 사고 내용은 보도 통제 중이며 대중을 안심시키기 위해 모두 안전할 것이라고 선전하는 중대 작전을 실행 중입니다.\n"
 "\n"
 "- 공개적으로 반대와 저항을 표출하는 사례가 증가했습니다. 선동가들은 필요에 따라 구금 또는 제거되었습니다."
 
@@ -5235,16 +5492,16 @@ msgid ""
 msgstr ""
 "의회 요청에 따라 결합성 운영 현황을 보고드립니다.\n"
 "\n"
-"- 카딕 가문 주택이 사건의 영향을 받지 않았음을 고려하여, 결합성 운영부를 임시 이전하였습니다.\n"
+"- 카딕 가문 저택이 사건의 영향을 받지 않았음을 고려하여, 결합성 운영부를 임시 이전하였습니다.\n"
 "\n"
-"- 성채에서의 사건으로 인해 중요 인력들이 다즈라의 긴급한 문제들에 재배치되면서 정보 네트워크에 차질이 빚어졌습니다.\n"
+"- 성채에서 일어난 사건으로 인해 중요 인력들이 다즈라의 긴급한 문제들에 재배치되면서 정보 네트워크에 차질이 빚어졌습니다.\n"
 "\n"
 "- 현장 요원들로부터 보고된 이상 현상은 없습니다. 최근 사건 소식이 외부 세계에 전해졌다는 징후는 발견되지 않았습니다.\n"
 "\n"
 "- 사건 이후로 다즈라 내부에 외부 접촉자가 1명 남아 있습니다. 의회의 지시에 따라 통상적인 절차는 중단되었고, 외부인은 생존을 "
 "허가받았습니다.\n"
 "\n"
-"- 다즈라 상공 정지궤도에서 마지막으로 목격된 오라클과의 교신은 아직 이루어지지 않았습니다."
+"- 다즈라 상공 정지궤도에서 마지막으로 목격된 오라클과 교신은 아직 이루어지지 않았습니다."
 
 # EDID: SFBGS001_DazraZ01, REC: QUST:CNAM
 msgctxt "014AE5"
@@ -5386,12 +5643,12 @@ msgctxt "014B06"
 msgid ""
 "As the coils of the Great Serpent create a divine circle, the Path of "
 "Redemption begins and ends here."
-msgstr ""
+msgstr "위대한 뱀의 똬리가 신성한 원을 만들 듯, 구원의 길은 여기서 시작되고 끝나노라."
 
 # EDID: SFBGS001_Z01Temple_RedemptionSpellMessage, REC: MESG:DESC
 msgctxt "014B0A"
 msgid "Contemplation on Redemption Acquired"
-msgstr ""
+msgstr "구원의 명상 획득함"
 
 # EDID: SFBGS001_LC08, REC: QUST:CNAM
 msgctxt "014B0C"
@@ -5404,7 +5661,7 @@ msgstr ""
 msgctxt "014B15"
 msgid ""
 "The Contemplation of Redemption grants the follower increased resilience."
-msgstr ""
+msgstr "구원의 명상의 효과로 동료에게 회복력 증가 효과가 부여됨."
 
 # EDID: SFBGS001_Crater_Note01, REC: BOOK:DESC
 msgctxt "014B30"
@@ -5578,54 +5835,56 @@ msgctxt "014B64"
 msgid ""
 "I chose not to use the tranquilizer and let the duel play out fairly. Amila "
 "didn't survive."
-msgstr ""
+msgstr "나는 진정제를 사용하지 않고 공정하게 결투를 치르기로 결정했다. 아밀라는 살아남지 못했다."
 
 # EDID: SFBGS001_MS03, REC: QUST:CNAM
+#, fuzzy
 msgctxt "014B65"
 msgid "The duel was scuttled and both brothers lived to bicker another day."
-msgstr ""
+msgstr "결투는 무산되었고 두 형제는 다른 날 결투하기로 했다."
 
 # EDID: SFBGS001_MS03, REC: QUST:CNAM
 msgctxt "014B66"
 msgid "I poisoned Amila's drink, and Borhal emerged victorious in the duel."
-msgstr ""
+msgstr "아밀라의 술에 독을 탔고, 보할이 결투에서 승리했다."
 
 # EDID: SFBGS001_MS03, REC: QUST:CNAM
 msgctxt "014B67"
 msgid ""
 "I tranquilized Borhal's drink, and Amila emerged victorious in the duel."
-msgstr ""
+msgstr "보할의 술에 독을 탔고, 아밀라가 결투에서 승리했다."
 
 # EDID: SFBGS001_MS03, REC: QUST:CNAM
+#, fuzzy
 msgctxt "014B68"
 msgid "I should follow up with Danika."
-msgstr ""
+msgstr "뒷일에 관해 다니카와 대화를 나눠봐야겠다."
 
 # EDID: SFBGS001_MS03, REC: QUST:CNAM
 msgctxt "014B69"
 msgid ""
 "The duel was scuttled and both brothers survived. I should speak with them."
-msgstr ""
+msgstr "결투는 무산되었고 두 형제는 모두 살아남았다. 형제와 이야기해 봐야겠다."
 
 # EDID: SFBGS001_MS03, REC: QUST:CNAM
 msgctxt "014B6A"
 msgid "Borhal survived. I should talk to him."
-msgstr ""
+msgstr "보할이 살아남았다. 보할과 얘기해 봐야겠다."
 
 # EDID: SFBGS001_MS03, REC: QUST:CNAM
 msgctxt "014B6B"
 msgid "Amila survived. I should talk to him."
-msgstr ""
+msgstr "아밀라가 살아남았다. 아밀라와 얘기해 봐야겠다."
 
 # EDID: SFBGS001_MS03, REC: QUST:CNAM
 msgctxt "014B6C"
 msgid "The duel is on. Nothing to do now but watch what happens."
-msgstr ""
+msgstr "결투가 시작되었다. 이제 무슨 일이 벌어질지 지켜보는 일만 남았다."
 
 # EDID: SFBGS001_MS03, REC: QUST:CNAM
 msgctxt "014B6D"
 msgid "I've prepared the ceremonial drinks. Time to report back to Danika."
-msgstr ""
+msgstr "의식용 음료를 준비했다. 다니카에게 보고할 시간이다."
 
 # EDID: SFBGS001_MS03, REC: QUST:CNAM
 msgctxt "014B6E"
@@ -5633,24 +5892,24 @@ msgid ""
 "I have to prepare the ceremonial drinks. Danika gave me a vial of "
 "tranquilizer that can weaken anyone who drinks it. I can put this in the "
 "drinks."
-msgstr ""
+msgstr "의식용 음료를 준비해야 한다. 다니카가 마신 사람을 약화시킬 수 있는 진정제 한 병을 줬다. 진정제를 음료수에 넣을 수 있다."
 
 # EDID: SFBGS001_MS03, REC: QUST:CNAM
 msgctxt "014B6F"
 msgid "I spoke to the brothers. Time to report back to Danika."
-msgstr ""
+msgstr "형제들과 이야기했다. 다니카에게 보고할 시간이다."
 
 # EDID: SFBGS001_MS03, REC: QUST:CNAM
 msgctxt "014B70"
 msgid ""
 "I need to speak with both Amila and Borhal to see if there's any chance to "
 "resolve this peacefully."
-msgstr ""
+msgstr "평화적으로 해결할 수 있는 방법이 있는지 아밀라와 보할과 이야기를 나눠봐야겠다."
 
 # EDID: SFBGS001_MS03, REC: QUST:CNAM
 msgctxt "014B71"
 msgid "We're at the Adlam's home. I should speak with Danika."
-msgstr ""
+msgstr "애들럼의 집에 도착했다. 다니카와 얘기해 봐야겠다."
 
 # EDID: SFBGS001_MS03, REC: QUST:CNAM
 msgctxt "014B72"
@@ -5664,12 +5923,12 @@ msgctxt "014B73"
 msgid ""
 "Amila asked me to be his second for the duel, but I declined. The duel has "
 "been postponed, so I have time if I change my mind."
-msgstr ""
+msgstr "아밀라가 나에게 두 번째 결투 상대가 되어달라고 부탁했지만 거절했다. 결투는 연기되었기 때문에, 결정을 바꿀 시간이 있다."
 
 # EDID: SFBGS001_MS03, REC: QUST:CNAM
 msgctxt "014B74"
 msgid "Some people are arguing in Jinan Plaza. I should see what's going on."
-msgstr ""
+msgstr "지난 광장에서 사람들이 다투고 있다. 무슨 일인지 알아봐야겠다."
 
 # EDID: SFBGS001_LC29_Chores, REC: BOOK:DESC
 msgctxt "014B75"
@@ -5716,6 +5975,19 @@ msgid ""
 "\n"
 "[First published as a serial from 2049-2050, Charok Va'ruun's Gravid Iridiumfield tells the tale of a grown man looking back on his own life, and all the events that shaped him.]"
 msgstr ""
+"1장\n"
+"내가 태어나다\n"
+"내가 내 인생의 주인공이 될지, 아니면 다른 누군가가 그 자리를 차지할지는 몰라도, 이 페이지들은 반드시 보여져야 한다. 내 인생의 "
+"시작을 내 인생의 시작과 함께하기 위해, 나는 (그렇게 들었고 그렇게 믿는 대로) 내가 금요일에, 밤이 가장 어두울 순간에, 위대한 뱀의 "
+"어둠이 장막의 날의 도래를 예언했을 때 태어났다고 기록한다. 시계가 울리기 시작하자, 동시에 나는 기쁨으로 울기 시작했다고 했다.\n"
+"\n"
+"내가 태어난 날짜와 시간을 고려할 때, 간호사와, 개별적으로 친해질 가능성이 있기도 전이던 몇 달 동안 나에게 관심을 많이 보인 본성의 "
+"귀족들은, 첫째, 내가 운 좋은 인생을 살 운명이라는 것을, 둘째, 내가 위대한 뱀의 전능한 영을 보고 느낄 특권을 타고 났다는 것을, "
+"그리고 그 자들이 믿은 것처럼, 금요일 밤 그 찰나의 시간에 태어난, 모든 성별의 행운아에게, 이 두 가지 선물은 필연적으로 함께 하는 "
+"것이라고 공표한 것이리라.\n"
+"\n"
+"[2049년부터 2050년까지 연재된 차록 바룬의 '가득 찬 이리듐의 땅'은 자신의 삶을 되돌아보는 한 성인 남성의 이야기와, 그 남성을 "
+"형성시킨 모든 사건에 대한 이야기다.]"
 
 # EDID: SFBGS001_EAW_CDV_Book_OliverTwist_m, REC: BOOK:DESC
 msgctxt "014B9E"
@@ -5984,7 +6256,7 @@ msgstr ""
 # EDID: SFBGS001_OutpostBuildRewardMsg, REC: MESG:DESC
 msgctxt "014C10"
 msgid "You can now build Va'ruun style buildings at your Outposts."
-msgstr ""
+msgstr "이제 전초기지에서 바룬 양식의 건물을 건설할 수 있습니다."
 
 # EDID: SFBGS001_DazraChunksSlate_WeTried, REC: BOOK:DESC
 msgctxt "014C3F"
@@ -6306,7 +6578,7 @@ msgid ""
 "I need to insert an Emergency Power Cell into the Power Receptacle to "
 "restore power to the exit controls so I can escape before the disposal "
 "containment unit crushes me."
-msgstr "폐기물 처리기가 날 뭉개버리기 전에 탈출하려면 비상용 전지를 동력 소켓에 설치해서 출구 제어반의 동력을 복구해야 한다."
+msgstr "폐기물 처리기가 날 뭉개버리기 전에 탈출하려면 비상용 전지를 전원 접속 장치에 삽입해서 출구 제어반의 동력을 복구해야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "014DDC"
@@ -6408,7 +6680,7 @@ msgctxt "014E02"
 msgid ""
 "The Council gave me a new house in Dazra. I should decorate it when I get "
 "the chance."
-msgstr ""
+msgstr "대의회에서 다즈라의 새 집을 주었다. 원하는 때에 집을 꾸미자."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "014E10"

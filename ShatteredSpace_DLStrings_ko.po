@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-10-23 02:00+0000\n"
+"PO-Revision-Date: 2024-10-27 09:58+0000\n"
 "Last-Translator: secarnadia <ellwionsia@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -78,7 +78,7 @@ msgstr "볼텍스 포낭 투사체"
 # EDID: SFBGS001_VortexGrenade_StablePhase, REC: WEAP:FULL
 msgctxt "000019"
 msgid "Vortex Grenade - Phasing"
-msgstr "볼텍스 수류탄 - 왜곡"
+msgstr "볼텍스 수류탄 - 탈주"
 
 # EDID: SFBGS001_VortexGrenade_StableAnchor, REC: WEAP:FULL
 msgctxt "00001A"
@@ -1285,7 +1285,7 @@ msgstr ""
 # EDID: SFBGS001LC20_ForemanTerminalMenu, REC: TMLM:ITXT
 msgctxt "000701"
 msgid "The Incident in Dazra"
-msgstr "다즈라에서 사건이 벌어지다"
+msgstr "다즈라에서 사고가 일어나다"
 
 # EDID: SFBGS001LC20_ForemanTerminalMenu, REC: TMLM:UNAM
 msgctxt "000702"
@@ -1417,7 +1417,7 @@ msgstr "K 구획 시설 기지"
 # EDID: SFBGS001LC06_03_PodRoomComputer_LifeSupportSubmenu, REC: TMLM:ITXT
 msgctxt "000710"
 msgid "Emergency Shutdown"
-msgstr "긴급 중단"
+msgstr "긴급 정지"
 
 # EDID: SFBGS001LC06_03_PodRoomComputer_LifeSupportSubmenu, REC: TMLM:BTXT
 msgctxt "000711"
@@ -2583,7 +2583,7 @@ msgstr "암호를 해독하기"
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "000CFC"
 msgid "Speak to Tevina at the Keep about Jandar's Rest"
-msgstr "테비나와 더 킵에서 잔다르의 안식처에 관해 대화하기"
+msgstr "테비나와 본성에서 잔다르의 안식처에 관해 대화하기"
 
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "000CFD"
@@ -2638,7 +2638,7 @@ msgstr "(선택) 보관함을 조사하기"
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "000D07"
 msgid "Find an ID card or hack open the Security Door"
-msgstr "신분증 카드를 찾거나 보안 문을 해킹해 개방하기"
+msgstr "신분증 카드를 찾거나 보안문을 해킹해 개방하기"
 
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "000D08"
@@ -4265,7 +4265,7 @@ msgstr "광신도 보급고"
 # EDID: SFBGS001LC05MapMarker, REC: REFR:FULL
 msgctxt "001369"
 msgid "House Ma'Leen Research Site"
-msgstr "마린 가문 연구 장소"
+msgstr "마린 가문 연구 현장"
 
 # EDID: SFBGS001LC38MapMarker, REC: REFR:FULL
 #, fuzzy
@@ -4879,7 +4879,7 @@ msgid ""
 "Round 4 of extractions successful. Vortex Interlocks integrated into pod "
 "support systems, power levels stabilized. Human trials begin tomorrow."
 msgstr ""
-"총 4회의 추출이 성공적으로 이루어졌다. 볼텍스 제어장치들이 포드 지원 시스템에 장착되었고, 전력 수준도 안정화되었다. 내일 인체 실험을 "
+"총 4회의 추출이 성공적으로 이루어졌다. 볼텍스 제어장치들이 포드 지원 시스템에 장착되었고, 전력 상태도 안정됐다. 내일 인체 실험을 "
 "개시할 것이다."
 
 # EDID: SFBGS001_MQ05_InfoTerminal02Menu_Submenu01, REC: TMLM:ITXT
@@ -5440,7 +5440,7 @@ msgstr "식물 C 조직 샘플"
 # EDID: SFBGS001_MS04_Chemical, REC: MISC:FULL
 msgctxt "001A1D"
 msgid "Experimental Nutrifying Compound"
-msgstr "실험용 영양 화합물"
+msgstr "시제품 영양 화합물"
 
 # EDID: SFBGS001_MS04_Slate, REC: BOOK:FNAM
 msgctxt "001A1E"
@@ -6366,7 +6366,7 @@ msgstr "벤치"
 # EDID: SFBGS001_VortexCore_InterlockControlLever, REC: ACTI:FULL
 msgctxt "001E11"
 msgid "Interlock Control Lever"
-msgstr "제어장치 통제 레버"
+msgstr "제어장치 제어 레버"
 
 # EDID: SFBGS001LC06_BattleDamageMod, REC: SPEL:FULL
 #, fuzzy
@@ -6388,7 +6388,7 @@ msgstr "셰린 두바스와 대화하기"
 # EDID: SFBGS001_MS04, REC: QUST:NNAM
 msgctxt "001ED1"
 msgid "Get the Experimental Nutrifying Compound"
-msgstr "실험용 영양 화합물 얻기"
+msgstr "시제품 영양 화합물 얻기"
 
 # EDID: SFBGS001_MS04, REC: QUST:NNAM
 msgctxt "001ED2"
@@ -6521,7 +6521,7 @@ msgstr "모어닝 장치에 있는 에크리스에게 돌아가기"
 # EDID: SFBGS001LC07Int02, REC: CELL:FULL
 msgctxt "001FB2"
 msgid "Research Site Theta"
-msgstr "연구 장소 세타"
+msgstr "연구 현장 세타"
 
 # EDID: SFBGS001_DazraZ02, REC: QUST:NNAM
 msgctxt "001FF9"
@@ -6687,7 +6687,7 @@ msgstr "결투 관람하기"
 # EDID: SFBGS001_MS03, REC: QUST:NNAM
 msgctxt "002178"
 msgid "Prepare the ceremonial drinks"
-msgstr "예식 음료 준비하기"
+msgstr "의식용 음료 준비하기"
 
 # EDID: SFBGS001_MS03, REC: QUST:NNAM
 msgctxt "002179"
@@ -7228,17 +7228,17 @@ msgstr "바룬 경호 포탑"
 # EDID: SFBGS001_RC_TheKeep03, REC: QUST:FULL
 msgctxt "002427"
 msgid "The Keep - Random Convo 1"
-msgstr "더 킵 - 무작위 대화 3"
+msgstr "본성 - 무작위 대화 3"
 
 # EDID: SFBGS001_RC_TheKeep02, REC: QUST:FULL
 msgctxt "002428"
 msgid "The Keep - Random Convo 2"
-msgstr "더 킵 - 무작위 대화 2"
+msgstr "본성 - 무작위 대화 2"
 
 # EDID: SFBGS001_RC_TheKeep01, REC: QUST:FULL
 msgctxt "00242E"
 msgid "The Keep - Random Convo 1"
-msgstr "더 킵 - 무작위 대화 1"
+msgstr "본성 - 무작위 대화 1"
 
 # EDID: SFBGS001_DialogueCrimeDazraGuards, REC: QUST:FULL
 msgctxt "002439"
@@ -8050,7 +8050,7 @@ msgstr "손상된 볼텍스 제어장치"
 #, fuzzy
 msgctxt "011149"
 msgid "Containment Control Lever"
-msgstr "격리 통제 레버"
+msgstr "격리 제어 레버"
 
 # EDID: SFBGS001_MQ01_EngineeringAnomalies, REC: TMLM:UNAM
 msgctxt "01114C"
@@ -8083,7 +8083,7 @@ msgstr "볼텍스 팬텀"
 # EDID: SFBGS001_MQ01_EngineeringAnomalies, REC: TMLM:FULL
 msgctxt "01114F"
 msgid "Vortex Anomalies"
-msgstr "볼텍스 이상현상"
+msgstr "볼텍스 이상 현상"
 
 # EDID: SFBGS001_MQ01_NadineVortexPhantomMenu, REC: TMLM:UNAM
 msgctxt "011150"
@@ -9574,7 +9574,7 @@ msgstr "생물 추적하기"
 # EDID: SFBGS001_DazraZ03, REC: QUST:NNAM
 msgctxt "011A05"
 msgid "Restore the Research Site's Main Power"
-msgstr "연구 장소의 주전원 복구하기"
+msgstr "연구 현장의 주전원 복구하기"
 
 # EDID: SFBGS001_DazraZ03, REC: QUST:NNAM
 msgctxt "011A06"
@@ -9594,12 +9594,12 @@ msgstr "콰심의 흔적 계속 찾기"
 # EDID: SFBGS001_DazraZ03, REC: QUST:NNAM
 msgctxt "011A09"
 msgid "Restore the Research Site's Auxiliary Power"
-msgstr "연구 장소의 보조전원 복구하기"
+msgstr "연구 현장의 보조전원 복구하기"
 
 # EDID: SFBGS001_DazraZ03, REC: QUST:NNAM
 msgctxt "011A0A"
 msgid "Access the Research Site"
-msgstr "연구 장소에 들어가기"
+msgstr "연구 현장에 들어가기"
 
 # EDID: SFBGS001_DazraZ03, REC: QUST:NNAM
 msgctxt "011A0B"
@@ -10605,14 +10605,14 @@ msgid ""
 "\n"
 "Please remember to sanitize all equipment as protocol deems necessary."
 msgstr ""
-"D 배치는 이제 배양과 수확 절차로 이송 가능하며, C 배치는 증류 절차로 이송될 수 있다.\n"
+"D 처리 대상은 이제 배양과 수확 절차로 이송 가능하며, C 처리 대상은 증류 절차로 이송될 수 있다.\n"
 "\n"
-"프로토콜에 따라 모든 장비를 소독할 것을 명심할 것."
+"프로토콜에 따라 모든 장비를 소독해야 함을 명심할 것."
 
 # EDID: SFBGS001LC18_ResearchTerminal_Genesis, REC: TMLM:ITXT
 msgctxt "01215C"
 msgid "INTERCOM MESSAGE - Batch Rotation"
-msgstr "인터컴 메시지 - 배치 순환"
+msgstr "인터컴 메시지 - 처리 대상 순환"
 
 # EDID: SFBGS001LC18_ResearchTerminal_Genesis, REC: TMLM:UNAM
 msgctxt "01215D"
@@ -12462,7 +12462,7 @@ msgstr "상품 거래소 컨테이너"
 # EDID: SFBGS001_Vendor_City_Dazra_TheKeepContainer, REC: CONT:FULL
 msgctxt "012A9D"
 msgid "The Keep Container"
-msgstr "더 킵 컨테이너"
+msgstr "본성 컨테이너"
 
 # EDID: SFBGS001_Vendor_City_Dazra_GoodsExchangeContainer, REC: CONT:FULL
 msgctxt "012A9E"
@@ -12482,7 +12482,7 @@ msgstr "회복의 전당"
 # EDID: SFBGS001_Vendor_City_Dazra_TheKeep_Faction, REC: FACT:FULL
 msgctxt "012AA1"
 msgid "The Keep Vendor"
-msgstr "더 킵 상인"
+msgstr "본성 상인"
 
 # EDID: SFBGS001_Vendor_City_Dazra_HeraldsRest_Faction, REC: FACT:FULL
 msgctxt "012AA2"
@@ -12727,7 +12727,7 @@ msgstr "동물 시체"
 #, fuzzy
 msgctxt "013065"
 msgid "Your words go unheard."
-msgstr "당신의 말을 들어 주지 않는다."
+msgstr "상대에게 말소리가 들리지 않는다."
 
 # EDID: SFBGS001_MS03_TranquilizeDrinkPerk, REC: PERK:EPF2
 msgctxt "013067"
@@ -12892,7 +12892,7 @@ msgstr "볼텍스 포낭"
 # EDID: SFBGS001_MS03_CeremonialDrinksActivator, REC: ACTI:FULL
 msgctxt "013100"
 msgid "Ceremonial Drinks"
-msgstr "예식 음료"
+msgstr "의식용 음료"
 
 # EDID: SFBGS001_MS04_SensorATerminalAdminSubmenu, REC: TMLM:ITXT
 msgctxt "013101"
@@ -12936,7 +12936,7 @@ msgid ""
 msgstr ""
 "센서 작동 중\n"
 "배터리 상태: 높음\n"
-"전원 상태: 높음\n"
+"전력 상태: 높음\n"
 "남은 저장 공간: 방대\n"
 "\n"
 "**경고** 내장된 정밀 측정기 오류. 오류 일지를 확인해 세부 사항을 확인하십시오."
@@ -12965,7 +12965,7 @@ msgstr "환경 감시 시스템"
 # EDID: SFBGS001LC06_CrusadersHallMuseumPlaque_StationMsg, REC: MESG:FULL
 msgctxt "01310B"
 msgid "Triumph at Wolf-359"
-msgstr "울프-359에서 이룩한 승리"
+msgstr "볼프-359에서 이룩한 승리"
 
 # EDID: SFBGS001LC06_CrusadersHallMuseumPlaque_HelmetMemorialMsg, REC:
 # MESG:FULL
@@ -13051,7 +13051,7 @@ msgstr "명령서 - 스페이서 추락 현장"
 # EDID: SFBGS001LC06_CrusadersHallMuseumPlaque_Station, REC: ACTI:FULL
 msgctxt "0131D7"
 msgid "Triumph at Wolf-359"
-msgstr "울프-359에서 이룩한 승리"
+msgstr "볼프-359에서 이룩한 승리"
 
 # EDID: SFBGS001LC06_CrusadersHallMuseumPlaque_Armory, REC: ACTI:FULL
 msgctxt "0131D8"
@@ -13919,7 +13919,7 @@ msgstr "Modgroup 02"
 # EDID: SFBGS001_MQIN_Location, REC: LCTN:FULL
 msgctxt "0135A4"
 msgid "Anomalous Cave"
-msgstr "이상현상 동굴"
+msgstr "이상 현상 동굴"
 
 # EDID: SFBGS001_MQIN, REC: QUST:NNAM
 msgctxt "0135EA"
@@ -13934,7 +13934,7 @@ msgstr "아나스코 바룬 찾기"
 # EDID: SFBGS001_MQIN, REC: QUST:NNAM
 msgctxt "0135EC"
 msgid "Investigate the Anomalous Cave"
-msgstr "이상현상 동굴 조사하기"
+msgstr "이상 현상 동굴 조사하기"
 
 # EDID: SFBGS001_MQIN, REC: QUST:FULL
 msgctxt "0135F1"
@@ -15778,10 +15778,10 @@ msgid ""
 msgstr ""
 "전 직원에게 알린다.\n"
 "\n"
-"그 어떤 실험을 수행하더라도, 먼저 정확한 와트를 설정하는 것을 절대 잊지 마라. 우리의 더 큰 프로젝트가 완료되기 전까진 우린 지금 "
+"그 어떤 실험을 수행하더라도, 먼저 정확한 전력량을 설정하는 것을 절대 잊지 마라. 우리의 더 큰 프로젝트가 완료되기 전까진 우린 지금 "
 "댐으로만 얻을 수 있는 에너지에 의존해야 하는 상황이다. 이 에너지는 외부 요건에 의해 발전량이 들쭉날쭉하다.\n"
 "\n"
-"수력 발전기가 '낮은 전력'이나 '제한됨' 모드일 때는 특히 주의하도록.\n"
+"수력 발전기가 '전력 낮음'이나 '접근 제한' 모드일 때는 특히 주의하도록.\n"
 "이런 상황에서는 값이 반드시 100으로 증가되어야 적정 수준으로 보정된다. 이를 지키지 못하면 장비는 물론 인명까지 피해를 입을 수 있다."
 
 # EDID: SFBGS001LC05_TeleKey_Desktop, REC: TMLM:ITXT
@@ -15804,16 +15804,16 @@ msgid ""
 "We must demonstrate results, and soon. All of House Va'ruun is counting on us."
 msgstr ""
 "커다란 물체를 옮긴다는 현재 목표는 계속해서 달성하기 매우 어려운 것으로 드러났다. 마지막 시험 당시 용기가 벽을 통과하는 것을 관찰한 "
-"끝에, 와트 값을 제대로 통제하는 건 불가능하다는 것이 입증됐다.\n"
+"끝에, 전력량을 제대로 통제하는 건 불가능하다는 것이 입증됐다.\n"
 "\n"
 "(대의회는 이미 이 사실을 고려하고 있었으며 시설 내부에 외부 인원이 들어오는 것을 거부하고 있다. 그러므로 우리가 직접 해결야만 한다. "
 "난 내 팀원들에게 이미 하고 있는 수리 업무 외에 더 큰 부담을 짊어 주긴 싫다. 끔찍한 피해가 발생할 수도 있다는 가능성도 있거니와. "
 "위대한 뱀에게 감사하게도 이번에는 우리가 운이 좋았다.)\n"
 "\n"
-"이제 우린 이미 성공한 부분을 중점으로 좀 더 심혈을 기울여야 한다. 더 작은 물체를 갖고 계속 시도하되 복잡성과 변수는 더욱 늘리는 "
+"이제 우린 이미 성공한 부분을 중점으로 좀 더 심혈을 기울여야 한다. 더 작은 물체를 갖고 계속 시도하되, 복잡성과 변수는 더욱 늘리는 "
 "선에서.\n"
 "\n"
-"예로 키카드를 옮기려고 해 보자. 해당 절차 이후에도 저장된 데이터가 그대로 남아 있을까, 전부 상실될까?\n"
+"예로 키카드를 옮기려고 해 보자. 해당 절차 이후에도 저장된 데이터가 그대로 남아 있을까? 아니면 전부 손실될까?\n"
 "\n"
 "우린 반드시, 그것도 빨리 결과를 창출해야 한다. 바룬 가문 전체가 우리를 믿고 있으니까."
 
@@ -15946,7 +15946,7 @@ msgstr "폭발물 처리 보고서"
 # EDID: SFBGS001_MQIN, REC: QUST:NNAM
 msgctxt "0148A9"
 msgid "Escape the Anomalous Cave"
-msgstr "이상현상 동굴 탈출하기"
+msgstr "이상 현상 동굴 탈출하기"
 
 # EDID: SFBGS001_MQIN, REC: QUST:NNAM
 msgctxt "0148AA"
@@ -16176,12 +16176,12 @@ msgstr "멋진 해조류 농담"
 # EDID: SFBGS001_AHPOI03_Note, REC: BOOK:ENAM
 msgctxt "0148DE"
 msgid "Shadow"
-msgstr "섀도우"
+msgstr "그림자"
 
 # EDID: SFBGS001_AHPOI03_Note, REC: BOOK:FULL
 msgctxt "0148E0"
 msgid "Shadow"
-msgstr "섀도우"
+msgstr "그림자"
 
 # EDID: SFBGS001_Clothes_Varuun_Unique_2_Variant_01, REC: ARMO:FULL
 msgctxt "0148E1"
@@ -16880,12 +16880,12 @@ msgstr ""
 # EDID: SFBGS001_MQ01_EngineeringDesktop, REC: TMLM:ITXT
 msgctxt "0149BC"
 msgid "Vortex Anomalies"
-msgstr "볼텍스 이상현상"
+msgstr "볼텍스 이상 현상"
 
 # EDID: SFBGS001_MQ01_EngineeringDesktop, REC: TMLM:ITXT
 msgctxt "0149BD"
 msgid "Vortex Anomalies"
-msgstr "볼텍스 이상현상"
+msgstr "볼텍스 이상 현상"
 
 # EDID: SFBGS001_MQ01_EngineeringLabReports, REC: TMLM:UNAM
 msgctxt "0149BE"
@@ -17246,8 +17246,8 @@ msgstr ""
 "지금이라도 제 사촌들을 풀어 줄 수 있지만 순찰 중인 광신도들을 처리하는 것은 다른 문제가 될 것입니다.\n"
 "\n"
 "미해일이 오늘 여러 명의 새 '자산'을 데려왔습니다. 놈들이 하는 말을 들으니 '리딤드'라고 하는 것 같습니다. 광신도들이 저것들을 자기 "
-"편이라 생각할진 몰라도 신체적으로나 정신적으로나 주님의 위대한 디자인을 완전히 거역할 정도로 뒤틀린 괴물들일 뿐입니다. 제 능력 수준에도 "
-"불구하고 우리가 탈출 도중 저것들을 맞닥뜨리게 되면 상대도 되지 못할 것 같습니다. 아직 너무나도 위험합니다."
+"편이라 생각할진 몰라도 신체적으로나 정신적으로나 뱀께서 행하신 위대한 설계를 완전히 거역할 정도로 뒤틀린 괴물들일 뿐입니다. 제 능력 "
+"수준에도 불구하고 우리가 탈출 도중 저것들을 맞닥뜨리게 되면 상대도 되지 못할 것 같습니다. 아직 너무나도 위험합니다."
 
 # EDID: SFBGS001_MQ03_SahimaNotes, REC: TMLM:ITXT
 msgctxt "014A0C"
@@ -17268,9 +17268,9 @@ msgstr ""
 "오늘 꽤 진전을 이루어냈습니다. 오래된 디렉토리에 접속하는 데 성공해 한때 이곳은 중력 구동기의 발전을 목표로 하던 군사 기지였음을 "
 "알아냈습니다. 이제서야 왜 미해일이 아나스코의 결과물을 재현하는 데 '필요한 모든 것'을 구했다고 한 것인지 알겠습니다.\n"
 "\n"
-"미해일은 분명 제가 대변자의 옛 팀원 중 하나였음을 알아낸 것이겠죠. 과거 주님께 더 가까이 다가갈 수 있도록 대변자를 도와주러 "
-"영입되었을 때 말입니다. 대체 그자가 어디서 그 정보를 구했을까요? 제가 아끼는 사촌들, 그것도 대표 직책을 수행하는 자들이 흘렸을까요? "
-"아무튼 지금 당장은 제게 방해만 되는 불필요한 생각들일 뿐입니다."
+"미해일은 분명 제가 대변자의 옛 팀원 중 하나였음을 알아낸 것이겠죠. 과거 뱀께 더 가까이 다가갈 수 있도록 대변자를 도와주러 영입되었을 "
+"때 말입니다. 대체 그자가 어디서 그 정보를 구했을까요? 제가 아끼는 사촌들, 그것도 대표 직책을 수행하는 자들이 흘렸을까요? 아무튼 "
+"지금 당장은 제게 방해만 되는 불필요한 생각들일 뿐입니다."
 
 # EDID: SFBGS001_MQ03_SahimaNotes, REC: TMLM:ITXT
 msgctxt "014A0E"
@@ -17288,7 +17288,7 @@ msgid ""
 msgstr ""
 "위대한 뱀이시여,\n"
 "\n"
-"절망에 빠져 있는 것은 이제 끝났고 주님이 내려 주신 시련을 받아들이겠습니다. 제 유일한 후회는 한 시라도 더 빨리 깨닫지 못했단 "
+"절망에 빠져 있는 것은 이제 끝났고 뱀께서 내려 주신 시련을 받아들이겠습니다. 제 유일한 후회는 한 시라도 더 빨리 깨닫지 못했단 "
 "것입니다.\n"
 "\n"
 "저는 다시 제 사촌들의 안전을 확보하고, 광신도 무리를 몰아내는 데 집중할 것입니다. 저들의 네트워크에서 제가 알아낼 수 있는 것이 분명 "
@@ -17402,12 +17402,12 @@ msgstr "대의회"
 # EDID: SFBGS001_Slate_General_Volunteers, REC: BOOK:ENAM
 msgctxt "014A3B"
 msgid "Volunteers Needed"
-msgstr "자원봉사자가 필요합니다"
+msgstr "지원자가 필요합니다"
 
 # EDID: SFBGS001_Slate_General_Volunteers, REC: BOOK:FULL
 msgctxt "014A3D"
 msgid "Volunteers Needed"
-msgstr "자원봉사자가 필요합니다"
+msgstr "지원자가 필요합니다"
 
 # EDID: DMD_Test_Activator, REC: ACTI:ATTX
 msgctxt "014A3E"
@@ -17422,22 +17422,22 @@ msgstr "나를 클릭하기"
 # EDID: SFBGS001_Z01Temple_Perseverance_spell, REC: SPEL:FULL
 msgctxt "014A41"
 msgid "Contemplation on Perseverance"
-msgstr "인내의 명상"
+msgstr "인내의 묵상"
 
 # EDID: SFBGS001_Z01Temple_Obedience_spell, REC: SPEL:FULL
 msgctxt "014A43"
 msgid "Contemplation on Obedience"
-msgstr "복종의 명상"
+msgstr "복종의 묵상"
 
 # EDID: SFBGS001_Z01Temple_Strength_spell, REC: SPEL:FULL
 msgctxt "014A45"
 msgid "Contemplation on Strength"
-msgstr "위력의 명상"
+msgstr "위력의 묵상"
 
 # EDID: SFBGS001_Z01Temple_Devotion_spell, REC: SPEL:FULL
 msgctxt "014A47"
 msgid "Contemplation on Devotion"
-msgstr "헌신의 명상"
+msgstr "헌신의 묵상"
 
 # EDID: SFBGS001_Z01Temple_StarPowerRegenRate, REC: MGEF:DNAM
 msgctxt "014A48"
@@ -17959,6 +17959,31 @@ msgid ""
 "\n"
 "Maintenance Officer - Nikko Karg'lass"
 msgstr ""
+"제목: 운영 상태 보고서: 저수조 및 에너지 발전기\n"
+"\n"
+"관련 직원들에게 알림,\n"
+"\n"
+"기쁜 마음으로 우리 벙커의 저수조 펌프 및 여과 시스템은 물론, 에너지 발전기까지 모두 최적 상태로 작동 중임을 보고합니다.\n"
+"\n"
+"운용 상태:\n"
+"\n"
+"--저수조 시스템--\n"
+"\n"
+"우리 벙커의 저수조 펌프 및 여과 시스템이 작동 중이며 시설 내 수요를 충족할 수 있습니다.\n"
+"모든 중요 부품들은 철저하게 검증 및 시험되었습니다. \n"
+"수질 지표가 허용 한도 내에 있으며 식수에 적합한 깨끗한 물 공급이 전 직원들에게 보장됩니다.\n"
+"\n"
+"--에너지 발전기--\n"
+"\n"
+"우리 시설 내 전력 공급의 중추 역할을 하는 에너지 발전기가 가동 중이며 효율적으로 작동하고 있습니다.\n"
+"신뢰성과 성능 수준을 유지하기 위해 정기적인 유지 관리 점검이 이미 수행되었습니다.\n"
+"\n"
+"\n"
+"본 시스템 중 상당 부분은 자동화되어 있지만, 지속적인 기능과 효율성을 보장하기 위해 우리가 엄격한 감시 프로토콜을 유지하는 것이 "
+"필수적입니다.\n"
+"엄격한 감시 프로토콜과 사전 예방적 유지 관리 관행을 준수해 벙커 내 인프라의 탄력성과 안정성을 보장하고 있습니다.\n"
+"\n"
+"유지보전 담당자 - 니코 카글라스"
 
 # EDID: SFBGS001LC48_MaintenanceTerminal_Genesis, REC: TMLM:ITXT
 msgctxt "014A6E"
@@ -18478,16 +18503,20 @@ msgid ""
 "\n"
 "I'll have to get Mila to lend a hand this time. I think she'd like it."
 msgstr ""
+"새 계절의 씨앗을 뿌리기 시작했다. 부디 이번에도 이전 계절처럼 좋은 결과가 있으면 좋을 텐데. 신선한 야채, 녹황색 채소를 직접 가꾸는 "
+"것은 포장 식품보다 훨씬 나으니까. 게다가 그로트들이 간식으로도 좋아한다.\n"
+"\n"
+"밀라에게 이번에는 도와달라고 해야겠다. 아마 좋아하겠지."
 
 # EDID: SFBGS001_LC13_ZenDesktop, REC: TMLM:ITXT
 msgctxt "014A90"
 msgid "New season, new seeds"
-msgstr ""
+msgstr "새 계절, 새 씨앗"
 
 # EDID: SFBGS001_LC13_ZenDesktop, REC: TMLM:FULL
 msgctxt "014A91"
 msgid "User: Zen Mazur"
-msgstr ""
+msgstr "사용자: 젠 매저"
 
 # EDID: SFBGS001_LC13_ZenTerminal, REC: TERM:FULL
 msgctxt "014A92"
@@ -18642,12 +18671,12 @@ msgstr "보관함"
 # EDID: SFBGS001_MQ04_MilasNewJournal, REC: BOOK:FULL
 msgctxt "014AB1"
 msgid "Mila's New Journal"
-msgstr ""
+msgstr "밀라의 새 일기"
 
 # EDID: SFBGS001_LC48Slate_GameIsOn, REC: BOOK:FULL
 msgctxt "014AB3"
 msgid "Score board"
-msgstr ""
+msgstr "점수판"
 
 # EDID: SFBGS001_Spacesuit_Varuun_02_Armored, REC: ARMO:FULL
 msgctxt "014AB4"
@@ -18720,9 +18749,10 @@ msgid "Damir"
 msgstr "다미어"
 
 # EDID: SFBGS001_LC15Slate_Kalyn, REC: BOOK:FULL
+#, fuzzy
 msgctxt "014AC5"
 msgid "Thank you"
-msgstr ""
+msgstr "고마워"
 
 # EDID: SFBGS001LC01_LoadDoor02_DisplayName, REC: MESG:FULL
 msgctxt "014AC8"
@@ -18737,17 +18767,17 @@ msgstr "운영 정보"
 # EDID: SFBGS001_MQ02_SerpentsPathSlate01, REC: BOOK:FNAM
 msgctxt "014ACE"
 msgid "FROM: Office of the Speaker"
-msgstr ""
+msgstr "발신: 대변자 집무실"
 
 # EDID: SFBGS001_MQ02_SerpentsPathSlate01, REC: BOOK:ENAM
 msgctxt "014ACF"
 msgid "TO: High Council"
-msgstr ""
+msgstr "수신: 대의회"
 
 # EDID: SFBGS001_MQ02_SerpentsPathSlate01, REC: BOOK:FULL
 msgctxt "014AD1"
 msgid "Funding Notice"
-msgstr ""
+msgstr "재정 삭감에 관련한 통지문"
 
 # EDID: SFBGS001_MQ02_CouncilReport_Commerce, REC: BOOK:ENAM
 msgctxt "014AD2"
@@ -18767,12 +18797,12 @@ msgstr "현황 보고서: 상무성"
 # EDID: SFBGS001_MQ02_CouncilReport_Incident, REC: BOOK:FULL
 msgctxt "014AD7"
 msgid "Report: Post Incident Status"
-msgstr "보고서: 사건 이후 상황"
+msgstr "보고서: 사고 이후 상황"
 
 # EDID: SFBGS001_DazraChunksSlate_NoticeOfClosure, REC: BOOK:FNAM
 msgctxt "014AD8"
 msgid "Attn: Staff"
-msgstr ""
+msgstr "직원들에게 알림"
 
 # EDID: SFBGS001_DazraChunksSlate_NoticeOfClosure, REC: BOOK:ENAM
 msgctxt "014AD9"
@@ -18782,7 +18812,7 @@ msgstr "2239년 9월 22일"
 # EDID: SFBGS001_DazraChunksSlate_NoticeOfClosure, REC: BOOK:FULL
 msgctxt "014ADB"
 msgid "Notice of Closure"
-msgstr ""
+msgstr "영업 중단 통지서"
 
 # EDID: SFBGS001_MQ02_CouncilReport_State, REC: BOOK:ENAM
 msgctxt "014ADC"
@@ -18837,12 +18867,12 @@ msgstr "위력의 성상"
 # EDID: SFBGS001_DazraZ01_FarmerSlate, REC: BOOK:FULL
 msgctxt "014AEE"
 msgid "An Opportunity..."
-msgstr ""
+msgstr "이건 기회야..."
 
 # EDID: SFBGS001_DazraZ01_MalikSlate, REC: BOOK:FULL
 msgctxt "014AF0"
 msgid "My Partner"
-msgstr ""
+msgstr "나의 파트너"
 
 # EDID: SFBGS001LC03InteriorLocation, REC: LCTN:FULL
 msgctxt "014AF1"
@@ -18857,7 +18887,7 @@ msgstr "[LC38 Mihael's Ship]"
 # EDID: SFBGS001_LightFluorescent_CFree01On, REC: STAT:FULL
 msgctxt "014AF4"
 msgid "Fluorescent Light - Ceiling"
-msgstr ""
+msgstr "형광등-천장"
 
 # EDID: SFBGS001_LC48Slate_TreasureHunt, REC: BOOK:FULL
 msgctxt "014AF6"
@@ -18867,22 +18897,22 @@ msgstr "임무: 안개서린 동굴"
 # EDID: SFBGS001_DazraChunksSlate_LastChance, REC: BOOK:FNAM
 msgctxt "014AF7"
 msgid "Attn: D. Conley, Manager"
-msgstr ""
+msgstr "D. 콘리, 매니저에게 보냄"
 
 # EDID: SFBGS001_DazraChunksSlate_LastChance, REC: BOOK:ENAM
 msgctxt "014AF8"
 msgid "Oct 14, 2330"
-msgstr ""
+msgstr "2330년, 10월 14일"
 
 # EDID: SFBGS001_DazraChunksSlate_LastChance, REC: BOOK:FULL
 msgctxt "014AFA"
 msgid "Last Chance"
-msgstr ""
+msgstr "마지막 기회"
 
 # EDID: SFBGS001_DazraChunksSlate_PromotionalIdeas, REC: BOOK:FNAM
 msgctxt "014AFB"
 msgid "From: K. Hall, Marketing Director"
-msgstr ""
+msgstr "마케팅 책임자, K. 홀이 보냄"
 
 # EDID: SFBGS001_DazraChunksSlate_PromotionalIdeas, REC: BOOK:ENAM
 msgctxt "014AFC"
@@ -18892,7 +18922,7 @@ msgstr "2239년 8월 22일"
 # EDID: SFBGS001_DazraChunksSlate_PromotionalIdeas, REC: BOOK:FULL
 msgctxt "014AFE"
 msgid "Promotional Campaign Ideas"
-msgstr ""
+msgstr "판촉용 행사 관련 아이디어들"
 
 # EDID: SFBGS001_MQ02_RitualAltarActivator, REC: ACTI:FULL
 msgctxt "014AFF"
@@ -18902,7 +18932,7 @@ msgstr "제단"
 # EDID: SFBGS001_Dazra_Watchtower01, REC: BOOK:FULL
 msgctxt "014B01"
 msgid "Guard Report"
-msgstr ""
+msgstr "경비대원의 보고서"
 
 # EDID: SFBGS001_mod_CCT_Combat_Increased_Health2, REC: OMOD:FULL
 msgctxt "014B03"
@@ -18942,12 +18972,12 @@ msgstr "안개서린 동굴로 이동하기"
 # EDID: SFBGS001_JinanVaruun_Slate_Speech04, REC: BOOK:FULL
 msgctxt "014B0D"
 msgid "Confiscated Recording"
-msgstr ""
+msgstr "압수된 녹음"
 
 # EDID: SFBGS001_JinanVaruun_Slate_Speech05, REC: BOOK:FULL
 msgctxt "014B0E"
 msgid "Confidential - Do Not Distribute"
-msgstr ""
+msgstr "기밀 - 배포 금지"
 
 # EDID: SFBGS001_JinanVaruun_Slate_Speech06, REC: BOOK:FULL
 msgctxt "014B0F"
@@ -18982,27 +19012,27 @@ msgstr "지난 바룬 - 뱀의 성전"
 # EDID: SFBGS001_Z01Temple_Redemption_spell, REC: SPEL:FULL
 msgctxt "014B16"
 msgid "Contemplation on Redemption"
-msgstr "구원에 대한 묵상"
+msgstr "구원의 묵상"
 
 # EDID: SFBGS001_Z01Temple_RegenHealthCombat, REC: MGEF:DNAM
 msgctxt "014B17"
 msgid "Regenerates health while in combat."
-msgstr ""
+msgstr "전투 중 체력이 재생된다."
 
 # EDID: SFBGS001_Z01Temple_RegenHealthCombat, REC: MGEF:FULL
 msgctxt "014B18"
 msgid "Serpent's Ardor"
-msgstr ""
+msgstr "뱀의 열정"
 
 # EDID: SFBGS001_Z01Temple_RadiationResist, REC: MGEF:DNAM
 msgctxt "014B19"
 msgid "Resistance to Radiation environmental hazards."
-msgstr ""
+msgstr "방사능 환경 위험에 대한 저항력이 증가한다."
 
 # EDID: SFBGS001_Z01Temple_RadiationResist, REC: MGEF:FULL
 msgctxt "014B1A"
 msgid "Believer's Fortitude"
-msgstr ""
+msgstr "신자의 강인함"
 
 # EDID: SFBGS001SpellEffectSummonVortexSpawn_2, REC: MGEF:FULL
 msgctxt "014B1B"
@@ -19087,58 +19117,58 @@ msgstr "선택받은 그로트 - 3부"
 # EDID: SFBGS001_Crater_Note04, REC: BOOK:FULL
 msgctxt "014B37"
 msgid "Joining the Keep"
-msgstr ""
+msgstr "본성 들어가기"
 
 # EDID: SFBGS001_Crater_Note05, REC: BOOK:FULL
 msgctxt "014B39"
 msgid "RE: Security Cameras"
-msgstr ""
+msgstr "답장: 보안 카메라"
 
 # EDID: SFBGS001_Crater_Note06, REC: BOOK:FULL
 msgctxt "014B3B"
 msgid "Happy Birthday"
-msgstr ""
+msgstr "생일 축하"
 
 # EDID: SFBGS001_Crater_Note07, REC: BOOK:FULL
 msgctxt "014B3D"
 msgid "Budget Concerns"
-msgstr ""
+msgstr "예산 문제"
 
 # EDID: SFBGS001_Crater_Note08, REC: BOOK:FULL
 msgctxt "014B3F"
 msgid "Enough is Enough"
-msgstr ""
+msgstr "더 이상은 못 참아"
 
 # EDID: SFBGS001_Crater_Note09, REC: BOOK:FULL
 msgctxt "014B41"
 msgid "My Confession"
-msgstr ""
+msgstr "나의 고백"
 
 # EDID: SFBGS001_Crater_Note10, REC: BOOK:FULL
 msgctxt "014B43"
 msgid "A Note on Frugality"
-msgstr ""
+msgstr "검소함에 대하여"
 
 # EDID: SFBGS001_Crater_Note11, REC: BOOK:FULL
 msgctxt "014B45"
 msgid "Another Lost Contract"
-msgstr ""
+msgstr "또 계약이 파기되다"
 
 # EDID: SFBGS001_Crater_Note12, REC: BOOK:FULL
 msgctxt "014B47"
 msgid "Efforts in Neon"
-msgstr ""
+msgstr "네온 내에서의 활동"
 
 # EDID: SFBGS001_Power_Receptacle_Wall_SubtleAudio, REC: ACTI:FULL
 msgctxt "014B48"
 msgid "Power Receptacle"
-msgstr ""
+msgstr "전원 접속 장치"
 
 # EDID: SFBGS001_MS01_Power_Switch_Wall_01_Standing_PoweredAudio, REC:
 # ACTI:FULL
 msgctxt "014B49"
 msgid "Power Switch"
-msgstr ""
+msgstr "전원 스위치"
 
 # EDID: SFBGS001_VortexGrenadePhase, REC: EXPL:FULL
 msgctxt "014B4A"
@@ -19171,11 +19201,33 @@ msgid ""
 "Power level: 235\n"
 "Result: SUCCESS"
 msgstr ""
+"실험 회차 046\n"
+"고출력 모드\n"
+"\n"
+"대상: 고체 철 (50g)\n"
+"전력량 상태: 221\n"
+"결과: 성공\n"
+"\n"
+"대상: 펜\n"
+"전력량 상태: 124\n"
+"결과: 성공\n"
+"\n"
+"대상: 공책\n"
+"전력량 상태: 442\n"
+"결과: 실패\n"
+"\n"
+"대상: 고체 구리 (75g)\n"
+"전력량 상태: 453\n"
+"결과: 실패\n"
+"\n"
+"대상: 키카드\n"
+"전력량 상태: 235\n"
+"결과: 성공"
 
 # EDID: SFBGS001LC05_TeleKey_Desktop, REC: TMLM:ITXT
 msgctxt "014B4C"
 msgid "Recent Experimental Results"
-msgstr ""
+msgstr "최근 실험 결과"
 
 # EDID: SFBGS001LC48_Groat_Male_Spacer, REC: NPC_:FULL
 msgctxt "014B4D"
@@ -19185,7 +19237,7 @@ msgstr "그로트 수컷"
 # EDID: SFBGS001_LC48Slate_GroatReproduction, REC: BOOK:FULL
 msgctxt "014B4F"
 msgid "Shy Groat"
-msgstr ""
+msgstr "수줍은 그로트"
 
 # EDID: SFBGS001LC06_02_Descent_FacilitiesLockdownComputer_Desktop, REC:
 # TMLM:UNAM
@@ -19201,12 +19253,21 @@ msgid ""
 "\n"
 "Monitor power levels and regularly log results as the new series of experiments for the Pinnacle Project commences."
 msgstr ""
+"전 직원에게 알림,\n"
+"\n"
+"반응로 층에 볼텍스 제어장치가 설치되면서 모든 연구 시설이 다시 재가동 중입니다.\n"
+"\n"
+"그 이후 감지된 변수가 소수 있으나 허용 가능한 수준 이내입니다.\n"
+"\n"
+"자동안전장치 시스템이 증강되어 허용 가능한 수준을 초과할 시 자동으로 동작할 것입니다.\n"
+"\n"
+"피나클 프로젝트의 새 시험이 시작되었으니, 전력량을 감시하고 결과물을 계속 기록하십시오."
 
 # EDID: SFBGS001LC06_02_Descent_FacilitiesLockdownComputer_Desktop, REC:
 # TMLM:ITXT
 msgctxt "014B52"
 msgid "NOTICE: Power Fluctuations"
-msgstr ""
+msgstr "주의: 전력 변동"
 
 # EDID: SFBGS001LC06_02_Descent_VortexResearchComputer_Desktop, REC: TMLM:UNAM
 msgctxt "014B53"
@@ -19219,11 +19280,18 @@ msgid ""
 "\n"
 "Current work on vortex containment fields should continue as time allows."
 msgstr ""
+"피나클 프로젝트로 책임자 급 직원들의 전입이 승인되었습니다.\n"
+"\n"
+"대변자 님이 직접 내린 명령이므로, 이 프로젝트에 관한 모든 요청은 다른 연구보다 더욱더 우선시되어야 합니다.\n"
+"\n"
+"시간이 중요하니 실험 결과는 끝나는 대로 즉시 보고되어야 합니다.\n"
+"\n"
+"볼텍스 격리장에 관한 현재 연구는 여건이 되는 대로 다시 진행될 것입니다."
 
 # EDID: SFBGS001LC06_02_Descent_VortexResearchComputer_Desktop, REC: TMLM:ITXT
 msgctxt "014B54"
 msgid "Notice: Priority Request"
-msgstr ""
+msgstr "주의: 우선 사항 요청문"
 
 # EDID: SFBGS001LC06_02_Descent_IntakeLabComputer_Desktop, REC: TMLM:UNAM
 msgctxt "014B55"
@@ -19236,11 +19304,21 @@ msgid ""
 "\n"
 "- Once subjects are stabilized in pods, please expedite transfer. The elevators can only hold so many pods at once, and delays between entering pods and connection to the system at the Pinnacle should be minimized."
 msgstr ""
+"전 직원에게 알림\n"
+"\n"
+"- 생체 신호의 최종 점검은 필수입니다. 파일의 데이터와 교차 검증해, 생존성에 문제가 발생할 수 있을지 모르는 물리적 상태 변화가 "
+"없는지 확인하십시오.\n"
+"\n"
+"- 질문에 절대 답하지 마십시오. 피험자들은 이미 절차에 필요한 모든 정보를 숙지했습니다. 절차가 끝나면 그 후에 모든 설명을 듣게 될 "
+"것입니다.\n"
+"\n"
+"- 피험자들이 포드 내에서 안정화되면 신속히 이송해야 합니다. 엘리베이터는 다량의 포드를 운송하는 데 한계가 있으며, 포드에 들어간 다음 "
+"피나클의 시스템에 연결되는 사이의 지연 시간은 최소화되어야 합니다."
 
 # EDID: SFBGS001LC06_02_Descent_IntakeLabComputer_Desktop, REC: TMLM:ITXT
 msgctxt "014B56"
 msgid "Intake Procedure Reminders"
-msgstr ""
+msgstr "수용 절차 주지 사항"
 
 # EDID: SFBGS001LC06_02_Descent_BiologicsLabComputer_Desktop, REC: TMLM:UNAM
 msgctxt "014B57"
@@ -19253,11 +19331,19 @@ msgid ""
 "\n"
 "Requests for additional lab time have been indefinitely postponed."
 msgstr ""
+"현재 실험 과정에서 그로트 대상들은 (주목할 만하면서도 현재로서는 설명할 수 없는 예외 한 가지 포함) 인간에게서 관찰된 위치 이동 "
+"능력의 징후를 보이지 않았다.\n"
+"\n"
+"현재 안전 프로토콜에 따른 규칙 때문에 다른 토종 동물과의 임상 시험은 불가능했다.\n"
+"\n"
+"현재로서는 이러한 행동이 인지 능력, 공격성 또는 기타 요인의 기능인지는 불분명하다.\n"
+"\n"
+"추가 실험 시간 요청은 무기한 연기되었다."
 
 # EDID: SFBGS001LC06_02_Descent_BiologicsLabComputer_Desktop, REC: TMLM:ITXT
 msgctxt "014B58"
 msgid "Report: Translocation Behavior"
-msgstr ""
+msgstr "보고서: 위치 이동 활동 징후"
 
 # EDID: SFBGS001LC06_02_Descent_BiologicsLabComputer_Desktop, REC: TMLM:UNAM
 msgctxt "014B59"
@@ -19271,46 +19357,55 @@ msgid ""
 "\n"
 "Please report any aberrant visual or auditory phenomena approximating known groat physiology/behavior to a supervisor immediately."
 msgstr ""
+"전 직원에게 알림.\n"
+"\n"
+"피험체, GR-22을 목격하는 즉시 보고할 것.\n"
+"\n"
+"대상은 6개월 전에 마지막으로 목격되었으며 J-02 연구실의 벽을 부분적으로 통과함. 외부 자극이나 강압에 전혀 반응하지 않았음. 현재 "
+"위치 알려지지 않음.\n"
+"\n"
+"\n"
+"그로트의 생리 및 습성으로 파악되는 기괴한 형체를 목격했거나 소음 현상을 들었다면 그 즉시 감독관에게 보고하십시오."
 
 # EDID: SFBGS001LC06_02_Descent_BiologicsLabComputer_Desktop, REC: TMLM:ITXT
 msgctxt "014B5A"
 msgid "URGENT: SUBJECT GR-22"
-msgstr ""
+msgstr "긴급: 피험체 GR-22"
 
 # EDID: SFBGS001_LC27_ElevatorRepair, REC: BOOK:FNAM
 msgctxt "014B60"
 msgid "From: Azad Dubas"
-msgstr ""
+msgstr "발신: 아자드 두바스"
 
 # EDID: SFBGS001_LC27_ElevatorRepair, REC: BOOK:ENAM
 msgctxt "014B61"
 msgid "To: Fihran Nostal"
-msgstr ""
+msgstr "수신: 파이란 노스탈"
 
 # EDID: SFBGS001_LC27_ElevatorRepair, REC: BOOK:FULL
 msgctxt "014B63"
 msgid "Elevator Repair"
-msgstr ""
+msgstr "엘리베이터 수리"
 
 # EDID: SFBGS001_LC29_Chores, REC: BOOK:FULL
 msgctxt "014B76"
 msgid "Weekly Chores"
-msgstr ""
+msgstr "매주 할 일"
 
 # EDID: SFBGS001_LC29_MysteriousDeaths, REC: BOOK:FULL
 msgctxt "014B78"
 msgid "Mysterious Deaths"
-msgstr ""
+msgstr "기이한 죽음"
 
 # EDID: SFBGS001LC06_04_Ascent_AnaskosOfficeComputer_Desktop, REC: TMLM:ITXT
 msgctxt "014B7D"
 msgid "Personal Entries"
-msgstr ""
+msgstr "개인 일지"
 
 # EDID: SFBGS001LC06_04_Ascent_AnaskosOfficeComputer_Desktop, REC: TMLM:ITXT
 msgctxt "014B7E"
 msgid "Reports"
-msgstr "보고"
+msgstr "보고서"
 
 # EDID: SFBGS001LC06_04_Ascent_AnaskosOfficeComputer_ReportsSubmenu, REC:
 # TMLM:UNAM
@@ -19324,12 +19419,25 @@ msgid ""
 "\n"
 "- There have been several inquiries as to who may be allowed to witness the activation of the gate, and the historic event that is sure to transpire immediately afterwards. While all respect the personal investment the Speaker has for this upcoming moment, they cannot be blamed for wishing to be present at the first direct interaction with the Great Serpent since Jinan himself originally made contact."
 msgstr ""
+"대변자 님의 요청에 의거, 볼텍스 차원문 프로젝트의 평가를 마쳤습니다.\n"
+"\n"
+"- 비늘 성체 내부에 마지막 차원문의 설치가 완료되었으며, 반응로에서 필요한 모든 전력이 경로 변경되었습니다. 엔지니어들은 보다 "
+"영구적이며 공간을 최대한 침범하지 않는 전력 및 케이블 시스템에 관해 자문을 받았으며, 예상 비용에 대한 추가 분석은 초기 일련의 테스트 "
+"이후에 완료될 예정입니다.\n"
+"\n"
+"- 과학 팀은 반응로에 연결된 볼텍스 제어장치에 가해지는 응력에 대해 다시 한 번 우려를 제기했습니다. 연구팀은 대변자께서 제공하신 "
+"문서와 시제품 모델에 대해 여전히 극도로 황송하게 생각하고 있으나, 제조된 제어장치는 이 정도로 무거운 하중을 견디도록 설계된 것은 "
+"아닙니다.\n"
+"\n"
+"- 차원문의 활성화와 그 직후에 일어날 것이 자명한 역사적인 대사건을 누가 목도할 수 있을지에 대한 몇 가지 질문이 있었습니다. 대변자 "
+"님께서 앞으로 벌어질 위업을 위해 각고의 노력을 해 오셨던 것은 모두가 존중하고 있지만, 지난 바룬께서 처음 접촉하셨던 이후... 사상 "
+"두 번째로 위대한 뱀과의 직접적인 대화에 모두가 참석하기를 바라는 것을 그 누구도 나무랄 수 없을 것입니다."
 
 # EDID: SFBGS001LC06_04_Ascent_AnaskosOfficeComputer_ReportsSubmenu, REC:
 # TMLM:ITXT
 msgctxt "014B80"
 msgid "Vortex Gate Project Report"
-msgstr ""
+msgstr "볼텍스 차원문 프로젝트 보고서"
 
 # EDID: SFBGS001LC06_04_Ascent_AnaskosOfficeComputer_ReportsSubmenu, REC:
 # TMLM:UNAM
@@ -19343,24 +19451,35 @@ msgid ""
 "\n"
 "- The Speaker's presentation on the Vortex Gate was, as expected, met with considerable concern behind closed doors. There is worry amongst members that information is being withheld about the true purpose of the project, as well as considerable hand-wringing about the cost."
 msgstr ""
+"대변자 님의 요청에 의거, [삭제됨] 요원이 대의회에 대한 평가를 마쳤습니다.\n"
+"\n"
+"- 대의회에서 벌어지는 회의는 계속해서 정치적 내분으로 치닫고 있습니다. 각 가문은 명백할 정도로 다른 가문을 희생시키면서까지 자신들의 "
+"잇속을 도모하며, 이는 분명히 대변자 님의 환심을 사기 위한 것입니다.\n"
+"\n"
+"- 대변자 님을 상대로 가문들이 조직적으로 연합하려 한다는 내용의 여러 보고서들은 철저히 조사되었습니다. 아직까지 이 주장을 뒷받침하는 "
+"증거는 발견되지 않았습니다. 카딕과 베타알 가문 내의 요원, [삭제됨]과 [삭제됨]은 해당 소문을 입증하는 내용을 찾을 수 없었습니다. "
+"추가 요원들에게 나머지 단서를 검토하고 후속 조치를 취하도록 하는 임무를 맡겼습니다.\n"
+"\n"
+"- 볼텍스 차원문에 대한 대변자 님의 발표는 예상대로 막후에서 상당한 우려를 불러일으켰습니다. 의원들 사이에서는 프로젝트의 진정한 목적에 "
+"대한 정보가 일부러 공개되지 않고 있다고 느끼며, 비용에 대해서 걱정하는 목소리도 상당히 많습니다."
 
 # EDID: SFBGS001LC06_04_Ascent_AnaskosOfficeComputer_ReportsSubmenu, REC:
 # TMLM:ITXT
 msgctxt "014B82"
 msgid "High Council Report"
-msgstr ""
+msgstr "대의회 보고서"
 
 # EDID: SFBGS001LC06_04_Ascent_AnaskosOfficeComputer_ReportsSubmenu, REC:
 # TMLM:FULL
 msgctxt "014B83"
 msgid "Reports"
-msgstr "보고"
+msgstr "보고서"
 
 # EDID: SFBGS001LC06_04_Ascent_AnaskosOfficeComputer_PersonalSubmenu, REC:
 # TMLM:FULL
 msgctxt "014B84"
 msgid "Personal Entries"
-msgstr ""
+msgstr "개인 일지"
 
 # EDID: SFBGS001_MalikGroatFarmTerminal_Messages, REC: TMLM:UNAM
 msgctxt "014B85"
@@ -19371,11 +19490,17 @@ msgid ""
 "\n"
 "Malik Vosh"
 msgstr ""
+"내 그로트들이 몇 주째 계속해서 사라지고 있는데, 그쪽은 계속해서 저한테 아무 소식도 들려 주지 않는군요. 조사해서 따로 알아낸 것이 "
+"있나요?\n"
+"\n"
+"다즈라의 식량 안보를 지킬 수 있도록 당신이 해야 할 일을 하란 말입니다.\n"
+"\n"
+"말릭 보쉬"
 
 # EDID: SFBGS001_MalikGroatFarmTerminal_Messages, REC: TMLM:ITXT
 msgctxt "014B86"
 msgid "Groat Theft"
-msgstr ""
+msgstr "그로트 도둑"
 
 # EDID: SFBGS001_MalikGroatFarmTerminal_Messages, REC: TMLM:UNAM
 msgctxt "014B87"
@@ -19386,11 +19511,17 @@ msgid ""
 "\n"
 "Voris Nerun"
 msgstr ""
+"말릭 씨, 지금 우리가 도시에서 해결하고 있는 다른 수많은 문제들이 비하면 이 문제의 위험도가 낮다는 것은 잘 알겠지요.\n"
+"\n"
+"걱정하는 것은 알지만 우리도 여기서 당신을 돕기 위해 최대한 빨리 일하는 중입니다. 다만, 당신의 그로트 문제에 주의를 다할 여력이 "
+"없다고요.\n"
+"\n"
+"보리스 네룬"
 
 # EDID: SFBGS001_MalikGroatFarmTerminal_Messages, REC: TMLM:ITXT
 msgctxt "014B88"
 msgid "RE: Groat Theft"
-msgstr ""
+msgstr "답변: 그로트 도둑"
 
 # EDID: SFBGS001_MalikGroatFarmTerminal_Messages, REC: TMLM:UNAM
 msgctxt "014B89"
@@ -19401,11 +19532,17 @@ msgid ""
 "\n"
 "Malik"
 msgstr ""
+"말도 안 되는 소립니다.\n"
+"\n"
+"시민들이 굶주리기 시작하면 누가 책임지겠습니까? 식량이 떨어지면 분명 전부 다 당신 책임이라고 추궁받을 겁니다. 당신이랑 나머지 쓸모도 "
+"없는 다즈라의 경비대원들 전부.\n"
+"\n"
+"말릭."
 
 # EDID: SFBGS001_MalikGroatFarmTerminal_Messages, REC: TMLM:ITXT
 msgctxt "014B8A"
 msgid "RE:RE: Groat Theft"
-msgstr ""
+msgstr "답변: 답변: 그로트 도둑"
 
 # EDID: SFBGS001_MalikGroatFarmTerminal_Messages, REC: TMLM:FULL
 msgctxt "014B8B"
@@ -19432,12 +19569,12 @@ msgctxt "014B8F"
 msgid ""
 "I am down three groats in three weeks. This cannot be a coincidence. Will "
 "have to file a report with Voris in the city."
-msgstr ""
+msgstr "3주만에 그로트를 세 마리나 잃었다. 그냥 우연일 리 없지. 도시 안의 보리스에게 신고해야겠다."
 
 # EDID: SFBGS001_MalikGroatFarmTerminal_Documents, REC: TMLM:ITXT
 msgctxt "014B90"
 msgid "Theft"
-msgstr ""
+msgstr "도둑"
 
 # EDID: SFBGS001_MalikGroatFarmTerminal_Documents, REC: TMLM:UNAM
 msgctxt "014B91"
@@ -19446,11 +19583,14 @@ msgid ""
 "\n"
 "I will have to speak with Kreso in the city and ask if he has accepted any groats from unfamiliar sellers."
 msgstr ""
+"오늘 또 그로트를 잃었다, 이번에는 암컷. 걱정되는 상황이다.\n"
+"\n"
+"도시 안의 크레소에게 가서 낯선 사람한테 그로트를 산 게 있을지 봐야겠다."
 
 # EDID: SFBGS001_MalikGroatFarmTerminal_Documents, REC: TMLM:ITXT
 msgctxt "014B92"
 msgid "Update"
-msgstr ""
+msgstr "갱신 사항"
 
 # EDID: SFBGS001_MalikGroatFarmTerminal_Documents, REC: TMLM:UNAM
 msgctxt "014B93"
@@ -19459,16 +19599,19 @@ msgid ""
 "\n"
 "Hard to tell if there was any foul play. The rest of the groats seem calm and happy."
 msgstr ""
+"오늘 그로트 한 마리가 없다. 교배로 쓰기에 가장 뛰어난 수컷이었는데. 지나가는 그로트 무리의 암컷을 보고서 탈출한 걸까?\n"
+"\n"
+"누가 범죄를 저지른 것인지는 모르겠다. 나머지 그로트들은 침착하고 행복해 보인다."
 
 # EDID: SFBGS001_MalikGroatFarmTerminal_Documents, REC: TMLM:ITXT
 msgctxt "014B94"
 msgid "Missing Groat"
-msgstr ""
+msgstr "행방불명이 된 그로트"
 
 # EDID: SFBGS001_MalikGroatFarmTerminal_Documents, REC: TMLM:FULL
 msgctxt "014B95"
 msgid "Documents"
-msgstr ""
+msgstr "문서"
 
 # EDID: SFBGS001_DazraZ01, REC: QUST:NNAM
 msgctxt "014B96"
@@ -19498,7 +19641,7 @@ msgstr "등반 루트 (1/6)"
 # EDID: SFBGS001_EAW_CDV_Book_Copperfield_m, REC: BOOK:FULL
 msgctxt "014B9D"
 msgid "Gravid Iridiumfield"
-msgstr ""
+msgstr "가득 찬 이리듐의 땅"
 
 # EDID: SFBGS001_EAW_CDV_Book_OliverTwist_m, REC: BOOK:FULL
 msgctxt "014B9F"
@@ -19508,7 +19651,7 @@ msgstr "올리브어 트위이스트"
 # EDID: SFBGS001_EAW_CDV_Book_TaleTwoCities_m, REC: BOOK:FULL
 msgctxt "014BA1"
 msgid "A Tale of Two Systems"
-msgstr ""
+msgstr "두 체제 이야기"
 
 # EDID: SFBGS001_EAW_CDV_Book_BleakHouse_m, REC: BOOK:FULL
 msgctxt "014BA3"
@@ -19539,7 +19682,7 @@ msgstr "니콜라이 니클시"
 # EDID: SFBGS001_EAW_CDV_Book_Pickwick_m, REC: BOOK:FULL
 msgctxt "014BAD"
 msgid "The Va'ruun Papers"
-msgstr ""
+msgstr "바룬 클럽 여행기"
 
 # EDID: SFBGS001_MQ05_ExteriorTerminalDesktop, REC: TMLM:BTXT
 msgctxt "014BAE"
@@ -19616,12 +19759,12 @@ msgstr "컴퓨터"
 # EDID: SFBGS001_LC15Slate_Farmer01, REC: BOOK:FULL
 msgctxt "014BB8"
 msgid "Leaving Abbas Farm"
-msgstr ""
+msgstr "아바스 양식장을 떠나야겠어"
 
 # EDID: SFBGS001_LC15Slate_Store01, REC: BOOK:FULL
 msgctxt "014BBC"
 msgid "Closing the Store"
-msgstr ""
+msgstr "이젠 폐업하려고 해"
 
 # EDID: SFBGS001_SpaceSuit_Varuun_Helmet_02_Zealot, REC: ARMO:FULL
 msgctxt "014BBD"
@@ -19661,12 +19804,12 @@ msgstr "볼텍스 차원문 과부하시키기"
 # EDID: SFBGS001_MQ04_ViktorDesktop, REC: TMLM:ITXT
 msgctxt "014BC4"
 msgid "Observations"
-msgstr ""
+msgstr "나의 소견"
 
 # EDID: SFBGS001_MQ04_ViktorDesktop, REC: TMLM:ITXT
 msgctxt "014BC5"
 msgid "Security Risk Investigations"
-msgstr ""
+msgstr "안보 위협 수사 내역"
 
 # EDID: SFBGS001_MQ04_ViktorDesktop, REC: TMLM:FULL
 msgctxt "014BC6"
@@ -19680,11 +19823,19 @@ msgid ""
 "\n"
 "For the first time, I am able to focus on the Scaled Citadel and the High Council's plan to access it. Was I foolish to put my needs before that of House Va'ruun? Did my inaction put the people of Dazra at greater risk? Perhaps, but it was the Great Serpent who laid this test before me, and the Great Serpent who helped me overcome it. I do not doubt this was meant to be, and soon we will uncover the fate of Anasko and House Va'ruun itself."
 msgstr ""
+"결국 끝이 났다. 이단자인 내 아들이 죽은 것이다. 내 나약한 마음은 아들을 살려야 한다고 속삭였지만, 이젠 이것 또한 위대한 뱀의 "
+"뜻이었다는 것을 깨닫게 되었다. 뱀께서 직접 내게 배릭의 사형 집행인을 보내주셨고, 그자는 바로 뱀의 길을 걸어 약속받은 자가 된 "
+"외부인이었던 것이다. 날 옥죄던 짐은 풀렸고 마음도 이제 또렷해졌다.\n"
+"\n"
+"처음으로 나는 비늘 성채와 그곳에 접근하려는 대의회의 계획에 집중할 수 있게 되었다. 바룬 가문보다 내 가문 사정을 우선시한 것은 "
+"어리석은 짓이 아니었을까? 내가 머뭇거린 것 때문에 다즈라 사람들이 더 큰 위험에 빠진 게 아닐까? 아마도... 하지만 이 시험을 내 "
+"앞에 놓은 것은 위대한 뱀이셨고, 내가 극복할 수 있도록 도와준 것 또한 위대한 뱀이셨다. 이것 또한 이미 의도하신 바란 것을 의심치 "
+"않으며, 곧 우린 아나스코 님과 바룬 가문의 운명 자체를 밝혀내고 말 것이다."
 
 # EDID: SFBGS001_MQ04_ViktorObservations, REC: TMLM:ITXT
 msgctxt "014BC8"
 msgid "The Serpent's Will"
-msgstr ""
+msgstr "뱀의 의지"
 
 # EDID: SFBGS001_MQ04_ViktorObservations, REC: TMLM:UNAM
 msgctxt "014BC9"
@@ -19693,11 +19844,18 @@ msgid ""
 "\n"
 "For the first time, I am able to focus on the Scaled Citadel and the High Council's plan to access it. Was I foolish to put my needs before that of House Va'ruun? Did my inaction put the people of Dazra at greater risk? Perhaps, but it was the Great Serpent who laid this test before me, and the Great Serpent who delivered the means overcome it. I do not doubt this was meant to be, and soon we will uncover the fate of Anasko and House Va'ruun itself."
 msgstr ""
+"오늘, 위대한 뱀께서 나에게 크나큰 자비를 베풀어 주셨다. 배릭이 돌아온 것이다. 아들은 다시 내 가문과 위대한 뱀을 받아들였다. 베타알 "
+"가문은 치유되기 시작할 것이고, 마침내 내 마음마저 또렷해졌다.\n"
+"\n"
+"처음으로 나는 비늘 성채와 그곳에 접근하려는 대의회의 계획에 집중할 수 있게 되었다. 바룬 가문보다 내 가문 사정을 우선시한 것은 "
+"어리석은 짓이 아니었을까? 내가 머뭇거린 것 때문에 다즈라 사람들이 더 큰 위험에 빠진 게 아닐까? 아마도... 하지만 이 시험을 내 "
+"앞에 놓은 것은 위대한 뱀이셨고, 내가 극복할 수 있도록 도와준 것 또한 위대한 뱀이셨다. 이것 또한 이미 의도하신 바란 것을 의심치 "
+"않으며, 곧 우린 아나스코 님과 바룬 가문의 운명 자체를 밝혀내고 말 것이다."
 
 # EDID: SFBGS001_MQ04_ViktorObservations, REC: TMLM:ITXT
 msgctxt "014BCA"
 msgid "The Serpent's Will"
-msgstr ""
+msgstr "뱀의 의지"
 
 # EDID: SFBGS001_MQ04_ViktorObservations, REC: TMLM:UNAM
 msgctxt "014BCB"
@@ -19708,11 +19866,22 @@ msgid ""
 "\n"
 "Vaeric's execution must be carried out before I can announce his heresy and release myself from this burden. I will not have the public discover my hesitation allowed a heretic to go free, especially when that heretic is my own son. But who is trustworthy enough and possesses the skills to follow through?"
 msgstr ""
+"내 가문의 자제들이 다즈라 시티에서 법치와 질서를 세우기 위해 최선을 다하고 있는데, 대의회는 전력망 때문에 날 귀찮게 하고 있다. "
+"그래서 일 때문에 녹초가 됐다고 말하고 싶지만, 사실 나는 지금 집중을 전혀 못하고 있는 실정이다. 내 아들과 나 사이에 벌어진 일이 "
+"마음을 무겁게 짓누르고 있기 때문이다.\n"
+"\n"
+"루터와 비토리아만이 내 아들, 배릭과의 상황을 알고 있으며, 둘 다 내게 아이를 찾아서 죄를 저지른 것을 용서하라고 조언하고 있다. "
+"하지만 그럴 수 없다. 지금 내 아들을 사면하면 재앙이 초래되겠지. 신민들은 날 나약하고 타락한 자로 볼 것이며, 나의 권위에 오명이 "
+"생기는 것은 용납할 수 없다.\n"
+"\n"
+"직접 내 아들이 이단 행위를 저질렀다고 발표하고 날 억누르는 짐에서 벗어나려면, 먼저 배릭의 처형이 이루어져야 한다. 내가 주저해서 "
+"이단자가 아무 징벌도 받지 않고 떠나게 한 것을 지금 대중에게 알릴 수는 없다. 심지어 그 이단자가 내 아들이란 말이다. 하지만 대체 "
+"누가 그 임무를 행할 능력이 있겠으며, 누굴 믿고 맡길 수 있을 거란 말인가?"
 
 # EDID: SFBGS001_MQ04_ViktorObservations, REC: TMLM:ITXT
 msgctxt "014BCC"
 msgid "Priorities"
-msgstr ""
+msgstr "우선시해야 하는 것"
 
 # EDID: SFBGS001_MQ04_ViktorObservations, REC: TMLM:UNAM
 msgctxt "014BCD"
@@ -19723,11 +19892,20 @@ msgid ""
 "\n"
 "I have always believed the Great Serpent tests His most loyal subjects. I am not surprised to find it my turn, but still I let my son turn his back on me and walk away. Have I failed? And if so, is redemption within reach?"
 msgstr ""
+"어젯밤에 내가 항상 두려워하던 날이 찾아오고 말았다. 내 아들, 배릭이 나에게 등을 돌린 것이다. 녀석은 우리 베타알 가문의 자제로서 "
+"지켜야 할 의무는 물론, 위대한 뱀까지 거부하고 말았다. 그렇게 아들은 이단자가 되어 버린 건데, 그 순간 난 내 아들을 처형할 각오가 "
+"되어 있지 않았단 것을 깨달았고 결국 아이가 그저 떠나는 것을 지켜보기만 했다.\n"
+"\n"
+"난 내 딸은 물론 수많은 다른 사람들을 잃은 슬픔을 조용히 애도하고 있다. 가문의 장로로서, 신민들 모두를 위해선 굳건한 모습을 지켜야 "
+"한다. 하지만 지금 같은 시기에 내 아들에게 이런 끔찍한 일을 당할 줄은 전혀 몰랐다. 밀려오는 분노가 그 슬픔을 능가할 정도다.\n"
+"\n"
+"나는 항상 위대한 뱀께서 가장 독실한 신도들을 시험한다고 믿고 있었고, 이번엔 내 차례가 된 것이 놀랍지는 않지만... 그래도 난 내 "
+"아들이 날 등지고 떠나도록 내버려 두고 말았다. 내가 실패한 것인가? 그렇다면 다시 구원받을 수 있을까?"
 
 # EDID: SFBGS001_MQ04_ViktorObservations, REC: TMLM:ITXT
 msgctxt "014BCE"
 msgid "Betrayal"
-msgstr ""
+msgstr "반역"
 
 # EDID: SFBGS001_MQ04_ViktorObservations, REC: TMLM:UNAM
 msgctxt "014BCF"
@@ -19738,16 +19916,25 @@ msgid ""
 "\n"
 "I must believe that the Great Serpent tests us, and I intend to ensure that our people do not lose sight of their faith."
 msgstr ""
+"최근 벌어지는 일들은 도저히 설명이 불가능한 것들뿐이라 생각된다. 강력한 힘이 우리 도시를 강타했고, 그 피해는 헤아릴 수 없으며, "
+"바스티도 그중 하나였다. 비늘 성채는 이제 분화구 한가운데에 서 있는데, 마치 위대한 뱀께서 자비를 베푸실 때에도 가려서 내려 주신다는 "
+"걸 우리에게 직접 보여 주시는 듯한 모습이다.\n"
+"\n"
+"다른 가문들과의 논의는 아무런 성과도 없었다. 결합성의 사절들은 우리 모두가 목도한 재앙의 원인이라 볼 수 있는 기술에 대한 보고를 전혀 "
+"하지 못했고, 내 가문의 자제들조차 단 하나의 보안 침해도 감지하지 못했다. 우리가 할 수 있는 일은 그저 이 여파 속에서 살아남아 더 "
+"큰 폭풍의 눈 속에 머무르고 있는 게 아니길 바라는 것뿐이다.\n"
+"\n"
+"나는 위대한 뱀께서 우리를 시험하신다고 믿을 것이며, 신민들이 신앙을 잃지 않도록 최선을 다할 것이다."
 
 # EDID: SFBGS001_MQ04_ViktorObservations, REC: TMLM:ITXT
 msgctxt "014BD0"
 msgid "The Incident"
-msgstr ""
+msgstr "사고"
 
 # EDID: SFBGS001_MQ04_ViktorObservations, REC: TMLM:FULL
 msgctxt "014BD1"
 msgid "Observations"
-msgstr ""
+msgstr "나의 소견"
 
 # EDID: SFBGS001LC06_02_Descent_VortexResearchComputer_Desktop, REC: TMLM:UNAM
 msgctxt "014BD2"
@@ -19758,6 +19945,12 @@ msgid ""
 "\n"
 "Current focus is on creating a single new Interlock for the Pinnacle Project. After successful tests have been verified, production can be ramped up to build more."
 msgstr ""
+"\"볼텍스 제어장치\"의 모든 설계도와 데이터는 성채의 데이터베이스로 전송되었습니다.\n"
+"\n"
+"대변자께서 제공하신 시제품은 분해되어 역설계되었습니다. 팀은 일주일 안에 장치와 모든 기능을 복제할 수 있을 거라 확신합니다.\n"
+"\n"
+"현재는 피나클 프로젝트를 위한 하나의 새 제어장치를 만드는 데 중점을 두고 있습니다. 성공적인 테스트가 검증되면 생산을 늘려 더 많이 "
+"만들 수 있을 겁니다."
 
 # EDID: SFBGS001LC06_02_Descent_VortexResearchComputer_Desktop, REC: TMLM:ITXT
 msgctxt "014BD3"
@@ -19772,12 +19965,12 @@ msgstr "(선택) 인터컴을 사용해 아나스코 바룬과 대화하기"
 # EDID: SFBGS001LC06_03_PodRoomComputer_ShutdownSubmenu, REC: TMLM:UNAM
 msgctxt "014BE0"
 msgid "Emergency shutdown activated. Life support system terminated."
-msgstr ""
+msgstr "긴급 정지가 시작되었습니다. 생명 유지 시스템이 종료되었습니다."
 
 # EDID: SFBGS001LC06_03_PodRoomComputer_ShutdownSubmenu, REC: TMLM:ITXT
 msgctxt "014BE1"
 msgid "Confirm Shutdown"
-msgstr ""
+msgstr "정지 승인"
 
 # EDID: SFBGS001LC06_03_PodRoomComputer_ShutdownSubmenu, REC: TMLM:BTXT
 msgctxt "014BE2"
@@ -19789,11 +19982,17 @@ msgid ""
 "\n"
 "Emergency Shutdown will terminate all test subjects. Confirmation required."
 msgstr ""
+"생명 유지 시스템\n"
+"상태: 긴급 정지 요청됨\n"
+"\n"
+"경고 경고 경고\n"
+"\n"
+"긴급 정지는 모든 피험자들을 제거합니다. 승인이 필요합니다."
 
 # EDID: SFBGS001LC06_03_PodRoomComputer_ShutdownSubmenu, REC: TMLM:FULL
 msgctxt "014BE3"
 msgid "Emergency Shutdown"
-msgstr ""
+msgstr "긴급 정지"
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_Groats, REC: TMLM:UNAM
 msgctxt "014BE4"
@@ -19810,26 +20009,44 @@ msgid ""
 "BORALDASZ\n"
 "Sadly I think we have seen the last of Boraldasz. It's been over a week since he knocked down the gate and made a dash for the foothills. Always willful and strong, that one. Perhaps he was called to lead some distant herd. I still recall the day we found him, alone and abandoned by his mother, starving and scrawny.  May the Serpent bless him with good fortune and a long life."
 msgstr ""
+"미즈카\n"
+"정말 매력적이고 친절한 동물이다! 이 녀석이 떠나는 건 슬펐지만, 농장의 다른 그로트들과 행복하게 재회하게 되었던 건 기뻤다. 부상이 "
+"심각했음을 감안하면 이 녀석이 얼마나 빨리 회복했는지 놀라울 정도다. 우리가 어린 미즈카를 집으로 데려왔을 때 알리샤의 얼굴에 떠오른 "
+"미소를 아직도 기억한다. 아마도 이것이 미즈카에 대한 마지막 글이 될 것 같다. 다른 사건이 더 일어나지 않는 한.\n"
+"\n"
+"리틀 아자드\n"
+"이 고집 센 늙은 녀석은 시간의 흐름에 계속 저항하고 있다. 정확한 나이를 알 수 없어서 아쉽다. 우리가 여기에서 키운 그로트 중 가장 "
+"나이가 많은 녀석일 게 분명한 것 같은데. 방생을 해 보려 했는데 항상 실패만 했다. 아마 이 우리에서 기꺼이 남은 여생을 보내려는 것 "
+"같다.\n"
+"\n"
+"더반\n"
+"뱀이시여, 이렇게 게으른 짐승이 또 있을까? 더반은 잠만 자는데도 병이나 다른 특이 상태의 흔적은 전혀 찾을 수가 없다. 그저 편안하게 "
+"삶을 사는 것에 만족하나 보다. 아마 내 인생도 그렇게 아무런 부담도 없이 자유로웠다면, 나도 그랬을 것 같지만.\n"
+"\n"
+"보랄다즈\n"
+"안타깝게도 우리는 보랄다즈를 더 이상 볼 일은 없을 것 같다. 녀석이 문을 부수고 산기슭으로 달려간 지 일주일이 넘었으니. 녀석은 항상 "
+"완고하고 드셌다. 먼 곳의 무리를 이끌도록 부름을 받았을지도 모른다. 난 아직도 홀로 버려진 채, 깡마르게 굶주려 있던 녀석을 발견한 "
+"날을 기억하고 있다. 뱀께서 그 그로트에게 행운과 장수를 베풀어 주시길."
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_Groats, REC: TMLM:FULL
 msgctxt "014BE5"
 msgid "Groat Status"
-msgstr ""
+msgstr "그로트 상태"
 
 # EDID: SFBGS001_LC27_TerminalMenu, REC: TMLM:ITXT
 msgctxt "014BE6"
 msgid "Groat Status"
-msgstr ""
+msgstr "그로트 상태"
 
 # EDID: SFBGS001_LC27_TerminalMenu, REC: TMLM:ITXT
 msgctxt "014BE7"
 msgid "To-Do Checklist"
-msgstr ""
+msgstr "할 일 목록"
 
 # EDID: SFBGS001_LC27_TerminalMenu, REC: TMLM:ITXT
 msgctxt "014BE8"
 msgid "Resaerch File: Mysterious Animal Deaths"
-msgstr ""
+msgstr "조사 기록: 동물들의 기이한 죽음"
 
 # EDID: SFBGS001_LC27_TerminalMenu, REC: TMLM:FULL
 msgctxt "014BE9"
@@ -19851,11 +20068,26 @@ msgid ""
 "CONCLUSION: \n"
 "While further study is clearly required, it's obvious that the Dazra incident had significant impacts beyond those initially observed, perhaps affecting even the very basic laws of physics."
 msgstr ""
+"데이터: \n"
+"4개의 로컬 환경 모니터링 센서에서 수집한 컴파일된 데이터.\n"
+"\n"
+"방법: \n"
+"지정된 기간 동안 수집한 결과의 간단한 판독 및 정상 데이터 범위와의 비교.\n"
+"\n"
+"결과: \n"
+"대부분의 기상 및 지진 데이터는 예상 매개변수 내에 있지만 주목할 만한 예외가 하나 있다. 4개 센서 모두 단일 사건을 기록했으며, "
+"지진으로 기록되었으나 영향 범위는 최소한이었고, 더 주목할 만한 것은 해당 지역 중력에도 짧은 왜곡이 감지되었단 것이다. 또한 동일한 "
+"단일 사건와 동시에 4개 장치의 정밀 측정기들 모두 비정상적인 오작동이 기록되었으며, 정확히 그 시점부터 제대로 작동하지 않았던 것으로 "
+"보인다.\n"
+"\n"
+"결론: \n"
+"추가 연구가 분명히 필요하지만, 다즈라에서 벌어진 사태는 처음에 관찰된 것 이상의 상당한 영향을 끼쳤으며, 아마 이 우주의 물리 법칙까지 "
+"그 영향을 받았을지도 모르는 일이다."
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Research, REC: TMLM:ITXT
 msgctxt "014BEB"
 msgid "Environmental data analysis"
-msgstr ""
+msgstr "환경 데이터 분석"
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Research, REC: TMLM:UNAM
 msgctxt "014BEC"
@@ -19872,11 +20104,23 @@ msgid ""
 "CONCLUSION: \n"
 "Variant species indicated, toxic characteristics suggest defensive adaptations developed in very short span of time."
 msgstr ""
+"데이터: \n"
+"다즈라 시티 주변 지역에서 수집한 변형/비정상 식물 표본.\n"
+"\n"
+"방법: \n"
+"기준 샘플과 구별되는 다른 특성을 식별하기 위한 표준 분류학, 형태학 및 식물 화학 분석. 독성 증거를 판독하도록 색소체 및 핵 DNA "
+"마커를 확인하기 위한 DNA 바코딩 테스트.\n"
+"\n"
+"결과: \n"
+"독 특성이 강력히 나타남. \n"
+"\n"
+"결론: \n"
+"변종이 나타난 것을 확인, 독성은 매우 짧은 시간 내에 변이된 방어기제성 적응을 시사함."
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Research, REC: TMLM:ITXT
 msgctxt "014BED"
 msgid "Plant tissue sample analysis"
-msgstr ""
+msgstr "식물 조직 샘플 분석"
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Research, REC: TMLM:UNAM
 msgctxt "014BEE"
@@ -19893,11 +20137,22 @@ msgid ""
 "CONCLUSION: \n"
 "Consumption of toxic substance likely. Secondary poisoning also a possibility."
 msgstr ""
+"데이터: \n"
+"동물 조직 샘플을 채집함. 샘플에는 세 가지 일반적인 지역 종인 칼날등줄기, 그로트, 조개앵무에서 채취한 샘플이 포함되어 있음.\n"
+"\n"
+"방법: \n"
+"각 샘플에 대한 포괄적인 독성학 및 조직병리학 패널 시험을 건강한 표본의 알려진 기준 값과 비교.\n"
+"\n"
+"결과: \n"
+"모든 샘플에서 빈혈과 점상 출혈 징후를 확인함.\n"
+"\n"
+"결론: \n"
+"독성 물질 섭취 가능성. 2차 중독 가능성도 있음."
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Research, REC: TMLM:ITXT
 msgctxt "014BEF"
 msgid "Animal tissue sample analysis"
-msgstr ""
+msgstr "동물 조직 샘플 분석"
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Research, REC: TMLM:UNAM
 msgctxt "014BF0"
@@ -19914,16 +20169,30 @@ msgid ""
 "Plan: \n"
 "Hire a research assistant."
 msgstr ""
+"문제: \n"
+"최근 동물들의 기이한 죽음을 조사해 달라는 요청을 여러 번 받았다. 이는 단일 종이나 특정 지역에 국한되지 않은 것으로 보이며, 또한 "
+"다즈라에서 발생한 재난 직후에 시작되었다. 이는 우연일 수가 없다.\n"
+"\n"
+"가설: \n"
+"최근에 발생한 재난이 바로 이러한 사망 속출의 근본 원인이다. \n"
+"\n"
+"방법: \n"
+"기이하거나 알려지지 않은 원인으로 사망한 여러 동물들의 조직 샘플부터 시작하여 데이터를 수집한다. 포식자에 의한 절단과 같은 명백한 사망 "
+"징후는 배제한다. 셰린과 나는 주변 지역 전체를 돌아다닐 나이가 아니기 때문에, 이러한 샘플을 수집하기 위해 연구 조수를 고용해야 한다. "
+"게다가 이 근방은 돌아다니기에도 매우 위험해졌다.\n"
+"\n"
+"계획: \n"
+"연구 조수를 고용한다."
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Research, REC: TMLM:ITXT
 msgctxt "014BF1"
 msgid "Project Summary"
-msgstr ""
+msgstr "프로젝트 요약"
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Research, REC: TMLM:FULL
 msgctxt "014BF2"
 msgid "Research File: Mysterious Animal Deaths"
-msgstr ""
+msgstr "조사 기록: 동물들의 기이한 죽음"
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_Checklist, REC: TMLM:UNAM
 msgctxt "014BF3"
@@ -19937,11 +20206,19 @@ msgid ""
 "· Put in a work order to repair the elevator housing\n"
 "· Inventory the storeroom"
 msgstr ""
+"할 일 목록\n"
+"\n"
+"- 온실 청소\n"
+"- 코자 추가 주문\n"
+"- 현미경 렌즈 청소\n"
+"- 제약 실험실의 고장난 전지 교체\n"
+"- 엘리베이터 덮개 수리 작업 지시\n"
+"- 창고 재고 정리"
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_Checklist, REC: TMLM:FULL
 msgctxt "014BF4"
 msgid "To-Do Checklist"
-msgstr ""
+msgstr "할 일 목록"
 
 # EDID: SFBGS001_MS04_SensorATerminalAdminSubmenu, REC: TMLM:UNAM
 msgctxt "014BF5"
@@ -19951,11 +20228,15 @@ msgid ""
 "Transferring data...\n"
 "Transfer complete"
 msgstr ""
+"연결된 슬레이트 검색 중...\n"
+"연결된 슬레이트 감지됨\n"
+"데이터 전송 중...\n"
+"전송 완료됨"
 
 # EDID: SFBGS001_MS04_SensorATerminalAdminSubmenu, REC: TMLM:ITXT
 msgctxt "014BF6"
 msgid "Upload data to linked slate"
-msgstr ""
+msgstr "연결된 슬레이트의 데이터 업로드하기"
 
 # EDID: SFBGS001_MS04_SensorBTerminalAdminSubmenu, REC: TMLM:UNAM
 msgctxt "014BF7"
@@ -19965,11 +20246,15 @@ msgid ""
 "Transferring data...\n"
 "Transfer complete"
 msgstr ""
+"연결된 슬레이트 검색 중...\n"
+"연결된 슬레이트 감지됨\n"
+"데이터 전송 중...\n"
+"전송 완료됨"
 
 # EDID: SFBGS001_MS04_SensorBTerminalAdminSubmenu, REC: TMLM:ITXT
 msgctxt "014BF8"
 msgid "Upload data to linked slate"
-msgstr ""
+msgstr "연결된 슬레이트의 데이터 업로드하기"
 
 # EDID: SFBGS001_MS04_SensorCTerminalAdminSubmenu, REC: TMLM:UNAM
 msgctxt "014BF9"
@@ -19979,11 +20264,15 @@ msgid ""
 "Transferring data...\n"
 "Transfer complete"
 msgstr ""
+"연결된 슬레이트 검색 중...\n"
+"연결된 슬레이트 감지됨\n"
+"데이터 전송 중...\n"
+"전송 완료됨"
 
 # EDID: SFBGS001_MS04_SensorCTerminalAdminSubmenu, REC: TMLM:ITXT
 msgctxt "014BFA"
 msgid "Upload data to linked slate"
-msgstr ""
+msgstr "연결된 슬레이트의 데이터 업로드하기"
 
 # EDID: SFBGS001_MS04_SensorDTerminalAdminSubmenu, REC: TMLM:UNAM
 msgctxt "014BFB"
@@ -19993,11 +20282,15 @@ msgid ""
 "Transferring data...\n"
 "Transfer complete"
 msgstr ""
+"연결된 슬레이트 검색 중...\n"
+"연결된 슬레이트 감지됨\n"
+"데이터 전송 중...\n"
+"전송 완료됨"
 
 # EDID: SFBGS001_MS04_SensorDTerminalAdminSubmenu, REC: TMLM:ITXT
 msgctxt "014BFC"
 msgid "Upload data to linked slate"
-msgstr ""
+msgstr "연결된 슬레이트의 데이터 업로드하기"
 
 # EDID: SFBGS001_MS04, REC: QUST:NNAM
 msgctxt "014BFD"
@@ -20012,22 +20305,22 @@ msgstr "하마디 기지 단말기"
 # EDID: LC180Slate_CF01A, REC: BOOK:FNAM
 msgctxt "014C00"
 msgid "Important Notice"
-msgstr ""
+msgstr "중요 사항"
 
 # EDID: LC180Slate_CF01A, REC: BOOK:FULL
 msgctxt "014C02"
 msgid "Trust Nobody"
-msgstr ""
+msgstr "아무도 믿지 마라"
 
 # EDID: LC180Slate_CF01B, REC: BOOK:FNAM
 msgctxt "014C03"
 msgid "Important Notice"
-msgstr ""
+msgstr "중요 사항"
 
 # EDID: LC180Slate_CF01B, REC: BOOK:FULL
 msgctxt "014C05"
 msgid "Trust Nobody"
-msgstr ""
+msgstr "아무도 믿지 마라"
 
 # EDID: SFBGS001_Clothes_Varuun_Administrator_Zealots, REC: ARMO:FULL
 msgctxt "014C06"
@@ -20078,7 +20371,7 @@ msgstr "조개앵무 시체"
 # TMLM:ITXT
 msgctxt "014C0F"
 msgid "Burden of Leadership"
-msgstr ""
+msgstr "지도자의 부담감"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Prey01_VortexGroat_Female, REC:
 # NPC_:FULL
@@ -20099,7 +20392,7 @@ msgstr "그로트 수컷"
 # EDID: SFBGS001_LC27_TerminalMenu, REC: TMLM:ITXT
 msgctxt "014C17"
 msgid "Project Journal, Continued: Nutrifying Compound"
-msgstr ""
+msgstr "프로젝트 일지, 계속됨: 영양 화합물"
 
 # EDID: SFBGS001_MS04_LC18Terminal_Journal, REC: TMLM:UNAM
 msgctxt "014C18"
@@ -20108,6 +20401,9 @@ msgid ""
 "\n"
 "Serpent protect us."
 msgstr ""
+"보안 침입이 발생해서 모두 대피 중이야. 아무것도 가져갈 시간이 없어. 위에서 총소리가 들려.\n"
+"\n"
+"뱀이시여, 우리를 보호하소서."
 
 # EDID: SFBGS001_MS04_LC18Terminal_Journal, REC: TMLM:ITXT
 msgctxt "014C19"
@@ -20123,6 +20419,12 @@ msgid ""
 "\n"
 "Hopefully, in a few more days, I'll be able to transfer the project back to Hamadi Station and start testing on other species of flora. I miss my husband and my home."
 msgstr ""
+"성공했어!\n"
+"\n"
+"이 영양 화합물을 초기에적용해 보니 가능성이 보여. 모든 종의 독성 효소를 다양한 등급으로 줄일 수 있었어. 이건 적어도 논문을 증명하는 "
+"것 같아. 아직 해야 할 일이 많지만, 프로젝트의 방향에 대해서는 확신이 섰어.\n"
+"\n"
+"며칠만 더 있으면, 프로젝트를 하마디 기지로 옮겨 다른 식물 종 시험도 시작할 수 있었으면 좋겠어. 남편과 집이 그립네."
 
 # EDID: SFBGS001_MS04_LC18Terminal_Journal, REC: TMLM:ITXT
 msgctxt "014C1B"
@@ -20138,6 +20440,13 @@ msgid ""
 "\n"
 "My eyes and back could use a rest, so I'll spend some time in prayer and then call it a night."
 msgstr ""
+"적지 않은 시행착오 끝에, 영양 성분을 함유한 첫 번째 화합물을 테스트할 준비가 됐어. 첫 번째 처리 대상을 위해 일곱 종의 균사체를 "
+"선택했지.  \n"
+"\n"
+"이곳의 농부들은 내가 하는 일이 신기한지 자주 찾아와. 그 중 한 분은 저녁 식사까지 가져다주시는데, 내가 일에 너무 몰두하느라 밥 먹는 "
+"걸 잊을 때가 많거든. 다행이지.\n"
+"\n"
+"눈과 허리를 좀 쉬게 해줘야 할 것 같아. 기도로 시간을 보낸 다음 이만 가볼게."
 
 # EDID: SFBGS001_MS04_LC18Terminal_Journal, REC: TMLM:ITXT
 msgctxt "014C1D"
@@ -20151,6 +20460,12 @@ msgid ""
 "\n"
 "I can hear Azad's voice in my mind saying \"Time to turn theory into practice!\" It's only been a few days since I arrived here, and I already miss his company."
 msgstr ""
+"프로젝트의 초기 단계는 주로 정보 수집에 중점을 뒀어. 수집한 표본의 상세한 유전자 정보를 작성하고 독성 효소를 목록화하기 시작했지. "
+"다음 단계는 이러한 독소를 중화시킬 수 있는 화합물을 개발하고, 동시에 표본을 식량 공급원으로 더 바람직하게 만드는 특성을 강화할 "
+"거야.  \n"
+"\n"
+"\"이론을 실천으로 옮길 시간이야!\"라고 말하는 아자드의 목소리가 머릿속에서 들리네. 이곳에 도착한 지 며칠 되지 않았는데 벌써 "
+"아자드와 함께한 시간이 그리워."
 
 # EDID: SFBGS001_MS04_LC18Terminal_Journal, REC: TMLM:ITXT
 msgctxt "014C1F"
@@ -20166,6 +20481,14 @@ msgid ""
 "\n"
 "Now that everything is set up and ready, it's time to collect some mycelium specimens. There are plenty on hand, so it shouldn't take long."
 msgstr ""
+"내가 의약품을 준 것에 대한 감사의 표시로, 말시어 농부들은 내가 만든 임시 실험실을 더 사용할 수 있도록 해줬어. 덕분에 하마디 "
+"기지까지 왕복하는 횟수를 줄일 수 있게 됐지. 내 나이를 생각하면 큰 축복이야. 물론 아자드는 불평했지만. 도시에서 일어난 사고 때문에 "
+"우리는 모두 긴장했지만, 동시에 해야 할 중요한 일이 있다면, 지금 해야 한다는 생각이 들었어.\n"
+"\n"
+"서로 그리울 거라는 건 알지만, 떨어져 있는 시간 동안 우리는 서로 사랑하는 이유를 떠올리게 될 거고 서로에 대한 감정을 새롭게 되살릴 "
+"수 있을 거야. 그리고 길어야 1~2주 정도면 될 거야.\n"
+"\n"
+"이제 모든 것이 준비됐어. 균사체 표본을 채취할 차례야. 준비된 균사체가 많으니, 오래 걸리지 않을 거야."
 
 # EDID: SFBGS001_MS04_LC18Terminal_Journal, REC: TMLM:ITXT
 msgctxt "014C21"
@@ -20175,7 +20498,7 @@ msgstr "항목 01"
 # EDID: SFBGS001_MS04_LC18Terminal_Journal, REC: TMLM:FULL
 msgctxt "014C22"
 msgid "Project Journal"
-msgstr ""
+msgstr "프로젝트 일지"
 
 # EDID: SFBGS001_MS04_LC18Terminal_Messages, REC: TMLM:UNAM
 msgctxt "014C23"
@@ -20188,11 +20511,20 @@ msgid ""
 "\n"
 "The meeting with the pilgrims got me thinking... when is the last time we traveled the Path of Redemption together? I wonder if Vijun is still spending his days at the Shrine of Redemption. We should go and visit him."
 msgstr ""
+"발신: 아자드 두바스\n"
+"\n"
+"안녕 자기! 너무 열심히 일하지 않았으면 좋겠어.\n"
+"\n"
+"오늘 오후에 산책을 나갔다가 인내의 성소에 가려는 회개자 무리를 만났는데, 그곳을 광신도들이 점령하고 있는 걸 봤다고 하더라고. "
+"순례자들은 다행히 무사히 빠져나왔지만, 하마디 기지 근처까지 광신도들이 점거하고 있다는 사실을 알게 되니 뭔가 안타까웠어.\n"
+"\n"
+"순례자들과 만나고 나서... 문득 우리가 마지막으로 함께 구원의 길을 여행한 게 언제였을까 하는 생각이 들었어. 비준이 아직도 구원의 "
+"성소에서 하루하루를 보내고 있는지 궁금해. 나중에 만나러 가야겠어."
 
 # EDID: SFBGS001_MS04_LC18Terminal_Messages, REC: TMLM:ITXT
 msgctxt "014C24"
 msgid "Dangerous Travels"
-msgstr ""
+msgstr "위험한 여행"
 
 # EDID: SFBGS001_MS04_LC18Terminal_Messages, REC: TMLM:UNAM
 msgctxt "014C25"
@@ -20203,11 +20535,18 @@ msgid ""
 "\n"
 "I wish you could have had the chance to say goodbye, but it seemed wrong to keep her away any longer than necessary. Besides, you can always visit her. Alicja was very keen to make sure that I tell you so."
 msgstr ""
+"발신: 아자드 두바스\n"
+"\n"
+"타니스 그로트 목장에서 온 손님인 미즈카가 완전히 회복되었다는 소식을 전하게 돼서 기뻐. 알리샤를 깜짝 놀라게 해주고 싶어서 직접 "
+"데려갔어. 모두 '작은 미즈'가 집에 돌아온 것을 보고 기뻐했고, 다른 그로트들도 즉시 무리로 돌아온 미즈카를 환영해줬어.\n"
+"\n"
+"작별 인사를 할 기회가 있었으면 좋았을 텐데, 필요 이상으로 미즈카를 멀리 두는 것은 잘못된 것 같았어. 게다가 언제든 미즈카를 만나러 "
+"올 수 있잖아. 알리샤는 꼭 내가 너에게 직접 말하도록 하고 싶다고 했거든."
 
 # EDID: SFBGS001_MS04_LC18Terminal_Messages, REC: TMLM:ITXT
 msgctxt "014C26"
 msgid "Mizka"
-msgstr ""
+msgstr "미즈카"
 
 # EDID: SFBGS001_MS04_LC18Terminal_Messages, REC: TMLM:UNAM
 msgctxt "014C27"
@@ -20220,11 +20559,20 @@ msgid ""
 "\n"
 "Perhaps I'm just turning paranoid in my old age."
 msgstr ""
+"발신: 아자드 두바스\n"
+"\n"
+"안녕, 내 사랑. 일은 잘 되고 있어? 내가 아는 자기라면 분명 시간이 정말 빨리 가고 적어도 한 끼는 걸렀을 것 같아. 그렇게 쓰고 "
+"보니, 당신의 매운 스튜가 벌써 그리워!\n"
+"\n"
+"여기는 상당히 조용해. 가끔은 너무 조용할 정도야. 나는 다즈라에서 일어난 사건 이후 지역 야생 동물을 주의 깊게 지켜보며 행동에 변화 "
+"양상이 있는지 찾고 있어. 그 사건이 남긴 영향 중에 아직 우리가 못 본 것이 있지 않을까 궁금하거든.\n"
+"\n"
+"아마도 내가 그냥 늙어서 편집증에 걸린 걸지도 모르지."
 
 # EDID: SFBGS001_MS04_LC18Terminal_Messages, REC: TMLM:ITXT
 msgctxt "014C28"
 msgid "Too Quiet!"
-msgstr ""
+msgstr "너무 조용해!"
 
 # EDID: SFBGS001_MS04_LC18Terminal_Messages, REC: TMLM:UNAM
 msgctxt "014C29"
@@ -20237,11 +20585,20 @@ msgid ""
 "\n"
 "I hope you're making good progress and the Mal'siir farmers are being generous hosts. If not, tell them that I'll make them sit through one of my lectures as punishment."
 msgstr ""
+"발신: 아자드 두바스\n"
+"\n"
+"이곳 고향에서는 딱히 알려 줄 게 별로 없어서, 이 기회에 꼭 말하고 싶어.\n"
+"\n"
+"위대한 뱀께서 내게 내린 가장 큰 축복은 바로 당신이 내 삶에 존재한다는 선물이야. 난 자기를 항상 사랑할 거야, 나만의 황금빛 꽃봉오리."
+"\n"
+"\n"
+"당신이 좋은 진전을 이루고 있고 말시어의 그 농부들이 자길 잘 보살펴 주기를 바랄게. 그렇지 않으면 내가 직접 가서 벌로 강의를 해 줄 "
+"거라고 전해 줘."
 
 # EDID: SFBGS001_MS04_LC18Terminal_Messages, REC: TMLM:ITXT
 msgctxt "014C2A"
 msgid "Missing You"
-msgstr ""
+msgstr "네가 그리워"
 
 # EDID: SFBGS001_MS04_LC18Terminal_Messages, REC: TMLM:UNAM
 msgctxt "014C2B"
@@ -20254,11 +20611,20 @@ msgid ""
 "\n"
 "May the Great Serpent be merciful and guide us safely out of these difficult days."
 msgstr ""
+"발신: 아자드 두바스\n"
+"\n"
+"안녕, 내 사랑. 프로젝트 초기 단계가 잘 진행되고 있기를 바라.\n"
+"\n"
+"오늘 파이란에게 메시지를 보내려고 해. 엘리베이터 통로 하단의 구조에서 몇 가지 문제를 발견했거든. 심각한 문제는 아니고, 대부분은 단순 "
+"수리 작업일 뿐이야. 최근에 수리 작업을 할 사람이 없어서 그 사람만 요즘 매우 바빠. 최근에 우리가 잃은 것들을 다시 한 번 깨닫게 "
+"됐어.\n"
+"\n"
+"위대한 뱀께서 자비를 베풀어 이 어려운 시기를 무사히 벗어나게 해 주시기를."
 
 # EDID: SFBGS001_MS04_LC18Terminal_Messages, REC: TMLM:ITXT
 msgctxt "014C2C"
 msgid "Elevator Troubles"
-msgstr ""
+msgstr "엘리베이터 문제"
 
 # EDID: SFBGS001_MS04_LC18Terminal_Messages, REC: TMLM:UNAM
 msgctxt "014C2D"
@@ -20273,11 +20639,22 @@ msgid ""
 "\n"
 "May the Serpent protect us."
 msgstr ""
+"발신: 아자드 두바스\n"
+"\n"
+"역시, 자기가 옳았어. 네가 떠난 지 며칠도 안 되었는데, 난 이미 황금빛 꽃 같은 자기 없이는 희망도 길도 잃은 신세가 된 것만 같아. "
+"하지만 그래도 인내해야겠지!\n"
+"\n"
+"오늘 흥미로운 소문을 들었어. 경비 순찰대 중 한 명이 잠시 들렀는데, 그중 한 명이 통제소 카파 지역에서 우주선이 하늘에서 내려오는 "
+"것을 보았다고 말했어. 아무리 생각해도 놀라운 일이지. 원치 않는 방문객이 이 땅을 찾아오는 것은 전혀 바라지 않는데 말이야.\n"
+"\n"
+"혹시 모를 경우를 대비해서 그곳의 농부들에게 이 소식을 알려야 할지도 몰라.\n"
+"\n"
+"뱀께서 우리를 보호해 주시길."
 
 # EDID: SFBGS001_MS04_LC18Terminal_Messages, REC: TMLM:ITXT
 msgctxt "014C2E"
 msgid "Interesting Rumor"
-msgstr ""
+msgstr "흥미로운 소문"
 
 # EDID: SFBGS001_MS04_LC18Terminal_Messages, REC: TMLM:FULL
 msgctxt "014C2F"
@@ -20287,7 +20664,7 @@ msgstr "메시지"
 # EDID: SFBGS001_MS04_LC18Terminal_Main, REC: TMLM:ITXT
 msgctxt "014C30"
 msgid "Project Journal"
-msgstr ""
+msgstr "프로젝트 일지"
 
 # EDID: SFBGS001_MS04_LC18Terminal_Main, REC: TMLM:FULL
 msgctxt "014C31"
@@ -20305,11 +20682,21 @@ msgid ""
 "\n"
 "And of course, none of this would have happened if not for the courage and dedication of our research assistant, who is very much a hero in my eyes."
 msgstr ""
+"위대한 뱀이시여, 초기 결과는 내 기대를 뛰어넘는 수준이다.\n"
+"\n"
+"독성 변종 표본 분석 중에 수집한 데이터를 고려해서 영양 화합물의 공식을 조정하기 위해 노력하고 나니, 예비 시험 중에 모든 샘플에서 "
+"독소 생성 효소가 최소 80% 이상 감소했다는 사실을 보고하게 되어 참으로 기쁜 마음이다.\n"
+"\n"
+"나는 이 새로운 변종 생물을 섭취해서 죽었을지도 모르는 동물들의 생명을 구할 수 있게 됐을 뿐만 아니라 독성 식물 자체를 파괴하지 않아도 "
+"된다는 의미이기 때문에 큰 안도감을 느낄 수 있게 됐다. 결국, 이 생물들도 환경의 변화에 단순히 반응하는 (비록 다소 급진적이기는 "
+"하지만) 살아있는 유기체들인 거니까. 이들도 우리와 마찬가지로 살 권리가 있다.\n"
+"\n"
+"물론, 내 눈에는 영웅과 같은 우리의 연구 조수가 보인 용기와 헌신이 없었다면 이런 일은 애당초 일어나지 못했을 것이다."
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Compound, REC: TMLM:ITXT
 msgctxt "014C33"
 msgid "Rapid progress"
-msgstr ""
+msgstr "빠른 진전"
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Compound, REC: TMLM:UNAM
 msgctxt "014C34"
@@ -20320,16 +20707,25 @@ msgid ""
 "\n"
 "Together with the newly-obtained samples from the toxic variant specimens that appeared following the incident in the city, I'm confident that I have everything I need to get the project back on track."
 msgstr ""
+"지하 말시어 농업시설에서 꽤나 위험천만한 탈출을 겨우 해내고 하니, 영양 화합물에 대한 연구를 재개하기까지 매우 오랜 시간이 걸릴 수 "
+"있다는 걱정이 샘솟기 시작했다. 그것도 크림슨 함대의 침략자들이 내 연구실을 약탈하고 내 모든 연구 진척을 없애 버리지 않았다면 말이다."
+"\n"
+"\n"
+"하지만 위대한 뱀께서 자비를 베푸셔서, 위험에 굴하지 않고 내 시제품 영양 화합물을 회수할 수 있는 용감하고 유능한 연구 조수를 우리에게 "
+"보내주셨다.\n"
+"\n"
+"도시에서 벌어진 사태 이후 나타난 독성 변종 표본들로부터 샘플까지 구했으니, 나는 이제 예전 프로젝트를 다시 궤도에 올리는 데 필요한 "
+"모든 것을 가졌다고 확신할 수 있게 됐다."
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Compound, REC: TMLM:ITXT
 msgctxt "014C35"
 msgid "Project Update"
-msgstr ""
+msgstr "프로젝트 업데이트"
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Compound, REC: TMLM:FULL
 msgctxt "014C36"
 msgid "Project Journal, Continued: Nutrifying Compound"
-msgstr ""
+msgstr "프로젝트 일지, 계속됨: 영양 화합물"
 
 # EDID: SFBGS001_VKaiZ01, REC: QUST:NNAM
 msgctxt "014C39"
@@ -20354,17 +20750,17 @@ msgstr "부러진 송곳니의 가보 소총"
 # EDID: SFBGS001_DazraChunksSlate_WeTried, REC: BOOK:FNAM
 msgctxt "014C3D"
 msgid "D. Conley, Manager"
-msgstr ""
+msgstr "D. 콘리, 매니저"
 
 # EDID: SFBGS001_DazraChunksSlate_WeTried, REC: BOOK:ENAM
 msgctxt "014C3E"
 msgid "Oct 6, 2239"
-msgstr ""
+msgstr "2239년, 10월 6일"
 
 # EDID: SFBGS001_DazraChunksSlate_WeTried, REC: BOOK:FULL
 msgctxt "014C40"
 msgid "We Tried"
-msgstr ""
+msgstr "우리도 노력은 했지만"
 
 # EDID: SFBGS001_WNPC_Pilgrims_LC26_24, REC: QUST:FULL
 msgctxt "014C43"
@@ -20394,7 +20790,7 @@ msgstr "Dazra: Wandering NPC Pilgrims LC23-26"
 # EDID: SFBGS001_LC48Slate_Lootlist_quest, REC: BOOK:FULL
 msgctxt "014C49"
 msgid "Entrance and loot register"
-msgstr ""
+msgstr "입구 및 전리품 목록"
 
 # EDID: SFBGS001_MS04_LC48BreadcrumbTrigger, REC: ACTI:ATTX
 msgctxt "014C4A"
@@ -20409,7 +20805,7 @@ msgstr "베이컨트 하우스 열쇠"
 # EDID: SFBGS001_DazraHallOfObedienceKey, REC: KEYM:FULL
 msgctxt "014C4C"
 msgid "Dazra Dwelling Key"
-msgstr ""
+msgstr "다즈라 거주지 열쇠"
 
 # EDID: SFBGS001_MeatHousePenKey, REC: KEYM:FULL
 msgctxt "014C4D"
@@ -20459,12 +20855,12 @@ msgstr "나무 거위 꽥"
 # EDID: SFBGS001_LC05Slate_Modulator, REC: BOOK:FULL
 msgctxt "014C59"
 msgid "RE: Modulator Installation"
-msgstr ""
+msgstr "답장: 변조기 설치"
 
 # EDID: SFBGS001_VoidForm_Effect, REC: MGEF:FULL
 msgctxt "014C5A"
 msgid "Void Form"
-msgstr ""
+msgstr "공허 형상"
 
 # EDID: SFBGS001LC06_04_Ascent_AnaskosOfficeComputer_PersonalSubmenu, REC:
 # TMLM:UNAM
@@ -20484,12 +20880,28 @@ msgid ""
 "\n"
 "What if this works, but there is no answer?"
 msgstr ""
+"늦은 밤에 잠에서 깨어 있었다. 쉬고 싶어도 생각이 멈추질 않는다.\n"
+"\n"
+"만약 실패하면 어떡하지?\n"
+"\n"
+"차원문 프로젝트는 대부분의 바룬 가문 신민들에게 비밀로 유지되고 있지만, 원하는 결과를 얻지 못하면 소문이 퍼질 거다. 묵살할 수 없을 "
+"것이고, 모두가 내가 실패했다는 것을 알게 될 거다.\n"
+"\n"
+"우리가 뭔가 놓친 게 있다면? 엔지니어들이 필요한 모든 안전 조치를 취하고 있다고 확신하지만, 불쾌한 진실을 전달하기보다는, 단순히 나를 "
+"안심시키려고 한거라면 어떻게 될까? 뭔가 잘못되면 그 영향은 대재난이 될 수 있다.\n"
+"\n"
+"하지만 이 시점에서, 멈추면 어떻게 될까? 우리가 거의 다 왔다는 것을 알면서도, 마지막 순간에 뒤돌아선다면 나 자신을 참으며 살 수 "
+"있을까? 그건 비겁한 짓이 아닐까?\n"
+"\n"
+"무엇보다도, 걱정되는 건\n"
+"\n"
+"이 방법이 효과가 있지만, 답이 없다면 어떨까?"
 
 # EDID: SFBGS001LC06_04_Ascent_AnaskosOfficeComputer_PersonalSubmenu, REC:
 # TMLM:ITXT
 msgctxt "014C64"
 msgid "What If?"
-msgstr ""
+msgstr "만약에?"
 
 # EDID: SFBGS001LC06_04_Ascent_AnaskosOfficeComputer_PersonalSubmenu, REC:
 # TMLM:UNAM
@@ -20511,11 +20923,29 @@ msgid ""
 "\n"
 "I do not know how my grandfather did it."
 msgstr ""
+"할아버지가 어떻게 해내셨는지 모르겠다.\n"
+"\n"
+"모든 것을 직접 세우셨다. 바룬 가문의 창설은 물론, 다즈라의 건설, 뱀의 성전의 승리부터 실패를 거치며 신민들을 이끄셨다. \n"
+"\n"
+"어떻게 무너지지 않으신 걸까?\n"
+"\n"
+"아버지의 통치를 지켜보았다. 아버지가 이전의 할아버지처럼 직접 접촉해 축복받지는 못하셨을지 모르지만, 뱀께서는 아버지에게 속삭이며 손을 "
+"잡고 인도해 주셨을지도 모른다.\n"
+"\n"
+"이 생각이 얼마나 불경한지는 안다. 내가 아무것도 듣지 못하는 것처럼, 아버지도 아무것도 듣지 못하셨던 거다. 매일 기도해도 응답이 "
+"없으시다.\n"
+"\n"
+"이 침묵을 견딜 수가 없다. 미칠 지경이다. 나의 곁에는, 이기적이고, 순간적인 욕망에 사로잡힌, 모든 굶주린 자들이 울부짖고 있다. 그 "
+"신민들은 내가 묵살하는 것을 이용해 자신들의 계략을 추진하고 내 권좌를 찬탈할 것이니, 나는 누구에게도 털어놓을 수 없다.\n"
+"\n"
+"나는 길을 잃었지만, 어떻게든 내가 이끌어야 한다.\n"
+"\n"
+"할아버지가 어떻게 해내셨는지 모르겠다."
 
 # EDID: SFBGS001_Dazra_TempleSlate_PostQuest, REC: BOOK:FULL
 msgctxt "014C6D"
 msgid "The Rites Must Continue"
-msgstr ""
+msgstr "의식은 계속되어야 한다"
 
 # EDID: SFBGS001_Spacesuit_Varuun_02_Zealot, REC: ARMO:FULL
 msgctxt "014C6E"
@@ -20530,17 +20960,17 @@ msgstr "광신도 강습형 우주복"
 # EDID: SFBGS001_LC07_RSThetaComputerDesktop, REC: TMLM:ITXT
 msgctxt "014C70"
 msgid "Communications Log"
-msgstr ""
+msgstr "통신 기록"
 
 # EDID: SFBGS001_LC07_RSThetaComputerDesktop, REC: TMLM:ITXT
 msgctxt "014C71"
 msgid "Current Site Status"
-msgstr ""
+msgstr "현재 현장 상황"
 
 # EDID: SFBGS001_LC07_RSThetaComputerDesktop, REC: TMLM:FULL
 msgctxt "014C72"
 msgid "Research Site Theta Computer"
-msgstr "연구 장소 세타 컴퓨터"
+msgstr "연구 현장 세타 컴퓨터"
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu01, REC: TMLM:UNAM
 msgctxt "014C73"
@@ -20553,10 +20983,10 @@ msgid ""
 "Auxiliary Power Status: Unavailable\n"
 "Main Power Status: Active"
 msgstr ""
-"연구 장소 세타\n"
+"연구 현장 세타\n"
 "================\n"
 "\n"
-"장소가 전부 봉쇄됨\n"
+"현장이 전면 봉쇄됨\n"
 "\n"
 "보조전원 상태: 사용 불가 \n"
 "주전원 상태: 활성"
@@ -20564,7 +20994,7 @@ msgstr ""
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu01, REC: TMLM:ITXT
 msgctxt "014C74"
 msgid "Site Status"
-msgstr ""
+msgstr "현장 상황"
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu01, REC: TMLM:UNAM
 msgctxt "014C75"
@@ -20577,10 +21007,10 @@ msgid ""
 "Auxiliary Power Status: Unavailable\n"
 "Main Power Status: Deactivated"
 msgstr ""
-"연구 장소 세타\n"
+"연구 현장 세타\n"
 "================\n"
 "\n"
-"장소가 전부 봉쇄됨\n"
+"현장이 전면 봉쇄됨\n"
 "\n"
 "보조전원 상태: 사용 불가 \n"
 "주전원 상태: 비활성"
@@ -20588,7 +21018,7 @@ msgstr ""
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu01, REC: TMLM:ITXT
 msgctxt "014C76"
 msgid "Site Status"
-msgstr ""
+msgstr "현장 상황"
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu01, REC: TMLM:UNAM
 msgctxt "014C77"
@@ -20601,10 +21031,10 @@ msgid ""
 "Auxiliary Power Status: Active\n"
 "Main Power Status: Deactivated"
 msgstr ""
-"연구 장소 세타\n"
+"연구 현장 세타\n"
 "================\n"
 "\n"
-"장소가 전부 봉쇄됨\n"
+"현장이 전면 봉쇄됨\n"
 "\n"
 "보조전원 상태: 활성\n"
 "주전원 상태: 비활성"
@@ -20612,7 +21042,7 @@ msgstr ""
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu01, REC: TMLM:ITXT
 msgctxt "014C78"
 msgid "Site Status"
-msgstr ""
+msgstr "현장 상황"
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu01, REC: TMLM:UNAM
 msgctxt "014C79"
@@ -20625,10 +21055,10 @@ msgid ""
 "Auxiliary Power Status: Deactivated\n"
 "Main Power Status: Deactivated"
 msgstr ""
-"연구 장소 세타\n"
+"연구 현장 세타\n"
 "================\n"
 "\n"
-"장소가 전부 봉쇄됨\n"
+"현장이 전면 봉쇄됨\n"
 "\n"
 "보조전원 상태: 비활성\n"
 "주전원 상태: 비활성"
@@ -20636,12 +21066,12 @@ msgstr ""
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu01, REC: TMLM:ITXT
 msgctxt "014C7A"
 msgid "Site Status"
-msgstr ""
+msgstr "현장 상황"
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu01, REC: TMLM:FULL
 msgctxt "014C7B"
 msgid "Current Site Status"
-msgstr ""
+msgstr "현재 현장 상황"
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu02, REC: TMLM:UNAM
 msgctxt "014C7C"
@@ -20652,11 +21082,17 @@ msgid ""
 "\n"
 "All Must Serve"
 msgstr ""
+"RST-9090-A50\n"
+"\n"
+"이게 마지막 통신일지도 모릅니다! 이교도들이 대규모로 우리를 공격하고 있습니다! 즉시 지원군을 보내 주십시오! 최대한 오래 버텨보겠습니다!"
+"\n"
+"\n"
+"모두가 섬겨야 한다"
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu02, REC: TMLM:ITXT
 msgctxt "014C7D"
 msgid "RST-9090-A50"
-msgstr ""
+msgstr "RST-9090-A50"
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu02, REC: TMLM:UNAM
 msgctxt "014C7E"
@@ -20667,11 +21103,18 @@ msgid ""
 "\n"
 "All Must Serve"
 msgstr ""
+"RST-9090-A47\n"
+"\n"
+"다즈라에서 사고가 발생한 지 2주가 지났지만 아직까지 본성의 누구로부터도 연락을 받지 못했습니다. SIEP 규약에 명시된 대로, 한 달이 "
+"지나도 연락이 없으면, 연구 현장 세타를 파괴하고 기록을 삭제할 것입니다. 또한 정찰병이 이 지역에서 이교도 광신도들을 발견하여 현재 "
+"전면 봉쇄 중입니다. 너무 늦기 전에 명령이 내려오길 바랍니다.\n"
+"\n"
+"모두가 섬겨야 한다"
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu02, REC: TMLM:ITXT
 msgctxt "014C7F"
 msgid "RST-9090-A47"
-msgstr ""
+msgstr "RST-9090-A47"
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu02, REC: TMLM:UNAM
 msgctxt "014C80"
@@ -20682,11 +21125,20 @@ msgid ""
 "\n"
 "All Must Serve"
 msgstr ""
+"RST-9090-A44\n"
+"\n"
+"무언가가... 일어났습니다. 제가 목격한 공포를 말로 다 표현할 수 없습니다. 다즈라는... 대부분 사라졌습니다. 우리의 자랑스러운 "
+"도시가 있던 자리에는 거대한 구덩이만 남았죠.... 하지만 어떻게든 비늘 성채는 남아있습니다. 제가 듣기로는, 수천 명이 실종되거나 "
+"사망한 것으로 추정된다고 합니다. 무슨 일이 일어난 건지 모르겠습니다. 저희는 제련소 아래에 심각하게 고립되어 있으며, 주 단위로만 "
+"본성으로부터 연락을 받고 있습니다. 이 메시지를 받으신다면 즉시 저희에게 연락해 주시기 바랍니다. 연락이 없다면, 명령대로 이곳에 남아서 "
+"SIEP를 계속 진행하겠습니다.\n"
+"\n"
+"모두가 섬겨야 한다"
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu02, REC: TMLM:ITXT
 msgctxt "014C81"
 msgid "RST-9090-A44"
-msgstr ""
+msgstr "RST-9090-A44"
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu02, REC: TMLM:UNAM
 msgctxt "014C82"
@@ -20697,11 +21149,19 @@ msgid ""
 "\n"
 "All Must Serve"
 msgstr ""
+"RST-9090-A23\n"
+"\n"
+"두 명의 지원자가 위대한 뱀의 곁으로 떠났고, 지원자들의 유해는 냉동 보관되었습니다. 이 프로젝트의 민감한 성격 때문에 지원자들에게 "
+"마땅히 해줘야 할... 추모조차 제대로 해줄 수 없는 것이 저를 불안하게 만듭니다. 한 가지 긍정적인 소식은 지원자들의 행동을 통제하려는 "
+"우리의 노력이 조금씩 성과를 거두고 있다는 것입니다. 지원자들은 차분하고 덜 정신병적인 것처럼 보이지만 군인들이 싸울 때 필요한 "
+"명석함에는 미치지 못합니다. 직원들과 상의한 결과, 3개월 이내에 SIEP를 온라인화할 수 있을 것으로 확신합니다.\n"
+"\n"
+"모두가 섬겨야 한다"
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu02, REC: TMLM:ITXT
 msgctxt "014C83"
 msgid "RST-9090-A23"
-msgstr ""
+msgstr "RST-9090-A23"
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu02, REC: TMLM:UNAM
 msgctxt "014C84"
@@ -20712,16 +21172,24 @@ msgid ""
 "\n"
 "All Must Serve"
 msgstr ""
+"RST-9090-A14\n"
+"\n"
+"병사 개선 및 강화 프로젝트(향후 통신에서 'SIEP'라는 코드명으로 바꿔 부를 예정) 결과가 점점 더 우려스럽습니다. 실험이 계속되고 "
+"있지만, 뉴로앰프 기술과 독자적인 프로그래밍을 사용하여 발생하는 정신병적 단절을 해결하지 못하고 있습니다. 바샬 박사는 유전자 조작된 "
+"생물학 제제를 사용하여 이 문제를 중화시키려고 시도하고 있지만, 지금까지는 성공하지 못했습니다. 계속 시도한 뒤 진행 상황을 "
+"보고드리겠습니다.\n"
+"\n"
+"모두가 섬겨야 한다"
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu02, REC: TMLM:ITXT
 msgctxt "014C85"
 msgid "RST-9090-A14"
-msgstr ""
+msgstr "RST-9090-A14"
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu02, REC: TMLM:FULL
 msgctxt "014C86"
 msgid "Communications Log"
-msgstr ""
+msgstr "통신 기록"
 
 # EDID: SFBGS001_mod_VaruunOrion_Receiver_SemiAuto_FangBroken, REC: OMOD:FULL
 msgctxt "014C88"
@@ -20743,7 +21211,7 @@ msgctxt "014C8C"
 msgid ""
 "The government of Va'ruun makes every attempt to control off-world media, "
 "including heavily editing famous works of fiction."
-msgstr ""
+msgstr "바룬 정부는 유명 소설 작품을 대대적으로 편집하는 등 외부 세계 미디어를 통제하기 위해 모든 노력을 기울이고 있습니다."
 
 # EDID: SFBGS001_LS_Crater01, REC: LSCR:DESC
 msgctxt "014C8D"
@@ -20751,20 +21219,22 @@ msgid ""
 "The crater in Dazra is littered with spherical gravitational anomalies which"
 " can be safely entered, but require cautious maneuvering to traverse."
 msgstr ""
+"다즈라의 구덩이에는 구형의 중력 이상 현상이 산재해 있습니다. 현상 안으로 진입할 때는 안전하게 들어갈 수 있지만, 통과하려면 신중하게 "
+"기동해야 합니다."
 
 # EDID: SFBGS001_LS_Dazra12, REC: LSCR:DESC
 msgctxt "014C8E"
 msgid ""
 "The aptly named \"Meat House\" in Dazra sells several local delicacies, but "
 "specializes in dishes sourced from the groat."
-msgstr ""
+msgstr "이름이 참 적절한 '훈제소'는 여러 가지 다즈라 현지 진미를 판매하지만, 그로트 부산물로 만든 요리가 전문입니다."
 
 # EDID: SFBGS001_LS_Weapons02, REC: LSCR:DESC
 msgctxt "014C8F"
 msgid ""
 "When firing the Va'ruun Penumbra, simply hold the Primary Attack control to "
 "charge your shot and then release when you wish to fire."
-msgstr ""
+msgstr "바룬 페넘브라를 발사할 때는 주 공격 키를 계속 눌러 충전했다가 발사하고 싶을 때 놓기만 하면 됩니다."
 
 # EDID: SFBGS001_LS_Dazra08, REC: LSCR:DESC
 msgctxt "014C90"
@@ -20773,6 +21243,7 @@ msgid ""
 "functions, but the incident in Dazra has disrupted most of the activities "
 "within."
 msgstr ""
+"복종의 전당은 한때 바룬 가문의 사법 기능을 위해 사용되었지만, 다즈라에서 발생한 사고로 인해 전당 내 활동이 대부분 중단되었습니다."
 
 # EDID: SFBGS001_LS_Rites02, REC: LSCR:DESC
 msgctxt "014C91"
@@ -20782,6 +21253,8 @@ msgid ""
 "draw one's own blood and apply it to the base of the Scaled Citadel, "
 "completing their bond with the Great Serpent."
 msgstr ""
+"바룬 가문의 모든 구성원이 들고 있는 그로트 단검은 크레자 의식을 완료하는 데 사용됩니다. 성인이 되어, 이 단검으로 자신의 피를 뽑아 "
+"비늘 성채의 바닥에 바르면, 위대한 뱀과의 결속이 완성됩니다."
 
 # EDID: SFBGS001_LS_Rites01, REC: LSCR:DESC
 msgctxt "014C92"
@@ -20791,13 +21264,15 @@ msgid ""
 "is then sacrificed to the Great Serpent, and its skull fashioned into a "
 "dagger, which is kept as a sacred relic."
 msgstr ""
+"바룬 가문에서 태어난 모든 아이는 크레자 의식을 치룹니다. 아이들은 어릴 때 그로트를 애완동물로 받아 성인이 될 때까지 키우게 됩니다. "
+"그런 다음 그로트를 위대한 뱀에게 제물로 바치고, 그 두개골을 단검으로 만들어, 신성한 유물로 보관하게 됩니다."
 
 # EDID: SFBGS001_LS_Citadel01, REC: LSCR:DESC
 msgctxt "014C93"
 msgid ""
 "After the incident in Dazra, the Scaled Citadel was surrounded by a massive,"
 " impenetrable energy shield."
-msgstr ""
+msgstr "다즈라에서 일어난 사고 이후, 비늘 성채는 뚫을 수 없는 거대한 에너지 보호막으로 둘러싸여 있었습니다."
 
 # EDID: SFBGS001_LS_History08, REC: LSCR:DESC
 msgctxt "014C94"
@@ -20805,6 +21280,8 @@ msgid ""
 "History of House Va'ruun - Sol Date 2298\n"
 "Jarek Va'ruun dies, and his son Anasko ascends to the position of Speaker."
 msgstr ""
+"바룬 가문의 역사 - 태양력 2298년\n"
+"자렉 바룬이 사망하고, 자렉의 아들 아나스코가 대변자의 자리에 올랐습니다."
 
 # EDID: SFBGS001_LS_History07, REC: LSCR:DESC
 msgctxt "014C95"
@@ -20812,6 +21289,9 @@ msgid ""
 "History of House Va'ruun - Sol Date 2270\n"
 "After years of internal strife, Jarek Va'ruun's twin brother Jandar denounces his authority, and vows to continue the Serpent's Crusade no matter what. Many follow Jandar, and abandon House Va'ruun to ultimately become known as Zealots.."
 msgstr ""
+"바룬 가문의 역사 - 태양력 2270년\n"
+"수년간의 내분 끝에 자렉 바룬의 쌍둥이 동생 잔다르 바룬이 자신의 권한을 주장하면서, 무슨 일이 있어도 뱀의 성전을 계속하겠다고 "
+"맹세했습니다. 많은 이들이 잔다르를 따르다가 결국 바룬 가문을 버리고 광신도가 되었습니다."
 
 # EDID: SFBGS001_LS_Shrines01, REC: LSCR:DESC
 msgctxt "014C96"
@@ -20820,13 +21300,15 @@ msgid ""
 " travel to a series of wayshrines scattered around Dazra and utter holy "
 "words in order to seek redemption for their sins."
 msgstr ""
+"구원의 길을 걷는 것은 바룬 가문의 일원이 다즈라에 흩어져 있는 일련의 성소를 찾아 성스러운 말을 하며 죄악에서 구원되길 구하는 "
+"풍습입니다."
 
 # EDID: SFBGS001_LS_Dazra10, REC: LSCR:DESC
 msgctxt "014C97"
 msgid ""
 "The Halls of Devotion was heavily damaged during the incident in Dazra "
 "leaving the interior of this holy place exposed to the elements."
-msgstr ""
+msgstr "다즈라에서 발생한 사건으로 헌신의 전당이 크게 손상되어 성소 내부가 비바람에 노출되어 있습니다."
 
 # EDID: SFBGS001_LS_History04, REC: LSCR:DESC
 msgctxt "014C98"
@@ -20834,6 +21316,9 @@ msgid ""
 "History of House Va'ruun - Sol Date 2230\n"
 "A familiar, yet outdated, transponder signal is detected in the Volii system. What was once the Archimedes announces itself as Mourning, the flagship of House Va'ruun."
 msgstr ""
+"바룬 가문의 역사 - 태양력 2230년\n"
+"볼라이 항성계에서, 익숙하지만 오래된 송수신기 신호가 감지됐습니다. 한때 아르키메데스라는 이름이 붙었던 함선에 탑승한 승무원들은 함선 "
+"이름이 모어닝 호이며, 이 함선은 바룬 가문의 기함이라고 알렸습니다."
 
 # EDID: SFBGS001_LS_History03, REC: LSCR:DESC
 msgctxt "014C99"
@@ -20841,6 +21326,9 @@ msgid ""
 "History of House Va'ruun - Sol Date 2193\n"
 "The city of Dazra is officially founded, with Jinan Va'ruun \"advising\" the government. At his encouragement, a population boom is underway."
 msgstr ""
+"바룬 가문의 역사 - 태양력 2193년\n"
+"다즈라 시티가 공식적으로 설립되고, 지난 바룬이 정부에 자문하는 '고문'이 되었습니다. 지난의 장려에 힘입어, 인구가 폭발적으로 "
+"증가했습니다."
 
 # EDID: SFBGS001_LS_History02, REC: LSCR:DESC
 msgctxt "014C9A"
@@ -20849,21 +21337,21 @@ msgid ""
 "With a growing number of followers, Jinan Va'ruun helps lead the efforts to colonize the second moon of Kavnyk I."
 msgstr ""
 "바룬 가문의 역사 - 태양력 2192년\n"
-"추종자가 늘어나자, 지난 바룬은 카브닉 I의 두 번째 위성을 정착지로 만드는 데 노력을 기울이도록 사람들을 이끌었습니다."
+"추종자가 늘어나자, 지난 바룬은 사람들을 이끌어 카브닉 I의 두 번째 위성을 정착지로 만드는 데 노력을 기울이게끔 했습니다."
 
 # EDID: SFBGS001_LS_Monastery01, REC: LSCR:DESC
 msgctxt "014C9B"
 msgid ""
 "Having stood the test of time for over a century, Tul'shahk Monastery is one"
 " of the oldest structures on Va'ruun'kai."
-msgstr ""
+msgstr "한 세기가 넘는 세월을 견뎌온 툴샤크 수도원은 바룬카이에서 가장 오래된 건축물 중 하나입니다."
 
 # EDID: SFBGS001_LS_Refinery01, REC: LSCR:DESC
 msgctxt "014C9C"
 msgid ""
 "Deep Gorge Refinery was shut down due to geological instabilities in the "
 "mantle of Va'ruun'kai and sits abandoned to this day."
-msgstr ""
+msgstr "깊은 협곡 제련소는 지질학적으로 바룬카이 위성의 맨틀이 불안정해지면서 폐쇄되어 오늘날까지 버려진 채 방치되어 있습니다."
 
 # EDID: SFBGS001_LS_Watchtower01, REC: LSCR:DESC
 msgctxt "014C9D"
@@ -20872,13 +21360,14 @@ msgid ""
 "posts and watchtowers across the landscape are always searching for threats "
 "or signs of invasion."
 msgstr ""
+"바룬 가문은 편집증에 가까울 정도로 감시를 중요하게 생각하며, 곳곳의 청음초소와 감시탑에서 항상 위협이나 침략의 징후를 살피고 있습니다."
 
 # EDID: SFBGS001_LS_Dam01, REC: LSCR:DESC
 msgctxt "014C9E"
 msgid ""
 "The construction of Ma'leen Dam was an expensive project overseen by Jinan "
 "Va'ruun himself."
-msgstr ""
+msgstr "마린 댐 건설은 지난 바룬이 직접 감독한 대예산 프로젝트였습니다."
 
 # EDID: SFBGS001_LS_History06, REC: LSCR:DESC
 msgctxt "014C9F"
@@ -20886,20 +21375,22 @@ msgid ""
 "History of House Va'ruun - Sol Date 2263\n"
 "Jinan Va'ruun's son Jarek ascends to the position of Speaker upon his father's death, and immediately sues for peace, ending the Serpent's Crusade."
 msgstr ""
+"바룬 가문의 역사 - 태양력 2263년\n"
+"지난 바룬의 아들 자렉 바룬이 아버지의 죽음 이후 대변자의 자리에 오르자마자, 평화를 호소하며 뱀의 성전을 종식시켰습니다."
 
 # EDID: SFBGS001_LS_Environment02, REC: LSCR:DESC
 msgctxt "014CA0"
 msgid ""
 "Halepod and Pendentleaf are the only viable sources of floral-based organic "
 "materials located near Dazra."
-msgstr ""
+msgstr "다즈라의 식물성 유기물 재료 공급원은 근처에 서식하는 할아비꼬투리와 드리개 잎사귀 밖에 없습니다."
 
 # EDID: SFBGS001_LS_Mourning01, REC: LSCR:DESC
 msgctxt "014CA1"
 msgid ""
 "The wreck of the Mourning looms over Dazra, a stark reminder of the original"
 " colonists' arrival on Va'ruun'kai."
-msgstr ""
+msgstr "난파한 모어닝 호가 다즈라 위에 놓여 있는 모습은, 원래 바룬카이에 도착한 사람들이 개척민들이었음을 적나라하게 상기시켜 줍니다."
 
 # EDID: SFBGS001_LS_Weapons01, REC: LSCR:DESC
 msgctxt "014CA2"
@@ -20908,27 +21399,29 @@ msgid ""
 " weapons in the Settled Systems, including the Va'ruun Starstorm, a powerful"
 " particle machine gun."
 msgstr ""
+"바룬 가문은 개척 성계에서 가장 기술적으로 진보된 무기를 계속 개발하고 있습니다. 그 무기 중에는 강력한 입자 기관총인 바룬 스타스톰도 "
+"포함됩니다."
 
 # EDID: SFBGS001_LS_Dazra07, REC: LSCR:DESC
 msgctxt "014CA3"
 msgid ""
 "House Ka'dic was the only ruling body to be spared after the incident that "
 "claimed most of Dazra."
-msgstr ""
+msgstr "카딕 가문은 다즈라의 대부분을 앗아간 사고를 유일하게 피할 수 있었던 지배 세력이었습니다."
 
 # EDID: SFBGS001_LS_Dazra06, REC: LSCR:DESC
 msgctxt "014CA4"
 msgid ""
 "House Dul'kehf lost their home in the incident and has temporarily moved "
 "into the Halls of Healing."
-msgstr ""
+msgstr "둘케프 가문은 다즈라의 사고로 저택을 잃고 임시 거처를 치유의 전당으로 옮겼습니다."
 
 # EDID: SFBGS001_LS_Dazra05, REC: LSCR:DESC
 msgctxt "014CA5"
 msgid ""
 "Due to the incident that disrupted most of Dazra, House Veth'aal is "
 "currently occupying the Keep as its temporary home."
-msgstr ""
+msgstr "다즈라 대부분을 파괴한 사고 때문에, 베타알 가문은 현재 본성을 임시 저택으로 점유하고 있습니다."
 
 # EDID: SFBGS001_LS_History01, REC: LSCR:DESC
 msgctxt "014CA6"
@@ -20937,22 +21430,22 @@ msgid ""
 "The colony ship \"Archimedes\" grav jumps into the Kavnyk system, 6 months after departing New Atlantis. On board, Jinan Va'ruun begins screaming."
 msgstr ""
 "바룬 가문의 역사 - 태양력 2191년\n"
-"뉴아틀란티스를 떠난 지 6개월 후, 개척선 \"아르키메데스\"는 카브닉 항성계를 향해 중력 도약했습니다. 함선 안에서, 지난 바룬이 "
-"비명을 지르기 시작했습니다."
+"뉴아틀란티스를 떠난 지 6개월 후, 개척선 '아르키메데스'는 카브닉 항성계를 향해 중력 도약했습니다. 함선 안에서, 지난 바룬이 비명을 "
+"지르기 시작했습니다."
 
 # EDID: SFBGS001_LS_OffWorldGoods01, REC: LSCR:DESC
 msgctxt "014CA7"
 msgid ""
 "Though the people of Va'ruun'kai are isolationist, a steady trickle of off-"
 "world goods can be found within the confines of Dazra."
-msgstr ""
+msgstr "바룬카이 사람들은 고립주의자들이지만, 다즈라의 경계 안으로 꾸준히 외부 세계의 상품이 유입되고 있습니다."
 
 # EDID: SFBGS001_LS_Oracle01, REC: LSCR:DESC
 msgctxt "014CA8"
 msgid ""
 "The Oracle starstation was built to further House Va'ruun's research into "
 "unique applications of grav drive technology."
-msgstr ""
+msgstr "오라클 우주정거장은 바룬 가문이 중력 구동기 기술을 독특하게 응용하는 연구를 하기 위해 지어졌습니다."
 
 # EDID: SFBGS001_LS_Seaweed01, REC: LSCR:DESC
 msgctxt "014CA9"
@@ -20966,14 +21459,14 @@ msgctxt "014CAA"
 msgid ""
 "Few off-worlders were ever welcome in Dazra, and only then after undertaking"
 " a ritual known as the \"Serpent's Path.\""
-msgstr ""
+msgstr "다즈라에서는 외부 세계인이 환영받은 경우가 거의 없었습니다. '뱀의 길'로 알려진 의식을 치른 사람만이 환영받았습니다."
 
 # EDID: SFBGS001_LS_Dazra04, REC: LSCR:DESC
 msgctxt "014CAB"
 msgid ""
 "Located in Dazra, The Keep is the primary headquarters of the Va'ruun "
 "military."
-msgstr ""
+msgstr "다즈라에 위치한 본성은 바룬 군대의 제1 본부입니다."
 
 # EDID: SFBGS001_LS_Chunks01, REC: LSCR:DESC
 msgctxt "014CAC"
@@ -20982,6 +21475,7 @@ msgid ""
 "Va'ruun'kai. Unfortunately, this proved unpopular with the locals and was "
 "abandoned after a short period of time."
 msgstr ""
+"청크는 유일하게 바룬카이에 지사를 설립한 외부 기업입니다. 안타깝게도 청크는 현지인들에게 인기가 없어 얼마 지나지 않아 유기됐습니다."
 
 # EDID: SFBGS001_LS_Koza01, REC: LSCR:DESC
 msgctxt "014CAD"
@@ -20989,27 +21483,28 @@ msgid ""
 "Koza is one of the most popular drinks on Va'ruun'kai. It's made from "
 "fermented groat milk, and is typically enjoyed with every meal."
 msgstr ""
+"코자는 바룬카이에서 가장 인기 있는 음료 중 하나입니다. 코자는 발효된 그로트 젖으로 만들어지며, 보통 매 끼니마다 즐겨 마십니다."
 
 # EDID: SFBGS001_LS_Dazra11, REC: LSCR:DESC
 msgctxt "014CAE"
 msgid ""
 "Many of the displaced citizens of Dazra have been forced to relocate to a "
 "refugee camp set up on an unused landing pad at the starport."
-msgstr ""
+msgstr "다즈라의 수많은 이재민들은 우주항의 사용하지 않는 착륙장에 설치된 난민 캠프로 강제 이주해야 했습니다."
 
 # EDID: SFBGS001_LS_Groat01, REC: LSCR:DESC
 msgctxt "014CAF"
 msgid ""
 "The groat is a native, domesticated, animal widely kept as livestock on "
 "farms dotting the landscape around Dazra."
-msgstr ""
+msgstr "그로트는 다즈라의 토착종으로, 다즈라 주변 곳곳에 있는 농장에서 가축으로 널리 사육됩니다."
 
 # EDID: SFBGS001_LS_Dazra09, REC: LSCR:DESC
 msgctxt "014CB0"
 msgid ""
 "The Enhance location in Dazra isn't an officially licensed franchise and "
 "uses technology that House Va'ruun acquired from a smuggler."
-msgstr ""
+msgstr "다즈라에 있는 인핸스는 프랜차이즈 업체의 공식 허가를 받은 지점이 아니며, 바룬 가문이 밀수꾼으로부터 획득한 기술을 사용합니다."
 
 # EDID: SFBGS001_LS_History05, REC: LSCR:DESC
 msgctxt "014CB1"
@@ -21017,6 +21512,8 @@ msgid ""
 "History of House Va'ruun - Sol Date 2240\n"
 "Jinan Va'ruun declares war on the Settled Systems, and the Serpent's Crusade begins."
 msgstr ""
+"바룬 가문의 역사 - 태양력 2240년\n"
+"지난 바룬이 개척 성계에 전쟁을 선포하면서, 뱀의 성전이 시작됐습니다."
 
 # EDID: SFBGS001_LS_Threats01, REC: LSCR:DESC
 msgctxt "014CB2"
@@ -21025,46 +21522,48 @@ msgid ""
 " even the Crimson Fleet, who are now occupying facilities that House Va'ruun"
 " was forced to hastily abandon."
 msgstr ""
+"최근의 재난으로 인해 바룬카이는 취약한 상태가 되어, 스페이서, 광신도, 심지어 크림슨 함대까지 바룬 가문이 급히 포기해야 했던 시설을 "
+"점령하고 있습니다."
 
 # EDID: SFBGS001_LS_Dazra02, REC: LSCR:DESC
 msgctxt "014CB3"
 msgid ""
 "The incident that occurred in Dazra claimed a great deal of the city, and "
 "left behind a massive crater filled with gravitational anomalies."
-msgstr ""
+msgstr "다즈라에서 발생한 사고로 도시의 상당 부분이 파괴되었고, 중력 이상 현상으로 가득 찬 거대한 구덩이가 생겼습니다."
 
 # EDID: SFBGS001_LS_Dazra01, REC: LSCR:DESC
 msgctxt "014CB4"
 msgid ""
 "Due to the recent catastrophe, the citizens of Dazra are scrambling to "
 "stockpile their precious remaining supplies."
-msgstr ""
+msgstr "최근의 재난으로 인해, 다즈라 시민들은 소중한 잔여 물품을 비축하기 위해 동분서주하고 있습니다."
 
 # EDID: SFBGS001_LS_Council02, REC: LSCR:DESC
 msgctxt "014CB5"
 msgid ""
 "With Anasko Va'ruun missing, it has proven difficult for the High Council to"
 " govern on its own."
-msgstr ""
+msgstr "아나스코 바룬이 실종된 상황에서, 대의회가 독자적으로 바룬 가문을 통치하기는 어렵다는 사실이 드러났습니다."
 
 # EDID: SFBGS001_LS_Ripples01, REC: LSCR:DESC
 msgctxt "014CB6"
 msgid ""
 "The recent incident in Dazra has caused visible ripples in space-time to "
 "manifest across Va'ruun'kai."
-msgstr ""
+msgstr "최근 다즈라에서 발생한 사고로 인해 눈에 띄는 시공간 균열이 바룬카이 전역에 나타났습니다."
 
 # EDID: SFBGS001_LS_Council01, REC: LSCR:DESC
 msgctxt "014CB7"
 msgid "All of the Great Houses are represented on the Va'ruun High Council."
-msgstr ""
+msgstr "모든 대가문은 바룬 대의회에 대표를 보냅니다."
 
 # EDID: SFBGS001_LS_Environment01, REC: LSCR:DESC
 msgctxt "014CB8"
 msgid ""
 "Va'ruun'kai is a hostile world permeated with predatory creatures, sparse "
 "vegetation, challenging terrain and an unstable atmosphere."
-msgstr ""
+msgstr "바룬카이는 포식 생물, 희박한 초목, 험난한 지형, 불안정한 대기로 가득해 적대적인 세계입니다."
 
 # EDID: SFBGS001_LS_Dazra03, REC: LSCR:DESC
 msgctxt "014CB9"
@@ -21072,27 +21571,27 @@ msgid ""
 "Most of the citizens within Dazra were affected by the incident, being "
 "either left in a state of perpetual semi-existence, or disappearing "
 "altogether."
-msgstr ""
+msgstr "다즈라에 거주하는 대부분의 시민들은 사고의 영향을 받아, 영구적인 반존재 상태에 놓이거나, 아예 사라졌습니다."
 
 # EDID: SFBGS001_PhotoMode_Strength, REC: IDLE:FULL
 msgctxt "014CBA"
 msgid "Strength"
-msgstr ""
+msgstr "위력"
 
 # EDID: SFBGS001_PhotoMode_Perseverance, REC: IDLE:FULL
 msgctxt "014CBB"
 msgid "Perseverance"
-msgstr ""
+msgstr "인내"
 
 # EDID: SFBGS001_PhotoMode_Obedience, REC: IDLE:FULL
 msgctxt "014CBC"
 msgid "Obedience"
-msgstr ""
+msgstr "복종"
 
 # EDID: SFBGS001_PhotoMode_Devotion, REC: IDLE:FULL
 msgctxt "014CBD"
 msgid "Devotion"
-msgstr ""
+msgstr "헌신"
 
 # EDID: SFBGS001_WNPC_GroatFarmers_WNPC5_6_7, REC: QUST:FULL
 msgctxt "014CCA"
@@ -21199,6 +21698,12 @@ msgid ""
 "\n"
 "Full Lockdown Mode can only be issued by direct orders from the Keep or, in the event of a loss of communication, the ranking officer at the facility."
 msgstr ""
+"주전원 상태는 시설의 주전원 발전 시스템 상태를 나타냅니다. 표준 운영 절차에 따라 항상 전지 3개가 제자리에 삽입되어 있어야 합니다.\n"
+"\n"
+"보조전원 상태는 시설의 보조전원 발전 시스템 상태를 나타냅니다. 표준 운영 절차에 따라 항상 전지 1개가 제자리에 삽입되어 있어야 합니다."
+"\n"
+"\n"
+"전면 봉쇄 모드는 시설 관리자, 또는 통신이 두절된 경우 시설의 지휘관이 직접 명령해야만 발령할 수 있습니다."
 
 # EDID: SFBGS001_LC07_RSThetaComputerSubMenu01, REC: TMLM:ITXT
 msgctxt "014CDE"
@@ -21214,6 +21719,11 @@ msgid ""
 "\n"
 "All operations are suspended until Interlock is removed and/or powered down."
 msgstr ""
+"경고 ------------------- 경고\n"
+"\n"
+"오류: 심각한 시스템 장애. 근처의 제어장치 제어 콘솔로 전원 경로를 재설정합니다.\n"
+"\n"
+"제어장치를 제거하거나 전원을 끌 때까지 모든 작업이 일시 중단됩니다."
 
 # EDID: SFBGS001LC05_CapDoor_Desktop, REC: TMLM:FULL
 msgctxt "014CE2"
@@ -21223,47 +21733,50 @@ msgstr "문 제어"
 # EDID: SFBGS001_LC07_RSTECenterComputerDesktop, REC: TMLM:ITXT
 msgctxt "014CE3"
 msgid "Current Site Status"
-msgstr ""
+msgstr "현재 현장 상황"
 
 # EDID: SFBGS001_LC07_RSTECenterComputerDesktop, REC: TMLM:ITXT
 msgctxt "014CE4"
 msgid "Current Site Status"
-msgstr ""
+msgstr "현재 현장 상황"
 
 # EDID: SFBGS001_LC07_RSTECenterComputerDesktop, REC: TMLM:FULL
 msgctxt "014CE5"
 msgid "Experimentation Center Computer"
-msgstr ""
+msgstr "실험 센터 컴퓨터"
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu01, REC: TMLM:UNAM
 msgctxt "014CE6"
 msgid "ERROR DATABASE CORRUPTED"
-msgstr ""
+msgstr "오류 데이터베이스 손상됨"
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu01, REC: TMLM:ITXT
+#, fuzzy
 msgctxt "014CE7"
 msgid "918o9990---===39408"
-msgstr ""
+msgstr "918o9990---===39408"
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu01, REC: TMLM:UNAM
 msgctxt "014CE8"
 msgid "ERROR DATABASE CORRUPTED"
-msgstr ""
+msgstr "오류 데이터베이스 손상됨"
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu01, REC: TMLM:ITXT
+#, fuzzy
 msgctxt "014CE9"
 msgid "0oi9008n-=9=-89-="
-msgstr ""
+msgstr "0oi9008n-=9=-89-="
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu01, REC: TMLM:UNAM
 msgctxt "014CEA"
 msgid "ERROR DATABASE CORRUPTED"
-msgstr ""
+msgstr "오류 데이터베이스 손상됨"
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu01, REC: TMLM:ITXT
+#, fuzzy
 msgctxt "014CEB"
 msgid "808=-8927109--1xx1"
-msgstr ""
+msgstr "808=-8927109--1xx1"
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu01, REC: TMLM:UNAM
 msgctxt "014CEC"
@@ -21280,16 +21793,27 @@ msgid ""
 "\n"
 "THE GREAT SERPENT WILLS IT TO BE SO!"
 msgstr ""
+"우리는 길을 걷는다! 우리는 진정한 추종자다!\n"
+"\n"
+"위대한 뱀께서 그렇게 되기를 바라신다!\n"
+"\n"
+"이단자들을 박살 내라! 이단자들의 도시를 불태워라! 이단자들이 믿게 만들어라!\n"
+"\n"
+"위대한 뱀께서 그렇게 되기를 바라신다!\n"
+"\n"
+"우리는 리딤드들을 이용하여 우리의 길을 가로막는 모든 것을 극복하고 파괴할 것이다!\n"
+"\n"
+"위대한 뱀께서 그렇게 되기를 바라신다!"
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu01, REC: TMLM:ITXT
 msgctxt "014CED"
 msgid "HE WILLS IT TO BE SO!"
-msgstr ""
+msgstr "그분께서 그렇게 되기를 바라신다!"
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu01, REC: TMLM:FULL
 msgctxt "014CEE"
 msgid "Patient Profiles"
-msgstr ""
+msgstr "환자 신상정보"
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu02, REC: TMLM:UNAM
 msgctxt "014CEF"
@@ -21298,11 +21822,14 @@ msgid ""
 "\n"
 "If this message has been reached in error, please see a systems administrator."
 msgstr ""
+"경고: 데이터베이스 삭제됨\n"
+"\n"
+"이 메시지가 오류로 인해 발생한 경우, 시스템 관리자에게 문의하세요."
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu02, REC: TMLM:ITXT
 msgctxt "014CF0"
 msgid "RST-6551-D62"
-msgstr ""
+msgstr "RST-6551-D62"
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu02, REC: TMLM:UNAM
 msgctxt "014CF1"
@@ -21311,11 +21838,14 @@ msgid ""
 "\n"
 "If this message has been reached in error, please see a systems administrator."
 msgstr ""
+"경고: 데이터베이스 삭제됨\n"
+"\n"
+"이 메시지가 오류로 인해 발생한 경우, 시스템 관리자에게 문의하세요."
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu02, REC: TMLM:ITXT
 msgctxt "014CF2"
 msgid "RST-6551-D48"
-msgstr ""
+msgstr "RST-6551-D48"
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu02, REC: TMLM:UNAM
 msgctxt "014CF3"
@@ -21324,11 +21854,14 @@ msgid ""
 "\n"
 "If this message has been reached in error, please see a systems administrator."
 msgstr ""
+"경고: 데이터베이스 삭제됨\n"
+"\n"
+"이 메시지가 오류로 인해 발생한 경우, 시스템 관리자에게 문의하세요."
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu02, REC: TMLM:ITXT
 msgctxt "014CF4"
 msgid "RST-6551-D33"
-msgstr ""
+msgstr "RST-6551-D33"
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu02, REC: TMLM:UNAM
 msgctxt "014CF5"
@@ -21343,6 +21876,17 @@ msgid ""
 "\n"
 "THE END OF DAZRA IS NEAR! WE WILL TEAR IT ALL DOWN! WE WILL NOT STOP UNTIL THE LAST OF THE HERETICS ARE DESTROYED!"
 msgstr ""
+"나는 조물주니라.\n"
+"\n"
+"위대한 뱀께서 나에게 명령을 내렸느니라.\n"
+"\n"
+"꿈에서 환상을 보았도다. 다즈라의 이단자들이 우리의 가장 큰 무기가 될 것이다. 그 자들은 리딤드가 될 것이다. 우리의 도구, 우리의 "
+"무기, 우리의 승리!\n"
+"\n"
+"이단자의 뉴로앰프와 사악한 과학을 이용할 것이고 우리 것으로 만들 것이다. 그분이 내게 길을 보여 주셨다! 나는 그 자들을 변화시키고, "
+"형상을 만들고, 리딤드가 되게 만들 것이다. 그 자들을 무적으로 만들 것이다.\n"
+"\n"
+"다즈라의 종말이 가까워졌다! 우리는 모든 것을 무너뜨릴 것이다! 우리는 마지막 이단자가 파괴될 때까지 멈추지 않을 것이니라!"
 
 # EDID: SFBGS001_LC07_RSTECenterComputerSubMenu02, REC: TMLM:ITXT
 msgctxt "014CF6"
@@ -21447,7 +21991,7 @@ msgstr "바룬 저장소"
 # EDID: CityMapMarkers_KeepArmory, REC: REFR:FULL
 msgctxt "014D0C"
 msgid "Keep Armory"
-msgstr "더 킵 무기고"
+msgstr "본성 무기고"
 
 # EDID: CityMapMarkers_GoodsExchange, REC: REFR:FULL
 msgctxt "014D0D"
@@ -21603,7 +22147,7 @@ msgstr "리딤드"
 # EDID: SFBGS001_HouseKadicStorageKey, REC: KEYM:FULL
 msgctxt "014D2F"
 msgid "House Ka'dic Storage Key"
-msgstr ""
+msgstr "카딕 가문 보관시설 열쇠"
 
 # EDID: SFBGS001_LvlTurret_Varuun, REC: NPC_:LNAM
 msgctxt "014D30"
@@ -21741,47 +22285,47 @@ msgstr "백팩 거치대"
 # EDID: SFBGS001_Loot_Display_HelmetCase_Common, REC: CONT:FULL
 msgctxt "014D4C"
 msgid "Helmet Display"
-msgstr ""
+msgstr "헬멧 전시대"
 
 # EDID: SFBGS001_Loot_Display_HelmetCase_Rare, REC: CONT:FULL
 msgctxt "014D4D"
 msgid "Space Helmet Display"
-msgstr ""
+msgstr "우주복 헬멧 전시대"
 
 # EDID: SFBGS001_Loot_Display_Helmetstand_Common, REC: CONT:FULL
 msgctxt "014D4E"
 msgid "Helmet Stand"
-msgstr ""
+msgstr "헬멧 거치대"
 
 # EDID: SFBGS001_Loot_Display_Helmetstand_Rare, REC: CONT:FULL
 msgctxt "014D4F"
 msgid "Helmet Stand"
-msgstr ""
+msgstr "헬멧 거치대"
 
 # EDID: SFBGS001_Loot_Display_WeaponRack01_Common, REC: CONT:FULL
 msgctxt "014D50"
 msgid "Weapon Rack"
-msgstr ""
+msgstr "무기 거치대"
 
 # EDID: SFBGS001_Loot_Display_WeaponRack02_Common, REC: CONT:FULL
 msgctxt "014D51"
 msgid "Weapon Rack"
-msgstr ""
+msgstr "무기 거치대"
 
 # EDID: SFBGS001_Loot_Display_WeaponRack03_Rare, REC: CONT:FULL
 msgctxt "014D52"
 msgid "Weapon Rack"
-msgstr ""
+msgstr "무기 거치대"
 
 # EDID: SFBGS001DazraCityTheKeepLocation, REC: LCTN:FULL
 msgctxt "014D53"
 msgid "The Keep"
-msgstr "더 킵"
+msgstr "본성"
 
 # EDID: SFBGS001DazraTheKeep, REC: CELL:FULL
 msgctxt "014D54"
 msgid "The Keep"
-msgstr "더 킵"
+msgstr "본성"
 
 # EDID: SFBGS001_Loot_Storage_AmmoCase_Large_Rare, REC: CONT:FULL
 msgctxt "014D55"
@@ -21813,6 +22357,24 @@ msgid ""
 "BORALDASZ\n"
 "Sadly I think we have seen the last of Boraldasz. It's been over a week since he knocked down the gate and made a dash for the foothills. Always willful and strong, that one. Perhaps he was called to lead some distant herd. I still recall the day we found him, alone and abandoned by his mother, starving and scrawny. May the Serpent bless him with good fortune and a long life."
 msgstr ""
+"미즈카\n"
+"정말 매력적이고 친절한 동물이다! 이 녀석이 떠나는 건 슬펐지만, 농장의 다른 그로트들과 행복하게 재회하게 되었던 건 기뻤다. 부상이 "
+"심각했음을 감안하면 이 녀석이 얼마나 빨리 회복했는지 놀라울 정도다. 우리가 어린 미즈카를 집으로 데려왔을 때 알리샤의 얼굴에 떠오른 "
+"미소를 아직도 기억한다. 아마도 이것이 미즈카에 대한 마지막 글이 될 것 같다. 다른 사건이 더 일어나지 않는 한.\n"
+"\n"
+"리틀 아자드\n"
+"이 고집 센 늙은 녀석은 시간의 흐름에 계속 저항하고 있다. 정확한 나이를 알 수 없어서 아쉽다. 우리가 여기에서 키운 그로트 중 가장 "
+"나이가 많은 녀석일 게 분명한 것 같은데. 방생을 해 보려 했는데 항상 실패만 했다. 아마 이 우리에서 기꺼이 남은 여생을 보내려는 것 "
+"같다.\n"
+"\n"
+"더반\n"
+"뱀이시여, 이렇게 게으른 짐승이 또 있을까? 더반은 잠만 자는데도 병이나 다른 특이 상태의 흔적은 전혀 찾을 수가 없다. 그저 편안하게 "
+"삶을 사는 것에 만족하나 보다. 아마 내 인생도 그렇게 아무런 부담도 없이 자유로웠다면, 나도 그랬을 것 같지만.\n"
+"\n"
+"보랄다즈\n"
+"안타깝게도 우리는 보랄다즈를 더 이상 볼 일은 없을 것 같다. 녀석이 문을 부수고 산기슭으로 달려간 지 일주일이 넘었으니. 녀석은 항상 "
+"완고하고 드셌다. 먼 곳의 무리를 이끌도록 부름을 받았을지도 모른다. 난 아직도 홀로 버려진 채, 깡마르게 굶주려 있던 녀석을 발견한 "
+"날을 기억하고 있다. 뱀께서 그 그로트에게 행운과 장수를 베풀어 주시길."
 
 # EDID: SFBGS001_LC27_TerminalMenu, REC: TMLM:UNAM
 msgctxt "014D63"
@@ -21826,11 +22388,19 @@ msgid ""
 "· Put in a work order to repair the elevator housing\n"
 "· Inventory the storeroom"
 msgstr ""
+"할 일 목록\n"
+"\n"
+"- 온실 청소\n"
+"- 코자 추가 주문\n"
+"- 현미경 렌즈 청소\n"
+"- 제약 실험실의 고장난 전지 교체\n"
+"- 엘리베이터 덮개 수리 작업 지시\n"
+"- 창고 재고 정리"
 
 # EDID: SFBGS001LC06_LL_Weapon_Reward_CitadelPostquest, REC: LVLI:ONAM
 msgctxt "014D66"
 msgid "Speaker’s Judgment"
-msgstr ""
+msgstr "대변자의 심판"
 
 # EDID: SFBGS001_LvlVaruunZealot_MS02_Aggro, REC: NPC_:LNAM
 msgctxt "014D67"
@@ -22091,12 +22661,12 @@ msgstr "우에다 가문의 집"
 # EDID: SFBGS001LC20_ForemanTerminalMenu, REC: TMLM:UNAM
 msgctxt "014DA1"
 msgid "Opening door... done."
-msgstr ""
+msgstr "문 여는 중... 완료."
 
 # EDID: SFBGS001LC20_ForemanTerminalMenu, REC: TMLM:ITXT
 msgctxt "014DA2"
 msgid "Open Security Door"
-msgstr ""
+msgstr "보안문 열기"
 
 # EDID: SFBGS001_Spacesuit_Redeemed_Dark, REC: ARMO:FULL
 msgctxt "014DA3"

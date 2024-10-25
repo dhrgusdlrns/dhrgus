@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-10-22 11:43+0000\n"
+"PO-Revision-Date: 2024-10-26 21:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -4361,7 +4361,7 @@ msgstr "미친 베넷"
 #. REC = MESG:FULL
 msgctxt "000A7C"
 msgid "Andrew Hernandez"
-msgstr "앤드루 에르난데스"
+msgstr "앤드류 에르난데스"
 
 #. EDID = SFBGS003_BountyTarget_Name_Faction_Varuun_00
 #. REC = MESG:FULL
@@ -5045,7 +5045,7 @@ msgstr "케일럽 슈미트"
 #. REC = MESG:FULL
 msgctxt "000AEE"
 msgid "Andrew Weber"
-msgstr "앤드루 웨버"
+msgstr "앤드류 웨버"
 
 #. EDID = SFBGS003_BountyTarget_Name_M_116
 #. REC = MESG:FULL
@@ -5303,7 +5303,7 @@ msgstr "케일럽 윌리엄스"
 #. REC = MESG:FULL
 msgctxt "000B19"
 msgid "Andrew Brown"
-msgstr "앤드루 브라운"
+msgstr "앤드류 브라운"
 
 #. EDID = SFBGS003_BountyTarget_Name_M_92
 #. REC = MESG:FULL
@@ -24356,7 +24356,7 @@ msgstr "물론 그렇겠지. 다만 나는 예외 사례야. 법칙처럼 다 �
 msgctxt "0006B6"
 msgid "That being said, I rarely go on the hunt these days. My experience is now far more valuable as an Agent than a field Tracker."
 msgstr ""
-"물론 요즘은 더 이상현상수배범 사냥을 나가진 않아. 내 경험은 현장 추적자 일에 활용하기보단 대행인으로 활용하는 게 더 값지니까."
+"물론 요즘은 더 이상 현상수배범 사냥을 나가진 않아. 내 경험은 현장 추적자 일에 활용하기보단 대행인으로 활용하는 게 더 값지니까."
 
 #. SCRIPT NOTES:  / to Inevitable
 #. ALIAS: Player Default

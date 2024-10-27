@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2024-10-27 09:58+0000\n"
-"Last-Translator: singularity <eldergmg@gmail.com>\n"
+"PO-Revision-Date: 2024-10-27 15:04+0000\n"
+"Last-Translator: secarnadia <ellwionsia@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2315,6 +2315,27 @@ msgid ""
 "\n"
 "Iris Ueda: That's right, Zora. But try not to abuse the privilege, haha."
 msgstr ""
+"아이리스 우에다: 자, 얘들아, 이제 자러 갈 시간이야.\n"
+"\n"
+"소년: 근데 우에다 선생님, 갑자기 무슨 일이 생겨서 선생님이 필요해지면 어떡해요?!\n"
+"\n"
+"소녀: 맞아요. 불이 나거나, 더 심한 경우... 물이 차면 어떡하냐고요!\n"
+"\n"
+"아이리스 우에다: 글쎄, 비상 상황이 생기면 우리가 대피 훈련한 대로 따라야지.\n"
+"\n"
+"소년: 하지만 만약 비상 상황까진 아니라면 어떻게 해요?! 제가 발가락을 다치면 어떡해요?\n"
+"\n"
+"소녀: 맞아요! 제가 쟤 발가락을 밟으면 어떡해요?!\n"
+"\n"
+"소년: 만약 위대한 뱀께서 내려와서 \"취침 시간을 넘겨 깨어 있으면서 모든 사람의 발가락을 밟아라\"라고 말하시면 어떡해요?\n"
+"\n"
+"아이리스 우에다: 자, 이제 얘들아. 선생님이 필요해지면 아무리 사소하더라도, 그냥 종을 울리면 돼. 내가 바로 문을 열어줄게.\n"
+"\n"
+"소녀: 이렇게요?\n"
+"\n"
+"*종 울림*\n"
+"\n"
+"아이리스 우에다: 맞아, 조라. 하지만 함부로 이 특권을 남용하지는 말아 주렴, 하하."
 
 # EDID: SFBGS001_MB_Smuggler, REC: QUST:CNAM
 msgctxt "011DC9"
@@ -2386,6 +2407,11 @@ msgid ""
 "\n"
 "But is that not the point? Though I am weary, the Great Serpent guides me... it is undeniable, His power. The presence grows stronger every hour that wanes. In half a day I will be there, the peak lies just beyond the fog."
 msgstr ""
+"이곳은 기온차가 심하다. 비록 나를 다치게 할 것은 없는 곳이지만 위안을 찾는 것은 불가능하다. 난 지금 피곤하고 배고프고, 음식도 거의 "
+"없고 잠도 잘 못 자고 있다. 가족이 그립다.\n"
+"\n"
+"하지만 이것이 바로 요점 아니겠는가? 난 지쳐 있지만, 위대한 뱀께서 나를 인도하신다... 부인할 수 없는 그분의 힘이 지나가는 매 "
+"시간마다 더욱더 더 강해진다. 반나절이면 나는 도착할 것이다. 정상은 안개 바로 너머에 있다."
 
 # EDID: SFBGS001_PilgrimsJournal_01, REC: BOOK:DESC
 msgctxt "012123"
@@ -2398,6 +2424,13 @@ msgid ""
 "\n"
 "My time will surely come."
 msgstr ""
+"다즈라 외곽은 거닐기에 고된 곳이다. 찾을 것이 마땅치 않다. \n"
+"\n"
+"하지만 인고의 과정을 견뎌내면 우리의 생각을 정리하고 목적을 생각할 시간이 생기는 법이다. \n"
+"\n"
+"어떤 사람들은 그분을 잠깐 목도하였다고 한다. \n"
+"\n"
+"나의 순간도 반드시 올 것이다."
 
 # EDID: SFBGS001_PilgrimsJournal_02, REC: BOOK:DESC
 msgctxt "012127"
@@ -2412,6 +2445,15 @@ msgid ""
 "\n"
 "it cannot be much further."
 msgstr ""
+"나 또한 그분의 환상을 보기 전까지 얼마나 더 많은 밤을 보내야 할까?\n"
+"\n"
+"나는 별 아래 지쳐 누워 있지만, 나의 순간이 분명 올 것임을 알고 있다.\n"
+"\n"
+"내 앞에 바룬 님의 존재를, 이곳의 힘을 느낄 수 있다.\n"
+"\n"
+"그분의 인도에 따라 우리는 인내할 것이다.\n"
+"\n"
+"더 이상 그리 멀지 않을 것이다."
 
 # EDID: SFBGS001_PilgrimsJournal_03, REC: BOOK:DESC
 msgctxt "01212A"
@@ -2420,6 +2462,11 @@ msgid ""
 "\n"
 "Something that they can not hear, or they can not understand."
 msgstr ""
+"내 가족은 날 믿지 않지만, 난 뱀께서 내게 무엇을 원하는지 알고 있다. 이 길을 계속 가면 갈수록 내면의 변화를 느낄 수 있다. 내 "
+"가족은 가게에서 일하는 것에 만족하지만 나는 지루하고 평범한 일이라고 생각한다. 나는 느낄 수 있지만 내 가족은 느낄 수 없어 한다. "
+"무언가가 나를 부르는 것이다.\n"
+"\n"
+"저들이 들을 수 없거나 이해할 수 없는 그 무언가가."
 
 # EDID: SFBGS001_PilgrimsJournal_05, REC: BOOK:DESC
 msgctxt "01212D"
@@ -2428,6 +2475,8 @@ msgid ""
 "here still for many nights, searching for the meaning of his teachings and "
 "though I thought the path to be clear I fear I have lost my way."
 msgstr ""
+"다른 순례자들은 계속해서 오고 일부는 머물지만, 결국 모두가 떠나고 만다. 나는 여전히 많은 밤을 여기서 보냈고, 그분의 가르침이 어떤 "
+"의미를 갖는지 찾으려 했으나, 오히려 분명하다고 생각했던 길을 잃은 것만 같은 기분이 든다."
 
 # EDID: SFBGS001_PilgrimsJournal_06, REC: BOOK:DESC
 msgctxt "012130"
@@ -2436,6 +2485,8 @@ msgid ""
 "among the stars. Beyond the horizon lies a sea of prisms holding lessons for"
 " the devout."
 msgstr ""
+"붉은 햇살이 여러 줄기로 하늘을 물들이는 동안, 나는 하늘의 별들과 한 몸이 될 수 있는 명료함을 구하며 기도를 올린다. 지평선 너머에는 "
+"독실한 자들을 위한 교훈을 담고 있는 프리즘의 바다가 넘실거리는 중이다."
 
 # EDID: SFBGS001_PilgrimsJournal_07, REC: BOOK:DESC
 msgctxt "012133"
@@ -2443,6 +2494,10 @@ msgid ""
 "Inner Transformation comes with our search of the Great Serpent. Accompanied by the wisdom of ten lifetimes, knowledge that predates beginning and mandates the end. As He shows us the way we shed our skins and become something anew. \n"
 "We shall honor them in their never-ending glory with our eyes towards the stars and when we join the Great Serpent in conquest, all Jinan knew will come to fruition in entirety."
 msgstr ""
+"내면의 변화는 위대한 뱀을 찾는 우리의 탐색과 함께 찾아온다. 열 번의 삶을 살아야 깨달을 수 있는 지혜, 첫 시작보다 앞서고 모든 것의 "
+"끝을 고하는 지식이 수반된다. 그분이 우리에게 껍질을 벗고 새로운 무언가가 되는 방법을 보여 주듯이. \n"
+"우리는 별을 바라보며 그분들의 끝없는 영광을 경의롭게 여겨야 할 것이며, 위대한 뱀과 하나 되어 정복에 나설 때가 되면 지난께서 알고 "
+"있던 모든 것이 온전히 실현될 것이다."
 
 # EDID: SFBGS001_PilgrimsJournal_08, REC: BOOK:DESC
 msgctxt "012136"
@@ -2467,27 +2522,29 @@ msgid ""
 "Sahima's algorithm and delivered it to Ekris to aid in the Mourning Device "
 "construction."
 msgstr ""
+"나는 사히마를 죽이고 라즈마가 다시는 광신도들과 협력하지 못하도록 하여 카딕 가문을 도울 수 있었다. 그 과정에서 사히마의 알고리즘을 "
+"얻어 에크리스에게 전달하여 모어닝 장치 건설을 도울 수 있었다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122B8"
 msgid ""
 "I was able to help House Ka'dic by rescuing Sahima and delivering her "
 "algorithm needed for the Mourning Device to Ekris."
-msgstr ""
+msgstr "나는 사히마를 구출하고 모어닝 장치에 필요한 알고리즘을 에크리스에게 전달하여 카딕 가문을 도울 수 있었다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122B9"
 msgid ""
 "I need to return to Ekris at the Mourning Device in Dazra and give him "
 "Sahima's algorithm."
-msgstr ""
+msgstr "다즈라의 모어닝 장치에 있는 에크리스에게 돌아가서 사히마의 알고리즘을 전해줘야 한다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122BA"
 msgid ""
 "Now that the negotiations are over, I should speak with Razma about the "
 "outcome."
-msgstr ""
+msgstr "이제 협상이 끝났으니, 라즈마와 결과에 대해 이야기해야겠다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122BB"
@@ -2497,25 +2554,25 @@ msgstr "미해일과 경호원을 죽여야 한다."
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122BC"
 msgid "I interrupted the negotiations. I should listen and see what happens."
-msgstr ""
+msgstr "나는 협상을 중단시켰다. 무슨 일이 일어나는지 지켜봐야겠다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122BD"
 msgid ""
 "I need to head to the Badlands Power Station to disrupt the negotiations."
-msgstr ""
+msgstr "협상을 방해하기 위해 배드랜드 발전소로 가야 한다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122BE"
 msgid "I should speak with Sahima about what to do next."
-msgstr ""
+msgstr "다음에 어떻게 해야 할지 사히마와 상의해봐야겠다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122BF"
 msgid ""
 "Now that the hostages are free and the caves are clear, I should meet Sahima"
 " and the others back outside."
-msgstr ""
+msgstr "이제 인질들도 풀어줬고 동굴도 정리했으니, 밖에서 사히마와 다른 사람들을 만나야겠다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122C0"
@@ -2523,12 +2580,14 @@ msgid ""
 "The hostages can't leave until I clear the caves beyond so they may safely "
 "escape and make sure any remaining hostages are freed."
 msgstr ""
+"내가 동굴의 다른 구역을 정리할 때까지 인질들은 나갈 수 없다. 인질들이 안전하게 탈출하고 남은 인질들을 구출하기 위해 동굴을 정리해야 "
+"한다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122C1"
 msgid ""
 "I found the hostages. I should speak to them to let them know the plan."
-msgstr ""
+msgstr "인질들을 찾았다. 인질들에게 계획을 알려줘야겠다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122C2"
@@ -2537,6 +2596,8 @@ msgid ""
 "virus to destroy this place. I need to find and free the other hostages "
 "further down in Shadow Station Epsilon."
 msgstr ""
+"바이러스를 살포해 이 장소를 초토화시킬 수 있는 원격 장치 설치를 끝내기 위해 사히마와 헤어졌다. 비밀 기지 엡실론에 있는 다른 인질들을 "
+"찾아서 풀어줘야 한다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122C3"
@@ -2545,39 +2606,41 @@ msgid ""
 "Shadow Station Epsilon is left alive to deny Djimal's cover story: that "
 "Sahima was killed by Zealots."
 msgstr ""
+"이제 사히마의 알고리즘을 확보했으니, 지말이 지어낸 \"사히마가 광신도들에게 살해당했다\"는 이야기에 반박할 사람이 비밀 기지 엡실론에 "
+"아무도 남지 않도록 해야 한다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122C4"
 msgid ""
 "Now that Sahima is dead, I should search her body for her research slate "
 "that contains her algorithm for the Mourning Device."
-msgstr ""
+msgstr "이제 사히마가 죽었으니, 사히마의 시신에서 모어닝 장치 알고리즘이 담긴 연구 슬레이트를 찾아야겠다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122C5"
 msgid ""
 "I need to kill Sahima to help Djimal end Razma's ties with the Zealots."
-msgstr ""
+msgstr "라즈마와 광신도의 관계를 지말이 끝낼 수 있도록 사히마를 죽여야 한다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122C6"
 msgid ""
 "I found Sahima. I need to make a decision if I want to sacrifice her to help"
 " Djimal end Razma's ties with the Zealots, or let her live."
-msgstr ""
+msgstr "사히마를 찾았다. 라즈마와 광신도의 관계를 지말이 끝낼 수 있도록 사히마를 죽일지, 아니면 살려둘지 결정해야 한다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122C7"
 msgid ""
 "Now that I've made it to Shadow Station Epsilon, I need to find Sahima."
-msgstr ""
+msgstr "이제 비밀 기지 엡실론에 도착했으니 사히마를 찾아야 한다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122C8"
 msgid ""
 "I need to find Sahima and the hostages in Shadow Station Epsilon, north of "
 "Dazra."
-msgstr ""
+msgstr "다즈라 북쪽의 비밀 기지 엡실론에서 사히마와 인질들을 찾아야 한다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122C9"
@@ -2585,20 +2648,21 @@ msgid ""
 "Razma told me Djimal wanted to speak with me before I head out to Shadow "
 "Station Epsilon. I should look for her at House Ka'dic before I leave."
 msgstr ""
+"비밀 기지 엡실론으로 가기 전에 지말이 나와 이야기하고 싶어한다고 라즈마가 말해줬다. 떠나기 전에 카딕의 집에서 지말을 찾아야겠다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122CA"
 msgid ""
 "I was able to discover the location of Sahima and the other hostages: Shadow"
 " Station Epsilon. I need to return to Razma and let her know."
-msgstr ""
+msgstr "사히마와 다른 인질들이 어디 있는지 알아낼 수 있었다. 비밀 기지 엡실론에 있다. 라즈마에게 돌아가서 알려줘야 한다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122CB"
 msgid ""
 "Mirek wasn't very forthcoming, so I'll need to find another way to get the "
 "location of Sahima and the other hostages."
-msgstr ""
+msgstr "마이렉은 솔직하게 정보를 말해주지 않았다. 사히마와 다른 인질들의 위치를 알아낼 다른 방법을 찾아야겠다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "0122CC"
@@ -2607,6 +2671,8 @@ msgid ""
 " and the hostages. I should question them in the upstairs meditation room of"
 " House Ka'dic."
 msgstr ""
+"라즈마는 자기 요원 중 한 명인 마이렉 카딕이 사히마와 인질들이 어디 있는지 알고 있다고 믿는다. 카딕 가문의 저택 위층 명상실에서 "
+"심문해 봐야겠다."
 
 # EDID: SFBGS001LC07Int02_QuasimSlate, REC: BOOK:DESC
 msgctxt "0122F8"
@@ -3508,6 +3574,7 @@ msgid ""
 "I found and executed the traitor, Vaeric Veth'aal. I need to return to his "
 "father Viktor at the Keep in Dazra to provide the ring as proof of death."
 msgstr ""
+"반역자 배릭 베타알을 찾아내 처형했다. 다즈라의 성채에 있는 배릭의 아버지 빅토르에게 돌아가서 처단했다는 증거로 반지를 전해줘야 한다."
 
 # EDID: SFBGS001_MQ04, REC: QUST:CNAM
 msgctxt "013036"
@@ -6551,6 +6618,7 @@ msgid ""
 "I found and executed the traitor, Vaeric Veth'aal. I need to return to his "
 "father Viktor at the Keep in Dazra to provide the ring as proof of death."
 msgstr ""
+"반역자 배릭 베타알을 찾아내 처형했다. 다즈라의 성채에 있는 배릭의 아버지 빅토르에게 돌아가서 처단했다는 증거로 반지를 전해줘야 한다."
 
 # EDID: SFBGS001_MQ04, REC: QUST:CNAM
 msgctxt "014D9A"
@@ -6558,6 +6626,7 @@ msgid ""
 "I found and executed the traitor, Vaeric Veth'aal. I need to return to his "
 "father Viktor at the Keep in Dazra to provide the ring as proof of death."
 msgstr ""
+"반역자 배릭 베타알을 찾아내 처형했다. 다즈라의 성채에 있는 배릭의 아버지 빅토르에게 돌아가서 처단했다는 증거로 반지를 전해줘야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "014DD9"
@@ -6694,6 +6763,8 @@ msgid ""
 "Shadow Station Epsilon is left alive to deny Djimal's cover story: that "
 "Sahima was killed by Zealots."
 msgstr ""
+"이제 사히마의 알고리즘을 확보했으니, 지말이 지어낸 \"사히마가 광신도들에게 살해당했다\"는 이야기에 반박할 사람이 비밀 기지 엡실론에 "
+"아무도 남지 않도록 해야 한다."
 
 # EDID: SFBGS001_MQ03, REC: QUST:CNAM
 msgctxt "014E1D"

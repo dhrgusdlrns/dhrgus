@@ -13,11 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-# EDID: SFBGS001_NPC_VaruunRedeemed_Perk, REC: PERK:DESC
-msgctxt "03380A"
-msgid "EM Resistant"
-msgstr "전자기 저항"
-
 #
 # EDID: SFBGS001_LC08DebugMessage, REC: MESG:DESC
 #, fuzzy
@@ -6886,3 +6881,7 @@ msgid ""
 " way to open it."
 msgstr "아래층으로 내려가려고 하는데 문이 잠겼다. 문을 열 방법을 찾아야 한다."
 
+# EDID: SFBGS001_NPC_VaruunRedeemed_Perk, REC: PERK:DESC
+msgctxt "03380A"
+msgid "EM Resistant"
+msgstr "전자기 저항"

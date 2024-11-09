@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-11-05 15:43+0000\n"
+"PO-Revision-Date: 2024-11-10 09:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -6577,7 +6577,7 @@ msgstr "Default"
 # EDID: SFBGS001_Spacesuit_Redeemed_Armor, REC: ARMO:FULL
 msgctxt "002008"
 msgid "Redeemed Armor NON PLAYABLE"
-msgstr "리딤드 방어구 NON PLAYABLE"
+msgstr "대속자 방어구 NON PLAYABLE"
 
 # EDID: SFBGS001_Clothes_Varuun_Administrator, REC: ARMO:FULL
 msgctxt "002009"
@@ -7855,7 +7855,7 @@ msgstr "시민"
 # EDID: SFBGS001_EncVaruunRedeemed01Template, REC: NPC_:FULL
 msgctxt "0110C0"
 msgid "Redeemed"
-msgstr "리딤드"
+msgstr "대속자"
 
 # EDID: SFBGS001_MS01_AudioLog02Slate, REC: BOOK:ENAM
 msgctxt "0110C1"
@@ -9559,12 +9559,12 @@ msgstr "날라다에게 돌아가기"
 # EDID: SFBGS001_DazraZ03, REC: QUST:NNAM
 msgctxt "011A02"
 msgid "Search the Redeemed's Corpse"
-msgstr "리딤드의 시체 살펴보기"
+msgstr "대속자의 시체 살펴보기"
 
 # EDID: SFBGS001_DazraZ03, REC: QUST:NNAM
 msgctxt "011A03"
 msgid "Kill the Redeemed"
-msgstr "리딤드 죽이기"
+msgstr "대속자 죽이기"
 
 # EDID: SFBGS001_DazraZ03, REC: QUST:NNAM
 msgctxt "011A04"
@@ -17222,7 +17222,7 @@ msgstr ""
 "\n"
 "저는 광신도들이 휘하 함선에 데이터 전송과 업데이트 용도로 쓰고 있는 네트워크에 침투했습니다. 그 후 며칠만에 바이러스를 만들어 엡실론의 "
 "모든 주요 시스템과 이에 연결되어 있는 함선들에 심어 놓는 데 성공했고 지금 이 바이러스들은 이미 잠복 중입니다. 이제 우리가 탈출을 "
-"시도할 시 광신도들을 막을 수단이 생긴 것 같지만 리딤드에 관한 것은 여전히 오리무중입니다.\n"
+"시도할 시 광신도들을 막을 수단이 생긴 것 같지만 대속자에 관한 것은 여전히 오리무중입니다.\n"
 "\n"
 "전 여전히 우리가 소모품 따위가 아니고, 곧 누군가 우릴 구하러 와줄 것으로 믿고 있습니다. 협상이 이루어진다는 말을 들었는데, 어쩌면 "
 "생각보다 자유가 더 가까이에 있는 걸지도 모릅니다."
@@ -17246,7 +17246,7 @@ msgstr ""
 "놈들이 제 사촌들을 어디에다 억류시켜 놓았는지 알아내는 데 성공했습니다. 보안 잠금장치를 관할하는 시스템의 통제권까지 손에 넣었습니다. "
 "지금이라도 제 사촌들을 풀어 줄 수 있지만 순찰 중인 광신도들을 처리하는 것은 다른 문제가 될 것입니다.\n"
 "\n"
-"미해일이 오늘 여러 명의 새 '자산'을 데려왔습니다. 놈들이 하는 말을 들으니 '리딤드'라고 하는 것 같습니다. 광신도들이 저것들을 자기 "
+"미해일이 오늘 여러 명의 새 '자산'을 데려왔습니다. 놈들이 하는 말을 들으니 '대속자'라고 하는 것 같습니다. 광신도들이 저것들을 자기 "
 "편이라 생각할진 몰라도 신체적으로나 정신적으로나 뱀께서 행하신 위대한 설계를 완전히 거역할 정도로 뒤틀린 괴물들일 뿐입니다. 제 능력 "
 "수준에도 불구하고 우리가 탈출 도중 저것들을 맞닥뜨리게 되면 상대도 되지 못할 것 같습니다. 아직 너무나도 위험합니다."
 
@@ -18452,7 +18452,7 @@ msgstr ""
 "최근 나는 위대한 뱀께서 우릴 어떻게 시험하는 것인지 다시 깨달았다. 삶은 참으로 소중한 것이고 내 아내와 딸과 함께 위대한 뱀을 섬기며 "
 "살 수 있다니 참 감사할 따름이다.\n"
 "\n"
-"이리나와 나는 이제 다즈라에서 벌어진 재앙 때문에 캐스미어를 잃었다고 생각되기 시작했다. 아직도 소식을 듣지 못했는데, 캐스미어답지 "
+"이리나와 나는 이제 다즈라에서 벌어진 재난 때문에 캐스미어를 잃었다고 생각되기 시작했다. 아직도 소식을 듣지 못했는데, 캐스미어답지 "
 "않다. 지금쯤이면 어떻게든 연락을 시도했을 텐데. 게다가 이미 저 하늘 위에서, 우릴 지켜 주고 있다고 강렬히 느껴진다는 것이다."
 
 # EDID: SFBGS001_LC13_ZenDesktop, REC: TMLM:ITXT
@@ -18732,7 +18732,7 @@ msgstr "두건 달린 둘케프 가문 정장"
 # EDID: SFBGS001_NPC_MQ05_Phantom_Maleen_Perk, REC: PERK:FULL
 msgctxt "014AC0"
 msgid "Varuun Redeemed Perk"
-msgstr "바룬 리딤드 특성"
+msgstr "바룬 대속자 특성"
 
 # EDID: SFBGS001LC15_MiniBot_Kalyn, REC: NPC_:FULL
 msgctxt "014AC1"
@@ -21802,7 +21802,7 @@ msgstr ""
 "\n"
 "위대한 뱀께서 그렇게 되기를 바라신다!\n"
 "\n"
-"우리는 리딤드들을 이용하여 우리의 길을 가로막는 모든 것을 극복하고 파괴할 것이다!\n"
+"우리는 대속자들을 이용하여 우리의 길을 가로막는 모든 것을 극복하고 파괴할 것이다!\n"
 "\n"
 "위대한 뱀께서 그렇게 되기를 바라신다!"
 
@@ -21881,11 +21881,11 @@ msgstr ""
 "\n"
 "위대한 뱀께서 나에게 명령을 내렸느니라.\n"
 "\n"
-"꿈에서 환상을 보았도다. 다즈라의 이단자들이 우리의 가장 큰 무기가 될 것이다. 그 자들은 리딤드가 될 것이다. 우리의 도구, 우리의 "
+"꿈에서 환상을 보았도다. 다즈라의 이단자들이 우리의 가장 큰 무기가 될 것이다. 그 자들은 대속자가 될 것이다. 우리의 도구, 우리의 "
 "무기, 우리의 승리!\n"
 "\n"
 "이단자의 뉴로앰프와 사악한 과학을 이용할 것이고 우리 것으로 만들 것이다. 그분이 내게 길을 보여 주셨다! 나는 그 자들을 변화시키고, "
-"형상을 만들고, 리딤드가 되게 만들 것이다. 그 자들을 무적으로 만들 것이다.\n"
+"형상을 만들고, 대속자가 되게 만들 것이다. 그 자들을 무적으로 만들 것이다.\n"
 "\n"
 "다즈라의 종말이 가까워졌다! 우리는 모든 것을 무너뜨릴 것이다! 우리는 마지막 이단자가 파괴될 때까지 멈추지 않을 것이니라!"
 
@@ -22007,42 +22007,42 @@ msgstr "임시 대피소"
 # EDID: SFBGS001_EncVaruunRedeemed02, REC: NPC_:FULL
 msgctxt "014D13"
 msgid "Deranged Redeemed"
-msgstr "산만한 리딤드"
+msgstr "산만한 대속자"
 
 # EDID: SFBGS001_EncVaruunRedeemed03, REC: NPC_:FULL
 msgctxt "014D14"
 msgid "Savage Redeemed"
-msgstr "무례한 리딤드"
+msgstr "무례한 대속자"
 
 # EDID: SFBGS001_EncVaruunRedeemed04, REC: NPC_:FULL
 msgctxt "014D15"
 msgid "Vicious Redeemed"
-msgstr "사나운 리딤드"
+msgstr "사나운 대속자"
 
 # EDID: SFBGS001_EncVaruunRedeemed05, REC: NPC_:FULL
 msgctxt "014D16"
 msgid "Frenetic Redeemed"
-msgstr "혼란의 리딤드"
+msgstr "혼란의 대속자"
 
 # EDID: SFBGS001_EncVaruunRedeemed06, REC: NPC_:FULL
 msgctxt "014D17"
 msgid "Maniacal Redeemed"
-msgstr "착란의 리딤드"
+msgstr "착란의 대속자"
 
 # EDID: SFBGS001_EncVaruunRedeemed07, REC: NPC_:FULL
 msgctxt "014D18"
 msgid "Unhinged Redeemed"
-msgstr "광란의 리딤드"
+msgstr "광란의 대속자"
 
 # EDID: SFBGS001_EncVaruunRedeemed08, REC: NPC_:FULL
 msgctxt "014D19"
 msgid "Merciless Redeemed"
-msgstr "무자비한 리딤드"
+msgstr "무자비한 대속자"
 
 # EDID: SFBGS001_LvlVaruunZealot_Redeemed_PowerBoost, REC: NPC_:FULL
 msgctxt "014D1A"
 msgid "Redeemed"
-msgstr "리딤드"
+msgstr "대속자"
 
 # EDID: SFBGS001_CitadelEscapeFurniture, REC: FURN:FULL
 msgctxt "014D1B"
@@ -22143,7 +22143,7 @@ msgstr "콰심"
 # EDID: SFBGS001_LvlVaruunZealot_Redeemed_Aggro, REC: NPC_:FULL
 msgctxt "014D2E"
 msgid "Redeemed"
-msgstr "리딤드"
+msgstr "대속자"
 
 # EDID: SFBGS001_HouseKadicStorageKey, REC: KEYM:FULL
 msgctxt "014D2F"
@@ -22677,7 +22677,7 @@ msgstr "Default"
 # EDID: SFBGS001_Spacesuit_Redeemed_Dark, REC: ARMO:FULL
 msgctxt "014DA4"
 msgid "Redeemed Armor NON PLAYABLE"
-msgstr "리딤드 방어구 NON PLAYABLE"
+msgstr "대속자 방어구 NON PLAYABLE"
 
 # EDID: SFBGS001_Spacesuit_Redeemed_light, REC: ARMO:FULL
 msgctxt "014DA5"
@@ -22687,7 +22687,7 @@ msgstr "Default"
 # EDID: SFBGS001_Spacesuit_Redeemed_light, REC: ARMO:FULL
 msgctxt "014DA6"
 msgid "Redeemed Armor NON PLAYABLE"
-msgstr "리딤드 방어구 NON PLAYABLE"
+msgstr "대속자 방어구 NON PLAYABLE"
 
 # EDID: SFBGS001_Spacesuit_Redeemed_Pale, REC: ARMO:FULL
 msgctxt "014DA7"
@@ -22697,7 +22697,7 @@ msgstr "Default"
 # EDID: SFBGS001_Spacesuit_Redeemed_Pale, REC: ARMO:FULL
 msgctxt "014DA8"
 msgid "Redeemed Armor NON PLAYABLE"
-msgstr "리딤드 방어구 NON PLAYABLE"
+msgstr "대속자 방어구 NON PLAYABLE"
 
 # EDID: SFBGS001_AbVortexHorrorSmallGlowVFX, REC: SPEL:FULL
 msgctxt "014DA9"
@@ -23373,7 +23373,7 @@ msgstr "VehiclePassengerKillWithWeapon"
 # EDID: SFBGS001_NPC_VaruunRedeemed_Perk, REC: PERK:FULL
 msgctxt "03380B"
 msgid "Varuun Redeemed Perk"
-msgstr "바룬 리딤드 특성"
+msgstr "바룬 대속자 특성"
 
 # EDID: SFBGS001_MourningDevice_NPCChairTech03_Console, REC: FURN:FULL
 msgctxt "033C59"

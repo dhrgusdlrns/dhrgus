@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-11-10 09:43+0000\n"
+"PO-Revision-Date: 2024-11-11 13:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -5686,7 +5686,7 @@ msgstr "배릭과 대화하기"
 # EDID: SFBGS001_MQ04, REC: QUST:NNAM
 msgctxt "001BA1"
 msgid "Return to Tane outside"
-msgstr "밖에 있는 타네에게 돌아가기"
+msgstr "밖에 있는 테인에게 돌아가기"
 
 # EDID: SFBGS001_MQ04, REC: QUST:NNAM
 msgctxt "001BA2"

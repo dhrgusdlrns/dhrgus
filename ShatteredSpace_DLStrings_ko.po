@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-11-11 13:43+0000\n"
+"PO-Revision-Date: 2024-11-13 16:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -17458,7 +17458,7 @@ msgstr "최대 동력 +<mag>%"
 # EDID: SFBGS001_Z01Temple_StarPower, REC: MGEF:FULL
 msgctxt "014A4B"
 msgid "Bathe in Starlight"
-msgstr "월광욕"
+msgstr "성광욕"
 
 # EDID: SFBGS001_Z01Temple_ZealotBonusXP, REC: MGEF:DNAM
 msgctxt "014A4C"
@@ -17468,7 +17468,7 @@ msgstr "광신도 상대시 경험치 +<mag>%"
 # EDID: SFBGS001_Z01Temple_ZealotBonusXP, REC: MGEF:FULL
 msgctxt "014A4D"
 msgid "Purification Zeal"
-msgstr "정화 열의"
+msgstr "정화의 열의"
 
 # EDID: SFBGS001_Z01Temple_PainBladeAttuneCOPY0000, REC: MGEF:DNAM
 msgctxt "014A4E"

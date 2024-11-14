@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-11-13 16:43+0000\n"
+"PO-Revision-Date: 2024-11-15 07:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -12986,7 +12986,7 @@ msgstr "장기간의 성전"
 # EDID: SFBGS001LC06_CrusadersHallMuseumPlaque_ArmoryMsg, REC: MESG:FULL
 msgctxt "013113"
 msgid "The Crusaders' Arsenal"
-msgstr "성전군의 무기고"
+msgstr "뱀의 성전군의 무기고"
 
 # EDID: SFBGS001OE16World, REC: WRLD:FULL
 msgctxt "0131C9"
@@ -13056,7 +13056,7 @@ msgstr "볼프-359에서 이룩한 승리"
 # EDID: SFBGS001LC06_CrusadersHallMuseumPlaque_Armory, REC: ACTI:FULL
 msgctxt "0131D8"
 msgid "The Crusaders' Arsenal"
-msgstr "성전군의 무기고"
+msgstr "뱀의 성전군의 무기고"
 
 # EDID: SFBGS001LC06_CrusadersHallMuseumPlaque_SpaceBattle, REC: ACTI:FULL
 msgctxt "0131D9"

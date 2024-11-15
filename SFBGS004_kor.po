@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-23 00:19+0900\n"
-"PO-Revision-Date: 2024-10-09 11:43+0000\n"
+"PO-Revision-Date: 2024-11-15 11:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -712,7 +712,7 @@ msgstr "목표 제거됨."
 #. Speaker: Vasco
 msgctxt "000008"
 msgid "Excellent shooting, Captain."
-msgstr "훌륭한 사격입니다, 선장님."
+msgstr "훌륭한 사격입니다. 선장님."
 
 #. List: 2
 #. EDID: [FE000277]

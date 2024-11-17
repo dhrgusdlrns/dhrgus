@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-10-31 04:27+0000\n"
+"PO-Revision-Date: 2024-11-17 10:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -23818,10 +23818,9 @@ msgstr "밖에서 죽지 말고 조심해."
 #. QUEST: SFBGS003_DialogueTAHQ
 #. EDID = [FD000E4F]
 #. REC = INFO:NAM1
-#, fuzzy
 msgctxt "000683"
 msgid "Until we speak again."
-msgstr "다시 만날 때까지."
+msgstr "나중에 봐."
 
 #. SCRIPT NOTES: 
 #. ALIAS: 

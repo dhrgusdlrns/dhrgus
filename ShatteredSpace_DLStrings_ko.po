@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-11-25 12:43+0000\n"
+"PO-Revision-Date: 2024-11-28 14:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -1072,7 +1072,7 @@ msgstr ""
 "\n"
 "바룬 가문으로부터 발송된 선적물을 추적하는 중...\n"
 "\n"
-"05.11.2330: 자원 보급품 상자 HV-2294G [핑 추적됨]\n"
+"05.11.2330: 자원 보급품 상자 HV-2294G [신호 추적됨]\n"
 "\n"
 "05.02.2330: 의료 용품 HV-1732W [비어졌음]\n"
 "04.27.2330: 무기 상자 HV-1286K [비어졌음]\n"
@@ -1818,7 +1818,7 @@ msgstr "포드 생명 유지 시스템을 중단하기"
 # EDID: SFBGS001_MQ06, REC: QUST:NNAM
 msgctxt "00076D"
 msgid "Release the Phantoms"
-msgstr "팬텀들을 해방시키기"
+msgstr "유령들을 해방시키기"
 
 # EDID: SFBGS001_MQ06, REC: QUST:NNAM
 msgctxt "00076E"
@@ -2698,7 +2698,7 @@ msgstr "오킴의 컴퓨터 비밀번호"
 # EDID: SFBGS001_EncVortexPhantom01Template, REC: NPC_:FULL
 msgctxt "000D14"
 msgid "Vortex Phantom"
-msgstr "볼텍스 팬텀"
+msgstr "볼텍스 유령"
 
 # EDID: SFBGS001_AmmoParticleRocket, REC: AMMO:ONAM
 msgctxt "000D15"
@@ -2991,7 +2991,7 @@ msgstr ""
 "한편 내 친구의 말로는 이번 조사가 끝나기 전까진 바룬카이를 벗어나는 게 좋겠다는 말이 있어서 난 곧 떠나야 할 것 같다. 다만 나에게 "
 "마지막으로 시킬 일 하나가 있다고 하는군.\n"
 "\n"
-"하지만 떠나기 전에 난민 캠프에 가서 마드리에게 작별 인사부터 해야 할 것 같다."
+"하지만 떠나기 전에 난민촌에 가서 마드리에게 작별 인사부터 해야 할 것 같다."
 
 # EDID: SFBGS001_MS01_OchimDesktop_SubMenu01, REC: TMLM:ITXT
 msgctxt "000D8B"
@@ -3687,7 +3687,7 @@ msgstr "의원과 대화하기"
 # EDID: SFBGS001_MQ02, REC: QUST:NNAM
 msgctxt "000F0A"
 msgid "Talk to the Phantom"
-msgstr "팬텀과 대화하기"
+msgstr "유령과 대화하기"
 
 # EDID: SFBGS001_MQ02, REC: QUST:NNAM
 msgctxt "000F0B"
@@ -4322,37 +4322,37 @@ msgstr "방랑자의 오두막"
 # EDID: SFBGS001_EncVortexPhantom08, REC: NPC_:FULL
 msgctxt "001386"
 msgid "Unforgiving Vortex Phantom"
-msgstr "지독한 볼텍스 팬텀"
+msgstr "지독한 볼텍스 유령"
 
 # EDID: SFBGS001_EncVortexPhantom07, REC: NPC_:FULL
 msgctxt "001387"
 msgid "Harrowing Vortex Phantom"
-msgstr "참혹한 볼텍스 팬텀"
+msgstr "참혹한 볼텍스 유령"
 
 # EDID: SFBGS001_EncVortexPhantom06, REC: NPC_:FULL
 msgctxt "001388"
 msgid "Anguished Vortex Phantom"
-msgstr "고뇌하는 볼텍스 팬텀"
+msgstr "고뇌하는 볼텍스 유령"
 
 # EDID: SFBGS001_EncVortexPhantom05, REC: NPC_:FULL
 msgctxt "001389"
 msgid "Forlorn Vortex Phantom"
-msgstr "허망한 볼텍스 팬텀"
+msgstr "허망한 볼텍스 유령"
 
 # EDID: SFBGS001_EncVortexPhantom04, REC: NPC_:FULL
 msgctxt "00138A"
 msgid "Grim Vortex Phantom"
-msgstr "음침한 볼텍스 팬텀"
+msgstr "음침한 볼텍스 유령"
 
 # EDID: SFBGS001_EncVortexPhantom03, REC: NPC_:FULL
 msgctxt "00138B"
 msgid "Woeful Vortex Phantom"
-msgstr "비통한 볼텍스 팬텀"
+msgstr "비통한 볼텍스 유령"
 
 # EDID: SFBGS001_EncVortexPhantom02, REC: NPC_:FULL
 msgctxt "00138C"
 msgid "Hopeless Vortex Phantom"
-msgstr "절망하는 볼텍스 팬텀"
+msgstr "절망하는 볼텍스 유령"
 
 # EDID: SFBGS001_DazraZ01, REC: QUST:FULL
 msgctxt "00138D"
@@ -5255,7 +5255,7 @@ msgstr "바룬 난민 함선"
 # EDID: SFBGS001_VkaiZ03_IrisPhantomName, REC: MESG:FULL
 msgctxt "001911"
 msgid "Vortex Phantom"
-msgstr "볼텍스 팬텀"
+msgstr "볼텍스 유령"
 
 # EDID: SFBGS001_QDTempInteriorMDaniels, REC: LCTN:FULL
 msgctxt "001913"
@@ -5290,12 +5290,12 @@ msgstr "바실리스에게 돌아가기"
 # EDID: SFBGS001_VkaiZ03b, REC: QUST:NNAM
 msgctxt "001994"
 msgid "Deal with the phantom"
-msgstr "팬텀 처리하기"
+msgstr "유령 처리하기"
 
 # EDID: SFBGS001_VkaiZ03b, REC: QUST:NNAM
 msgctxt "001995"
 msgid "Find the Phantom"
-msgstr "팬텀 찾기"
+msgstr "유령 찾기"
 
 # EDID: SFBGS001_VkaiZ03b, REC: QUST:NNAM
 msgctxt "001996"
@@ -5350,12 +5350,12 @@ msgstr "볼텍스 제어장치 가져가기"
 # EDID: SFBGS001_MQ05, REC: QUST:NNAM
 msgctxt "0019DD"
 msgid "Learn More about the Phantoms"
-msgstr "팬텀에 대해 자세히 알아보기"
+msgstr "유령에 대해 자세히 알아보기"
 
 # EDID: SFBGS001_MQ05, REC: QUST:NNAM
 msgctxt "0019DE"
 msgid "Defeat the Phantom"
-msgstr "팬텀 처치하기"
+msgstr "유령 처치하기"
 
 # EDID: SFBGS001_MQ05, REC: QUST:NNAM
 msgctxt "0019DF"
@@ -6281,17 +6281,17 @@ msgstr "전령의 안식처에서 테인이 오길 기다리기"
 # EDID: SFBGS001_EncVortexPhantom00, REC: NPC_:FULL
 msgctxt "001DFC"
 msgid "Vortex Phantom"
-msgstr "볼텍스 팬텀"
+msgstr "볼텍스 유령"
 
 # EDID: SFBGS001_Loot_Corpse_VortexPhantomM_Fresh02, REC: NPC_:FULL
 msgctxt "001DFD"
 msgid "Vortex Phantom"
-msgstr "볼텍스 팬텀"
+msgstr "볼텍스 유령"
 
 # EDID: SFBGS001_Loot_Corpse_VortexPhantomM_Fresh01, REC: NPC_:FULL
 msgctxt "001DFE"
 msgid "Vortex Phantom"
-msgstr "볼텍스 팬텀"
+msgstr "볼텍스 유령"
 
 # EDID: SFBGS001_HV_EkrisKaisir, REC: NPC_:FULL
 msgctxt "001E00"
@@ -6301,12 +6301,12 @@ msgstr "에크리스 카이시어"
 # EDID: SFBGS001_Loot_Corpse_VortexPhantomF_Fresh01, REC: NPC_:FULL
 msgctxt "001E02"
 msgid "Vortex Phantom"
-msgstr "볼텍스 팬텀"
+msgstr "볼텍스 유령"
 
 # EDID: SFBGS001_Loot_Corpse_VortexPhantomF_Fresh02, REC: NPC_:FULL
 msgctxt "001E03"
 msgid "Vortex Phantom"
-msgstr "볼텍스 팬텀"
+msgstr "볼텍스 유령"
 
 # EDID: SFBGS001_BenchA_1Way01, REC: FURN:FULL
 msgctxt "001E05"
@@ -8061,8 +8061,8 @@ msgid ""
 "\n"
 "The Vortex Fields allow nothing to pass, repelling those who enter. We can only speculate what interacting with these Fields too much may lead to."
 msgstr ""
-"볼텍스 역장은 다즈라에서 발생해 오라클 우주정거장을 덮쳤던 에너지의 또 다른 결과물이다. 이 에너지가 보여주는 특징은 볼텍스 팬텀들과 "
-"시각적으로 유사하지만, 공격성이 높은 팬텀들로부터 데이터를 얻을 수가 없기 때문에 둘을 확실하게 비교해볼 수는 없었다.\n"
+"볼텍스 역장은 다즈라에서 발생해 오라클 우주정거장을 덮쳤던 에너지의 또 다른 결과물이다. 이 에너지가 보여주는 특징은 볼텍스 유령들과 "
+"시각적으로 유사하지만, 공격성이 높은 유령들로부터 데이터를 얻을 수가 없기 때문에 둘을 확실하게 비교해볼 수는 없었다.\n"
 "\n"
 "처음에는 볼텍스 역장이 한 두 개만 발견됐을 뿐이었지만, 도약을 거듭할수록 수가 점점 늘어났고, 결국 우릴 다른 구역에 있는 동료들과 "
 "단절시켜 버렸다.\n"
@@ -8078,7 +8078,7 @@ msgstr "볼텍스 역장"
 # EDID: SFBGS001_MQ01_EngineeringAnomalies, REC: TMLM:ITXT
 msgctxt "01114E"
 msgid "Vortex Phantoms"
-msgstr "볼텍스 팬텀"
+msgstr "볼텍스 유령"
 
 # EDID: SFBGS001_MQ01_EngineeringAnomalies, REC: TMLM:FULL
 msgctxt "01114F"
@@ -8094,13 +8094,13 @@ msgid ""
 "\n"
 "Both passive and aggressive Phantoms appear to have issues interacting with their surroundings, but to what extent still remains to be seen."
 msgstr ""
-"소극적인 볼텍스 팬텀은 주변 환경을 제한적으로만 인식할 수 있는 것으로 보인다. 그런 팬텀들이 공격적인 팬텀을 알아보는 것을 목격했지만, "
+"소극적인 볼텍스 유령은 주변 환경을 제한적으로만 인식할 수 있는 것으로 보인다. 그런 유령들이 공격적인 유령을 알아보는 것을 목격했지만, "
 "우리처럼 영향을 받지 않은 사람들과는 의사 소통이 전혀 통하지 않는다는 것이 밝혀졌다.\n"
 "\n"
-"하지만 공격적인 팬텀들은 우리를 찾아내는 데 전혀 문제가 없는 것 같고, 어떤 팬텀들은 다른 팬텀들보다 우리를 더 잘 찾아내는 것 같다. "
+"하지만 공격적인 유령들은 우리를 찾아내는 데 전혀 문제가 없는 것 같고, 어떤 유령들은 다른 유령들보다 우리를 더 잘 찾아내는 것 같다. "
 "어째서 이런 차이가 존재하는지도 확실히 알 수 없다.\n"
 "\n"
-"소극적인 팬텀과 공격적인 팬텀 모두 주변 환경과 상호 작용하는 데는 문제가 있는 것으로 보이지만, 그 문제가 어느 정도인지는 지켜봐야 "
+"소극적인 유령과 공격적인 유령 모두 주변 환경과 상호 작용하는 데는 문제가 있는 것으로 보이지만, 그 문제가 어느 정도인지는 지켜봐야 "
 "한다."
 
 # EDID: SFBGS001_MQ01_NadineVortexPhantomMenu, REC: TMLM:ITXT
@@ -8115,12 +8115,12 @@ msgid ""
 "\n"
 "This ability makes me more certain the energy wave we encountered that triggered the initial transformations was related to grav drive technology. I've consulted with our remaining scientists, Sirak and Basira, and they're in agreement. Due to the hostile nature of the majority of the Vortex Phantoms, it has been impossible to gather more data, but I'm hoping we can find a way."
 msgstr ""
-"볼텍스 팬텀은 일종의 '위상' 능력을 가지고 있다. 간단하게 말하자면, 우리가 팬텀이 한 장소에서 사라졌다가 다른 장소에서 나타나는 것을 "
+"볼텍스 유령은 일종의 '위상' 능력을 가지고 있다. 간단하게 말하자면, 우리가 유령이 한 장소에서 사라졌다가 다른 장소에서 나타나는 것을 "
 "목격했고, 그런 능력을 매복 전술로 이용하는 것도 봤다는 뜻이다. 위상 능력이 사용될 때마다 작은 볼텍스 에너지 폭발이 동반되므로, "
-"우리의 현재 이론은 팬텀들이 어떤 방식으로든 볼텍스 차원을 이용해서 신속 이동을 한다는 것이다.\n"
+"우리의 현재 이론은 유령들이 어떤 방식으로든 볼텍스 차원을 이용해서 신속 이동을 한다는 것이다.\n"
 "\n"
 "이 능력은 우리를 덮쳐 초기 변형을 유발했던 에너지가 중력 구동기 기술과 관련되어 있다는 내 추측을 더 확실하게 만들어준다. 나는 이 "
-"내용을 남아있는 과학자인 시락, 바시라와 함께 의논했고, 그 둘도 동의했다. 대부분의 볼텍스 팬텀들이 적대적인 성향을 가졌기 때문에 더 "
+"내용을 남아있는 과학자인 시락, 바시라와 함께 의논했고, 그 둘도 동의했다. 대부분의 볼텍스 유령들이 적대적인 성향을 가졌기 때문에 더 "
 "많은 데이터를 모으는 건 불가능하지만, 어떻게든 방법을 찾아내기를 바란다."
 
 # EDID: SFBGS001_MQ01_NadineVortexPhantomMenu, REC: TMLM:ITXT
@@ -8137,7 +8137,7 @@ msgid ""
 "\n"
 "It isn't clear what prompts the change from passive to aggressive, but the change appears inevitable for now."
 msgstr ""
-"우리가 오라클에서 마주친 볼텍스 팬텀들은 우리 인간 승무원들이었던 것이 분명하다.\n"
+"우리가 오라클에서 마주친 볼텍스 유령들은 우리 인간 승무원들이었던 것이 분명하다.\n"
 "\n"
 "우리는 다즈라에서 발생해 우리를 덮쳤던 에너지 쇄도가 이 변형을 촉발시켰다고 믿는다. 일부는 즉시 공격적으로 변해 영향을 받지 않은 "
 "사람들을 마구잡이로 공격했다. 다른 이들은 자아를 유지할 수 있으며 소극적인 성향을 보이고 있다.\n"
@@ -8152,12 +8152,12 @@ msgstr "변형"
 # EDID: SFBGS001_MQ01_NadineVortexPhantomMenu, REC: TMLM:BTXT
 msgctxt "011156"
 msgid "Compiled data on \"Vortex Phantoms\""
-msgstr "'볼텍스 팬텀' 항목 데이터 수집"
+msgstr "'볼텍스 유령' 항목 데이터 수집"
 
 # EDID: SFBGS001_MQ01_NadineVortexPhantomMenu, REC: TMLM:FULL
 msgctxt "011157"
 msgid "Vortex Phantoms"
-msgstr "볼텍스 팬텀"
+msgstr "볼텍스 유령"
 
 # EDID: SFBGS001_MQ01_SirakDesktop, REC: TMLM:UNAM
 msgctxt "011158"
@@ -8190,7 +8190,7 @@ msgid ""
 "Basira enlisted my aid in creating a new protocol for the Oracle to follow if we can only reboot the mainframe. Perhaps Nadine can help us connect to the Operations controls through my computer here in order to install it."
 msgstr ""
 "오라클이 다시 도약했고, 두 번째 변형의 파도를 몰고 왔다. 너무 많은 이들을 너무 빨리 잃고 있다. 그리고 정거장이 계속해서 도약한다면 "
-"어떻게 될까? 코렌과 난 통제실에 가서 정거장을 제어해보려고 했지만, 거기엔 공격적인 팬텀들이 넘쳐나고 있었다. 코렌은 살아남지 못했다. "
+"어떻게 될까? 코렌과 난 통제실에 가서 정거장을 제어해보려고 했지만, 거기엔 공격적인 유령들이 넘쳐나고 있었다. 코렌은 살아남지 못했다. "
 "뱀께서 코렌을 감싸 주시길.\n"
 "\n"
 "바시라가 새로운 프로토콜을 만드는 데 내 도움을 요청했다. 메인프레임만 재부팅할 수 있다면 오라클이 새로운 프로토콜을 따를 것이다. "
@@ -8255,7 +8255,7 @@ msgstr "오라클 메인프레임 재부팅하기"
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "011174"
 msgid "Kill the Vortex Phantoms"
-msgstr "볼텍스 팬텀 죽이기"
+msgstr "볼텍스 유령 죽이기"
 
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "011175"
@@ -9149,7 +9149,7 @@ msgid ""
 "\n"
 "Distance will update every second with a deviation of 0.28 seconds."
 msgstr ""
-"주파수 99.014809의 핑을 송신 중...\n"
+"주파수 99.014809의 신호를 송신 중...\n"
 "\n"
 "인근 스캐너로 신호를 보내는 중...\n"
 "\n"
@@ -9158,7 +9158,7 @@ msgstr ""
 # EDID: SFBGS001LC20_ForemanTerminalSubMenu, REC: TMLM:ITXT
 msgctxt "011647"
 msgid "Ping recently supplied crates"
-msgstr "최근 출하된 선적물에 핑 신호 송신하기"
+msgstr "최근 출하된 선적물에 신호 송신하기"
 
 # EDID: SFBGS001_MS01_Message_BrotherOnamide, REC: MESG:FULL
 msgctxt "011648"
@@ -12262,7 +12262,7 @@ msgstr "동굴"
 #, fuzzy
 msgctxt "0128B5"
 msgid "Crossed Shard Camp"
-msgstr "교차된 파편 캠프"
+msgstr "엇갈린 파편 캠프"
 
 # EDID: SFBGS001OE13Location, REC: LCTN:FULL
 msgctxt "0128B6"
@@ -12686,7 +12686,7 @@ msgstr "(선택) 테인에게 다시 추적자 일을 하자고 말하기"
 # EDID: SFBGS001_MQ04, REC: QUST:NNAM
 msgctxt "01302F"
 msgid "Follow the tracker's ping to find Vaeric"
-msgstr "추적자의 신호를 따라가 배릭 찾기"
+msgstr "추적기 신호를 따라가 배릭 찾기"
 
 # EDID: SFBGS001_MS04_Key, REC: KEYM:FULL
 msgctxt "013059"
@@ -12867,7 +12867,7 @@ msgstr "바룬 광부"
 # EDID: SFBGS001_LvlVortexPhantom_Assault_Aggro_Essential_Test, REC: NPC_:FULL
 msgctxt "0130FA"
 msgid "Essential Vortex Phantom"
-msgstr "에센셜 볼텍스 팬텀"
+msgstr "에센셜 볼텍스 유령"
 
 # EDID: SFBGS001_VkaiZ03_Toyplushie_Dog01, REC: MISC:FULL
 msgctxt "0130FC"
@@ -21491,7 +21491,7 @@ msgctxt "014CAE"
 msgid ""
 "Many of the displaced citizens of Dazra have been forced to relocate to a "
 "refugee camp set up on an unused landing pad at the starport."
-msgstr "다즈라의 수많은 이재민들은 우주항의 사용하지 않는 착륙장에 설치된 난민 캠프로 강제 이주해야 했습니다."
+msgstr "다즈라의 수많은 이재민들은 우주항의 사용하지 않는 착륙장에 설치된 난민촌으로 강제 이주해야 했습니다."
 
 # EDID: SFBGS001_LS_Groat01, REC: LSCR:DESC
 msgctxt "014CAF"
@@ -23093,7 +23093,7 @@ msgstr "Quick Test Cell"
 # NPC_:FULL
 msgctxt "014E14"
 msgid "Essential Vortex Phantom"
-msgstr "에센셜 볼텍스 팬텀"
+msgstr "에센셜 볼텍스 유령"
 
 # EDID: Loot_Mannequin_Spacesuit_Varuun_Crater, REC: NPC_:ATTX
 msgctxt "014E15"
@@ -23190,7 +23190,7 @@ msgstr "<dur> 동안 공허 형상"
 # EDID: SFBGS001_MQ05, REC: QUST:NNAM
 msgctxt "014E29"
 msgid "Learn More About the Phantoms"
-msgstr "팬텀에 대해 자세히 알아보기"
+msgstr "유령에 대해 자세히 알아보기"
 
 # EDID: SFBGS001_MQ05, REC: QUST:NNAM
 msgctxt "014E2A"

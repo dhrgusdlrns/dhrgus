@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-12-01 12:13+0000\n"
-"Last-Translator: Nickelpie <aodcldud@gmail.com>\n"
+"PO-Revision-Date: 2024-12-03 06:43+0000\n"
+"Last-Translator: 암라스 <amrasanor@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -3519,7 +3519,6 @@ msgid "4"
 msgstr "4"
 
 # EDID: SFBGS001_MS01_CipherMessage08, REC: MESG:ITXT
-#, fuzzy
 msgctxt "000EAF"
 msgid "3"
 msgstr "3"

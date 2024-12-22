@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-23 00:19+0900\n"
-"PO-Revision-Date: 2024-11-15 11:43+0000\n"
+"PO-Revision-Date: 2024-12-23 13:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -2955,7 +2955,7 @@ msgstr "내가 빙고에 적은 그대로 행동하고 있네."
 #. Speaker: SamCoe
 msgctxt "00011B"
 msgid "Easy!"
-msgstr "쉬운걸!"
+msgstr "진정해!"
 
 #. List: 2
 #. EDID: [FE000141]
@@ -4728,7 +4728,7 @@ msgstr "베개처럼 부드럽게."
 #. REC: INFO:NAM1
 msgctxt "000252"
 msgid "Easy does it."
-msgstr "식은죽먹기지."
+msgstr "식은 죽 먹기지."
 
 #. List: 2
 #. EDID: [FE0002F4]

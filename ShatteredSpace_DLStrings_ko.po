@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-12-03 06:43+0000\n"
-"Last-Translator: 암라스 <amrasanor@naver.com>\n"
+"PO-Revision-Date: 2024-12-28 15:43+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1355,7 +1355,7 @@ msgstr ""
 "허락된 인원이라 할지라도 필요하다면 적절한 출입이 가능하도록 해 주게.\n"
 "\n"
 "야드라 자비\n"
-"카딕 가문 집행자"
+"카딕 가문 실무관"
 
 # EDID: SFBGS001LC07Int01_AdminTerminal_Genesis, REC: TMLM:ITXT
 msgctxt "000708"
@@ -2130,7 +2130,7 @@ msgstr "역겨운 볼텍스 호러"
 # EDID: SFBGS001_MS01_MinistryOfCommerceOfficial02, REC: NPC_:FULL
 msgctxt "000B5E"
 msgid "Executor"
-msgstr "집행자"
+msgstr "실무관"
 
 # EDID: SFBGS001_EncVortexHorror07, REC: NPC_:FULL
 msgctxt "000B5F"
@@ -2924,8 +2924,8 @@ msgid ""
 "Supervising Executor: Qisrani Dul'kehf"
 msgstr ""
 "소속 성: 상무성\n"
-"집행자: 우카루 둘케프\n"
-"상위 집행자: 키스라니 둘케프"
+"실무관: 우카루 둘케프\n"
+"상위 실무관: 키스라니 둘케프"
 
 # EDID: SFBGS001_MS01_Clue01Activator, REC: MESG:FULL
 msgctxt "000D4E"
@@ -3887,7 +3887,7 @@ msgstr "경비대장"
 # EDID: SFBGS001_MS01_JandarRestCitizen01, REC: MESG:FULL
 msgctxt "000FFB"
 msgid "Warden"
-msgstr "관리인"
+msgstr "교정관"
 
 # EDID: SFBGS001_MS01_LvlVaruunZealot_Herald, REC: NPC_:FULL
 msgctxt "00105A"
@@ -4172,7 +4172,7 @@ msgstr "우카루의 컴퓨터에서 삭제된 기록에 접속하기"
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "001331"
 msgid "Listen to the discussion"
-msgstr "논의 내용 듣기"
+msgstr "언쟁 내용 듣기"
 
 # EDID: SFBGS001_MS01_MujeenComputerDesktop, REC: TMLM:UNAM
 msgctxt "001334"
@@ -5770,7 +5770,7 @@ msgstr "빅토르와 대화하기"
 # EDID: SFBGS001_MQ04, REC: QUST:NNAM
 msgctxt "001BB2"
 msgid "(Optional) Listen to the discussion"
-msgstr "(선택) 논의하는 내용 듣기"
+msgstr "(선택) 언쟁 내용 듣기"
 
 # EDID: SFBGS001_MQ04, REC: QUST:NNAM
 msgctxt "001BB3"
@@ -11548,7 +11548,7 @@ msgid ""
 "\n"
 "Finding this evidence will be a boon to my household. With a baby on the way, I pray to the Great Serpent my service will be rewarded."
 msgstr ""
-"여러 사항들을 살펴 보니 우린 이곳에 있는 것들처럼 작은 급의 함선들을 추적해야겠다. 베타알의 관리인이라면 분명 이 기록들을 꼭 읽고 "
+"여러 사항들을 살펴 보니 우린 이곳에 있는 것들처럼 작은 급의 함선들을 추적해야겠다. 베타알의 교정관이라면 분명 이 기록들을 꼭 읽고 "
 "싶어 하겠지.\n"
 "\n"
 "이 증거를 찾는 건 나의 가족에게 큰 기쁨이 될 것이다. 곧 아이가 태어날 예정이니, 부디 내가 섬긴 만큼 후한 보상을 받을 수 있기를 "
@@ -14087,12 +14087,12 @@ msgstr "Quick Test Cell"
 # EDID: SFBGS001_GenericWarden_Female01, REC: NPC_:FULL
 msgctxt "013880"
 msgid "Warden"
-msgstr "관리인"
+msgstr "교정관"
 
 # EDID: SFBGS001_GenericWarden_Female03, REC: NPC_:FULL
 msgctxt "013881"
 msgid "Warden"
-msgstr "관리인"
+msgstr "교정관"
 
 # EDID: SFBGS001_GenericEnvoy_Male01, REC: NPC_:FULL
 msgctxt "013882"
@@ -14107,12 +14107,12 @@ msgstr "대표"
 # EDID: SFBGS001_GenericWarden_Male02, REC: NPC_:FULL
 msgctxt "013884"
 msgid "Warden"
-msgstr "관리인"
+msgstr "교정관"
 
 # EDID: SFBGS001_GenericWarden_Male04, REC: NPC_:FULL
 msgctxt "013885"
 msgid "Warden"
-msgstr "관리인"
+msgstr "교정관"
 
 # EDID: SFBGS001_GenericEnvoy_Female05, REC: NPC_:FULL
 msgctxt "013886"
@@ -14790,22 +14790,22 @@ msgstr "전령의 방 열쇠"
 # EDID: SFBGS001_GenericExecutor_Female06, REC: NPC_:FULL
 msgctxt "0140EC"
 msgid "Executor"
-msgstr "집행자"
+msgstr "실무관"
 
 # EDID: SFBGS001_GenericExecutor_Female07, REC: NPC_:FULL
 msgctxt "0140ED"
 msgid "Executor"
-msgstr "집행자"
+msgstr "실무관"
 
 # EDID: SFBGS001_GenericExecutor_Male05, REC: NPC_:FULL
 msgctxt "0140EE"
 msgid "Executor"
-msgstr "집행자"
+msgstr "실무관"
 
 # EDID: SFBGS001_GenericExecutor_Male07, REC: NPC_:FULL
 msgctxt "0140EF"
 msgid "Executor"
-msgstr "집행자"
+msgstr "실무관"
 
 # EDID: SFBGS001_LC48_Captain, REC: NPC_:FULL
 msgctxt "0140F0"
@@ -15504,7 +15504,7 @@ msgstr ""
 "\n"
 "\n"
 "야드라 자비\n"
-"카딕 가문 집행자"
+"카딕 가문 실무관"
 
 # EDID: SFBGS001LC07Int01_AdminTerminal_Genesis, REC: TMLM:ITXT
 msgctxt "0143EA"
@@ -16579,7 +16579,7 @@ msgstr ""
 "장관이시니, 내게 무슨 조치를 취하게 될지 확실히 잘 알고 있다.\n"
 "\n"
 "이제서야 나 때문에 아버지께서 어떤 갈등에 봉착하게 됐는지 알게 됐다. 아버지께서 날 그냥 놓아 주실지, 아니면 어느 날 베타알 가문의 "
-"관리인이 날 없애러 올지는 그 누구도 모르는 일이다."
+"교정관이 날 없애러 올지는 그 누구도 모르는 일이다."
 
 # EDID: SFBGS001_MQ04_VaericTerminalDesktop, REC: TMLM:ITXT
 msgctxt "014956"
@@ -19866,7 +19866,7 @@ msgid ""
 "\n"
 "Vaeric's execution must be carried out before I can announce his heresy and release myself from this burden. I will not have the public discover my hesitation allowed a heretic to go free, especially when that heretic is my own son. But who is trustworthy enough and possesses the skills to follow through?"
 msgstr ""
-"내 가문의 관리인들이 다즈라 시티에서 법치와 질서를 세우기 위해 최선을 다하고 있는데, 대의회는 전력망 때문에 날 귀찮게 하고 있다. "
+"내 가문의 교정관들이 다즈라 시티에서 법치와 질서를 세우기 위해 최선을 다하고 있는데, 대의회는 전력망 때문에 날 귀찮게 하고 있다. "
 "그래서 일 때문에 녹초가 됐다고 말하고 싶지만, 사실 나는 지금 집중을 전혀 못하고 있는 실정이다. 내 아들과 나 사이에 벌어진 일이 "
 "마음을 무겁게 짓누르고 있기 때문이다.\n"
 "\n"
@@ -19920,9 +19920,9 @@ msgstr ""
 "바스티도 그중 하나였다. 비늘 성채는 이제 분화구 한가운데에 서 있는데, 마치 위대한 뱀께서 자비를 베푸실 때에도 가려서 내려 주신다는 "
 "걸 우리에게 직접 보여주시는 듯한 모습이다.\n"
 "\n"
-"다른 가문들과의 논의는 아무런 성과도 없었다. 결합성의 사절들은 우리 모두가 목도한 재앙의 원인이라 볼 수 있는 기술에 대한 보고를 전혀 "
-"하지 못했고, 내 가문의 관리인들조차 단 하나의 보안 침해도 감지하지 못했다. 우리가 할 수 있는 일은 그저 이 여파 속에서 살아남아 더 "
-"큰 폭풍의 눈 속에 머무르고 있는 게 아니길 바라는 것뿐이다.\n"
+"다른 가문들과 논의했으나 아무런 성과도 없었다. 결합성의 사절들은 우리 모두가 목도한 재앙의 원인이라 볼 수 있는 기술에 대한 보고를 "
+"전혀 하지 못했고, 내 가문의 교정관들조차 단 하나의 보안 침해도 감지하지 못했다. 우리가 할 수 있는 일은 그저 이 여파 속에서 "
+"살아남아 더 큰 폭풍의 눈 속에 머무르고 있는 게 아니길 바라는 것뿐이다.\n"
 "\n"
 "나는 위대한 뱀께서 우리를 시험하신다고 믿을 것이며, 신민들이 신앙을 잃지 않도록 최선을 다할 것이다."
 

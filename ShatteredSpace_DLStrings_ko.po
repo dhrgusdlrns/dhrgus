@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2024-12-28 15:43+0000\n"
+"PO-Revision-Date: 2024-12-30 02:56+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -1246,7 +1246,7 @@ msgstr "[기록 삭제됨]"
 # EDID: SFBGS001_MS01_UkaruComputerDesktopMenu01, REC: TMLM:FULL
 msgctxt "0006FC"
 msgid "Ukaru Dul'kehf's Logs"
-msgstr "우카루 둘케프의 기록"
+msgstr "우카루 둘케프의 일지"
 
 # EDID: SFBGS001LC20_ForemanTerminalMenu, REC: TMLM:UNAM
 msgctxt "0006FD"
@@ -2945,7 +2945,7 @@ msgstr "원격 접속 기록"
 # EDID: SFBGS001_MS01_UkaruClue01, REC: BOOK:FULL
 msgctxt "000D60"
 msgid "Remote Access Log Dump"
-msgstr "원격 접속 로그 덤프"
+msgstr "원격 접속 기록 덤프"
 
 # EDID: SFBGS001_MQ02_TestLocation, REC: LCTN:FULL
 msgctxt "000D61"
@@ -4167,7 +4167,7 @@ msgstr "Quick Test Cell"
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "001330"
 msgid "Access the deleted logs on Ukaru's Computer"
-msgstr "우카루의 컴퓨터에서 삭제된 기록에 접속하기"
+msgstr "우카루의 컴퓨터에서 삭제된 일지에 접속하기"
 
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "001331"

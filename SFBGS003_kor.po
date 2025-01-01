@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2024-11-17 10:43+0000\n"
-"Last-Translator: singularity <eldergmg@gmail.com>\n"
+"PO-Revision-Date: 2025-01-01 11:09+0000\n"
+"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -2724,31 +2724,31 @@ msgstr "현상수배: 벌처"
 #. REC = MESG:FULL
 msgctxt "00096B"
 msgid "Jo \"Fireball\" Starr"
-msgstr "조 \"화염탄\" 스타"
+msgstr "조 '화염탄' 스타"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_213
 #. REC = MESG:FULL
 msgctxt "00096C"
 msgid "Frankie \"Joker\" Cassidy"
-msgstr "프랭키 \"익살꾼\" 캐시디"
+msgstr "프랭키 '익살꾼' 캐시디"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_212
 #. REC = MESG:FULL
 msgctxt "00096D"
 msgid "Ward \"Dynamo\" Turner"
-msgstr "워드 \"전기과장\" 터너"
+msgstr "워드 '전기과장' 터너"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_211
 #. REC = MESG:FULL
 msgctxt "00096E"
 msgid "Wynn \"Drifter\" Bell"
-msgstr "윈 \"방랑아\" 벨"
+msgstr "윈 '방랑아' 벨"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_210
 #. REC = MESG:FULL
 msgctxt "00096F"
 msgid "Syd \"Wildcard\" Parker"
-msgstr "시드 \"비장의 카드\" 파커"
+msgstr "시드 '비장의 카드' 파커"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_239
 #. REC = MESG:FULL
@@ -2814,7 +2814,7 @@ msgstr "그림자 바샤"
 #. REC = MESG:FULL
 msgctxt "00097A"
 msgid "Paz \"Nine-Lives\" Bass"
-msgstr "파즈 \"아홉 목숨\" 베이스"
+msgstr "파즈 '아홉 목숨' 베이스"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_228
 #. REC = MESG:FULL
@@ -2856,7 +2856,7 @@ msgstr "보안관 오모보왈레"
 #. REC = MESG:FULL
 msgctxt "000981"
 msgid "Chance \"Jinx\" Smith"
-msgstr "찬스 \"흉조\" 스미스"
+msgstr "찬스 '흉조' 스미스"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_246
 #. REC = MESG:FULL
@@ -2958,37 +2958,37 @@ msgstr "애연가 오우수"
 #. REC = MESG:FULL
 msgctxt "000992"
 msgid "Montana \"Juggernaut\" Lopez"
-msgstr "몬타나 \"막무가내\" 로페즈"
+msgstr "몬타나 '막무가내' 로페즈"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_206
 #. REC = MESG:FULL
 msgctxt "000993"
 msgid "Cash \"Undertow\" Hernandez"
-msgstr "캐시 \"역잠류\" 에르난데스"
+msgstr "캐시 '역잠류' 에르난데스"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_205
 #. REC = MESG:FULL
 msgctxt "000994"
 msgid "Sawyer \"Hotwire\" Sweeney"
-msgstr "소이어 \"열선\" 스위니"
+msgstr "소이어 '열선' 스위니"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_204
 #. REC = MESG:FULL
 msgctxt "000995"
 msgid "Eli \"Jackpot\" O'Keeffe"
-msgstr "엘리 \"대박\" 오키프"
+msgstr "엘리 '대박' 오키프"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_203
 #. REC = MESG:FULL
 msgctxt "000996"
 msgid "Lake \"Hypnotic\" Fitzpatrick"
-msgstr "레이크 \"최면술사\" 피츠패트릭"
+msgstr "레이크 '최면술사' 피츠패트릭"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_202
 #. REC = MESG:FULL
 msgctxt "000997"
 msgid "Wade \"Big Boom\" Flynn"
-msgstr "웨이드 \"굉음\" 플린"
+msgstr "웨이드 '굉음' 플린"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_187
 #. REC = MESG:FULL
@@ -3030,7 +3030,7 @@ msgstr "꼬맹이 케리"
 #. REC = MESG:FULL
 msgctxt "00099E"
 msgid "Quincy \"Aftershock\" Jacobs"
-msgstr "퀸시 \"여진\" 제이콥스"
+msgstr "퀸시 '여진' 제이콥스"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_224
 #. REC = MESG:FULL
@@ -3132,7 +3132,7 @@ msgstr "냉혈한 로빈"
 #. REC = MESG:FULL
 msgctxt "0009AF"
 msgid "Zhenya \"Joker\" Pryce"
-msgstr "젠야 \"익살꾼\" 프라이스"
+msgstr "젠야 '익살꾼' 프라이스"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_151
 #. REC = MESG:FULL
@@ -3186,7 +3186,7 @@ msgstr "수장 소콜로프"
 #. REC = MESG:FULL
 msgctxt "0009B8"
 msgid "Coda \"Dark Blade\" Carver"
-msgstr "코다 \"칠흑도\" 카버"
+msgstr "코다 '칠흑도' 카버"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_172
 #. REC = MESG:FULL
@@ -3228,7 +3228,7 @@ msgstr "강탈자 에인절"
 #. REC = MESG:FULL
 msgctxt "0009BF"
 msgid "Wren \"Hypnotic\" Pietrzak"
-msgstr "렌 \"최면술사\" 피에트르자크"
+msgstr "렌 '최면술사' 피에트르자크"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_195
 #. REC = MESG:FULL
@@ -3288,37 +3288,37 @@ msgstr "이교도 애쉬"
 #. REC = MESG:FULL
 msgctxt "0009C9"
 msgid "Arden \"Aftershock\" Jackson"
-msgstr "아든 \"여진\" 잭슨"
+msgstr "아든 '여진' 잭슨"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_128
 #. REC = MESG:FULL
 msgctxt "0009CA"
 msgid "Emlyn \"Jinx\" Lopez"
-msgstr "엠린 \"흉조\" 로페즈"
+msgstr "엠린 '흉조' 로페즈"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_127
 #. REC = MESG:FULL
 msgctxt "0009CB"
 msgid "Dylan \"Juggernaut\" Martinez"
-msgstr "딜런 \"막무가내\" 마르티네즈"
+msgstr "딜런 '막무가내' 마르티네즈"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_126
 #. REC = MESG:FULL
 msgctxt "0009CC"
 msgid "Reese \"Undertow\" Lebedev"
-msgstr "리즈 \"역잠류\" 레베데프"
+msgstr "리즈 '역잠류' 레베데프"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_125
 #. REC = MESG:FULL
 msgctxt "0009CD"
 msgid "Bryn \"Hotwire\" Denisovich"
-msgstr "브린 \"열선\" 데니소비치"
+msgstr "브린 '열선' 데니소비치"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_124
 #. REC = MESG:FULL
 msgctxt "0009CE"
 msgid "Bellamy \"Jackpot\" Stasevich"
-msgstr "벨라미 \"대박\" 스타세비치"
+msgstr "벨라미 '대박' 스타세비치"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_166
 #. REC = MESG:FULL
@@ -3330,7 +3330,7 @@ msgstr "재기불능 키어런"
 #. REC = MESG:FULL
 msgctxt "0009D0"
 msgid "Blake \"Big Boom\" Jankowski"
-msgstr "블레이크 \"굉음\" 얀코프스키"
+msgstr "블레이크 '굉음' 얀코프스키"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_121
 #. REC = MESG:FULL
@@ -3408,19 +3408,19 @@ msgstr "시꺼먼 코스모"
 #. REC = MESG:FULL
 msgctxt "0009DD"
 msgid "Ash \"Stiches\" Bianchi"
-msgstr "애쉬 \"봉합침\" 비앙키"
+msgstr "애쉬 '봉합침' 비앙키"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_138
 #. REC = MESG:FULL
 msgctxt "0009DE"
 msgid "Vasya \"Nine-Lives\" Smith"
-msgstr "바샤 \"아홉 목숨\" 스미스"
+msgstr "바샤 '아홉 목숨' 스미스"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_137
 #. REC = MESG:FULL
 msgctxt "0009DF"
 msgid "Sasha \"Fireball\" Adams"
-msgstr "사샤 \"화염탄\" 애덤스"
+msgstr "사샤 '화염탄' 애덤스"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_152
 #. REC = MESG:FULL
@@ -3462,7 +3462,7 @@ msgstr "추잡한 벡"
 #. REC = MESG:FULL
 msgctxt "0009E6"
 msgid "Finley \"No Alibi\" Parker"
-msgstr "핀리 \"유구무언\" 파커"
+msgstr "핀리 '유구무언' 파커"
 
 #. EDID = SFBGS003_BountyTarget_Name_M_243
 #. REC = MESG:FULL
@@ -3606,7 +3606,7 @@ msgstr "하찮은 무어"
 #. REC = MESG:FULL
 msgctxt "0009FE"
 msgid "Leone \"Bloody Nose\" Matsura"
-msgstr "리온 \"피범벅 코\" 마츠라"
+msgstr "리온 '피범벅 코' 마츠라"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_108
 #. REC = MESG:FULL
@@ -3630,19 +3630,19 @@ msgstr "야생아 오우수"
 #. REC = MESG:FULL
 msgctxt "000A02"
 msgid "Peja \"Dynamo\" Schwartz"
-msgstr "페야 \"전기과장\" 슈바르츠"
+msgstr "페야 '전기과장' 슈바르츠"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_134
 #. REC = MESG:FULL
 msgctxt "000A03"
 msgid "Jedrek \"Drifter\" Silverman"
-msgstr "제드렉 \"방랑아\" 실버만"
+msgstr "제드렉 '방랑아' 실버만"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_133
 #. REC = MESG:FULL
 msgctxt "000A04"
 msgid "Kosmo \"Wildcard\" Cohen"
-msgstr "코스모 \"비장의 카드\" 코헨"
+msgstr "코스모 '비장의 카드' 코헨"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_116
 #. REC = MESG:FULL
@@ -3666,37 +3666,37 @@ msgstr "레인저 송"
 #. REC = MESG:FULL
 msgctxt "000A08"
 msgid "Vasya \"Nine-Lives\" Steiner"
-msgstr "바샤 \"아홉 목숨\" 슈타이너"
+msgstr "바샤 '아홉 목숨' 슈타이너"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_71
 #. REC = MESG:FULL
 msgctxt "000A09"
 msgid "Sasha \"Fireball\" Robert"
-msgstr "사샤 \"화염탄\" 로버트"
+msgstr "사샤 '화염탄' 로버트"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_70
 #. REC = MESG:FULL
 msgctxt "000A0A"
 msgid "Zhenya \"Joker\" Chan"
-msgstr "젠야 \"익살꾼\" 챈"
+msgstr "젠야 '익살꾼' 챈"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_69
 #. REC = MESG:FULL
 msgctxt "000A0B"
 msgid "Peja \"Dynamo\" Phan"
-msgstr "페야 \"전기과장\" 판"
+msgstr "페야 '전기과장' 판"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_68
 #. REC = MESG:FULL
 msgctxt "000A0C"
 msgid "Jedrek \"Drifter\" Lim"
-msgstr "제드렉 \"방랑아\" 임"
+msgstr "제드렉 '방랑아' 임"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_67
 #. REC = MESG:FULL
 msgctxt "000A0D"
 msgid "Kosmo \"Wildcard\" Kobayashi"
-msgstr "코스모 \"비장의 카드\" 코바야시"
+msgstr "코스모 '비장의 카드' 코바야시"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_109
 #. REC = MESG:FULL
@@ -3708,31 +3708,31 @@ msgstr "보안관 카펜터"
 #. REC = MESG:FULL
 msgctxt "000A0F"
 msgid "Coda \"Dark Blade\" Ahn"
-msgstr "코다 \"칠흑도\" 안"
+msgstr "코다 '칠흑도' 안"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_64
 #. REC = MESG:FULL
 msgctxt "000A10"
 msgid "Finley \"No Alibi\" Liu"
-msgstr "핀리 \"유구무언\" 리우"
+msgstr "핀리 '유구무언' 리우"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_63
 #. REC = MESG:FULL
 msgctxt "000A11"
 msgid "Quinn \"Lockjaw\" Wang"
-msgstr "퀸 \"개구장애\" 왕"
+msgstr "퀸 '개구장애' 왕"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_62
 #. REC = MESG:FULL
 msgctxt "000A12"
 msgid "Arden \"Aftershock\" Agung"
-msgstr "아든 \"여진\" 아궁"
+msgstr "아든 '여진' 아궁"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_61
 #. REC = MESG:FULL
 msgctxt "000A13"
 msgid "Emlyn \"Jinx\" Patel"
-msgstr "엠린 \"흉조\" 파텔"
+msgstr "엠린 '흉조' 파텔"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_90
 #. REC = MESG:FULL
@@ -3744,7 +3744,7 @@ msgstr "폭주하는 모로"
 #. REC = MESG:FULL
 msgctxt "000A15"
 msgid "Ash \"Stiches\" Petit"
-msgstr "애쉬 \"봉합침\" 프티"
+msgstr "애쉬 '봉합침' 프티"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_88
 #. REC = MESG:FULL
@@ -3948,43 +3948,43 @@ msgstr "페드로 플로레스"
 #. REC = MESG:FULL
 msgctxt "000A37"
 msgid "Dylan \"Juggernaut\" Singh"
-msgstr "딜런 \"막무가내\" 싱"
+msgstr "딜런 '막무가내' 싱"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_59
 #. REC = MESG:FULL
 msgctxt "000A38"
 msgid "Reese \"Undertow\" Sahu"
-msgstr "리즈 \"역잠류\" 사후"
+msgstr "리즈 '역잠류' 사후"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_58
 #. REC = MESG:FULL
 msgctxt "000A39"
 msgid "Bryn \"Hotwire\" Pathan"
-msgstr "브린 \"열선\" 파탄"
+msgstr "브린 '열선' 파탄"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_57
 #. REC = MESG:FULL
 msgctxt "000A3A"
 msgid "Bellamy \"Jackpot\" Giri"
-msgstr "벨라미 \"대박\" 기리"
+msgstr "벨라미 '대박' 기리"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_56
 #. REC = MESG:FULL
 msgctxt "000A3B"
 msgid "Wren \"Hypnotic\" Choudhary"
-msgstr "렌 \"최면술사\" 초드하리"
+msgstr "렌 '최면술사' 초드하리"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_55
 #. REC = MESG:FULL
 msgctxt "000A3C"
 msgid "Blake \"Big Boom\" Khan"
-msgstr "블레이크 \"굉음\" 칸"
+msgstr "블레이크 '굉음' 칸"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_13
 #. REC = MESG:FULL
 msgctxt "000A3D"
 msgid "Quinn \"Lockjaw\" Hernandez"
-msgstr "퀸 \"개구장애\" 에르난데스"
+msgstr "퀸 '개구장애' 에르난데스"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_53
 #. REC = MESG:FULL
@@ -4032,7 +4032,7 @@ msgstr "냉혈한 마틴"
 #. REC = MESG:FULL
 msgctxt "000A45"
 msgid "Tal \"Stiches\" Doolin"
-msgstr "탈 \"봉합침\" 둘린"
+msgstr "탈 '봉합침' 둘린"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_06
 #. REC = MESG:FULL
@@ -4212,7 +4212,7 @@ msgstr "군왕 로빈슨"
 #. REC = MESG:FULL
 msgctxt "000A63"
 msgid "Morgan \"Lockjaw\" Flores"
-msgstr "모건 \"개구장애\" 플로레스"
+msgstr "모건 '개구장애' 플로레스"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_74
 #. REC = MESG:FULL
@@ -7992,7 +7992,7 @@ msgstr "거트루드 나바로"
 #. REC = MESG:FULL
 msgctxt "000CD9"
 msgid "Leone \"Bloody Nose\" Anderson"
-msgstr "리온 \"피범벅 코\" 앤더슨"
+msgstr "리온 '피범벅 코' 앤더슨"
 
 #. EDID = SFBGS003_BountyTarget_Name_F_64
 #. REC = MESG:FULL
@@ -9777,8 +9777,8 @@ msgstr ""
 "배저\n"
 "배저에 대해 알려진 바는 거의 없다. 배저는 어느 날 나타났고, 얼굴을 드러낸 적이 없으며, 아주 가끔 몇 마디를 할 뿐이었다. 그러나 "
 "배저는 최고 중의 최고로 알려졌고, 거의 100년 동안 추적자 동맹 역사상 가장 많은 현상금을 기록했다. 전해지는 바에 따르면, 배저는 "
-"한번도 수배범을 놓친 적이 없다고 한다. 배저는 대행인 1호에 대한 규칙과 전통뿐만 아니라 추적자 동맹의 좌우명인 \"관용을 보이지 "
-"마라. 자비를 베풀지 마라.\"에 영감을 제공했다는 전설이 있다."
+"한번도 수배범을 놓친 적이 없다고 한다. 배저는 대행인 1호에 대한 규칙과 전통뿐만 아니라 추적자 동맹의 좌우명인 '관용을 보이지 마라. "
+"자비를 베풀지 마라.'에 영감을 제공했다는 전설이 있다."
 
 #. EDID = SFBGS003_TAHQ_TrackerHistory_Book
 #. REC = BOOK:DESC
@@ -13457,7 +13457,7 @@ msgstr "이 녀석 어떻게 할래? 네가 정해. 신참. 맞는지 모르겠�
 #. REC = INFO:NAM1
 msgctxt "000218"
 msgid "Son of a... I'll keep an eye on \"Deke.\" Go look and see if he's telling the truth."
-msgstr "망할... 이 \"디크'란 놈 지켜보고 있을 테니, 정말 그런지 창문에서 확인해 봐."
+msgstr "망할... 이 '디크'란 놈 지켜보고 있을 테니, 정말 그런지 창문에서 확인해 봐."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Deke
@@ -18594,7 +18594,7 @@ msgstr ""
 #. REC = INFO:NAM1
 msgctxt "000418"
 msgid "The motto: \"Leave no quarter. Show no mercy.\" Isn't bringing them in alive showing mercy?"
-msgstr "\"관용을 보이지 마라. 자비를 베풀지 마라.\"는 문구 말이야. 생포해서 데려오는 건 자비를 베푸는 거 아닌가?"
+msgstr "'관용을 보이지 마라. 자비를 베풀지 마라.'는 문구 말이야. 생포해서 데려오는 건 자비를 베푸는 거 아닌가?"
 
 #. SCRIPT NOTES: 
 #. ALIAS: 
@@ -20783,7 +20783,9 @@ msgstr "다른 추적자들은 왜 볼크 얘기를 싫어하지?"
 #. REC = INFO:NAM1
 msgctxt "00054E"
 msgid "I know you think you're hot shit, but if you don't have the skills to back it up, the only tip I'll be asking you is \"where are all the best spots in the afterlife.\""
-msgstr "나 잘났다고 생각하는 건 알겠는데, 실력이 뒷받침되지 않으면, \"저승에서 가장 좋은 장소가 어디야?\"라고 조언을 구하는 것 외엔 물어볼 게 없게 될 거야."
+msgstr ""
+"나 잘났다고 생각하는 건 알겠는데, 실력이 뒷받침되지 않으면, '저승에서 가장 좋은 장소가 어디야?'라고 조언을 구하는 것 외엔 물어볼 "
+"게 없게 될 거야."
 
 #. SCRIPT NOTES: Slightly annoyed. The player had walked away and just came back. / Irritated / to Player Default
 #. ALIAS: Roach
@@ -22344,7 +22346,7 @@ msgstr "어디 한번 맞춰볼까. 개소리 42번지?"
 #. REC = INFO:NAM1
 msgctxt "0005E6"
 msgid "No thanks. I've got a firm \"don't deal with terrorists or Trackers\" policy."
-msgstr "됐어. 난 \"테러리스트나 추적자들과는 거래하지 않는다\"는 원칙이 있거든."
+msgstr "됐어. 난 '테러리스트나 추적자들과는 거래하지 않는다'는 원칙이 있거든."
 
 #. SCRIPT NOTES: Thinking / to Player Default
 #. ALIAS: Hannibal
@@ -22864,7 +22866,9 @@ msgstr "네가 거짓말하지 않을 거라고 어떻게 장담하지?"
 #. REC = INFO:NAM1
 msgctxt "000619"
 msgid "Now if the question is \"Do I trust him?\" That's a different story. But again, we do what we can with the information we have."
-msgstr "\"너는 아드라스토스를 믿냐?\" 이걸 묻고 싶은 거야? 그건 다른 문제지. 하지만 다시 말하지만, 우리는 그냥 아는 정보로 할 수 있는 걸 하면 되는 거야."
+msgstr ""
+"'너는 아드라스토스를 믿냐?' 이걸 묻고 싶은 거야? 그건 다른 문제지. 하지만 다시 말하지만, 우리는 그냥 아는 정보로 할 수 있는 걸 "
+"하면 되는 거야."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Roach

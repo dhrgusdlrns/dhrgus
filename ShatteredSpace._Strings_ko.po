@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2025-01-15 11:43+0000\n"
+"PO-Revision-Date: 2025-01-26 22:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -4071,7 +4071,7 @@ msgid ""
 "collapsed. I returned to Inaza and informed her what happened."
 msgstr ""
 "나는 시공간의 균열을 찾아내 그 안에 아나스코 바룬이 있는 것을 발견했다. 처음으로 서로 대화하는 데 성공했으나 그것도 잠시뿐이었고 "
-"동굴이 무너지고 말았다. 나는 이나자에게 무슨 일이 벌어졌는지 알려 줬다."
+"동굴이 무너지고 말았다. 나는 이나자에게 무슨 일이 벌어졌는지 알려줬다."
 
 # EDID: SFBGS001_co_melee_mod_RedeemedBlade_Blade_Serrated, REC: COBJ:DESC
 msgctxt "0135A3"
@@ -6434,7 +6434,7 @@ msgid ""
 "science team had gathered. Unfortunately, Sirak didn't live to see it."
 msgstr ""
 "나는 오라클이라는 이름의 우주정거장을 발견했고, 시락 베타알과 시락의 과학팀이 수집한 데이터를 전송하기 위해 우주정거장을 중력 도약시켜 "
-"고향으로 돌아가는 작업을 도을 수 있었다. 안타깝게도 시락은 고향에 도착하는 순간을 보지 못했다."
+"고향으로 돌아가기 위한 작업을 도왔다. 안타깝게도 시락은 고향에 도착하는 순간을 보지 못했다."
 
 # EDID: SFBGS001_VortexCoreControlPanel_Interlock_NotResponding, REC:
 # MESG:DESC

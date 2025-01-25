@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2025-01-06 11:43+0000\n"
-"Last-Translator: secarnadia <ellwionsia@gmail.com>\n"
+"PO-Revision-Date: 2025-01-26 23:43+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1618,7 +1618,7 @@ msgstr "카브닉 I"
 # EDID: SFBGS001FrozenLifeVaruunkai, REC: BIOM:FULL
 msgctxt "000730"
 msgid "Frozen Craters"
-msgstr "얼어붙은 크레이터"
+msgstr "빙설지대 크레이터"
 
 # EDID: SFBGS001DesertRockyLifeVaruunkai, REC: BIOM:FULL
 msgctxt "000731"
@@ -1813,7 +1813,7 @@ msgstr "첨탑으로 이동하기"
 # EDID: SFBGS001_MQ06, REC: QUST:NNAM
 msgctxt "00076C"
 msgid "Terminate Pod Life Support"
-msgstr "포드 생명 유지 시스템을 중단하기"
+msgstr "포드의 생명 유지 시스템 중단시키기"
 
 # EDID: SFBGS001_MQ06, REC: QUST:NNAM
 msgctxt "00076D"
@@ -5677,7 +5677,7 @@ msgstr "배릭 죽이기"
 # EDID: SFBGS001_MQ04, REC: QUST:NNAM
 msgctxt "001B9F"
 msgid "Decide Vaeric's fate"
-msgstr "배릭의 처우 결정하기"
+msgstr "배릭의 처분을 어떻게 할지 결정하기"
 
 # EDID: SFBGS001_MQ04, REC: QUST:NNAM
 msgctxt "001BA0"
@@ -11282,7 +11282,7 @@ msgstr "함선 추락 현장"
 # EDID: SFBGS001_MQ05, REC: QUST:NNAM
 msgctxt "0124F0"
 msgid "Divert Power to the Interlock Console"
-msgstr "제어장치 콘솔로 전원 전환"
+msgstr "제어장치 콘솔로 전원 전환하기"
 
 # EDID: SFBGS001OE02World, REC: WRLD:FULL
 msgctxt "01252F"
@@ -19262,7 +19262,7 @@ msgstr ""
 "\n"
 "자동안전장치 시스템이 증강되어 허용 가능한 수준을 초과할 시 자동으로 동작할 것입니다.\n"
 "\n"
-"피나클 프로젝트의 새 시험이 시작되었으니, 전력량을 감시하고 결과물을 계속 기록하십시오."
+"첨탑 프로젝트의 새 시험이 시작되었으니, 전력량을 감시하고 결과물을 계속 기록하십시오."
 
 # EDID: SFBGS001LC06_02_Descent_FacilitiesLockdownComputer_Desktop, REC:
 # TMLM:ITXT
@@ -19281,7 +19281,7 @@ msgid ""
 "\n"
 "Current work on vortex containment fields should continue as time allows."
 msgstr ""
-"피나클 프로젝트로 책임자 급 직원들의 전입이 승인되었습니다.\n"
+"첨탑 프로젝트로 책임자 급 직원들의 전입이 승인되었습니다.\n"
 "\n"
 "대변자 님이 직접 내린 명령이므로, 이 프로젝트에 관한 모든 요청은 다른 연구보다 더욱더 우선시되어야 합니다.\n"
 "\n"
@@ -19314,7 +19314,7 @@ msgstr ""
 "것입니다.\n"
 "\n"
 "- 피험자들이 포드 내에서 안정화되면 신속히 이송해야 합니다. 엘리베이터는 다량의 포드를 운송하는 데 한계가 있으며, 포드에 들어간 다음 "
-"피나클의 시스템에 연결되는 사이의 지연 시간은 최소화되어야 합니다."
+"첨탑의 시스템에 연결되기까지 걸리는 지연 시간은 최소화되어야 합니다."
 
 # EDID: SFBGS001LC06_02_Descent_IntakeLabComputer_Desktop, REC: TMLM:ITXT
 msgctxt "014B56"
@@ -19950,7 +19950,7 @@ msgstr ""
 "\n"
 "대변자께서 제공하신 시제품은 분해되어 역설계되었습니다. 팀은 일주일 안에 장치와 모든 기능을 복제할 수 있을 거라 확신합니다.\n"
 "\n"
-"현재는 피나클 프로젝트를 위한 하나의 새 제어장치를 만드는 데 중점을 두고 있습니다. 성공적인 테스트가 검증되면 생산을 늘려 더 많이 "
+"현재는 첨탑 프로젝트를 위한 하나의 새 제어장치를 만드는 데 중점을 두고 있습니다. 성공적으로 시험 검증이 끝나면 생산을 늘려 더 많이 "
 "만들 수 있을 겁니다."
 
 # EDID: SFBGS001LC06_02_Descent_VortexResearchComputer_Desktop, REC: TMLM:ITXT

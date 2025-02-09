@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2025-01-01 11:09+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2025-02-10 10:43+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -10438,7 +10438,7 @@ msgstr "나 아는 것처럼 굴지 말라고."
 #. REC = INFO:NAM1
 msgctxt "0000E0"
 msgid "I miss the simple days... before running from bounty hunters, before hurting people."
-msgstr "난 그냥 단순했던 옛 시절이 그리워... 현상금 사냥꾼이 되기 전에, 사람들을 해치기 전에."
+msgstr "난 그냥 단순했던 옛 시절이 그리워... 현상금 사냥꾼이 되기 전이, 사람들을 해치기 전이."
 
 #. SCRIPT NOTES: regrets / Sad / to Player Default
 #. ALIAS: SpeechNPC

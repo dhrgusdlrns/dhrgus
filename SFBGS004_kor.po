@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-23 00:19+0900\n"
-"PO-Revision-Date: 2025-01-01 11:09+0000\n"
-"Last-Translator: 김옥현 <dhrgusdlrns@naver.com>\n"
+"PO-Revision-Date: 2025-03-16 15:43+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -1223,7 +1223,7 @@ msgstr "발사 준비 완료!"
 #. Speaker: ALLCompanions
 msgctxt "000047"
 msgid "We've locked a target!"
-msgstr "목표에 락온됨!"
+msgstr "목표물이 우리를 락온!"
 
 #. List: 2
 #. EDID: [FE000232]

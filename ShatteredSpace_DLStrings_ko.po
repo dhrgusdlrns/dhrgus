@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2025-01-26 23:43+0000\n"
+"PO-Revision-Date: 2025-04-06 14:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -953,12 +953,12 @@ msgstr "Coating"
 # EDID: SFBGS001_MQ01_OperationsDesktop, REC: TMLM:UNAM
 msgctxt "0006CF"
 msgid "System mainframe reboot initiated. Please stand by."
-msgstr "시스템 메인프레임 재부팅 시작 중. 잠시만 기다려 주세요."
+msgstr "시스템 메인프레임 재가동 시작 중. 잠시만 기다려 주세요."
 
 # EDID: SFBGS001_MQ01_OperationsDesktop, REC: TMLM:ITXT
 msgctxt "0006D0"
 msgid "Initiate Mainframe Reboot"
-msgstr "메인프레임 재부팅 시작하기"
+msgstr "메인프레임 재가동 시작하기"
 
 # EDID: SFBGS001_MQ01_OperationsDesktop, REC: TMLM:BTXT
 msgctxt "0006D1"
@@ -969,7 +969,7 @@ msgid ""
 msgstr ""
 "경고: 이 시설은 비상 전력을 공급받고 있습니다.\n"
 "\n"
-"정상 기능을 회복하려면 메인프레임 재부팅이 필요합니다."
+"정상 기능을 회복하려면 메인프레임 재가동이 필요합니다."
 
 # EDID: SFBGS001_MQ01_OperationsDesktop, REC: TMLM:FULL
 msgctxt "0006D2"
@@ -7883,7 +7883,7 @@ msgid ""
 msgstr ""
 "보조 전지가 다시 연결되었습니다. 최적 동력이 복구되었습니다.\n"
 "\n"
-"메인프레임 재부팅이 필요한 경우에는 통제실에 보고해 주십시오."
+"메인프레임 재가동이 필요한 경우에는 통제실에 보고해 주십시오."
 
 # EDID: SFBGS001_MQ01_PowerRedirectMenu, REC: TMLM:ITXT
 msgctxt "0110C7"
@@ -7907,7 +7907,7 @@ msgstr ""
 "주 전지는 생명 유지를 위한 비상 동력을 공급하기 위해 그대로 유지됩니다.\n"
 "\n"
 "동력 배열기의 안전과 기능을 확인하기 위해서는 인가된 엔지니어가 필요합니다. 확인 절차가 완료되면 보조 전지를 다시 원위치시킬 수 "
-"있습니다. 배열기가 다시 연결되면 오라클 우주정거장 전체의 연결을 올바르게 재설정하기 위해 메인프레임을 재부팅해야 합니다."
+"있습니다. 배열기가 다시 연결되면 오라클 우주정거장 전체의 연결을 올바르게 재설정하기 위해 메인프레임을 재가동해야 합니다."
 
 # EDID: SFBGS001_MQ01_PowerDesktop, REC: TMLM:ITXT
 msgctxt "0110C9"
@@ -7949,7 +7949,7 @@ msgstr "현 상태: 해제"
 # EDID: SFBGS001_MQ01_OperationsDesktop, REC: TMLM:BTXT
 msgctxt "0110CE"
 msgid "System mainframe reboot initiated. Please stand by."
-msgstr "시스템 메인프레임 재부팅이 시작됩니다. 기다려 주십시오."
+msgstr "시스템 메인프레임 재가동이 시작됩니다. 기다려 주십시오."
 
 # EDID: SFBGS001_MQ01_OperationsDesktop, REC: TMLM:BTXT
 msgctxt "0110CF"
@@ -8170,10 +8170,10 @@ msgid ""
 "Only a handful of us remain: Nadine, Basira, and Taras. Nadine believes we can force the Oracle to shut down if we can reach the Engineering Bay. But we all know that our hostile brethren await us there."
 msgstr ""
 "작은 승리를 내려주신 위대한 뱀께 감사를. 나딘이 우리를 도와준 덕분에 통제실 메인프레임에 연결해서 새로운 프로토콜을 입력할 수 있었다. "
-"이제 오라클 메인프레임을 강제로 재부팅하고 우리가 겪고 있는 무작위 도약을 막을 수 있길 바라기만 하면 된다.\n"
+"이제 오라클 메인프레임을 강제로 재가동하고 우리가 겪고 있는 무작위 도약을 막을 수 있길 바라기만 하면 된다.\n"
 "\n"
-"재부팅을 하고 나면 오라클은 프로그래밍된 대로 바룬카이 궤도로 돌아가 우리 연구 데이터를 전부 전송할 것이다. 이제 우리가 할 일은 "
-"메인프레임을 재부팅할 때까지 버티는 것이다. 어떻게 해서든지.\n"
+"재가동을 하고 나면 오라클은 프로그래밍된 대로 바룬카이 궤도로 돌아가 우리 연구 데이터를 전부 전송할 것이다. 이제 우리가 할 일은 "
+"메인프레임을 재가동할 때까지 버티는 것이다. 어떻게 해서든지.\n"
 "\n"
 "이제 남은 인원은 한 줌 뿐이다. 나딘, 바시라, 그리고 타라스까지. 나딘은 우리가 엔지니어링 구역에 도착할 수만 있다면 오라클을 강제로 "
 "정지시킬 수 있다고 생각한다. 하지만 거기까지 가는 길에서 적대적인 교우님들이 우릴 기다리고 있다는 사실을 우리 모두 알고 있다."
@@ -8194,7 +8194,7 @@ msgstr ""
 "어떻게 될까? 코렌과 난 통제실에 가서 정거장을 제어해보려고 했지만, 거기엔 공격적인 유령들이 넘쳐나고 있었다. 코렌은 살아남지 못했다. "
 "뱀께서 코렌을 감싸 주시길.\n"
 "\n"
-"바시라가 새로운 프로토콜을 만드는 데 내 도움을 요청했다. 메인프레임만 재부팅할 수 있다면 오라클이 새로운 프로토콜을 따를 것이다. "
+"바시라가 새로운 프로토콜을 만드는 데 내 도움을 요청했다. 메인프레임만 재가동할 수 있다면 오라클이 새로운 프로토콜을 따를 것이다. "
 "나딘이 우릴 도와준다면 여기 있는 내 컴퓨터를 통제실 제어반에 연결해서 새로운 프로토콜을 입력할 수 있을지도 모른다."
 
 # EDID: SFBGS001_MQ01_SirakDesktop, REC: TMLM:ITXT
@@ -8246,12 +8246,12 @@ msgstr "메인프레임이 프로토콜을 완료할 때까지 기다리기"
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "011172"
 msgid "Wait for the mainframe to reboot"
-msgstr "메인프레임이 재부팅될 때까지 기다리기"
+msgstr "메인프레임이 재가동될 때까지 기다리기"
 
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "011173"
 msgid "Reboot the Oracle's mainframe"
-msgstr "오라클 메인프레임 재부팅하기"
+msgstr "오라클 메인프레임 재가동하기"
 
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "011174"

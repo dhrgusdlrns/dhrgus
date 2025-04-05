@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2025-02-10 10:43+0000\n"
+"PO-Revision-Date: 2025-04-06 18:43+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -18338,7 +18338,7 @@ msgstr "자, 여기 있어. 즐겨!"
 #, fuzzy
 msgctxt "0003FF"
 msgid "Astras for gear. Good deal if I ever heard one."
-msgstr "아스트라로 장비를 사는 거지. 이보다 좋은 거래는 없을 걸."
+msgstr "아스트라로 장비를 사는 거지. 이보다 좋은 거래는 없을걸."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Stache

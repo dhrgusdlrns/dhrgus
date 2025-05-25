@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2025-04-06 18:43+0000\n"
+"PO-Revision-Date: 2025-05-25 23:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -2502,7 +2502,7 @@ msgstr ""
 "도킹 출입구 - 오류\n"
 "    경고: 문이 이미 잠금 해제되었습니다.\n"
 "통제탑 - 오류\n"
-"    경고: 기계식 잠금 장치가 작동 중이며, 수동 열쇠 입력이 필요합니다."
+"    경고: 기계식 잠금장치가 작동 중이며, 수동 열쇠 입력이 필요합니다."
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Lockdown
 #. REC = TMLM:ITXT

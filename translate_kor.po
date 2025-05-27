@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2025-05-25 14:44+0000\n"
+"PO-Revision-Date: 2025-05-27 23:34+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -97,7 +97,6 @@ msgstr "유효 상금"
 msgid "$ACTIVE_EFFECTS"
 msgstr "활성 효과"
 
-#, fuzzy
 msgid "$ACTIVE_VEHICLE"
 msgstr "운전 차량"
 
@@ -200,7 +199,6 @@ msgstr "체포"
 msgid "$ASCENDING"
 msgstr "상승"
 
-#, fuzzy
 msgid "$Assign"
 msgstr "배치"
 
@@ -4867,7 +4865,6 @@ msgstr "준비"
 msgid "$Present"
 msgstr "현재"
 
-#, fuzzy
 msgid "$PRESENTS"
 msgstr "제공"
 
@@ -7590,7 +7587,6 @@ msgstr "환경 조사"
 msgid "$SURVEY LEVEL INCREASED"
 msgstr "환경 조사 레벨 오름"
 
-#, fuzzy
 msgid "$SURVEYED"
 msgstr "환경 조사 완료"
 

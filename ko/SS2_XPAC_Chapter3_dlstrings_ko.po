@@ -1,0 +1,2197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RWproject XML2PO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: xml_to_po.py\n"
+msgctxt "SS2C3_HologramRace"
+msgid "Needs to be zeroed out so NPCs dont use this (and t-pose). This is for the player only."
+msgstr ""
+
+msgctxt "SS2C3_QBattle_MagsLab_BraunLetter"
+msgid "font face=$HandwrittenFont \nMagnusson, you are a lunatic.\n\nBut, a man repays his debts.\nFind enclosed the requested ZAX schematics.\nWere now even. \n\nDo NOT contact me again.\n\nBraun.\n/font"
+msgstr ""
+
+msgctxt "SS2C3_NLTC_QuestTriggerInbox"
+msgid "font size=14 face=$Terminal_Font\nGreetings,\n\nMy name is Lydia Proudmore, Trader with the Commonwealth expedition team representing the New Liberty Trading Company. As you may remember, we met during our sponsorship meeting with the Nightingales.\n\nYour leadership and achievements in this region have drawn our attention. As such, the Chief Trader extends an invitation to meet him at your earliest convenience to discuss a business proposition. You will find us docked at the Boston Waterfront, near the Custom House Tower.\n\nRegards,\nLydia Proudmore\n/font"
+msgstr ""
+
+msgctxt "SS2C3_MA05_CassandraEngramNOTE"
+msgid "font face=$HandwrittenFont \nThe de-installation has been completed.\n\nI thought you might perhaps like the Engramtape as a souvenir.\n\nAlso, its probably safer in your possession.\n\n\nWell, back to work!\n\n- Cassandra\n/font"
+msgstr ""
+
+msgctxt "SS2C3_NLTCCharlotte_SupplyNote"
+msgid "font face=$HandwrittenFont \nOutposts need supplies. \nNeed extra? \n\nMeet me in the blue-doored house, on the riverside, north of Bunker Hill.\n\nDont be followed.\n/font"
+msgstr ""
+
+msgctxt "SS2C3_SA03_BermanNote"
+msgid "font size=16 face=$HandwrittenFont\nYou want a report?\n\nFine. Heres your damn report.\n\nThis place sucks. The Rad-X you gave me tastes like week old cat piss, I feel too sick to workout, and I swear this rash is getting bigger.\n\nI was meant to be leading the charge against the Alias=PlayerFactionNameHolder, and instead, you got me on guard duty in THE FUCKING GLOWING SEA!\n\nYou can tell LaMont if she dont start treating me right, it aint only Alias=Player she gotta worry about.\n\nEnd of report.\n\nCmdr. M. Berman\n/font"
+msgstr ""
+
+msgctxt "SS2C3_SA02_SecondNote"
+msgid "font size=16 face=$Terminal_Font\n==================================\n4e 61 76 61 27 74 6f 6c 20 49 6e 74 65 6c 6c 69 67 65 6e 63 65 20 42 72 69 65 66 69 6e 67 0d 0a 0a 59 54 4f 2c 20 4e 56 54 20 54 48 20 4e 47 48 20 4c 53 48 2e 0a 28 41 74 74 65 6e 74 69 6f 6e 29 2c 20 44 65 70 6c 6f 79 20 28 62 6f 6d 62 65 72 20 70 6c 61 6e 65 73 29 20 61 74 20 28 65 6e 65 6d 79 29 20 62 6f 72 64 65 72 73 2e 0a 0a 4e 56 27 44 42 48 20 59 43 48 27 4c 20 54 48 20 4e 47 48 2e 20 4e 27 44 42 48 20 42 4c 47 48 27 54 53 48 2e 0a 0a 4c 53 48 20 54 48 20 4e 47 48 27 45 48 20 59 43 48 27 48 44 42 48 2e 0a 0a 47 44 27 54 53 48 20 4e 56 27 54 53 48 20 59 43 48 2e 20 4e 27 54 42 48 20 59 27 48 44 48 20 4c 27 41 48 2c 20 42 44 42 48 20 4e 47 48 20 44 27 59 4c 27 41 48 2e 0a 0a 53 54 2c 20 59 48 27 44 48 27 44 42 48 20 54 48 20 4e 47 48 2e 20 4e 56 27 54 53 48 20 59 43 48 27 44 48 4c 4e 2e 0a 0a 44 4c 42 48 20 54 48 20 4e 47 48 27 45 48 20 59 43 48 2e 20 4d 61 69 6e 74 61 69 6e 20 76 69 67 69 6c 61 6e 63 65 2e 0a 0a 42 47 27 48 4c 4e 2c 20 4e 44 42 48 20 44 44 48 20 54 53\n==================================\n/font"
+msgstr ""
+
+msgctxt "SS2C3_SA02_FirstNote"
+msgid "font size=16 face=$Terminal_Font\n==================================\nYinildahtloshgo,\n\nYilgoohlin dahdiadiehl. Navatol talakhosh nashnishgahi lishah nashtsoh.\n\nShiyeeh, nashdibeh yichil talakhosh nashnishgahi. Nashdibeh bilagahtsoh.\n\nDohashzhi, lishah talakhosh nashnishgahieh yichahdibeh.\n\nGoiah nashtsoh yinahdahdilah, bidanashdibeh nashnishgahi dah diadiyilah.\n\nShash, yinahdahdibeh nashtsoh, dahdiahgo nashnishgahi. Navatol talakhosh yichahdohlin.\n\n-Lamont\n==================================\n/font"
+msgstr ""
+
+msgctxt "SS2C3_JA09_JakesGunNote_Romance"
+msgid "font face=$HandwrittenFont \nMy dad left me this gun, and now Im leaving it to you.\n\nI added a few upgrades I think youll find useful.\n\nPlease accept it as the smallest of apologies for abandoning you, and forcing you to handle the Gunners without my help.\n\nI know youll be able to defeat the Gunners. You and everyone at the HQ, youre the future of the Commonwealth.\n\nGoodbye, my love.\n\n- Jake\n/font"
+msgstr ""
+
+msgctxt "SS2C3_JA09_JakesGunNote"
+msgid "font face=$HandwrittenFont \nMy dad left me this gun, and now Im leaving it to you.\n\nI added a few upgrades I think youll find useful.\n\nPlease accept it as the smallest of apologies for abandoning you, and forcing you to handle the Gunners without my help.\n\nI know youll be able to defeat the Gunners. You and everyone at the HQ, youre the future of the Commonwealth.\n\nGoodbye, my dear friend.\n\n- Jake\n/font"
+msgstr ""
+
+msgctxt "SS2C3_FieldHospital_AidenGetWellNote"
+msgid "Took this one down for you, Chief.\n\nHurry up and get better.  Jakes driving me crazy.\n\n~Aiden"
+msgstr ""
+
+msgctxt "SS2C3_FieldHospital_GetWellNote"
+msgid "Wishing you a speedy recovery!  Get well soon - we miss you!\n\nWith love from everyone\n(and Aiden)"
+msgstr ""
+
+msgctxt "SS2C3_MQ34_JakesNote_Took"
+msgid "font face=$HandwrittenFont \nTo everyone,\n\nWords like Im sorry dont seem enough, so I wont bother saying them.\n\nThis is just something I need to do. Please, dont try to follow me. If you do, I cant guarantee your safety.\n\n-Jake\n/font"
+msgstr ""
+
+msgctxt "SS2C3_MQ34_JakesNote_Tampered"
+msgid "font face=$HandwrittenFont \nTo everyone,\n\nTheres something I need to do, and its something I should do alone. So please, dont try to follow me.\n\nAnd if I dont come back, Im counting on you to help Katelyn and Laura.\n\n-Jake\n/font"
+msgstr ""
+
+msgctxt "SS2C3_MQ34_JakesNote_NoTouch"
+msgid "font face=$HandwrittenFont \nTo everyone,\n\nTheres something I need to do, and its something I have to do alone. So please, dont try to follow me.\n\nGood luck in your fight against the Gunners. I know that you can defeat them.\n\n-Jake\n/font"
+msgstr ""
+
+msgctxt "SS2C3_MQ34_JakesWallNote"
+msgid "font face=$HandwrittenFont \nRunning low on ASAMs. Lupe suggested building more, but still plenty of crates left at the RobCo head office.\nMaybe next staff meeting, mention Natick Banks stockpile? Let them know its where I first discovered ASAMs.\nTime to stop being so protective of the place.\n\nP.S. Return Mansfields copy of Pipfall\n/font"
+msgstr ""
+
+msgctxt "SS2C3_Gnof_EmployeeBreakRoomNote"
+msgid "To All Employees,\n\nFor the last time, please stop bringing that infernal grill into the break room for lunch. Customers are complaining about the burning smell and last week Zoe nearly burned the building down.  At the very least, stop using gasoline from someones car as lighter fluid.\n\n~Manager"
+msgstr ""
+
+msgctxt "SS2C3_MA02_BoylstonClubNOTE"
+msgid "font face=$HandwrittenFont \nAlex, get the next batch of holotapes ready. Our contacts getting inpatient.\n\nIf youre starting to get cold feet again, just remember. Some of our patrons know some real important stuff. By recording their conversations, Mr. Chou says were helping other Americans learn the truth.\n\nAnd the money doesnt hurt either. Speaking of, I left you a little something in the safe.\n\n\n- Sammy\n/font"
+msgstr ""
+
+msgctxt "SS2C3_MA02_NoteToProstManagement"
+msgid "font face=$HandwrittenFont \nSeems Dr. Magnusson had himself a date tonight.\nHe was so enamored with her, he forgot his hat when they left.\nCant say I blame him, she was quite the looker!\n\nMake sure to return his hat the next time the good doctor visits.\n\nOr, maybe we can hang it on one of the walls instead? \nHat of Karl. S. Magnusson, Americas most famous Astronaut!\n/font"
+msgstr ""
+
+msgctxt "SS2C3_MA02_WarrenTheaterNOTE"
+msgid "font face=$HandwrittenFont \nImportant show tonight! \n\nWhole house has been booked by our special guest, so lets put on our best performance yet!\n\nAnd remember, end of Act 3 Scene 2, enter the audience and present the rose to Dr. Magnussons lady friend instead of the Countess.\n\nHer name is Madison. So the lines now read...\nA gift for you, sweet lady Madison. A pale reflection of beauty next to your own, but I beg your indulgence. \n\nYou got that? Good. Rehearsals will begin at 2. After-party at 11 (alcohol provided).\n/font"
+msgstr ""
+
+msgctxt "SS2C3_MQ30"
+msgid "Now that Im able to move around again, I should attend the meeting upstairs and see how the Commonwealth has been holding up in my absence."
+msgstr ""
+
+msgctxt "SS2C3_MQ30"
+msgid "Im looking for a man named Salvador, Theresa thinks The Ron will be able to help us."
+msgstr ""
+
+msgctxt "SS2C3_MQ30"
+msgid "Theresa went off to go find Salvador. In the mean time, Ill just have to wait for her to return."
+msgstr ""
+
+msgctxt "SS2C3_MQ30"
+msgid "Weve found Salvador so now its time to have another meeting with him in the usual Ready Room."
+msgstr ""
+
+msgctxt "SS2C3_MQ30"
+msgid "Jake says he set up this terminal in the meeting table to handle Policies. I should use it now to set up my first one."
+msgstr ""
+
+msgctxt "SS2C3_AdvisorMarkerInUse"
+msgid "Marks positions in the meeting room as occupied"
+msgstr ""
+
+msgctxt "SS2C3_FeaturedMessage_Unlock_KatelynLauraHouse"
+msgid "Large [Multi-Person Home] for a 2x2 Residental Plot to house Jakes family safely in the Commonwealth."
+msgstr ""
+
+msgctxt "SS2C3_Gnof_BPConfirm_BuildingPlan_JakeFamilyHOme"
+msgid "[SS2] Katelyn and Lauras House by Gnofusnomuss\n\nAfter a long journey and everything theyve been through, Katelyn and Laura have finally found the home theyve always wanted."
+msgstr ""
+
+msgctxt "SS2C3_FeaturedMessage_NLTCMercs"
+msgid "You can now recruit NLTC Mercs from the Recruitment Radio."
+msgstr ""
+
+msgctxt "SS2C3_FeaturedMessage_NightingaleMedics"
+msgid "You can now recruit Nightingale Medics from the Recruitment Radio."
+msgstr ""
+
+msgctxt "SS2C3_FeaturedMessage_CPDUnits"
+msgid "You can now recruit various CPD units from the Recruitment Radio."
+msgstr ""
+
+msgctxt "SS2C3_UnitTypeDescription_NightingaleMedic"
+msgid "Nightingale medic, lightly armed and armored, to support your outposts or serve as a medic for the wounded on the battlefield and improve the survival odds of your squad"
+msgstr ""
+
+msgctxt "SS2C3_UnitTypeDescription_NLTCX01"
+msgid "Recruit the most elite, best-equipped mercenaries that the NLTC has on offer, with X-01 Power Armor and Gatling Lasers"
+msgstr ""
+
+msgctxt "SS2C3_UnitTypeDescription_NLTCMerc"
+msgid "Recruit trained NLTC mercs with ballistic weapons like combat rifles, combat shotguns, and assault rifles to brings extra firepower and armor to the battlefield"
+msgstr ""
+
+msgctxt "SS2C3_UnitTypeDescription_CPDProtectron"
+msgid "Recruit salvaged Boston PD Protectrons, repurposed by the CPD to bring law and order to the Wasteland with laser weapons."
+msgstr ""
+
+msgctxt "SS2C3_UnitTypeDescription_CPDK9"
+msgid "Recruit CPD trained K9s to sniff out and attack the enemy"
+msgstr ""
+
+msgctxt "SS2C3_UnitTypeDescription_CPDOfficer"
+msgid "Recruit CPD Officers to bring justice and the long arm of the law to the battle, or equip your soldiers with police gear, training, and weapons."
+msgstr ""
+
+msgctxt "SS2C3_FeaturedMessage_SupermutantRecruitment"
+msgid "You can now recruit Super Mutants from the Recruitment Radio."
+msgstr ""
+
+msgctxt "SS2C3_FeaturedMessage_DCSecurityRecruitment"
+msgid "You can now recruit Diamond City Security from the Recruitment Radio."
+msgstr ""
+
+msgctxt "SS2C3_FeaturedMessage_GunnerUnits"
+msgid "You can now recruit various Gunner units from the Recruitment Radio."
+msgstr ""
+
+msgctxt "SS2C3_FeaturedMessage_MinutemenRecruitment"
+msgid "You can now recruit Minutemen from the Recruitment Radio."
+msgstr ""
+
+msgctxt "SS2C3_FeaturedMessage_InstituteUnits"
+msgid "You can now recruit various Institute units from the Recruitment Radio."
+msgstr ""
+
+msgctxt "SS2C3_FeaturedMessage_RailroadUnits"
+msgid "You can now recruit various Railroad units from the Recruitment Radio."
+msgstr ""
+
+msgctxt "SS2C3_FeaturedMessage_BrotherhoodUnits"
+msgid "You can now recruit various Brotherhood units from the Recruitment Radio."
+msgstr ""
+
+msgctxt "SS2C3_Menu_BattleofQuincy_AssignRole"
+msgid "Who should be in charge of Alias=MessageAlias_TeamName?\n\nAlias=MessageAlias_AllyName"
+msgstr ""
+
+msgctxt "SS2C3_Explanation_Ideology_3of3"
+msgid "Ideology\n\nYou may change your answers before leaving the meeting or call a new meeting to change your answers in the future.\n\nWhen you are satisfied with your decisions, activate the door in the meeting room to end the meeting."
+msgstr ""
+
+msgctxt "SS2C3_Explanation_Ideology_2of3"
+msgid "Ideology\n\nWhile in an Advisor Meeting, activate the desk terminal again to access the Ideology menu.\n\nAfter choosing an option, your Advisors will comment how they feel about your decision to try and steer you in different directions. No decision will make everyone happy."
+msgstr ""
+
+msgctxt "SS2C3_Explanation_Ideology_1of3"
+msgid "Ideology\n\nYou must set your Factions values by answering questions regarding how your group should feel about a variety of issues. These choices will determine rules your people follow, as well as who your natural allies and enemies are."
+msgstr ""
+
+msgctxt "SS2C3_Explanation_AdvisorMeetings"
+msgid "Advisor Meetings\n\nActivate the terminal on the meeting desk to call an Advisor Meeting. This will gather your Factions leaders and allies for discussing changes to your Factions Ideology."
+msgstr ""
+
+msgctxt "SS2C3_Confirm_CallAdvisorMeeting"
+msgid "Would you like to call an Advisor Meeting to make changes to your Factions Ideology?"
+msgstr ""
+
+msgctxt "SS2C3_ActivateOveride_ManageIdeology"
+msgid "Open"
+msgstr "열기"
+
+msgctxt "SS2C3_MQ29_TurningHelpMessage"
+msgid "Aim your minigun all the way to the right or left and hold for several seconds to trigger Lupe to turn the Vertibird and circle the opposite direction."
+msgstr ""
+
+msgctxt "SS2C3_LoadoutDescription_Medic"
+msgid "Includes a medic outfit, syringer, a solid supply of ammo and Stimpaks."
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_MQ35_NLTCPayment"
+msgid "Quest Skip Handling\n\nDid you pay the NLTC to assist in the battle?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_SQ05_LamontCure"
+msgid "Quest Skip Handling\n\nDid you work with the Science department to develop a cure to Lamonts disease?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_MQ34_RescueJake"
+msgid "Quest Skip Handling\n\nAfter Jakes capture, did you opt to rescue him right away?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_SQ03_FactionAlliance"
+msgid "Quest Skip Handling\n\nDo you want to ally with Alias=MessageAlias_FactionName?\n\nNote this does not complete those quests, it merely marks them as your ally for SS2 for the sake of testing."
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_SQ03_MainFaction"
+msgid "Quest Skip Handling\n\nWhich faction do you want to side with for the base game faction conflict? \n\nNote this does not complete those quests, it merely marks them as your ally for SS2 for the sake of testing."
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_SQ03_Berman_Fate"
+msgid "Quest Skip Handling\n\nAfter speaking to Berman, you need to decide his fate. What will happen to him?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_SQ03_Berman_LamontSecret"
+msgid "Quest Skip Handling\n\nBerman requested to ally with you in exchange for giving information about Lamont. What did you decide?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_SQ03_Berman_SkipOrLeave"
+msgid "Quest Skip Handling\n\nAfter Berman was imprisoned, he asked to speak to you, do you want to choose how that conversation went here, or do so in-game?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_MQ34_JakeOutcome_StoleModule"
+msgid "Quest Skip Handling\n\nHow did the encounter at the bottom of Robco HQ end?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_MQ34_JakeOutcome_TamperedWithModule"
+msgid "Quest Skip Handling\n\nHow did the encounter at the bottom of Robco HQ end?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_MQ34_JakeOutcome_LeftModule"
+msgid "Quest Skip Handling\n\nHow did the encounter at the bottom of Robco HQ end?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_MQ34_Morality"
+msgid "Quest Skip Handling\n\nHow did your choices prior influence Jakes decision about taking the Receiver Module?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_SQ03_Warning"
+msgid "Quest Skip Handling\n\nUnder One Banner is primarily a controller quest for monitoring the groups youve allied with. It will remain running until you reach the quest Call to Arms."
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_MQ32_Warning"
+msgid "Quest Skip Handling\n\nState of War is primarily a controller quest for monitoring your progress and is responsible for other quests. It will remain running until you reach the quest When It Rains."
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_MQ33_Berman"
+msgid "Quest Skip Handling\n\nWhat did you do to Berman when he showed up with Katelyn?"
+msgstr ""
+
+msgctxt "SS2C3_MQ34_LauraOption"
+msgid "Are you ready to return to HQ with Laura?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_MQ30_Warning"
+msgid "Quest Skip Handling\n\nA Faction is Born pauses for another quest in the middle, would you like to auto-complete this next quest as well?\n\nIf not, A Faction is Born will not be fully skipped and instead will pause at the point the next quest begins."
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_MQ29_WhoBuilt"
+msgid "Quest Skip Handling\n\nDid you build it yourself, or allow Lupe to build?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_MQ29_ChooseSettlement"
+msgid "Quest Skip Handling\n\nWhich settlement did you choose to defend the Gunners from?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_MQ28_Neil"
+msgid "Quest Skip Handling\n\nWere you able to guide Neil to you safely?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_MQ28_Muriel"
+msgid "Quest Skip Handling\n\nWere you able to stabilize Muriel?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_MQ28_AidenSolo"
+msgid "Quest Skip Handling\n\nDid you go with Aiden or send him alone?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipHandling_JakesDaughterRecording"
+msgid "Quest Skip Handling\n\nHow did you act during Jakes recording to his daughter?"
+msgstr ""
+
+msgctxt "SS2C3_Menu_SkipMainQuest"
+msgid "Pick the Chapter 3 Main Quest youd like to skip to, completing all the quests before it. You will receive XP, and any item rewards for each quest before it, as if you had completed them yourself.\n\nIn addition, any major player choices will be presented as pop-ups."
+msgstr ""
+
+msgctxt "SS2C3_SQ03_NewAlly_Unnamed"
+msgid "Youve formed a new alliance."
+msgstr ""
+
+msgctxt "SS2C3_SQ03_NewAlly_Aliased"
+msgid "Youve formed an alliance with Alias=MessageAlias_FactionName."
+msgstr ""
+
+msgctxt "SS2C3_Confirm_StartNextMeeting"
+msgid "There are representatives from other groups waiting to meet you.\n\nWould you like to take another meeting now?"
+msgstr ""
+
+msgctxt "SS2C3_FeaturedMessage_ASAMSensorMk2"
+msgid "The Mark II Prototype allows construction of advanced technological devices."
+msgstr ""
+
+msgctxt "SS2C3_Explanation_WarWithTheGunners_3of3"
+msgid "Faction War\n\nWhile at War, any scouting systems that reveal locations, such as the Military Departments Scouting missions, will be more likely to find locations of those factions you are at War with."
+msgstr ""
+
+msgctxt "SS2C3_Explanation_WarWithTheGunners_2of3"
+msgid "Faction War\n\nMost raids against your occupied locations will be from factions you are at War with and will increase in intensity as you get closer to wiping them out."
+msgstr ""
+
+msgctxt "SS2C3_Explanation_WarWithTheGunners_1of3"
+msgid "Faction War\n\nYoure now at war with the Gunners.\n\nTo win the war, youll need to find and clear out all locations that faction has conquered."
+msgstr ""
+
+msgctxt "SS2C3_FusionCoreRequired"
+msgid "This requires a fusion core."
+msgstr "핵융합 코어가 필요합니다."
+
+msgctxt "SS2C3_MA03_BypassOverseerDoorOptions"
+msgid "This door correctly sealed itself when the fire system was tripped. You may be able to work it open."
+msgstr ""
+
+msgctxt "SS2C3_Charlotte_CapitalCityDeclined"
+msgid "You can Establish your Capital City from the Manage City option on a City Planners Desk."
+msgstr ""
+
+msgctxt "SS2C3_Charlotte_ChooseCapitalCity"
+msgid "In order to take advantage of Charlottes services, youll need to establish a Capital City, would you like to do that now?"
+msgstr ""
+
+msgctxt "SS2C3_MQ29_MissileHelpMessage"
+msgid "Hold [SecondaryAttack] while aiming at the enemy vertibird to lock on so Lupe can fire a missile."
+msgstr ""
+
+msgctxt "SS2C3_CPDesignersDescription_1_TheCastleDefenses"
+msgid "Single level plan drawn up by the HQ staff to help prepare for the incoming Gunner invasion force."
+msgstr ""
+
+msgctxt "SS2C3_CPDesignersDescription_1_WarwickBigGunnerBattle"
+msgid "Single level plan drawn up by the HQ staff to help prepare for the incoming Gunner invasion force."
+msgstr ""
+
+msgctxt "SS2C3_Warning_SS2BaseVersionMismatch"
+msgid "WARNING\nYour version of SS2.esm is out of date. This version of the Chapter 3 expansion requires a newer build of Sim Settlements 2.\n\nDo not overwrite your save. Update Sim Settlements 2 and reload."
+msgstr ""
+
+msgctxt "SS2C3_CustomHouseTour_ElevatorMenu"
+msgid "Choose a Floor"
+msgstr ""
+
+msgctxt "SS2C3_NLTC04_PurifierFix_Message"
+msgid "Try to fix it."
+msgstr ""
+
+msgctxt "SS2C3_BPConfirm_WV_BuildingPlan_IntMart_Armory"
+msgid "Orderly Ordnance by Tinuvia\n\n[Armory]\nAutomatically equips Soldiers, at higher levels will provide more items."
+msgstr ""
+
+msgctxt "SS2C3_BPConfirm_WV_BuildingPlan_IntRecr_MessHall"
+msgid "Chow Corner by Tinuvia\n\n[Mess Hall]\nProvides a small happiness boost, and buffs to soldiers to help them in combat."
+msgstr ""
+
+msgctxt "SS2C3_BPConfirm_WV_BuildingPlan_IntMart_RecruitmentCenter"
+msgid "[SS2C3] Conscription Charter by Tinuvia\n\n[Recruitment Center] \nIncreases max number of soldiers that can be recruited each day."
+msgstr ""
+
+msgctxt "SS2C3_WV_BPConfirm_BuildingPlan_IntMart_BattlefieldScavenger"
+msgid "Tube Alloys Disassembly Park by Myrmarachne\n\nTwist a cork in that helmet hole and put it on the next unsuspecting bullet sponge in your wasteland army. Onwards!\n\n[Battlefield Scavenger]\nIncreases Spoils received from battles."
+msgstr ""
+
+msgctxt "SS2C3_WV_BPConfirm_BuildingPlan_IntMart_Prison"
+msgid "Human Recycling Ward Prison by Myrmarachne\n\nInterior prison that also stands in as a garbage disposal area.\n\n[Prison]\nCapture enemy combatants during Assaults and Raids"
+msgstr ""
+
+msgctxt "SS2C3_FeaturedMessage_Unlock_Artillery"
+msgid "You can now call in artillery strikes in and outside of the Commonwealth.\n\nBuild Artillery Pieces in settlements and use Artillery Smoke Grenades to mark your targets. You can craft these grenades at a Chemistry Workbench."
+msgstr ""
+
+msgctxt "SS2C3_FeaturedMessage_Unlock_LupesCommStation"
+msgid "Compact [Communications] building for a 1x1 Municipal Plot."
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_HangarArmoryUpgrade_C3HangarArmoryUpgrade"
+msgid "Add armor and power armor storage and management to your Hangar armory"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_HangarArmory_Base"
+msgid "A very secure military armory in the hangar"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_HangoutBar_Base"
+msgid "Bar and relaxation area for the diner area of the hangar"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_HangoutBar-Upgrade_C3DinerBarUpgrade"
+msgid "Add another administration job, an improved bar area, and some pool tables to the Hangout Bar"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_DinerKitchen_Base"
+msgid "Fix up the old Diner kitchen to feed the Hangar staff"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_DinerKitchenUpgrade_C3DinerKitchenAppliancesBasic"
+msgid "Working refrigeration and better counters and appliances"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_LoadoutResearchandDevelopment_Base"
+msgid "Dedicated area for testing of weapon and armor combinations for your soldier loadouts"
+msgstr ""
+
+msgctxt "SS2C3HQGNN_LayoutDescription_LoadoutTesting-Upgrade_C3LoadoutRandDUpgrade"
+msgid "Cameras, computers, and other tools to help in analyzing the performance of your loadouts"
+msgstr ""
+
+msgctxt "SS2C3_CPDesignersDescription_1_SpectacleIslandOutpost"
+msgid "Single level plan drawn up by the HQ staff to help prepare for the incoming Gunner invasion force."
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_TroopTraining_Base"
+msgid "A place where military advisors and trainers can get your soldiers into fighting shape through a perfectly safe (we swear) obstacle course and series of intense calisthenics and combat training drills."
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_TroopTraining-CombatTraining_C3HangarSETroopTrainingUpgrade"
+msgid "More combat training options are now available to your soldiers as even more advisors and trainers stand by to improve their combat readiness"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_VehicleMaintenance-MotorPool_Base"
+msgid "Your engineers are on the case refurbishing and salvaging old prewar vehicles to help with the war effort."
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_MilitaryDepartmentQuarters_Base"
+msgid "Salvadors personal Quarters"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_MilitaryDepartmentQuartersimprovement_improvement"
+msgid "Salvadors military coordination center"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_ServerRoom"
+msgid "Things that go should go biep boop in the night"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_IntelligenceMonitoring_Base"
+msgid "Military intelligence, get it?"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_Sentinels_Base"
+msgid "Were rusting, but were still watching"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_Sewagetreatment_Base"
+msgid "Changing human lemonade into drinkable water."
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_MilitaryDepartmentHeadOffice_Base"
+msgid "Military coordination center"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_Serenity_Base"
+msgid "Worker 1: Peaceful aint it?\nWorker 2: ya... kinda looks like cheap wallpaper"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_HangarArmory-AmmoStorage_C3HangarArmoryUpgradeB"
+msgid "Add ammo storage to the hangar armory"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_HangarArmoryUpgrade-MoreStorage_C3HangarArmoryUpgradeD"
+msgid "Add even more storage for weapons, ammo, and more to the hangar armory"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_HangarArmoryUpgrade-PASupport_C3HangarArmoryUpgradeE"
+msgid "Add Power Armor storage to the Hangar Armory for some serious mechanized warfare"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_Loadout-WeaponsLabIntegration_C3LoadoutRDWWB"
+msgid "Integrate Weapons and Loadout Labs - adding functional access to lab services to the Weapons Workbench in the Loadout Lab"
+msgstr ""
+
+msgctxt "SS2C3LayoutDescription_Loadout-ArmorLabIntegration_C3LoadoutRDAWB"
+msgid "Integrate the Loadout Lab with the Armor Lab, allowing access to lab services from the armor lab at the Loadout Labs armor workbench"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_Loadout-ChemLabIntegration_C3LoadoutRDCWB"
+msgid "Integrate the functions of the Chemistry Lab and Loadout Lab and get access to lab services at the Loadout Labs chemistry workbench"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_HangarTrenchesMaintenancePath_Base"
+msgid "Clears and rebuilds Hangar Trench maintenance path"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_HangarArmoryUpgrade-Defenses_C3HangarArmoryUpgradeC"
+msgid "Add turrets and a camera to defend your armory"
+msgstr ""
+
+msgctxt "SS2C3_JA06_CantFreeJake"
+msgid "You must defeat the remaining Gunners and find the key before freeing Jake."
+msgstr ""
+
+msgctxt "SS2C3_SA01_MustChooseLocation"
+msgid "You didnt choose a location. Would you like to use Alias=MQ29SettlementLocation?"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_DinerCorridorEntranceDisplayCases_Diner_entrance"
+msgid "Add plants near the entrance of the Diner.\nInterchangeable with the Dinner Corridor: Plants upgrade."
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_DinerCorridorGreenery_Diner_entrance"
+msgid "Add plants near the entrance of the Diner.\nInterchangeable with the Dinner Corridor: Display Cases upgrade."
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_DinerCorridor_Base"
+msgid "A corridor with lockers, a jukebox and some tables.\n\nThree upgrades: \n Flags - Plants -Display Cases\n\nThe plants and the display cases are mutually exclusive."
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_ReinforcedCheckpointRegistrationDesk_desk1"
+msgid "Adds a registration desk to the Reinforced Checkpoint of the Elevator."
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_ReinforcedCheckpoint_Base"
+msgid "Reinforced checkpoints with some amount of amunition and turrets.\nHas two upgrades : Flags and Registration Desk"
+msgstr ""
+
+msgctxt "SS2C3_Foxel_StorageWingEntryPaintingPlaque1Message"
+msgid "Violet Shores depicts a mesmerizing lake adorned with radiant purple flora, nestled near the glowing sea. The vibrant hues of the plants defy the desolation, casting an otherworldly glow that speaks of resilience and the interplay between beauty and the dreaded wasteland."
+msgstr ""
+
+msgctxt "SS2C3_Foxel_StorageWingEntryPaintingPlaque2Message"
+msgid "A tranquil pond near Concord unveils natures resilience amidst the wastelands chaos. Overgrown foliage and ancient trees surround the serenity, whispering tales of survival and harmony. No turrets in sight."
+msgstr ""
+
+msgctxt "SS2C3_Foxel_StorageWingEntryPaintingPlaque3Message"
+msgid "War Never Changes is a surreal painting that delves deep into the heart of the human experience in the aftermath of devastation, seen by the eyes of a ghoul survivor. This captivating painting combines surrealist elements with haunting imagery of nuclear mushrooms, serving as a chilling reminder of the perpetual cycle of conflict that plagues our world."
+msgstr ""
+
+msgctxt "SS2C3_Foxel_StorageWingEntryPaintingPlaque4Message"
+msgid "Forsaken Sands portrays the desolate shores of Far Harbor, where a sandy beach stretches endlessly, abandoned and forgotten. The relentless waves crash upon the barren coastline, carrying a sense of solitude and loss. The muted hues and empty expanse evoke a haunting beauty, reflecting the forsaken nature of this once vibrant seaside haven."
+msgstr ""
+
+msgctxt "SS2C3_Foxel_StorageWingEntryPaintingPlaque5Message"
+msgid "Enchanted Haven is a delightful naive painting, lovingly crafted by Maria, an inhabitant of Vault 81 who channels her imagination onto the canvas during her precious free time. In this whimsical artwork, a serene glade comes to life with vibrant strokes and childlike charm. The meandering path is lined with blossoming wildflowers, while friendly woodland creatures peek out from behind the towering trees. Quite unrealistic, but lovely !"
+msgstr ""
+
+msgctxt "SS2C3_Foxel_StorageWingEntryPaintingPlaque6Message"
+msgid "Radiant Revelation is a captivating abstract painting by Herbert, a devoted member of the strange sect known as the Children of Atom. This artwork transcends conventional forms, expressing the spiritual essence of their beliefs. Swirling strokes of vibrant colors converge and diverge, symbolizing the ever-shifting nature of radiation and its profound influence on their worldview. The dynamic composition radiates energy, evoking a sense of both awe and trepidation."
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_EmbassyWaitingRoom_Base"
+msgid "Waiting Area for the Embassy. Has two upgrades : Trees and Paintings"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_EmbassyWaitingRoomPaintings_embwaiting_paintings"
+msgid "Adds six paintings on the wall with interactives plaques under it."
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_EmbassyWaitingRoomPlants_embwaiting_central"
+msgid "Decorate the Embassy Waiting Room  with plants and trees."
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_HangarEmbassy_Base"
+msgid "Get administrators as well as the representation of the desired faction. You can choose the faction in the upgrade."
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_HangarEmbassyBrotherhoodofSteel_embassy_faction"
+msgid "Assign the Brotherhood of Steel to the embassy"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_HangarEmbassyInstitute_embassy_faction"
+msgid "Assign the Institute to the embassy"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_HangarEmbassyRailroad_embassy_faction"
+msgid "Assign the Railroad to the embassy"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_HangarEmbassyMinutemen_embassy_faction"
+msgid "Assign the Minutemen to the embassy"
+msgstr ""
+
+msgctxt "SS2C3_LayoutDescription_HVACPowerRoom_Base"
+msgid "Has five upgrades, each increasing power by 100."
+msgstr ""
+
+msgctxt "SS2C3_MQ35_Endgame_Message"
+msgid "--WARNING--\nThe end draws near.\nEnsure you have finished any Quests, gathered any Gear, Weapons, Aid, Ammo, Power Armor, Companions, or anything else you think you may need for the coming final conflict before you proceed.\nThere will be no turning back..."
+msgstr ""
+
+msgctxt "SS2C3_FeaturedMessage_Unlock_HangarLevel"
+msgid "The Hangar Level of HQ is now available for Cleaning and Construction projects outside of the main Hangar Bay area."
+msgstr ""
+
+msgctxt "SS2C3_SA02_KeycardBypassOptions"
+msgid "The key reader remains locked after swiping the keycard."
+msgstr ""
+
+msgctxt "SS2C3_TutorialsAddedToHolotape"
+msgid "Additional tutorials are now available in the Preparing for War holotape."
+msgstr ""
+
+msgctxt "SS2C3_MQ35_Message_StrikeAssign_01"
+msgid "STRIKE TEAM\nassign a faction"
+msgstr ""
+
+msgctxt "SS2C3_MQ35_Message_StrikeAssign_02"
+msgid "STRIKE TEAM\nassign a faction"
+msgstr ""
+
+msgctxt "SS2C3_MQ35_SalPick_Message"
+msgid "Who should assign roles for the plan?"
+msgstr ""
+
+msgctxt "SS2C3_MQ35_Message_DefenseAssign_01"
+msgid "DEFENSE TEAM\nassign a faction"
+msgstr ""
+
+msgctxt "SS2C3_MQ35_Message_DefenseAssign_02"
+msgid "DEFENSE TEAM\nassign a faction"
+msgstr ""
+
+msgctxt "SS2C3_MQ35_Message_TechAssign_01"
+msgid "TECH TEAM\nassign a faction"
+msgstr ""
+
+msgctxt "SS2C3_MQ35_Message_TechAssign_02"
+msgid "TECH TEAM\nassign a faction"
+msgstr ""
+
+msgctxt "SS2C3_MQ35_SkipRole_Message"
+msgid "Assign Alias=MessageAlias_TeamName"
+msgstr ""
+
+msgctxt "SS2C3_MQ35_Message_RangedAssign_01"
+msgid "RANGED TEAM\nassign a faction"
+msgstr ""
+
+msgctxt "SS2C3_MQ35_Message_RangedAssign_02"
+msgid "RANGED TEAM\nassign a faction"
+msgstr ""
+
+msgctxt "SS2C3_MQ35_Message_InfiltrateAssign_01"
+msgid "INFILTRATE TEAM\nassign a faction"
+msgstr ""
+
+msgctxt "SS2C3_MQ35_Message_InfiltrateAssign_02"
+msgid "INFILTRATE TEAM\nassign a faction"
+msgstr ""
+
+msgctxt "SS2C3_MQ35_Message_AirSupportAssign_01"
+msgid "AIR SUPPORT TEAM\nassign a faction"
+msgstr ""
+
+msgctxt "SS2C3_MQ35_Message_AirSupportAssign_02"
+msgid "AIR SUPPORT TEAM\nassign a faction"
+msgstr ""
+
+msgctxt "SS2C3_MQ35_Message_MissionSupportAssign_01"
+msgid "MISSION SUPPORT TEAM\nassign a faction"
+msgstr ""
+
+msgctxt "SS2C3_MQ35_Message_MissionSupportAssign_02"
+msgid "MISSION SUPPORT TEAM\nassign a faction"
+msgstr ""
+
+msgctxt "SS2C3_MQ35_RolesOpen_Message"
+msgid "Assign Open Roles\nfor the Plan"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_WeaponsResearch-Artillery_co_1"
+msgid "Reverse-engineer artillery plans from artillery wreckage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_WeaponsResearch-Artillery_co_2"
+msgid "Reverse-engineer artillery plans from artillery wreckage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_WeaponsResearch-Artillery_co_3"
+msgid "Reverse-engineer artillery plans from artillery wreckage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_NorthMechanicalRoom_HangarArmory_co_1"
+msgid "+2 Military Jobs | Armory | +1000 Max Supply Security | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_NorthMechanicalRoom_HangarArmory_co_2"
+msgid "+2 Military Jobs | Armory | +1000 Max Supply Security | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_NorthMechanicalRoom_HangarArmory_co_3"
+msgid "+2 Military Jobs | Armory | +1000 Max Supply Security | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_NorthMechanicalRoom_HangarArmoryUpgrade_co_1"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_NorthMechanicalRoom_HangarArmoryUpgrade_co_2"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_NorthMechanicalRoom_HangarArmoryUpgrade_co_3"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerShopArea_HangoutBar_co_1"
+msgid "Bar | Leisure Area | Party Space | +2 Administration Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerShopArea_HangoutBar_co_2"
+msgid "Bar | Leisure Area | Party Space | +2 Administration Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerShopArea_HangoutBar_co_3"
+msgid "Bar | Leisure Area | Party Space | +2 Administration Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerShopArea_HangoutBar-Upgrade_co_1"
+msgid "+1 Administration Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerShopArea_HangoutBar-Upgrade_co_2"
+msgid "+1 Administration Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerShopArea_HangoutBar-Upgrade_co_3"
+msgid "+1 Administration Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerKitchenArea_DinerKitchen_co_1"
+msgid "+2 Logistics Jobs | +50 Max Food Logistics | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerKitchenArea_DinerKitchen_co_2"
+msgid "+2 Logistics Jobs | +50 Max Food Logistics | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerKitchenArea_DinerKitchen_co_3"
+msgid "+2 Logistics Jobs | +50 Max Food Logistics | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerKitchenArea_DinerKitchenUpgrade_co_1"
+msgid "+1 Logistics Jobs | +30 Max Food Logistics | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerKitchenArea_DinerKitchenUpgrade_co_2"
+msgid "+1 Logistics Jobs | +30 Max Food Logistics | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerKitchenArea_DinerKitchenUpgrade_co_3"
+msgid "+1 Logistics Jobs | +30 Max Food Logistics | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerSeatingArea_DinerSeating_co_1"
+msgid "Dining Hall | Leisure Area | +2 Administration Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerSeatingArea_DinerSeating_co_2"
+msgid "Dining Hall | Leisure Area | +2 Administration Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerSeatingArea_DinerSeating_co_3"
+msgid "Dining Hall | Leisure Area | +2 Administration Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3HQGNN_BuildableAction_C3_GNNHangar_DinerSeatingArea_DinerSeatingUpgrade_co_1"
+msgid "+1 Administration Jobs | Coffee Station | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3HQGNN_BuildableAction_C3_GNNHangar_DinerSeatingArea_DinerSeatingUpgrade_co_2"
+msgid "+1 Administration Jobs | Coffee Station | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3HQGNN_BuildableAction_C3_GNNHangar_DinerSeatingArea_DinerSeatingUpgrade_co_3"
+msgid "+1 Administration Jobs | Coffee Station | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_MainStorageRoom_LoadoutResearchandDev_7E75FD72"
+msgid "+2 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_MainStorageRoom_LoadoutResearchandDev_E77CACC8"
+msgid "+2 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_MainStorageRoom_LoadoutResearchandDev_907B9C5E"
+msgid "+2 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3HQGNN_HQGNN_BuildableAction_C3_GNNHangar_MainStorageRoom_LoadoutTesting-U_2916B926"
+msgid "+2 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3HQGNN_HQGNN_BuildableAction_C3_GNNHangar_MainStorageRoom_LoadoutTesting-U_B01FE89C"
+msgid "+2 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3HQGNN_HQGNN_BuildableAction_C3_GNNHangar_MainStorageRoom_LoadoutTesting-U_C718D80A"
+msgid "+2 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerMezzanine_DinerVending_co_1"
+msgid "+1 Logistics Jobs | Vending Machines | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerMezzanine_DinerVending_co_2"
+msgid "+1 Logistics Jobs | Vending Machines | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_DinerMezzanine_DinerVending_co_3"
+msgid "+1 Logistics Jobs | Vending Machines | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_StorageRoom_co_1"
+msgid "Storage Area | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_StorageRoom_co_2"
+msgid "Storage Area | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_StorageRoom_co_3"
+msgid "Storage Area | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_StorageWingMiddle_TentativeEmbassy_co_1"
+msgid "+2 Administration Jobs | Embassy | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_StorageWingMiddle_TentativeEmbassy_co_2"
+msgid "+2 Administration Jobs | Embassy | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_StorageWingMiddle_TentativeEmbassy_co_3"
+msgid "+2 Administration Jobs | Embassy | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BaySoutheastArea_TroopTraining_co_1"
+msgid "+2 Military Jobs | Gym | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BaySoutheastArea_TroopTraining_co_2"
+msgid "+2 Military Jobs | Gym | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BaySoutheastArea_TroopTraining_co_3"
+msgid "+2 Military Jobs | Gym | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BaySoutheastArea_TroopTraining-Combat_E9B2FC5D"
+msgid "+2 Military Jobs | Obstacle Course | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BaySoutheastArea_TroopTraining-Combat_70BBADE7"
+msgid "+2 Military Jobs | Obstacle Course | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BaySoutheastArea_TroopTraining-Combat_07BC9D71"
+msgid "+2 Military Jobs | Obstacle Course | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BayNortheastArea_VehicleMaintenance-M_26B87519"
+msgid "+2 Engineering Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BayNortheastArea_VehicleMaintenance-M_BFB124A3"
+msgid "+2 Engineering Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BayNortheastArea_VehicleMaintenance-M_C8B61435"
+msgid "+2 Engineering Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BayNortheastArea_VehicleMaintenance-S_426ABC1F"
+msgid "+2 Engineering Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BayNortheastArea_VehicleMaintenance-S_DB63EDA5"
+msgid "+2 Engineering Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BayNortheastArea_VehicleMaintenance-S_AC64DD33"
+msgid "+2 Engineering Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BayNortheastArea_TriageZone_co_1"
+msgid "Infirmary | +4 Max Science Patients | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BayNortheastArea_TriageZone_co_2"
+msgid "Infirmary | +4 Max Science Patients | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BayNortheastArea_TriageZone_co_3"
+msgid "Infirmary | +4 Max Science Patients | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BaySoutheastArea_SurgeryCenter_co_1"
+msgid "Infirmary | +4 Max Science Patients | +2 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BaySoutheastArea_SurgeryCenter_co_2"
+msgid "Infirmary | +4 Max Science Patients | +2 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BaySoutheastArea_SurgeryCenter_co_3"
+msgid "Infirmary | +4 Max Science Patients | +2 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_LandingPad_ProvisionalHospital_co_1"
+msgid "Infirmary | Regional Hospital | +16 Max Science Patients | +6 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_LandingPad_ProvisionalHospital_co_2"
+msgid "Infirmary | Regional Hospital | +16 Max Science Patients | +6 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_LandingPad_ProvisionalHospital_co_3"
+msgid "Infirmary | Regional Hospital | +16 Max Science Patients | +6 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BayNorthwestArea_RefugeeCamp_co_1"
+msgid "+9 Max Workers | Living Quarters | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BayNorthwestArea_RefugeeCamp_co_2"
+msgid "+9 Max Workers | Living Quarters | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_BayNorthwestArea_RefugeeCamp_co_3"
+msgid "+9 Max Workers | Living Quarters | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_ElevatorEntryway_TemporaryCheckpoint_co_1"
+msgid "Interior Defenses | +2 Security Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_ElevatorEntryway_TemporaryCheckpoint_co_2"
+msgid "Interior Defenses | +2 Security Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_ElevatorEntryway_TemporaryCheckpoint_co_3"
+msgid "Interior Defenses | +2 Security Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNN512Box_EntranceRight_POWCell_co_1"
+msgid "+2 Security Jobs | +4 Max Security Prisoners | Holding Cells | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNN512Box_EntranceRight_POWCell_co_2"
+msgid "+2 Security Jobs | +4 Max Security Prisoners | Holding Cells | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNN512Box_EntranceRight_POWCell_co_3"
+msgid "+2 Security Jobs | +4 Max Security Prisoners | Holding Cells | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNN512Box_EntranceLeft_MilitaryDepartmentQuarters_co_1"
+msgid "+1 Max Workers | Department Head Private Quarters: Military | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNN512Box_EntranceLeft_MilitaryDepartmentQuarters_co_2"
+msgid "+1 Max Workers | Department Head Private Quarters: Military | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNN512Box_EntranceLeft_MilitaryDepartmentQuarters_co_3"
+msgid "+1 Max Workers | Department Head Private Quarters: Military | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNN512Box_EntranceLeft_MilitaryDepartmentQuartersi_0B22BE74"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNN512Box_EntranceLeft_MilitaryDepartmentQuartersi_922BEFCE"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNN512Box_EntranceLeft_MilitaryDepartmentQuartersi_E52CDF58"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNN512x256Rectangle_EntranceLeft_ServerRoom_co_1"
+msgid "+1 Max Workers | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNN512x256Rectangle_EntranceLeft_ServerRoom_co_2"
+msgid "+1 Max Workers | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNN512x256Rectangle_EntranceLeft_ServerRoom_co_3"
+msgid "+1 Max Workers | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNN512x768Rectangle_EntranceRight_IntelligenceMoni_4F8D89C6"
+msgid "+3 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNN512x768Rectangle_EntranceRight_IntelligenceMoni_D684D87C"
+msgid "+3 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNN512x768Rectangle_EntranceRight_IntelligenceMoni_A183E8EA"
+msgid "+3 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_MaintenanceCorridor_Sentinels_co_1"
+msgid "+10 Power Usage | +10 Water Usage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_MaintenanceCorridor_Sentinels_co_2"
+msgid "+10 Power Usage | +10 Water Usage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_MaintenanceCorridor_Sentinels_co_3"
+msgid "+10 Power Usage | +10 Water Usage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment_co_1"
+msgid "+2 Engineering Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment_co_2"
+msgid "+2 Engineering Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment_co_3"
+msgid "+2 Engineering Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment-improved_co_1"
+msgid "+100 Max Water Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment-improved_co_2"
+msgid "+100 Max Water Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment-improved_co_3"
+msgid "+100 Max Water Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment-impr_3341FAE3"
+msgid "+100 Max Water Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment-impr_AA48AB59"
+msgid "+100 Max Water Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment-impr_DD4F9BCF"
+msgid "+100 Max Water Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment-impr_B5D5884D"
+msgid "+100 Max Water Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment-impr_2CDCD9F7"
+msgid "+100 Max Water Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment-impr_5BDBE961"
+msgid "+100 Max Water Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment-impr_7E895BE8"
+msgid "+100 Max Water Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment-impr_E7800A52"
+msgid "+100 Max Water Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment-impr_90873AC4"
+msgid "+100 Max Water Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment-UV_co_1"
+msgid "+100 Max Water Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment-UV_co_2"
+msgid "+100 Max Water Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_PlantRoomStorage_Sewagetreatment-UV_co_3"
+msgid "+100 Max Water Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_ViewingPlatform_MilitaryDepartmentHea_4BE44211"
+msgid "+2 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_ViewingPlatform_MilitaryDepartmentHea_D2ED13AB"
+msgid "+2 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_ViewingPlatform_MilitaryDepartmentHea_A5EA233D"
+msgid "+2 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_ViewingPlatform_MilitaryDepartment-ve_5C446AC4"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_ViewingPlatform_MilitaryDepartment-ve_C54D3B7E"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_ViewingPlatform_MilitaryDepartment-ve_B24A0BE8"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_ViewingPlatform_MilitaryDepartment-Ey_B474C0EA"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_ViewingPlatform_MilitaryDepartment-Ey_2D7D9150"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_ViewingPlatform_MilitaryDepartment-Ey_5A7AA1C6"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_MaintenanceCorridor_Serenity_co_1"
+msgid "+10 Water Usage | +10 Power Usage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_MaintenanceCorridor_Serenity_co_2"
+msgid "+10 Water Usage | +10 Power Usage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_C3_GNNHangar_MaintenanceCorridor_Serenity_co_3"
+msgid "+10 Water Usage | +10 Power Usage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_ServiceTunnel_Servicetunnel_co_1"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_ServiceTunnel_Servicetunnel_co_2"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_ServiceTunnel_Servicetunnel_co_3"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_ServiceTunnel_ServiceTunnellowersection_co_1"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_ServiceTunnel_ServiceTunnellowersection_co_2"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_ServiceTunnel_ServiceTunnellowersection_co_3"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Hangerholdingcells_co_1"
+msgid "+2 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Hangerholdingcells_co_2"
+msgid "+2 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Hangerholdingcells_co_3"
+msgid "+2 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Improvecellblock1_co_1"
+msgid "+1 Military Jobs | +10 Water Usage | +10 Food Usage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Improvecellblock1_co_2"
+msgid "+1 Military Jobs | +10 Water Usage | +10 Food Usage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Improvecellblock1_co_3"
+msgid "+1 Military Jobs | +10 Water Usage | +10 Food Usage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Improvecellblock2_co_1"
+msgid "+10 Food Usage | +10 Water Usage | +1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Improvecellblock2_co_2"
+msgid "+10 Food Usage | +10 Water Usage | +1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Improvecellblock2_co_3"
+msgid "+10 Food Usage | +10 Water Usage | +1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Addsecoundcellblocks_co_1"
+msgid "+1 Military Jobs | +10 Food Usage | +10 Water Usage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Addsecoundcellblocks_co_2"
+msgid "+1 Military Jobs | +10 Food Usage | +10 Water Usage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Addsecoundcellblocks_co_3"
+msgid "+1 Military Jobs | +10 Food Usage | +10 Water Usage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Improvecellblock3_co_1"
+msgid "+1 Military Jobs | +10 Food Usage | +10 Water Usage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Improvecellblock3_co_2"
+msgid "+1 Military Jobs | +10 Food Usage | +10 Water Usage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Improvecellblock3_co_3"
+msgid "+1 Military Jobs | +10 Food Usage | +10 Water Usage | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Holdingcellsfactiontheming_co_1"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Holdingcellsfactiontheming_co_2"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Holdingcellsfactiontheming_co_3"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_NorthMechanicalRoom_HangarArmory-AmmoStorage_co_1"
+msgid "+1 Military Jobs | +250 Max Supply Security Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_NorthMechanicalRoom_HangarArmory-AmmoStorage_co_2"
+msgid "+1 Military Jobs | +250 Max Supply Security Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_NorthMechanicalRoom_HangarArmory-AmmoStorage_co_3"
+msgid "+1 Military Jobs | +250 Max Supply Security Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_NorthMechanicalRoom_HangarArmoryUpgrade-_AE4A1A3F"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_NorthMechanicalRoom_HangarArmoryUpgrade-_37434B85"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_NorthMechanicalRoom_HangarArmoryUpgrade-_40447B13"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_NorthMechanicalRoom_HangarArmoryUpgrade-_3FA602EA"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_NorthMechanicalRoom_HangarArmoryUpgrade-_A6AF5350"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_NorthMechanicalRoom_HangarArmoryUpgrade-_D1A863C6"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_NorthMechanicalRoom_HangarArmoryUpgrade-_DE8EF9C4"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_NorthMechanicalRoom_HangarArmoryUpgrade-_4787A87E"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_NorthMechanicalRoom_HangarArmoryUpgrade-_308098E8"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_MainStorageRoom_Loadout-WeaponsLabIntegr_883ABA67"
+msgid "+1 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_MainStorageRoom_Loadout-WeaponsLabIntegr_1133EBDD"
+msgid "+1 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_MainStorageRoom_Loadout-WeaponsLabIntegr_6634DB4B"
+msgid "+1 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3HQGNN_BuildableAction_GNNHangar_MainStorageRoom_Loadout-ArmorLabIntegration_co_1"
+msgid "+1 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3HQGNN_BuildableAction_GNNHangar_MainStorageRoom_Loadout-ArmorLabIntegration_co_2"
+msgid "+1 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3HQGNN_BuildableAction_GNNHangar_MainStorageRoom_Loadout-ArmorLabIntegration_co_3"
+msgid "+1 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_MainStorageRoom_Loadout-ChemLabIntegration_co_1"
+msgid "+1 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_MainStorageRoom_Loadout-ChemLabIntegration_co_2"
+msgid "+1 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_MainStorageRoom_Loadout-ChemLabIntegration_co_3"
+msgid "+1 Science Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_MaintenancePit_MaintenancePitStorage_co_1"
+msgid "Storage Area | +1 Logistics Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_MaintenancePit_MaintenancePitStorage_co_2"
+msgid "Storage Area | +1 Logistics Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_MaintenancePit_MaintenancePitStorage_co_3"
+msgid "Storage Area | +1 Logistics Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_Trenches_HangarTrenchesMaintenancePath_co_1"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_Trenches_HangarTrenchesMaintenancePath_co_2"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_Trenches_HangarTrenchesMaintenancePath_co_3"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_DinerServiceCorridor_DinerCorridorEntran_FC734726"
+msgid "Decorate the end of the Diner Corridor with display cases. | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_DinerServiceCorridor_DinerCorridorEntran_657A169C"
+msgid "Decorate the end of the Diner Corridor with display cases. | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_DinerServiceCorridor_DinerCorridorEntran_127D260A"
+msgid "Decorate the end of the Diner Corridor with display cases. | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_ElevatorEntryway_ReinforcedCheckpointReg_DFA4EEC9"
+msgid "+1 Administration Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_ElevatorEntryway_ReinforcedCheckpointReg_46ADBF73"
+msgid "+1 Administration Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_ElevatorEntryway_ReinforcedCheckpointReg_31AA8FE5"
+msgid "+1 Administration Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_ElevatorEntryway_ReinforcedCheckpoint_co_1"
+msgid "+2 Security Jobs | Interior Defenses | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_ElevatorEntryway_ReinforcedCheckpoint_co_2"
+msgid "+2 Security Jobs | Interior Defenses | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_ElevatorEntryway_ReinforcedCheckpoint_co_3"
+msgid "+2 Security Jobs | Interior Defenses | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_ElevatorEntryway_ReinforcedCheckpointAll_8EC37F74"
+msgid "Decorate the Diner Service Corridor with Dynamic Flags and Banners | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_ElevatorEntryway_ReinforcedCheckpointAll_17CA2ECE"
+msgid "Decorate the Diner Service Corridor with Dynamic Flags and Banners | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_ElevatorEntryway_ReinforcedCheckpointAll_60CD1E58"
+msgid "Decorate the Diner Service Corridor with Dynamic Flags and Banners | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_EastMechanicalRoom_EastMechanicalRoom_co_1"
+msgid "Leisure Area : has a Nuka-Cola and Newspaper distributor | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_EastMechanicalRoom_EastMechanicalRoom_co_2"
+msgid "Leisure Area : has a Nuka-Cola and Newspaper distributor | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_EastMechanicalRoom_EastMechanicalRoom_co_3"
+msgid "Leisure Area : has a Nuka-Cola and Newspaper distributor | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_EastMechanicalRoom_EastMechanicalRoomFlags_co_1"
+msgid "Decorate the East Mechnical Room with Dynamic Flags and Banners\n| Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_EastMechanicalRoom_EastMechanicalRoomFlags_co_2"
+msgid "Decorate the East Mechnical Room with Dynamic Flags and Banners\n| Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_EastMechanicalRoom_EastMechanicalRoomFlags_co_3"
+msgid "Decorate the East Mechnical Room with Dynamic Flags and Banners\n| Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_EastMechanicalRoom_EastMechanicalRoomPai_644965F3"
+msgid "Decorate the East Mechnical Room with paintings | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_EastMechanicalRoom_EastMechanicalRoomPai_FD403449"
+msgid "Decorate the East Mechnical Room with paintings | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_EastMechanicalRoom_EastMechanicalRoomPai_8A4704DF"
+msgid "Decorate the East Mechnical Room with paintings | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingEntry_EmbassyWaitingRoom_co_1"
+msgid "Leisure Area | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingEntry_EmbassyWaitingRoom_co_2"
+msgid "Leisure Area | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingEntry_EmbassyWaitingRoom_co_3"
+msgid "Leisure Area | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingEntry_EmbassyWaitingRoomPaintings_co_1"
+msgid "Decorate the Embassy Waiting Room with interactive paintings | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingEntry_EmbassyWaitingRoomPaintings_co_2"
+msgid "Decorate the Embassy Waiting Room with interactive paintings | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingEntry_EmbassyWaitingRoomPaintings_co_3"
+msgid "Decorate the Embassy Waiting Room with interactive paintings | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingEntry_EmbassyWaitingRoomPlants_co_1"
+msgid "Plantlife | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingEntry_EmbassyWaitingRoomPlants_co_2"
+msgid "Plantlife | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingEntry_EmbassyWaitingRoomPlants_co_3"
+msgid "Plantlife | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_DinerServiceCorridor_DinerServiceCorridor_co_1"
+msgid "Leisure Area | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_DinerServiceCorridor_DinerServiceCorridor_co_2"
+msgid "Leisure Area | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_DinerServiceCorridor_DinerServiceCorridor_co_3"
+msgid "Leisure Area | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_DinerServiceCorridor_CorridorAllegianceDecor_co_1"
+msgid "Decorate the Diner Service Corridor with Dynamic Flags and Banners | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_DinerServiceCorridor_CorridorAllegianceDecor_co_2"
+msgid "Decorate the Diner Service Corridor with Dynamic Flags and Banners | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_DinerServiceCorridor_CorridorAllegianceDecor_co_3"
+msgid "Decorate the Diner Service Corridor with Dynamic Flags and Banners | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_DinerServiceCorridor_CorridorGreenery_co_1"
+msgid "Decorate the end of the Diner Corridor with plants. | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_DinerServiceCorridor_CorridorGreenery_co_2"
+msgid "Decorate the end of the Diner Corridor with plants. | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_DinerServiceCorridor_CorridorGreenery_co_3"
+msgid "Decorate the end of the Diner Corridor with plants. | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingMiddle_HangarEmbassyBrotherho_F9F31AAE"
+msgid "Adds a Brotherhood of Steel Representation | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingMiddle_HangarEmbassyBrotherho_60FA4B14"
+msgid "Adds a Brotherhood of Steel Representation | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingMiddle_HangarEmbassyBrotherho_17FD7B82"
+msgid "Adds a Brotherhood of Steel Representation | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingMiddle_HangarEmbassyInstitute_co_1"
+msgid "Adds an Institute Representation | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingMiddle_HangarEmbassyInstitute_co_2"
+msgid "Adds an Institute Representation | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingMiddle_HangarEmbassyInstitute_co_3"
+msgid "Adds an Institute Representation | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingMiddle_HangarEmbassyRailroad_co_1"
+msgid "Adds a Railroad Representation | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingMiddle_HangarEmbassyRailroad_co_2"
+msgid "Adds a Railroad Representation | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingMiddle_HangarEmbassyRailroad_co_3"
+msgid "Adds a Railroad Representation | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingMiddle_HangarEmbassyMinutemen_co_1"
+msgid "Adds a Minutemen Representation | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingMiddle_HangarEmbassyMinutemen_co_2"
+msgid "Adds a Minutemen Representation | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_StorageWingMiddle_HangarEmbassyMinutemen_co_3"
+msgid "Adds a Minutemen Representation | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoom_co_1"
+msgid "HVAC Plant Room | +100 Max Power Engineering | Power Distribution | +2 Engineering Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoom_co_2"
+msgid "HVAC Plant Room | +100 Max Power Engineering | Power Distribution | +2 Engineering Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoom_co_3"
+msgid "HVAC Plant Room | +100 Max Power Engineering | Power Distribution | +2 Engineering Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoomUpgradeI_co_1"
+msgid "+100 Max Power Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoomUpgradeI_co_2"
+msgid "+100 Max Power Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoomUpgradeI_co_3"
+msgid "+100 Max Power Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoomUpgrade2_co_1"
+msgid "+100 Max Power Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoomUpgrade2_co_2"
+msgid "+100 Max Power Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoomUpgrade2_co_3"
+msgid "+100 Max Power Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoomUpgrade3_co_1"
+msgid "+100 Max Power Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoomUpgrade3_co_2"
+msgid "+100 Max Power Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoomUpgrade3_co_3"
+msgid "+100 Max Power Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoomUpgrade4_co_1"
+msgid "+100 Max Power Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoomUpgrade4_co_2"
+msgid "+100 Max Power Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoomUpgrade4_co_3"
+msgid "+100 Max Power Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoomUpgrade5_co_1"
+msgid "+100 Max Power Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoomUpgrade5_co_2"
+msgid "+100 Max Power Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_PlantRoomNorth_HVACPowerRoomUpgrade5_co_3"
+msgid "+100 Max Power Engineering | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_EntranceStairwell_HangarStairwell_co_1"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_EntranceStairwell_HangarStairwell_co_2"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_EntranceStairwell_HangarStairwell_co_3"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_Vassilization_co_1"
+msgid "Unlock the ability to make settlements into Vassals. | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_Vassilization_co_2"
+msgid "Unlock the ability to make settlements into Vassals. | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_Vassilization_co_3"
+msgid "Unlock the ability to make settlements into Vassals. | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_StandardizedLoadouts_co_1"
+msgid "Unlock Loadouts so that your soldiers can have a unified set of equipment issued. | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_StandardizedLoadouts_co_2"
+msgid "Unlock Loadouts so that your soldiers can have a unified set of equipment issued. | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_StandardizedLoadouts_co_3"
+msgid "Unlock Loadouts so that your soldiers can have a unified set of equipment issued. | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ReseachPillaging_co_1"
+msgid "Unlock the ability to attack locations for resources instead of capture. | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ReseachPillaging_co_2"
+msgid "Unlock the ability to attack locations for resources instead of capture. | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ReseachPillaging_co_3"
+msgid "Unlock the ability to attack locations for resources instead of capture. | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ScoutingRun_co_1"
+msgid "Generates a scout report revealing a new map marker and details if location is occupied | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ScoutingRun_co_2"
+msgid "Generates a scout report revealing a new map marker and details if location is occupied | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ScoutingRun_co_3"
+msgid "Generates a scout report revealing a new map marker and details if location is occupied | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ResearchLoadoutMedic_co_1"
+msgid "New loadout for your soldiers that allows them to heal others during combat. | Completion Time: 2 Days"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ResearchLoadoutMedic_co_2"
+msgid "New loadout for your soldiers that allows them to heal others during combat. | Completion Time: 2 Days"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ResearchLoadoutMedic_co_3"
+msgid "New loadout for your soldiers that allows them to heal others during combat. | Completion Time: 2 Days"
+msgstr ""
+
+msgctxt "SS2C3_co_HQBuildableAction_GNN_Military_ShowAssaultMenu"
+msgid "Open menu for planning an Assault from one of your Outposts."
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Improvewalls_co_1"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Improvewalls_co_2"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BaySouthwestArea_Improvewalls_co_3"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmormaintenance_co_1"
+msgid "+2 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmormaintenance_co_2"
+msgid "+2 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmormaintenance_co_3"
+msgid "+2 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmorstations_co_1"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmorstations_co_2"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmorstations_co_3"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmorsupplies_co_1"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmorsupplies_co_2"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmorsupplies_co_3"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmorsuppliesset2_co_1"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmorsuppliesset2_co_2"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmorsuppliesset2_co_3"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmorcrates_co_1"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmorcrates_co_2"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmorcrates_co_3"
+msgid "+1 Military Jobs | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmorfactiondecora_E3849C30"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmorfactiondecora_7A8DCD8A"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_BayNorthwestArea_Powerarmorfactiondecora_0D8AFD1C"
+msgid "Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_MaintenancePit_BermansHoldingCell_co_1"
+msgid "+1 Security Jobs | Holding Cells | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_MaintenancePit_BermansHoldingCell_co_2"
+msgid "+1 Security Jobs | Holding Cells | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_GNNHangar_MaintenancePit_BermansHoldingCell_co_3"
+msgid "+1 Security Jobs | Holding Cells | Completion Time: 1 Day"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ResearchInterrogationTactics_co_1"
+msgid "Unlock Interrogate for Intel Prisoner Option, which can reveal enemy territories. | Completion Time 2 Days"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ResearchInterrogationTactics_co_2"
+msgid "Unlock Interrogate for Intel Prisoner Option, which can reveal enemy territories. | Completion Time 2 Days"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ResearchInterrogationTactics_co_3"
+msgid "Unlock Interrogate for Intel Prisoner Option, which can reveal enemy territories. | Completion Time 2 Days"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ResearchCoercionTactics_co_1"
+msgid "Unlock Attempt to Conscript Prisoner Option, which can convert Captives to Soldiers. | Completion Time: 3 Days"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ResearchCoercionTactics_co_2"
+msgid "Unlock Attempt to Conscript Prisoner Option, which can convert Captives to Soldiers. | Completion Time: 3 Days"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ResearchCoercionTactics_co_3"
+msgid "Unlock Attempt to Conscript Prisoner Option, which can convert Captives to Soldiers. | Completion Time: 3 Days"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ResearchPacifismProtocols_co_1"
+msgid "Enemy Robots can sometimes be captured and held captive by Prison plots. | Completion Time: 3 Days"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ResearchPacifismProtocols_co_2"
+msgid "Enemy Robots can sometimes be captured and held captive by Prison plots. | Completion Time: 3 Days"
+msgstr ""
+
+msgctxt "SS2C3_HQGNN_BuildableAction_ResearchPacifismProtocols_co_3"
+msgid "Enemy Robots can sometimes be captured and held captive by Prison plots. | Completion Time: 3 Days"
+msgstr ""
+
+msgctxt "SS2C3_Gnof_BPDescription_BuildingPlan_JakeFamilyHome"
+msgid "[Multi-Person Home]\n[SS2] Katelyn and Lauras House by Gnofusnomuss"
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_ReceiverHolder"
+msgid "invisible, holds the model for the generic specific receiver so we can reuse the other omods without duplicating everything"
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRFStheno_ReceiverHolder"
+msgid "invisible, holds the model for the Stheno specific receiver so we can reuse the other omods without duplicating everything"
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRFStheno_LegendaryEffect"
+msgid "Armor Penetration plus 25% Chance to Stun"
+msgstr ""
+
+msgctxt "SS2C3_MQ29_PlayerVertibird_mod_Minigun_BarrelMinigun_Long"
+msgid "Standard."
+msgstr "표준형."
+
+msgctxt "SS2C3_BPDescription_Junkyard_outpost"
+msgid "[Basic Defenses]\n[SS2] Junkyard outpost"
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Grip02_Sub"
+msgid "Tactical Grip. Better recoil. Front grip and no stock. Light weight. Better stability."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Grip01_Sub"
+msgid "Front grip and no stock. Light weight. Better stability."
+msgstr ""
+
+msgctxt "SS2C3_WV_BPDescription_BuildingPlan_IntMart_Prison"
+msgid "[Prison]\nInterior prison that also stands in as a garbage disposal area."
+msgstr ""
+
+msgctxt "SS2C3_WV_BPDescription_BuildingPlan_IntMart_FieldHospital"
+msgid "[Field Medics] \nBrutal but effective triage of wasteland casualties."
+msgstr ""
+
+msgctxt "SS2C3_WV_BPDescription_BuildingPlan_IntMart_BattlefieldScavenger"
+msgid "[Battlefield Scavengers]\nTwist a cork in that helmet hole and put it on the next unsuspecting bullet sponge in your wasteland army."
+msgstr ""
+
+msgctxt "SS2C3_BPDescription_WV_BuildingPlan_IntMart_RecruitmentCenter"
+msgid "[Recruitment Center]\nSimple sign-up counter for the newest Wasteland militia."
+msgstr ""
+
+msgctxt "SS2C3_BPDescription_WV_BuildingPlan_IntRecr_MessHall"
+msgid "[Mess Hall]\nA table and some mess - the minimum requirements for a good mess hall!"
+msgstr ""
+
+msgctxt "SS2C3_BPDescription_WV_BuildingPlan_IntMart_Armory"
+msgid "[Armory]\nBasic service counter and storage for a ramshackle militia."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRFHeavy_Receiver_Tuned"
+msgid "Improved rate of fire. Improved range. Armor penetration."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRFHeavy_Receiver_MD2_HP"
+msgid "Exceptional rate of fire and armor penetration."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRFHeavy_Receiver_MD2_BC"
+msgid "Superior damage. Better critical shot damage and accuracy."
+msgstr "탁월한 피해량. 우수한 치명타 피해량과 정확도."
+
+msgctxt "SS2C3_mod_IDRFHeavy_Receiver_MD2"
+msgid "Better damage and rate of fire. Inferior Range."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRFHeavy_Receiver_MD1"
+msgid "Improved damage. Reduced ammo capacity."
+msgstr "향상된 피해량. 줄어든 탄창 용량."
+
+msgctxt "SS2C3_mod_IDRFHeavy_Receiver_Light"
+msgid "Lighter weight. Reduced damage."
+msgstr "더 가벼운 무게. 줄어든 피해량."
+
+msgctxt "SS2C3_mod_IDRFHeavy_Receiver_Heavy"
+msgid "Heavier weight. Improved damage."
+msgstr "무게 증가. 향상된 피해량."
+
+msgctxt "SS2C3_mod_IDRFHeavy_Receiver_Boosted"
+msgid "Improved damage. Reduced ammo capacity."
+msgstr "향상된 피해량. 줄어든 탄창 용량."
+
+msgctxt "SS2C3_mod_IDRF_Scope_ScopeShortNV"
+msgid "Tracks targets. Improved magnification. Superior sighted accuracy."
+msgstr "목표 추적. 저배율. 탁월한 조준 정확도."
+
+msgctxt "SS2C3_mod_IDRF_Scope_ScopeMediumNV"
+msgid "Tracks targets. Better magnification. Superior sighted accuracy."
+msgstr "목표 추적. 고배율. 탁월한 조준 정확도."
+
+msgctxt "SS2C3_mod_IDRF_Scope_ScopeLongNV"
+msgid "Tracks targets. Superior magnification and sighted accuracy."
+msgstr "목표 추적. 고배율. 탁월한 조준 정확도."
+
+msgctxt "SS2C3_mod_IDRFHeavy_Barrel_Shotgun"
+msgid "Shotgun."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRFHeavy_Barrel_Standard"
+msgid "Standard."
+msgstr "표준형."
+
+msgctxt "SS2C3_mod_IDRFHeavy_Barrel_TriShort"
+msgid "Improved damage and recoil."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRFHeavy_Barrel_TriLong"
+msgid "Improved damage and recoil."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Barrel_Auto2"
+msgid "Superior rate of fire. Improved damage, range and sighted accuracy. Worse recoil. Reduced ammo capacity. Poor hip-fire accuracy."
+msgstr "탁월한 연사 속도. 향상된 피해량, 사정거리 및 조준 정확도. 심한 반동. 줄어든 탄창 용량. 빈약한 지향사격 정확도."
+
+msgctxt "SS2C3_mod_IDRF_Scope_ScopeShort"
+msgid "Improved magnification. Superior sighted accuracy."
+msgstr "저배율. 탁월한 조준 정확도."
+
+msgctxt "SS2C3_mod_IDRF_Scope_ScopeMedium"
+msgid "Better magnification. Superior sighted accuracy."
+msgstr "중배율. 탁월한 조준 정확도."
+
+msgctxt "SS2C3_mod_IDRF_Scope_ScopeLong"
+msgid "Superior magnification and sighted accuracy."
+msgstr "고배율. 탁월한 조준 정확도."
+
+msgctxt "SS2C3_mod_IDRF_Barrel_Shotgun"
+msgid "Superior range and sighted accuracy. Better recoil. Reduced hip-fire accuracy."
+msgstr "탁월한 사정거리와 조준 정확도. 우수한 반동 제어. 줄어든 지향사격 정확도."
+
+msgctxt "SS2C3_mod_IDRF_Barrel_Autoshotgun"
+msgid "Improved rate of fire, range and sighted accuracy. Worse recoil. Poor hip-fire accuracy."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Barrel_Sniper"
+msgid "Exceptional damage. Superior range. Worse recoil. Poor ammo capacity and hip-fire accuracy."
+msgstr "독보적인 피해량. 탁월한 사정거리. 심한 반동. 빈약한 탄창 용량과 지향사격 정확도."
+
+msgctxt "SS2C3_mod_IDRF_Grip02_StockRecoil"
+msgid "Tactical Grip. Exceptional sighted accuracy and recoil. Better aim with scopes. Improved bash."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Grip01_StockRecoil"
+msgid "Exceptional sighted accuracy and recoil. Better aim with scopes. Improved bash."
+msgstr "독보적인 조준 정확도, 반동 제어. 우수한 조준 안정성. 향상된 강타 피해."
+
+msgctxt "SS2C3_mod_IDRF_Grip02_StockTacLight"
+msgid "Tactical Grip. Superior recoil, worse than Tactical Stock. Better aim with scopes. Lighter."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Grip02_StockTac"
+msgid "Tactical Grip. Exceptional sighted accuracy. Superior recoil and aim with scopes. Improved bash."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Grip02_StockFullLight"
+msgid "Tactical Grip. Exceptional sighted accuracy. Better recoil and aim with scopes. Improved bash."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Barrel_Auto"
+msgid "Improved rate of fire, range and sighted accuracy. Worse recoil. Reduced ammo capacity. Poor hip-fire accuracy."
+msgstr "향상된 연사 속도, 사정거리와 조준 정확도. 심한 반동. 줄어든 탄창 용량. 빈약한 지향사격 정확도."
+
+msgctxt "SS2C3_mod_IDRF_Grip_PistolGrip02"
+msgid "No stock. Better weapon handling but heavier."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Receiver_MD2_BC"
+msgid "Superior damage. Better critical shot damage and accuracy."
+msgstr "탁월한 피해량. 우수한 치명타 피해량과 정확도."
+
+msgctxt "SS2C3_mod_IDRF_Grip_PistolGrip01"
+msgid "No stock."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Mag_SmallQ"
+msgid "Standard ammo capacity. Increased reload speed."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Mag_MediumQ"
+msgid "Increased ammo capacity. Improved reload speed."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Scope_SightsNone"
+msgid "No sights."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Scope_SightsIronGlow"
+msgid "Glow sights"
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Scope_SightsIronFrontGlow"
+msgid "Front Glow sight only."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Scope_SightsIronRearGlow"
+msgid "Rear Glow sight only."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Scope_SightsIronRear"
+msgid "Rear sight only."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Scope_SightsIronFront"
+msgid "Front sight only."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Scope_SightReflexDot"
+msgid "Better focus and sighted accuracy."
+msgstr "우수한 조준과 조준 정확도."
+
+msgctxt "SS2C3_mod_IDRF_Receiver_MD2_HP"
+msgid "Exceptional rate of fire and armor penetration."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Receiver_MD2"
+msgid "Better damage and rate of fire. Inferior Range."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Receiver_MD1"
+msgid "Improved damage. Reduced ammo capacity."
+msgstr "향상된 피해량. 줄어든 탄창 용량."
+
+msgctxt "SS2C3_mod_IDRF_Receiver_Lighter"
+msgid "Lighter weight. Reduced damage."
+msgstr "더 가벼운 무게. 줄어든 피해량."
+
+msgctxt "SS2C3_mod_IDRF_Receiver_Heavier"
+msgid "Heavier weight. Improved damage."
+msgstr "무게 증가. 향상된 피해량."
+
+msgctxt "SS2C3_mod_IDRF_Receiver_Tuned"
+msgid "Improved rate of fire. Improved range. Armor penetration."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Receiver_Boost"
+msgid "Improved damage. Reduced ammo capacity."
+msgstr "향상된 피해량. 줄어든 탄창 용량."
+
+msgctxt "SS2C3_mod_IDRF_Grip01_StockTacLight"
+msgid "Exceptional sighted accuracy. Superior recoil and aim with scopes. Improved bash. Lighter."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Grip01_StockFullLight"
+msgid "Exceptional sighted accuracy. Better recoil and aim with scopes. Improved bash."
+msgstr "독보적인 조준 정확도. 우수한 반동 감소, 조준 안정성. 향상된 강타 피해."
+
+msgctxt "SS2C3_mod_IDRF_Scope_SightReflex"
+msgid "Better focus and sighted accuracy."
+msgstr "우수한 조준과 조준 정확도."
+
+msgctxt "SS2C3_mod_IDRF_Barrel_MedLight"
+msgid "Lighter barrel. Improved damage and recoil."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Barrel_BarrelTip"
+msgid "Standard."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Barrel_Charging"
+msgid "Requires charge up time. Superior damage and range. Worse recoil. Poor ammo capacity and hip-fire accuracy."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Barrel_Med"
+msgid "Improved damage and recoil."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Grip01_StockTac"
+msgid "Exceptional sighted accuracy. Superior recoil and aim with scopes. Improved bash."
+msgstr "독보적인 조준 정확도. 탁월한 반동 제어와 조준 안정성. 향상된 강타 피해."
+
+msgctxt "SS2C3_mod_IDRF_Grip01_StockSimple"
+msgid "Simple Stock. Improved sighted accuracy. Better recoil and aim with scopes."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Mag_Drum"
+msgid "Superior ammo capacity. Inferior reload speed."
+msgstr "탁월한 탄창 용량. 형편없는 재장전 속도."
+
+msgctxt "SS2C3_mod_IDRF_Mag_Small"
+msgid "Standard ammo capacity. Reduced reload speed."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Mag_Medium"
+msgid "Increased ammo capacity. Reduced reload speed."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Scope_SightsIron"
+msgid "Standard."
+msgstr "표준형."
+
+msgctxt "SS2C3_mod_IDRF_Grip02_StockSimple"
+msgid "Tactical Grip. Better recoil."
+msgstr ""
+
+msgctxt "SS2C3_mod_IDRF_Barrel_Long"
+msgid "Better range. Improved damage, sighted accuracy and recoil. Reduced ammo capacity. Poor hip-fire accuracy."
+msgstr "우수한 사정거리. 향상된 피해량, 조준 정확도와 반동 제어. 줄어든 탄창 용량. 빈약한 지향사격 정확도."
+
+msgctxt "SS2C3_BuildingPlan_BPDescription_Lupe_comm_station"
+msgid "[Communications]\nLupes Comm Station"
+msgstr ""
+
+msgctxt "SS2C3_kgConqBPSkinDescr_BPSkin_Uitwt_WatchTower_RaiderSkin_descr"
+msgid "[Watchtower]\nDeath Tower - Raider plot skin"
+msgstr ""
+
+msgctxt "SS2C3_kgConqBPDescription_BuildingPlan_Uitwt_WatchTower_BP"
+msgid "[Watch Tower]\nOld water tower retrofitted for defense."
+msgstr ""
+
+msgctxt "SS2C3_kgConqBPDescription_BuildingPlan__Uit_RecruitmentCenter_BP"
+msgid "[Recruitment Center] \nTin sign-up box."
+msgstr ""
+
+msgctxt "SS2C3_kgConqBPDescription_BuildingPlan__Uit_FieldHospital_BP"
+msgid "[Field Medics]\nAn open stage for handling battle wounds."
+msgstr ""
+
+msgctxt "SS2C3_kgConqBPDescription_BuildingPlan__COOTS_BuildingPlan_ShootingRange"
+msgid "[Military Training]\nOutdoor training yard."
+msgstr ""
+
+msgctxt "SS2C3_kgConqBPDescription_BuildingPlan__Uit_Armory_BP"
+msgid "[Armory]\nRamshackle armory for a ramshackle militia."
+msgstr ""
+
+msgctxt "SS2C3_kgConqBPDescription_BuildingPlan__Uit_BattlefieldScavenger_BP"
+msgid "[Battlefield Scavengers]\nOutdoor supply recovery operation."
+msgstr ""
+
+msgctxt "SS2C3_kgConqBPDescription_BuildingPlan__Uit_MessHall_BP"
+msgid "[Mess Hall]\nOpen pavilion for feeding the troops in bulk."
+msgstr ""
+
+msgctxt "SS2C3_kgConqBPDescription_BuildingPlan__Uit_POWLockup_BP"
+msgid "[Prison]\nCells for keeping prisoners of war."
+msgstr ""
+

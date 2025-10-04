@@ -9,23 +9,23 @@ msgstr ""
 "X-Generator: xml_to_po.py\n"
 msgctxt "SS2C2_Armor_Power_Algernon_Torso"
 msgid "T-51 Torso Armor"
-msgstr ""
+msgstr "T-51 몸통 장갑"
 
 msgctxt "SS2C2_Armor_Power_Algernon_ArmLeft"
 msgid "T-60 Left Arm Armor"
-msgstr ""
+msgstr "T-60 왼팔 장갑"
 
 msgctxt "SS2C2_Armor_Power_Algernon_ArmRight"
 msgid "T-60 Right Arm Armor"
-msgstr ""
+msgstr "T-60 오른팔 장갑"
 
 msgctxt "SS2C2_Armor_Power_Algernon_LegLeft"
 msgid "T-60 Left Leg Armor"
-msgstr ""
+msgstr "T-60 왼다리 장갑"
 
 msgctxt "SS2C2_Armor_Power_Algernon_LegRight"
 msgid "T-60 Right Leg Armor"
-msgstr ""
+msgstr "T-60 오른다리 장갑"
 
 msgctxt "SS2C2_AO_Rebreather"
 msgid "A Rebreather Mask"
@@ -277,11 +277,11 @@ msgstr ""
 
 msgctxt "SS2C2_WV_MartianMilkshake"
 msgid "+10 AP for 30 minutes."
-msgstr ""
+msgstr "30분 동안 AP +10."
 
 msgctxt "SS2C2_WV_MartianGoo"
 msgid "+75 Rad Resist for 10 minutes."
-msgstr ""
+msgstr "10분 동안 방사능 저항 +75."
 
 msgctxt "SS2C2_WV_MartianMilk"
 msgid "+10 AP for 15 minutes."
@@ -837,7 +837,7 @@ msgstr ""
 
 msgctxt "SS2C2_ActivateOveride_Investigate"
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 msgctxt "SS2C2_FeaturedMessage_Unlock_SQ01RelayTowerNetwork"
 msgid "The Comm Array is now connected to the Relay Tower Network.\n\nSettler recruitment is now twice as likely in all settlements broadcasting the Settlement Recruitment Radio station!"
@@ -1009,7 +1009,7 @@ msgstr ""
 
 msgctxt "SS2C2_WV_co_food_MilkshakeMartian"
 msgid "+10 AP for 30 minutes."
-msgstr ""
+msgstr "30분 동안 AP +10."
 
 msgctxt "SS2C2_WV_co_food_MilkshakeGalactic"
 msgid "+1 Agility for 30 minutes."
@@ -6941,7 +6941,7 @@ msgstr ""
 
 msgctxt "mod_SS2C2Clipboard_Receiver_Standard_OBSOLETE_MovedToC1"
 msgid "Standard."
-msgstr ""
+msgstr "표준형."
 
 msgctxt "SS2C2_WV_BPDescription_BuildingPlan_2x2Com_MartianStore"
 msgid "[Custom Store]\nMartian minerals and salvaged space ship parts for sale in this tin can shop. Martian milkshakes at level 3!"
@@ -6973,11 +6973,11 @@ msgstr ""
 
 msgctxt "SS2C2_mod_NEECAM_Base_Standard"
 msgid "Standard."
-msgstr ""
+msgstr "표준형."
 
 msgctxt "SS2C2_mod_NEECAM_Lens_Standard"
 msgid "Standard."
-msgstr ""
+msgstr "표준형."
 
 msgctxt "SS2C2_mod_NEECAM_Lens_Big"
 msgid "Better Zoom"
@@ -6989,5 +6989,5 @@ msgstr ""
 
 msgctxt "SS2C2_mod_FireExt_Receiver_Standard"
 msgid "Standard."
-msgstr ""
+msgstr "표준형."
 

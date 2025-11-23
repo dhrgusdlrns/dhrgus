@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2025-08-31 06:44+0000\n"
+"PO-Revision-Date: 2025-11-24 16:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -5517,7 +5517,7 @@ msgstr "밀라 매저"
 # EDID: SFBGS001_MS04_CarcassActivatorB, REC: ACTI:ATTX
 msgctxt "001AD8"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 수집하기"
+msgstr "조직 샘플 채취하기"
 
 # EDID: SFBGS001_MS04_CarcassActivatorB, REC: ACTI:FULL
 msgctxt "001AD9"
@@ -5527,7 +5527,7 @@ msgstr "동물 시체 B"
 # EDID: SFBGS001_MS04_CarcassActivatorC, REC: ACTI:ATTX
 msgctxt "001ADA"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 수집하기"
+msgstr "조직 샘플 채취하기"
 
 # EDID: SFBGS001_MS04_CarcassActivatorC, REC: ACTI:FULL
 msgctxt "001ADB"
@@ -5537,7 +5537,7 @@ msgstr "동물 시체 A"
 # EDID: SFBGS001_MS04_CarcassActivatorA, REC: ACTI:ATTX
 msgctxt "001ADC"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 수집하기"
+msgstr "조직 샘플 채취하기"
 
 # EDID: SFBGS001_MS04_CarcassActivatorA, REC: ACTI:FULL
 msgctxt "001ADD"
@@ -5547,17 +5547,17 @@ msgstr "동물 시체 A"
 # EDID: SFBGS001_MS04_PlantActivatorA, REC: ACTI:ATTX
 msgctxt "001ADE"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 수집하기"
+msgstr "조직 샘플 채취하기"
 
 # EDID: SFBGS001_MS04_PlantActivatorB, REC: ACTI:ATTX
 msgctxt "001AE0"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 수집하기"
+msgstr "조직 샘플 채취하기"
 
 # EDID: SFBGS001_MS04_PlantActivatorC, REC: ACTI:ATTX
 msgctxt "001AE2"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 수집하기"
+msgstr "조직 샘플 채취하기"
 
 # EDID: SFBGS001_MS01_TevinaDesktop, REC: TMLM:UNAM
 msgctxt "001AE4"
@@ -6421,7 +6421,7 @@ msgid ""
 "Collect samples from altered plants in 3 regions "
 "(<Global=SFBGS001_MS04_PlantSamplesCollected>/<Global=SFBGS001_MS04_PlantSamplesTotal>)"
 msgstr ""
-"3개 지역의 변종 식물에서 샘플 수집하기 (<Global=SFBGS001_MS04_PlantSamplesCollected>/<Global="
+"3개 지역의 변종 식물에서 샘플 채취하기 (<Global=SFBGS001_MS04_PlantSamplesCollected>/<Global="
 "SFBGS001_MS04_PlantSamplesTotal>)"
 
 # EDID: SFBGS001_MS04, REC: QUST:NNAM
@@ -6683,7 +6683,7 @@ msgstr "아밀라와 대화하기"
 # EDID: SFBGS001_MS03, REC: QUST:NNAM
 msgctxt "002177"
 msgid "Observe the duel"
-msgstr "결투 관람하기"
+msgstr "결투 감시하기"
 
 # EDID: SFBGS001_MS03, REC: QUST:NNAM
 msgctxt "002178"
@@ -6718,7 +6718,7 @@ msgstr "다니카 따라가기"
 # EDID: SFBGS001_MS03, REC: QUST:NNAM
 msgctxt "00217E"
 msgid "Stop the argument in Jinan Plaza"
-msgstr "지난 광장에서 논쟁하는 사람들 멈추기"
+msgstr "지난 광장에서 싸우는 사람들 말리기"
 
 # EDID: SFBGS001_Food_ChunksPack_Chunks_GroatChunks, REC: ALCH:FULL
 msgctxt "002185"
@@ -7838,10 +7838,9 @@ msgid "Follow the signal to Ukaru's tracking device"
 msgstr "신호를 따라 우카루의 추적 장치로 이동하기"
 
 # EDID: SFBGS001DazraHajtalHomeInt01, REC: CELL:FULL
-#, fuzzy
 msgctxt "0110BB"
 msgid "Hajtal Household"
-msgstr "하즈탈 가정집"
+msgstr "하즈탈 가문의 집"
 
 # EDID: SFBGS001LC20_VentShaftPassword, REC: KEYM:FULL
 msgctxt "0110BD"
@@ -8306,7 +8305,7 @@ msgstr "표준 사양 총열"
 # EDID: SFBGS001_MS03, REC: QUST:NNAM
 msgctxt "0111AB"
 msgid "Agree to be Amila's second"
-msgstr "아밀라의 조수가 되는 것에 동의하기"
+msgstr "아밀라의 입회인이 되는 것에 동의하기"
 
 # EDID: SFBGS001_VaruunSolstice, REC: WEAP:FULL
 msgctxt "0111FA"
@@ -12610,7 +12609,7 @@ msgstr "Quality Tiers Any"
 # EDID: SFBGS001LC48_LoadElevator_Stairs, REC: MESG:ITXT
 msgctxt "012F67"
 msgid "Maintenance"
-msgstr "유지보전"
+msgstr "유지보전실"
 
 # EDID: SFBGS001LC48_LoadElevator_Stairs, REC: MESG:ITXT
 #, fuzzy
@@ -12621,7 +12620,7 @@ msgstr "지휘 통제실"
 # EDID: SFBGS001LC48_LoadElevator_Stairs, REC: MESG:ITXT
 msgctxt "012F69"
 msgid "Officer Lounge"
-msgstr "임원 라운지"
+msgstr "책임자 라운지"
 
 # EDID: SFBGS001LC48_LoadElevator_Stairs, REC: MESG:ITXT
 msgctxt "012F6A"
@@ -12716,7 +12715,7 @@ msgstr "Standard"
 # EDID: SFBGS001_MS04_SetStageTrigger, REC: ACTI:ATTX
 msgctxt "01305E"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 수집하기"
+msgstr "조직 샘플 채취하기"
 
 # EDID: SFBGS001_MS04_SetStageTrigger, REC: ACTI:FULL
 msgctxt "01305F"
@@ -12732,22 +12731,22 @@ msgstr "상대에게 말소리가 들리지 않는다."
 # EDID: SFBGS001_MS03_TranquilizeDrinkPerk, REC: PERK:EPF2
 msgctxt "013067"
 msgid "Tranquilize Nobody"
-msgstr "누구도 진정시키지 않기"
+msgstr "진정제를 타지 않기"
 
 # EDID: SFBGS001_MS03_TranquilizeDrinkPerk, REC: PERK:EPF2
 msgctxt "013068"
 msgid "Tranquilize Both"
-msgstr "둘 다 진정시키기"
+msgstr "두 잔에 다 진정제를 타기"
 
 # EDID: SFBGS001_MS03_TranquilizeDrinkPerk, REC: PERK:EPF2
 msgctxt "013069"
 msgid "Tranquilize Borhal"
-msgstr "보할을 진정시키기"
+msgstr "보할의 잔에 진정제를 타기"
 
 # EDID: SFBGS001_MS03_TranquilizeDrinkPerk, REC: PERK:EPF2
 msgctxt "01306A"
 msgid "Tranquilize Amila"
-msgstr "아밀라를 진정시키기"
+msgstr "아밀라의 잔에 진정제를 타기"
 
 # EDID: SFBGS001_RC_PostQuest_Plaza05, REC: QUST:FULL
 msgctxt "013078"
@@ -12912,7 +12911,7 @@ msgstr "새로 입력할 데이터가 없습니다."
 # EDID: SFBGS001_MS04_SensorATerminalAdminSubmenu, REC: TMLM:ITXT
 msgctxt "013104"
 msgid "Upload data to linked slate"
-msgstr "연결된 슬레이트의 데이터 업로드하기"
+msgstr "연결된 슬레이트에 데이터 다운로드"
 
 # EDID: SFBGS001_MS04_SensorATerminalAdminSubmenu, REC: TMLM:BTXT
 msgctxt "013105"
@@ -12935,9 +12934,9 @@ msgid ""
 "**Warning** Internal chronometer error. See error log for details."
 msgstr ""
 "센서 작동 중\n"
-"배터리 상태: 높음\n"
-"전력 상태: 높음\n"
-"남은 저장 공간: 방대\n"
+"배터리 충전량: 많음\n"
+"전력 공급 상태: 많음\n"
+"남은 저장 공간: 많음\n"
 "\n"
 "**경고** 내장된 정밀 측정기 오류. 오류 일지를 확인해 세부 사항을 확인하십시오."
 
@@ -12955,7 +12954,7 @@ msgid ""
 msgstr ""
 "하이랜드 지역, 하마디 기지의 아자드와 셰린 두바스의 사유 재산\n"
 "\n"
-"허락된 것이 아니라면 만지지 말 것!"
+"허락받지 않았다면 만지지 마십시오!"
 
 # EDID: SFBGS001_MS04_SensorATerminalMenu, REC: TMLM:FULL
 msgctxt "01310A"
@@ -13076,7 +13075,7 @@ msgstr "추모"
 # EDID: SFBGS001_MS04_PlantSetStageTrigger, REC: ACTI:ATTX
 msgctxt "0131DC"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 수집하기"
+msgstr "조직 샘플 채취하기"
 
 # EDID: SFBGS001_MS04_PlantSetStageTrigger, REC: ACTI:FULL
 msgctxt "0131DD"
@@ -13183,7 +13182,7 @@ msgstr ""
 "항목 001: 최고온도: 21.1; 최저온도: 13.6; 바람 서12; 습도 43.9; 강수량: 없음\n"
 "항목 002: 최고온도: 20.3; 최저온도: 17.1; 바람 서09; 습도 51.8; 강수량: 없음\n"
 "항목 003: 최고온도: 22.1; 최저온도: 17.5; 바람 남서7; 습도 33.2; 강수량: 없음\n"
-"---> 비정상적인 수치 감지, 기록을 보십시오\n"
+"---> 비정상적인 수치 감지. 기록을 확인하십시오.\n"
 "---> **경고** 정밀 측정기 고장\n"
 "항목 004: 최고온도: 19.9; 최저온도: 14.7; 바람 남08; 습도 42.1; 강수량: 없음\n"
 "항목 005: 최고온도: 21.7; 최저온도: 17.7; 바람 남11; 습도 33.4; 강수량: 없음\n"
@@ -13223,7 +13222,7 @@ msgid ""
 "**Warning** Internal chronometer error. See error log for details."
 msgstr ""
 "센서 작동 중\n"
-"배터리 상태: 최대\n"
+"배터리 충전량: 최대\n"
 "남은 저장 공간: 중간\n"
 "\n"
 "**경고** 내장된 정밀 측정기 오류. 오류 일지를 확인해 세부 사항을 확인하십시오."
@@ -13242,7 +13241,7 @@ msgid ""
 msgstr ""
 "아자드와 셰린 두바스의 사유 재산\n"
 "\n"
-"허락된 것이 아니라면 만지지 말 것!"
+"허락받지 않았다면 만지지 마십시오!"
 
 # EDID: SFBGS001_MS04_SensorBTerminalMenu, REC: TMLM:FULL
 msgctxt "0131F4"
@@ -13354,7 +13353,7 @@ msgstr ""
 "항목 001: 최고온도: 21.1; 최저온도: 13.6; 바람 서12; 습도 43.9; 강수량: 없음\n"
 "항목 002: 최고온도: 20.3; 최저온도: 17.1; 바람 서09; 습도 51.8; 강수량: 없음\n"
 "항목 003: 최고온도: 22.1; 최저온도: 17.5; 바람 남서7; 습도 33.2; 강수량: 없음\n"
-"---> 비정상적인 수치 감지, 기록을 보십시오\n"
+"---> 비정상적인 수치 감지. 기록을 확인하십시오.\n"
 "---> **경고** 정밀 측정기 고장\n"
 "항목 004: 최고온도: 19.9; 최저온도: 14.7; 바람 남08; 습도 42.1; 강수량: 없음\n"
 "항목 005: 최고온도: 21.7; 최저온도: 17.7; 바람 남11; 습도 33.4; 강수량: 없음\n"
@@ -13387,7 +13386,7 @@ msgstr "새로 입력할 데이터가 없습니다."
 # EDID: SFBGS001_MS04_SensorBTerminalAdminSubmenu, REC: TMLM:ITXT
 msgctxt "0131FC"
 msgid "Upload data to linked slate"
-msgstr "연결된 슬레이트의 데이터 업로드하기"
+msgstr "연결된 슬레이트에 데이터 다운로드"
 
 # EDID: SFBGS001_MS04_SensorBTerminalAdminSubmenu, REC: TMLM:BTXT
 msgctxt "0131FD"
@@ -13504,7 +13503,7 @@ msgstr ""
 "항목 001: 최고온도: 21.1; 최저온도: 13.6; 바람 서12; 습도 43.9; 강수량: 없음\n"
 "항목 002: 최고온도: 20.3; 최저온도: 17.1; 바람 서09; 습도 51.8; 강수량: 없음\n"
 "항목 003: 최고온도: 22.1; 최저온도: 17.5; 바람 남서7; 습도 33.2; 강수량: 없음\n"
-"---> 비정상적인 수치 감지, 기록을 보십시오\n"
+"---> 비정상적인 수치 감지. 기록을 확인하십시오.\n"
 "---> **경고** 정밀 측정기 고장\n"
 "항목 004: 최고온도: 19.9; 최저온도: 14.7; 바람 남08; 습도 42.1; 강수량: 없음\n"
 "항목 005: 최고온도: 21.7; 최저온도: 17.7; 바람 남11; 습도 33.4; 강수량: 없음\n"
@@ -13537,7 +13536,7 @@ msgstr "새로 입력할 데이터가 없습니다."
 # EDID: SFBGS001_MS04_SensorCTerminalAdminSubmenu, REC: TMLM:ITXT
 msgctxt "013206"
 msgid "Upload data to linked slate"
-msgstr "연결된 슬레이트의 데이터 업로드하기"
+msgstr "연결된 슬레이트에 데이터 다운로드"
 
 # EDID: SFBGS001_MS04_SensorCTerminalAdminSubmenu, REC: TMLM:BTXT
 msgctxt "013207"
@@ -13564,8 +13563,8 @@ msgid ""
 "**Warning** Internal chronometer error. See error log for details."
 msgstr ""
 "센서 작동 중\n"
-"배터리 상태: 최대\n"
-"남은 저장 공간: 방대\n"
+"배터리 충전량: 최대\n"
+"남은 저장 공간: 많음\n"
 "\n"
 "**경고** 내장된 정밀 측정기 오류. 오류 일지를 확인해 세부 사항을 확인하십시오."
 
@@ -13583,7 +13582,7 @@ msgid ""
 msgstr ""
 "아자드와 셰린 두바스의 사유 재산\n"
 "\n"
-"허락된 것이 아니라면 만지지 말 것!"
+"허락받지 않았다면 만지지 마십시오!"
 
 # EDID: SFBGS001_MS04_SensorCTerminalMenu, REC: TMLM:FULL
 msgctxt "01320D"
@@ -13695,7 +13694,7 @@ msgstr ""
 "항목 001: 최고온도: 21.1; 최저온도: 13.6; 바람 서12; 습도 43.9; 강수량: 없음\n"
 "항목 002: 최고온도: 20.3; 최저온도: 17.1; 바람 서09; 습도 51.8; 강수량: 없음\n"
 "항목 003: 최고온도: 22.1; 최저온도: 17.5; 바람 남서7; 습도 33.2; 강수량: 없음\n"
-"---> 비정상적인 수치 감지, 기록을 보십시오\n"
+"---> 비정상적인 수치 감지. 기록을 확인하십시오.\n"
 "---> **경고** 정밀 측정기 고장\n"
 "항목 004: 최고온도: 19.9; 최저온도: 14.7; 바람 남08; 습도 42.1; 강수량: 없음\n"
 "항목 005: 최고온도: 21.7; 최저온도: 17.7; 바람 남11; 습도 33.4; 강수량: 없음\n"
@@ -13728,7 +13727,7 @@ msgstr "새로 입력할 데이터가 없습니다."
 # EDID: SFBGS001_MS04_SensorDTerminalAdminSubmenu, REC: TMLM:ITXT
 msgctxt "013215"
 msgid "Upload data to linked slate"
-msgstr "연결된 슬레이트의 데이터 업로드하기"
+msgstr "연결된 슬레이트에 데이터 다운로드"
 
 # EDID: SFBGS001_MS04_SensorDTerminalAdminSubmenu, REC: TMLM:BTXT
 msgctxt "013216"
@@ -13755,8 +13754,8 @@ msgid ""
 "**Warning** Internal chronometer error. See error log for details."
 msgstr ""
 "센서 작동 중\n"
-"배터리 상태: 높음\n"
-"남은 저장 공간: 빈약\n"
+"배터리 충전량: 중간\n"
+"남은 저장 공간: 적음\n"
 "\n"
 "**경고** 내장된 정밀 측정기 오류. 오류 일지를 확인해 세부 사항을 확인하십시오."
 
@@ -13774,7 +13773,7 @@ msgid ""
 msgstr ""
 "아자드와 셰린 두바스의 사유 재산\n"
 "\n"
-"허락된 것이 아니라면 만지지 말 것!"
+"허락받지 않았다면 만지지 마십시오!"
 
 # EDID: SFBGS001_MS04_SensorDTerminalMenu, REC: TMLM:FULL
 msgctxt "01321C"
@@ -17109,10 +17108,9 @@ msgid "Civilian"
 msgstr "민간인"
 
 # EDID: SFBGS001_MS03_Condolences, REC: BOOK:FULL
-#, fuzzy
 msgctxt "0149E1"
 msgid "Regarding Inheritence"
-msgstr "상속 관련 사항"
+msgstr "상속 관련 안내"
 
 # EDID: SFBGS001_MQ01_IboraLog, REC: BOOK:FNAM
 msgctxt "0149E2"
@@ -20180,11 +20178,11 @@ msgstr ""
 "\n"
 "방법: \n"
 "기이하거나 알려지지 않은 원인으로 사망한 여러 동물들의 조직 샘플부터 시작하여 데이터를 수집한다. 포식자에 의한 절단과 같은 명백한 사망 "
-"징후는 배제한다. 셰린과 나는 주변 지역 전체를 돌아다닐 나이가 아니기 때문에, 이러한 샘플을 수집하기 위해 연구 조수를 고용해야 한다. "
-"게다가 이 근방은 돌아다니기에도 매우 위험해졌다.\n"
+"징후는 배제한다. 셰린과 나는 주변 지역 전체를 돌아다닐 나이가 아니기 때문에, 이러한 샘플을 수집하기 위해 연구 보조원을 고용해야 "
+"한다. 게다가 이 근방은 돌아다니기에도 매우 위험해졌다.\n"
 "\n"
 "계획: \n"
-"연구 조수를 고용한다."
+"연구 보조원을 고용한다."
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Research, REC: TMLM:ITXT
 msgctxt "014BF1"
@@ -20238,7 +20236,7 @@ msgstr ""
 # EDID: SFBGS001_MS04_SensorATerminalAdminSubmenu, REC: TMLM:ITXT
 msgctxt "014BF6"
 msgid "Upload data to linked slate"
-msgstr "연결된 슬레이트의 데이터 업로드하기"
+msgstr "연결된 슬레이트에 데이터 다운로드"
 
 # EDID: SFBGS001_MS04_SensorBTerminalAdminSubmenu, REC: TMLM:UNAM
 msgctxt "014BF7"
@@ -20256,7 +20254,7 @@ msgstr ""
 # EDID: SFBGS001_MS04_SensorBTerminalAdminSubmenu, REC: TMLM:ITXT
 msgctxt "014BF8"
 msgid "Upload data to linked slate"
-msgstr "연결된 슬레이트의 데이터 업로드하기"
+msgstr "연결된 슬레이트에 데이터 다운로드"
 
 # EDID: SFBGS001_MS04_SensorCTerminalAdminSubmenu, REC: TMLM:UNAM
 msgctxt "014BF9"
@@ -20274,7 +20272,7 @@ msgstr ""
 # EDID: SFBGS001_MS04_SensorCTerminalAdminSubmenu, REC: TMLM:ITXT
 msgctxt "014BFA"
 msgid "Upload data to linked slate"
-msgstr "연결된 슬레이트의 데이터 업로드하기"
+msgstr "연결된 슬레이트에 데이터 다운로드"
 
 # EDID: SFBGS001_MS04_SensorDTerminalAdminSubmenu, REC: TMLM:UNAM
 msgctxt "014BFB"
@@ -20292,7 +20290,7 @@ msgstr ""
 # EDID: SFBGS001_MS04_SensorDTerminalAdminSubmenu, REC: TMLM:ITXT
 msgctxt "014BFC"
 msgid "Upload data to linked slate"
-msgstr "연결된 슬레이트의 데이터 업로드하기"
+msgstr "연결된 슬레이트에 데이터 다운로드"
 
 # EDID: SFBGS001_MS04, REC: QUST:NNAM
 msgctxt "014BFD"
@@ -20342,7 +20340,7 @@ msgstr "외투 있는 카딕 가문 정장"
 # EDID: SFBGS001_MS04_BladedBackTrigger, REC: ACTI:ATTX
 msgctxt "014C09"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 수집하기"
+msgstr "조직 샘플 채취하기"
 
 # EDID: SFBGS001_MS04_BladedBackTrigger, REC: ACTI:FULL
 msgctxt "014C0A"
@@ -20352,7 +20350,7 @@ msgstr "칼날등줄기 시쳬"
 # EDID: SFBGS001_MS04_GroatTrigger, REC: ACTI:ATTX
 msgctxt "014C0B"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 수집하기"
+msgstr "조직 샘플 채취하기"
 
 # EDID: SFBGS001_MS04_GroatTrigger, REC: ACTI:FULL
 msgctxt "014C0C"
@@ -20362,7 +20360,7 @@ msgstr "그로트 시체"
 # EDID: SFBGS001_MS04_NautilusTrigger, REC: ACTI:ATTX
 msgctxt "014C0D"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 수집하기"
+msgstr "조직 샘플 채취하기"
 
 # EDID: SFBGS001_MS04_NautilusTrigger, REC: ACTI:FULL
 msgctxt "014C0E"
@@ -20693,7 +20691,7 @@ msgstr ""
 "된다는 의미이기 때문에 큰 안도감을 느낄 수 있게 됐다. 결국, 이 생물들도 환경의 변화에 단순히 반응하는 (비록 다소 급진적이기는 "
 "하지만) 살아있는 유기체들인 거니까. 이들도 우리와 마찬가지로 살 권리가 있다.\n"
 "\n"
-"물론, 내 눈에는 영웅과 같은 우리의 연구 조수가 보인 용기와 헌신이 없었다면 이런 일은 애당초 일어나지 못했을 것이다."
+"물론, 내 눈에는 영웅과 같은 우리의 연구 보조원이 보여준 용기와 헌신이 없었다면 이런 일은 애당초 일어나지 못했을 것이다."
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Compound, REC: TMLM:ITXT
 msgctxt "014C33"
@@ -20713,8 +20711,8 @@ msgstr ""
 "있다는 걱정이 샘솟기 시작했다. 그것도 크림슨 함대의 침략자들이 내 연구실을 약탈하고 내 모든 연구 진척을 없애 버리지 않았다면 말이다."
 "\n"
 "\n"
-"하지만 위대한 뱀께서 자비를 베푸셔서, 위험에 굴하지 않고 내 시제품 영양 화합물을 회수할 수 있는 용감하고 유능한 연구 조수를 우리에게 "
-"보내주셨다.\n"
+"하지만 위대한 뱀께서 자비를 베푸셔서, 위험에 굴하지 않고 내 시제품 영양 화합물을 회수할 수 있는 용감하고 유능한 연구 보조원을 "
+"우리에게 보내주셨다.\n"
 "\n"
 "도시에서 벌어진 사태 이후 나타난 독성 변종 표본들로부터 샘플까지 구했으니, 나는 이제 예전 프로젝트를 다시 궤도에 올리는 데 필요한 "
 "모든 것을 가졌다고 확신할 수 있게 됐다."
@@ -20797,7 +20795,7 @@ msgstr "입구 및 전리품 목록"
 # EDID: SFBGS001_MS04_LC48BreadcrumbTrigger, REC: ACTI:ATTX
 msgctxt "014C4A"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 수집하기"
+msgstr "조직 샘플 채취하기"
 
 # EDID: SFBGS001_DazraPlayerHouseKey, REC: KEYM:FULL
 msgctxt "014C4B"

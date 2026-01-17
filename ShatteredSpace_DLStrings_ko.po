@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2025-11-24 16:44+0000\n"
+"PO-Revision-Date: 2026-01-18 10:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -6653,17 +6653,17 @@ msgstr "바룬 로봇 모델 S"
 # EDID: SFBGS001_VKaiZ02_PackageFihran, REC: MISC:FULL
 msgctxt "002127"
 msgid "Package For Fihran"
-msgstr "파이란의 소포"
+msgstr "파이란 노스탈의 소포"
 
 # EDID: SFBGS001_VKaiZ02_PackageAlicja, REC: MISC:FULL
 msgctxt "002128"
 msgid "Package For Alicja"
-msgstr "알리샤의 소포"
+msgstr "알리샤 달카의 소포"
 
 # EDID: SFBGS001_VKaiZ02_PackageLazim, REC: MISC:FULL
 msgctxt "002129"
 msgid "Package For Lazim"
-msgstr "라짐의 소포"
+msgstr "라짐 밸리얀의 소포"
 
 # EDID: SFBGS001_MS03, REC: QUST:NNAM
 msgctxt "002174"

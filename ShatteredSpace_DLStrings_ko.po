@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-02-01 08:44+0000\n"
+"PO-Revision-Date: 2026-02-03 22:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -10992,10 +10992,9 @@ msgid "Message to Nalada"
 msgstr "날라다에게 보내는 메시지"
 
 # EDID: SFBGS001_LC18_ElixirDocumentation_01, REC: BOOK:ENAM
-#, fuzzy
 msgctxt "0122FA"
 msgid "- documenting my experience"
-msgstr "- documenting my experience"
+msgstr "- 체험 기록"
 
 # EDID: SFBGS001_LC18_ElixirDocumentation_01, REC: BOOK:FULL
 msgctxt "0122FC"

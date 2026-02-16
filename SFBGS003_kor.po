@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2025-11-24 15:44+0000\n"
+"PO-Revision-Date: 2026-02-17 14:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -13509,7 +13509,7 @@ msgstr "어... 딱히 댈만한 이유는 없는데. 그냥 네가 사이코패�
 #. REC = INFO:NAM1
 msgctxt "00021D"
 msgid "Let's say I believe you. Give me a reason I should let you live."
-msgstr "네 말을 믿는다 치자. 왜 널 살려줘야 하는지 하나라도 이유를 말해 봐."
+msgstr "네 말을 믿는다 치자. 왜 널 살려줘야 하는지 하나라도 이유를 말해봐."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Deke
@@ -18121,7 +18121,7 @@ msgstr "날 싫어하는 줄 알았는데. 첫 임무 후에 왜 날 옹호해 �
 #, fuzzy
 msgctxt "0003E9"
 msgid "No problem. Lay it on me."
-msgstr "문제없어. 말해 봐."
+msgstr "문제없어. 말해봐."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Stache
@@ -27968,7 +27968,7 @@ msgstr "임무 단말기? 그래, 브로큰 스피어에 가면 있어. 보통 �
 #. REC = INFO:NAM1
 msgctxt "0175A0"
 msgid "Talk to me if you reckon you can hack it as a bounty hunter."
-msgstr "현상금 사냥꾼의 자질이 있다고 생각되면 내게 말해 봐."
+msgstr "현상금 사냥꾼의 자질이 있다고 생각되면 내게 말해봐."
 
 #. SCRIPT NOTES: Realizes the player might take all the good jobs, leaving her with none, since she believes she'll be able to take them soon, herself. / Irritated / to Player Default
 #. ALIAS: TrackersAllianceAgentCydonia

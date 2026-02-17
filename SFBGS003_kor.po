@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2025-06-18 16:55+0000\n"
-"Last-Translator: secarnadia <ellwionsia@gmail.com>\n"
+"PO-Revision-Date: 2026-02-17 14:44+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
@@ -744,7 +744,9 @@ msgstr "추적자 동맹은 조직 내에서 정보 수집, 멘토링 및 기타
 #. REC = LSCR:DESC
 msgctxt "0000CE"
 msgid "The scanner can be used to find wanted criminals hiding among the general population. Force or diplomacy can be employed to collect their bounty."
-msgstr "스캐너는 시민들 사이에 숨어 있는 수배범을 찾는 데 사용할 수 있습니다. 현상수배범을 잡기 위해 무력 또는 외교적인 방법을 사용할 수 있습니다."
+msgstr ""
+"스캐너는 시민들 사이에 숨어 있는 수배범을 찾는 데 사용할 수 있습니다. 현상수배범을 잡기 위해 무력을 쓰거나 교섭 스킬을 사용할 수 "
+"있습니다."
 
 #. EDID = LS_SFBGS003_ScannerBounty02
 #. REC = LSCR:DESC
@@ -764,7 +766,7 @@ msgstr "아스트라는 나리온 전쟁 당시 일부 사람들이 은행이 �
 #. REC = LSCR:DESC
 msgctxt "0000D1"
 msgid "The Trackers Alliance is a mysterious and exclusive organization. It's rare to be summoned to the headquarters directly."
-msgstr "추적자 동맹은 미스터리하고 배타적인 조직입니다. 본부로 직접 소환되는 경우는 드뭅니다."
+msgstr "추적자 동맹은 수수께끼의 배타적인 조직입니다. 본부로 직접 소환되는 경우는 드뭅니다."
 
 #. EDID = LS_SFBGS003_SFTA00_ChopShop01
 #. REC = LSCR:DESC
@@ -13507,7 +13509,7 @@ msgstr "어... 딱히 댈만한 이유는 없는데. 그냥 네가 사이코패�
 #. REC = INFO:NAM1
 msgctxt "00021D"
 msgid "Let's say I believe you. Give me a reason I should let you live."
-msgstr "네 말을 믿는다 치자. 왜 널 살려줘야 하는지 하나라도 이유를 말해 봐."
+msgstr "네 말을 믿는다 치자. 왜 널 살려줘야 하는지 하나라도 이유를 말해봐."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Deke
@@ -18119,7 +18121,7 @@ msgstr "날 싫어하는 줄 알았는데. 첫 임무 후에 왜 날 옹호해 �
 #, fuzzy
 msgctxt "0003E9"
 msgid "No problem. Lay it on me."
-msgstr "문제없어. 말해 봐."
+msgstr "문제없어. 말해봐."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Stache
@@ -27966,7 +27968,7 @@ msgstr "임무 단말기? 그래, 브로큰 스피어에 가면 있어. 보통 �
 #. REC = INFO:NAM1
 msgctxt "0175A0"
 msgid "Talk to me if you reckon you can hack it as a bounty hunter."
-msgstr "현상금 사냥꾼의 자질이 있다고 생각되면 내게 말해 봐."
+msgstr "현상금 사냥꾼의 자질이 있다고 생각되면 내게 말해봐."
 
 #. SCRIPT NOTES: Realizes the player might take all the good jobs, leaving her with none, since she believes she'll be able to take them soon, herself. / Irritated / to Player Default
 #. ALIAS: TrackersAllianceAgentCydonia

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2026-02-17 14:44+0000\n"
+"PO-Revision-Date: 2026-02-22 11:45+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -24662,7 +24662,9 @@ msgstr "무진장 많지. 근데 이것 하나만 말해 줄게."
 #. REC = INFO:NAM1
 msgctxt "0006D4"
 msgid "Sooner or later, you end up like ol' Yama over there believin' yourself some servant of the God of Death or somethin' and thinkin' you're doing them poor souls a favor. Ain't no life for me."
-msgstr "머지않아 저기 있는 야마처럼 자신이 무슨 사신이 된 것처럼 믿고, 불쌍한 녀석들 죽이는 게 좋은 일을 한다고 생각하기 마련이야. 난 그런 삶을 살고 싶지 않아."
+msgstr ""
+"머지 않아 저기 있는 야마처럼 자신이 무슨 사신이 된 것처럼 믿고, 불쌍한 녀석들 죽이는 게 좋은 일을 한다고 생각하기 마련이야. 난 "
+"그런 삶을 살고 싶지 않아."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Bloodhound

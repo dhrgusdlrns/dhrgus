@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2026-02-22 11:45+0000\n"
+"PO-Revision-Date: 2026-03-30 15:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -25177,7 +25177,7 @@ msgstr "대행인은 더 관리직 역할을 맡고, 추적자들은 주로 현�
 #. REC = INFO:NAM1
 msgctxt "000706"
 msgid "Who are you exactly? What's your story?"
-msgstr "정확히 넌 누구지? 너한텐 어떤 사연이 있어?"
+msgstr "정확히 넌 누구냐? 무슨 사연이라도 있는 건가?"
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: AgentNo1

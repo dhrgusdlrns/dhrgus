@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2026-03-30 15:44+0000\n"
+"PO-Revision-Date: 2026-04-12 13:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -57,7 +57,7 @@ msgstr ""
 "    36,500x - 실탄\n"
 "------------------------------------------------------------------\n"
 "예비 부품 (거래 금지):\n"
-"    6x - 양전자 충전지\n"
+"    6x - 양전자 배터리\n"
 "    4x - 초저온 자석\n"
 "    1x - 등중심점 자석\n"
 "------------------------------------------------------------------\n"
@@ -17662,7 +17662,9 @@ msgstr "일하고 보니 규칙을 따르는 건 별로 내 체질이랑 안 맞
 #. REC = INFO:NAM1
 msgctxt "0003BD"
 msgid "Well, I never did care much for those gangs, the way they preyed on folks weaker than them. So when I found out about the Trackers, I decided on a career change."
-msgstr "뭐, 갱단을 좋아한 적은 한 번도 없었어. 갱들은 자기들보다 약한 사람들을 약탈했거든. 그래서 추적자에 대해 알게 됐을 때, 경력을 바꾸기로 했지."
+msgstr ""
+"뭐, 갱단을 좋아한 적은 한 번도 없었어. 갱단은 자기들보다 약한 사람들을 약탈했거든. 그래서 추적자에 대해 알게 됐을 때, 경력을 "
+"바꾸기로 했지."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Stache
@@ -25657,7 +25659,7 @@ msgstr "추적자 동맹이 이런 문제들을 해결하고 전체 현상수배
 #, fuzzy
 msgctxt "000734"
 msgid "What can you tell me about Yama?"
-msgstr "야마에 대해 뭘 말해줄 수 있어?"
+msgstr "야마에 대해 알려줄래?"
 
 #. SCRIPT NOTES: The player left mid-conversation, then came back. / Serious / to Player Default
 #. ALIAS: Yama
@@ -26762,7 +26764,7 @@ msgstr "아, 내가 그러겠다고 했었지..."
 #. REC = INFO:NAM1
 msgctxt "00079F"
 msgid "If we're going to work together, what can you tell me about yourself?"
-msgstr "이제 함께 일하게 되는데, 뭐 너에 대해 말해줄 정보가 있나?"
+msgstr "이제 함께 일하게 되는데, 너에 대해 알려줄래?"
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Roach
@@ -27111,7 +27113,7 @@ msgstr "내가 어디 있든 항상 누군가 오는 건가?"
 #. REC = INFO:NAM1
 msgctxt "0007C0"
 msgid "Can you tell me more about bringing in targets alive?"
-msgstr "수배범을 생포하는 것에 대해 더 말해줄 수 있어?"
+msgstr "수배범을 생포하는 것에 대해 알려줄래?"
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: AgentNo1

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2026-02-22 11:44+0000\n"
+"PO-Revision-Date: 2026-04-13 15:45+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -968,7 +968,7 @@ msgid "$CommandModeFail_Moral"
 msgstr "할 수 없는 행동입니다."
 
 msgid "$Common"
-msgstr "'초급'"
+msgstr "\"커먼\""
 
 msgid "$Companion"
 msgstr "동료"
@@ -2157,7 +2157,7 @@ msgid "$ExitSurvivalConfirmMessage"
 msgstr "정말 난이도를 낮추시겠습니까? 이후 이 캐릭터로는 다시 생존 모드를 선택해 플레이할 수 없습니다."
 
 msgid "$Exotic"
-msgstr "'상급'"
+msgstr "\"엑조틱\""
 
 msgid "$EXPERIENCE"
 msgstr "경험치"
@@ -2247,13 +2247,13 @@ msgid "$FACTIONS"
 msgstr "세력"
 
 msgid "$Fanfare_Epic"
-msgstr "'특급' 등급 아이템 획득함"
+msgstr "\"에픽\" 등급 아이템 획득함"
 
 msgid "$Fanfare_Legendary"
-msgstr "'전설' 등급 아이템 획득함"
+msgstr "\"레전더리\" 등급 아이템 획득함"
 
 msgid "$Fanfare_Rare"
-msgstr "'희귀' 등급 아이템 획득함"
+msgstr "\"레어\" 등급 아이템 획득함"
 
 msgid "$Fanfare_SkillBook"
 msgstr "스킬 보너스 획득"
@@ -3195,13 +3195,13 @@ msgid "$ItemNameInvalid"
 msgstr "아이템 이름을 변경할 수 없습니다. 아이템 이름이 너무 길거나 잘못된 문자가 포함되어 있습니다."
 
 msgid "$ItemRarity_Epic"
-msgstr "'특급'"
+msgstr "\"에픽\""
 
 msgid "$ItemRarity_Legendary"
-msgstr "'전설'"
+msgstr "\"레전더리\""
 
 msgid "$ItemRarity_Rare"
-msgstr "'희귀'"
+msgstr "\"레어\""
 
 msgid "$ItemRename"
 msgstr "아이템 이름 입력"
@@ -4776,7 +4776,7 @@ msgid "$PlayerSetMarkerName"
 msgstr "사용자 지정 위치"
 
 msgid "$PlayerSetMarkerReplaceRemove"
-msgstr "사용자 지정 위치를 교체하거나 제거하시겠습니까?"
+msgstr "위치 표시를 대체하거나 제거하시겠습니까?"
 
 msgid "$PLOT"
 msgstr "목적지 추가"
@@ -5118,7 +5118,7 @@ msgid "$RANK_UP"
 msgstr "랭크 올리기"
 
 msgid "$Rare"
-msgstr "'희귀'"
+msgstr "\"레어\""
 
 msgid "$Rate"
 msgstr "평가"
@@ -5301,7 +5301,7 @@ msgid "$RepairConfirm"
 msgstr "다음을 사용하여 부분 수리함:"
 
 msgid "$REPLACE"
-msgstr "교체"
+msgstr "대체"
 
 msgid "$Report"
 msgstr "신고"
@@ -7945,7 +7945,7 @@ msgid "$UNCATEGORIZED"
 msgstr "분류되지 않음"
 
 msgid "$Uncommon"
-msgstr "'하급'"
+msgstr "\"언커먼\""
 
 msgid "$UNDO"
 msgstr "되돌리기"
@@ -7969,7 +7969,7 @@ msgid "$Unfollowing"
 msgstr "즐겨찾기 해제 중..."
 
 msgid "$Unique"
-msgstr "'특급'"
+msgstr "\"유니크\""
 
 msgid "$UnitedColonies"
 msgstr "식민지 연합"
@@ -8350,13 +8350,13 @@ msgid "$WEAPONGROUPZERO"
 msgstr "무기 0번"
 
 msgid "$WeaponRarityAndType_Epic {0}"
-msgstr "'특급' {0}"
+msgstr "\"에픽\" {0}"
 
 msgid "$WeaponRarityAndType_Legendary {0}"
-msgstr "'전설' {0}"
+msgstr "\"레전더리\" {0}"
 
 msgid "$WeaponRarityAndType_Rare {0}"
-msgstr "'희귀' {0}"
+msgstr "\"레어\" {0}"
 
 msgid "$WEAPONS"
 msgstr "무기"

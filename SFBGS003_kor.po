@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2026-04-12 13:44+0000\n"
+"PO-Revision-Date: 2026-04-13 16:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -708,13 +708,13 @@ msgstr "대상 스캔"
 #. REC = FLST:FULL
 msgctxt "0000C8"
 msgid "Rare Crimes"
-msgstr "'희귀' 등급 범죄"
+msgstr "\"레어\" 등급 범죄"
 
 #. EDID = SFBGS003_BountyCrimes_Common
 #. REC = FLST:FULL
 msgctxt "0000C9"
 msgid "Basic Crimes"
-msgstr "'일반' 등급 범죄"
+msgstr "\"베이직\" 등급 범죄"
 
 #. EDID = SFBGS003_HandScannerTemperamentFormlist
 #. REC = FLST:FULL
@@ -726,7 +726,7 @@ msgstr "현상범 기질"
 #. REC = FLST:FULL
 msgctxt "0000CB"
 msgid "Uncommon Crimes"
-msgstr "'비범' 등급 범죄"
+msgstr "\"언커먼\" 등급 범죄"
 
 #. EDID = LS_SFBGS003_TrackersHQ01
 #. REC = LSCR:DESC

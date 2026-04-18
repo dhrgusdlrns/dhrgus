@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-04-12 12:44+0000\n"
+"PO-Revision-Date: 2026-04-19 06:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -4906,7 +4906,7 @@ msgstr "쓰레기통"
 # EDID: SFBGS001_VkaiZ03_SocksMessage, REC: MESG:FULL
 msgctxt "0016B2"
 msgid "Socks"
-msgstr "양말"
+msgstr "양말이"
 
 # EDID: SFBGS001_VkaiZ03_ReigenAptLocation, REC: LCTN:FULL
 msgctxt "0016B4"
@@ -12872,7 +12872,7 @@ msgstr "에센셜 볼텍스 유령"
 # EDID: SFBGS001_VkaiZ03_Toyplushie_Dog01, REC: MISC:FULL
 msgctxt "0130FC"
 msgid "Socks"
-msgstr "양말"
+msgstr "양말이"
 
 # EDID: SFBGS001_VortexCyst_Glowing, REC: MISC:FULL
 msgctxt "0130FD"

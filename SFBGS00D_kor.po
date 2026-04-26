@@ -3,22 +3,22 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-04-26 17:13+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: starfield_plugin_xml_to_po.py\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. List: 0
 #. EDID: SFBGS00DDR001_ElevatorTerminalMenu
 #. REC: TMLM:ITXT
 msgctxt "000001"
 msgid "Clear Security Lockdown"
-msgstr ""
+msgstr "보안 봉쇄 해제"
 
 #. List: 0
 #. EDID: SFBGS00DDR001_ElevatorTerminalMenu
@@ -26,6 +26,11 @@ msgstr ""
 msgctxt "000002"
 msgid "////ALL CLEAR////\n\nSecurity lockdown has been lifted. Elevator function restored.\n\n////ALL CLEAR////"
 msgstr ""
+"////해제 완료////\n"
+"\n"
+"보안 봉쇄가 해제되었습니다. 엘리베이터 기능이 복구되었습니다.\n"
+"\n"
+"////해제 완료////"
 
 #. List: 0
 #. EDID: SFBGS00DDR001_ElevatorTerminalMenu
@@ -33,20 +38,26 @@ msgstr ""
 msgctxt "000003"
 msgid "////WARNING////\n\nCODE YELLOW\nSecurity lockdown - disabling elevator power. Manual action required.\n\n////WARNING////"
 msgstr ""
+"////경고////\n"
+"\n"
+"코드 옐로우\n"
+"보안 봉쇄 - 엘리베이터 전력이 차단되었습니다. 수동 조작이 필요합니다.\n"
+"\n"
+"////경고////"
 
 #. List: 0
 #. EDID: SFBGS00DDR001_ElevatorTerminalMenu
 #. REC: TMLM:FULL
 msgctxt "000004"
 msgid "Lockdown Protocol"
-msgstr ""
+msgstr "봉쇄 프로토콜"
 
 #. List: 0
 #. EDID: SFBGS00DPOIYG02_PowerTerminal_Menu
 #. REC: TMLM:ITXT
 msgctxt "000005"
 msgid "Exit"
-msgstr ""
+msgstr "종료"
 
 #. List: 0
 #. EDID: SFBGS00DPOIYG02_PowerTerminal_Menu
@@ -54,13 +65,16 @@ msgstr ""
 msgctxt "000006"
 msgid "Turning on power...\n...Automatic operating system failure.\nPlease manually enable the power system."
 msgstr ""
+"전력 공급 중...\n"
+"...자동 운영 시스템 가동 실패.\n"
+"수동으로 전력 시스템을 가동해 주세요."
 
 #. List: 0
 #. EDID: SFBGS00DPOIYG02_PowerTerminal_Menu
 #. REC: TMLM:ITXT
 msgctxt "000007"
 msgid "Turn on power"
-msgstr ""
+msgstr "전력 공급"
 
 #. List: 0
 #. EDID: SFBGS00DPOIYG02_PowerTerminal_Menu
@@ -68,496 +82,499 @@ msgstr ""
 msgctxt "000008"
 msgid "Welcome to power operating system.\n\nPower system: OFFLINE."
 msgstr ""
+"전력 관리 시스템에 접속하셨습니다.\n"
+"\n"
+"전력 시스템: 오프라인."
 
 #. List: 0
 #. EDID: SFBGS00DPOIYG02_PowerTerminal_Menu
 #. REC: TMLM:FULL
 msgctxt "000009"
 msgid "Power operating system"
-msgstr ""
+msgstr "전력 관리 시스템"
 
 #. List: 0
 #. EDID: SFBGS00DDR001ElevatorFirstFloorName
 #. REC: MESG:FULL
 msgctxt "00000A"
 msgid "Loading Dock Access"
-msgstr ""
+msgstr "하역장에 접근"
 
 #. List: 0
 #. EDID: SFBGS00DPOIYG02_Elevator_CleanRoom_Message
 #. REC: MESG:FULL
 msgctxt "00000B"
 msgid "Clean Room floor (Offline)"
-msgstr ""
+msgstr "클린룸 층 (오프라인)"
 
 #. List: 0
 #. EDID: SFBGS00DPOIYG02_Elevator_Shelter_Message
 #. REC: MESG:FULL
 msgctxt "00000D"
 msgid "Maintance floor"
-msgstr ""
+msgstr "유지보전 층"
 
 #. List: 0
 #. EDID: SFBGS00DPOIYG02_Elevator_G_Message
 #. REC: MESG:FULL
 msgctxt "00000E"
 msgid "Surface Level"
-msgstr ""
+msgstr "지표면"
 
 #. List: 0
 #. EDID: SFBGS00DDR002_LoadElevatorFloor01
 #. REC: MESG:FULL
 msgctxt "00000F"
 msgid "Lower Deck"
-msgstr ""
+msgstr "상부 갑판"
 
 #. List: 0
 #. EDID: SFBGS00DDR002_LoadElevatorFloor02
 #. REC: MESG:FULL
 msgctxt "000010"
 msgid "Upper Deck"
-msgstr ""
+msgstr "하부 갑판"
 
 #. List: 0
 #. EDID: SFBGS00DDR018_LoadElevatorMessage
 #. REC: MESG:ITXT
 msgctxt "000011"
 msgid "Ground Floor"
-msgstr ""
+msgstr "1층"
 
 #. List: 0
 #. EDID: SFBGS00DDR018_LoadElevatorMessage
 #. REC: MESG:ITXT
 msgctxt "000012"
 msgid "First Floor"
-msgstr ""
+msgstr "2층"
 
 #. List: 0
 #. EDID: SFBGS00DDR018_LoadElevatorMessage
 #. REC: MESG:ITXT
 msgctxt "000013"
 msgid "Top Floor"
-msgstr ""
+msgstr "최상층"
 
 #. List: 0
 #. EDID: SFBGS00DDR001ElevatorSecondFloorName
 #. REC: MESG:FULL
 msgctxt "000014"
 msgid "Shipping Access"
-msgstr ""
+msgstr "선적 통로"
 
 #. List: 0
 #. EDID: SFBGS00DDR005Location
 #. REC: LCTN:FULL
 msgctxt "000015"
 msgid "Cave Hideout"
-msgstr ""
+msgstr "동굴 은신처"
 
 #. List: 0
 #. EDID: SFBGS00DDR016Location
 #. REC: LCTN:FULL
 msgctxt "000016"
 msgid "Isolated Maintenance Hangar"
-msgstr ""
+msgstr "격리된 유지보전 격납고"
 
 #. List: 0
 #. EDID: SFBGS00DDR013Location
 #. REC: LCTN:FULL
 msgctxt "000017"
 msgid "Defunct Broadcasting Station"
-msgstr ""
+msgstr "폐쇄된 방송국"
 
 #. List: 0
 #. EDID: SFBGS00DPOIGN02Location
 #. REC: LCTN:FULL
 msgctxt "000018"
 msgid "Scattered Shipwreck"
-msgstr ""
+msgstr "난파선 잔해"
 
 #. List: 0
 #. EDID: SFBGS00DDR018Location
 #. REC: LCTN:FULL
 msgctxt "000019"
 msgid "Abandoned Tower"
-msgstr ""
+msgstr "버려진 탑"
 
 #. List: 0
 #. EDID: SFBGS00DPOIYG01Location
 #. REC: LCTN:FULL
 msgctxt "00001A"
 msgid "Explorer's Refuge"
-msgstr ""
+msgstr "탐험가의 피난처"
 
 #. List: 0
 #. EDID: SFBGS00DDR009Location
 #. REC: LCTN:FULL
 msgctxt "00001C"
 msgid "Galx-E Trailer Communes"
-msgstr ""
+msgstr "Galx-E 트레일러 공동체"
 
 #. List: 0
 #. EDID: SFBGS00DDR001Location
 #. REC: LCTN:FULL
 msgctxt "00001D"
 msgid "Autonomous Waste Processing Plant"
-msgstr ""
+msgstr "자동 폐기물 처리 시설"
 
 #. List: 0
 #. EDID: SFBGS00DDR02Location
 #. REC: LCTN:FULL
 msgctxt "00001E"
 msgid "Ship Stop"
-msgstr ""
+msgstr "우주선 정류장"
 
 #. List: 0
 #. EDID: SFBGS00DDR004Location
 #. REC: LCTN:FULL
 msgctxt "000020"
 msgid "Pillaged Colony Outpost"
-msgstr ""
+msgstr "약탈당한 식민지 연합 전초기지"
 
 #. List: 0
 #. EDID: SFBGS00DDR011WorldLocation
 #. REC: LCTN:FULL
 msgctxt "000021"
 msgid "Wildlife Viewing Station"
-msgstr ""
+msgstr "야생동물 생태 관측소"
 
 #. List: 0
 #. EDID: SFBGS00DDR017WorldLocation
 #. REC: LCTN:FULL
 msgctxt "000022"
 msgid "Greenhouse Farm"
-msgstr ""
+msgstr "온실 농장"
 
 #. List: 0
 #. EDID: SFBGS00DDR015WorldLocation
 #. REC: LCTN:FULL
 msgctxt "000023"
 msgid "Antiquated Radio Observatory"
-msgstr ""
+msgstr "구식 전파 관측소"
 
 #. List: 0
 #. EDID: SFBGS00DPOIYG01World
 #. REC: WRLD:FULL
 msgctxt "000025"
 msgid "Explorer's Refuge"
-msgstr ""
+msgstr "탐험가의 피난처"
 
 #. List: 0
 #. EDID: SFBGS00DPOICL01World
 #. REC: WRLD:FULL
 msgctxt "000026"
 msgid "Crashed Food Truck"
-msgstr ""
+msgstr "추락한 식량 수송선"
 
 #. List: 0
 #. EDID: SFBGS00DDR008World
 #. REC: WRLD:FULL
 msgctxt "000027"
 msgid "Lost Research Facility"
-msgstr ""
+msgstr "버려진 연구 시설"
 
 #. List: 0
 #. EDID: SFBGS00DDR014World
 #. REC: WRLD:FULL
 msgctxt "000029"
 msgid "Defunct Shipping Facility"
-msgstr ""
+msgstr "폐쇄된 선적 시설"
 
 #. List: 0
 #. EDID: SFBGS00DPOIGN01World
 #. REC: WRLD:FULL
 msgctxt "00002A"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: SFBGS00DPOIGN02World
 #. REC: WRLD:FULL
 msgctxt "00002B"
 msgid "Scattered Shipwreck"
-msgstr ""
+msgstr "난파선 잔해"
 
 #. List: 0
 #. EDID: SFBGS00DPOIGN04World
 #. REC: WRLD:FULL
 msgctxt "00002C"
 msgid "Crashed Ship"
-msgstr ""
+msgstr "함선 추락 현장"
 
 #. List: 0
 #. EDID: SFBGS00DDR018World
 #. REC: WRLD:FULL
 msgctxt "00002D"
 msgid "Abandoned Tower"
-msgstr ""
+msgstr "버려진 탑"
 
 #. List: 0
 #. EDID: SFBGS00DDR005World
 #. REC: WRLD:FULL
 msgctxt "00002E"
 msgid "Cave Hideout"
-msgstr ""
+msgstr "동굴 은신처"
 
 #. List: 0
 #. EDID: SFBGS00DDR016World
 #. REC: WRLD:FULL
 msgctxt "00002F"
 msgid "Isolated Maintenance Hangar"
-msgstr ""
+msgstr "격리된 유지보전 격납고"
 
 #. List: 0
 #. EDID: SFBGS00DDR015World
 #. REC: WRLD:FULL
 msgctxt "000030"
 msgid "Antiquated Radio Observatory"
-msgstr ""
+msgstr "구식 전파 관측소"
 
 #. List: 0
 #. EDID: SFBGS00DDR017World
 #. REC: WRLD:FULL
 msgctxt "000031"
 msgid "Greenhouse Farm"
-msgstr ""
+msgstr "온실 농장"
 
 #. List: 0
 #. EDID: SFBGS00DDR013World
 #. REC: WRLD:FULL
 msgctxt "000032"
 msgid "Defunct Broadcasting Station"
-msgstr ""
+msgstr "폐쇄된 방송국"
 
 #. List: 0
 #. EDID: SFBGS00DDR011World
 #. REC: WRLD:FULL
 msgctxt "000033"
 msgid "Wildlife Viewing Station"
-msgstr ""
+msgstr "야생동물 생태 관측소"
 
 #. List: 0
 #. EDID: SFBGS00DDR010World
 #. REC: WRLD:FULL
 msgctxt "000034"
 msgid "Big Iron CQB Training Center"
-msgstr ""
+msgstr "빅 아이언 근접 교전 훈련 센터"
 
 #. List: 0
 #. EDID: SFBGS00DDR009World
 #. REC: WRLD:FULL
 msgctxt "000035"
 msgid "Galx-E Trailer Communes"
-msgstr ""
+msgstr "Galx-E 트레일러 공동체"
 
 #. List: 0
 #. EDID: SFBGS00DDR002World
 #. REC: WRLD:FULL
 msgctxt "000036"
 msgid "Ship Stop"
-msgstr ""
+msgstr "우주선 정류장"
 
 #. List: 0
 #. EDID: SFBGS00DDR004World
 #. REC: WRLD:FULL
 msgctxt "000037"
 msgid "Pillaged Colony Outpost"
-msgstr ""
+msgstr "약탈당한 식민지 연합 전초기지"
 
 #. List: 0
 #. EDID: SFBGS00DDR006World
 #. REC: WRLD:FULL
 msgctxt "000038"
 msgid "Travel Stop"
-msgstr ""
+msgstr "휴게소"
 
 #. List: 0
 #. EDID: [010079C3]
 #. REC: REFR:FULL
 msgctxt "000039"
 msgid "Abandoned Outpost"
-msgstr ""
+msgstr "버려진 전초기지"
 
 #. List: 0
 #. EDID: SFBGS00DDR007World
 #. REC: WRLD:FULL
 msgctxt "00003A"
 msgid "Ambush Outpost"
-msgstr ""
+msgstr "숨겨진 전초기지"
 
 #. List: 0
 #. EDID: SFBGS00DDR001World
 #. REC: WRLD:FULL
 msgctxt "00003C"
 msgid "Autonomous Waste Processing Plant"
-msgstr ""
+msgstr "자동 폐기물 처리 시설"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeRocksSharp01
 #. REC: WRLD:FULL
 msgctxt "00003D"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeRocksRough03
 #. REC: WRLD:FULL
 msgctxt "00003E"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeRocksRough01
 #. REC: WRLD:FULL
 msgctxt "00003F"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeSpireVeiny01
 #. REC: WRLD:FULL
 msgctxt "000040"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeSpireRough01
 #. REC: WRLD:FULL
 msgctxt "000041"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeGrottoLayered01
 #. REC: WRLD:FULL
 msgctxt "000042"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeGrottoRough01
 #. REC: WRLD:FULL
 msgctxt "000043"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeGrottoVolcanicWorn01
 #. REC: WRLD:FULL
 msgctxt "000044"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeSpireVolcanicRough01
 #. REC: WRLD:FULL
 msgctxt "000045"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeSpireVolcanicWorn01
 #. REC: WRLD:FULL
 msgctxt "000046"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeGrottoVolcanicRough01
 #. REC: WRLD:FULL
 msgctxt "000047"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeGrottoVeiny01
 #. REC: WRLD:FULL
 msgctxt "000048"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeGrottoSharp01
 #. REC: WRLD:FULL
 msgctxt "000049"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeSpireLayered01
 #. REC: WRLD:FULL
 msgctxt "00004A"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeSpireSharp01
 #. REC: WRLD:FULL
 msgctxt "00004B"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeSpireVolcanicRough02
 #. REC: WRLD:FULL
 msgctxt "00004C"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeRocksRough02
 #. REC: WRLD:FULL
 msgctxt "00004D"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: OverlayPOIBiomeRocksRough04
 #. REC: WRLD:FULL
 msgctxt "00004E"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: SFBGS00DDR001_ElevatorTerminal
 #. REC: TERM:FULL
 msgctxt "00004F"
 msgid "Elevator Control Terminal"
-msgstr ""
+msgstr "엘리베이터 제어 단말기"
 
 #. List: 0
 #. EDID: SFBGS00DPOIYG02_PowerTerminal
 #. REC: TERM:FULL
 msgctxt "000050"
 msgid "Power control"
-msgstr ""
+msgstr "전원 제어"
 
 #. List: 0
 #. EDID: SFBGS00DDR001PointGravHazard
 #. REC: HAZD:FULL
 msgctxt "000051"
 msgid "Magnetic Field"
-msgstr ""
+msgstr "자기장"
 
 #. List: 0
 #. EDID: SFBGS00DDR001_Keycard
 #. REC: KEYM:FULL
 msgctxt "000052"
 msgid "Degausser Access Card"
-msgstr ""
+msgstr "자성제거기 인증 카드"
 
 #. List: 0
 #. EDID: SFBGS00DPOIYG02_Key
 #. REC: KEYM:FULL
 msgctxt "000053"
 msgid "Storage Card"
-msgstr ""
+msgstr "보관함 카드"
 
 #. List: 0
 #. EDID: SFBGS00DDR007_Loot_Storage_BossChest_Industrial_Rare_Empty
 #. REC: CONT:FULL
 msgctxt "000054"
 msgid "Industrial Crate"
-msgstr ""
+msgstr "산업용 보관함"
 
 #. List: 0
 #. EDID: SFBGS00DDR013_OperationsTerminalMenu
@@ -565,20 +582,34 @@ msgstr ""
 msgctxt "000055"
 msgid "...Connecting, please wait...\nERROR...please wait...\nERROR...please wait...\nERROR...please wait...\nERROR...please wait...\nERROR...please wait...\nERROR...please wait...\nERROR...please wait...\nERROR...please wait...\nERROR...please wait...\nERROR...please wait...\nERROR...please wait...\n\nFailed to reach <AE-421 : ****2044>, please contact your network administrator."
 msgstr ""
+"...연결 중, 잠시 기다려 주세요...\n"
+"에러... 잠시 기다려 주세요...\n"
+"에러... 잠시 기다려 주세요...\n"
+"에러... 잠시 기다려 주세요...\n"
+"에러... 잠시 기다려 주세요...\n"
+"에러... 잠시 기다려 주세요...\n"
+"에러... 잠시 기다려 주세요...\n"
+"에러... 잠시 기다려 주세요...\n"
+"에러... 잠시 기다려 주세요...\n"
+"에러... 잠시 기다려 주세요...\n"
+"에러... 잠시 기다려 주세요...\n"
+"에러... 잠시 기다려 주세요...\n"
+"\n"
+"<AE-421 : ****2044>에 연결할 수 없습니다. 네트워크 관리자에게 문의해 주세요."
 
 #. List: 0
 #. EDID: SFBGS00DDR013_OperationsTerminalMenu
 #. REC: TMLM:ISTX
 msgctxt "000056"
 msgid "Broadcast Data"
-msgstr ""
+msgstr "방송 데이터"
 
 #. List: 0
 #. EDID: SFBGS00DDR013_OperationsTerminalMenu
 #. REC: TMLM:ITXT
 msgctxt "000057"
 msgid "CONNECTION FAILED"
-msgstr ""
+msgstr "연결 실패"
 
 #. List: 0
 #. EDID: SFBGS00DDR013_OperationsTerminalMenu
@@ -586,20 +617,28 @@ msgstr ""
 msgctxt "000058"
 msgid "<00:32> SOS\n<00:32> SOS\n<00:32> SOS\n    <00:32> [Message delivery failed. Please check your connection.]\n<00:32> NEED HELP NOW! \n    <00:32> [Message delivery failed. Please check your connection.]\n<00:33> Trapped, hostiles are trying to override the airlocks. We need someone NOW!\n    <00:33> [Message delivery failed. Please check your connection.]"
 msgstr ""
+"<00:32> SOS\n"
+"<00:32> SOS\n"
+"<00:32> SOS\n"
+"    <00:32> [메시지 전송 실패. 연결 상태를 확인해 주세요.]\n"
+"<00:32> 지금 당장 도움이 필요해! \n"
+"    <00:32> [메시지 전송 실패. 연결 상태를 확인해 주세요.]\n"
+"<00:33> 갇혔어. 적들이 에어락 제어권을 장악하려 하고 있어. 누구든 지금 당장 필요해!\n"
+"    <00:33> [메시지 전송 실패. 연결 상태를 확인해 주세요.]"
 
 #. List: 0
 #. EDID: SFBGS00DDR013_OperationsTerminalMenu
 #. REC: TMLM:ISTX
 msgctxt "000059"
 msgid "Emergency Line"
-msgstr ""
+msgstr "긴급 회선"
 
 #. List: 0
 #. EDID: SFBGS00DDR013_OperationsTerminalMenu
 #. REC: TMLM:ITXT
 msgctxt "00005A"
 msgid "Emergency Line"
-msgstr ""
+msgstr "긴급 회선"
 
 #. List: 0
 #. EDID: SFBGS00DDR020_StorageTerminal_Off_Menu
@@ -607,125 +646,129 @@ msgstr ""
 msgctxt "00005B"
 msgid "Door Control Interface\nSTATUS: Power system offline. \n\nPlease turn on the power system."
 msgstr ""
+"출입문 제어 인터페이스\n"
+"상태: 전력 시스템 오프라인. \n"
+"\n"
+"전력 시스템을 가동해 주세요."
 
 #. List: 0
 #. EDID: SFBGS00DDR020_StorageTerminal_Off_Menu
 #. REC: TMLM:ITXT
 msgctxt "00005C"
 msgid "Open door"
-msgstr ""
+msgstr "출입문 열기"
 
 #. List: 0
 #. EDID: SFBGS00DDR020_StorageTerminal_Off_Menu
 #. REC: TMLM:FULL
 msgctxt "00005D"
 msgid "Remote Door Control"
-msgstr ""
+msgstr "출입문 원격 제어"
 
 #. List: 0
 #. EDID: mod_Legendary_Wep_4_Reckless
 #. REC: OMOD:FULL
 msgctxt "000069"
 msgid "Reckless"
-msgstr ""
+msgstr "일발필살TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Wep_4_Bloodthirsty
 #. REC: OMOD:FULL
 msgctxt "000074"
 msgid "Bloodthirsty"
-msgstr ""
+msgstr "흡혈TA효과"
 
 #. List: 0
 #. EDID: SFBGS00DDR010Location
 #. REC: LCTN:FULL
 msgctxt "0000FE"
 msgid "CQB Training Center"
-msgstr ""
+msgstr "근접 교전 훈련 센터"
 
 #. List: 0
 #. EDID: SFBGS00DDR008Location
 #. REC: LCTN:FULL
 msgctxt "0000FF"
 msgid "Lost Research Facility"
-msgstr ""
+msgstr "버려진 연구 시설"
 
 #. List: 0
 #. EDID: SFBGS00DDR007Location
 #. REC: LCTN:FULL
 msgctxt "000100"
 msgid "Depleted Pump Station"
-msgstr ""
+msgstr "고갈된 펌프장"
 
 #. List: 0
 #. EDID: Perk_LegendaryWeapon_Bloodthirsty
 #. REC: PERK:FULL
 msgctxt "000103"
 msgid "Bloodthirsty"
-msgstr ""
+msgstr "흡혈TA효과"
 
 #. List: 0
 #. EDID: [0101649C]
 #. REC: REFR:FULL
 msgctxt "000106"
 msgid "CQB Training Center"
-msgstr ""
+msgstr "근접 교전 훈련 센터"
 
 #. List: 0
 #. EDID: SFBGS00DWorldArtAssets
 #. REC: CELL:FULL
 msgctxt "000107"
 msgid "TestCellTemplate"
-msgstr ""
+msgstr "TestCellTemplate"
 
 #. List: 0
 #. EDID: SFBGS00DDR020_StorageTerminal_Off
 #. REC: TERM:FULL
 msgctxt "000108"
 msgid "Storage gate control (Offline)"
-msgstr ""
+msgstr "보관 게이트 제어 (오프라인)"
 
 #. List: 0
 #. EDID: SFBGS00DDR020_EntranceTerminal_Off
 #. REC: TERM:FULL
 msgctxt "000109"
 msgid "Entrance control (Offline)"
-msgstr ""
+msgstr "입구 제어 (오프라인)"
 
 #. List: 0
 #. EDID: SFBGS00DDR020_EntranceTerminal
 #. REC: TERM:FULL
 msgctxt "00010A"
 msgid "Entrance control"
-msgstr ""
+msgstr "입구 제어"
 
 #. List: 0
 #. EDID: SFBGS00DDR013_OperationsTerminal
 #. REC: TERM:FULL
 msgctxt "00010B"
 msgid "Damaged Broadcast Terminal"
-msgstr ""
+msgstr "손상된 방송 단말기"
 
 #. List: 0
 #. EDID: SFBGS00DDR020_StorageTerminal
 #. REC: TERM:FULL
 msgctxt "00010C"
 msgid "Storage gate control"
-msgstr ""
+msgstr "보관 게이트 제어"
 
 #. List: 0
 #. EDID: SFBGS00DPOIYG02_EntranceKey
 #. REC: KEYM:FULL
 msgctxt "00010D"
 msgid "Key of entrance"
-msgstr ""
+msgstr "입구 열쇠"
 
 #. List: 0
 #. EDID: SFBGS00DDR013_Slate01
 #. REC: BOOK:FULL
 msgctxt "00011E"
 msgid "Engineer's Slate"
-msgstr ""
+msgstr "엔지니어의 슬레이트"
 
 #. List: 0
 #. EDID: SFBGS00DDR013_Slate02
@@ -733,391 +776,393 @@ msgstr ""
 msgctxt "00011F"
 msgid "<<Greenway Limited>> \nTerms of Service"
 msgstr ""
+"<<그린웨이 주식회사>> \n"
+"서비스 이용약관"
 
 #. List: 0
 #. EDID: SFBGS00DDR013_Slate02
 #. REC: BOOK:FULL
 msgctxt "000121"
 msgid "Mercenary Contract"
-msgstr ""
+msgstr "용병 계약서"
 
 #. List: 0
 #. EDID: ModLegendaryEffects_Bloodthirsty_Spell
 #. REC: SPEL:FULL
 msgctxt "000122"
 msgid "Bloodthirsty Spell"
-msgstr ""
+msgstr "흡혈TA효과 주문"
 
 #. List: 0
 #. EDID: Ench_LegendaryWeapon_Reckless
 #. REC: ENCH:FULL
 msgctxt "000123"
 msgid "Kismet"
-msgstr ""
+msgstr "숙명TA효과"
 
 #. List: 0
 #. EDID: Ench_LegendaryWeapon_Bloodthirsty
 #. REC: ENCH:FULL
 msgctxt "000125"
 msgid "BloodThirsty"
-msgstr ""
+msgstr "흡혈TA효과"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Reckless
 #. REC: MGEF:DNAM
 msgctxt "000128"
 msgid "Reduces max hp by half"
-msgstr ""
+msgstr "최대 체력 절반으로 감소"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Reckless
 #. REC: MGEF:FULL
 msgctxt "000129"
 msgid "Reckless"
-msgstr ""
+msgstr "일발필살TA효과"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Bloodthirsty_AddPerk
 #. REC: MGEF:DNAM
 msgctxt "00012A"
 msgid "Applys the Bloodthirsty perk"
-msgstr ""
+msgstr "흡혈TA효과 특성 적용"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Bloodthirsty_AddPerk
 #. REC: MGEF:FULL
 msgctxt "00012B"
 msgid "Bloodthirsty Add Perk"
-msgstr ""
+msgstr "흡혈TA효과 특성 추가"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Bloodthirsty_Health
 #. REC: MGEF:DNAM
 msgctxt "00012C"
 msgid "Grants health on kill"
-msgstr ""
+msgstr "처치 시 체력 회복"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Bloodthirsty_Health
 #. REC: MGEF:FULL
 msgctxt "00012D"
 msgid "Bloodthirsty Health Bonus"
-msgstr ""
+msgstr "흡혈TA효과 체력 보너스"
 
 #. List: 0
 #. EDID: mod_Legendary_Wep_4_Saboteur
 #. REC: OMOD:FULL
 msgctxt "000134"
 msgid "Saboteur"
-msgstr ""
+msgstr "파괴공작TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Wep_4_Methodical
 #. REC: OMOD:FULL
 msgctxt "000136"
 msgid "Methodical"
-msgstr ""
+msgstr "철두철미TA효과"
 
 #. List: 0
 #. EDID: Perk_LegendaryWeapon_Saboteur
 #. REC: PERK:FULL
 msgctxt "000139"
 msgid "Saboteur"
-msgstr ""
+msgstr "파괴공작TA효과"
 
 #. List: 0
 #. EDID: Perk_LegendaryWeapon_Saboteur_TempPerk
 #. REC: PERK:FULL
 msgctxt "00013A"
 msgid "Saboteur Temp Perk"
-msgstr ""
+msgstr "파괴공작TA효과 임시 특성"
 
 #. List: 0
 #. EDID: Perk_LegendaryWeapon_Methodical
 #. REC: PERK:FULL
 msgctxt "00013B"
 msgid "Methodical"
-msgstr ""
+msgstr "철두철미TA효과"
 
 #. List: 0
 #. EDID: Legendary_Wep_Saboteur_XPL
 #. REC: EXPL:FULL
 msgctxt "00013C"
 msgid "Saboteur XPL"
-msgstr ""
+msgstr "파괴공작TA효과 XPL"
 
 #. List: 0
 #. EDID: Legendary_Wep_Saboteur_Projectile
 #. REC: PROJ:FULL
 msgctxt "00013D"
 msgid "Saboteur Projectile"
-msgstr ""
+msgstr "파괴공작TA효과 투사체"
 
 #. List: 0
 #. EDID: LegendaryWeapon_Saboteur_Spell_AddTempPerk
 #. REC: SPEL:FULL
 msgctxt "00013E"
 msgid "LegendaryWeapon_Saboteur_Spell_AddTempPerk"
-msgstr ""
+msgstr "LegendaryWeapon_Saboteur_Spell_AddTempPerk"
 
 #. List: 0
 #. EDID: LegendaryWeapon_Saboteur_Spell_Dispel
 #. REC: SPEL:FULL
 msgctxt "00013F"
 msgid "LegendaryWeapon_Saboteur_Spell_Dispel"
-msgstr ""
+msgstr "LegendaryWeapon_Saboteur_Spell_Dispel"
 
 #. List: 0
 #. EDID: ModLegendaryEffects_Saboteur_Spell
 #. REC: SPEL:FULL
 msgctxt "000140"
 msgid "Saboteur Spell"
-msgstr ""
+msgstr "파괴공작TA효과 주문"
 
 #. List: 0
 #. EDID: LegendaryWeapon_Methodical_Spell_Timer
 #. REC: SPEL:FULL
 msgctxt "000141"
 msgid "Methodical"
-msgstr ""
+msgstr "철두철미TA효과"
 
 #. List: 0
 #. EDID: Ench_LegendaryWeapon_Saboteur
 #. REC: ENCH:FULL
 msgctxt "000142"
 msgid "Saboteur"
-msgstr ""
+msgstr "파괴공작TA효과"
 
 #. List: 0
 #. EDID: Ench_LegendaryWeapon_Methodical
 #. REC: ENCH:FULL
 msgctxt "000143"
 msgid "Methodical"
-msgstr ""
+msgstr "철두철미TA효과"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Saboteur
 #. REC: MGEF:DNAM
 msgctxt "000144"
 msgid "Applys the Saboteur perk"
-msgstr ""
+msgstr "파괴공작TA효과 특성 적용"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Saboteur
 #. REC: MGEF:FULL
 msgctxt "000145"
 msgid "Saboteur Add Perk"
-msgstr ""
+msgstr "파괴공작TA효과 특성 추가"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Saboteur_AddTempPerk
 #. REC: MGEF:DNAM
 msgctxt "000146"
 msgid "Adds a temporary perk"
-msgstr ""
+msgstr "임시 특성 추가"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Saboteur_AddTempPerk
 #. REC: MGEF:FULL
 msgctxt "000147"
 msgid "Saboteur Legendary Add Temp Perk Effect"
-msgstr ""
+msgstr "파괴공작TA효과 임시 전설 특성 효과 추가"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Saboteur_Damage
 #. REC: MGEF:DNAM
 msgctxt "000148"
 msgid "Kills the robot or turret."
-msgstr ""
+msgstr "로봇 또는 터렛 파괴."
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Saboteur_Damage
 #. REC: MGEF:FULL
 msgctxt "000149"
 msgid "Saboteur Damage"
-msgstr ""
+msgstr "파괴공작TA효과 피해"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Saboteur_Dispel
 #. REC: MGEF:DNAM
 msgctxt "00014A"
 msgid "Dispel Timer"
-msgstr ""
+msgstr "해제 타이머"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Saboteur_Dispel
 #. REC: MGEF:FULL
 msgctxt "00014B"
 msgid "Saboteur Dispel"
-msgstr ""
+msgstr "파괴공작TA효과 해제"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Methodical
 #. REC: MGEF:DNAM
 msgctxt "00014C"
 msgid "Applys the Methodical perk"
-msgstr ""
+msgstr "철두철미TA효과 특성 적용"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Methodical
 #. REC: MGEF:FULL
 msgctxt "00014D"
 msgid "Methodical Add Perk"
-msgstr ""
+msgstr "철두철미TA효과 특성 추가"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Methodical_Timer
 #. REC: MGEF:DNAM
 msgctxt "00014E"
 msgid "Damaged increased by 50%."
-msgstr ""
+msgstr "피해 50% 증가."
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Methodical_Timer
 #. REC: MGEF:FULL
 msgctxt "00014F"
 msgid "Methodical"
-msgstr ""
+msgstr "철두철미TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Wep_4_Gravitational_melee
 #. REC: OMOD:FULL
 msgctxt "000151"
 msgid "Gravitational"
-msgstr ""
+msgstr "중력TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Wep_4_Barbaric_melee
 #. REC: OMOD:FULL
 msgctxt "000153"
 msgid "Barbaric"
-msgstr ""
+msgstr "야성TA효과"
 
 #. List: 0
 #. EDID: Perk_LegendaryWeapon_Gravitational
 #. REC: PERK:FULL
 msgctxt "000156"
 msgid "Gravitational"
-msgstr ""
+msgstr "중력TA효과"
 
 #. List: 0
 #. EDID: Perk_LegendaryWeapon_Barbaric
 #. REC: PERK:FULL
 msgctxt "000157"
 msgid "Barbaric"
-msgstr ""
+msgstr "야성TA효과"
 
 #. List: 0
 #. EDID: SFBGS00DDR005MasterKey
 #. REC: KEYM:FULL
 msgctxt "000159"
 msgid "Master Key"
-msgstr ""
+msgstr "마스터 열쇠"
 
 #. List: 0
 #. EDID: SFBGS00DDR005_Loot_Corpse_SeniorScientist
 #. REC: NPC_:SHRT
 msgctxt "00015A"
 msgid "Scientist"
-msgstr ""
+msgstr "과학자"
 
 #. List: 0
 #. EDID: SFBGS00DDR005_Loot_Corpse_SeniorScientist
 #. REC: NPC_:FULL
 msgctxt "00015B"
 msgid "Scientist"
-msgstr ""
+msgstr "과학자"
 
 #. List: 0
 #. EDID: ModLegendaryEffects_Gravitational_Spell
 #. REC: SPEL:FULL
 msgctxt "00015D"
 msgid "Gravitational Spell"
-msgstr ""
+msgstr "중력TA효과 주문"
 
 #. List: 0
 #. EDID: Ench_LegendaryWeapon_Gravitational
 #. REC: ENCH:FULL
 msgctxt "00015E"
 msgid "Gravitational"
-msgstr ""
+msgstr "중력TA효과"
 
 #. List: 0
 #. EDID: Ench_LegendaryWeapon_Barbaric
 #. REC: ENCH:FULL
 msgctxt "00015F"
 msgid "Barbaric"
-msgstr ""
+msgstr "야성TA효과"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Gravitational_AddPerk
 #. REC: MGEF:DNAM
 msgctxt "000160"
 msgid "Applys the Gravitational perk"
-msgstr ""
+msgstr "중력TA효과 특성 적용"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Gravitational_AddPerk
 #. REC: MGEF:FULL
 msgctxt "000161"
 msgid "Gravitational Add Perk"
-msgstr ""
+msgstr "중력TA효과 특성 추가"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Barbaric
 #. REC: MGEF:DNAM
 msgctxt "000166"
 msgid "Applys the Barbaric perk"
-msgstr ""
+msgstr "야성TA효과 특성 적용"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Barbaric
 #. REC: MGEF:FULL
 msgctxt "000167"
 msgid "Barbaric Add Perk"
-msgstr ""
+msgstr "야성TA효과 특성 추가"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Barbaric_MoveSpeed
 #. REC: MGEF:DNAM
 msgctxt "000168"
 msgid "Increases movement speed"
-msgstr ""
+msgstr "이동 속도 증가"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Barbaric_MoveSpeed
 #. REC: MGEF:FULL
 msgctxt "000169"
 msgid "Barbaric Movement Speed"
-msgstr ""
+msgstr "야성TA효과 이동 속도 강화"
 
 #. List: 0
 #. EDID: SFFLDR022Location
 #. REC: LCTN:FULL
 msgctxt "00017F"
 msgid "Mineral Farm"
-msgstr ""
+msgstr "광물 채굴장"
 
 #. List: 0
 #. EDID: SFFLDR022World
 #. REC: WRLD:FULL
 msgctxt "000180"
 msgid "Mineral Farm"
-msgstr ""
+msgstr "광물 채굴장"
 
 #. List: 0
 #. EDID: JMTest
 #. REC: CELL:FULL
 msgctxt "000181"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: SFBGS038_CREW_EliteCrew_Muria
 #. REC: QUST:FULL
 msgctxt "0001A3"
 msgid "Muria Siarkiewicz"
-msgstr ""
+msgstr "무리아 샤르키비치"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
@@ -1125,13 +1170,21 @@ msgstr ""
 msgctxt "0001AC"
 msgid "Telemetry Data of last known coordinates:\n\nNote: Radio transmission are received at light speed and data may not reflect current location.\n\nOrbital: <Alias=BabylonParentLocation>\nLocation: New Babylon Outpost\nEngine Status: OK\nNavigational Computer: OK"
 msgstr ""
+"최종 확인 좌표의 원격 측정 데이터:\n"
+"\n"
+"참고: 무선 전송은 광속으로 수신되며, 데이터가 현재 위치를 반영하지 않을 수 있습니다.\n"
+"\n"
+"궤도: <Alias=BabylonParentLocation>\n"
+"위치: 뉴바빌론 전초기지\n"
+"엔진 상태: OK\n"
+"항행 컴퓨터: OK"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
 #. REC: TMLM:ITXT
 msgctxt "0001AD"
 msgid "[PING] Tevat's Ship Coordinates"
-msgstr ""
+msgstr "[핑] 테바트의 함선 좌표"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
@@ -1139,13 +1192,16 @@ msgstr ""
 msgctxt "0001AE"
 msgid "The scout team we sent out haven't returned. In addition to the ship and the vehicle, Caruso stole all our weapons, our charts, and navigation equipment, and so we're helpless out here.\n\nWithout food and water, we won't last long. People are talking about alternative solutions. I pray to God we don't have to consider them."
 msgstr ""
+"파견한 정찰조가 돌아오지 않았다. 카루소는 함선과 차량에다가, 무기, 항행 좌표, 항행 장비까지 전부 훔쳐 갔다. 속수무책이다.\n"
+"\n"
+"식량과 물 없이는 오래 버틸 수 없다. 사람들은 대안이 없나 논의 중이다. 그 대안을 고려할 필요가 없기를 신께 기도한다."
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
 #. REC: TMLM:ITXT
 msgctxt "0001AF"
 msgid "Starvation"
-msgstr ""
+msgstr "기아"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
@@ -1153,13 +1209,18 @@ msgstr ""
 msgctxt "0001B0"
 msgid "It's gone. The ship, the supplies, everything we had stored for the month. The tracking system we have on the ship says it grav jumped off world this morning, while we were all asleep.\n\nThe other members are saying Caruso stole it all. How could I have been so naive?\n\n"
 msgstr ""
+"사라졌다. 함선도, 물자도, 한 달치 비축량 전부. 함선 추적 시스템에 따르면, 오늘 아침 우리가 모두 잠든 사이에 항성계에서 중력 "
+"도약을 했다.\n"
+"\n"
+"다른 승무원들은 카루소가 전부 훔쳐갔다고 수근거린다. 내가 이토록 어리석었단 말인가?\n"
+"\n"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
 #. REC: TMLM:ITXT
 msgctxt "0001B1"
 msgid "Betrayal"
-msgstr ""
+msgstr "배신"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
@@ -1167,13 +1228,19 @@ msgstr ""
 msgctxt "0001B2"
 msgid "Caruso is still on the mend, but he's well enough to walk at least, and so I offered to give him a tour of the outpost and its facilities.\n\nWe told him that he was welcome to stay as long as he liked, but that supplies were limited due to issues with the farm and that a ship would be coming soon. Maybe I'm overthinking it, but that seemed to catch his attention. \n\nOverall he expressed gratitude for the aid."
 msgstr ""
+"카루소는 아직 회복 중이지만, 적어도 걸을 수 있을 정도는 됐다. 전초기지와 시설을 안내해 줬다.\n"
+"\n"
+"원하는 만큼 머물러도 좋지만, 농장 문제로 물자가 부족하고 곧 함선이 도착할 것이라고 말해줬다. 내가 너무 지나치게 그런 쪽으로 생각한 "
+"건진 모르겠지만, 카루소는 특히 마지막 말에 관심을 보인 것 같았다.\n"
+"\n"
+"카루소는 전반적으로 도와준 것에 감사를 표했다."
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
 #. REC: TMLM:ITXT
 msgctxt "0001B3"
 msgid "Caruso"
-msgstr ""
+msgstr "카루소"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
@@ -1181,13 +1248,22 @@ msgstr ""
 msgctxt "0001B4"
 msgid "A ship crash landed to the west of here this morning. We sent out a few folks to check the wreckage to see if there were any survivors. Apparently there was one, a merchant by the name of Hal Caruso.\n\nFor now, we've left him to recover in the medical tent, but a couple of the community members question his story. According to them, the dates and anecdotes don't seem to line up. Bernhard says after a crash like that, he'd be lucky to know his own name.\n\nI'm inclined to agree. Even if he isn't who he says he is, I think we should give him a chance.\n\nWhy? It's the right thing to do. We'll be holding council later tonight to discuss the matter. I will let everyone know where we stand on the matter."
 msgstr ""
+"오늘 아침, 여기서 서쪽 지역에 함선 한 척이 불시착했다. 생존자를 확인하기 위해 몇 명을 보냈는데, 할 카루소라는 상인이 한 명 "
+"살아남았다고 했다.\n"
+"\n"
+"지금은 구호 천막에서 회복 중이지만, 공동체 사람들 몇 명이 카루소가 했던 말을 의심하고 있다. 사람들에 따르면 날짜와 세부 사항이 맞지 "
+"않는다고 한다. 버나드는 저런 추락 후에는 자기 이름을 기억하는 것만도 다행이라고 했다.\n"
+"\n"
+"나도 동의한다. 설령 카루소가 자기가 말한대로의 인간이 아니더라도, 기회를 주어야 한다고 생각한다.\n"
+"\n"
+"왜냐고? 그게 옳으니까. 오늘 밤 늦게 이 문제를 논의하기 위해 평의회를 열 것이다. 현재 상황을 모두에게 알리겠다."
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
 #. REC: TMLM:ITXT
 msgctxt "0001B5"
 msgid "Crash Landing"
-msgstr ""
+msgstr "불시착"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
@@ -1195,6 +1271,16 @@ msgstr ""
 msgctxt "0001B6"
 msgid "The crop yield this season was not ideal and we've been relying mostly on imports. Dr. Costas says there's been changes with the soil we didn't anticipate that have affected the vegetation across the biome.\n\nHunting and scavenging isn't the best option, given where we positioned our outpost. We've tried not to disrupt the local ecology, and there isn't much fauna to speak of anyway.\n\nAs expected of a B-H planet, we will rely mostly on supplies delivered from the outside, and gradually wean ourselves off this in the coming months. It feels a bit like asking your parents for more money when you're supposed to be out on your own, but thankfully we've got enough funding with this project that we can afford to fudge the timeline a little. \n\nStill, if this is truly going to live up to the \"Noah's Ark\" name then eventually we'll need the settlement to be self-sustaining and keep contact to a minimum.\n\n"
 msgstr ""
+"이번 분기 수확량이 이상적이지 않아 대부분 외부 반입에 의존하고 있다. 코스타스 박사에 따르면, 예상치 못한 토양 변화로 생태계 전반의 "
+"식생이 영향을 받았다고 한다.\n"
+"\n"
+"전초기지의 위치를 고려하면 사냥이나 수렵채집은 최선의 선택이 아니다. 현지 생태계를 교란하지 않으려 했고, 어차피 동물도 별로 없다.\n"
+"\n"
+"B-H형 행성으로서 예상대로, 당분간 외부 물자 보급에 의존하면서 향후 몇 달에 걸쳐 점차 의존도를 줄여나갈 것이다. 독립했다면서 "
+"부모에게 용돈을 달라고 하는 기분이지만, 다행히 이 프로젝트의 자금은 넉넉해서 일정이 다소 늦어져도 문제없다.\n"
+"\n"
+"그래도 \"노아의 방주\"라는 이름에 걸맞으려면, 언젠가는 자급자족이 가능해지고 외부 연락도 최소화해야 한다.\n"
+"\n"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
@@ -1292,7 +1378,7 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "0001C4"
 msgid "Personal Logs"
-msgstr ""
+msgstr "개인 일지"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_TMLM
@@ -1362,7 +1448,7 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "0001CE"
 msgid "Sunni"
-msgstr ""
+msgstr "순이"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_PLogs_TMLM
@@ -1376,14 +1462,14 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "0001D0"
 msgid "Grace Kim's Personal Logs"
-msgstr ""
+msgstr "그레이스 킴의 개인 일지"
 
 #. List: 0
 #. EDID: SFFL_MS01_NewBabylonOutpostName
 #. REC: MESG:FULL
 msgctxt "0001D1"
 msgid "New Babylon Outpost"
-msgstr ""
+msgstr "뉴바빌론 전초기지"
 
 #. List: 0
 #. EDID: SFFL_MS01_ShinarOutpostName
@@ -1404,7 +1490,7 @@ msgstr ""
 #. REC: CELL:FULL
 msgctxt "000580"
 msgid "SFFL_MS01 Non-Instanced Refs"
-msgstr ""
+msgstr "SFFL_MS01 Non-Instanced Refs"
 
 #. List: 0
 #. EDID: SFBGS00D_GravWellHazard
@@ -1446,14 +1532,14 @@ msgstr ""
 #. REC: NPC_:SHRT
 msgctxt "000586"
 msgid "Sunni"
-msgstr ""
+msgstr "순이"
 
 #. List: 0
 #. EDID: SFFL_MS01_SunniKim
 #. REC: NPC_:FULL
 msgctxt "000587"
 msgid "Sunni Kim"
-msgstr ""
+msgstr "김순이"
 
 #. List: 0
 #. EDID: SFFL_MS01_Ivica
@@ -1663,70 +1749,70 @@ msgstr ""
 #. REC: OMOD:FULL
 msgctxt "0005C7"
 msgid "Constellation Skin"
-msgstr ""
+msgstr "컨스텔레이션 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_BigBang_SFBGS00D_Constellation
 #. REC: OMOD:FULL
 msgctxt "0005C8"
 msgid "Constellation Skin"
-msgstr ""
+msgstr "컨스텔레이션 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Solstice_SFBGS00D_Constellation
 #. REC: OMOD:FULL
 msgctxt "0005C9"
 msgid "Constellation Skin"
-msgstr ""
+msgstr "컨스텔레이션 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Shotty_SFBGS00D_Constellation
 #. REC: OMOD:FULL
 msgctxt "0005CA"
 msgid "Constellation Skin"
-msgstr ""
+msgstr "컨스텔레이션 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Kodama_SFBGS00D_Constellation
 #. REC: OMOD:FULL
 msgctxt "0005CB"
 msgid "Constellation Skin"
-msgstr ""
+msgstr "컨스텔레이션 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_HardTarget_SFBGS00D_Constellation
 #. REC: OMOD:FULL
 msgctxt "0005CC"
 msgid "Constellation Skin"
-msgstr ""
+msgstr "컨스텔레이션 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Grendel_SFBGS00D_Constellation
 #. REC: OMOD:FULL
 msgctxt "0005CD"
 msgid "Constellation Skin"
-msgstr ""
+msgstr "컨스텔레이션 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_DrumBeat_SFBGS00D_Constellation
 #. REC: OMOD:FULL
 msgctxt "0005CE"
 msgid "Constellation Skin"
-msgstr ""
+msgstr "컨스텔레이션 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Eon_SFBGS00D_Constellation
 #. REC: OMOD:FULL
 msgctxt "0005CF"
 msgid "Constellation Skin"
-msgstr ""
+msgstr "컨스텔레이션 스킨"
 
 #. List: 0
 #. EDID: SFFL_MS01_VotingMessageBox
 #. REC: MESG:ITXT
 msgctxt "0005F7"
 msgid "Exit"
-msgstr ""
+msgstr "종료"
 
 #. List: 0
 #. EDID: SFFL_MS01_VotingMessageBox
@@ -1761,14 +1847,14 @@ msgstr ""
 #. REC: LCTN:FULL
 msgctxt "0005FD"
 msgid "Test Cell"
-msgstr ""
+msgstr "테스트 셀"
 
 #. List: 0
 #. EDID: SFFL_MS01_ActivationPerk
 #. REC: PERK:EPF2
 msgctxt "0005FE"
 msgid "Unlock"
-msgstr ""
+msgstr "잠금 해제"
 
 #. List: 0
 #. EDID: SFFL_MS01_ActivationPerk
@@ -2412,49 +2498,49 @@ msgstr ""
 #. REC: OMOD:FULL
 msgctxt "00094C"
 msgid "Gilded Skin"
-msgstr ""
+msgstr "도금 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Coachman_SFBGS00D_Gilded
 #. REC: OMOD:FULL
 msgctxt "00094D"
 msgid "Gilded Skin"
-msgstr ""
+msgstr "도금 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Rattler_SFBGS00D_Gilded
 #. REC: OMOD:FULL
 msgctxt "00094E"
 msgid "Gilded Skin"
-msgstr ""
+msgstr "도금 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Razorback_SFBGS00D_Gilded
 #. REC: OMOD:FULL
 msgctxt "00094F"
 msgid "Gilded Skin"
-msgstr ""
+msgstr "도금 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Regulator_SFBGS00D_Gilded
 #. REC: OMOD:FULL
 msgctxt "000950"
 msgid "Gilded Skin"
-msgstr ""
+msgstr "도금 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Tombstone_SFBGS00D_Gilded
 #. REC: OMOD:FULL
 msgctxt "000951"
 msgid "Gilded Skin"
-msgstr ""
+msgstr "도금 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Lawgiver_SFBGS00D_Gilded
 #. REC: OMOD:FULL
 msgctxt "000952"
 msgid "Gilded Skin"
-msgstr ""
+msgstr "도금 스킨"
 
 #. List: 0
 #. EDID: SFFL_MS01_ShinarYeatsSlate01
@@ -2489,7 +2575,7 @@ msgstr ""
 #. REC: WRLD:FULL
 msgctxt "000961"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_PEO
@@ -2503,42 +2589,42 @@ msgstr ""
 #. REC: GPOF:RESN
 msgctxt "000963"
 msgid "Disabled"
-msgstr ""
+msgstr "비활성"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tricky
 #. REC: GPOF:RESN
 msgctxt "000964"
 msgid "80"
-msgstr ""
+msgstr "80"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tricky
 #. REC: GPOF:RESN
 msgctxt "000965"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tricky
 #. REC: GPOF:RESN
 msgctxt "000966"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tricky
 #. REC: GPOF:RESN
 msgctxt "000967"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tricky
 #. REC: GPOF:RESN
 msgctxt "000968"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tricky
@@ -2552,49 +2638,49 @@ msgstr ""
 #. REC: GPOF:NNAM
 msgctxt "00096A"
 msgid "Tricky Modifier Level"
-msgstr ""
+msgstr "묘기TA효과 보정 레벨"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Dangerous
 #. REC: GPOF:RESN
 msgctxt "00096B"
 msgid "Disabled"
-msgstr ""
+msgstr "비활성"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Dangerous
 #. REC: GPOF:RESN
 msgctxt "00096C"
 msgid "80"
-msgstr ""
+msgstr "80"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Dangerous
 #. REC: GPOF:RESN
 msgctxt "00096D"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Dangerous
 #. REC: GPOF:RESN
 msgctxt "00096E"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Dangerous
 #. REC: GPOF:RESN
 msgctxt "00096F"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Dangerous
 #. REC: GPOF:RESN
 msgctxt "000970"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Dangerous
@@ -2608,49 +2694,49 @@ msgstr ""
 #. REC: GPOF:NNAM
 msgctxt "000972"
 msgid "Dangerous Modifier Level"
-msgstr ""
+msgstr "위험대상TA효과 보정 레벨"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Berserker
 #. REC: GPOF:RESN
 msgctxt "000973"
 msgid "Disabled"
-msgstr ""
+msgstr "비활성"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Berserker
 #. REC: GPOF:RESN
 msgctxt "000974"
 msgid "80"
-msgstr ""
+msgstr "80"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Berserker
 #. REC: GPOF:RESN
 msgctxt "000975"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Berserker
 #. REC: GPOF:RESN
 msgctxt "000976"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Berserker
 #. REC: GPOF:RESN
 msgctxt "000977"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Berserker
 #. REC: GPOF:RESN
 msgctxt "000978"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Berserker
@@ -2664,7 +2750,7 @@ msgstr ""
 #. REC: GPOF:NNAM
 msgctxt "00097A"
 msgid "Berserker Modifier Level"
-msgstr ""
+msgstr "광전사TA효과 보정 레벨"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
@@ -3084,7 +3170,7 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "0009B6"
 msgid "Grace Kim's Personal Logs"
-msgstr ""
+msgstr "그레이스 킴의 개인 일지"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_ShieldStrength
@@ -3168,35 +3254,35 @@ msgstr ""
 #. REC: OMOD:FULL
 msgctxt "0009C3"
 msgid "Medic"
-msgstr ""
+msgstr "자동회복TA효과"
 
 #. List: 0
 #. EDID: mod_wep_ranged_statUpgrade_Accuracy_new
 #. REC: OMOD:FULL
 msgctxt "0009C5"
 msgid "Accuracy Upgrade"
-msgstr ""
+msgstr "명중률 업그레이드"
 
 #. List: 0
 #. EDID: mod_Legendary_Modifier_Martyr
 #. REC: OMOD:FULL
 msgctxt "0009C7"
 msgid "Martyr"
-msgstr ""
+msgstr "순교자TA효과"
 
 #. List: 0
 #. EDID: mod_AVM_Grendel_SFBGS00D_NeonAesthetic
 #. REC: OMOD:FULL
 msgctxt "0009CB"
 msgid "Neon Skin"
-msgstr ""
+msgstr "네온 스킨"
 
 #. List: 0
 #. EDID: StarbornContainerUpgradedMsg
 #. REC: MESG:FULL
 msgctxt "0009CF"
 msgid "Quantum Entanglement Device Upgraded"
-msgstr ""
+msgstr "양자 얽힘 장치 업그레이드됨"
 
 #. List: 0
 #. EDID: HelpFreeLanesEncountersXbox
@@ -3371,7 +3457,7 @@ msgstr ""
 #. REC: PERK:EPF2
 msgctxt "0009FB"
 msgid "Upgrade"
-msgstr ""
+msgstr "업그레이드"
 
 #. List: 0
 #. EDID: Perk_StarbornContainer
@@ -3413,7 +3499,7 @@ msgstr ""
 #. REC: PERK:FULL
 msgctxt "000A02"
 msgid "Inspiring Temp Perk"
-msgstr ""
+msgstr "격려TA효과 임시 특성"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_KibweIkande_Perk
@@ -3455,21 +3541,21 @@ msgstr ""
 #. REC: PERK:FULL
 msgctxt "000A08"
 msgid "LegendaryModifier_Shielded"
-msgstr ""
+msgstr "LegendaryModifier_Shielded"
 
 #. List: 0
 #. EDID: Perk_Legendary_Suit_Electrified
 #. REC: PERK:FULL
 msgctxt "000A09"
 msgid "Electrified"
-msgstr ""
+msgstr "감전TA효과"
 
 #. List: 0
 #. EDID: Perk_Legendary_Suit_Enigmatic_Dummy
 #. REC: PERK:FULL
 msgctxt "000A0A"
 msgid "Enigmatic Dummy"
-msgstr ""
+msgstr "허상TA효과 더미"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_UCMarine_Perk
@@ -3525,7 +3611,7 @@ msgstr ""
 #. REC: QUST:FULL
 msgctxt "000AAD"
 msgid "[SFFL_R02 Dialogue Quest]"
-msgstr ""
+msgstr "[SFFL_R02 Dialogue Quest]"
 
 #. List: 0
 #. EDID: SQ_ExtendedCommArray
@@ -3539,7 +3625,7 @@ msgstr ""
 #. REC: QUST:NNAM
 msgctxt "000AC6"
 msgid "Build the Quantum Entanglement Device"
-msgstr ""
+msgstr "양자 얽힘 장치 제작"
 
 #. List: 0
 #. EDID: SQ_StarbornContainer
@@ -3553,7 +3639,7 @@ msgstr ""
 #. REC: QUST:FULL
 msgctxt "000ACB"
 msgid "Before You Go: Quantum Entanglement Device"
-msgstr ""
+msgstr "떠나기 전에: 양자 얽힘 장치"
 
 #. List: 0
 #. EDID: SFBGS00D_SharedOutpostContainer_Tutorial
@@ -3623,14 +3709,14 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "000DEB"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: [0108049F]
 #. REC: REFR:FULL
 msgctxt "000DEC"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE051
@@ -3651,28 +3737,28 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "000DEF"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: SFBGS00DTestAlexey
 #. REC: CELL:FULL
 msgctxt "000DF0"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: [01079144]
 #. REC: REFR:FULL
 msgctxt "000DF1"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: [0107B26D]
 #. REC: REFR:FULL
 msgctxt "000DF2"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLAnchorpointStation
@@ -3693,7 +3779,7 @@ msgstr ""
 #. REC: CELL:FULL
 msgctxt "000DF5"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: SMS_Equipment_RepairSystemOverdrive
@@ -3749,14 +3835,14 @@ msgstr ""
 #. REC: PROJ:FULL
 msgctxt "000DFD"
 msgid "SFBGS00D_Grenadier_Projectile"
-msgstr ""
+msgstr "SFBGS00D_Grenadier_Projectile"
 
 #. List: 0
 #. EDID: SFBGS00DDR010_MasterKey
 #. REC: KEYM:FULL
 msgctxt "000DFF"
 msgid "Master Key"
-msgstr ""
+msgstr "마스터 열쇠"
 
 #. List: 0
 #. EDID: SFFL_AsteroidManorHouseKey
@@ -3791,7 +3877,7 @@ msgstr ""
 #. REC: KEYM:FULL
 msgctxt "000E04"
 msgid "Storage Master Key"
-msgstr ""
+msgstr "보관함 마스터 열쇠"
 
 #. List: 0
 #. EDID: SFFL_SE03_Hostage
@@ -4085,7 +4171,7 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "000E2E"
 msgid "Damage Upgrade (Melee)"
-msgstr ""
+msgstr "피해 업그레이드 (근접)"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointZ02_Parts
@@ -4141,7 +4227,7 @@ msgstr ""
 #. REC: CONT:FULL
 msgctxt "000E36"
 msgid "Quantum Entanglement Device"
-msgstr ""
+msgstr "양자 얽힘 장치"
 
 #. List: 0
 #. EDID: SFBGS00D_ColonyWarActionHero_Display
@@ -4274,14 +4360,14 @@ msgstr ""
 #. REC: SPEL:FULL
 msgctxt "000E54"
 msgid "abLegendaryModifier_Quick"
-msgstr ""
+msgstr "abLegendaryModifier_Quick"
 
 #. List: 0
 #. EDID: Legendary_Enigmatic_Holograms
 #. REC: SPEL:FULL
 msgctxt "000E55"
 msgid "Enigmatic Holograms"
-msgstr ""
+msgstr "허상TA효과 홀로그램"
 
 #. List: 0
 #. EDID: SFBGS00d_CWAH_Terrormorph_HitSpell
@@ -4295,42 +4381,42 @@ msgstr ""
 #. REC: SPEL:FULL
 msgctxt "000E57"
 msgid "Leader Aura Effects"
-msgstr ""
+msgstr "대장TA효과 오라 효과"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Medic
 #. REC: SPEL:FULL
 msgctxt "000E58"
 msgid "abLegendaryModifier_Medic"
-msgstr ""
+msgstr "abLegendaryModifier_Medic"
 
 #. List: 0
 #. EDID: Ench_Legendary_Suit_Enigmatic
 #. REC: ENCH:FULL
 msgctxt "000E59"
 msgid "Enigmatic"
-msgstr ""
+msgstr "허상TA효과"
 
 #. List: 0
 #. EDID: Ench_Legendary_Suit_AdvancedTargeting
 #. REC: ENCH:FULL
 msgctxt "000E5A"
 msgid "Advanced Targeting"
-msgstr ""
+msgstr "기동사격TA효과"
 
 #. List: 0
 #. EDID: Ench_LegendaryWeapon_Kismet
 #. REC: ENCH:FULL
 msgctxt "000E5B"
 msgid "Kismet"
-msgstr ""
+msgstr "숙명TA효과"
 
 #. List: 0
 #. EDID: Ench_Legendary_Suit_Speedster
 #. REC: ENCH:FULL
 msgctxt "000E5C"
 msgid "Speedster"
-msgstr ""
+msgstr "초고속TA효과"
 
 #. List: 0
 #. EDID: SFBGS00D_HarvestBonus_DurationDisplay_DescriptionEffect
@@ -4351,14 +4437,14 @@ msgstr ""
 #. REC: MGEF:DNAM
 msgctxt "000E5F"
 msgid "Applys the Grenadier perk"
-msgstr ""
+msgstr "공중척탄병TA효과 특성 적용"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Grenadier
 #. REC: MGEF:FULL
 msgctxt "000E60"
 msgid "Grenadier Add Perk"
-msgstr ""
+msgstr "공중척탄병TA효과 특성 추가"
 
 #. List: 0
 #. EDID: FortifyHealth_Area
@@ -4379,21 +4465,21 @@ msgstr ""
 #. REC: MGEF:FULL
 msgctxt "000E63"
 msgid "Martyr Temp Perk Effect"
-msgstr ""
+msgstr "순교자TA효과 임시 특성 효과"
 
 #. List: 0
 #. EDID: LegendaryModifier_Medic_Aura_HealEffect
 #. REC: MGEF:FULL
 msgctxt "000E64"
 msgid "LegendaryModifier_Medic_Aura_HealEffect"
-msgstr ""
+msgstr "LegendaryModifier_Medic_Aura_HealEffect"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Shielded_Effect
 #. REC: MGEF:FULL
 msgctxt "000E65"
 msgid "Shielded Add Perk Effect"
-msgstr ""
+msgstr "보호막TA효과 추가 특성 효과"
 
 #. List: 0
 #. EDID: Legendary_Armor_Electrified_Paralyze_Effect
@@ -4407,77 +4493,77 @@ msgstr ""
 #. REC: MGEF:FULL
 msgctxt "000E67"
 msgid "Electrified Paralyze Effect"
-msgstr ""
+msgstr "감전TA효과 마비 효과"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_AbyssalRelease_TrackDMG
 #. REC: MGEF:FULL
 msgctxt "000E68"
 msgid "Abyssal Release TrackDMG"
-msgstr ""
+msgstr "심연의해방TA효과 TrackDMG"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Enigmatic_NoDmgPerk
 #. REC: MGEF:FULL
 msgctxt "000E69"
 msgid "Enigmatic No Dmg Perk"
-msgstr ""
+msgstr "허상TA효과 무피해 특성"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Mercenary
 #. REC: MGEF:DNAM
 msgctxt "000E6A"
 msgid "Applys the Mercenary perk"
-msgstr ""
+msgstr "치명적인용병TA효과 특성 적용"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Mercenary
 #. REC: MGEF:FULL
 msgctxt "000E6B"
 msgid "Mercenary Add Perk"
-msgstr ""
+msgstr "치명적인용병TA효과 특성 추가"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_AerialAdvantage_TempPerk
 #. REC: MGEF:DNAM
 msgctxt "000E6C"
 msgid "Applys the Aerial Advantage temp perk"
-msgstr ""
+msgstr "공중우위TA효과 임시 특성 적용"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_AerialAdvantage_TempPerk
 #. REC: MGEF:FULL
 msgctxt "000E6D"
 msgid "Aerial Advantage Add Temp Perk"
-msgstr ""
+msgstr "공중우위TA효과 임시 특성 추가"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_AerialAdvantage
 #. REC: MGEF:DNAM
 msgctxt "000E6E"
 msgid "Applys the Aerial Advantage perk"
-msgstr ""
+msgstr "공중우위TA효과 특성 적용"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_AerialAdvantage
 #. REC: MGEF:FULL
 msgctxt "000E6F"
 msgid "Aerial Advantage Add Perk"
-msgstr ""
+msgstr "공중우위TA효과 특성 추가"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Kismet
 #. REC: MGEF:DNAM
 msgctxt "000E70"
 msgid "Applys the Kismet perk"
-msgstr ""
+msgstr "숙명TA효과 특성 적용"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Kismet
 #. REC: MGEF:FULL
 msgctxt "000E71"
 msgid "Kismet Add Perk"
-msgstr ""
+msgstr "숙명TA효과 특성 추가"
 
 #. List: 0
 #. EDID: SFFL_MS01_NewBabylonFriendFaction
@@ -4498,42 +4584,42 @@ msgstr ""
 #. REC: GPOF:RESN
 msgctxt "000E75"
 msgid "Disabled"
-msgstr ""
+msgstr "비활성"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tank
 #. REC: GPOF:RESN
 msgctxt "000E76"
 msgid "80"
-msgstr ""
+msgstr "80"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tank
 #. REC: GPOF:RESN
 msgctxt "000E77"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tank
 #. REC: GPOF:RESN
 msgctxt "000E78"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tank
 #. REC: GPOF:RESN
 msgctxt "000E79"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tank
 #. REC: GPOF:RESN
 msgctxt "000E7A"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tank
@@ -4547,49 +4633,49 @@ msgstr ""
 #. REC: GPOF:NNAM
 msgctxt "000E7C"
 msgid "Tank Modifier Level"
-msgstr ""
+msgstr "탱크TA효과 보정 레벨"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Specialist
 #. REC: GPOF:RESN
 msgctxt "000E7D"
 msgid "Disabled"
-msgstr ""
+msgstr "비활성"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Specialist
 #. REC: GPOF:RESN
 msgctxt "000E7E"
 msgid "80"
-msgstr ""
+msgstr "80"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Specialist
 #. REC: GPOF:RESN
 msgctxt "000E7F"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Specialist
 #. REC: GPOF:RESN
 msgctxt "000E80"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Specialist
 #. REC: GPOF:RESN
 msgctxt "000E81"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Specialist
 #. REC: GPOF:RESN
 msgctxt "000E82"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Specialist
@@ -4603,49 +4689,49 @@ msgstr ""
 #. REC: GPOF:NNAM
 msgctxt "000E84"
 msgid "Specialist Modifier Level"
-msgstr ""
+msgstr "전문가TA효과 보정 레벨"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Shielded
 #. REC: GPOF:RESN
 msgctxt "000E85"
 msgid "Disabled"
-msgstr ""
+msgstr "비활성"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Shielded
 #. REC: GPOF:RESN
 msgctxt "000E86"
 msgid "80"
-msgstr ""
+msgstr "80"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Shielded
 #. REC: GPOF:RESN
 msgctxt "000E87"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Shielded
 #. REC: GPOF:RESN
 msgctxt "000E88"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Shielded
 #. REC: GPOF:RESN
 msgctxt "000E89"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Shielded
 #. REC: GPOF:RESN
 msgctxt "000E8A"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Shielded
@@ -4659,49 +4745,49 @@ msgstr ""
 #. REC: GPOF:NNAM
 msgctxt "000E8C"
 msgid "Shielded Modifier Level"
-msgstr ""
+msgstr "보호막TA효과 보정 레벨"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Quick
 #. REC: GPOF:RESN
 msgctxt "000E8D"
 msgid "Disabled"
-msgstr ""
+msgstr "비활성"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Quick
 #. REC: GPOF:RESN
 msgctxt "000E8E"
 msgid "80"
-msgstr ""
+msgstr "80"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Quick
 #. REC: GPOF:RESN
 msgctxt "000E8F"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Quick
 #. REC: GPOF:RESN
 msgctxt "000E90"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Quick
 #. REC: GPOF:RESN
 msgctxt "000E91"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Quick
 #. REC: GPOF:RESN
 msgctxt "000E92"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Quick
@@ -4715,49 +4801,49 @@ msgstr ""
 #. REC: GPOF:NNAM
 msgctxt "000E94"
 msgid "Quick Modifier Level"
-msgstr ""
+msgstr "고속사격TA효과 보정 레벨"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Medic
 #. REC: GPOF:RESN
 msgctxt "000E95"
 msgid "Disabled"
-msgstr ""
+msgstr "비활성"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Medic
 #. REC: GPOF:RESN
 msgctxt "000E96"
 msgid "80"
-msgstr ""
+msgstr "80"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Medic
 #. REC: GPOF:RESN
 msgctxt "000E97"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Medic
 #. REC: GPOF:RESN
 msgctxt "000E98"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Medic
 #. REC: GPOF:RESN
 msgctxt "000E99"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Medic
 #. REC: GPOF:RESN
 msgctxt "000E9A"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Medic
@@ -4771,49 +4857,49 @@ msgstr ""
 #. REC: GPOF:NNAM
 msgctxt "000E9C"
 msgid "Medic Modifier Level"
-msgstr ""
+msgstr "자동회복TA효과 보정 레벨"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Leader
 #. REC: GPOF:RESN
 msgctxt "000E9D"
 msgid "Disabled"
-msgstr ""
+msgstr "비활성"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Leader
 #. REC: GPOF:RESN
 msgctxt "000E9E"
 msgid "80"
-msgstr ""
+msgstr "80"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Leader
 #. REC: GPOF:RESN
 msgctxt "000E9F"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Leader
 #. REC: GPOF:RESN
 msgctxt "000EA0"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Leader
 #. REC: GPOF:RESN
 msgctxt "000EA1"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Leader
 #. REC: GPOF:RESN
 msgctxt "000EA2"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Leader
@@ -4827,49 +4913,49 @@ msgstr ""
 #. REC: GPOF:NNAM
 msgctxt "000EA4"
 msgid "Leader Modifier Level"
-msgstr ""
+msgstr "대장TA효과 보정 레벨"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Behemoth
 #. REC: GPOF:RESN
 msgctxt "000EA5"
 msgid "Disabled"
-msgstr ""
+msgstr "비활성"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Behemoth
 #. REC: GPOF:RESN
 msgctxt "000EA6"
 msgid "80"
-msgstr ""
+msgstr "80"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Behemoth
 #. REC: GPOF:RESN
 msgctxt "000EA7"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Behemoth
 #. REC: GPOF:RESN
 msgctxt "000EA8"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Behemoth
 #. REC: GPOF:RESN
 msgctxt "000EA9"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Behemoth
 #. REC: GPOF:RESN
 msgctxt "000EAA"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Behemoth
@@ -4883,7 +4969,7 @@ msgstr ""
 #. REC: GPOF:NNAM
 msgctxt "000EAC"
 msgid "Behemoth Modifier Level"
-msgstr ""
+msgstr "베헤모스TA효과 보정 레벨"
 
 #. List: 0
 #. EDID: SFFL_BE_EC07_GalBankTerminal_Contact
@@ -5114,7 +5200,7 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "000ECD"
 msgid "README_PIRATES"
-msgstr ""
+msgstr "README_PIRATES"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_CaptainTerminaManifestMenu
@@ -5373,7 +5459,7 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "000EF2"
 msgid "Terminal01_CargoBay"
-msgstr ""
+msgstr "Terminal01_CargoBay"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal02_Bridge
@@ -5520,7 +5606,7 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "000F07"
 msgid "UNLOCKDOOR_SCR"
-msgstr ""
+msgstr "UNLOCKDOOR_SCR"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_ReadmePirate_TerminalMenu
@@ -5534,7 +5620,7 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "000F09"
 msgid "README_PIRATES"
-msgstr ""
+msgstr "README_PIRATES"
 
 #. List: 0
 #. EDID: SFFL_MS01_Sasha_TMLM_SubMenu01
@@ -6710,7 +6796,7 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "000FB1"
 msgid "Grace Kim's Personal Logs"
-msgstr ""
+msgstr "그레이스 킴의 개인 일지"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_HackedTMLM
@@ -6829,7 +6915,7 @@ msgstr ""
 #. REC: PNDT:FULL
 msgctxt "000FC4"
 msgid "_SFFLDR027FearLiathOrbital"
-msgstr ""
+msgstr "_SFFLDR027FearLiathOrbital"
 
 #. List: 0
 #. EDID: Y2_Res_X-Tech
@@ -6850,98 +6936,98 @@ msgstr ""
 #. REC: OMOD:FULL
 msgctxt "000FC9"
 msgid "Reload Speed Upgrade"
-msgstr ""
+msgstr "재장전 속도 업그레이드"
 
 #. List: 0
 #. EDID: mod_wep_melee_statUpgrade_Damage_new
 #. REC: OMOD:FULL
 msgctxt "000FCB"
 msgid "Damage Upgrade"
-msgstr ""
+msgstr "피해 업그레이드"
 
 #. List: 0
 #. EDID: mod_Legendary_Modifier_Tank
 #. REC: OMOD:FULL
 msgctxt "000FCD"
 msgid "Tank"
-msgstr ""
+msgstr "탱크TA효과"
 
 #. List: 0
 #. EDID: mod_wep_ranged_statUpgrade_Range_new
 #. REC: OMOD:FULL
 msgctxt "000FCF"
 msgid "Range Upgrade"
-msgstr ""
+msgstr "사거리 업그레이드"
 
 #. List: 0
 #. EDID: mod_wep_ranged_statUpgrade_MagSize_new
 #. REC: OMOD:FULL
 msgctxt "000FD0"
 msgid "Ammo Capacity Upgrade"
-msgstr ""
+msgstr "탄창 용량 업그레이드"
 
 #. List: 0
 #. EDID: mod_Legendary_Modifier_Quick
 #. REC: OMOD:FULL
 msgctxt "000FD2"
 msgid "Quick"
-msgstr ""
+msgstr "고속사격TA효과"
 
 #. List: 0
 #. EDID: mod_armor_statUpgrade_EM
 #. REC: OMOD:FULL
 msgctxt "000FD3"
 msgid "EM Resistance Upgrade"
-msgstr ""
+msgstr "전자기 저항 업그레이드"
 
 #. List: 0
 #. EDID: mod_wep_ranged_statUpgrade_AimSpeed_new
 #. REC: OMOD:FULL
 msgctxt "000FD5"
 msgid "Aim Speed Upgrade"
-msgstr ""
+msgstr "정조준 속도 업그레이드"
 
 #. List: 0
 #. EDID: mod_Legendary_Armor_4_AerialAdvantage
 #. REC: OMOD:FULL
 msgctxt "000FD7"
 msgid "Aerial Advantage"
-msgstr ""
+msgstr "공중우위TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Armor_4_Speedster
 #. REC: OMOD:FULL
 msgctxt "000FD9"
 msgid "Speedster"
-msgstr ""
+msgstr "초고속TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Armor_4_Inspiring
 #. REC: OMOD:FULL
 msgctxt "000FDB"
 msgid "Inspiring"
-msgstr ""
+msgstr "격려TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Armor_4_AbyssalRelease
 #. REC: OMOD:FULL
 msgctxt "000FDD"
 msgid "Abyssal Release"
-msgstr ""
+msgstr "심연의해방TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Armor_4_AdvancedTargeting
 #. REC: OMOD:FULL
 msgctxt "000FDF"
 msgid "Advanced Targeting"
-msgstr ""
+msgstr "기동사격TA효과"
 
 #. List: 0
 #. EDID: mod_AVM_Beowulf_SFBGS00D_NeonAesthetic
 #. REC: OMOD:FULL
 msgctxt "000FE0"
 msgid "Neon Skin"
-msgstr ""
+msgstr "네온 스킨"
 
 #. List: 0
 #. EDID: mod_wep_ranged_statUpgrade_Recoil_new
@@ -6955,140 +7041,140 @@ msgstr ""
 #. REC: OMOD:FULL
 msgctxt "000FE5"
 msgid "Kismet"
-msgstr ""
+msgstr "숙명TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Modifier_Shielded
 #. REC: OMOD:FULL
 msgctxt "000FE7"
 msgid "Shielded"
-msgstr ""
+msgstr "보호막TA효과"
 
 #. List: 0
 #. EDID: mod_AVM_Cutter_SFBGS00D_NeonAesthetic
 #. REC: OMOD:FULL
 msgctxt "000FE8"
 msgid "Neon Skin"
-msgstr ""
+msgstr "네온 스킨"
 
 #. List: 0
 #. EDID: mod_Legendary_Modifier_Leader
 #. REC: OMOD:FULL
 msgctxt "000FEA"
 msgid "Leader"
-msgstr ""
+msgstr "대장TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Modifier_Berserk
 #. REC: OMOD:FULL
 msgctxt "000FEC"
 msgid "Berserker"
-msgstr ""
+msgstr "광전사TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Modifier_Specialist
 #. REC: OMOD:FULL
 msgctxt "000FEE"
 msgid "Specialist"
-msgstr ""
+msgstr "전문가TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Modifier_Behemoth
 #. REC: OMOD:FULL
 msgctxt "000FF0"
 msgid "Behemoth"
-msgstr ""
+msgstr "베헤모스TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Modifier_Pyro
 #. REC: OMOD:FULL
 msgctxt "000FF2"
 msgid "Pyro"
-msgstr ""
+msgstr "방화광TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Wep_4_Bloodthirsty_melee
 #. REC: OMOD:FULL
 msgctxt "000FF4"
 msgid "Bloodthirsty"
-msgstr ""
+msgstr "흡혈TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Wep_4_Methodical_melee
 #. REC: OMOD:FULL
 msgctxt "000FF6"
 msgid "Methodical"
-msgstr ""
+msgstr "철두철미TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Wep_4_Saboteur_melee
 #. REC: OMOD:FULL
 msgctxt "000FF8"
 msgid "Saboteur"
-msgstr ""
+msgstr "파괴공작TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Armor_4_Grenadier
 #. REC: OMOD:FULL
 msgctxt "000FFA"
 msgid "Grenadier"
-msgstr ""
+msgstr "공중척탄병TA효과"
 
 #. List: 0
 #. EDID: mod_AVM_AA99_SFBGS00D_NeonAesthetic
 #. REC: OMOD:FULL
 msgctxt "000FFB"
 msgid "Neon Skin"
-msgstr ""
+msgstr "네온 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Coachman_SFBGS00D_NeonAesthetic
 #. REC: OMOD:FULL
 msgctxt "000FFC"
 msgid "Neon Skin"
-msgstr ""
+msgstr "네온 스킨"
 
 #. List: 0
 #. EDID: mod_Legendary_Armor_4_Mercenary
 #. REC: OMOD:FULL
 msgctxt "000FFE"
 msgid "Mercenary"
-msgstr ""
+msgstr "치명적인용병TA효과"
 
 #. List: 0
 #. EDID: mod_AVM_EquiNOX_c_SFBGS045_Varuun
 #. REC: OMOD:FULL
 msgctxt "000FFF"
 msgid "Va'ruun Skin"
-msgstr ""
+msgstr "바룬 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Eon_SFBGS00D_NeonAesthetic
 #. REC: OMOD:FULL
 msgctxt "001000"
 msgid "Neon Skin"
-msgstr ""
+msgstr "네온 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_EquiNOX_SFBGS00D_NeonAesthetic
 #. REC: OMOD:FULL
 msgctxt "001001"
 msgid "Neon Skin"
-msgstr ""
+msgstr "네온 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Maelstrom_SFBGS00D_NeonAesthetic
 #. REC: OMOD:FULL
 msgctxt "001002"
 msgid "Neon Skin"
-msgstr ""
+msgstr "네온 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Orion_SFBGS00D_NeonAesthetic
 #. REC: OMOD:FULL
 msgctxt "001003"
 msgid "Neon Skin"
-msgstr ""
+msgstr "네온 스킨"
 
 #. List: 0
 #. EDID: SFBGS00D_HarvestBonus_EndPerkMessage
@@ -7291,7 +7377,7 @@ msgstr ""
 #. REC: MESG:FULL
 msgctxt "001041"
 msgid "Tevat"
-msgstr ""
+msgstr "테바트"
 
 #. List: 0
 #. EDID: SFFL_MS01_CarusoName
@@ -7578,7 +7664,7 @@ msgstr ""
 #. REC: LCTN:FULL
 msgctxt "001092"
 msgid "SFFL_R01 Holding Cell"
-msgstr ""
+msgstr "SFFL_R01 Holding Cell"
 
 #. List: 0
 #. EDID: SFFLAsteroidManorExteriorLocation
@@ -7599,7 +7685,7 @@ msgstr ""
 #. REC: LCTN:FULL
 msgctxt "001095"
 msgid "Defunct Shipping Facility"
-msgstr ""
+msgstr "폐쇄된 선적 시설"
 
 #. List: 0
 #. EDID: SFFLDR027AsteroidMineLocation
@@ -7613,7 +7699,7 @@ msgstr ""
 #. REC: LCTN:FULL
 msgctxt "001097"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: SFFLAsteroidManorSpaceCellLocation
@@ -7655,7 +7741,7 @@ msgstr ""
 #. REC: AVIF:FULL
 msgctxt "00109D"
 msgid "Mercenary Kill Count AV"
-msgstr ""
+msgstr "치명적인용병TA효과 킬 카운트 AV"
 
 #. List: 0
 #. EDID: ShipUpgrades_Engines_BoosterAfterburner_Perk
@@ -7767,7 +7853,7 @@ msgstr ""
 #. REC: PERK:FULL
 msgctxt "0010AE"
 msgid "Grenadier"
-msgstr ""
+msgstr "공중척탄병TA효과"
 
 #. List: 0
 #. EDID: ShipUpgrades_Engines_ThrusterFuel_Perk
@@ -7830,42 +7916,42 @@ msgstr ""
 #. REC: PERK:FULL
 msgctxt "0010B7"
 msgid "Aerial Advantage Temp Perk"
-msgstr ""
+msgstr "공중우위TA효과 임시 특성"
 
 #. List: 0
 #. EDID: Perk_Legendary_Suit_Speedster
 #. REC: PERK:FULL
 msgctxt "0010B8"
 msgid "Speedster"
-msgstr ""
+msgstr "초고속TA효과"
 
 #. List: 0
 #. EDID: Perk_Legendary_Helmet_Mercenary
 #. REC: PERK:FULL
 msgctxt "0010B9"
 msgid "Mercenary"
-msgstr ""
+msgstr "치명적인용병TA효과"
 
 #. List: 0
 #. EDID: Perk_Legendary_Helmet_AdvancedTargeting
 #. REC: PERK:FULL
 msgctxt "0010BA"
 msgid "Advanced Targeting"
-msgstr ""
+msgstr "기동사격TA효과"
 
 #. List: 0
 #. EDID: LegendaryModifier_FortifyDamage
 #. REC: PERK:FULL
 msgctxt "0010BB"
 msgid "LegendaryModifier_FortifyDamage"
-msgstr ""
+msgstr "LegendaryModifier_FortifyDamage"
 
 #. List: 0
 #. EDID: LegendaryModifier_Tricky
 #. REC: PERK:FULL
 msgctxt "0010BC"
 msgid "LegendaryModifier_Tricky"
-msgstr ""
+msgstr "LegendaryModifier_Tricky"
 
 #. List: 0
 #. EDID: ShipUpgrades_Weapons_AmmoReload_Perk
@@ -7984,7 +8070,7 @@ msgstr ""
 #. REC: QUST:FULL
 msgctxt "0011EC"
 msgid "[Dungeon Reward for SFFL_R01"
-msgstr ""
+msgstr "[Dungeon Reward for SFFL_R01"
 
 #. List: 0
 #. EDID: SFFL_R03_BoardingEncounter
@@ -8047,7 +8133,7 @@ msgstr ""
 #. REC: QUST:FULL
 msgctxt "001350"
 msgid "[Debug Quest for SFFL_R01]"
-msgstr ""
+msgstr "[Debug Quest for SFFL_R01]"
 
 #. List: 0
 #. EDID: SFFLOESM04World
@@ -8082,7 +8168,7 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "0013FE"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE002
@@ -8103,7 +8189,7 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "001401"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE005
@@ -8117,21 +8203,21 @@ msgstr ""
 #. REC: CELL:FULL
 msgctxt "001403"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: [0108625A]
 #. REC: REFR:FULL
 msgctxt "001404"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: CTESTGriffin
 #. REC: CELL:FULL
 msgctxt "001405"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: scSFFLSE001
@@ -8145,7 +8231,7 @@ msgstr ""
 #. REC: CELL:FULL
 msgctxt "001407"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: scSFFLSE017
@@ -8159,7 +8245,7 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "001409"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE010
@@ -8173,7 +8259,7 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "00140B"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE030
@@ -8236,7 +8322,7 @@ msgstr ""
 #. REC: KEYM:FULL
 msgctxt "001414"
 msgid "Talos IV Access Card"
-msgstr ""
+msgstr "탈로스 IV 인증 카드"
 
 #. List: 0
 #. EDID: SFFLAnchorpointStation_JailKey
@@ -8257,7 +8343,7 @@ msgstr ""
 #. REC: KEYM:FULL
 msgctxt "001417"
 msgid "GalBank Ship Access Card"
-msgstr ""
+msgstr "갤뱅크 함선 인증 카드"
 
 #. List: 0
 #. EDID: SFBGS00DDR007_FinalDoorKey
@@ -8453,7 +8539,7 @@ msgstr ""
 #. REC: WEAP:FULL
 msgctxt "001433"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 #. List: 0
 #. EDID: SFFL_SE_EC03_Coachman_Bobby
@@ -8502,21 +8588,21 @@ msgstr ""
 #. REC: WEAP:FULL
 msgctxt "00143A"
 msgid "Standard High"
-msgstr ""
+msgstr "Standard High"
 
 #. List: 0
 #. EDID: SFFL_SE_EC03_Coachman_Bobby
 #. REC: WEAP:FULL
 msgctxt "00143B"
 msgid "Standard Med"
-msgstr ""
+msgstr "Standard Med"
 
 #. List: 0
 #. EDID: SFFL_SE_EC03_Coachman_Bobby
 #. REC: WEAP:FULL
 msgctxt "00143C"
 msgid "Standard Low"
-msgstr ""
+msgstr "Standard Low"
 
 #. List: 0
 #. EDID: SFFL_SE_EC03_Coachman_Bobby
@@ -8642,7 +8728,7 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "001450"
 msgid "Aim Speed Upgrade (Ranged)"
-msgstr ""
+msgstr "정조준 속도 업그레이드 (원거리)"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_ReloadSpeed_ranged
@@ -8656,21 +8742,21 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "001452"
 msgid "Ammo Capacity Upgrade (Ranged)"
-msgstr ""
+msgstr "탄창 용량 업그레이드 (원거리)"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_FireRate_ranged
 #. REC: MISC:FULL
 msgctxt "001453"
 msgid "Fire Rate Upgrade (Ranged)"
-msgstr ""
+msgstr "연사력 업그레이드 (원거리)"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_Eng_armor
 #. REC: MISC:FULL
 msgctxt "001454"
 msgid "Energy Resistance Upgrade"
-msgstr ""
+msgstr "에너지 저항 업그레이드"
 
 #. List: 0
 #. EDID: SFFL_R02_ProofofDeathID
@@ -8845,21 +8931,21 @@ msgstr ""
 #. REC: SPEL:FULL
 msgctxt "001473"
 msgid "LegendaryModifier_Martyr_Spell"
-msgstr ""
+msgstr "LegendaryModifier_Martyr_Spell"
 
 #. List: 0
 #. EDID: Legendary_Armor_Mercenary_Spell_CritChanceDuration
 #. REC: SPEL:FULL
 msgctxt "001474"
 msgid "Mercenary Critical Hit Chance"
-msgstr ""
+msgstr "치명적인용병TA효과 치명타 확률"
 
 #. List: 0
 #. EDID: Spell_Legendary_Suit_Speedster_Knockback
 #. REC: SPEL:FULL
 msgctxt "001475"
 msgid "Speedster Spell"
-msgstr ""
+msgstr "초고속TA효과 주문"
 
 #. List: 0
 #. EDID: enchMicroReactor
@@ -8873,7 +8959,7 @@ msgstr ""
 #. REC: ENCH:FULL
 msgctxt "001477"
 msgid "Mercenary"
-msgstr ""
+msgstr "치명적인용병TA효과"
 
 #. List: 0
 #. EDID: enchBuoyantInsulators
@@ -8887,14 +8973,14 @@ msgstr ""
 #. REC: MGEF:DNAM
 msgctxt "001479"
 msgid "Time left before Mercenary can be activated again."
-msgstr ""
+msgstr "치명적인용병TA효과를 다시 발동할 때까지 남은 시간."
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Mercenary_Cooldown
 #. REC: MGEF:FULL
 msgctxt "00147A"
 msgid "Cooldown"
-msgstr ""
+msgstr "재사용 대기시간"
 
 #. List: 0
 #. EDID: SMS_MicroReactor_Effect
@@ -8943,21 +9029,21 @@ msgstr ""
 #. REC: MGEF:DNAM
 msgctxt "001481"
 msgid "Applys the Electrified perk"
-msgstr ""
+msgstr "감전TA효과 특성 적용"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Electrified
 #. REC: MGEF:FULL
 msgctxt "001482"
 msgid "Electrified Add Perk"
-msgstr ""
+msgstr "감전TA효과 특성 추가"
 
 #. List: 0
 #. EDID: Legendary_Armor_Inspiring_MoveSpeed_Self_Effect
 #. REC: MGEF:FULL
 msgctxt "001483"
 msgid "Inspiring"
-msgstr ""
+msgstr "격려TA효과"
 
 #. List: 0
 #. EDID: SMS_ExtendedCommArray_Effect
@@ -8971,42 +9057,42 @@ msgstr ""
 #. REC: GPOF:RESN
 msgctxt "001485"
 msgid "Disabled"
-msgstr ""
+msgstr "비활성"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Pyro
 #. REC: GPOF:RESN
 msgctxt "001486"
 msgid "80"
-msgstr ""
+msgstr "80"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Pyro
 #. REC: GPOF:RESN
 msgctxt "001487"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Pyro
 #. REC: GPOF:RESN
 msgctxt "001488"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Pyro
 #. REC: GPOF:RESN
 msgctxt "001489"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Pyro
 #. REC: GPOF:RESN
 msgctxt "00148A"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Pyro
@@ -9020,7 +9106,7 @@ msgstr ""
 #. REC: GPOF:NNAM
 msgctxt "00148C"
 msgid "Pyro Modifier Level"
-msgstr ""
+msgstr "방화광TA효과 보정 레벨"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_GravDriveComp
@@ -9083,35 +9169,35 @@ msgstr ""
 #. REC: OMOD:FULL
 msgctxt "001495"
 msgid "Va'ruun Skin"
-msgstr ""
+msgstr "바룬 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_BigBang_c_SFBGS045_Varuun
 #. REC: OMOD:FULL
 msgctxt "001496"
 msgid "Va'ruun Skin"
-msgstr ""
+msgstr "바룬 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_InflictorRifle_c_SFBGS045_Varuun
 #. REC: OMOD:FULL
 msgctxt "001497"
 msgid "Va'ruun Skin"
-msgstr ""
+msgstr "바룬 스킨"
 
 #. List: 0
 #. EDID: mod_Legendary_Modifier_Dangerous
 #. REC: OMOD:FULL
 msgctxt "001499"
 msgid "Dangerous"
-msgstr ""
+msgstr "위험대상TA효과"
 
 #. List: 0
 #. EDID: StarbornContainerTutorialMsg
 #. REC: MESG:FULL
 msgctxt "00149E"
 msgid "Quantum Entanglement Device Tutorial"
-msgstr ""
+msgstr "양자 얽힘 장치 튜토리얼"
 
 #. List: 0
 #. EDID: SFFL_SE_RS02_Retribution
@@ -9181,7 +9267,7 @@ msgstr ""
 #. REC: PERK:FULL
 msgctxt "0014AF"
 msgid "Inspiring"
-msgstr ""
+msgstr "격려TA효과"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_PercivalWalker_Perk
@@ -9286,7 +9372,7 @@ msgstr ""
 #. REC: WRLD:FULL
 msgctxt "0018E5"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: SFFLOEAR07World
@@ -9300,7 +9386,7 @@ msgstr ""
 #. REC: WRLD:FULL
 msgctxt "0018E7"
 msgid "LandscapeCutWorldSpace"
-msgstr ""
+msgstr "LandscapeCutWorldSpace"
 
 #. List: 0
 #. EDID: SFFLOETH02World
@@ -9335,7 +9421,7 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "0018ED"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE016
@@ -9363,7 +9449,7 @@ msgstr ""
 #. REC: CELL:FULL
 msgctxt "0018F1"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: scSFFLSE003
@@ -9377,14 +9463,14 @@ msgstr ""
 #. REC: CELL:FULL
 msgctxt "0018F3"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: [010791C9]
 #. REC: REFR:FULL
 msgctxt "0018F4"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEEC06DebrisMinefield
@@ -9657,7 +9743,7 @@ msgstr ""
 #. REC: WEAP:FULL
 msgctxt "00191C"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 #. List: 0
 #. EDID: SFFL_SE_EC03_MagPulse_Fanisha
@@ -9685,21 +9771,21 @@ msgstr ""
 #. REC: WEAP:FULL
 msgctxt "001920"
 msgid "Standard High"
-msgstr ""
+msgstr "Standard High"
 
 #. List: 0
 #. EDID: SFFL_SE_EC03_MagPulse_Fanisha
 #. REC: WEAP:FULL
 msgctxt "001921"
 msgid "Standard Med"
-msgstr ""
+msgstr "Standard Med"
 
 #. List: 0
 #. EDID: SFFL_SE_EC03_MagPulse_Fanisha
 #. REC: WEAP:FULL
 msgctxt "001922"
 msgid "Standard Low"
-msgstr ""
+msgstr "Standard Low"
 
 #. List: 0
 #. EDID: SFFL_SE_EC03_MagPulse_Fanisha
@@ -9734,14 +9820,14 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "001928"
 msgid "Accuracy Upgrade (Ranged)"
-msgstr ""
+msgstr "명중률 업그레이드 (원거리)"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_Range_ranged
 #. REC: MISC:FULL
 msgctxt "001929"
 msgid "Range Upgrade (Ranged)"
-msgstr ""
+msgstr "사거리 업그레이드 (원거리)"
 
 #. List: 0
 #. EDID: EquipmentSchematics_MicroReactor
@@ -10028,35 +10114,35 @@ msgstr ""
 #. REC: SPEL:FULL
 msgctxt "00195B"
 msgid "Legendary_Pack_Grenadier_Spell"
-msgstr ""
+msgstr "Legendary_Pack_Grenadier_Spell"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Martyr
 #. REC: SPEL:FULL
 msgctxt "00195C"
 msgid "abLegendaryModifier_Martyr"
-msgstr ""
+msgstr "abLegendaryModifier_Martyr"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Medic_AuraEffect
 #. REC: SPEL:FULL
 msgctxt "00195D"
 msgid "Medic Aura Effects"
-msgstr ""
+msgstr "자동회복TA효과 오라 효과"
 
 #. List: 0
 #. EDID: LegendaryModifier_Specialist_Spell
 #. REC: SPEL:FULL
 msgctxt "00195E"
 msgid "LegendaryModifier_Specialist_Spell"
-msgstr ""
+msgstr "LegendaryModifier_Specialist_Spell"
 
 #. List: 0
 #. EDID: Legendary_Armor_Mercenary_Spell_Cooldown
 #. REC: SPEL:FULL
 msgctxt "00195F"
 msgid "Mercenary Cooldown"
-msgstr ""
+msgstr "치명적인용병TA효과 재사용 대기시간"
 
 #. List: 0
 #. EDID: SFBGS00D_HarvestBonus_DurationDisplay
@@ -10070,28 +10156,28 @@ msgstr ""
 #. REC: SPEL:FULL
 msgctxt "001961"
 msgid "Grenadier Spell"
-msgstr ""
+msgstr "공중척탄병TA효과 주문"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Leader
 #. REC: SPEL:FULL
 msgctxt "001962"
 msgid "abLegendaryModifier_Leader"
-msgstr ""
+msgstr "abLegendaryModifier_Leader"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Dangerous
 #. REC: SPEL:FULL
 msgctxt "001963"
 msgid "abLegendaryModifier_Dangerous"
-msgstr ""
+msgstr "abLegendaryModifier_Dangerous"
 
 #. List: 0
 #. EDID: Legendary_Armor_AbyssalRelease_Spell
 #. REC: SPEL:FULL
 msgctxt "001964"
 msgid "Abyssal Release"
-msgstr ""
+msgstr "심연의해방TA효과"
 
 #. List: 0
 #. EDID: enchExtendedCommArray
@@ -10105,28 +10191,28 @@ msgstr ""
 #. REC: ENCH:FULL
 msgctxt "001966"
 msgid "Grenadier"
-msgstr ""
+msgstr "공중척탄병TA효과"
 
 #. List: 0
 #. EDID: Ench_Legendary_Suit_Electrified
 #. REC: ENCH:FULL
 msgctxt "001967"
 msgid "Electrified"
-msgstr ""
+msgstr "감전TA효과"
 
 #. List: 0
 #. EDID: LegendaryModifier_AccuracyReduction_Effect
 #. REC: MGEF:FULL
 msgctxt "001968"
 msgid "LegendaryModifier_AccuracyReduction_Effect"
-msgstr ""
+msgstr "LegendaryModifier_AccuracyReduction_Effect"
 
 #. List: 0
 #. EDID: zzzModLegendaryEffect_Grenadier_Missiles
 #. REC: MGEF:FULL
 msgctxt "001969"
 msgid "ModLegendaryEffect_Grenadier_Missiles"
-msgstr ""
+msgstr "ModLegendaryEffect_Grenadier_Missiles"
 
 #. List: 0
 #. EDID: FortifyMaxShipHealth
@@ -10147,28 +10233,28 @@ msgstr ""
 #. REC: MGEF:FULL
 msgctxt "00196C"
 msgid "LegendaryModifier_Absorb_Effect"
-msgstr ""
+msgstr "LegendaryModifier_Absorb_Effect"
 
 #. List: 0
 #. EDID: Legendary_Armor_Inspiring_CloakAura_Effect
 #. REC: MGEF:FULL
 msgctxt "00196D"
 msgid "Inspiring Cloak Aura"
-msgstr ""
+msgstr "격려TA효과 은폐 오라"
 
 #. List: 0
 #. EDID: LegendaryModifier_Leader_ReduceDamage_Effect
 #. REC: MGEF:FULL
 msgctxt "00196E"
 msgid "LegendaryModifier_Leader_ReduceDamage_Effect"
-msgstr ""
+msgstr "LegendaryModifier_Leader_ReduceDamage_Effect"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Leader_Cloak
 #. REC: MGEF:FULL
 msgctxt "00196F"
 msgid "Leader Cloak Effect"
-msgstr ""
+msgstr "대장TA효과 은폐 효과"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Enigmatic_Holograms
@@ -10182,28 +10268,28 @@ msgstr ""
 #. REC: MGEF:FULL
 msgctxt "001971"
 msgid "Enigmatic Holograms"
-msgstr ""
+msgstr "허상TA효과 홀로그램"
 
 #. List: 0
 #. EDID: Legendary_Armor_Inspiring_TempPerk_Effect
 #. REC: MGEF:FULL
 msgctxt "001972"
 msgid "Inspiring Temp Perk"
-msgstr ""
+msgstr "격려TA효과 임시 특성"
 
 #. List: 0
 #. EDID: Legendary_Armor_Inspiring_Heal_Effect
 #. REC: MGEF:FULL
 msgctxt "001973"
 msgid "Inspiring Healing Aura"
-msgstr ""
+msgstr "격려TA효과 치유 오라"
 
 #. List: 0
 #. EDID: Legendary_Armor_Inspiring_MoveSpeed_Effect
 #. REC: MGEF:FULL
 msgctxt "001974"
 msgid "Inspiring"
-msgstr ""
+msgstr "격려TA효과"
 
 #. List: 0
 #. EDID: abFortifyActorSpeedMult
@@ -10245,42 +10331,42 @@ msgstr ""
 #. REC: GPOF:RESN
 msgctxt "00197B"
 msgid "Disabled"
-msgstr ""
+msgstr "비활성"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Martyr
 #. REC: GPOF:RESN
 msgctxt "00197C"
 msgid "80"
-msgstr ""
+msgstr "80"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Martyr
 #. REC: GPOF:RESN
 msgctxt "00197D"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Martyr
 #. REC: GPOF:RESN
 msgctxt "00197E"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Martyr
 #. REC: GPOF:RESN
 msgctxt "00197F"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Martyr
 #. REC: GPOF:RESN
 msgctxt "001980"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Martyr
@@ -10294,7 +10380,7 @@ msgstr ""
 #. REC: GPOF:NNAM
 msgctxt "001982"
 msgid "Martyr Modifier Level"
-msgstr ""
+msgstr "순교자TA효과 보정 레벨"
 
 #. List: 0
 #. EDID: SFFLDR022_Terminal_Boss
@@ -10875,21 +10961,21 @@ msgstr ""
 #. REC: OMOD:FULL
 msgctxt "0019D9"
 msgid "Enigmatic"
-msgstr ""
+msgstr "허상TA효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Modifier_Tricky
 #. REC: OMOD:FULL
 msgctxt "0019DB"
 msgid "Tricky"
-msgstr ""
+msgstr "묘기TA효과"
 
 #. List: 0
 #. EDID: mod_wep_ranged_statUpgrade_Damage_new
 #. REC: OMOD:FULL
 msgctxt "0019DE"
 msgid "Damage Upgrade"
-msgstr ""
+msgstr "피해 업그레이드"
 
 #. List: 0
 #. EDID: mod_wep_ranged_statUpgrade_FireRate_new
@@ -10903,7 +10989,7 @@ msgstr ""
 #. REC: OMOD:FULL
 msgctxt "0019E1"
 msgid "Va'ruun Skin"
-msgstr ""
+msgstr "바룬 스킨"
 
 #. List: 0
 #. EDID: SFFL_SE_KT02_TouristShip
@@ -11001,21 +11087,21 @@ msgstr ""
 #. REC: LCTN:FULL
 msgctxt "0019FD"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: Legendary_AdvancedTargeting_AV
 #. REC: AVIF:FULL
 msgctxt "0019FE"
 msgid "Advanced Targeting Kill Count AV"
-msgstr ""
+msgstr "기동사격TA효과 처치 횟수 AV"
 
 #. List: 0
 #. EDID: Perk_Legendary_Suit_Enigmatic
 #. REC: PERK:FULL
 msgctxt "0019FF"
 msgid "Enigmatic"
-msgstr ""
+msgstr "허상TA효과"
 
 #. List: 0
 #. EDID: SFFL_MS03_MilliPerk
@@ -11050,7 +11136,7 @@ msgstr ""
 #. REC: PERK:FULL
 msgctxt "001A04"
 msgid "Abyssal Release"
-msgstr ""
+msgstr "심연의해방TA효과"
 
 #. List: 0
 #. EDID: ShipUpgrades_GravDrive_CompUpdate_Perk
@@ -11064,14 +11150,14 @@ msgstr ""
 #. REC: PERK:FULL
 msgctxt "001A06"
 msgid "Aerial Advantage"
-msgstr ""
+msgstr "공중우위TA효과"
 
 #. List: 0
 #. EDID: Perk_LegendaryWeapon_Kismet
 #. REC: PERK:FULL
 msgctxt "001A07"
 msgid "Kismet"
-msgstr ""
+msgstr "숙명TA효과"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_SarahMorgan_Perk
@@ -11106,7 +11192,7 @@ msgstr ""
 #. REC: PERK:FULL
 msgctxt "001A0C"
 msgid "LegendaryModifier_Leader"
-msgstr ""
+msgstr "LegendaryModifier_Leader"
 
 #. List: 0
 #. EDID: ShipUpgrades_Shields_ShieldHealth_Perk
@@ -11148,7 +11234,7 @@ msgstr ""
 #. REC: QUST:FULL
 msgctxt "001A47"
 msgid "SFBGS00D_SQ_PEO"
-msgstr ""
+msgstr "SFBGS00D_SQ_PEO"
 
 #. List: 0
 #. EDID: SFFL_BE_EC08_Derelict_Hazards
@@ -11204,7 +11290,7 @@ msgstr ""
 #. REC: QUST:FULL
 msgctxt "001A7F"
 msgid "[SFFL_SE04 Boarding Encounter]"
-msgstr ""
+msgstr "[SFFL_SE04 Boarding Encounter]"
 
 #. List: 0
 #. EDID: SFFL_SE04
@@ -11519,28 +11605,28 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "001E71"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: [0107E200]
 #. REC: REFR:FULL
 msgctxt "001E72"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: [0107D930]
 #. REC: REFR:FULL
 msgctxt "001E73"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: SFFLQDTempInteriorMattD
 #. REC: CELL:FULL
 msgctxt "001E74"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: SFFLAsteroidManorSpaceInterior
@@ -11554,14 +11640,14 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "001E76"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: [0107C7FF]
 #. REC: REFR:FULL
 msgctxt "001E77"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE041
@@ -11575,7 +11661,7 @@ msgstr ""
 #. REC: CELL:FULL
 msgctxt "001E79"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: SFFLAsteroidManorInterior
@@ -11589,14 +11675,14 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "001E7B"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: [0107B2BA]
 #. REC: REFR:FULL
 msgctxt "001E7C"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE014
@@ -11631,14 +11717,14 @@ msgstr ""
 #. REC: CELL:FULL
 msgctxt "001E81"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: [0107E1BF]
 #. REC: REFR:FULL
 msgctxt "001E82"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: SFFL_R03_CitizenShip01
@@ -11869,7 +11955,7 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "001EA4"
 msgid "Damage Upgrade (Ranged)"
-msgstr ""
+msgstr "피해 업그레이드 (원거리)"
 
 #. List: 0
 #. EDID: SFFL_SE_EC03_PrincessScratch_Plushie
@@ -12121,35 +12207,35 @@ msgstr ""
 #. REC: SPEL:FULL
 msgctxt "001ED3"
 msgid "Enigmatic Dummy Spell"
-msgstr ""
+msgstr "허상TA효과 더미 효과"
 
 #. List: 0
 #. EDID: Legendary_Armor_Mercenary_Spell_KillCount
 #. REC: SPEL:FULL
 msgctxt "001ED4"
 msgid "Legendary_Armor_Mercenary_Spell_KillCount"
-msgstr ""
+msgstr "Legendary_Armor_Mercenary_Spell_KillCount"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Tricky
 #. REC: SPEL:FULL
 msgctxt "001ED5"
 msgid "abLegendaryModifier_Tricky"
-msgstr ""
+msgstr "abLegendaryModifier_Tricky"
 
 #. List: 0
 #. EDID: Spell_Legendary_Pack_AerialAdvantage
 #. REC: SPEL:FULL
 msgctxt "001ED6"
 msgid "Aerial Advantage Spell"
-msgstr ""
+msgstr "공중우위TA효과 효과"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Behemoth
 #. REC: SPEL:FULL
 msgctxt "001ED7"
 msgid "abLegendaryModifier_Behemoth"
-msgstr ""
+msgstr "abLegendaryModifier_Behemoth"
 
 #. List: 0
 #. EDID: abShipUpgrade_TargetingComp
@@ -12163,28 +12249,28 @@ msgstr ""
 #. REC: SPEL:FULL
 msgctxt "001ED9"
 msgid "abLegendaryModifier_Shielded"
-msgstr ""
+msgstr "abLegendaryModifier_Shielded"
 
 #. List: 0
 #. EDID: ab_Legendary_Suit_Inspiring
 #. REC: SPEL:FULL
 msgctxt "001EDA"
 msgid "Inspiring Ability"
-msgstr ""
+msgstr "격려TA효과 능력"
 
 #. List: 0
 #. EDID: Ench_Legendary_Suit_Inspiring
 #. REC: ENCH:FULL
 msgctxt "001EDB"
 msgid "Inspiring Aura"
-msgstr ""
+msgstr "격려TA효과 오라"
 
 #. List: 0
 #. EDID: Ench_Legendary_Suit_AbyssalRelease
 #. REC: ENCH:FULL
 msgctxt "001EDC"
 msgid "Abyssal Release"
-msgstr ""
+msgstr "심연의해방TA효과"
 
 #. List: 0
 #. EDID: ShipUpgrade_HullIntegrity_Effect
@@ -12205,21 +12291,21 @@ msgstr ""
 #. REC: MGEF:DNAM
 msgctxt "001EDF"
 msgid "Applys the Speedster perk"
-msgstr ""
+msgstr "초고속TA효과 특성 적용"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Speedster
 #. REC: MGEF:FULL
 msgctxt "001EE0"
 msgid "Speedster Add Perk"
-msgstr ""
+msgstr "초고속TA효과 특성 추가"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_AbyssalRelease_DMG
 #. REC: MGEF:FULL
 msgctxt "001EE1"
 msgid "Abyssal Release DMG"
-msgstr ""
+msgstr "심연의해방TA효과 DMG"
 
 #. List: 0
 #. EDID: SMS_BuoyantInsulators_Effect
@@ -12233,14 +12319,14 @@ msgstr ""
 #. REC: MGEF:FULL
 msgctxt "001EE3"
 msgid "Grenadier Add Temp Perk"
-msgstr ""
+msgstr "공중척탄병TA효과 임시 특성 추가"
 
 #. List: 0
 #. EDID: Legendary_Armor_AdvancedTargeting_Stack_Effect01
 #. REC: MGEF:FULL
 msgctxt "001EE4"
 msgid "Advanced Targeting AV Stack"
-msgstr ""
+msgstr "기동사격TA효과 AV 중첩"
 
 #. List: 0
 #. EDID: ap_Legendary_rank_4
@@ -12296,14 +12382,14 @@ msgstr ""
 #. REC: OMOD:FULL
 msgctxt "001EEE"
 msgid "Electrified"
-msgstr ""
+msgstr "감전TA효과"
 
 #. List: 0
 #. EDID: mod_AVM_Orion_c_SFBGS045_Varuun
 #. REC: OMOD:FULL
 msgctxt "001EEF"
 msgid "Va'ruun Skin"
-msgstr ""
+msgstr "바룬 스킨"
 
 #. List: 0
 #. EDID: SFFLAnchorpointStationLocation
@@ -12317,14 +12403,14 @@ msgstr ""
 #. REC: PERK:FULL
 msgctxt "001EF4"
 msgid "LegendaryModifier_Martyr_TempPerk"
-msgstr ""
+msgstr "LegendaryModifier_Martyr_TempPerk"
 
 #. List: 0
 #. EDID: Perk_Legendary_Pack_Grenadier_TempPerk
 #. REC: PERK:FULL
 msgctxt "001EF5"
 msgid "Grenadier Temp Perk"
-msgstr ""
+msgstr "공중척탄병TA효과 임시 특성"
 
 #. List: 0
 #. EDID: SFFL_BE_EC08_GenericDerelict
@@ -12541,7 +12627,7 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "002327"
 msgid "Storage Tanks"
-msgstr ""
+msgstr "저장 탱크"
 
 #. List: 0
 #. EDID: SFFLOETH01World
@@ -12569,21 +12655,21 @@ msgstr ""
 #. REC: CELL:FULL
 msgctxt "00232B"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: [01086A9A]
 #. REC: REFR:FULL
 msgctxt "00232C"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: SFBGS00DTestGBeaudoin
 #. REC: CELL:FULL
 msgctxt "00232D"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: SFFLDR021
@@ -12597,7 +12683,7 @@ msgstr ""
 #. REC: CELL:FULL
 msgctxt "00232F"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: scSFFLSE008
@@ -12611,28 +12697,28 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "002331"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: SFFLDR027Interior
 #. REC: CELL:FULL
 msgctxt "002332"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: CTESTMilliwhale
 #. REC: CELL:FULL
 msgctxt "002333"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: [01078672]
 #. REC: REFR:FULL
 msgctxt "002334"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: SMS_Equipment_ShieldRefractorUnit
@@ -12891,7 +12977,7 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "00235B"
 msgid "Recoil Upgrade (Ranged)"
-msgstr ""
+msgstr "반동 업그레이드 (원거리)"
 
 #. List: 0
 #. EDID: SFFL_MS03_Food
@@ -12905,21 +12991,21 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "00235D"
 msgid "Physical Resistance Upgrade"
-msgstr ""
+msgstr "물리 저항 업그레이드"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_AttackSpeed_melee
 #. REC: MISC:FULL
 msgctxt "00235E"
 msgid "Attack Speed Upgrade (Melee)"
-msgstr ""
+msgstr "공격 속도 업그레이드 (근접)"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_EM_armor
 #. REC: MISC:FULL
 msgctxt "00235F"
 msgid "EM Resistance Upgrade"
-msgstr ""
+msgstr "전자기 저항 업그레이드"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_SarahMorgan_Sealed
@@ -13045,7 +13131,7 @@ msgstr ""
 #. REC: ACTI:FULL
 msgctxt "002375"
 msgid "Quantum Entanglement Device"
-msgstr ""
+msgstr "양자 얽힘 장치"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointStation_CredstickActivator01_new
@@ -13087,14 +13173,14 @@ msgstr ""
 #. REC: SPEL:FULL
 msgctxt "00237B"
 msgid "Speedster Spell"
-msgstr ""
+msgstr "초고속TA효과 주문"
 
 #. List: 0
 #. EDID: Legendary_Helmet_AdvancedTargeting_Spell
 #. REC: SPEL:FULL
 msgctxt "00237C"
 msgid "Advanced Targeting AV Stacking"
-msgstr ""
+msgstr "기동사격TA효과 AV 중첩중"
 
 #. List: 0
 #. EDID: abShipUpgrade_HullIntegrity
@@ -13129,28 +13215,28 @@ msgstr ""
 #. REC: SPEL:FULL
 msgctxt "002381"
 msgid "Inspiring Aura Effects"
-msgstr ""
+msgstr "격려TA효과 오라 효과"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Berserker
 #. REC: SPEL:FULL
 msgctxt "002382"
 msgid "abLegendaryModifier_Berserk"
-msgstr ""
+msgstr "abLegendaryModifier_Berserk"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Tank
 #. REC: SPEL:FULL
 msgctxt "002383"
 msgid "abLegendaryModifier_Tank"
-msgstr ""
+msgstr "abLegendaryModifier_Tank"
 
 #. List: 0
 #. EDID: Legendary_Suit_Electrified_Effect
 #. REC: SPEL:FULL
 msgctxt "002384"
 msgid "Electrified Effect"
-msgstr ""
+msgstr "감전TA효과"
 
 #. List: 0
 #. EDID: enchEvasiveStealthDrive
@@ -13164,7 +13250,7 @@ msgstr ""
 #. REC: ENCH:FULL
 msgctxt "002386"
 msgid "Aerial Advantage"
-msgstr ""
+msgstr "공중우위TA효과"
 
 #. List: 0
 #. EDID: enchEMPulseShielding
@@ -13178,7 +13264,7 @@ msgstr ""
 #. REC: MGEF:FULL
 msgctxt "002388"
 msgid "Tricky Effect"
-msgstr ""
+msgstr "묘기TA효과"
 
 #. List: 0
 #. EDID: FortifyActorSpeedMult_Area
@@ -13199,28 +13285,28 @@ msgstr ""
 #. REC: MGEF:FULL
 msgctxt "00238B"
 msgid "Martyr Effect"
-msgstr ""
+msgstr "순교자TA효과"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Medic_Cloak
 #. REC: MGEF:FULL
 msgctxt "00238C"
 msgid "Medic Cloak Effect"
-msgstr ""
+msgstr "자동회복TA효과 은폐 효과"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Inspiring
 #. REC: MGEF:DNAM
 msgctxt "00238D"
 msgid "Applys the Inspiring perk"
-msgstr ""
+msgstr "격려TA효과 특성 적용"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Inspiring
 #. REC: MGEF:FULL
 msgctxt "00238E"
 msgid "Inspiring Add Perk"
-msgstr ""
+msgstr "격려TA효과 특성 추가"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Mercenary_KillCount
@@ -13241,28 +13327,28 @@ msgstr ""
 #. REC: MGEF:DNAM
 msgctxt "002391"
 msgid "Adds the Enigmatic perk"
-msgstr ""
+msgstr "허상TA효과 특성 추가"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Enigmatic
 #. REC: MGEF:FULL
 msgctxt "002392"
 msgid "Enigmatic Add Perk"
-msgstr ""
+msgstr "허상TA효과 특성 추가"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_AdvancedTargeting
 #. REC: MGEF:DNAM
 msgctxt "002393"
 msgid "Applys the Advanced Targeting perk"
-msgstr ""
+msgstr "기동사격TA효과 특성 적용"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_AdvancedTargeting
 #. REC: MGEF:FULL
 msgctxt "002394"
 msgid "Advanced Targeting Add Perk"
-msgstr ""
+msgstr "기동사격TA효과 특성 추가"
 
 #. List: 0
 #. EDID: SMS_EvasiveStealthDrive_Effect
@@ -13332,7 +13418,7 @@ msgstr ""
 #. REC: LCTN:FULL
 msgctxt "00239F"
 msgid "Ship Stop"
-msgstr ""
+msgstr "우주선 정류장"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointZ03
@@ -13367,7 +13453,7 @@ msgstr ""
 #. REC: MGEF:FULL
 msgctxt "0023C3"
 msgid "LegendaryModifier_Leader_Aura_ReduceDamage_Effect"
-msgstr ""
+msgstr "LegendaryModifier_Leader_Aura_ReduceDamage_Effect"
 
 #. List: 0
 #. EDID: SFFLOEAF09World
@@ -13619,14 +13705,14 @@ msgstr ""
 #. REC: OMOD:FULL
 msgctxt "0024C5"
 msgid "Pirate Skin"
-msgstr ""
+msgstr "해적 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Beowulf_SFBGS00D_Pirate
 #. REC: OMOD:FULL
 msgctxt "0024C6"
 msgid "Pirate Skin"
-msgstr ""
+msgstr "해적 스킨"
 
 #. List: 0
 #. EDID: LS_SFBGS00D_Milliwhale
@@ -13808,7 +13894,7 @@ msgstr ""
 #. REC: CELL:FULL
 msgctxt "0024EB"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues
@@ -13836,7 +13922,7 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "0024EF"
 msgid "UNLOCKDOOR_SCR"
-msgstr ""
+msgstr "UNLOCKDOOR_SCR"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_RiddleNote_0
@@ -14123,7 +14209,7 @@ msgstr ""
 #. REC: OMOD:FULL
 msgctxt "002532"
 msgid "Critter Milliwhale Albino Skin"
-msgstr ""
+msgstr "Critter Milliwhale Albino Skin"
 
 #. List: 0
 #. EDID: SFFL_MS03_MilliwhaleActivationPetMessage
@@ -14347,7 +14433,7 @@ msgstr ""
 #. REC: OMOD:FULL
 msgctxt "00258C"
 msgid "Pirate Skin"
-msgstr ""
+msgstr "해적 스킨"
 
 #. List: 0
 #. EDID: SFFL_MS03_MilliwhaleBowlActivationMessage
@@ -14403,28 +14489,28 @@ msgstr ""
 #. REC: PKIN:FULL
 msgctxt "002598"
 msgid "SFBGS00D_ShpGenIntPerSmWallMid_ExLg_Door01_Jammed01"
-msgstr ""
+msgstr "SFBGS00D_ShpGenIntPerSmWallMid_ExLg_Door01_Jammed01"
 
 #. List: 0
 #. EDID: SFBGS00D_ShpGenIntPerSmWallMid_ExLg_SecurityDoor01_Jammed01
 #. REC: PKIN:FULL
 msgctxt "002599"
 msgid "SFBGS00D_ShpGenIntPerSmWallMid_ExLg_SecurityDoor01_Jammed01"
-msgstr ""
+msgstr "SFBGS00D_ShpGenIntPerSmWallMid_ExLg_SecurityDoor01_Jammed01"
 
 #. List: 0
 #. EDID: SFBGS00D_ShpGenIntPerSmWallMid_ExSm_Door01_Jammed01
 #. REC: PKIN:FULL
 msgctxt "00259A"
 msgid "SFBGS00D_ShpGenIntPerSmWallMid_ExSm_Door01_Jammed01"
-msgstr ""
+msgstr "SFBGS00D_ShpGenIntPerSmWallMid_ExSm_Door01_Jammed01"
 
 #. List: 0
 #. EDID: SFBGS00D_ShpGenIntPerSmWallMid_ExSm_SecurityDoor01_Jammed01
 #. REC: PKIN:FULL
 msgctxt "00259B"
 msgid "SFBGS00D_ShpGenIntPerSmWallMid_ExSm_SecurityDoor01_Jammed01"
-msgstr ""
+msgstr "SFBGS00D_ShpGenIntPerSmWallMid_ExSm_SecurityDoor01_Jammed01"
 
 #. List: 0
 #. EDID: SFFL_SE_EC07
@@ -14473,56 +14559,56 @@ msgstr ""
 #. REC: OMOD:FULL
 msgctxt "0025A8"
 msgid "Pirate Skin"
-msgstr ""
+msgstr "해적 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_HardTarget_SFBGS00D_Pirate
 #. REC: OMOD:FULL
 msgctxt "0025A9"
 msgid "Pirate Skin"
-msgstr ""
+msgstr "해적 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_InflictorRifle_SFBGS00D_Pirate
 #. REC: OMOD:FULL
 msgctxt "0025AA"
 msgid "Pirate Skin"
-msgstr ""
+msgstr "해적 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Kodama_SFBGS00D_Pirate
 #. REC: OMOD:FULL
 msgctxt "0025AB"
 msgid "Pirate Skin"
-msgstr ""
+msgstr "해적 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_MagPulse_SFBGS00D_Pirate
 #. REC: OMOD:FULL
 msgctxt "0025AC"
 msgid "Pirate Skin"
-msgstr ""
+msgstr "해적 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Razorback_SFBGS00D_Pirate
 #. REC: OMOD:FULL
 msgctxt "0025AD"
 msgid "Pirate Skin"
-msgstr ""
+msgstr "해적 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_Regulator_SFBGS00D_Pirate
 #. REC: OMOD:FULL
 msgctxt "0025AE"
 msgid "Pirate Skin"
-msgstr ""
+msgstr "해적 스킨"
 
 #. List: 0
 #. EDID: Legendary_Wep_Gravitational_XPL
 #. REC: EXPL:FULL
 msgctxt "0025AF"
 msgid "Legendary_Wep_Gravitational_XPL"
-msgstr ""
+msgstr "Legendary_Wep_Gravitational_XPL"
 
 #. List: 0
 #. EDID: SFFL_SE_MG02_Logs_Civilian
@@ -14536,7 +14622,7 @@ msgstr ""
 #. REC: PROJ:FULL
 msgctxt "0025B1"
 msgid "Legendary_Wep_Gravitational_Projectile"
-msgstr ""
+msgstr "Legendary_Wep_Gravitational_Projectile"
 
 #. List: 0
 #. EDID: SFFL_Loot_Space_MG02_Logs_Civilian_01
@@ -14550,35 +14636,35 @@ msgstr ""
 #. REC: ENCH:FULL
 msgctxt "0025B3"
 msgid "Gravitational"
-msgstr ""
+msgstr "중력TA효과"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Gravitational_Cone
 #. REC: MGEF:FULL
 msgctxt "0025B4"
 msgid "Gravitational Cone"
-msgstr ""
+msgstr "중력TA효과 원뿔"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Gravitational_TelekenesisEffect
 #. REC: MGEF:FULL
 msgctxt "0025B5"
 msgid "Gravitational Telekenesis"
-msgstr ""
+msgstr "중력TA효과 염동력"
 
 #. List: 0
 #. EDID: mod_AVM_Tombstone_SFBGS00D_Pirate
 #. REC: OMOD:FULL
 msgctxt "0025B6"
 msgid "Pirate Skin"
-msgstr ""
+msgstr "해적 스킨"
 
 #. List: 0
 #. EDID: mod_AVM_UrbanEagle_SFBGS00D_Pirate
 #. REC: OMOD:FULL
 msgctxt "0025B7"
 msgid "Pirate Skin"
-msgstr ""
+msgstr "해적 스킨"
 
 #. List: 0
 #. EDID: SFBGS00DDR006Location
@@ -14704,105 +14790,105 @@ msgstr ""
 #. REC: LCTN:FULL
 msgctxt "0025CB"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE002Location
 #. REC: LCTN:FULL
 msgctxt "0025CC"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE003Location
 #. REC: LCTN:FULL
 msgctxt "0025CD"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE004Location
 #. REC: LCTN:FULL
 msgctxt "0025CE"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE005Location
 #. REC: LCTN:FULL
 msgctxt "0025CF"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE007Location
 #. REC: LCTN:FULL
 msgctxt "0025D0"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE006Location
 #. REC: LCTN:FULL
 msgctxt "0025D1"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE008Location
 #. REC: LCTN:FULL
 msgctxt "0025D2"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE009Location
 #. REC: LCTN:FULL
 msgctxt "0025D3"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE010Location
 #. REC: LCTN:FULL
 msgctxt "0025D4"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE011Location
 #. REC: LCTN:FULL
 msgctxt "0025D5"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE012Location
 #. REC: LCTN:FULL
 msgctxt "0025D6"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE013Location
 #. REC: LCTN:FULL
 msgctxt "0025D7"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE014Location
 #. REC: LCTN:FULL
 msgctxt "0025D8"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE015Location
 #. REC: LCTN:FULL
 msgctxt "0025D9"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: SFFL_Cutty
@@ -14816,63 +14902,63 @@ msgstr ""
 #. REC: LCTN:FULL
 msgctxt "0025DB"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE018Location
 #. REC: LCTN:FULL
 msgctxt "0025DC"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE019Location
 #. REC: LCTN:FULL
 msgctxt "0025DD"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE030Location
 #. REC: LCTN:FULL
 msgctxt "0025DE"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE040Location
 #. REC: LCTN:FULL
 msgctxt "0025DF"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE041Location
 #. REC: LCTN:FULL
 msgctxt "0025E0"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE051Location
 #. REC: LCTN:FULL
 msgctxt "0025E1"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE077Location
 #. REC: LCTN:FULL
 msgctxt "0025E2"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSE016Location
 #. REC: LCTN:FULL
 msgctxt "0025E3"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: SFBGS00D_PI_ColonyWarActionHero_Display
@@ -14886,91 +14972,91 @@ msgstr ""
 #. REC: MGEF:FULL
 msgctxt "0025E5"
 msgid "Advanced Targeting AV Stack"
-msgstr ""
+msgstr "기동사격TA효과 AV 중첩"
 
 #. List: 0
 #. EDID: Legendary_Armor_AdvancedTargeting_Stack_Effect03
 #. REC: MGEF:FULL
 msgctxt "0025E6"
 msgid "Advanced Targeting AV Stack"
-msgstr ""
+msgstr "기동사격TA효과 AV 중첩"
 
 #. List: 0
 #. EDID: scSFFLSEBarren01Location
 #. REC: LCTN:FULL
 msgctxt "0025E7"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEBarren02Location
 #. REC: LCTN:FULL
 msgctxt "0025E8"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEBarren03Location
 #. REC: LCTN:FULL
 msgctxt "0025E9"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEBarren05Location
 #. REC: LCTN:FULL
 msgctxt "0025EA"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEBarren06Location
 #. REC: LCTN:FULL
 msgctxt "0025EB"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEBarren07Location
 #. REC: LCTN:FULL
 msgctxt "0025EC"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEEmpty03Location
 #. REC: LCTN:FULL
 msgctxt "0025ED"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEEmpty02Location
 #. REC: LCTN:FULL
 msgctxt "0025EE"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEEmpty01Location
 #. REC: LCTN:FULL
 msgctxt "0025EF"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEBarren04Location
 #. REC: LCTN:FULL
 msgctxt "0025F0"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: [01091E80]
 #. REC: REFR:FULL
 msgctxt "0025F1"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEBarren04
@@ -14984,7 +15070,7 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "0025F3"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEBarren05
@@ -14998,7 +15084,7 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "0025F5"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEBarren07
@@ -15019,7 +15105,7 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "0025F8"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEBarren01
@@ -15047,7 +15133,7 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "0025FC"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEBarren02
@@ -15061,7 +15147,7 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "0025FE"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEBarren06
@@ -15075,7 +15161,7 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "002600"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scSFFLSEBarren03
@@ -15299,7 +15385,7 @@ msgstr ""
 #. REC: PROJ:FULL
 msgctxt "002620"
 msgid "LegendaryModifier_Specialist_Projectile"
-msgstr ""
+msgstr "LegendaryModifier_Specialist_Projectile"
 
 #. List: 0
 #. EDID: SFFL_OutpostPI_MilliwhaleBowl
@@ -15362,7 +15448,7 @@ msgstr ""
 #. REC: MGEF:FULL
 msgctxt "002633"
 msgid "Aerial Advantage Add Temp Perk"
-msgstr ""
+msgstr "공중우위TA효과 임시 특성 추가"
 
 #. List: 0
 #. EDID: SFFL_Loot_Space_MG03_POI_6
@@ -15446,28 +15532,28 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "002641"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: [01094638]
 #. REC: REFR:FULL
 msgctxt "002643"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: [01094633]
 #. REC: REFR:FULL
 msgctxt "002645"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: [01094630]
 #. REC: REFR:FULL
 msgctxt "002647"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: SFFL_SE_DR028Mine
@@ -15586,126 +15672,126 @@ msgstr ""
 #. REC: INNR:WNAM
 msgctxt "00265F"
 msgid "Bloodthirsty"
-msgstr ""
+msgstr "흡혈TA효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "002660"
 msgid "Saboteur"
-msgstr ""
+msgstr "파괴공작TA효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "002661"
 msgid "Methodical"
-msgstr ""
+msgstr "철두철미TA효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "002662"
 msgid "Barbaric"
-msgstr ""
+msgstr "야성TA효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "002663"
 msgid "Kismet"
-msgstr ""
+msgstr "숙명TA효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "002664"
 msgid "Saboteur"
-msgstr ""
+msgstr "파괴공작TA효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "002665"
 msgid "Bloodthirsty"
-msgstr ""
+msgstr "흡혈TA효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "002666"
 msgid "Methodical"
-msgstr ""
+msgstr "철두철미TA효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "002667"
 msgid "Reckless"
-msgstr ""
+msgstr "일발필살TA효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "002668"
 msgid "Inspiring"
-msgstr ""
+msgstr "격려TA효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "002669"
 msgid "Electrified"
-msgstr ""
+msgstr "감전TA효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "00266A"
 msgid "Grenadier"
-msgstr ""
+msgstr "공중척탄병TA효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "00266B"
 msgid "Aerial"
-msgstr ""
+msgstr "공중우위TA효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "00266C"
 msgid "Speedster"
-msgstr ""
+msgstr "초고속TA효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "00266D"
 msgid "Abyssal"
-msgstr ""
+msgstr "심연의해방TA효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "00266E"
 msgid "Enigmatic"
-msgstr ""
+msgstr "허상TA효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "00266F"
 msgid "Targeting"
-msgstr ""
+msgstr "기동사격TA효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "002670"
 msgid "Mercenary"
-msgstr ""
+msgstr "치명적인용병TA효과"
 
 #. List: 0
 #. EDID: PictureFrame_SetA_01
@@ -15789,14 +15875,14 @@ msgstr ""
 #. REC: LCTN:FULL
 msgctxt "00D08F"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: scGenIcy01Location
 #. REC: LCTN:FULL
 msgctxt "00D09E"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: SAlgorab
@@ -15810,7 +15896,7 @@ msgstr ""
 #. REC: LCTN:FULL
 msgctxt "00D8D7"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: UC_NA_Muria
@@ -15824,21 +15910,21 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "00DE1D"
 msgid "Muria Siarkiewicz"
-msgstr ""
+msgstr "무리아 샤르키비치"
 
 #. List: 0
 #. EDID: [01091A14]
 #. REC: REFR:FULL
 msgctxt "00F325"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: [01078631]
 #. REC: REFR:FULL
 msgctxt "00F39E"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: [0105C3CC]
@@ -15852,28 +15938,28 @@ msgstr ""
 #. REC: REFR:FULL
 msgctxt "00F453"
 msgid "Storage Tanks"
-msgstr ""
+msgstr "저장 탱크"
 
 #. List: 0
 #. EDID: [010919D5]
 #. REC: REFR:FULL
 msgctxt "00F557"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: [01091999]
 #. REC: REFR:FULL
 msgctxt "00F55B"
 msgid "Sensor Contact"
-msgstr ""
+msgstr "센서 탐지 대상"
 
 #. List: 0
 #. EDID: CTEST
 #. REC: CELL:FULL
 msgctxt "00F62B"
 msgid "Quick Test Cell"
-msgstr ""
+msgstr "Quick Test Cell"
 
 #. List: 0
 #. EDID: aaaMarkers
@@ -15929,1323 +16015,1323 @@ msgstr ""
 #. REC: INNR:WNAM
 msgctxt "033F47"
 msgid "Pack"
-msgstr ""
+msgstr "팩"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F48"
 msgid "Skip"
-msgstr ""
+msgstr "분산분사형"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F49"
 msgid "Power"
-msgstr ""
+msgstr "집중분사형"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F4A"
 msgid "Balanced"
-msgstr ""
+msgstr "균형분사형"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F4B"
 msgid "*"
-msgstr ""
+msgstr "*"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F4C"
 msgid "Superior"
-msgstr ""
+msgstr "우월등급"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F4D"
 msgid "Advanced"
-msgstr ""
+msgstr "발전등급"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F4E"
 msgid "Refined"
-msgstr ""
+msgstr "보강등급"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F4F"
 msgid "Calibrated"
-msgstr ""
+msgstr "조정등급"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F50"
 msgid "Sturdy"
-msgstr ""
+msgstr "맷집효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F51"
 msgid "Ablative"
-msgstr ""
+msgstr "에너지저항효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F52"
 msgid "Anti-Ballistic"
-msgstr ""
+msgstr "방탄재질효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F53"
 msgid "Technician's"
-msgstr ""
+msgstr "기술자효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F54"
 msgid "Beast Hunter's"
-msgstr ""
+msgstr "야수사냥효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F55"
 msgid "Veteran's"
-msgstr ""
+msgstr "베테랑효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F56"
 msgid "Chameleon"
-msgstr ""
+msgstr "카멜레온효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F57"
 msgid "Bolstering"
-msgstr ""
+msgstr "저항지원효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F58"
 msgid "O2 Filtered"
-msgstr ""
+msgstr "산소필터효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F59"
 msgid "O2 Boosted"
-msgstr ""
+msgstr "산소증량효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F5A"
 msgid "Auto-Medic"
-msgstr ""
+msgstr "자동회복TA효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F5B"
 msgid "Hauler's"
-msgstr ""
+msgstr "자원운반효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F5C"
 msgid "Holstered"
-msgstr ""
+msgstr "무기배낭효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F5D"
 msgid "Acrobat's"
-msgstr ""
+msgstr "곡예사효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F5E"
 msgid "Antiseptic"
-msgstr ""
+msgstr "소독제효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F5F"
 msgid "Galvanized"
-msgstr ""
+msgstr "아연도금효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F60"
 msgid "Liquid Cooled"
-msgstr ""
+msgstr "수랭식효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F61"
 msgid "Leadlined"
-msgstr ""
+msgstr "납도금효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F62"
 msgid "Hacker's"
-msgstr ""
+msgstr "해커효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F63"
 msgid "Analyzer's"
-msgstr ""
+msgstr "분석가효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F64"
 msgid "Fastened"
-msgstr ""
+msgstr "운반물고정효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F65"
 msgid "Sentinel's"
-msgstr ""
+msgstr "파수병효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F66"
 msgid "Mirrored"
-msgstr ""
+msgstr "반사막효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F67"
 msgid "Mechanized"
-msgstr ""
+msgstr "기계화효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F68"
 msgid "Repulsing"
-msgstr ""
+msgstr "무장해제효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F69"
 msgid "Armor-Plated"
-msgstr ""
+msgstr "장갑판효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F6A"
 msgid "Reactive"
-msgstr ""
+msgstr "경직반작용효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F6B"
 msgid "Incendiary"
-msgstr ""
+msgstr "주변발화효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F6C"
 msgid "Assisted Carry"
-msgstr ""
+msgstr "운반지원효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F6D"
 msgid "Sensor-Chipped"
-msgstr ""
+msgstr "센서칩효과"
 
 #. List: 0
 #. EDID: dn_CommonArmor
 #. REC: INNR:WNAM
 msgctxt "033F6E"
 msgid "Headhunter's"
-msgstr ""
+msgstr "헤드헌터효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343D3"
 msgid "*"
-msgstr ""
+msgstr "*"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343D4"
 msgid "Calibrated"
-msgstr ""
+msgstr "조정등급"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343D5"
 msgid "Refined"
-msgstr ""
+msgstr "보강등급"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343D6"
 msgid "Advanced"
-msgstr ""
+msgstr "발전등급"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343D7"
 msgid "Sharpened"
-msgstr ""
+msgstr "절삭등급"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343D8"
 msgid "Honed"
-msgstr ""
+msgstr "연마등급"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343D9"
 msgid "Anodized"
-msgstr ""
+msgstr "양극산화개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343DA"
 msgid "Balanced"
-msgstr ""
+msgstr "균형개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343DB"
 msgid "Assassin's"
-msgstr ""
+msgstr "암살자개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343DC"
 msgid "Warrior's"
-msgstr ""
+msgstr "전사개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343DD"
 msgid "Alien Bone"
-msgstr ""
+msgstr "외계태생개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343DE"
 msgid "Experimental"
-msgstr ""
+msgstr "시제품개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343DF"
 msgid "EM"
-msgstr ""
+msgstr "전자기개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343E0"
 msgid "EM"
-msgstr ""
+msgstr "전자기개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343E1"
 msgid "Modified"
-msgstr ""
+msgstr "최소개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343E2"
 msgid "Stealth"
-msgstr ""
+msgstr "잠입개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343E3"
 msgid "Suppressed"
-msgstr ""
+msgstr "소음기장착개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343E4"
 msgid "Scout's"
-msgstr ""
+msgstr "정찰병개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343E5"
 msgid "Smuggler's"
-msgstr ""
+msgstr "밀수업자개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343E6"
 msgid "Boosted"
-msgstr ""
+msgstr "강화개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343E7"
 msgid "Grunt's"
-msgstr ""
+msgstr "특전사개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343E8"
 msgid "Explorer's"
-msgstr ""
+msgstr "탐험가개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343E9"
 msgid "Overcharged"
-msgstr ""
+msgstr "과충전개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343EA"
 msgid "Converted"
-msgstr ""
+msgstr "전환개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343EB"
 msgid "Specialized"
-msgstr ""
+msgstr "특화개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343EC"
 msgid "Officer's"
-msgstr ""
+msgstr "관리자개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343ED"
 msgid "Merc's"
-msgstr ""
+msgstr "용병개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343EE"
 msgid "Engineer's"
-msgstr ""
+msgstr "엔지니어개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343EF"
 msgid "Assassin's"
-msgstr ""
+msgstr "암살자개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343F0"
 msgid "Assassin's"
-msgstr ""
+msgstr "암살자개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343F1"
 msgid "Technophile's"
-msgstr ""
+msgstr "기술애호가개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343F2"
 msgid "Equalizer's"
-msgstr ""
+msgstr "이퀄라이저개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343F3"
 msgid "Tactician's"
-msgstr ""
+msgstr "전술가개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343F4"
 msgid "Professional's"
-msgstr ""
+msgstr "전문직개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343F5"
 msgid "Operator's"
-msgstr ""
+msgstr "운영직개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343F6"
 msgid "Commander's"
-msgstr ""
+msgstr "지휘관개조"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343F7"
 msgid "Anti-Personnel"
-msgstr ""
+msgstr "대인전효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343F8"
 msgid "Bashing"
-msgstr ""
+msgstr "근접공격효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343F9"
 msgid "Berserker"
-msgstr ""
+msgstr "광전사TA효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343FA"
 msgid "Cornered"
-msgstr ""
+msgstr "배수진효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343FB"
 msgid "Disassembler"
-msgstr ""
+msgstr "분해전문가효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343FC"
 msgid "Extended Mag"
-msgstr ""
+msgstr "확장탄창효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343FD"
 msgid "Furious"
-msgstr ""
+msgstr "진노효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343FE"
 msgid "Instigating"
-msgstr ""
+msgstr "선제공격효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "0343FF"
 msgid "Lawful"
-msgstr ""
+msgstr "준법효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034400"
 msgid "Oxygenated"
-msgstr ""
+msgstr "호흡법효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034401"
 msgid "Raging"
-msgstr ""
+msgstr "맹렬효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034402"
 msgid "Space Adept"
-msgstr ""
+msgstr "우주적응효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034403"
 msgid "Exterminator"
-msgstr ""
+msgstr "박멸효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034404"
 msgid "Chilling"
-msgstr ""
+msgstr "동결효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034405"
 msgid "Corrosive"
-msgstr ""
+msgstr "부식효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034406"
 msgid "Crippling"
-msgstr ""
+msgstr "관절제압효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034407"
 msgid "Handloading"
-msgstr ""
+msgstr "수동장전효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034408"
 msgid "Hitman"
-msgstr ""
+msgstr "히트맨효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034409"
 msgid "Incendiary"
-msgstr ""
+msgstr "발화효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "03440A"
 msgid "Lacerate"
-msgstr ""
+msgstr "참렬효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "03440B"
 msgid "Magnetic Field"
-msgstr ""
+msgstr "자기장효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "03440C"
 msgid "Med Theft"
-msgstr ""
+msgstr "메디팩절도효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "03440D"
 msgid "Poison"
-msgstr ""
+msgstr "독성효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "03440E"
 msgid "Radioactive"
-msgstr ""
+msgstr "방사능효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "03440F"
 msgid "Rapid"
-msgstr ""
+msgstr "신속효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034410"
 msgid "Staggering"
-msgstr ""
+msgstr "경직효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034411"
 msgid "Swashbuckling"
-msgstr ""
+msgstr "일수꾼효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034412"
 msgid "Concussive"
-msgstr ""
+msgstr "뇌진탕효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034413"
 msgid "Demoralizing"
-msgstr ""
+msgstr "전의상실효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034414"
 msgid "Elemental"
-msgstr ""
+msgstr "원소효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034415"
 msgid "Explosive"
-msgstr ""
+msgstr "폭발효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034416"
 msgid "One Inch Punch"
-msgstr ""
+msgstr "원인치펀치효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034417"
 msgid "Frenzy"
-msgstr ""
+msgstr "광란효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034418"
 msgid "Shattering"
-msgstr ""
+msgstr "파쇄효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "034419"
 msgid "Skip Shot"
-msgstr ""
+msgstr "장전생략효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "03441A"
 msgid "Tesla"
-msgstr ""
+msgstr "전격효과"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "03441B"
 msgid "Titanium"
-msgstr ""
+msgstr "티타늄제효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346E3"
 msgid "*"
-msgstr ""
+msgstr "*"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346E4"
 msgid "Sharpened"
-msgstr ""
+msgstr "조정등급"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346E5"
 msgid "Honed"
-msgstr ""
+msgstr "보강등급"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346E6"
 msgid "Quantum-Edged"
-msgstr ""
+msgstr "양자날등급"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346E7"
 msgid "Reforged"
-msgstr ""
+msgstr "단조개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346EB"
 msgid "Balanced"
-msgstr ""
+msgstr "균형개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346EC"
 msgid "Assassin's"
-msgstr ""
+msgstr "암살자개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346ED"
 msgid "Warrior's"
-msgstr ""
+msgstr "전사개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346EE"
 msgid "Warrior's"
-msgstr ""
+msgstr "전사개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346EF"
 msgid "Extruded"
-msgstr ""
+msgstr "압출가공개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346F0"
 msgid "Experimental"
-msgstr ""
+msgstr "시제품개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346F1"
 msgid "EM"
-msgstr ""
+msgstr "전자기개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346F2"
 msgid "EM"
-msgstr ""
+msgstr "전자기개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346F3"
 msgid "Stealth"
-msgstr ""
+msgstr "잠입개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346F4"
 msgid "Suppressed"
-msgstr ""
+msgstr "소음기장착개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346F5"
 msgid "Scout's"
-msgstr ""
+msgstr "정찰병개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346F6"
 msgid "Smuggler's"
-msgstr ""
+msgstr "밀수업자개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346F7"
 msgid "Boosted"
-msgstr ""
+msgstr "강화개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346F8"
 msgid "Grunt's"
-msgstr ""
+msgstr "특전사개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346F9"
 msgid "Explorer's"
-msgstr ""
+msgstr "탐험가개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346FA"
 msgid "Overcharged"
-msgstr ""
+msgstr "과충전개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346FB"
 msgid "Converted"
-msgstr ""
+msgstr "전환개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346FC"
 msgid "Specialized"
-msgstr ""
+msgstr "특화개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346FD"
 msgid "Officer's"
-msgstr ""
+msgstr "관리자개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346FE"
 msgid "Merc's"
-msgstr ""
+msgstr "용병개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "0346FF"
 msgid "Engineer's"
-msgstr ""
+msgstr "엔지니어개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034700"
 msgid "Assassin's"
-msgstr ""
+msgstr "암살자개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034701"
 msgid "Assassin's"
-msgstr ""
+msgstr "암살자개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034702"
 msgid "Technophile's"
-msgstr ""
+msgstr "기술애호가개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034703"
 msgid "Equalizer's"
-msgstr ""
+msgstr "이퀄라이저개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034704"
 msgid "Tactician's"
-msgstr ""
+msgstr "전술가개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034705"
 msgid "Professional's"
-msgstr ""
+msgstr "전문직개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034706"
 msgid "Operator's"
-msgstr ""
+msgstr "운영직개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034707"
 msgid "Commander's"
-msgstr ""
+msgstr "지휘관개조"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034708"
 msgid "Anti-Personnel"
-msgstr ""
+msgstr "대인전효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034709"
 msgid "Bashing"
-msgstr ""
+msgstr "근접공격효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03470A"
 msgid "Berserker"
-msgstr ""
+msgstr "광전사TA효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03470B"
 msgid "Cornered"
-msgstr ""
+msgstr "배수진효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03470C"
 msgid "Disassembler"
-msgstr ""
+msgstr "분해전문가효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03470D"
 msgid "Extended Mag"
-msgstr ""
+msgstr "확장탄창효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03470E"
 msgid "Furious"
-msgstr ""
+msgstr "진노효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03470F"
 msgid "Instigating"
-msgstr ""
+msgstr "선제공격효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034710"
 msgid "Lawful"
-msgstr ""
+msgstr "준법효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034711"
 msgid "Oxygenated"
-msgstr ""
+msgstr "호흡법효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034712"
 msgid "Raging"
-msgstr ""
+msgstr "맹렬효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034713"
 msgid "Space Adept"
-msgstr ""
+msgstr "우주적응효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034714"
 msgid "Exterminator"
-msgstr ""
+msgstr "박멸효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034715"
 msgid "Chilling"
-msgstr ""
+msgstr "동결효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034716"
 msgid "Corrosive"
-msgstr ""
+msgstr "부식효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034717"
 msgid "Crippling"
-msgstr ""
+msgstr "관절제압효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034718"
 msgid "Handloading"
-msgstr ""
+msgstr "수동장전효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034719"
 msgid "Hitman"
-msgstr ""
+msgstr "히트맨효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03471A"
 msgid "Incendiary"
-msgstr ""
+msgstr "발화효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03471B"
 msgid "Lacerate"
-msgstr ""
+msgstr "참렬효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03471C"
 msgid "Magnetic Field"
-msgstr ""
+msgstr "자기장효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03471D"
 msgid "Med Theft"
-msgstr ""
+msgstr "메디팩절도효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03471E"
 msgid "Poison"
-msgstr ""
+msgstr "독성효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03471F"
 msgid "Radioactive"
-msgstr ""
+msgstr "방사능효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034720"
 msgid "Rapid"
-msgstr ""
+msgstr "신속효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034721"
 msgid "Staggering"
-msgstr ""
+msgstr "경직효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034722"
 msgid "Swashbuckling"
-msgstr ""
+msgstr "일수꾼효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034723"
 msgid "Concussive"
-msgstr ""
+msgstr "뇌진탕효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034724"
 msgid "Demoralizing"
-msgstr ""
+msgstr "전의상실효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034725"
 msgid "Elemental"
-msgstr ""
+msgstr "원소효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034726"
 msgid "Explosive"
-msgstr ""
+msgstr "폭발효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034727"
 msgid "One Inch Punch"
-msgstr ""
+msgstr "원인치펀치효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034728"
 msgid "Frenzy"
-msgstr ""
+msgstr "광란효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "034729"
 msgid "Shattering"
-msgstr ""
+msgstr "파쇄효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03472A"
 msgid "Skip Shot"
-msgstr ""
+msgstr "장전생략효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03472B"
 msgid "Tesla"
-msgstr ""
+msgstr "전격효과"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03472C"
 msgid "Titanium"
-msgstr ""
+msgstr "티타늄제효과"
 
 #. List: 0
 #. EDID: mod_Legendary_Wep_4_None
 #. REC: OMOD:FULL
 msgctxt "0347C8"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03488B"
 msgid "Flawless"
-msgstr ""
+msgstr "완벽등급"
 
 #. List: 0
 #. EDID: dn_CommonMelee
 #. REC: INNR:WNAM
 msgctxt "03488C"
 msgid "Masterwork"
-msgstr ""
+msgstr "걸작등급"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "03488D"
 msgid "Superior"
-msgstr ""
+msgstr "우월등급"
 
 #. List: 0
 #. EDID: dn_CommonGun
 #. REC: INNR:WNAM
 msgctxt "03488E"
 msgid "Exceptional"
-msgstr ""
+msgstr "초월등급"
 
 #. List: 1
 #. EDID: SFBGS00DPOIYG02_BrokenElevatorMessage
@@ -17525,7 +17611,7 @@ msgstr ""
 #. REC: OMOD:DESC
 msgctxt "0009C4"
 msgid "25% more accuracy"
-msgstr ""
+msgstr "명중률 25% 증가"
 
 #. List: 1
 #. EDID: mod_Legendary_Modifier_Martyr
@@ -17560,7 +17646,7 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "0009D0"
 msgid "Quantum Entanglement Device capacity increased to %.0f."
-msgstr ""
+msgstr "양자 얽힘 장치의 최대 용량이 %.0f 증가합니다."
 
 #. List: 1
 #. EDID: HelpFreeLanesEncountersXbox
@@ -17582,6 +17668,20 @@ msgstr ""
 msgctxt "0009DB"
 msgid "Legendary Effects are unique bonuses that enhance equipment. They are divided into four categories:\n\n- 1 Star - Rare\n- 2 Stars - Epic\n- 3 Stars - Legendary\n- 4 Stars - Exotic\n\nYou can reroll and add legendary effects onto your equipment at their appropriate workbenches. There are a limited number of times that you can reroll an effect on your equipment before being able to craft a specific one. \n\nEquipment with three legendary effects can have a fourth legendary effect crafted onto it. Exotic effects can not be found in the world and can only be crafted.\n\nRerolling and crafting legendary effects requires X-Tech and Credits. "
 msgstr ""
+"전설 효과는 장비를 강화시킬 수 있는 특별한 보너스 효과입니다. 4가지 등급으로 나뉩니다.\n"
+"\n"
+"- 별 1개 - \"레어\"\n"
+"- 별 2개 - \"에픽\"\n"
+"- 별 3개 - \"레전더리\"\n"
+"- 별 4개 - \"엑조틱\"\n"
+"\n"
+"장비를 개조할 수 있는 작업대에서 장비에 전설 효과를 부여하거나 재부여할 수 있습니다. 특정 효과를 선택해 부여하려면, 먼저 일정 횟수 "
+"이상 재부여를 해야합니다.\n"
+"\n"
+"전설 효과가 3개인 장비에는 4번째 전설 효과인 \"엑조틱\" 효과를 부여할 수 있습니다. \"엑조틱\" 효과는 세계에서 획득할 수 "
+"없으며 제작으로만 부여할 수 있습니다.\n"
+"\n"
+"전설 효과를 부여하거나 재부여하려면 X-테크와 크레딧이 필요합니다. "
 
 #. List: 1
 #. EDID: HelpQuality
@@ -17589,6 +17689,33 @@ msgstr ""
 msgctxt "0009DE"
 msgid "You can improve the quality of your equipment at their appropriate workbenches. Each quality level costs more to upgrade than the last.\n\nRanged weapons have six quality levels:\n\n1. Standard\n2. Calibrated\n3. Refined\n4. Advanced\n5. Superior\n6. Exceptional\n\nMelee weapons have six quality levels:\n\n1. Standard\n2. Sharpened\n3. Honed\n4. Quantum-Edged\n5. Flawless\n6. Masterwork\n\nArmor has five quality levels:\n\n1. Standard\n2. Calibrated\n3. Refined\n4. Advanced\n5. Superior"
 msgstr ""
+"적절한 작업대에서 장비의 품질 등급을 올릴 수 있습니다. 품질 등급이 높아질수록 업그레이드 비용도 증가합니다.\n"
+"\n"
+"원거리 무기에는 6단계의 품질 등급이 있습니다.\n"
+"\n"
+"1. 기본등급\n"
+"2. 조정등급\n"
+"3. 보강등급\n"
+"4. 발전등급\n"
+"5. 우월등급\n"
+"6. 초월등급\n"
+"\n"
+"근접 무기에는 6단계의 품질 등급이 있습니다.\n"
+"\n"
+"1. 기본등급\n"
+"2. 절삭등급\n"
+"3. 연마등급\n"
+"4. 양자날등급\n"
+"5. 완벽등급\n"
+"6. 걸작등급\n"
+"\n"
+"방어구에는 5단계의 품질 등급이 있습니다.\n"
+"\n"
+"1. 기본등급\n"
+"2. 조정등급\n"
+"3. 보강등급\n"
+"4. 발전등급\n"
+"5. 우월등급"
 
 #. List: 1
 #. EDID: SFBGS00D_ShipOptimization_ShieldEnergyDisp_MSG
@@ -17616,7 +17743,7 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "0009E3"
 msgid "Quantum Entanglement Device schematic added."
-msgstr ""
+msgstr "양자 얽힘 장치 설계도 추가됨."
 
 #. List: 1
 #. EDID: SFBGS00D_EquipmentModuleSchematic_Tutorial_MSG
@@ -17812,14 +17939,14 @@ msgstr ""
 #. REC: OMOD:DESC
 msgctxt "000FC8"
 msgid "30% faster reloading"
-msgstr ""
+msgstr "재장전 속도 30% 빨라짐"
 
 #. List: 1
 #. EDID: mod_wep_melee_statUpgrade_Damage_new
 #. REC: OMOD:DESC
 msgctxt "000FCA"
 msgid "20% more damage"
-msgstr ""
+msgstr "피해 20% 증가"
 
 #. List: 1
 #. EDID: mod_Legendary_Modifier_Tank
@@ -17847,7 +17974,7 @@ msgstr ""
 #. REC: OMOD:DESC
 msgctxt "000FD4"
 msgid "30% faster aiming"
-msgstr ""
+msgstr "정조준 속도 30% 빨라짐"
 
 #. List: 1
 #. EDID: mod_Legendary_Armor_4_AerialAdvantage
@@ -17889,7 +18016,7 @@ msgstr ""
 #. REC: OMOD:DESC
 msgctxt "000FE1"
 msgid "20% less recoil"
-msgstr ""
+msgstr "반동 20% 감소"
 
 #. List: 1
 #. EDID: mod_Legendary_Wep_4_Kismet
@@ -17994,7 +18121,7 @@ msgstr ""
 #. REC: COBJ:DESC
 msgctxt "001007"
 msgid "No Effect"
-msgstr ""
+msgstr "효과 없음"
 
 #. List: 1
 #. EDID: co_armor_mod_legendary_4_Speedster
@@ -18156,6 +18283,61 @@ msgstr ""
 msgctxt "00102E"
 msgid "The Database is a way to see known resources, recipes, outpost items, locations, and player outposts.\nPress [DataMenu] and then [RShoulder] to view the Database.\nThe Database has five categories: Inorganics, Organics, Recipes, Outpost, and Locations.\nUse [LShoulder] and [RShoulder] to move between categories.\nTo exit the Database, press [Cancel].\n\nInorganics and Organics\nResources are split into Inorganic and Organic categories.\nUse [Left] and [Right] to change the rarity filter between All, Common, Uncommon, Rare, Exotic, and Unique. \nChange the selected resource with [Up] and [Down].\nInformation about the selected resource is shown to the right, including the name, mass, value, and rarity of the resource, how much of the resource the player has in their inventory or outpost storage, and the number of known uses of the resource.\nWith a resource selected, you can Track and Untrack it with [ToggleTracking]. Tracking a resource will show a magnifying glass icon next to the resource when you encounter it in the world.\nYou can also Show Locations for the selected resource with [Sort]. \nThis shows a list of known locations where the resource appears, with the name and distance to the location.\nPress [Sort] to change how the list of locations is sorted. This will cycle between sorting by name, system, and distance.\nPress [Cancel] to close the Show Locations view.\nThe number of resources you have collected is shown, as well as the total number of resources of that type present in the game.\n\nRecipes\nThe recipes are filtered by the in world workbench, lab, or station where the recipes are found.\nChange the selected recipe with [Up] and [Down].\nUse [Left] and [Right] to view recipes for the different workbenches, labs, and stations.\nSome recipes have subcategories, shown with an arrow pointing to the right. To expand or collapse a subcategory, press [Accept].\nWith a recipe selected, you can Track and Untrack it with [ToggleTracking]. Tracking a recipe will track the resources used in the recipe, showing a magnifying glass icon next to the resources when you encounter them in the world.\nInformation on the selected recipe is shown to the right, including an icon, resources required to build the item, and any required skills. \n\nOutpost\nOutpost lists the items and structures you can build in your outposts.\nChange the selected outpost item with [Up] and [Down].\nOutpost items are split into subcategories, shown with an arrow pointing to the right. To expand or collapse a subcategory, press [Accept].\nSome outpost items have variants. Items with variants will have a number to the right of the item name. Use [Left] and [Right] to view different variants of the same item.\nWith an outpost item selected, you can Track and Untrack it with [ToggleTracking]. Tracking an outpost item will track the resources used to build the outpost item, showing a magnifying glass icon next to the resources when you encounter them in the world.\nInformation on the selected outpost item is shown to the right, including an icon, resources required to build the item, and any required skills. \n\nLocations\nLocations shows bodies (planets and moons) the player has discovered, as well as information about the player's outposts.\nUse [Left] and [Right] to toggle between showing Bodies (all planets and moons), Favorites, Settled (bodies with settlements), and Outpost.\nChange the selected body or outpost with [Up] and [Down].\nPress [Accept] to jump to the selected body or outpost in the Starmap.\nTo return to the Database after showing a selected body in the Starmap, press [Cancel] three times. Holding [Cancel] will close the Starmap and the Database.\nPress [Sort] to change how the list of locations is sorted. This will cycle between sorting by name, system, and distance.\nPress [ToggleTracking] to toggle the Favorite status of a body. Bodies tagged as favorite will show a heart icon in the list, and will appear in the Favorites category.\nInformation about the selected body is shown to the right, including the name, stats, traits, resources, and survey progress.\nIn Outpost, the location, build limit, and other stats are shown."
 msgstr ""
+"데이터베이스 화면에서는 확인한 자원, 제조법, 전초기지 물품, 장소, 플레이어 전초기지를 확인할 수 있습니다.\n"
+"[DataMenu]키를 누른 뒤 [RShoulder]키를 누르면 데이터베이스 화면을 볼 수 있습니다.\n"
+"데이터베이스 화면에는 무기물, 유기물, 제조법, 전초기지, 장소의 5가지 카테고리가 있습니다.\n"
+"[LShoulder]키와 [RShoulder]키로 카테고리를 전환할 수 있습니다.\n"
+"데이터베이스 화면을 닫으려면 [Cancel]키를 누르세요.\n"
+"\n"
+"무기물과 유기물\n"
+"자원은 무기물과 유기물 카테고리로 나뉩니다.\n"
+"[Left]키와 [Right]키로 희귀도 필터 설정을 바꿔 \"전체\", \"커먼\", \"언커먼\", \"레어\", \"엑조틱\", "
+"\"유니크\" 등급 자원을 볼 수 있습니다.\n"
+"[Up]키와 [Down]키로 선택할 자원을 변경할 수 있습니다.\n"
+"오른쪽에 선택한 자원의 이름, 질량, 가치, 희귀도, 인벤토리 또는 전초기지 창고에 보유하고 있는 수량, 알려진 용도 등의 정보가 "
+"표시됩니다.\n"
+"자원을 선택한 상태에서 [ToggleTracking]키를 누르면 추적을 켜거나 끌 수 있습니다. 추적을 켜면 세계에서 해당 자원을 "
+"발견했을 때 옆에 돋보기 아이콘이 표시됩니다.\n"
+"[Sort]키를 누르면 선택한 자원이 있는 장소를 볼 수 있습니다.\n"
+"자원이 있는 것으로 알려진 장소의 이름과 거리가 목록에 표시됩니다.\n"
+"[Sort]키를 누르면 장소 목록의 정렬 방식이 변경됩니다. 이름순, 항성계순, 거리순으로 변경됩니다.\n"
+"[Cancel]키를 누르면 장소 표시 화면이 닫힙니다.\n"
+"수집한 자원의 수와 게임 내에 존재하는 해당 유형 자원의 총 수가 표시됩니다.\n"
+"\n"
+"제조법\n"
+"제조법 항목에서는 필터 설정을 바꿔 세계 안에서 해당 제조법을 사용할 수 있는 작업대, 연구 설비, 조리대 종류별로 제조법을 볼 수 "
+"있습니다.\n"
+"[Up]키와 [Down]키로 선택할 제조법을 변경할 수 있습니다.\n"
+"[Left]키와 [Right]키로 다른 작업대, 연구 설비, 조리대의 제조법을 볼 수 있습니다.\n"
+"일부 제조법에는 하위 카테고리가 있으며, 오른쪽 화살표로 표시됩니다. [Accept]키를 눌러 하위 카테고리를 열거나 닫을 수 있습니다."
+"\n"
+"제조법을 선택한 상태에서 [ToggleTracking]키를 누르면 추적을 켜거나 끌 수 있습니다. 추적을 켜면 해당 제조법에 사용되는 "
+"자원이 추적되며, 세계에서 해당 자원을 발견했을 때 옆에 돋보기 아이콘이 표시됩니다.\n"
+"오른쪽에 선택한 제조법의 아이콘, 제작에 필요한 자원, 필요 스킬 등의 정보가 표시됩니다.\n"
+"\n"
+"전초기지\n"
+"전초기지 항목에는 전초기지에서 제작할 수 있는 물품과 구조물 목록이 표시됩니다.\n"
+"[Up]키와 [Down]키로 선택한 전초기지 물품을 변경할 수 있습니다.\n"
+"전초기지 물품은 하위 카테고리로 나뉘며, 오른쪽 화살표로 표시됩니다. [Accept]키를 눌러 하위 카테고리를 열거나 닫을 수 있습니다."
+"\n"
+"일부 전초기지 물품에는 변형 버전이 있습니다. 변형 버전이 있는 물품은 물품 이름 오른쪽에 숫자가 표시됩니다. [Left]키와 "
+"[Right]키로 같은 물품의 다른 변형 버전을 확인할 수 있습니다.\n"
+"전초기지 물품을 선택한 상태에서 [ToggleTracking]키를 누르면 추적을 켜거나 끌 수 있습니다. 추적을 켜면 해당 전초기지 물품 "
+"제작에 사용되는 자원이 추적되며, 세계에서 해당 자원을 발견했을 때 옆에 돋보기 아이콘이 표시됩니다.\n"
+"오른쪽에 선택한 전초기지 물품의 아이콘, 건설에 필요한 자원, 필요 스킬 등의 정보가 표시됩니다.\n"
+"\n"
+"장소\n"
+"장소에는 플레이어가 발견한 천체(행성과 위성) 및 플레이어 전초기지 정보가 표시됩니다.\n"
+"[Left]키와 [Right]키로 천체(모든 행성과 위성), 즐겨찾기, 정착지(정착지가 있는 천체), 전초기지를 변경할 수 있습니다.\n"
+"[Up]키와 [Down]키로 선택한 천체 또는 전초기지를 변경할 수 있습니다.\n"
+"[Accept]키를 누르면 은하계 지도 상에서 선택한 천체 또는 전초기지가 있는 위치를 표시할 수 있습니다.\n"
+"은하계 지도에서 선택한 천체를 본 뒤 [Cancel]키를 3번 누르면 데이터베이스 화면으로 돌아갑니다. [Cancel]키를 길게 누르면 "
+"은하계 지도와 데이터베이스 화면이 모두 닫힙니다.\n"
+"[Sort]키를 누르면 장소 목록의 정렬 방식을 변경할 수 있습니다. 이름순, 항성계순, 거리순으로 변경됩니다.\n"
+"[ToggleTracking]키를 누르면 특정 천체를 즐겨찾기할 수 있습니다. 즐겨찾기로 설정한 천체는 목록에 하트 아이콘이 표시되며, "
+"즐겨찾기 카테고리에 나타납니다.\n"
+"오른쪽에 선택한 천체의 이름, 수치, 특성, 자원, 탐사 진행도 등의 정보가 표시됩니다.\n"
+"전초기지에서는 전초기지 위치, 제작 제한, 기타 수치가 표시됩니다."
 
 #. List: 1
 #. EDID: HelpFreeLanesCruiseModeXBox
@@ -18366,6 +18548,11 @@ msgstr ""
 msgctxt "001068"
 msgid "Use %.0f Quantum Essences to increase Quantum Entanglement Device capacity by %.0f?\n\nQuantum Essence: %.0f / %.0f\n\nCurrent Capacity: %.0f"
 msgstr ""
+"양자 정수 %.0f개를 사용하여 양자 얽힘 장치의 용량을 %.0f 늘리시겠습니까?\n"
+"\n"
+"양자 정수: %.0f / %.0f\n"
+"\n"
+"현재 용량: %.0f"
 
 #. List: 1
 #. EDID: StarbornContainerConfirmBuildMsg
@@ -18373,6 +18560,12 @@ msgstr ""
 msgctxt "00106C"
 msgid "Use these resources to build the Quantum Entanglement Device?\n\nQuantum Essence: %.0f / %.0f\nAdaptive Frame: %.0f / 1\nIsocentered Magnet: %.0f / 1\nTau Grade Rheostat: %.0f / 1"
 msgstr ""
+"이 자원을 사용하여 양자 얽힘 장치를 제작하시겠습니까?\n"
+"\n"
+"양자 정수: %.0f / %.0f\n"
+"적응형 프레임: %.0f / 1\n"
+"등중심점 자석: %.0f / 1\n"
+"타우급 가변 저항기: %.0f / 1"
 
 #. List: 1
 #. EDID: SFBGS00D_CWAH_HadrianSanon_MSG
@@ -18611,6 +18804,11 @@ msgstr ""
 msgctxt "00149F"
 msgid "Store items in the Quantum Entanglement Device to pass them through the Unity.\n\nYou can use %.0f Quantum Essences to increase its capacity by %.0f.\n\nThe maximum capacity is %.0f."
 msgstr ""
+"양자 얽힘 장치에 물품을 보관해 유니티를 통과시킬 수 있습니다.\n"
+"\n"
+"양자 정수를 %.0f개 사용하면 용량이 %.0f 증가합니다.\n"
+"\n"
+"최대 용량은 %.0f입니다."
 
 #. List: 1
 #. EDID: SFFL_SE_RS02_Retribution
@@ -18757,14 +18955,14 @@ msgstr ""
 #. REC: OMOD:DESC
 msgctxt "0019DD"
 msgid "20% more damage"
-msgstr ""
+msgstr "피해 20% 증가"
 
 #. List: 1
 #. EDID: mod_wep_ranged_statUpgrade_FireRate_new
 #. REC: OMOD:DESC
 msgctxt "0019DF"
 msgid "20% faster fire rate"
-msgstr ""
+msgstr "연사력 20% 증가"
 
 #. List: 1
 #. EDID: co_SMS_Equipment_EMPulseShielding
@@ -19716,7 +19914,7 @@ msgstr ""
 #. REC: OMOD:DESC
 msgctxt "002531"
 msgid "Critter Milliwhale Albino Skin"
-msgstr ""
+msgstr "Critter Milliwhale Albino Skin"
 
 #. List: 1
 #. EDID: SFBGS00D_co_Outpost_Storage_SharedOutpostContainer
@@ -19975,7 +20173,7 @@ msgstr ""
 #. REC: COBJ:DESC
 msgctxt "0347E9"
 msgid "No Upgrade."
-msgstr ""
+msgstr "업그레이드 없음."
 
 #. List: 2
 #. EDID: [01083BD0]
@@ -69578,4 +69776,3 @@ msgstr ""
 msgctxt "02CEF3"
 msgid "Well this place is a dump."
 msgstr ""
-

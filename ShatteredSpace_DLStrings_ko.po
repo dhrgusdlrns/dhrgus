@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-04-19 06:44+0000\n"
+"PO-Revision-Date: 2026-04-26 17:13+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -1909,7 +1909,7 @@ msgstr "엔지니어링 구역에 들어가기"
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "000795"
 msgid "Find an Engineering Bay Access Card"
-msgstr "엔지니어링 구역 출입 카드 찾기"
+msgstr "엔지니어링 구역 인증 카드 찾기"
 
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 #, fuzzy
@@ -2815,7 +2815,7 @@ msgstr ""
 "[10:41:53] 원격 접속 로그인 기록 내보내기 실행 중...\n"
 "[10:41:53] 관리자의 이름과 비밀번호가 발견되지 않았습니다. 필드가 누락되었을 수 있습니다.\n"
 "[10:42:13] 재정의 설정 수행 중...\n"
-"[10:42:13] 원격 접속 권한이 부여되었습니다.\n"
+"[10:42:13] 원격 접근 권한이 부여되었습니다.\n"
 "\n"
 "[10:42:13] 결합성 소속의 오킴, 카딕의 컴퓨터에 대한 모든 접근 권한이 승인되었습니다.\n"
 "\n"
@@ -6462,7 +6462,7 @@ msgstr "과학적인 방법"
 # EDID: SFBGS001_LC01_Keycard, REC: KEYM:FULL
 msgctxt "001EE0"
 msgid "Engineering Bay Access Card"
-msgstr "엔지니어링 구역 출입 카드"
+msgstr "엔지니어링 구역 인증 카드"
 
 # EDID: SFBGS001_MS04_SensorActivatorB, REC: ACTI:ATTX
 msgctxt "001EE1"
@@ -8009,7 +8009,7 @@ msgstr "시락의 기록 #4"
 # EDID: SFBGS001_MQ01_AccessCardReaderMSG, REC: MESG:FULL
 msgctxt "011112"
 msgid "Access Card Reader"
-msgstr "카드 판독기에 삽입"
+msgstr "인증 카드 판독기에 삽입"
 
 # EDID: SFBGS001_DazraZ02_QuestRewardKey, REC: KEYM:FULL
 msgctxt "01113E"
@@ -9850,7 +9850,7 @@ msgstr "LandscapeCutWorldSpace"
 # EDID: SSFBGS001_MQ05Key, REC: KEYM:FULL
 msgctxt "011C62"
 msgid "Dam Access Card"
-msgstr "댐 출입 카드"
+msgstr "댐 인증 카드"
 
 # EDID: SFBGS001_EncVaruunCitizenMale02, REC: NPC_:FULL
 msgctxt "011C63"
@@ -15466,7 +15466,7 @@ msgstr "<Alias=TargetPlanetLocation>에서 생물 사냥하기"
 # EDID: SFBGS001_LC19_KhaslavKey, REC: KEYM:FULL
 msgctxt "0143E5"
 msgid "Khaslav's Access Card"
-msgstr "카슬라프의 출입 카드"
+msgstr "카슬라프의 인증 카드"
 
 # EDID: SFBGS001_RedeemedBlade, REC: WEAP:FULL
 msgctxt "0143E6"
@@ -16526,7 +16526,7 @@ msgstr "과학용 상자"
 # EDID: SFBGS001_Loot_Storage_BossChest_Industrial_Rare, REC: CONT:FULL
 msgctxt "01494E"
 msgid "Industrial Crate"
-msgstr "산업용 상자"
+msgstr "산업용 보관함"
 
 # EDID: SFBGS001_Loot_Storage_BossChest_Military_Rare, REC: CONT:FULL
 msgctxt "01494F"
@@ -16818,12 +16818,12 @@ msgstr "물"
 # EDID: SFBGS001_MQ01_SirakAccessCard, REC: KEYM:FULL
 msgctxt "0149A2"
 msgid "Operations Access Card"
-msgstr "통제실 접속 카드"
+msgstr "통제실 인증 카드"
 
 # EDID: SFBGS001_MQ01_BasiraAccessCard, REC: KEYM:FULL
 msgctxt "0149A3"
 msgid "Oracle Access Card"
-msgstr "오라클 출입 카드"
+msgstr "오라클 인증 카드"
 
 # EDID: SFBGS001_Invisible_DazraWorkbenchFood01, REC: FURN:FULL
 msgctxt "0149A4"
@@ -17074,12 +17074,12 @@ msgstr "연구실 보고서"
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "0149D4"
 msgid "Find an Operations Access Card"
-msgstr "통제실 접속 카드를 찾기"
+msgstr "통제실 인증 카드를 찾기"
 
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "0149D5"
 msgid "Find an Oracle Access Card"
-msgstr "오라클 출입 카드 찾기"
+msgstr "오라클 인증 카드 찾기"
 
 # EDID: SFBGS001_MQ01_EngineeringLabTerminal, REC: TERM:FULL
 msgctxt "0149DB"

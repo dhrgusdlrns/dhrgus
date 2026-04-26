@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2026-04-19 08:44+0000\n"
+"PO-Revision-Date: 2026-04-26 17:13+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -2318,21 +2318,21 @@ msgctxt "0149ED"
 msgid ""
 "With the hostiles taken care of, I can finally reboot the Oracle's "
 "mainframe. I just need to find an Operations Access Card."
-msgstr "적들을 처리했으니, 마침내 오라클의 메인프레임을 재가동할 수 있다. 통제실 접속 카드를 찾기만 하면 된다."
+msgstr "적들을 처리했으니, 마침내 오라클의 메인프레임을 재가동할 수 있다. 통제실 인증 카드를 찾기만 하면 된다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "0149EC"
 msgid ""
 "With the hostiles taken care of, I can finally reboot the Oracle's "
 "mainframe. I just need to find an Operations Access Card."
-msgstr "적들을 처리했으니, 마침내 오라클의 메인프레임을 재가동할 수 있다. 통제실 접속 카드를 찾기만 하면 된다."
+msgstr "적들을 처리했으니, 마침내 오라클의 메인프레임을 재가동할 수 있다. 통제실 인증 카드를 찾기만 하면 된다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "0149EB"
 msgid ""
 "I found an Operations Access Card so I can use the computer to reboot the "
 "Oracle's mainframe."
-msgstr "오라클 출입 카드를 찾아냈으니 컴퓨터를 사용해서 오라클의 메인프레임을 재가동할 수 있을 것이다."
+msgstr "오라클 인증 카드를 찾아냈으니 컴퓨터를 사용해서 오라클의 메인프레임을 재가동할 수 있을 것이다."
 
 # EDID: SFBGS001_LC37_Slate, REC: BOOK:DESC
 msgctxt "0149E7"
@@ -2428,14 +2428,14 @@ msgid ""
 " Oracle Access Card to enter the main station first."
 msgstr ""
 "시락은 오라클 우주정거장의 동력을 복구해야 한다고 말했다. 엔지니어링 구역을 찾아서 뭘 해야 하는지 알아봐야 하지만, 주 정거장에 "
-"들어가려면 먼저 오라클 출입 카드를 찾아야 한다."
+"들어가려면 먼저 오라클 인증 카드를 찾아야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "0149D8"
 msgid ""
 "I found an Oracle Access Card. Now I can find the Engineering Bay and see "
 "what needs to be done to restore the power."
-msgstr "오라클 출입 카드를 찾았다. 이제 엔지니어링 구역을 찾아서 동력을 복구하려면 뭘 해야 하는지 알아봐야 한다."
+msgstr "오라클 인증 카드를 찾았다. 이제 엔지니어링 구역을 찾아서 동력을 복구하려면 뭘 해야 하는지 알아봐야 한다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "0149D7"
@@ -2452,7 +2452,7 @@ msgid ""
 " Oracle Access Card to enter the main station first."
 msgstr ""
 "시락은 오라클 우주정거장의 동력을 복구해야 한다고 말했다. 엔지니어링 구역을 찾아서 뭘 해야 하는지 알아봐야 하지만, 주 정거장에 "
-"들어가려면 먼저 오라클 출입 카드를 찾아야 한다."
+"들어가려면 먼저 오라클 인증 카드를 찾아야 한다."
 
 # EDID: SFBGS001_JMPOI26_VaruunObservationPost, REC: BOOK:DESC
 msgctxt "0149B3"
@@ -5344,8 +5344,8 @@ msgid ""
 "want to learn what's inside that may help save Dazra. Perhaps the nearby "
 "farmers might know more."
 msgstr ""
-"마린 댐 내부로 진입하는 길이 막혀 있어서 다즈라를 구하는 데 필요한 물건이 있을지 알아보는 데에는 먼저 출입용 키카드가 필요하다. "
-"근처의 농부들이라면 더 많은 정보를 알지 모른다."
+"마린 댐 내부로 진입하는 길이 막혀 있어서 다즈라를 구하는 데 필요한 물건이 있을지 알아보는 데에는 먼저 인증 키카드가 필요하다. 근처의 "
+"농부들이라면 더 많은 정보를 알지 모른다."
 
 # EDID: SFBGS001_MQ05, REC: QUST:CNAM
 msgctxt "012478"
@@ -6322,7 +6322,7 @@ msgctxt "011185"
 msgid ""
 "I found an access card. Now I need to return to the Engineering Bay so I can"
 " get to the main power controls."
-msgstr "출입 카드를 찾았다. 이제 엔지니어링 구역으로 돌아가면 주전원 제어반을 사용할 수 있을 것이다."
+msgstr "인증 카드를 찾았다. 이제 엔지니어링 구역으로 돌아가면 주전원 제어반을 사용할 수 있을 것이다."
 
 # EDID: SFBGS001_MQ01, REC: QUST:CNAM
 msgctxt "011184"
@@ -7380,7 +7380,7 @@ msgstr "플레이어가 수신하는 메시지는 정적 요소가 많아야 하
 # EDID: SFBGS001_MQ01_AccessCardReaderMSG, REC: MESG:DESC
 msgctxt "000C19"
 msgid "Access Card Reader"
-msgstr "카드 판독기에 삽입"
+msgstr "인증 카드 판독기에 삽입"
 
 # EDID: SFBGS001_MQ01_TEMP_RedirectMSG, REC: MESG:DESC
 msgctxt "000C18"
@@ -7685,7 +7685,7 @@ msgctxt "00079B"
 msgid ""
 "I don't have access to the Engineering Bay. I should be able to find an "
 "access card somewhere on the station."
-msgstr "엔지니어링 구역에 접근할 수 없다. 우주정거장 어딘가에서 출입 카드를 찾을 수 있을 것이다."
+msgstr "엔지니어링 구역에 접근할 수 없다. 우주정거장 어딘가에서 인증 카드를 찾을 수 있을 것이다."
 
 # EDID: SFBGS001_LC08CaveName, REC: MESG:DESC
 msgctxt "000752"

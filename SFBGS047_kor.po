@@ -3,379 +3,379 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 20:26+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-04-28 15:44+0000\n"
+"Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: starfield_plugin_xml_to_po.py\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #. List: 0
 #. EDID: SFBGS047_MoonJumper_Entered_MSG
 #. REC: MESG:FULL
 msgctxt "000002"
 msgid "Moon Jumper Vehicle"
-msgstr ""
+msgstr "문 점퍼 차량"
 
 #. List: 0
 #. EDID: SFBGS047_MoonJumper_Perk
 #. REC: PERK:FULL
 msgctxt "000004"
 msgid "Moon Jumper Perk"
-msgstr ""
+msgstr "문 점퍼 특성"
 
 #. List: 0
 #. EDID: SFBGS047_SMSSet_Vehicle_MoonJumper
 #. REC: FLST:FULL
 msgctxt "000005"
 msgid "Vehicle REV-8 Module Set"
-msgstr ""
+msgstr "차량 REV-8 모듈 세트"
 
 #. List: 0
 #. EDID: SFBGS047_SMS_Vehicle_MoonJumper
 #. REC: GBFM:FULL
 msgctxt "000006"
 msgid "Moon Jumper"
-msgstr ""
+msgstr "문 점퍼"
 
 #. List: 0
 #. EDID: MoonJumper_Turret
 #. REC: WEAP:WABB
 msgctxt "000007"
 msgid "LAS"
-msgstr ""
+msgstr "LAS"
 
 #. List: 0
 #. EDID: MoonJumper_Turret
 #. REC: WEAP:FULL
 msgctxt "000008"
 msgid "MoonJumper Turret"
-msgstr ""
+msgstr "MoonJumper Turret"
 
 #. List: 0
 #. EDID: MoonJumper
 #. REC: FURN:ATTX
 msgctxt "000009"
 msgid "Drive"
-msgstr ""
+msgstr "탑승"
 
 #. List: 0
 #. EDID: MoonJumper
 #. REC: FURN:FULL
 msgctxt "00000A"
 msgid "Moon Jumper"
-msgstr ""
+msgstr "문 점퍼"
 
 #. List: 0
 #. EDID: SFBGS047_ShipPI_SMOD_Vehicle_MoonJumper
 #. REC: PKIN:FULL
 msgctxt "00000B"
 msgid "REV-8"
-msgstr ""
+msgstr "REV-8"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:SNAM
 msgctxt "00000C"
 msgid "Humans"
-msgstr ""
+msgstr "Humans"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "00000D"
 msgid "Forehead"
-msgstr ""
+msgstr "이마"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "00000E"
 msgid "Eyes"
-msgstr ""
+msgstr "눈 모양"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "00000F"
 msgid "Eyebrows"
-msgstr ""
+msgstr "눈썹 모양"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000010"
 msgid "Ears"
-msgstr ""
+msgstr "귀"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000011"
 msgid "Nose"
-msgstr ""
+msgstr "코"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000012"
 msgid "Cheeks"
-msgstr ""
+msgstr "뺨"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000013"
 msgid "Mouth"
-msgstr ""
+msgstr "입"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000014"
 msgid "Jaw"
-msgstr ""
+msgstr "턱"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000015"
 msgid "Chin"
-msgstr ""
+msgstr "턱끝"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000016"
 msgid "Neck"
-msgstr ""
+msgstr "목"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000017"
 msgid "Head Shapes"
-msgstr ""
+msgstr "두상 및 얼굴형"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000018"
 msgid "female_as_yo1"
-msgstr ""
+msgstr "female_as_yo1"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000019"
 msgid "female_eu_yo1"
-msgstr ""
+msgstr "female_eu_yo1"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "00001A"
 msgid "female_af_ol1"
-msgstr ""
+msgstr "female_af_ol1"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "00001B"
 msgid "female_af_yo1"
-msgstr ""
+msgstr "female_af_yo1"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "00001C"
 msgid "female_as_ol1"
-msgstr ""
+msgstr "female_as_ol1"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "00001D"
 msgid "female_af_md1"
-msgstr ""
+msgstr "female_af_md1"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "00001E"
 msgid "female_as_md1"
-msgstr ""
+msgstr "female_as_md1"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "00001F"
 msgid "female_eu_ol1"
-msgstr ""
+msgstr "female_eu_ol1"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000020"
 msgid "female_eu_md2"
-msgstr ""
+msgstr "female_eu_md2"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000021"
 msgid "Chin"
-msgstr ""
+msgstr "턱끝"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000022"
 msgid "Cheeks"
-msgstr ""
+msgstr "뺨"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000023"
 msgid "Eyebrows"
-msgstr ""
+msgstr "눈썹 모양"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000024"
 msgid "Forehead"
-msgstr ""
+msgstr "이마"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000025"
 msgid "Neck"
-msgstr ""
+msgstr "목"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000026"
 msgid "Head Shapes"
-msgstr ""
+msgstr "두상 및 얼굴형"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000027"
 msgid "male_as_yo1"
-msgstr ""
+msgstr "male_as_yo1"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000028"
 msgid "male_as_ol1"
-msgstr ""
+msgstr "male_as_ol1"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000029"
 msgid "male_af_yo1"
-msgstr ""
+msgstr "male_af_yo1"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "00002A"
 msgid "male_af_ol1"
-msgstr ""
+msgstr "male_af_ol1"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "00002B"
 msgid "Jaw"
-msgstr ""
+msgstr "턱"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "00002C"
 msgid "Nose"
-msgstr ""
+msgstr "코"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "00002D"
 msgid "Eyes"
-msgstr ""
+msgstr "눈 모양"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "00002E"
 msgid "Ears"
-msgstr ""
+msgstr "귀"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "00002F"
 msgid "Mouth"
-msgstr ""
+msgstr "입"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000030"
 msgid "male_eu_yo1"
-msgstr ""
+msgstr "male_eu_yo1"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000031"
 msgid "male_eu_ol1"
-msgstr ""
+msgstr "male_eu_ol1"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000032"
 msgid "male_eu_md2"
-msgstr ""
+msgstr "male_eu_md2"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000033"
 msgid "male_af_md1"
-msgstr ""
+msgstr "male_af_md1"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FMRN
 msgctxt "000034"
 msgid "male_as_md1"
-msgstr ""
+msgstr "male_as_md1"
 
 #. List: 0
 #. EDID: SFBGS047_HumanRace
 #. REC: RACE:FULL
 msgctxt "000035"
 msgid "Human"
-msgstr ""
+msgstr "Human"
 
 #. List: 0
 #. EDID: SFBGS047_MoonJumperWeaponProjectile
 #. REC: PROJ:FULL
 msgctxt "000036"
 msgid "LaserProjectile"
-msgstr ""
+msgstr "LaserProjectile"
 
 #. List: 1
 #. EDID: SFBGS047_co_Vehicle_MoonJumper
@@ -383,6 +383,8 @@ msgstr ""
 msgctxt "000001"
 msgid "The Moon Jumper was developed by Stroud Eklund as an experimental long range expeditionary rover. Well armored, with a high capacity boost reserve for extended hovering capabilities."
 msgstr ""
+"문 점퍼는 스트라우드 에클룬드 사가 실험용 장거리 탐사 월면차로 개발한 차량입니다. 견고한 장갑을 갖추고 있으며, 대용량 부스터 예비 "
+"전력을 갖춰 장시간 호버링이 가능합니다."
 
 #. List: 1
 #. EDID: SFBGS047_MoonJumper_Entered_MSG
@@ -390,4 +392,7 @@ msgstr ""
 msgctxt "000003"
 msgid "You have found the Moon Jumper! If you have already unlocked access to vehicles, it is now your active vehicle and is available for customization at any Ship Services Tech.\nTo unlock access to vehicles, visit a Ship Services Tech and ask to purchase a vehicle. This will give you access to the REV-8 and any other vehicles you may own."
 msgstr ""
-
+"문 점퍼를 발견했습니다! 이미 차량 이용 권한을 얻은 경우, 문 점퍼가 현재 주행 차량으로 설정되며 함선 정비 기술자에게 말을 걸어 "
+"도색을 변경할 수 있습니다.\n"
+"차량 이용 권한을 얻으려면 함선 정비 기술자를 방문하여 차량을 구매하세요. 그러면 REV-8 및 기타 소유하고 있는 차량을 이용할 수 "
+"있습니다."

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-04-26 17:13+0000\n"
+"PO-Revision-Date: 2026-04-29 16:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -112,7 +112,7 @@ msgstr "클린룸 층 (오프라인)"
 #. REC: MESG:FULL
 msgctxt "00000D"
 msgid "Maintance floor"
-msgstr "유지보전 층"
+msgstr "유지보수 층"
 
 #. List: 0
 #. EDID: SFBGS00DPOIYG02_Elevator_G_Message
@@ -175,7 +175,7 @@ msgstr "동굴 은신처"
 #. REC: LCTN:FULL
 msgctxt "000016"
 msgid "Isolated Maintenance Hangar"
-msgstr "격리된 유지보전 격납고"
+msgstr "격리된 유지보수 격납고"
 
 #. List: 0
 #. EDID: SFBGS00DDR013Location
@@ -322,7 +322,7 @@ msgstr "동굴 은신처"
 #. REC: WRLD:FULL
 msgctxt "00002F"
 msgid "Isolated Maintenance Hangar"
-msgstr "격리된 유지보전 격납고"
+msgstr "격리된 유지보수 격납고"
 
 #. List: 0
 #. EDID: SFBGS00DDR015World
@@ -1271,13 +1271,14 @@ msgstr "불시착"
 msgctxt "0001B6"
 msgid "The crop yield this season was not ideal and we've been relying mostly on imports. Dr. Costas says there's been changes with the soil we didn't anticipate that have affected the vegetation across the biome.\n\nHunting and scavenging isn't the best option, given where we positioned our outpost. We've tried not to disrupt the local ecology, and there isn't much fauna to speak of anyway.\n\nAs expected of a B-H planet, we will rely mostly on supplies delivered from the outside, and gradually wean ourselves off this in the coming months. It feels a bit like asking your parents for more money when you're supposed to be out on your own, but thankfully we've got enough funding with this project that we can afford to fudge the timeline a little. \n\nStill, if this is truly going to live up to the \"Noah's Ark\" name then eventually we'll need the settlement to be self-sustaining and keep contact to a minimum.\n\n"
 msgstr ""
-"이번 분기 수확량이 이상적이지 않아 대부분 외부 반입에 의존하고 있다. 코스타스 박사에 따르면, 예상치 못한 토양 변화로 생태계 전반의 "
-"식생이 영향을 받았다고 한다.\n"
+"이번 분기 수확량이 이상적이지 않아 대부분 수입에 의존하고 있다. 코스타스 박사에 따르면, 예상치 못한 토양 변화로 생태계 식생 전반이 "
+"영향을 받았다고 한다.\n"
 "\n"
-"전초기지의 위치를 고려하면 사냥이나 수렵채집은 최선의 선택이 아니다. 현지 생태계를 교란하지 않으려 했고, 어차피 동물도 별로 없다.\n"
+"전초기지의 위치를 고려하면 사냥이나 시체를 뜯어먹는 건 최선의 선택이 아니다. 현지 생태계를 교란하지 않으려 노력했고, 어차피 동물도 "
+"별로 없었다.\n"
 "\n"
-"B-H형 행성으로서 예상대로, 당분간 외부 물자 보급에 의존하면서 향후 몇 달에 걸쳐 점차 의존도를 줄여나갈 것이다. 독립했다면서 "
-"부모에게 용돈을 달라고 하는 기분이지만, 다행히 이 프로젝트의 자금은 넉넉해서 일정이 다소 늦어져도 문제없다.\n"
+"B-H형 행성이 이럴거라 예상한 대로, 당분간 외부 물자 보급에 의존하긴 하겠지만, 향후 몇 달에 걸쳐 점차 의존도를 줄여나갈 것이다. "
+"독립했다면서 부모에게 용돈 달라고 하는 기분이지만, 다행히 프로젝트 자금은 넉넉해서 일정이 다소 늦어져도 문제없다.\n"
 "\n"
 "그래도 \"노아의 방주\"라는 이름에 걸맞으려면, 언젠가는 자급자족이 가능해지고 외부 연락도 최소화해야 한다.\n"
 "\n"
@@ -1287,7 +1288,7 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "0001B7"
 msgid "Supply Issue"
-msgstr ""
+msgstr "물자 문제"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
@@ -1295,13 +1296,20 @@ msgstr ""
 msgctxt "0001B8"
 msgid "\"And it came to pass, as the descendants of Noah journeyed from the east, they found a plain in the land of Shinar; and they dwelt there.\"\n\nNoah's Ark was said to land in the Mountains of Ararat, and from there, the descendents traveled eastward to the plains of Shinar. And so we have named our own small settlement Shinar, in honor of that ancient trek.\n\nI've joked with Bernhard that if this were truly an Ark of biblical proportions, we would've left him at home and brought animals instead. He didn't disagree that we made the wrong choice."
 msgstr ""
+"\"노아의 후손들이 동방으로 옮기다가 시날 평지를 만나 거기 거류하며.\"\n"
+"\n"
+"노아의 방주는 아라랏 산에 닿았다고 전해지며, 후손들은 거기서 동쪽 시날 평지로 나아갔다. 그래서 우리는 그 고대의 여정을 기리며 이 "
+"작은 정착지를 시날이라 이름 지었다.\n"
+"\n"
+"버나드에게 농담으로 말한 적이 있다. 만약 이게 성경에 나올 만큼 큰 방주였다면, 버나드를 집에 두고 대신 동물을 데려왔을 것이라고. "
+"버나드는 우리가 잘못된 선택을 했다는 점에 대해 반론하지 않았다."
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
 #. REC: TMLM:ITXT
 msgctxt "0001B9"
 msgid "Shinar - A New Ark, A New Beginning"
-msgstr ""
+msgstr "시날 - 새 방주, 새 시작"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
@@ -1309,41 +1317,43 @@ msgstr ""
 msgctxt "0001BA"
 msgid "Personal Logs:\nSimon Buendia, Founder and Mayor of Shinar"
 msgstr ""
+"개인 일지:\n"
+"사이먼 부엔디아, 시날의 창설자 겸 시장"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
 #. REC: TMLM:FULL
 msgctxt "0001BB"
 msgid "Shinar Outpost Computer"
-msgstr ""
+msgstr "시날 전초기지 컴퓨터"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonJunkyard01_TMLM
 #. REC: TMLM:UNAM
 msgctxt "0001BC"
 msgid "Insufficient power. Please insert a power cell into the pod to power the Utility Robot."
-msgstr ""
+msgstr "전력 부족. 다용도 로봇을 가동하려면 파워 셀을 포드에 삽입해 주세요."
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonJunkyard01_TMLM
 #. REC: TMLM:ITXT
 msgctxt "0001BD"
 msgid "Deploy Utility Robot"
-msgstr ""
+msgstr "다용도 로봇 투입"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonJunkyard01_TMLM
 #. REC: TMLM:UNAM
 msgctxt "0001BE"
 msgid "Unit is already deployed."
-msgstr ""
+msgstr "기체가 이미 투입되어 있습니다."
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonJunkyard01_TMLM
 #. REC: TMLM:ITXT
 msgctxt "0001BF"
 msgid "Deploy Utility Robot"
-msgstr ""
+msgstr "다용도 로봇 투입"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonJunkyard01_TMLM
@@ -1351,13 +1361,16 @@ msgstr ""
 msgctxt "0001C0"
 msgid "Running system diagnostics...\n\nDeploying robot..."
 msgstr ""
+"시스템 진단 중...\n"
+"\n"
+"로봇 투입 중..."
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonJunkyard01_TMLM
 #. REC: TMLM:ITXT
 msgctxt "0001C1"
 msgid "Deploy Utility Robot"
-msgstr ""
+msgstr "다용도 로봇 투입"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonJunkyard01_TMLM
@@ -1365,13 +1378,17 @@ msgstr ""
 msgctxt "0001C2"
 msgid "Utility Robot Maintenance\n\nControl Interface version 1.07c\nCopyright Starware Inc. 2285"
 msgstr ""
+"다용도 로봇 유지보수\n"
+"\n"
+"제어 인터페이스 버전 1.07c\n"
+"Copyright Starware Inc. 2285"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonJunkyard01_TMLM
 #. REC: TMLM:FULL
 msgctxt "0001C3"
 msgid "Shinar Outpost Computer"
-msgstr ""
+msgstr "시날 전초기지 컴퓨터"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_TMLM
@@ -1386,13 +1403,32 @@ msgstr "개인 일지"
 msgctxt "0001C5"
 msgid "I've solicited everyone to submit a blood sample.\n\nZena - A+\nGrace - O+\nSasha - B-\nSunni - B+\nYeats - AB+\nIvica - ???\nCaspian - Rh-Null\nHal - A+\n\nIvica refuses to supply a sample which is ridiculous. I've insisted this is for the betterment of the outpost but he lets his pointless superstition take precedence over the safety of the group. \n\nIf god forbid Ivica needs a transfusion, I'd have to waste valuable time doing an antibody test first.\n\nBut the most interesting sample comes from Caspian, an extremely rare blood type which has no antigens in the Rh system. Statistically he's a unicorn -- even back on Earth there were only a handful of reported cases. I'd love to get a much larger sample but Ivica's rants have made him question the validity of my research and so far he's been reluctant to consent."
 msgstr ""
+"전원에게 혈액 샘플을 제출하도록 요청했다.\n"
+"\n"
+"제나 - A+\n"
+"그레이스 - O+\n"
+"사샤 - B-\n"
+"순이 - B+\n"
+"예이츠 - AB+\n"
+"이비카 - ???\n"
+"캐스피언 - Rh-Null\n"
+"할 - A+\n"
+"\n"
+"이비카는 샘플 제출을 거부하고 있다. 말도 안 되는 일이다. 이것이 전초기지를 위해 필요하다고 강하게 말했지만, 이비카는 의미 없는 "
+"미신을 집단의 안전보다 우선시하고 있다.\n"
+"\n"
+"만약 이비카에게 수혈이 필요한 사태가 벌어진다면, 항체 검사에 귀중한 시간을 낭비해야 한다.\n"
+"\n"
+"그러나 가장 흥미로운 샘플은 캐스피언의 것이다. Rh 체계에 항원이 전혀 없는 극히 희귀한 혈액형이다. 통계적으로 유니콘 같은 존재다. "
+"지구에서도 보고된 사례가 손에 꼽을 정도였다. 더 많은 샘플을 채취하고 싶지만, 이비카의 끊임없는 불만 때문에 캐스피언이 내 연구의 "
+"타당성을 의심하게 되어 아직 동의를 얻지 못하고 있다."
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_TMLM
 #. REC: TMLM:ITXT
 msgctxt "0001C6"
 msgid "Outpost Blood Types "
-msgstr ""
+msgstr "전초기지 혈액형 "
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_TMLM
@@ -1400,13 +1436,19 @@ msgstr ""
 msgctxt "0001C7"
 msgid "I've been running tests on some of the local fauna that Hal's brought back as part of his hunts to see if they offer any clues.\n\nIt's hard to say without a control group, but it does seem like blood volume is less than what would be expected.\n\nI think I need to get more samples of blood from the people here. It's also a good idea to have ample reserves in the event a transfusion is necessary. I'll talk to Zena about having everyone in the group donate blood. "
 msgstr ""
+"할이 사냥해 온 토착 동물 몇 종을 대상으로 검사를 실시하여 단서가 될 만한 걸 찾고 있었다.\n"
+"\n"
+"대조군이 없어 장담하긴 어렵지만, 혈액량이 예상치보다 적은 것 같다.\n"
+"\n"
+"사람들의 혈액 샘플을 더 많이 채취해야 할 것 같다. 수혈이 필요할 때를 대비해 비축분을 충분히 확보해두는 것도 좋을 것 같다. 전부 "
+"헌혈에 참여하도록 제나와 상의해 봐야겠다. "
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_TMLM
 #. REC: TMLM:ITXT
 msgctxt "0001C8"
 msgid "Xenomorphic Study"
-msgstr ""
+msgstr "외계생물 연구"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_TMLM
@@ -1414,13 +1456,17 @@ msgstr ""
 msgctxt "0001C9"
 msgid "Utility Robot Maintenance\n\nControl Interface version 1.07c\nCopyright Starware Inc. 2285"
 msgstr ""
+"다용도 로봇 유지보수\n"
+"\n"
+"제어 인터페이스 버전 1.07c\n"
+"Copyright Starware Inc. 2285"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_TMLM
 #. REC: TMLM:FULL
 msgctxt "0001CA"
 msgid "Dr. Grace Kim's Computer"
-msgstr ""
+msgstr "그레이스 킴 의사의 컴퓨터"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_PLogs_TMLM
@@ -1428,13 +1474,22 @@ msgstr ""
 msgctxt "0001CB"
 msgid "Locking this under private since I need to get it off my chest. Doctor-Patient confidentiality and all that.\n\nI haven't gotten much sleep as of late, and last night I made a really clumsy mistake. I was attempting to get a larger sample of Caspian's blood, and didn't use enough tranquilizer. I ended up having to knock him out the old fashioned way, which combined with the chems, did the trick.\n\nWorse yet that clumsy idiot cut himself picking up broken glass. So on top of the blood draw wound, I had to disinfect and dress the cuts on his hands. The whole thing was a freaking mess. \n\nI didn't really know what to do at that point, so I grabbed some Caelumite to make people suspect it was a theft. I'll get rid of the evidence by synthesizing it into a stimulant. I've been staying up really late anyway and the coffee isn't enough. "
 msgstr ""
+"속에 담아 두기 힘들어서 이 내용은 비공개로 잠가 둔다. 의사-환자 간 비밀 유지 같은 것이라서.\n"
+"\n"
+"최근 잠을 잘 못 자고 있다. 어젯밤에는 정말 어리석은 실수를 저질렀다. 캐스피언의 혈액을 더 많이 채취하려 했는데, 진정제가 부족했다. "
+"결국 구식이지만 기절시키는 방법을 썼고, 다행히 약물과 합쳐져서 그런지 효과는 있었다.\n"
+"\n"
+"설상가상으로 그 덜렁이가 깨진 유리를 줍다가 손을 베었다. 채혈 상처 외에도 손의 상처도 소독하고 치료해야 했다. 완전히 엉망이었다.\n"
+"\n"
+"그 시점에서 어떻게 해야 할지 몰라서, 캘루마이트를 좀 가져와 도난으로 의심하게 만들기로 했다. 증거는 합성해서 각성제로 만들어 없앨 "
+"것이다. 어차피 요즘 늦게까지 깨어 있고 커피만으로는 부족하니까. "
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_PLogs_TMLM
 #. REC: TMLM:ITXT
 msgctxt "0001CC"
 msgid "Private Patient Data"
-msgstr ""
+msgstr "비공개 환자 데이터"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_PLogs_TMLM
@@ -1442,6 +1497,8 @@ msgstr ""
 msgctxt "0001CD"
 msgid "My parents are forcing me to find a spot for Sunni here. It's so frustrating that I have to babysit my sister full-time. Why do I get punished for her mistakes?"
 msgstr ""
+"부모님이 여기에 순이 자리를 마련하라고 강요하고 있다. 동생을 온종일 돌봐야 한다니 너무 답답하다. 왜 동생의 실수 때문에 내가 벌을 "
+"받아야 하는 거지?"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_PLogs_TMLM
@@ -1456,6 +1513,10 @@ msgstr "순이"
 msgctxt "0001CF"
 msgid "Utility Robot Maintenance\n\nControl Interface version 1.07c\nCopyright Starware Inc. 2285"
 msgstr ""
+"다용도 로봇 유지보수\n"
+"\n"
+"제어 인터페이스 버전 1.07c\n"
+"Copyright Starware Inc. 2285"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_PLogs_TMLM
@@ -1476,14 +1537,14 @@ msgstr "뉴바빌론 전초기지"
 #. REC: MESG:FULL
 msgctxt "0001D3"
 msgid "Shinar Outpost"
-msgstr ""
+msgstr "시날 전초기지"
 
 #. List: 0
 #. EDID: SFFL_MS01_MiscDialogue
 #. REC: QUST:FULL
 msgctxt "000232"
 msgid "Help Wanted"
-msgstr ""
+msgstr "도움 요청"
 
 #. List: 0
 #. EDID: SFFLMS01StorageCell
@@ -1497,35 +1558,35 @@ msgstr "SFFL_MS01 Non-Instanced Refs"
 #. REC: HAZD:FULL
 msgctxt "000581"
 msgid "Gravity Well"
-msgstr ""
+msgstr "중력 우물"
 
 #. List: 0
 #. EDID: SFFL_MS01_IvicaKeycard
 #. REC: KEYM:FULL
 msgctxt "000582"
 msgid "Ivica's Keycard"
-msgstr ""
+msgstr "이비카의 키카드"
 
 #. List: 0
 #. EDID: SFFL_MS01_GraceKeycard
 #. REC: KEYM:FULL
 msgctxt "000583"
 msgid "Grace Kim's Keycard"
-msgstr ""
+msgstr "그레이스 킴의 키카드"
 
 #. List: 0
 #. EDID: SFFL_MS01_Caspian
 #. REC: NPC_:SHRT
 msgctxt "000584"
 msgid "Caspian"
-msgstr ""
+msgstr "캐스피언"
 
 #. List: 0
 #. EDID: SFFL_MS01_Caspian
 #. REC: NPC_:FULL
 msgctxt "000585"
 msgid "Caspian Roberson"
-msgstr ""
+msgstr "캐스피언 로버슨"
 
 #. List: 0
 #. EDID: SFFL_MS01_SunniKim
@@ -1546,175 +1607,175 @@ msgstr "김순이"
 #. REC: NPC_:SHRT
 msgctxt "000588"
 msgid "Ivica"
-msgstr ""
+msgstr "이비카"
 
 #. List: 0
 #. EDID: SFFL_MS01_Ivica
 #. REC: NPC_:FULL
 msgctxt "000589"
 msgid "Ivica Vukovic"
-msgstr ""
+msgstr "이비카 부코비치"
 
 #. List: 0
 #. EDID: SFFL_MS01_ZenaHield
 #. REC: NPC_:FULL
 msgctxt "00058A"
 msgid "Zena Hield"
-msgstr ""
+msgstr "제나 힐드"
 
 #. List: 0
 #. EDID: SFFL_MS01_Guard_SashaAtwell
 #. REC: NPC_:FULL
 msgctxt "00058B"
 msgid "Sasha Atwell"
-msgstr ""
+msgstr "사샤 앳웰"
 
 #. List: 0
 #. EDID: SFFL_MS01_BernhardKleiber
 #. REC: NPC_:FULL
 msgctxt "00058C"
 msgid "Bernhard Kleiber"
-msgstr ""
+msgstr "버나드 클라이버"
 
 #. List: 0
 #. EDID: SFFL_MS01_VanguardPilot
 #. REC: NPC_:FULL
 msgctxt "00058D"
 msgid "Pilot"
-msgstr ""
+msgstr "조종사"
 
 #. List: 0
 #. EDID: SFFL_MS01_Caruso
 #. REC: NPC_:SHRT
 msgctxt "00058E"
 msgid "Caruso"
-msgstr ""
+msgstr "카루소"
 
 #. List: 0
 #. EDID: SFFL_MS01_Caruso
 #. REC: NPC_:FULL
 msgctxt "00058F"
 msgid "Hal Caruso"
-msgstr ""
+msgstr "할 카루소"
 
 #. List: 0
 #. EDID: SFFL_MS01_GraceKim
 #. REC: NPC_:SHRT
 msgctxt "000590"
 msgid "Grace"
-msgstr ""
+msgstr "그레이스"
 
 #. List: 0
 #. EDID: SFFL_MS01_GraceKim
 #. REC: NPC_:FULL
 msgctxt "000591"
 msgid "Grace Kim"
-msgstr ""
+msgstr "그레이스 킴"
 
 #. List: 0
 #. EDID: SFFL_MS01_Yeats
 #. REC: NPC_:SHRT
 msgctxt "000592"
 msgid "Yeats"
-msgstr ""
+msgstr "예이츠"
 
 #. List: 0
 #. EDID: SFFL_MS01_Yeats
 #. REC: NPC_:FULL
 msgctxt "000593"
 msgid "Yeats"
-msgstr ""
+msgstr "예이츠"
 
 #. List: 0
 #. EDID: SFFL_MS01_LvlRobotModelA_Farmer_Unaggressive
 #. REC: NPC_:FULL
 msgctxt "000594"
 msgid "Rusty"
-msgstr ""
+msgstr "러스티"
 
 #. List: 0
 #. EDID: SFFL_MS01_Announcer_AUDIOONLY_NoAppearanceData
 #. REC: NPC_:SHRT
 msgctxt "000595"
 msgid "Narrator"
-msgstr ""
+msgstr "내레이터"
 
 #. List: 0
 #. EDID: SFFL_MS01_Announcer_AUDIOONLY_NoAppearanceData
 #. REC: NPC_:FULL
 msgctxt "000596"
 msgid "Narrator"
-msgstr ""
+msgstr "내레이터"
 
 #. List: 0
 #. EDID: SFFL_MS01_RobotParts
 #. REC: MISC:FULL
 msgctxt "000597"
 msgid "Rusty's Robot Parts"
-msgstr ""
+msgstr "러스티의 로봇 부품"
 
 #. List: 0
 #. EDID: SFFL_MS01_Power_Cell
 #. REC: MISC:FULL
 msgctxt "000598"
 msgid "New Babylon Power Cell"
-msgstr ""
+msgstr "뉴바빌론 파워 셀"
 
 #. List: 0
 #. EDID: SFFL_MS01_Power_Cell_Casing
 #. REC: MISC:FULL
 msgctxt "000599"
 msgid "New Babylon Power Cell Casing"
-msgstr ""
+msgstr "뉴바빌론 파워 셀 외장"
 
 #. List: 0
 #. EDID: SFFL_MS01_Power_Cell_Parts
 #. REC: MISC:FULL
 msgctxt "00059A"
 msgid "Power Cell Parts"
-msgstr ""
+msgstr "파워 셀 부품"
 
 #. List: 0
 #. EDID: SFFL_MS01_BloodySurgicalGloves
 #. REC: MISC:FULL
 msgctxt "00059B"
 msgid "Bloodied Surgical Gloves"
-msgstr ""
+msgstr "피 묻은 수술 장갑"
 
 #. List: 0
 #. EDID: SFFL_MS01_EmptySyringe_01
 #. REC: MISC:FULL
 msgctxt "00059C"
 msgid "Tranquilizer Syringe"
-msgstr ""
+msgstr "진정제 주사기"
 
 #. List: 0
 #. EDID: SFFL_MS01_StolenInorgUniqueCaelumite
 #. REC: MISC:NNAM
 msgctxt "00059D"
 msgid "Ct"
-msgstr ""
+msgstr "Ct"
 
 #. List: 0
 #. EDID: SFFL_MS01_StolenInorgUniqueCaelumite
 #. REC: MISC:FULL
 msgctxt "00059E"
 msgid "Stolen Caelumite"
-msgstr ""
+msgstr "도난당한 캘루마이트"
 
 #. List: 0
 #. EDID: SFFL_MS01_Evidence01
 #. REC: BOOK:FULL
 msgctxt "0005A0"
 msgid "Caruso's Note"
-msgstr ""
+msgstr "카루소의 메모"
 
 #. List: 0
 #. EDID: SFFL_MS01_Evidence02
 #. REC: BOOK:FULL
 msgctxt "0005A2"
 msgid "Caruso's Confession"
-msgstr ""
+msgstr "카루소의 고백"
 
 #. List: 0
 #. EDID: SFFL_MS01_RelaxationTape01
@@ -2435,7 +2496,7 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "00093F"
 msgid "Sheila Costas"
-msgstr ""
+msgstr "쉴라 코스타스"
 
 #. List: 0
 #. EDID: SFFL_MS01_Vendor_GraceKimContainer
@@ -2568,7 +2629,7 @@ msgstr ""
 #. REC: PKIN:FULL
 msgctxt "000960"
 msgid "Breathable Outpost Airlock"
-msgstr ""
+msgstr "전초기지 비밀폐형 에어락"
 
 #. List: 0
 #. EDID: SFBGS00DLiamTest
@@ -2820,7 +2881,7 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "000984"
 msgid "Shinar Outpost Computer"
-msgstr ""
+msgstr "시날 전초기지 컴퓨터"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_ShieldsScreen
@@ -3164,6 +3225,10 @@ msgstr ""
 msgctxt "0009B5"
 msgid "Utility Robot Maintenance\n\nControl Interface version 1.07c\nCopyright Starware Inc. 2285"
 msgstr ""
+"다용도 로봇 유지보수\n"
+"\n"
+"제어 인터페이스 버전 1.07c\n"
+"Copyright Starware Inc. 2285"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_HackedPLogs_TMLM
@@ -3884,7 +3949,7 @@ msgstr "보관함 마스터 열쇠"
 #. REC: NPC_:FULL
 msgctxt "000E05"
 msgid "Hostage"
-msgstr ""
+msgstr "인질"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSecurityF02
@@ -3898,21 +3963,21 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "000E07"
 msgid "Anchorpoint Security"
-msgstr ""
+msgstr "앵커포인트 경비대원"
 
 #. List: 0
 #. EDID: SFFL_MaddieWing
 #. REC: NPC_:FULL
 msgctxt "000E08"
 msgid "Maddie Wing"
-msgstr ""
+msgstr "매디 윙"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiMelee06
 #. REC: NPC_:FULL
 msgctxt "000E09"
 msgid "Mature Cataxi Warrior"
-msgstr ""
+msgstr "성숙한 카탁시 병정"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointPatronF01
@@ -3926,21 +3991,21 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "000E0B"
 msgid "Patron"
-msgstr ""
+msgstr "후원자"
 
 #. List: 0
 #. EDID: SFFL_Z01_GabrielleBaker_AUDIOONLY_NoAppearanceData
 #. REC: NPC_:FULL
 msgctxt "000E0C"
 msgid "Gabrielle Baker"
-msgstr ""
+msgstr "가브리엘 베이커"
 
 #. List: 0
 #. EDID: SFFL_SE_KT02_RichPatron02_AudioOnly
 #. REC: NPC_:FULL
 msgctxt "000E0D"
 msgid "Tourist"
-msgstr ""
+msgstr "여행객"
 
 #. List: 0
 #. EDID: SFFL_SE_EC03_Bobby
@@ -3954,63 +4019,63 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "000E0F"
 msgid "Bobby Kazan"
-msgstr ""
+msgstr "보비 카잔"
 
 #. List: 0
 #. EDID: SFFL_R03_Corpse
 #. REC: NPC_:FULL
 msgctxt "000E10"
 msgid "Pilot"
-msgstr ""
+msgstr "조종사"
 
 #. List: 0
 #. EDID: SFFL_R02_TargetNPCF02
 #. REC: NPC_:FULL
 msgctxt "000E11"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiRanged04
 #. REC: NPC_:FULL
 msgctxt "000E12"
 msgid "Adolescent Cataxi Hunter"
-msgstr ""
+msgstr "준성체 카탁시 사냥꾼"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiMelee01
 #. REC: NPC_:FULL
 msgctxt "000E13"
 msgid "Immature Cataxi Warrior"
-msgstr ""
+msgstr "미성숙한 카탁시 병정"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiMelee02
 #. REC: NPC_:FULL
 msgctxt "000E14"
 msgid "Young Cataxi Warrior"
-msgstr ""
+msgstr "유생 카탁시 병정"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiMelee08
 #. REC: NPC_:FULL
 msgctxt "000E15"
 msgid "Adept Cataxi Warrior"
-msgstr ""
+msgstr "노련한 카탁시 병정"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiMelee07
 #. REC: NPC_:FULL
 msgctxt "000E16"
 msgid "Hardened Cataxi Warrior"
-msgstr ""
+msgstr "단단한 카탁시 병정"
 
 #. List: 0
 #. EDID: SFFL_KillianBrice
 #. REC: NPC_:FULL
 msgctxt "000E17"
 msgid "Killian Brice"
-msgstr ""
+msgstr "킬리언 브라이스"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSecurityM01
@@ -4024,28 +4089,28 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "000E19"
 msgid "Anchorpoint Security"
-msgstr ""
+msgstr "앵커포인트 경비대원"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiQueen01
 #. REC: NPC_:FULL
 msgctxt "000E1A"
 msgid "Immature Cataxi Queen"
-msgstr ""
+msgstr "미성숙한 여왕 카탁시"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiQueen06
 #. REC: NPC_:FULL
 msgctxt "000E1B"
 msgid "Mature Cataxi Queen"
-msgstr ""
+msgstr "성숙한 여왕 카탁시"
 
 #. List: 0
 #. EDID: SFFLAsteroidManorShip_AutopilotAI
 #. REC: NPC_:FULL
 msgctxt "000E1C"
 msgid "Pilot"
-msgstr ""
+msgstr "조종사"
 
 #. List: 0
 #. EDID: SFFL_SE_RS02_BarrowJackson
@@ -4059,7 +4124,7 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "000E1E"
 msgid "Barrow Jackson"
-msgstr ""
+msgstr "배로우 잭슨"
 
 #. List: 0
 #. EDID: SFFL_EvanAlonso__AUDIOONLY_NoAppearanceData
@@ -4073,7 +4138,7 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "000E20"
 msgid "Evan Alonso"
-msgstr ""
+msgstr "에반 알론소"
 
 #. List: 0
 #. EDID: SFBGS00D_AsteroidManor_KitchenIsland
@@ -6860,6 +6925,10 @@ msgstr ""
 msgctxt "000FBA"
 msgid "Utility Robot Maintenance\n\nControl Interface version 1.07c\nCopyright Starware Inc. 2285"
 msgstr ""
+"다용도 로봇 유지보수\n"
+"\n"
+"제어 인터페이스 버전 1.07c\n"
+"Copyright Starware Inc. 2285"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_HackedTMLM
@@ -7370,7 +7439,7 @@ msgstr ""
 #. REC: MESG:FULL
 msgctxt "001040"
 msgid "Old Woman"
-msgstr ""
+msgstr "노파"
 
 #. List: 0
 #. EDID: SFFL_MS01_TevatShipName
@@ -8357,28 +8426,28 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "001419"
 msgid "Hardened Cataxi Hunter"
-msgstr ""
+msgstr "단단한 카탁시 사냥꾼"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiMelee03
 #. REC: NPC_:FULL
 msgctxt "00141A"
 msgid "Juvenile Cataxi Warrior"
-msgstr ""
+msgstr "아성체 카탁시 병정"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiMelee05
 #. REC: NPC_:FULL
 msgctxt "00141B"
 msgid "Adult Cataxi Warrior"
-msgstr ""
+msgstr "성체 카탁시 병정"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiQueen08
 #. REC: NPC_:FULL
 msgctxt "00141C"
 msgid "Adept Cataxi Queen"
-msgstr ""
+msgstr "노련한 여왕 카탁시"
 
 #. List: 0
 #. EDID: SFFL_SE_KT01_Announcer_AUDIOONLY_NoAppearanceData
@@ -8392,14 +8461,14 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "00141E"
 msgid "Announcer"
-msgstr ""
+msgstr "안내 방송"
 
 #. List: 0
 #. EDID: SFFLDR027AsteroidMine_AutopilotAI
 #. REC: NPC_:FULL
 msgctxt "00141F"
 msgid "Pilot"
-msgstr ""
+msgstr "조종사"
 
 #. List: 0
 #. EDID: SFFL_GabriellaLeBlanc__AUDIOONLY_NoAppearanceData
@@ -8413,70 +8482,70 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "001421"
 msgid "Gabriella LeBlanc"
-msgstr ""
+msgstr "가브리엘라 르블랑"
 
 #. List: 0
 #. EDID: SFFL_WrenCarr
 #. REC: NPC_:FULL
 msgctxt "001422"
 msgid "Wren Carr"
-msgstr ""
+msgstr "렌 카"
 
 #. List: 0
 #. EDID: SFFL_MS03_CaptorF01
 #. REC: NPC_:FULL
 msgctxt "001423"
 msgid "Captor"
-msgstr ""
+msgstr "인질범"
 
 #. List: 0
 #. EDID: SFFL_MS03_CaptorM02
 #. REC: NPC_:FULL
 msgctxt "001424"
 msgid "Captor"
-msgstr ""
+msgstr "인질범"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiRanged03
 #. REC: NPC_:FULL
 msgctxt "001425"
 msgid "Juvenile Cataxi Hunter"
-msgstr ""
+msgstr "아성체 카탁시 사냥꾼"
 
 #. List: 0
 #. EDID: SFFL_CooperCarr
 #. REC: NPC_:FULL
 msgctxt "001426"
 msgid "Cooper Carr"
-msgstr ""
+msgstr "쿠퍼 카"
 
 #. List: 0
 #. EDID: SFFL_SE_KT02_RichPatron01_AudioOnly
 #. REC: NPC_:FULL
 msgctxt "001427"
 msgid "Tourist"
-msgstr ""
+msgstr "여행객"
 
 #. List: 0
 #. EDID: SFFL_R03_Captain
 #. REC: NPC_:FULL
 msgctxt "001428"
 msgid "Captain"
-msgstr ""
+msgstr "선장"
 
 #. List: 0
 #. EDID: SFFL_ValeriaHahn
 #. REC: NPC_:FULL
 msgctxt "001429"
 msgid "Valeria Hahn"
-msgstr ""
+msgstr "발레리아 한"
 
 #. List: 0
 #. EDID: SFFL_DarcyWeber
 #. REC: NPC_:FULL
 msgctxt "00142A"
 msgid "Darcy Weber"
-msgstr ""
+msgstr "달시 웨버"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSecurityF01
@@ -8490,7 +8559,7 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "00142C"
 msgid "Anchorpoint Security"
-msgstr ""
+msgstr "앵커포인트 경비대원"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointPatronF02
@@ -8504,14 +8573,14 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "00142E"
 msgid "Patron"
-msgstr ""
+msgstr "후원자"
 
 #. List: 0
 #. EDID: SFFL_MS03_Yura
 #. REC: NPC_:FULL
 msgctxt "00142F"
 msgid "Yura"
-msgstr ""
+msgstr "유라"
 
 #. List: 0
 #. EDID: SFFL_SE_EC03_Coachman_Bobby
@@ -9582,56 +9651,56 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "001904"
 msgid "Mature Cataxi Hunter"
-msgstr ""
+msgstr "성숙한 카탁시 사냥꾼"
 
 #. List: 0
 #. EDID: SFFL_SadieCarr
 #. REC: NPC_:FULL
 msgctxt "001905"
 msgid "Sadie Carr"
-msgstr ""
+msgstr "새이디 카"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiRanged01
 #. REC: NPC_:FULL
 msgctxt "001906"
 msgid "Immature Cataxi Hunter"
-msgstr ""
+msgstr "미성숙한 카탁시 사냥꾼"
 
 #. List: 0
 #. EDID: SFFL_RishiSaint
 #. REC: NPC_:FULL
 msgctxt "001907"
 msgid "Rishi Saint"
-msgstr ""
+msgstr "리시 세인트"
 
 #. List: 0
 #. EDID: SFFL_Tiger
 #. REC: NPC_:SHRT
 msgctxt "001908"
 msgid "Tiger"
-msgstr ""
+msgstr "타이거"
 
 #. List: 0
 #. EDID: SFFL_Tiger
 #. REC: NPC_:FULL
 msgctxt "001909"
 msgid "Tiger"
-msgstr ""
+msgstr "타이거"
 
 #. List: 0
 #. EDID: SFBGS00DDR013_Loot_Corpse_WorkerM_NoClothes01
 #. REC: NPC_:SHRT
 msgctxt "00190A"
 msgid "Worker"
-msgstr ""
+msgstr "작업자"
 
 #. List: 0
 #. EDID: SFBGS00DDR013_Loot_Corpse_WorkerM_NoClothes01
 #. REC: NPC_:FULL
 msgctxt "00190B"
 msgid "Worker"
-msgstr ""
+msgstr "작업자"
 
 #. List: 0
 #. EDID: SFFL_BE_EC01_Gloria
@@ -9645,7 +9714,7 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "00190D"
 msgid "Gloria Swansen"
-msgstr ""
+msgstr "글로리아 스완슨"
 
 #. List: 0
 #. EDID: SFFL_SE_EC03_Fanisha
@@ -9659,70 +9728,70 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "00190F"
 msgid "Fanisha Lau"
-msgstr ""
+msgstr "파니샤 라우"
 
 #. List: 0
 #. EDID: SFFL_MS03_OutpostMilliwhale
 #. REC: NPC_:FULL
 msgctxt "001910"
 msgid "Milliwhale Pet"
-msgstr ""
+msgstr "천분고래 애완동물"
 
 #. List: 0
 #. EDID: SFFL_MS03_CaptorF02
 #. REC: NPC_:FULL
 msgctxt "001911"
 msgid "Captor"
-msgstr ""
+msgstr "인질범"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiRanged02
 #. REC: NPC_:FULL
 msgctxt "001913"
 msgid "Young Cataxi Hunter"
-msgstr ""
+msgstr "유생 카탁시 사냥꾼"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiRanged05
 #. REC: NPC_:FULL
 msgctxt "001914"
 msgid "Adult Cataxi Hunter"
-msgstr ""
+msgstr "성체 카탁시 사냥꾼"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiMelee04
 #. REC: NPC_:FULL
 msgctxt "001915"
 msgid "Adolescent Cataxi Warrior"
-msgstr ""
+msgstr "준성체 카탁시 병정"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiQueen04
 #. REC: NPC_:FULL
 msgctxt "001916"
 msgid "Adolescent Cataxi Queen"
-msgstr ""
+msgstr "준성체 여왕 카탁시"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiQueen05
 #. REC: NPC_:FULL
 msgctxt "001917"
 msgid "Adult Cataxi Queen"
-msgstr ""
+msgstr "성체 여왕 카탁시"
 
 #. List: 0
 #. EDID: SFBGS00DDR013Loot_Corpse_WorkerM_Fresh
 #. REC: NPC_:SHRT
 msgctxt "001918"
 msgid "Worker"
-msgstr ""
+msgstr "작업자"
 
 #. List: 0
 #. EDID: SFBGS00DDR013Loot_Corpse_WorkerM_Fresh
 #. REC: NPC_:FULL
 msgctxt "001919"
 msgid "Worker"
-msgstr ""
+msgstr "작업자"
 
 #. List: 0
 #. EDID: SFFL_SE_EC03_MagPulse_Fanisha
@@ -9953,7 +10022,7 @@ msgstr ""
 #. REC: DOOR:FULL
 msgctxt "00193B"
 msgid "Airlock"
-msgstr ""
+msgstr "에어락"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointZ04_CargoModule
@@ -10044,7 +10113,7 @@ msgstr ""
 #. REC: BOOK:ENAM
 msgctxt "00194D"
 msgid "Opal Woods"
-msgstr ""
+msgstr "오팔 우즈"
 
 #. List: 0
 #. EDID: SFFL_MS02_OpalsNote
@@ -11801,7 +11870,7 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "001E8E"
 msgid "Cutty"
-msgstr ""
+msgstr "커티"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointPatronM01
@@ -11815,14 +11884,14 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "001E90"
 msgid "Patron"
-msgstr ""
+msgstr "후원자"
 
 #. List: 0
 #. EDID: SFFL_SE_KT02_TourGuide_AudioOnly
 #. REC: NPC_:FULL
 msgctxt "001E91"
 msgid "Tour Guide"
-msgstr ""
+msgstr "관광 안내원"
 
 #. List: 0
 #. EDID: SFFL_SE_EC07_RubyKrause
@@ -11836,56 +11905,56 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "001E93"
 msgid "Ruby Krause"
-msgstr ""
+msgstr "루비 크라우스"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_SpacerPrisoner
 #. REC: NPC_:FULL
 msgctxt "001E94"
 msgid "Spacer"
-msgstr ""
+msgstr "스페이서"
 
 #. List: 0
 #. EDID: SFFL_MS03_CaptorM01
 #. REC: NPC_:FULL
 msgctxt "001E95"
 msgid "Captor"
-msgstr ""
+msgstr "인질범"
 
 #. List: 0
 #. EDID: SFFL_OpalWoods
 #. REC: NPC_:FULL
 msgctxt "001E96"
 msgid "Opal Woods"
-msgstr ""
+msgstr "오팔 우즈"
 
 #. List: 0
 #. EDID: SFFL_SE03_Hostage01
 #. REC: NPC_:FULL
 msgctxt "001E97"
 msgid "Hostage"
-msgstr ""
+msgstr "인질"
 
 #. List: 0
 #. EDID: SFFL_MS02PartyGuest02
 #. REC: NPC_:FULL
 msgctxt "001E98"
 msgid "Party Guest"
-msgstr ""
+msgstr "파티 손님"
 
 #. List: 0
 #. EDID: SFFL_ChanHuang
 #. REC: NPC_:FULL
 msgctxt "001E99"
 msgid "Chan Huang"
-msgstr ""
+msgstr "챈 황"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiQueen02
 #. REC: NPC_:FULL
 msgctxt "001E9A"
 msgid "Young Cataxi Queen"
-msgstr ""
+msgstr "유생 여왕 카탁시"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointPatronM02
@@ -11899,21 +11968,21 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "001E9C"
 msgid "Patron"
-msgstr ""
+msgstr "후원자"
 
 #. List: 0
 #. EDID: SFFL_R02_TargetNPCF01
 #. REC: NPC_:FULL
 msgctxt "001E9D"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 #. List: 0
 #. EDID: SFFL_SE01_Grandma
 #. REC: NPC_:FULL
 msgctxt "001E9E"
 msgid "Old Woman"
-msgstr ""
+msgstr "노파"
 
 #. List: 0
 #. EDID: SFFL_MS03_Milli
@@ -11927,14 +11996,14 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "001EA0"
 msgid "Milli"
-msgstr ""
+msgstr "천분이"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiQueen03
 #. REC: NPC_:FULL
 msgctxt "001EA1"
 msgid "Juvenile Cataxi Queen"
-msgstr ""
+msgstr "아성체 여왕 카탁시"
 
 #. List: 0
 #. EDID: SFFL_SE_EC02_DaxBurroughs
@@ -11948,7 +12017,7 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "001EA3"
 msgid "Dax Burroughs"
-msgstr ""
+msgstr "닥스 버로스"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_Damage_ranged
@@ -12074,7 +12143,7 @@ msgstr ""
 #. REC: DOOR:FULL
 msgctxt "001EB6"
 msgid "Airlock"
-msgstr ""
+msgstr "에어락"
 
 #. List: 0
 #. EDID: Vendor_SFFL_SE_EC03_BobbyLinkedContainer_3
@@ -12795,28 +12864,28 @@ msgstr ""
 #. REC: NPC_:SHRT
 msgctxt "00233F"
 msgid "Worker"
-msgstr ""
+msgstr "작업자"
 
 #. List: 0
 #. EDID: SFBGS00DDR013Loot_Corpse_WorkerF_Fresh
 #. REC: NPC_:FULL
 msgctxt "002340"
 msgid "Worker"
-msgstr ""
+msgstr "작업자"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_Loot_Corpse_ScientistM_Fresh01
 #. REC: NPC_:SHRT
 msgctxt "002342"
 msgid "Scientist"
-msgstr ""
+msgstr "과학자"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_Loot_Corpse_ScientistM_Fresh01
 #. REC: NPC_:FULL
 msgctxt "002343"
 msgid "Scientist"
-msgstr ""
+msgstr "과학자"
 
 #. List: 0
 #. EDID: SFFL_GusGentry__AUDIOONLY_NoAppearanceData
@@ -12830,14 +12899,14 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "002345"
 msgid "Gus Gentry"
-msgstr ""
+msgstr "거스 젠트리"
 
 #. List: 0
 #. EDID: SFFL_MS02PartyGuest03
 #. REC: NPC_:FULL
 msgctxt "002346"
 msgid "Party Guest"
-msgstr ""
+msgstr "파티 손님"
 
 #. List: 0
 #. EDID: SFFL_SE_EC07_HannahFrye
@@ -12851,35 +12920,35 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "002348"
 msgid "Hannah Frye"
-msgstr ""
+msgstr "한나 프라이"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiRanged08
 #. REC: NPC_:FULL
 msgctxt "002349"
 msgid "Adept Cataxi Hunter"
-msgstr ""
+msgstr "노련한 카탁시 사냥꾼"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiQueen07
 #. REC: NPC_:FULL
 msgctxt "00234A"
 msgid "Hardened Cataxi Queen"
-msgstr ""
+msgstr "단단한 여왕 카탁시"
 
 #. List: 0
 #. EDID: SFFL_MS02PartyGuest01
 #. REC: NPC_:FULL
 msgctxt "00234B"
 msgid "Party Guest"
-msgstr ""
+msgstr "파티 손님"
 
 #. List: 0
 #. EDID: SFFL_R03_FirstMate
 #. REC: NPC_:FULL
 msgctxt "00234C"
 msgid "Comms Officer"
-msgstr ""
+msgstr "통신 장교"
 
 #. List: 0
 #. EDID: SFFL_DanicaVolkov
@@ -12893,21 +12962,21 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "00234E"
 msgid "Danica Volkov"
-msgstr ""
+msgstr "다니카 볼코프"
 
 #. List: 0
 #. EDID: SFFL_SawyerBrooks
 #. REC: NPC_:FULL
 msgctxt "00234F"
 msgid "Sawyer Brooks"
-msgstr ""
+msgstr "소이어 브룩스"
 
 #. List: 0
 #. EDID: SFFL_MS03_RomanKreutz
 #. REC: NPC_:FULL
 msgctxt "002350"
 msgid "Roman Kreutz"
-msgstr ""
+msgstr "로만 크로이츠"
 
 #. List: 0
 #. EDID: SFFL_MilesCutler
@@ -12921,35 +12990,35 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "002352"
 msgid "Miles Cutler"
-msgstr ""
+msgstr "마일스 커틀러"
 
 #. List: 0
 #. EDID: SFFL_R02_TheArbitrator
 #. REC: NPC_:FULL
 msgctxt "002353"
 msgid "The Arbitrator"
-msgstr ""
+msgstr "중재자"
 
 #. List: 0
 #. EDID: SFFL_MS03_Atka
 #. REC: NPC_:FULL
 msgctxt "002354"
 msgid "Atka"
-msgstr ""
+msgstr "아트카"
 
 #. List: 0
 #. EDID: SFFL_MS02PartyGuest04
 #. REC: NPC_:FULL
 msgctxt "002355"
 msgid "Party Guest"
-msgstr ""
+msgstr "파티 손님"
 
 #. List: 0
 #. EDID: SFBGS00D_GravityAirlock__Packin_Fast
 #. REC: PKIN:FULL
 msgctxt "002356"
 msgid "Airlock"
-msgstr ""
+msgstr "에어락"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_PaxtonHull_Sealed
@@ -14447,7 +14516,7 @@ msgstr ""
 #. REC: BOOK:FULL
 msgctxt "002590"
 msgid "Moon Jumper"
-msgstr ""
+msgstr "문 점퍼"
 
 #. List: 0
 #. EDID: SFFL_SE_BBI_DataSlate34
@@ -14538,7 +14607,7 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "0025A5"
 msgid "Milliwhale Pet"
-msgstr ""
+msgstr "천분고래 애완동물"
 
 #. List: 0
 #. EDID: SFFLAnchorpoint_ChanOfficeContainer
@@ -14895,7 +14964,7 @@ msgstr "센서 탐지 대상"
 #. REC: NPC_:FULL
 msgctxt "0025DA"
 msgid "Cutty"
-msgstr ""
+msgstr "커티"
 
 #. List: 0
 #. EDID: scSFFLSE017Location
@@ -15616,7 +15685,7 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "002656"
 msgid "Galbank Captain"
-msgstr ""
+msgstr "갤뱅크 선장"
 
 #. List: 0
 #. EDID: SFFL_MS02_BeerDrink
@@ -15826,7 +15895,7 @@ msgstr ""
 #. REC: FLST:FULL
 msgctxt "006DD0"
 msgid "Airlock"
-msgstr ""
+msgstr "에어락"
 
 #. List: 0
 #. EDID: do_ModMenuSlotKeywordList

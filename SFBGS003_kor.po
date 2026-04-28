@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2026-04-26 17:13+0000\n"
+"PO-Revision-Date: 2026-04-29 16:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -2552,7 +2552,7 @@ msgstr "추적자 동맹 우주복"
 #. REC = MESG:FULL
 msgctxt "000938"
 msgid "Worker"
-msgstr "인부"
+msgstr "작업자"
 
 #. EDID = SFBGS003_BountyTarget_DisplayName_Patron
 #. REC = MESG:FULL
@@ -10206,7 +10206,7 @@ msgstr ""
 #. REC = MESG:DESC
 msgctxt "000939"
 msgid "Worker"
-msgstr "인부"
+msgstr "작업자"
 
 #. EDID = SFBGS003_BountyTarget_DisplayName_Patron
 #. REC = MESG:DESC
@@ -17012,7 +17012,7 @@ msgstr "당신의 조언대로 행동하겠다고 약속하진 못하겠지만, 
 #. REC = INFO:NAM1
 msgctxt "00037C"
 msgid "I once used a monster costume to scare away tourists. I can handle unconventional tactics."
-msgstr "예전에 괴물 코스튬을 입고 관광객들을 쫓아낸 적이 있어... 특이한 전략도 기꺼이 사용하지."
+msgstr "예전에 괴물 코스튬을 입고 여행객들을 쫓아낸 적이 있어... 특이한 전략도 기꺼이 사용하지."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Yama

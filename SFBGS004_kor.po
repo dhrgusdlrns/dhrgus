@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-23 00:19+0900\n"
-"PO-Revision-Date: 2025-03-16 15:43+0000\n"
+"PO-Revision-Date: 2026-04-28 15:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -629,10 +629,10 @@ msgid ""
 "\n"
 "Horn - [VehicleHorn]"
 msgstr ""
-"차량 이용 권한을 해제하려면 함선 정비 기술자를 방문하여 차량을 구매하세요. 그러면 REV-8 및 기타 소유하고 있는 모든 차량을 "
-"이용하고 커스터마이징할 수 있습니다.\n"
+"차량 이용 권한을 얻으려면 함선 정비 기술자를 방문하여 차량을 구매하세요. 그러면 REV-8 및 기타 소유하고 있는 차량을 이용할 수 "
+"있고, 도색을 변경할 수 있습니다.\n"
 "\n"
-"이용 권한을 해제하면 행성에 착륙한 후 자동으로 차량이 내 함선 옆에 나타납니다. 플레이어가 직접 운전할 수 있고 옆에 동료를 태울 수 "
+"이용 권한을 얻었다면, 행성에 착륙한 후 자동으로 차량이 내 함선 옆에 나타납니다. 플레이어가 직접 운전할 수 있고 옆에 동료를 태울 수 "
 "있습니다.\n"
 "\n"
 "설정 메뉴에서 다양한 조종 방식을 선택할 수 있습니다. 가장 마음에 드는 조작 방식을 선택하세요. 자세한 설명은 설정/컨트롤 페이지에 "
@@ -1062,7 +1062,6 @@ msgstr "진짜 잘 쐈어."
 #. EDID: [FE000247]
 #. REC: INFO:NAM1
 #. Speaker: Vasco
-#, fuzzy
 msgctxt "000034"
 msgid "Enemy target locked."
 msgstr "적 목표에 락온했습니다."
@@ -1079,7 +1078,6 @@ msgstr "준비되면 발사."
 #. EDID: [FE000245]
 #. REC: INFO:NAM1
 #. Speaker: Vasco
-#, fuzzy
 msgctxt "000036"
 msgid "Target in range."
 msgstr "목표 범위 안에 들어옴."
@@ -1088,7 +1086,6 @@ msgstr "목표 범위 안에 들어옴."
 #. EDID: [FE000244]
 #. REC: INFO:NAM1
 #. Speaker: Vasco
-#, fuzzy
 msgctxt "000037"
 msgid "Enemy targeted."
 msgstr "적 목표 조준됨."
@@ -1097,7 +1094,6 @@ msgstr "적 목표 조준됨."
 #. EDID: [FE000243]
 #. REC: INFO:NAM1
 #. Speaker: Vasco
-#, fuzzy
 msgctxt "000038"
 msgid "Lock engaged."
 msgstr "락온 중입니다."
@@ -1114,7 +1110,6 @@ msgstr "발사 준비 완료."
 #. EDID: [FE000241]
 #. REC: INFO:NAM1
 #. Speaker: Vasco
-#, fuzzy
 msgctxt "00003A"
 msgid "Lock acquired."
 msgstr "락온 완료됐습니다."
@@ -1163,7 +1158,6 @@ msgstr "준비되면 발사!"
 #. EDID: [FE00023A]
 #. REC: INFO:NAM1
 #. Speaker: ALLCompanions
-#, fuzzy
 msgctxt "000040"
 msgid "Locked on!"
 msgstr "락온!"
@@ -1180,7 +1174,6 @@ msgstr "락온 완료!"
 #. EDID: [FE000238]
 #. REC: INFO:NAM1
 #. Speaker: ALLCompanions
-#, fuzzy
 msgctxt "000042"
 msgid "We've got a lock!"
 msgstr "락온됨!"
@@ -1695,7 +1688,6 @@ msgstr "침수에 대비하십시오."
 #. EDID: [FE0001E3]
 #. REC: INFO:NAM1
 #. Speaker: Vasco
-#, fuzzy
 msgctxt "000081"
 msgid "I will send out a signal to repel any aquatic life."
 msgstr "수생 생물 퇴치 신호를 내보내겠습니다."
@@ -1787,7 +1779,6 @@ msgstr "항상 항해를 하고 싶었어. 이렇게 하게 될 줄은 상상도
 #. EDID: [FE0001D7]
 #. REC: INFO:NAM1
 #. Speaker: SarahMorgan
-#, fuzzy
 msgctxt "00008C"
 msgid "Going for a swim, I take it."
 msgstr "수영하러 가자고."
@@ -1981,7 +1972,6 @@ msgstr "어차피 이 옷 세탁하려고 했어."
 #. EDID: [FE0001BD]
 #. REC: INFO:NAM1
 #. Speaker: Barrett
-#, fuzzy
 msgctxt "0000A4"
 msgid "I always thought this ride was part submarine."
 msgstr "나는 항상 이 차가 잠수함의 일부였다고 생각했어."
@@ -3180,7 +3170,6 @@ msgstr "녀석들 죽고 싶어서 안달 난 거 같아."
 #. EDID: [FE000124]
 #. REC: INFO:NAM1
 #. Speaker: Andreja
-#, fuzzy
 msgctxt "000137"
 msgid "As they say, sometimes you're the bug."
 msgstr "요즘 말에, 가끔은 네가 벌레처럼 될 수도 있다는 말이 있지."
@@ -3632,10 +3621,9 @@ msgstr "이거 소리가 안 좋은데."
 #. EDID: [FE0000EC]
 #. REC: INFO:NAM1
 #. Speaker: Andreja
-#, fuzzy
 msgctxt "00016F"
 msgid "Ugh! Try to steer clear of the mines!"
-msgstr "으악! 지뢰를 피해서 운전대 돌려!"
+msgstr "윽! 핸들 돌려! 지뢰야!"
 
 #. List: 2
 #. EDID: [FE0000EB]
@@ -3731,7 +3719,6 @@ msgstr "내가 '지뢰 조심해'라고 말하려고 했거든, 근데 생각해
 #. EDID: [FE0000DF]
 #. REC: INFO:NAM1
 #. Speaker: Barrett
-#, fuzzy
 msgctxt "00017B"
 msgid "I felt that one in my back."
 msgstr "등 뒤에 뭔가 느껴졌어."
@@ -3740,7 +3727,6 @@ msgstr "등 뒤에 뭔가 느껴졌어."
 #. EDID: [FE0000DE]
 #. REC: INFO:NAM1
 #. Speaker: Barrett
-#, fuzzy
 msgctxt "00017C"
 msgid "Hold it together, old girl!"
 msgstr "정신 차려! 아줌마!"
@@ -4021,7 +4007,6 @@ msgstr "금방 도착할 거야."
 #. EDID: [FE0000B7]
 #. REC: INFO:NAM1
 #. Speaker: Andreja
-#, fuzzy
 msgctxt "00019F"
 msgid "Boosting gives me such a rush."
 msgstr "부스터를 쓰면 마음이 긴박해지더라."
@@ -4062,7 +4047,6 @@ msgstr "모든 시스템 정상."
 #. EDID: [FE0000B2]
 #. REC: INFO:NAM1
 #. Speaker: Andreja
-#, fuzzy
 msgctxt "0001A4"
 msgid "We are better when we are faster."
 msgstr "빠를수록 좋은 거지."
@@ -4127,7 +4111,6 @@ msgstr "전속력으로 전진!"
 #. EDID: [FE000283]
 #. REC: INFO:NAM1
 #. Speaker: Barrett
-#, fuzzy
 msgctxt "0001AC"
 msgid "Do you feel that momentum!? Yeeeow, baby!"
 msgstr "가속도가 느껴져? 야호! 베이비!"
@@ -4136,7 +4119,6 @@ msgstr "가속도가 느껴져? 야호! 베이비!"
 #. EDID: [FE0000A9]
 #. REC: INFO:NAM1
 #. Speaker: Barrett
-#, fuzzy
 msgctxt "0001AD"
 msgid "And we have lift off!"
 msgstr "이륙하는 느낌이야!"
@@ -4161,7 +4143,6 @@ msgstr "페달을 밟아 봐!"
 #. EDID: [FE0000A5]
 #. REC: INFO:NAM1
 #. Speaker: SamCoe
-#, fuzzy
 msgctxt "0001B0"
 msgid "That's putting it in gear."
 msgstr "기어를 넣어."
@@ -4202,7 +4183,6 @@ msgstr "모자 꽉 잡아!"
 #. EDID: [FE0000A0]
 #. REC: INFO:NAM1
 #. Speaker: SamCoe
-#, fuzzy
 msgctxt "0001B5"
 msgid "Punching it!"
 msgstr "뚫어 버려!"
@@ -4219,7 +4199,6 @@ msgstr "쏜살같이 가자."
 #. EDID: [FE00009E]
 #. REC: INFO:NAM1
 #. Speaker: SamCoe
-#, fuzzy
 msgctxt "0001B7"
 msgid "God's speed."
 msgstr "안전을 빌어."

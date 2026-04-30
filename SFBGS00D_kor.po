@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-04-29 16:44+0000\n"
+"PO-Revision-Date: 2026-05-02 17:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -1782,28 +1782,28 @@ msgstr "카루소의 고백"
 #. REC: BOOK:FULL
 msgctxt "0005A4"
 msgid "Relaxation Tape Vol. 1"
-msgstr ""
+msgstr "휴식을 위한 테이프 1편"
 
 #. List: 0
 #. EDID: SFFL_MS01_CellActivatorYeats
 #. REC: ACTI:ATTX
 msgctxt "0005A5"
 msgid "Talk"
-msgstr ""
+msgstr "말하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_CellActivatorYeats
 #. REC: ACTI:FULL
 msgctxt "0005A6"
 msgid "Prisoner"
-msgstr ""
+msgstr "죄수"
 
 #. List: 0
 #. EDID: SFFL_MS01_NewBabylonFaction
 #. REC: FACT:FULL
 msgctxt "0005A7"
 msgid "New Babylon Faction"
-msgstr ""
+msgstr "뉴바빌론 세력"
 
 #. List: 0
 #. EDID: mod_AVM_Beowulf_SFBGS00D_Constellation
@@ -1880,28 +1880,28 @@ msgstr "종료"
 #. REC: MESG:ITXT
 msgctxt "0005F8"
 msgid "Exonerate"
-msgstr ""
+msgstr "무죄"
 
 #. List: 0
 #. EDID: SFFL_MS01_VotingMessageBox
 #. REC: MESG:ITXT
 msgctxt "0005F9"
 msgid "Exile"
-msgstr ""
+msgstr "추방"
 
 #. List: 0
 #. EDID: SFFL_MS01_VotingMessageBox
 #. REC: MESG:ITXT
 msgctxt "0005FA"
 msgid "Execution"
-msgstr ""
+msgstr "처형"
 
 #. List: 0
 #. EDID: SFFL_MS01_VotingMessageBox
 #. REC: MESG:FULL
 msgctxt "0005FB"
 msgid "Ballot Box"
-msgstr ""
+msgstr "투표함"
 
 #. List: 0
 #. EDID: SFFL_MS01_Location_TestCell
@@ -1922,91 +1922,91 @@ msgstr "잠금 해제"
 #. REC: PERK:FULL
 msgctxt "0005FF"
 msgid "Activation Choice Perk"
-msgstr ""
+msgstr "작동 선택 특성"
 
 #. List: 0
 #. EDID: SFFL_MS01_PrisonCellKeycard
 #. REC: KEYM:FULL
 msgctxt "00075A"
 msgid "New Babylon Prison Keycard"
-msgstr ""
+msgstr "뉴바빌론 감옥 키카드"
 
 #. List: 0
 #. EDID: SFBGS00D_BallotBox
 #. REC: CONT:FULL
 msgctxt "00075B"
 msgid "Ballot Box"
-msgstr ""
+msgstr "투표함"
 
 #. List: 0
 #. EDID: SFFL_MS01_Note_ExecutionVote
 #. REC: BOOK:FULL
 msgctxt "00075D"
 msgid "Vote - Execution"
-msgstr ""
+msgstr "투표 - 처형"
 
 #. List: 0
 #. EDID: SFFL_MS01_Note_ExonerateVote
 #. REC: BOOK:FULL
 msgctxt "00075F"
 msgid "Vote - Exonerate"
-msgstr ""
+msgstr "투표 - 무죄"
 
 #. List: 0
 #. EDID: SFFL_MS01_Note_ExileVote
 #. REC: BOOK:FULL
 msgctxt "000761"
 msgid "Vote - Exile"
-msgstr ""
+msgstr "투표 - 추방"
 
 #. List: 0
 #. EDID: SFFL_MS01_ParadisoTimeshare
 #. REC: BOOK:FNAM
 msgctxt "000764"
 msgid "Join our community today!\n"
-msgstr ""
+msgstr "지금 바로 우리 커뮤니티에 들어오세요!\n"
 
 #. List: 0
 #. EDID: SFFL_MS01_ParadisoTimeshare
 #. REC: BOOK:ENAM
 msgctxt "000765"
 msgid "Paradiso Retirement Resort"
-msgstr ""
+msgstr "파라디소 은퇴자 리조트"
 
 #. List: 0
 #. EDID: SFFL_MS01_ParadisoTimeshare
 #. REC: BOOK:FULL
 msgctxt "000767"
 msgid "Paradiso Resort Advertisement"
-msgstr ""
+msgstr "파라디소 리조트 광고"
 
 #. List: 0
 #. EDID: SFFL_MS01_BallotBoxActivator
 #. REC: ACTI:ATTX
 msgctxt "000768"
 msgid "Vote"
-msgstr ""
+msgstr "투표"
 
 #. List: 0
 #. EDID: SFFL_MS01_BallotBoxActivator
 #. REC: ACTI:FULL
 msgctxt "000769"
 msgid "Ballot Box"
-msgstr ""
+msgstr "투표함"
 
 #. List: 0
 #. EDID: SFFL_MS01_CellActivatorCaruso
 #. REC: ACTI:ATTX
 msgctxt "00076A"
 msgid "Talk"
-msgstr ""
+msgstr "말하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_CellActivatorCaruso
 #. REC: ACTI:FULL
 msgctxt "00076B"
 msgid "Prisoner"
-msgstr ""
+msgstr "죄수"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
@@ -2014,13 +2014,16 @@ msgstr ""
 msgctxt "00076C"
 msgid "The challenge of developing on a barely habitable planet is one that the team at Project Shinar are willing and excited to undertake.\n\nThe studies and results that come from this experiment will no doubt pave the way for future exploration."
 msgstr ""
+"거주가 거의 불가능한 행성을 개발하는 일. 시날 프로젝트 팀은 기꺼이, 그리고 즐겁게 그 역경에 도전합니다.\n"
+"\n"
+"이 실험을 통해 얻게 될 연구 결과들은 분명 미래에 탐사의 길을 열어줄 겁니다."
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
 #. REC: TMLM:ITXT
 msgctxt "00076D"
 msgid "Project Goal: Inhabit a Class B-H Planet"
-msgstr ""
+msgstr "프로젝트 목표: B-H형 행성 거주 실현"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_TMLM
@@ -2028,13 +2031,24 @@ msgstr ""
 msgctxt "00076E"
 msgid "During pregnancy, the amount of blood in your body increases by about 20-30 percent, which increases the supply of iron and vitamins that the body needs to make hemoglobin. \n\nMy hypothesis is that something about the environment here affects the overall blood volume, which negates pregnancies. Caspian is the exception, albeit his mother was already pregnant when she arrived. Tests show he has a rare blood type, Rh-null. I wonder if that's the key?\n\nFrom a funding perspective, I can convince the suits the value of such a study. We need to know how birth rates are affected by the gravity, air composition, and food of this orbital.\n\nMy sources tell me there are many corporations looking to expand their operations by \"colonizing\" habitable planets. A practice which can be legally justified since they are not under the jurisdiction of any government."
 msgstr ""
+"임신 중에는 체내 혈액량이 약 20~30% 증가하며, 이에 따라 헤모글로빈 생성에 필요한 철분과 비타민 공급도 늘어납니다.\n"
+"\n"
+"이곳 환경의 무언가가 전체 혈액량에 영향을 미쳐 임신을 방해한다는 것이 제가 세운 가설입니다. 캐스피언은 예외 사례입니다. 캐스피언의 "
+"어머니는 이곳에 도착했을 당시 이미 캐스피언을 임신한 상태였지만. 검사 결과 캐스피언의 어머니는 희귀 혈액형인 Rh-null형이었습니다. "
+"이것이 해답의 열쇠인 걸까요?\n"
+"\n"
+"자금 확보의 측면에서 보면, 경영진에게 이 연구가 가치 있다는 걸 믿게 만들 수 있을 겁니다. 이곳 궤도의 중력, 대기 성분, 식량이 "
+"출생률에 어떤 영향을 미쳤는지 알아내야 합니다.\n"
+"\n"
+"제 정보원에 따르면, 거주 적합 행성의 \"식민지화\"를 통해 사업을 확장하려는 기업이 많다고 합니다. 어떤 정부의 관할에도 속하지 않을 "
+"테니 법적으로 충분히 정당화할 수 있겠죠."
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_TMLM
 #. REC: TMLM:ITXT
 msgctxt "00076F"
 msgid "Grant Proposal - Birth Rates and Blood Types"
-msgstr ""
+msgstr "보조금 지원서 - 출생률과 혈액형"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_TMLM
@@ -2042,13 +2056,21 @@ msgstr ""
 msgctxt "000770"
 msgid "New Babylon has been through a lot in the years before my arrival. The death of their leader, Alphonse Roberson (Caspian's father), and the mass exodus of half the citizens would have normally been a death sentence for the outpost.\n\nBut Zena's leadership has kept the ship afloat, somehow, someway. Yet the most interesting aspect of New Babylon from a research perspective relates to the conditions here and its effect on birth rates.\n\nMany of those who left in the exodus were couples. During their time here, not a single one was able to give birth to a child. Once they left the planet, they were able to grow their families quite extensively, according to my research."
 msgstr ""
+"내가 도착하기 전에 뉴바빌론에는 많은 일이 일어났다. 지도자 알폰스 로버슨(캐스피언의 아버지)이 죽었고, 주민 절반가량이 대거 이탈했다. "
+"보통이라면 전초기지에 사형선고가 내려진 것이나 다름없었을 것이다.\n"
+"\n"
+"하지만 제나의 지도력 덕분에 이곳은 어떻게든 유지됐다. 연구자 시점에서 뉴바빌론의 가장 흥미로운 점은 이 환경이 출생률에 미치는 영향이다."
+"\n"
+"\n"
+"대거 이탈 당시 떠난 이들 중 상당수는 부부였다. 내 연구에 따르면, 이곳에 있는 동안에는 단 한 명도 아이를 낳지 못했다. 그러나 "
+"행성을 떠나자 가족 수를 상당히 늘릴 수 있었다."
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_TMLM
 #. REC: TMLM:ITXT
 msgctxt "000771"
 msgid "New Babylon History"
-msgstr ""
+msgstr "뉴바빌론의 역사"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_PLogs_TMLM
@@ -2056,13 +2078,21 @@ msgstr ""
 msgctxt "000772"
 msgid "My sister's attitude is infuriating. I know part of it is just an act, but perception trumps reality. If the group thinks she doesn't pull her own weight, then that narrative will lead to a lot of resentment, and that's going to reflect poorly on me.\n\nShe doesn't ever think about how much of a burden it is for me to have her as my sister, especially given her past chem use and trouble with the law.\n\nI just hope she doesn't relapse. Part of the reason I keep the chems under lock and key is for her protection, and mine."
 msgstr ""
+"여동생의 행동거지 때문에 정말 화가 난다. 어느 정도는 연기라는 걸 알지만, 인식이 현실을 이기는 법이다. 모두가 여동생이 제 몫을 하지 "
+"않는다고 생각하게 되면, 그 소문이 큰 반감으로 이어질 테고, 결국 나에게까지 좋지 않은 영향을 미칠 거다.\n"
+"\n"
+"내 여동생이 저런 녀석이라는 게 나에게 얼마나 큰 부담이 되는지 여동생은 전혀 생각하지 못할 거다. 과거 여동생이 일으켰던 약물 문제나 "
+"법적 문제를 생각하면...\n"
+"\n"
+"여동생의 나쁜 버릇이 재발하지나 않았으면 좋겠다. 약물들을 자물쇠로 잠가 보관해둔 건 여동생을 보호하기 위해서이기도 하지만, 일정 부분은 "
+"나를 위해서 한 짓이기도 하다."
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_PLogs_TMLM
 #. REC: TMLM:ITXT
 msgctxt "000773"
 msgid "Sunni's Attitude"
-msgstr ""
+msgstr "순이의 행동거지"
 
 #. List: 0
 #. EDID: SFFL_MS01_Zena_TMLM
@@ -2070,13 +2100,18 @@ msgstr ""
 msgctxt "000774"
 msgid "It gives me no comfort to say this, but we've decided to evacuate Shinar for good.\n\nWithout an influx of aid, the outpost would not have lasted another year, and I don't want to inflict any further hardship on the people here.\n\nAlphonse, I'm sorry. It was a worthwhile pursuit. But a dream we could never realize.\n"
 msgstr ""
+"이런 말을 하고 싶진 않지만, 시날에서 완전히 철수하기로 결정했다.\n"
+"\n"
+"소모품 지원이 없었으면, 이 전초기지는 1년도 버티지 못했을 거다. 이곳 사람들에게 더 이상 고난을 겪게 하고 싶지 않다.\n"
+"\n"
+"알폰스, 미안해. 시도 자체는 가치가 있었어. 하지만 결코 실현할 수 없는 꿈이었어.\n"
 
 #. List: 0
 #. EDID: SFFL_MS01_Zena_TMLM
 #. REC: TMLM:ITXT
 msgctxt "000775"
 msgid "Evacuation"
-msgstr ""
+msgstr "철수"
 
 #. List: 0
 #. EDID: SFFL_MS01_Zena_TMLM
@@ -2084,13 +2119,21 @@ msgstr ""
 msgctxt "000776"
 msgid "It seems tacky, but it checks some of the boxes, and most importantly, it's what I can afford.\n\nI wonder what kind of flowers bloom there. Maybe there's a community garden. What sweet smells I'll be able to experience, what incandescent flavors will I be able to taste?\n\nFor so long I have toiled on the business of New Babylon, thinking of nothing but survival. How I would love to exercise my mind, to be a writer again. Supervising and managing has taught me a lot, and guiding the people here has been rewarding. But it's not how I'd like to spend my final years.\n\nCall me selfish, but I feel such selfishness is warranted."
 msgstr ""
+"좀 엉성해 보이긴 하지만, 갖출 건 다 갖췄다. 내가 가진 예산으로는, 이게 최선의 선택이기도 하고.\n"
+"\n"
+"그곳에는 어떤 꽃이 필까. 공용 정원이 있을지도 모른다. 어떤 달콤한 향기를 경험하게 될까? 어떤 강렬한 맛을 느끼게 될까?\n"
+"\n"
+"오랫동안 생존만 생각하며, 뉴바빌론 일에 매달렸다. 다시 작가로서 생각을 자유롭게 펼쳐보고 싶다. 관리 감독 일을 하면서 많은 걸 "
+"배웠고, 이곳 사람들을 이끌며 보람도 느꼈다. 하지만 남은 세월을 그렇게 보내고 싶지는 않다.\n"
+"\n"
+"이기적이라 해도 좋다. 그 정도 이기심은 부릴 자격이 있다고 생각한다."
 
 #. List: 0
 #. EDID: SFFL_MS01_Zena_TMLM
 #. REC: TMLM:ITXT
 msgctxt "000777"
 msgid "Paradiso Retirement Resort"
-msgstr ""
+msgstr "파라디소 은퇴자 리조트"
 
 #. List: 0
 #. EDID: SFFL_MS01_Zena_TMLM
@@ -2098,13 +2141,24 @@ msgstr ""
 msgctxt "000778"
 msgid "It's time. \n\nNew Babylon has meant a lot to me, but its daily trivialities make it so I can't write. And I need peace and quiet and solitude to write. I need it to do the experiences and people in my life justice.\n\nI want a quiet place. Somewhere I can hear the soft lapping of the waves, and write my memoirs with an eager but respectful hand.\n\nThankfully Hal's arrival has given me an out. He's taken on the role of leader, and for the first time I can see a way for me to retire. It'll need to be a vote of course. Democracy will have its say, but I'm confident with my endorsement, Hal will win.\n\nThat isn't to say I won't miss this place. My hope is I'll come back every few years to see how far it's come under Hal's guidance."
 msgstr ""
+"때가 됐다.\n"
+"\n"
+"뉴바빌론은 나에게 소중한 곳이지만, 일상의 잡일들 때문에 도무지 글을 쓸 수가 없다. 글을 쓰려면 평온과 고독이 필요하다. 내 인생 "
+"경험과 만났던 사람들을 있는 그대로 담아내려면 말이다.\n"
+"\n"
+"조용한 곳이 좋겠다. 잔잔한 파도 소리를 들으며 열의와 경의를 담아 회고록을 쓸 수 있는 곳.\n"
+"\n"
+"다행히 여기 온 할이 나에게 탈출구를 마련해 줬다. 할이 지도자 역할을 맡으면서, 이제 은퇴할 수 있을 거 같다. 물론 투표가 필요하다. "
+"민주주의가 판단하겠지만, 내가 지지해 주면 할이 당선될 거다.\n"
+"\n"
+"그렇다고 이곳이 그립지 않을 거라는 뜻은 아니다. 몇 년마다 돌아와서 할의 지도력 아래 얼마나 발전했는지 보고 싶다."
 
 #. List: 0
 #. EDID: SFFL_MS01_Zena_TMLM
 #. REC: TMLM:ITXT
 msgctxt "000779"
 msgid "Retirement"
-msgstr ""
+msgstr "은퇴"
 
 #. List: 0
 #. EDID: SFFL_MS01_Zena_TMLM
@@ -2112,384 +2166,400 @@ msgstr ""
 msgctxt "00077A"
 msgid "We had such dreams when we first arrived. Caspian was born in the first month, the first citizen of this new and uncharted world.\n\nHis father, Alphonse, was the leader at the time, and my mentor. I remember him telling me he was the first of many. The idea was to someday transform this place into a thriving rest stop, an oasis in the vast, endless vacuum of space. But as much as a visionary as my mentor was, ultimately he could not see the vastness of the step in front of him. He needed to step, but he always wanted to leap.\n\nYears later, and Caspian is still the only child to have been born in New Babylon. And since I have taken over, I've pared down our goals to something more realistic -- sustainability and moderate growth. Still, over the years many of the citizens have left to greener pastures. After the last exodus, I worried the outpost would be abandoned. \n\nBut in the past two years, we've begun to grow again. Slowly but surely, bringing in new folks from the outside, we hope to lay the foundation for the future. This land is still fertile and full of possibilities, we just need to keep expanding through continued recruitment. And perhaps one day, New Babylon will be the place Alphonse envisioned -- a thriving, city-sized rest stop for truckers and tourists alike.\n\nWe plant these seeds in the winter, so they may sprout in the spring."
 msgstr ""
+"처음 도착했을 때 우리에게는 꿈이 있었다. 첫 달에 캐스피언이 태어났다. 이 새로운 미지의 세계 최초의 주민이 된 것이다.\n"
+"\n"
+"캐스피언이 태어났을 때 캐스피언의 아버지 알폰스는 이곳의 지도자이자 나의 스승이었다. 알폰스는 자신이 앞으로 나타날 수많은 이들 중 첫 "
+"번째일 뿐이라고 말하곤 했지. 알폰스는 이곳을 언젠가 번영하는 휴게소로, 끝없이 펼쳐진 광활한 진공 우주 속 오아시스로 탈바꿈시키겠다는 "
+"생각을 품고 있었어. 그러나 나의 스승은 훌륭한 선구자였지만, 결국 눈앞으로 한걸음 내딛는 과정이 생각보다 훨씬 무겁고 힘들다는 걸 "
+"똑바로 보진 못했지. 한 걸음씩 나아가야 했지만, 알폰스는 항상 뛰어넘기를 원했어.\n"
+"\n"
+"수년이 지났지만, 뉴바빌론에서 태어난 아이는 여전히 캐스피언 단 한 명뿐이야. 나는 지도자를 맡은 이후, 목표를 현실적인 수준으로 "
+"낮췄어. 지속 가능성과 완만한 성장에 치중하기로 했지. 그런데도 몇 년 동안 많은 주민들이 더 나은 곳을 찾아 떠났어. 마지막 대량 이탈 "
+"이후에는 전초기지가 버려지지 않을까 걱정될 정도였지.\n"
+"\n"
+"그래도 지난 2년간 다시 성장하기 시작했어. 느리지만 확실하게, 외부에서 새로운 사람들을 데려오며 미래의 기반을 다져야겠어. 이 땅은 "
+"여전히 비옥하고 가능성이 넘쳐. 계속 모집해서 확장하기만 하면 돼. 그러면 언젠가 뉴바빌론은 알폰스가 꿈꿨던 곳이 될지도 모르지. "
+"번성해서, 화물선과 관광객 모두가 만족하는, 도시 규모의 휴게소.\n"
+"\n"
+"우리는 겨울에 씨를 뿌리는 거야. 봄에 싹이 트도록."
 
 #. List: 0
 #. EDID: SFFL_MS01_Zena_TMLM
 #. REC: TMLM:ITXT
 msgctxt "00077B"
 msgid "New Eden"
-msgstr ""
+msgstr "새로운 에덴"
 
 #. List: 0
 #. EDID: SFFL_MS01_Zena_TMLM
 #. REC: TMLM:FULL
 msgctxt "00077C"
 msgid "Zena Hield's Computer"
-msgstr ""
+msgstr "제나 힐드의 컴퓨터"
 
 #. List: 0
 #. EDID: SFFL_MS01_VotingMessageBox
 #. REC: MESG:ITXT
 msgctxt "00077D"
 msgid "Abstain"
-msgstr ""
+msgstr "제나 힐드의 컴퓨터"
 
 #. List: 0
 #. EDID: SFFL_MS01_SpeechChallenge_Caspian
 #. REC: QUST:FULL
 msgctxt "00079E"
 msgid "Caspian Speech Challenges"
-msgstr ""
+msgstr "캐스피언 설득 도전"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000909"
 msgid "Leave Caruso to die"
-msgstr ""
+msgstr "카루소를 죽게 내버려 두기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00090A"
 msgid "Execute Hal Caruso"
-msgstr ""
+msgstr "할 카루소 처형하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00090B"
 msgid "Escort Caruso to Shinar"
-msgstr ""
+msgstr "카루소를 시날까지 호위하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00090C"
 msgid "Talk to Hal Caruso"
-msgstr ""
+msgstr "할 카루소와 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00090D"
 msgid "Talk to Zena"
-msgstr ""
+msgstr "제나와 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00090E"
 msgid "Wait for the results"
-msgstr ""
+msgstr "결과가 나올 때까지 기다리기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00090F"
 msgid "(Optional) Rig the Vote"
-msgstr ""
+msgstr "(선택) 투표 조작하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000910"
 msgid "Cast a Vote"
-msgstr ""
+msgstr "투표하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000911"
 msgid "Take a seat"
-msgstr ""
+msgstr "자리에 앉기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000912"
 msgid "Talk to Zena"
-msgstr ""
+msgstr "제나와 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000913"
 msgid "Go to the Community Center"
-msgstr ""
+msgstr "커뮤니티 센터로 가기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000914"
 msgid "Talk to Caruso before the vote"
-msgstr ""
+msgstr "투표 전 카루소와 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000915"
 msgid "Return to the New Babylon Outpost"
-msgstr ""
+msgstr "뉴바빌론 전초기지로 돌아가기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000916"
 msgid "(Optional) Talk to the residents about the vote"
-msgstr ""
+msgstr "(선택) 투표에 대해 주민들과 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000917"
 msgid "Talk to Bernhard"
-msgstr ""
+msgstr "버나드와 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000918"
 msgid "Sleep and Await the Trial"
-msgstr ""
+msgstr "잠자리에 들기, 재판 기다리기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000919"
 msgid "Talk to Zena"
-msgstr ""
+msgstr "제나와 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00091A"
 msgid "Find Caruso"
-msgstr ""
+msgstr "카루소 찾기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00091B"
 msgid "Talk to Yeats"
-msgstr ""
+msgstr "예이츠와 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00091C"
 msgid "Clear Yeats from any wrongdoing"
-msgstr ""
+msgstr "예이츠의 무죄 증명하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00091D"
 msgid "Locate the stolen supplies"
-msgstr ""
+msgstr "도난 물자 찾기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00091E"
 msgid "Confront Grace Kim with the Computer Evidence"
-msgstr ""
+msgstr "컴퓨터 증거로 그레이스 킴 추궁하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00091F"
 msgid "Find additional evidence"
-msgstr ""
+msgstr "추가 증거 찾기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000920"
 msgid "Talk to Grace Kim"
-msgstr ""
+msgstr "그레이스 킴과 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000921"
 msgid "(Optional) Interrogate potential suspects"
-msgstr ""
+msgstr "(선택) 용의자 심문하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000922"
 msgid "Bring the evidence to Caruso"
-msgstr ""
+msgstr "카루소에게 증거 전달하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000923"
 msgid "Check the dumpster for evidence"
-msgstr ""
+msgstr "쓰레기통에서 증거 찾아보기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000924"
 msgid "Talk to Caspian"
-msgstr ""
+msgstr "캐스피언과 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000925"
 msgid "Question the guard about the stolen supplies"
-msgstr ""
+msgstr "도난 물자에 대해 경비원에게 질문하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000926"
 msgid "Talk to Yeats"
-msgstr ""
+msgstr "예이츠와 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000927"
 msgid "Talk to Caruso"
-msgstr ""
+msgstr "카루소와 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000928"
 msgid "(OPTIONAL) Use the Magnet to Permanently Disable the Robot"
-msgstr ""
+msgstr "(선택) 자석으로 로봇을 영구적으로 비활성화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000929"
 msgid "Deliver the parts to Ivica"
-msgstr ""
+msgstr "이비카에게 부품 전달하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00092A"
 msgid "Loot the utility robot"
-msgstr ""
+msgstr "다용도 로봇에서 물품 챙기기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00092B"
 msgid "(Optional) Steal or craft a power cell"
-msgstr ""
+msgstr "(선택) 파워 셀을 훔치거나 제작하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00092C"
 msgid "(Optional) Craft or steal a power cell"
-msgstr ""
+msgstr "(선택) 파워 셀을 제작하거나 훔치기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00092D"
 msgid "Power the Robot"
-msgstr ""
+msgstr "로봇의 전원 켜기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00092E"
 msgid "Talk to Ivica about the Model A"
-msgstr ""
+msgstr "이비카와 모델 A에 대해 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "00092F"
 msgid "Talk to Zena"
-msgstr ""
+msgstr "제나와 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000930"
 msgid "Talk with Caruso about the Outpost's needs"
-msgstr ""
+msgstr "전초기지에 필요한 것에 대해 카루소와 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000931"
 msgid "(Optional) Investigate Caruso's body"
-msgstr ""
+msgstr "(선택) 카루소의 신체 조사하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000932"
 msgid "Exit the Tent"
-msgstr ""
+msgstr "텐트 밖으로 나가기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000933"
 msgid "Kill Caruso"
-msgstr ""
+msgstr "카루소 죽이기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000934"
 msgid "Follow Caruso"
-msgstr ""
+msgstr "카루소 따라가기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000935"
 msgid "Find Caruso"
-msgstr ""
+msgstr "카루소 찾기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000936"
 msgid "Follow Caruso's last known coordinates"
-msgstr ""
+msgstr "카루소가 마지막으로 확인된 좌표로 가기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:NNAM
 msgctxt "000937"
 msgid "Investigate the Shinar Outpost"
-msgstr ""
+msgstr "시날 전초기지 조사하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
 #. REC: QUST:FULL
 msgctxt "00093C"
 msgid "Help Wanted"
-msgstr ""
+msgstr "구인 광고"
 
 #. List: 0
 #. EDID: SFFL_MS01_ZenaHield
 #. REC: NPC_:SHRT
 msgctxt "00093D"
 msgid "Zena "
-msgstr ""
+msgstr "제나 "
 
 #. List: 0
 #. EDID: SFFL_MS01_Sheila_AUDIOONLY_NoAppearanceData
 #. REC: NPC_:SHRT
 msgctxt "00093E"
 msgid "Sheila"
-msgstr ""
+msgstr "쉴라"
 
 #. List: 0
 #. EDID: SFFL_MS01_Sheila_AUDIOONLY_NoAppearanceData
@@ -2503,56 +2573,56 @@ msgstr "쉴라 코스타스"
 #. REC: CONT:FULL
 msgctxt "000940"
 msgid "Reliant Medical: Gagarin Vendor Storage"
-msgstr ""
+msgstr "릴라이언트 메디컬: 가가린 상인 보관함"
 
 #. List: 0
 #. EDID: SFFL_MS01_Vendor_IvicaContainer
 #. REC: CONT:FULL
 msgctxt "000941"
 msgid "Vendor Storage"
-msgstr ""
+msgstr "상인 보관함"
 
 #. List: 0
 #. EDID: SFFL_MS01_ShinarAudioSlate01
 #. REC: BOOK:FULL
 msgctxt "000943"
 msgid "Shinar Audio Recording #1"
-msgstr ""
+msgstr "시날 음성 기록 #1"
 
 #. List: 0
 #. EDID: SFFL_MS01_ShinarAudioSlate02
 #. REC: BOOK:FULL
 msgctxt "000945"
 msgid "Shinar Audio Recording #2"
-msgstr ""
+msgstr "시날 음성 기록 #2"
 
 #. List: 0
 #. EDID: SFFL_MS01_ShinarAudioSlate03
 #. REC: BOOK:FULL
 msgctxt "000947"
 msgid "Shinar Audio Recording #3"
-msgstr ""
+msgstr "시날 음성 기록 #3"
 
 #. List: 0
 #. EDID: SFFL_MS01_RelaxationTape02
 #. REC: BOOK:FULL
 msgctxt "000949"
 msgid "Relaxation Tape Vol. 2"
-msgstr ""
+msgstr "휴식을 위한 테이프 2편"
 
 #. List: 0
 #. EDID: SFFL_MS01_Vendor_StandardFaction
 #. REC: FACT:FULL
 msgctxt "00094A"
 msgid "Vendor Chest"
-msgstr ""
+msgstr "Vendor Chest"
 
 #. List: 0
 #. EDID: SFFL_MS01_Vendor_DoctorFaction
 #. REC: FACT:FULL
 msgctxt "00094B"
 msgid "Vendor Chest"
-msgstr ""
+msgstr "Vendor Chest"
 
 #. List: 0
 #. EDID: mod_AVM_Bridger_SFBGS00D_Gilded
@@ -2608,21 +2678,21 @@ msgstr "도금 스킨"
 #. REC: BOOK:FULL
 msgctxt "00095C"
 msgid "On Babylon"
-msgstr ""
+msgstr "바빌론에 관하여"
 
 #. List: 0
 #. EDID: SFFL_MS01_ShinarYeatsSlate02
 #. REC: BOOK:FULL
 msgctxt "00095E"
 msgid "On New Babylon"
-msgstr ""
+msgstr "뉴바빌론에 관하여"
 
 #. List: 0
 #. EDID: SFBGS00D_ShipOutpost_Loot_Storage_SharedOutpostContainer
 #. REC: CONT:FULL
 msgctxt "00095F"
 msgid "Shared Outpost Container"
-msgstr ""
+msgstr "공유 전초기지 보관시설"
 
 #. List: 0
 #. EDID: SFBGS00D_OutpostPI_BreathableGenAirlock01
@@ -2643,7 +2713,7 @@ msgstr "LandscapeCutWorldSpace"
 #. REC: GPOG:NNAM
 msgctxt "000962"
 msgid "Legendary Enemy Modifiers"
-msgstr ""
+msgstr "전설 적 보정"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tricky
@@ -2693,6 +2763,9 @@ msgstr "0"
 msgctxt "000969"
 msgid "Chance to avoid damage.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
+"일정 확률로 피해를 회피한다.\n"
+"\n"
+"이 전설 적 보정이 등장하는 레벨을 설정한다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tricky
@@ -2749,6 +2822,9 @@ msgstr "0"
 msgctxt "000971"
 msgid "Vastly increased damage.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
+"피해가 대폭 증가한다.\n"
+"\n"
+"이 전설 적 보정이 등장하는 레벨을 설정한다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Dangerous
@@ -2805,6 +2881,9 @@ msgstr "0"
 msgctxt "000979"
 msgid "Increased damage and speed.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
+"피해와 속도가 증가한다.\n"
+"\n"
+"이 전설 적 보정이 등장하는 레벨을 설정한다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Berserker
@@ -2819,13 +2898,23 @@ msgstr "광전사TA효과 보정 레벨"
 msgctxt "00097B"
 msgid "Most of the team have been given the lethal injection and have been laid to rest. Only a few of us remain. The others gave us both consent to consume the bodies, but after doing so, I feel wretched inside. As if my cowardice has taken what little humanity I have left.\n\nSo I have chosen to meet the end on my terms, with the only tool I have left to use.\n\nIt's my mentor's gun, the gift they gave me as a good luck charm. \n\nI want to say something pithy, some final goodbye that resonates to anyone reading this. But the reality is, I have no hope to give.\n\nInstead I'll just say what I feel, in bold, black paint."
 msgstr ""
+"팀원 대부분이 안락사 주사를 맞고 영면에 들었다. 남은 사람은 얼마 없다. 다른 사람들은 우리에게 시체를 먹어도 된다고 해줬지만, 저질러 "
+"버리고 나니, 속이 끔찍하다. 마치 비겁함 때문에 남아 있던 인간성마저 사라진 것 같다.\n"
+"\n"
+"그래서 내게 남은 유일한 도구로 스스로 최후를 맞이하기로 했다.\n"
+"\n"
+"스승님의 총이다. 행운의 부적으로 선물해 준 것이다.\n"
+"\n"
+"함축적인 말을 남기고 싶다. 이것을 읽는 누군가에게 울림이 되는 마지막 작별 인사를. 하지만 현실은, 줄 수 있는 희망이 없다.\n"
+"\n"
+"대신 느끼는 것을 그대로, 검은 페인트로 굵게 적겠다."
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
 #. REC: TMLM:ITXT
 msgctxt "00097C"
 msgid "The End"
-msgstr ""
+msgstr "끝"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM_MedicalTent
@@ -2833,13 +2922,18 @@ msgstr ""
 msgctxt "00097D"
 msgid "I've carted off and buried my friends. Too many. Some of the others have agreed to be consumed so that we might live, and we buried their bones after the business was done.\n\nDraining the blood, preparing the meat -- it was gruesome, ugly business, but we're alive. Even still, the toil has not gone unnoticed. I'm worried about Simon's mental health.\n\n--- Dr. Kleiber"
 msgstr ""
+"친구들을 옮겨 매장했다. 너무 많았다. 다른 사람들은 우리에게 시체를 먹어서 살아남으라고 해줬고, 일을 저지른 뒤 뼈를 묻어줬다.\n"
+"\n"
+"피를 빼고 고기를 다듬는 일은 끔찍하고 추했지만, 우리는 살아 있다. 그래도 그 대가가 눈에 보인다. 사이먼의 정신 건강이 걱정된다.\n"
+"\n"
+"--- 클라이버 의사"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM_MedicalTent
 #. REC: TMLM:ITXT
 msgctxt "00097E"
 msgid "Carted off the corpses"
-msgstr ""
+msgstr "시체 처리"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM_MedicalTent
@@ -2847,13 +2941,21 @@ msgstr ""
 msgctxt "00097F"
 msgid "With our supplies gone, we've had to convert the lab into a medical tent. There is already talk of lethal injection, but an inventory check shows we don't have the ingredients to make suitable barbiturate, paralytic, and potassium solution.\n\nThat notwithstanding, the consequences of dehydration will be much worse, and so many have opted to choose the injection we've synthesized.\n\nThose that remain will have a difficult choice.\n\n--- Dr. Agunye"
 msgstr ""
+"물자가 바닥나서, 연구소를 구호 천막으로 바꿔야 했다. 이미 안락사 주사 이야기가 나오고 있지만, 재고를 확인한 결과 적합한 "
+"바르비투르산염, 근이완제, 칼륨 용액을 만들 재료가 부족하다.\n"
+"\n"
+"그럼에도 탈수 증세의 결과가 훨씬 가혹하기에, 많은 이들이 우리가 합성한 주사를 선택했다.\n"
+"\n"
+"남은 사람들은 어려운 선택에 직면할 것이다.\n"
+"\n"
+"--- 아구녜 박사"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM_MedicalTent
 #. REC: TMLM:ITXT
 msgctxt "000980"
 msgid "Lethal Injection"
-msgstr ""
+msgstr "안락사 주사"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM_MedicalTent
@@ -2861,13 +2963,21 @@ msgstr ""
 msgctxt "000981"
 msgid "Soil samples prove our existing crops on this planet will be difficult to grow, but that was the intent when this particular biome was chosen.\n\nThis is the challenge taken up by our team, to prove such a planet can be colonized. Our survival will depend on the bright minds of the scientists here, many of whom are the best in their field.\n\nThankfully we are tightroping with a net. The monthly supply drops will give us a chance to ease into this slowly.\n\n--- Dr. Agunye"
 msgstr ""
+"토양 샘플을 보니 이 행성에서 기존 작물을 재배하기 어렵다는 게 입증됐지만, 바로 그 때문에 이 생태계가 선택된 것이다.\n"
+"\n"
+"이건 우리 팀이 맡은 도전과제다. 이런 행성도 식민지화할 수 있음을 증명하는 것. 우리의 생존은 이곳 과학자들의 뛰어난 두뇌에 달려 "
+"있다. 과학자들 대다수는 각 분야 최고의 인재들이다.\n"
+"\n"
+"다행히 우리는 안전망을 갖추고 줄타기를 하고 있다. 매월 물자 보급이 오니 서서히 적응할 시간이 있을 것이다.\n"
+"\n"
+"--- 아구녜 박사"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM_MedicalTent
 #. REC: TMLM:ITXT
 msgctxt "000982"
 msgid "Laboratory Experiments"
-msgstr ""
+msgstr "연구소 실험"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM_MedicalTent
@@ -2875,6 +2985,8 @@ msgstr ""
 msgctxt "000983"
 msgid "Shinar Outpost Medical Logs:\nFor use by all staff. For personal documention, please use the provided slates"
 msgstr ""
+"시날 전초기지 의료 기록:\n"
+"전 직원 공용. 개인 기록은 제공된 슬레이트를 사용할 것"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM_MedicalTent
@@ -2888,63 +3000,63 @@ msgstr "시날 전초기지 컴퓨터"
 #. REC: TMLM:ISTX
 msgctxt "000985"
 msgid "Shield Dispensation [OPTIMIZED]"
-msgstr ""
+msgstr "보호막 에너지 배분 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_ShieldsScreen
 #. REC: TMLM:ITXT
 msgctxt "000986"
 msgid "Shield Dispensation [OPTIMIZED]"
-msgstr ""
+msgstr "보호막 에너지 배분 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_ShieldsScreen
 #. REC: TMLM:ITXT
 msgctxt "000987"
 msgid "Shield Energy Dispensation"
-msgstr ""
+msgstr "보호막 에너지 배분"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_ShieldsScreen
 #. REC: TMLM:ISTX
 msgctxt "000988"
 msgid "Shield Regeneration [OPTIMIZED]"
-msgstr ""
+msgstr "보호막 재생 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_ShieldsScreen
 #. REC: TMLM:ITXT
 msgctxt "000989"
 msgid "Shield Regeneration [OPTIMIZED]"
-msgstr ""
+msgstr "보호막 재생 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_ShieldsScreen
 #. REC: TMLM:ITXT
 msgctxt "00098A"
 msgid "Shield Regeneration Optimization"
-msgstr ""
+msgstr "보호막 재생 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_ShieldsScreen
 #. REC: TMLM:ISTX
 msgctxt "00098B"
 msgid "Shield Strength [OPTIMIZED]"
-msgstr ""
+msgstr "보호막 강도 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_ShieldsScreen
 #. REC: TMLM:ITXT
 msgctxt "00098C"
 msgid "Shield Strength [OPTIMIZED]"
-msgstr ""
+msgstr "보호막 강도 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_ShieldsScreen
 #. REC: TMLM:ITXT
 msgctxt "00098D"
 msgid "Shield Strength Optimization"
-msgstr ""
+msgstr "보호막 강도 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_ShieldsScreen
@@ -2952,34 +3064,40 @@ msgstr ""
 msgctxt "00098E"
 msgid "Running Shield subsystems diagnostic......\nSuccess!\n\nDetermined possible optimizations.\n\n--- Please Select Subsystem Optimization---\n"
 msgstr ""
+"보호막 하위 시스템 진단 중......\n"
+"성공!\n"
+"\n"
+"가능한 최적화 항목 확인.\n"
+"\n"
+"--- 하위 시스템 최적화를 선택하세요 ---\n"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_ShieldsScreen
 #. REC: TMLM:FULL
 msgctxt "00098F"
 msgid "Shield System Optimizations"
-msgstr ""
+msgstr "보호막 하위 시스템 최적화"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminal_DoorControl
 #. REC: TMLM:ITXT
 msgctxt "000990"
 msgid "Return to Security Override Options"
-msgstr ""
+msgstr "보안 재정의 설정으로 돌아가기"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminal_DoorControl
 #. REC: TMLM:ITXT
 msgctxt "000991"
 msgid "Close All Doors"
-msgstr ""
+msgstr "모든 문 닫기"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminal_DoorControl
 #. REC: TMLM:ITXT
 msgctxt "000992"
 msgid "Open All Doors"
-msgstr ""
+msgstr "모든 문 열기"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminal_DoorControl
@@ -2987,34 +3105,39 @@ msgstr ""
 msgctxt "000993"
 msgid "SECURITY OVERRIDE\n\nSecurity mode activated. \n\nPlease select one of the options below."
 msgstr ""
+"보안 재정의 설정\n"
+"\n"
+"보안 모드 활성화됨. \n"
+"\n"
+"아래 설정 중 하나를 선택해 주세요."
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminal_DoorControl
 #. REC: TMLM:FULL
 msgctxt "000994"
 msgid "DOOR CONTROL"
-msgstr ""
+msgstr "출입문 제어"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminal_SelfDestruct
 #. REC: TMLM:ITXT
 msgctxt "000995"
 msgid "Return to Security Override Options"
-msgstr ""
+msgstr "보안 재정의 설정으로 돌아가기"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminal_SelfDestruct
 #. REC: TMLM:ITXT
 msgctxt "000996"
 msgid "Cancel Self-Destruct Sequence"
-msgstr ""
+msgstr "자폭 시퀀스 취소"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminal_SelfDestruct
 #. REC: TMLM:ITXT
 msgctxt "000997"
 msgid "Start Self-Destruct Sequence"
-msgstr ""
+msgstr "자폭 시퀀스 시작"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminal_SelfDestruct
@@ -3022,6 +3145,11 @@ msgstr ""
 msgctxt "000998"
 msgid "Self-Destruct Sequence initiated.\n\nPlease exit the ship, undock, and get within a minimum distance of 500 meters.\n\nSECURITY OVERRIDE: Self-Destruct Sequence cannot be canceled."
 msgstr ""
+"자폭 시퀀스가 시작되었습니다.\n"
+"\n"
+"함선에서 내려 도킹을 해제한 후 최소 500미터 이상 떨어져 주세요.\n"
+"\n"
+"보안 재정의 설정: 자폭 시퀀스는 취소할 수 없습니다."
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminal_SelfDestruct
@@ -3029,6 +3157,11 @@ msgstr ""
 msgctxt "000999"
 msgid "Self-Destruct Sequence initiated.\n\nPlease exit the ship, undock, and get within a minimum distance of 500 meters.\n\nTo cancel the sequence, press the button below."
 msgstr ""
+"자폭 시퀀스가 시작되었습니다.\n"
+"\n"
+"함선에서 내려 도킹을 해제한 후 최소 500미터 이상 떨어져 주세요.\n"
+"\n"
+"시퀀스를 취소하려면 아래 버튼을 누르세요."
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminal_SelfDestruct
@@ -3036,6 +3169,13 @@ msgstr ""
 msgctxt "00099A"
 msgid "SECURITY OVERRIDE\n\nSecurity mode activated. \n\nSelf-Destruct sequence has been canceled.\n\nPlease note that detonator charges have been jettisoned and must be replaced before the sequence can be re-initiated. Refer to the service manual for procedure details."
 msgstr ""
+"보안 재정의 설정\n"
+"\n"
+"보안 모드 활성화됨. \n"
+"\n"
+"자폭 시퀀스가 취소되었습니다.\n"
+"\n"
+"기폭 장치가 방출되었으므로, 시퀀스를 다시 시작하려면 교체가 필요합니다. 자세한 절차는 서비스 매뉴얼을 참조해 주세요."
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminal_SelfDestruct
@@ -3043,48 +3183,53 @@ msgstr ""
 msgctxt "00099B"
 msgid "Please select one of the options below.\n\nIMPORTANT NOTE: self-destruct system will not detonate if this ship is docked with another ship or a space station.\n\nA minimum distance of 500 meters is suggested before automatic detonation."
 msgstr ""
+"아래 설정 중 하나를 선택해 주세요.\n"
+"\n"
+"중요 안내: 이 함선이 다른 함선이나 우주 정거장에 도킹 중일 때는 자폭 시스템이 기폭되지 않습니다.\n"
+"\n"
+"자동 기폭 전 최소 500미터 이상 거리를 두는 것을 권장합니다."
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminal_SelfDestruct
 #. REC: TMLM:FULL
 msgctxt "00099C"
 msgid "SELF-DESTRUCT"
-msgstr ""
+msgstr "자폭"
 
 #. List: 0
 #. EDID: SFFLDR021SiloTerminal_MissileControl_Desktop
 #. REC: TMLM:UNAM
 msgctxt "00099D"
 msgid "Missile launching..."
-msgstr ""
+msgstr "미사일 발사 중..."
 
 #. List: 0
 #. EDID: SFFLDR021SiloTerminal_MissileControl_Desktop
 #. REC: TMLM:ITXT
 msgctxt "00099E"
 msgid "Launch Missile"
-msgstr ""
+msgstr "미사일 발사"
 
 #. List: 0
 #. EDID: SFFLDR021SiloTerminal_MissileControl_Desktop
 #. REC: TMLM:BTXT
 msgctxt "00099F"
 msgid "Missile is launching..."
-msgstr ""
+msgstr "미사일 발사 중..."
 
 #. List: 0
 #. EDID: SFFLDR021SiloTerminal_MissileControl_Desktop
 #. REC: TMLM:BTXT
 msgctxt "0009A0"
 msgid "Missile Launched - Silo is empty"
-msgstr ""
+msgstr "미사일 발사 완료 - 저장고 비어 있음"
 
 #. List: 0
 #. EDID: SFFLDR021SiloTerminal_MissileControl_Desktop
 #. REC: TMLM:BTXT
 msgctxt "0009A1"
 msgid "Missile ready to launch:"
-msgstr ""
+msgstr "미사일 발사 준비 완료:"
 
 #. List: 0
 #. EDID: SFFLDR021SiloTerminal_MissileControl_Desktop
@@ -3092,6 +3237,9 @@ msgstr ""
 msgctxt "0009A2"
 msgid "Error - Can't launch missile - \n\n* Shuttle bay is not closed*"
 msgstr ""
+"오류 - 미사일 발사 불가 - \n"
+"\n"
+"* 왕복선 출입구가 닫혀 있지 않습니다 *"
 
 #. List: 0
 #. EDID: SFFLDR021SiloTerminal_MissileControl_Desktop
@@ -3099,6 +3247,9 @@ msgstr ""
 msgctxt "0009A3"
 msgid "Error - Can't launch missile - \n\n* Battery inserted <Token=SFFLDR021BatteryCount> / 3*"
 msgstr ""
+"오류 - 미사일 발사 불가 - \n"
+"\n"
+"* 삽입된 배터리 <Token=SFFLDR021BatteryCount> / 3 *"
 
 #. List: 0
 #. EDID: SFFLDR021SiloTerminal_MissileControl_Desktop
@@ -3106,20 +3257,24 @@ msgstr ""
 msgctxt "0009A4"
 msgid "Error - Can't launch missile - \n\n* Battery inserted <Token=SFFLDR021BatteryCount> / 3*\n* Shuttle bay is not closed*"
 msgstr ""
+"오류 - 미사일 발사 불가 - \n"
+"\n"
+"* 삽입된 배터리 <Token=SFFLDR021BatteryCount> / 3*\n"
+"* 왕복선 출입구가 닫혀 있지 않습니다 *"
 
 #. List: 0
 #. EDID: SFFLDR021SiloTerminal_MissileControl_Desktop
 #. REC: TMLM:FULL
 msgctxt "0009A5"
 msgid "Missile Launch"
-msgstr ""
+msgstr "미사일 발사"
 
 #. List: 0
 #. EDID: SFFL_BE_EC07_GalBankTerminal
 #. REC: TMLM:ITXT
 msgctxt "0009A6"
 msgid "Contact GalBank ITSec"
-msgstr ""
+msgstr "갤뱅크 IT 보안부서에 연락"
 
 #. List: 0
 #. EDID: SFFL_BE_EC07_GalBankTerminal
@@ -3127,34 +3282,38 @@ msgstr ""
 msgctxt "0009A7"
 msgid "System is locked due to too many failed connection attempts.\n\nContact GalBank ITSec to unlock this terminal.\nPlease have your employee number handy for confirmation."
 msgstr ""
+"연결 시도 실패가 너무 많아 시스템이 잠겼습니다.\n"
+"\n"
+"이 단말기의 잠금을 해제하려면 갤뱅크 IT 보안부서에 연락해 주십시오.\n"
+"확인을 위해 사원 번호를 준비해 주십시오."
 
 #. List: 0
 #. EDID: SFFL_BE_EC07_GalBankTerminal
 #. REC: TMLM:FULL
 msgctxt "0009A8"
 msgid "ACCESS DENIED"
-msgstr ""
+msgstr "접근 거부됨"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_DeactivatedTerminal
 #. REC: TMLM:ITXT
 msgctxt "0009A9"
 msgid "Self-Destruct Sequence"
-msgstr ""
+msgstr "자폭 시퀀스"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_DeactivatedTerminal
 #. REC: TMLM:ITXT
 msgctxt "0009AA"
 msgid "Gravity Control"
-msgstr ""
+msgstr "중력 제어"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_DeactivatedTerminal
 #. REC: TMLM:ITXT
 msgctxt "0009AB"
 msgid "Door Control"
-msgstr ""
+msgstr "출입문 제어"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_DeactivatedTerminal
@@ -3162,6 +3321,9 @@ msgstr ""
 msgctxt "0009AC"
 msgid "SECURITY OVERRIDE\n\nSecurity mode activated. Please select one of the options below."
 msgstr ""
+"보안 재정의 설정\n"
+"\n"
+"보안 모드 활성화됨. 아래 설정 중 하나를 선택해 주세요."
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_DeactivatedTerminal
@@ -3169,13 +3331,16 @@ msgstr ""
 msgctxt "0009AD"
 msgid "Access to this terminal has been suspended due to a manual security override.\n\nPlease access the main terminal, situated on the bridge, to reactivate access."
 msgstr ""
+"수동 보안 재정의 설정으로 인해 이 단말기에 접속할 수 있는 권한이 일시 중지되었습니다.\n"
+"\n"
+"접속을 복원하려면 함교의 메인 단말기에 접속해 주세요."
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_DeactivatedTerminal
 #. REC: TMLM:FULL
 msgctxt "0009AE"
 msgid "EMERGENCY MENU"
-msgstr ""
+msgstr "긴급 메뉴"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_HackedPLogs_TMLM
@@ -3183,13 +3348,22 @@ msgstr ""
 msgctxt "0009AF"
 msgid "Locking this under private since I need to get it off my chest. Doctor-Patient confidentiality and all that.\n\nI haven't gotten much sleep as of late, and last night I made a really clumsy mistake. I was attempting to get a larger sample of Caspian's blood, and didn't use enough tranquilizer. I ended up having to knock him out the old fashioned way, which combined with the chems, did the trick.\n\nWorse yet that clumsy idiot cut himself picking up broken glass. So on top of the blood draw wound, I had to disinfect and dress the cuts on his hands. The whole thing was a freaking mess. \n\nI didn't really know what to do at that point, so I grabbed some Caelumite to make people suspect it was a theft. I'll get rid of the evidence by synthesizing it into a stimulant. I've been staying up really late anyway and the coffee isn't enough. "
 msgstr ""
+"속에 담아 두기 힘들어서 이 내용은 비공개로 잠가 둔다. 의사-환자 간 비밀 유지 같은 것이라서.\n"
+"\n"
+"최근 잠을 잘 못 자고 있다. 어젯밤에는 정말 어리석은 실수를 저질렀다. 캐스피언의 혈액을 더 많이 채취하려 했는데, 진정제가 부족했다. "
+"결국 구식이지만 기절시키는 방법을 썼고, 다행히 약물과 합쳐져서 그런지 효과는 있었다.\n"
+"\n"
+"설상가상으로 그 덜렁이가 깨진 유리를 줍다가 손을 베었다. 채혈 상처 외에도 손의 상처도 소독하고 치료해야 했다. 완전히 엉망이었다.\n"
+"\n"
+"그 시점에서 어떻게 해야 할지 몰라서, 캘루마이트를 좀 가져와 도난으로 의심하게 만들기로 했다. 증거는 합성해서 각성제로 만들어 없앨 "
+"것이다. 어차피 요즘 늦게까지 깨어 있고 커피만으로는 부족하니까. "
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_HackedPLogs_TMLM
 #. REC: TMLM:ITXT
 msgctxt "0009B0"
 msgid "Private Patient Data"
-msgstr ""
+msgstr "비공개 환자 데이터"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_HackedPLogs_TMLM
@@ -3197,13 +3371,21 @@ msgstr ""
 msgctxt "0009B1"
 msgid "My sister's attitude is infuriating. I know part of it is just an act, but perception trumps reality. If the group thinks she doesn't pull her own weight, then that narrative will lead to a lot of resentment, and that's going to reflect poorly on me.\n\nShe doesn't ever think about how much of a burden it is for me to have her as my sister, especially given her past chem use and trouble with the law.\n\nI just hope she doesn't relapse. Part of the reason I keep the chems under lock and key is for her protection, and mine."
 msgstr ""
+"여동생의 행동거지 때문에 정말 화가 난다. 어느 정도는 연기라는 걸 알지만, 인식이 현실을 이기는 법이다. 모두가 여동생이 제 몫을 하지 "
+"않는다고 생각하게 되면, 그 소문이 큰 반감으로 이어질 테고, 결국 나에게까지 좋지 않은 영향을 미칠 거다.\n"
+"\n"
+"내 여동생이 저런 녀석이라는 게 나에게 얼마나 큰 부담이 되는지 여동생은 전혀 생각하지 못할 거다. 과거 여동생이 일으켰던 약물 문제나 "
+"법적 문제를 생각하면...\n"
+"\n"
+"여동생의 나쁜 버릇이 재발하지나 않았으면 좋겠다. 약물들을 자물쇠로 잠가 보관해둔 건 여동생을 보호하기 위해서이기도 하지만, 일정 부분은 "
+"나를 위해서 한 짓이기도 하다."
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_HackedPLogs_TMLM
 #. REC: TMLM:ITXT
 msgctxt "0009B2"
 msgid "Sunni's Attitude"
-msgstr ""
+msgstr "순이의 행동거지"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_HackedPLogs_TMLM
@@ -3211,13 +3393,15 @@ msgstr ""
 msgctxt "0009B3"
 msgid "My parents are forcing me to find a spot for Sunni here. It's so frustrating that I have to babysit my sister full-time. Why do I get punished for her mistakes?"
 msgstr ""
+"부모님이 여기에 순이 자리를 마련하라고 강요하고 있다. 동생을 온종일 돌봐야 한다니 너무 답답하다. 왜 동생의 실수 때문에 내가 벌을 "
+"받아야 하는 거지?"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_HackedPLogs_TMLM
 #. REC: TMLM:ITXT
 msgctxt "0009B4"
 msgid "Sunni"
-msgstr ""
+msgstr "순이"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_HackedPLogs_TMLM
@@ -3242,14 +3426,14 @@ msgstr "그레이스 킴의 개인 일지"
 #. REC: TMLM:ITXT
 msgctxt "0009B7"
 msgid "Return"
-msgstr ""
+msgstr "돌아가기"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_ShieldStrength
 #. REC: TMLM:ITXT
 msgctxt "0009B8"
 msgid "Optimize Subsystem <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
-msgstr ""
+msgstr "하위 시스템 최적화 <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_ShieldStrength
@@ -3257,27 +3441,32 @@ msgstr ""
 msgctxt "0009B9"
 msgid "Improve max shield strength by 10%.\n\nRequirements: <Token.ValueInt=XTechCost> X-Tech\n\nOptimize system?"
 msgstr ""
+"최대 보호막 강도가 10% 향상됩니다.\n"
+"\n"
+"필요: X-테크 <Token.ValueInt=XTechCost>개\n"
+"\n"
+"시스템을 최적화하시겠습니까?"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_ShieldStrength
 #. REC: TMLM:FULL
 msgctxt "0009BA"
 msgid "Shield Strength Optimization"
-msgstr ""
+msgstr "보호막 강도 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_GravDriveFuel
 #. REC: TMLM:ITXT
 msgctxt "0009BB"
 msgid "Return"
-msgstr ""
+msgstr "돌아가기"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_GravDriveFuel
 #. REC: TMLM:ITXT
 msgctxt "0009BC"
 msgid "Optimize Subsystem <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
-msgstr ""
+msgstr "하위 시스템 최적화 <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_GravDriveFuel
@@ -3285,13 +3474,18 @@ msgstr ""
 msgctxt "0009BD"
 msgid "Fuel cost per jump decreased by 10%.\n\nRequirements: <Token.ValueInt=XTechCost> X-Tech\n\nOptimize system?"
 msgstr ""
+"최대 보호막 강도가 10% 향상됩니다.\n"
+"\n"
+"필요: X-테크 <Token.ValueInt=XTechCost>개\n"
+"\n"
+"시스템을 최적화하시겠습니까?"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_GravDriveFuel
 #. REC: TMLM:FULL
 msgctxt "0009BE"
 msgid "Grav Drive Fuel Mitigator Optimization"
-msgstr ""
+msgstr "중력 구동기 연료 절감기 최적화"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseSubPurchased
@@ -3299,20 +3493,24 @@ msgstr ""
 msgctxt "0009BF"
 msgid "Thank you for your purchase! \n\nWe hope you enjoy your brand new luxury home among the stars.\n\n"
 msgstr ""
+"구매해 주셔서 감사합니다!\n"
+"\n"
+"별들 사이에 마련된 귀하의 새로운 럭셔리 홈에서 즐거운 시간을 보내시길 바랍니다.\n"
+"\n"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseSubPurchased
 #. REC: TMLM:FULL
 msgctxt "0009C0"
 msgid "A Luxury Home Among the Stars"
-msgstr ""
+msgstr "별들 사이에 마련된 럭셔리 홈"
 
 #. List: 0
 #. EDID: _SFFLAsteroidManorOrbitalPlanetData
 #. REC: PNDT:FULL
 msgctxt "0009C1"
 msgid "Chateau des Etoiles"
-msgstr ""
+msgstr "샤토 데 제투알"
 
 #. List: 0
 #. EDID: mod_Legendary_Modifier_Medic
@@ -3354,168 +3552,168 @@ msgstr "양자 얽힘 장치 업그레이드됨"
 #. REC: MESG:NNAM
 msgctxt "0009D1"
 msgid "Free Lanes - Encounters"
-msgstr ""
+msgstr "프리 레인스 - 인카운터"
 
 #. List: 0
 #. EDID: HelpFreeLanesEncountersXbox
 #. REC: MESG:FULL
 msgctxt "0009D2"
 msgid "Free Lanes - Encounters"
-msgstr ""
+msgstr "프리 레인스 - 인카운터"
 
 #. List: 0
 #. EDID: SFFL_MS03_FreelancerName
 #. REC: MESG:FULL
 msgctxt "0009D4"
 msgid "Freelancer"
-msgstr ""
+msgstr "프리랜서"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaHeavyGunner_MSG
 #. REC: MESG:FULL
 msgctxt "0009D7"
 msgid "Freestar Militia Heavy Gunner"
-msgstr ""
+msgstr "자유항성 민병대 중화기병"
 
 #. List: 0
 #. EDID: HelpLegendaryCrafting
 #. REC: MESG:NNAM
 msgctxt "0009D9"
 msgid "Legendary Crafting"
-msgstr ""
+msgstr "전설 제작"
 
 #. List: 0
 #. EDID: HelpLegendaryCrafting
 #. REC: MESG:FULL
 msgctxt "0009DA"
 msgid "Legendary Crafting"
-msgstr ""
+msgstr "전설 제작"
 
 #. List: 0
 #. EDID: HelpQuality
 #. REC: MESG:NNAM
 msgctxt "0009DC"
 msgid "Quality Upgrades"
-msgstr ""
+msgstr "품질 등급 업그레이드"
 
 #. List: 0
 #. EDID: HelpQuality
 #. REC: MESG:FULL
 msgctxt "0009DD"
 msgid "Equipment Quality Upgrades"
-msgstr ""
+msgstr "장비 품질 등급 업그레이드"
 
 #. List: 0
 #. EDID: StarbornContainerSlateMsg
 #. REC: MESG:FULL
 msgctxt "0009E2"
 msgid "Schematic Downloaded"
-msgstr ""
+msgstr "설계도 다운로드 완료"
 
 #. List: 0
 #. EDID: SFBGS00DDR018_PowerRequiredMessage
 #. REC: MESG:FULL
 msgctxt "0009E4"
 msgid "Power Required"
-msgstr ""
+msgstr "전력 필요"
 
 #. List: 0
 #. EDID: SFBGS00D_EquipmentModuleSchematic_Tutorial_MSG
 #. REC: MESG:FULL
 msgctxt "0009E5"
 msgid "Equipment Module Schematic"
-msgstr ""
+msgstr "장비 모듈 설계도"
 
 #. List: 0
 #. EDID: SFFLAsteroidManorLoadElevatorMessage02
 #. REC: MESG:FULL
 msgctxt "0009E7"
 msgid "Lower Levels"
-msgstr ""
+msgstr "하층부"
 
 #. List: 0
 #. EDID: SFFL_InterdictionSattelite_DisplayName
 #. REC: MESG:FULL
 msgctxt "0009E8"
 msgid "Grav-Jam Sattelite"
-msgstr ""
+msgstr "중력 도약 교란 위성"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_DanielBlake_MSG
 #. REC: MESG:FULL
 msgctxt "0009E9"
 msgid "Captain Daniel Blake"
-msgstr ""
+msgstr "다니엘 블레이크 최고보안관"
 
 #. List: 0
 #. EDID: SFBGS00D_HarvestBonus_StartPerkMessage
 #. REC: MESG:FULL
 msgctxt "0009EB"
 msgid "Harvest Bonus Activated"
-msgstr ""
+msgstr "채집 추가 보상 발동"
 
 #. List: 0
 #. EDID: SFFL_MS01_KeycardMissingMessage
 #. REC: MESG:FULL
 msgctxt "0009ED"
 msgid "Ivica's Keycard is required to operate this device"
-msgstr ""
+msgstr "이 장치를 조작하려면 이비카의 키카드가 필요합니다"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_LouSaavedra_MSG
 #. REC: MESG:FULL
 msgctxt "0009F0"
 msgid "Sergeant Lou Saavedra"
-msgstr ""
+msgstr "루 사베드라 병장"
 
 #. List: 0
 #. EDID: SFFL_MS02_LeaveMessage
 #. REC: MESG:ITXT
 msgctxt "0009F2"
 msgid "No"
-msgstr ""
+msgstr "아니요"
 
 #. List: 0
 #. EDID: SFFL_MS02_LeaveMessage
 #. REC: MESG:ITXT
 msgctxt "0009F3"
 msgid "Yes"
-msgstr ""
+msgstr "예"
 
 #. List: 0
 #. EDID: SFBGS00DPOICL01Location
 #. REC: LCTN:FULL
 msgctxt "0009F6"
 msgid "Crashed Food Truck"
-msgstr ""
+msgstr "추락한 식량 수송선"
 
 #. List: 0
 #. EDID: SFFLDR028AsteroidMineInteriorLocation
 #. REC: LCTN:FULL
 msgctxt "0009F7"
 msgid "RedCap Asteroid Mine Excavation"
-msgstr ""
+msgstr "레드캡 소행성 광산 채굴장"
 
 #. List: 0
 #. EDID: SFFLDR029AsteroidMineLocation
 #. REC: LCTN:FULL
 msgctxt "0009F8"
 msgid "Bodach Asteroid Mine"
-msgstr ""
+msgstr "보다크 소행성 광산"
 
 #. List: 0
 #. EDID: SFFL_MS03AtkaHouseLocation
 #. REC: LCTN:FULL
 msgctxt "0009F9"
 msgid "Atka's House"
-msgstr ""
+msgstr "아트카의 집"
 
 #. List: 0
 #. EDID: SFFLOESM04Location
 #. REC: LCTN:FULL
 msgctxt "0009FA"
 msgid "Scrap Metal Foundry"
-msgstr ""
+msgstr "고철 주조공장"
 
 #. List: 0
 #. EDID: Perk_StarbornContainer
@@ -3529,35 +3727,35 @@ msgstr "업그레이드"
 #. REC: PERK:FULL
 msgctxt "0009FD"
 msgid "Starborn Container Upgrade Perk"
-msgstr ""
+msgstr "스타본 보관함 업그레이드 특성"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_DanielBlake_Perk
 #. REC: PERK:FULL
 msgctxt "0009FE"
 msgid "Colony War Action Hero - Captain Daniel Blake"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 대니얼 블레이크 최고보안관"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaHeavyGunner_Perk
 #. REC: PERK:FULL
 msgctxt "0009FF"
 msgid "Colony War Action Hero - Freestar Militia Heavy Gunner"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 자유항성 민병대 중화기병"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_LouSaavedra_Perk
 #. REC: PERK:FULL
 msgctxt "000A00"
 msgid "Colony War Action Hero - Sergeant Lou Saavedra"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 루 사베드라 병장"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_VincentWoodard_Perk
 #. REC: PERK:FULL
 msgctxt "000A01"
 msgid "Colony War Action Hero - Commander Vincent Woodard"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 빈센트 우다드 사령관"
 
 #. List: 0
 #. EDID: Perk_Legendary_Suit_Inspiring_TempPerk
@@ -3571,35 +3769,35 @@ msgstr "격려TA효과 임시 특성"
 #. REC: PERK:FULL
 msgctxt "000A03"
 msgid "Colony War Action Hero - Lieutenant Kibwe Ikande"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 키브웨 이칸데 대위"
 
 #. List: 0
 #. EDID: SMS_ShieldRefractor_Perk
 #. REC: PERK:FULL
 msgctxt "000A04"
 msgid "Shield Refractor Unit"
-msgstr ""
+msgstr "보호막 굴절기"
 
 #. List: 0
 #. EDID: ShipUpgrades_Misc_CargoManagement_Perk
 #. REC: PERK:FULL
 msgctxt "000A05"
 msgid "Cargo Management Optimization"
-msgstr ""
+msgstr "화물칸 관리 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrades_Shields_ShieldEnergyDisp_Perk
 #. REC: PERK:FULL
 msgctxt "000A06"
 msgid "Shield Energy Dispensation"
-msgstr ""
+msgstr "보호막 에너지 배분"
 
 #. List: 0
 #. EDID: ShipUpgrades_Shields_ShieldRegen_Perk
 #. REC: PERK:FULL
 msgctxt "000A07"
 msgid "Shield Regen - Ship Upgrade"
-msgstr ""
+msgstr "보호막 재생 - 함선 업그레이드"
 
 #. List: 0
 #. EDID: LegendaryModifier_Shielded
@@ -3627,49 +3825,49 @@ msgstr "허상TA효과 더미"
 #. REC: PERK:FULL
 msgctxt "000A0B"
 msgid "Colony War Action Hero - UC Marine"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 식민지 연합 해병대"
 
 #. List: 0
 #. EDID: SFFL_StarbornSaveActorValues
 #. REC: FLST:FULL
 msgctxt "000A0C"
 msgid "NG+ Starborn Actor Values"
-msgstr ""
+msgstr "뉴게임+ 스타본 액터 값"
 
 #. List: 0
 #. EDID: LS_SFBGS00D_EnemyModifiers01
 #. REC: LSCR:DESC
 msgctxt "000A0D"
 msgid "You can find more information about your enemies' abilities by looking at them through your Hand Scanner."
-msgstr ""
+msgstr "휴대용 스캐너로 적을 확인하면 적의 능력에 대해 정보를 더 많이 얻을 수 있습니다."
 
 #. List: 0
 #. EDID: SFFL_BE_EC08_Derelict_Corpses
 #. REC: QUST:FULL
 msgctxt "000A4A"
 msgid "Boarding Derelict"
-msgstr ""
+msgstr "버려진 함선 승선"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03
 #. REC: QUST:FULL
 msgctxt "000A4B"
 msgid "Dead But Dreaming"
-msgstr ""
+msgstr "죽었으나 꿈꾸는 자"
 
 #. List: 0
 #. EDID: SFFL_SE02
 #. REC: QUST:FULL
 msgctxt "000A54"
 msgid "The Eyes"
-msgstr ""
+msgstr "눈"
 
 #. List: 0
 #. EDID: SFFL_SE_EC07_MiscDialogue
 #. REC: QUST:FULL
 msgctxt "000A88"
 msgid "Additional Dialogues for Ruby and Hannah"
-msgstr ""
+msgstr "루비와 한나 추가 대화"
 
 #. List: 0
 #. EDID: SFFL_R02_DialogueQuest
@@ -3683,7 +3881,7 @@ msgstr "[SFFL_R02 Dialogue Quest]"
 #. REC: QUST:FULL
 msgctxt "000AC5"
 msgid "[Extended Comm Array]"
-msgstr ""
+msgstr "[확장 통신 배열기]"
 
 #. List: 0
 #. EDID: SQ_StarbornContainer
@@ -3697,7 +3895,7 @@ msgstr "양자 얽힘 장치 제작"
 #. REC: QUST:NNAM
 msgctxt "000AC7"
 msgid "Read the slate"
-msgstr ""
+msgstr "슬레이트 읽기"
 
 #. List: 0
 #. EDID: SQ_StarbornContainer
@@ -3711,63 +3909,63 @@ msgstr "떠나기 전에: 양자 얽힘 장치"
 #. REC: QUST:FULL
 msgctxt "000ACC"
 msgid "Container Tutorial"
-msgstr ""
+msgstr "보관함 튜토리얼"
 
 #. List: 0
 #. EDID: SFFL_BE_EC03
 #. REC: QUST:FULL
 msgctxt "000AEE"
 msgid "Space Traders"
-msgstr ""
+msgstr "우주 상인"
 
 #. List: 0
 #. EDID: SFFL_Z01_SE1
 #. REC: QUST:FULL
 msgctxt "000CAD"
 msgid "Z01 SE1 (A Missing Beloved)"
-msgstr ""
+msgstr "Z01 SE1 (사라진 연인)"
 
 #. List: 0
 #. EDID: SFFL_R01
 #. REC: QUST:NNAM
 msgctxt "000D2E"
 msgid "Return to the Smuggler"
-msgstr ""
+msgstr "밀수업자에게 돌아가기"
 
 #. List: 0
 #. EDID: SFFL_R01
 #. REC: QUST:NNAM
 msgctxt "000D2F"
 msgid "Deliver Contraband to <Alias=TradeAuthorityLocation>"
-msgstr ""
+msgstr "<Alias=TradeAuthorityLocation>에 밀수품 전달하기"
 
 #. List: 0
 #. EDID: SFFL_R01
 #. REC: QUST:NNAM
 msgctxt "000D30"
 msgid "Get the <Alias=Contraband02> from <Alias=Dungeon02>"
-msgstr ""
+msgstr "<Alias=Dungeon02>에서 <Alias=Contraband02> 얻기"
 
 #. List: 0
 #. EDID: SFFL_R01
 #. REC: QUST:NNAM
 msgctxt "000D31"
 msgid "Get the <Alias=Contraband01> from <Alias=Dungeon01>"
-msgstr ""
+msgstr "<Alias=Dungeon01>에서 <Alias=Contraband01> 얻기"
 
 #. List: 0
 #. EDID: SFFL_R01
 #. REC: QUST:FULL
 msgctxt "000D38"
 msgid "Hazardous Materials"
-msgstr ""
+msgstr "위험 물질"
 
 #. List: 0
 #. EDID: SFFLDR025World
 #. REC: WRLD:FULL
 msgctxt "000DEA"
 msgid "Concrete Plant"
-msgstr ""
+msgstr "콘크리트 공장"
 
 #. List: 0
 #. EDID: [0107920A]
@@ -3788,14 +3986,14 @@ msgstr "센서 탐지 대상"
 #. REC: CELL:FULL
 msgctxt "000DED"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: scSFFLSEEC08Debris
 #. REC: CELL:FULL
 msgctxt "000DEE"
 msgid "Abandoned Mine Field"
-msgstr ""
+msgstr "폐광 지대"
 
 #. List: 0
 #. EDID: [0107D7C7]
@@ -3830,14 +4028,14 @@ msgstr "센서 탐지 대상"
 #. REC: CELL:FULL
 msgctxt "000DF3"
 msgid "Anchorpoint"
-msgstr ""
+msgstr "앵커포인트"
 
 #. List: 0
 #. EDID: scSFFLSE019
 #. REC: CELL:FULL
 msgctxt "000DF4"
 msgid "Space Junk"
-msgstr ""
+msgstr "우주 쓰레기"
 
 #. List: 0
 #. EDID: JamesGCtest01
@@ -3851,49 +4049,49 @@ msgstr "Quick Test Cell"
 #. REC: GBFM:FULL
 msgctxt "000DF6"
 msgid "Repair System Overdrive"
-msgstr ""
+msgstr "수리 시스템 초과구동기"
 
 #. List: 0
 #. EDID: SFFLDR028AsteroidMine
 #. REC: GBFM:FULL
 msgctxt "000DF7"
 msgid "RedCap Asteroid Mine"
-msgstr ""
+msgstr "레드캡 소행성 광산"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_ShipComputer_Standing
 #. REC: TERM:FULL
 msgctxt "000DF8"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 #. List: 0
 #. EDID: SFFLDR022_BossTerminal
 #. REC: TERM:FULL
 msgctxt "000DF9"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_CargoBayTerminal
 #. REC: TERM:FULL
 msgctxt "000DFA"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 #. List: 0
 #. EDID: SFFL_EC01_ShipComputer_Captain
 #. REC: TERM:FULL
 msgctxt "000DFB"
 msgid "Captain's Computer"
-msgstr ""
+msgstr "선장의 컴퓨터"
 
 #. List: 0
 #. EDID: SFBGS00DDR010_TrainingCourseTerminal
 #. REC: TERM:FULL
 msgctxt "000DFC"
 msgid "Training Course Terminal"
-msgstr ""
+msgstr "훈련 과정 단말기"
 
 #. List: 0
 #. EDID: zzzSFBGS00D_Grenadier_Projectile
@@ -3914,28 +4112,28 @@ msgstr "마스터 열쇠"
 #. REC: KEYM:FULL
 msgctxt "000E00"
 msgid "Château des Étoiles Key"
-msgstr ""
+msgstr "샤토 데 제투알 열쇠"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clue2
 #. REC: KEYM:FULL
 msgctxt "000E01"
 msgid "Clue 2"
-msgstr ""
+msgstr "단서 2"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clue5
 #. REC: KEYM:FULL
 msgctxt "000E02"
 msgid "Clue 5"
-msgstr ""
+msgstr "단서 5"
 
 #. List: 0
 #. EDID: SFFL_MS03_MilliKey
 #. REC: KEYM:FULL
 msgctxt "000E03"
 msgid "Milli's Room Key"
-msgstr ""
+msgstr "밀리의 방 열쇠"
 
 #. List: 0
 #. EDID: SFBGS00DDR009_StorageMasterKey
@@ -3956,7 +4154,7 @@ msgstr "인질"
 #. REC: NPC_:SHRT
 msgctxt "000E06"
 msgid "Security"
-msgstr ""
+msgstr "경비대원"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSecurityF02
@@ -3984,7 +4182,7 @@ msgstr "성숙한 카탁시 병정"
 #. REC: NPC_:SHRT
 msgctxt "000E0A"
 msgid "Patron"
-msgstr ""
+msgstr "후원자"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointPatronF01
@@ -4166,21 +4364,21 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "000E24"
 msgid "Schematic - Extended Comm Array"
-msgstr ""
+msgstr "설계도 - 확장 통신 배열기"
 
 #. List: 0
 #. EDID: EquipmentSchematics_RepairSystemOverdrive
 #. REC: MISC:FULL
 msgctxt "000E25"
 msgid "Schematic - Repair System Overdrive"
-msgstr ""
+msgstr "설계도 - 수리 시스템 초과구동기"
 
 #. List: 0
 #. EDID: EquipmentSchematics_ShieldRefractorUnit
 #. REC: MISC:FULL
 msgctxt "000E26"
 msgid "Schematic - Shield Refractor Unit"
-msgstr ""
+msgstr "설계도 - 보호막 굴절기"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_VaeVictis
@@ -4299,7 +4497,7 @@ msgstr "양자 얽힘 장치"
 #. REC: CONT:FULL
 msgctxt "000E37"
 msgid "Colony War Action Hero Playset"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 플레이세트"
 
 #. List: 0
 #. EDID: SFBGS00DDR005_Slate03
@@ -4418,7 +4616,7 @@ msgstr ""
 #. REC: SPEL:FULL
 msgctxt "000E53"
 msgid "Ship Upgrade - Shield Health"
-msgstr ""
+msgstr "함선 업그레이드 - 보호막 내구도"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Quick
@@ -4635,7 +4833,7 @@ msgstr "숙명TA효과 특성 추가"
 #. REC: FACT:FULL
 msgctxt "000E72"
 msgid "New Babylon Faction"
-msgstr ""
+msgstr "뉴바빌론 세력"
 
 #. List: 0
 #. EDID: Y2_X-Tech_Resource_Keyword
@@ -4692,6 +4890,9 @@ msgstr "0"
 msgctxt "000E7B"
 msgid "Increased health.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
+"체력이 증가한다.\n"
+"\n"
+"이 전설 적 보정이 등장하는 레벨을 설정한다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tank
@@ -4748,6 +4949,9 @@ msgstr "0"
 msgctxt "000E83"
 msgid "Clouds your vision and heals self.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
+"시야가 흐려지지만 자신의 체력를 회복한다.\n"
+"\n"
+"이 전설 적 보정이 등장하는 레벨을 설정한다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Specialist
@@ -4804,6 +5008,9 @@ msgstr "0"
 msgctxt "000E8B"
 msgid "Very resistant to damage.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
+"피해에 대해 매우 높은 내성을 지닌다.\n"
+"\n"
+"이 전설 적 보정이 등장하는 레벨을 설정한다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Shielded
@@ -4860,6 +5067,9 @@ msgstr "0"
 msgctxt "000E93"
 msgid "Faster.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
+"더 빨라진다.\n"
+"\n"
+"이 전설 적 보정이 등장하는 레벨을 설정한다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Quick
@@ -4916,6 +5126,9 @@ msgstr "0"
 msgctxt "000E9B"
 msgid "Heals nearby allies.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
+"근처 아군을 회복시킨다.\n"
+"\n"
+"이 전설 적 보정이 등장하는 레벨을 설정한다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Medic
@@ -4972,6 +5185,9 @@ msgstr "0"
 msgctxt "000EA3"
 msgid "Nearby enemies take less damage.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
+"근처 적이 받는 피해가 감소한다.\n"
+"\n"
+"이 전설 적 보정이 등장하는 레벨을 설정한다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Leader
@@ -5028,6 +5244,9 @@ msgstr "0"
 msgctxt "000EAB"
 msgid "Vastly increased health, slower.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
+"체력이 대폭 증가하나, 속도가 느려진다.\n"
+"\n"
+"이 전설 적 보정이 등장하는 레벨을 설정한다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Behemoth
@@ -5119,6 +5338,9 @@ msgstr ""
 msgctxt "000EB8"
 msgid "Thank you for your purchase! \n\nWe hope you enjoy your brand new luxury home among the stars."
 msgstr ""
+"구매해 주셔서 감사합니다!\n"
+"\n"
+"별들 사이에 마련된 귀하의 새로운 럭셔리 홈에서 즐거운 시간을 보내시길 바랍니다."
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseVerifySub
@@ -5216,7 +5438,7 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "000EC6"
 msgid "A Luxury Home Among the Stars"
-msgstr ""
+msgstr "별들 사이에 마련된 럭셔리 홈"
 
 #. List: 0
 #. EDID: SFFL_MS01_Sasha_TMLM
@@ -5335,7 +5557,7 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "000ED7"
 msgid "EMERGENCY MENU"
-msgstr ""
+msgstr "긴급 메뉴"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_GloriaHomework_ScienceEssay
@@ -5356,7 +5578,7 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "000EDA"
 msgid "Return to Security Override Options"
-msgstr ""
+msgstr "보안 재정의 설정으로 돌아가기"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminalAccessMenu
@@ -5573,14 +5795,14 @@ msgstr ""
 #. REC: TMLM:INAM
 msgctxt "000EF9"
 msgid "Terminal02"
-msgstr ""
+msgstr "Terminal02"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal02_Bridge
 #. REC: TMLM:FULL
 msgctxt "000EFA"
 msgid "Terminal02Bridge"
-msgstr ""
+msgstr "Terminal02Bridge"
 
 #. List: 0
 #. EDID: SFBGS00DDR010_TrainingCourseMenu
@@ -5741,7 +5963,7 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "000F11"
 msgid "DOOR CONTROL"
-msgstr ""
+msgstr "출입문 제어"
 
 #. List: 0
 #. EDID: SFBGS00DDR010_Turrets_SubMenu
@@ -5762,14 +5984,14 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "000F14"
 msgid "Return to Emergency Menu"
-msgstr ""
+msgstr "긴급 메뉴로 돌아가기"
 
 #. List: 0
 #. EDID: SFFL_SE_EC08_DerelictComputer_SelfDestruct
 #. REC: TMLM:ITXT
 msgctxt "000F15"
 msgid "Cancel Self-Destruct Sequence"
-msgstr ""
+msgstr "자폭 시퀀스 취소"
 
 #. List: 0
 #. EDID: SFFL_SE_EC08_DerelictComputer_SelfDestruct
@@ -5916,49 +6138,49 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "000F2A"
 msgid "Miscellaneous Optimizations"
-msgstr ""
+msgstr "기타 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_HomeScreen
 #. REC: TMLM:ITXT
 msgctxt "000F2B"
 msgid "Grav Drive Optimizations"
-msgstr ""
+msgstr "중력 구동기 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_HomeScreen
 #. REC: TMLM:ITXT
 msgctxt "000F2C"
 msgid "Engine Optimizations"
-msgstr ""
+msgstr "엔진 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_HomeScreen
 #. REC: TMLM:ITXT
 msgctxt "000F2D"
 msgid "Weapon System Optimizations"
-msgstr ""
+msgstr "무장 시스템 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_HomeScreen
 #. REC: TMLM:ITXT
 msgctxt "000F2E"
 msgid "Shield System Optimizations"
-msgstr ""
+msgstr "보호막 시스템 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_HomeScreen
 #. REC: TMLM:BTXT
 msgctxt "000F2F"
 msgid "Select a ship system to optimize:"
-msgstr ""
+msgstr "선택한 최적화 대상 함선 시스템:"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_HomeScreen
 #. REC: TMLM:FULL
 msgctxt "000F30"
 msgid "Ship Optimization Menu"
-msgstr ""
+msgstr "함선 최적화 메뉴"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Notes
@@ -6105,7 +6327,7 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "000F45"
 msgid "Missile Launch"
-msgstr ""
+msgstr "미사일 발사"
 
 #. List: 0
 #. EDID: SFFLDR021SiloTerminal_Desktop
@@ -6182,7 +6404,7 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "000F50"
 msgid "DOOR CONTROL"
-msgstr ""
+msgstr "출입문 제어"
 
 #. List: 0
 #. EDID: SFFL_SE_EC08_DerelictComputer_EmergencyMenu
@@ -6217,7 +6439,7 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "000F55"
 msgid "EMERGENCY MENU"
-msgstr ""
+msgstr "긴급 메뉴"
 
 #. List: 0
 #. EDID: SFFL_SE_EC08_DerelictComputer_GravityControl
@@ -6259,7 +6481,7 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "000F5B"
 msgid "A Luxury Home Among the Stars"
-msgstr ""
+msgstr "별들 사이에 마련된 럭셔리 홈"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_MainMenu
@@ -6469,14 +6691,14 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "000F79"
 msgid "Return"
-msgstr ""
+msgstr "돌아가기"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_EngineAccelerator
 #. REC: TMLM:ITXT
 msgctxt "000F7A"
 msgid "Optimize Subsystem <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
-msgstr ""
+msgstr "하위 시스템 최적화 <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_EngineAccelerator
@@ -6484,76 +6706,81 @@ msgstr ""
 msgctxt "000F7B"
 msgid "Ship's base speed increases 10%.\n\nRequirements: <Token.ValueInt=XTechCost> X-Tech\n\nOptimize system?"
 msgstr ""
+"함선 기본 속도가 10% 향상됩니다.\n"
+"\n"
+"필요: X-테크 <Token.ValueInt=XTechCost>개\n"
+"\n"
+"시스템을 최적화하시겠습니까?"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_EngineAccelerator
 #. REC: TMLM:FULL
 msgctxt "000F7C"
 msgid "Engine Accelerator Optimization"
-msgstr ""
+msgstr "엔진 가속기 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_WeaponsScreen
 #. REC: TMLM:ISTX
 msgctxt "000F7D"
 msgid "EM Overcharging [OPTIMIZED]"
-msgstr ""
+msgstr "전자기 과충전 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_WeaponsScreen
 #. REC: TMLM:ITXT
 msgctxt "000F7E"
 msgid "EM Overcharging [OPTIMIZED]"
-msgstr ""
+msgstr "전자기 과충전 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_WeaponsScreen
 #. REC: TMLM:ITXT
 msgctxt "000F7F"
 msgid "EM Overcharging Optimization"
-msgstr ""
+msgstr "전자기 과충전 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_WeaponsScreen
 #. REC: TMLM:ISTX
 msgctxt "000F80"
 msgid "Targeting Computer [OPTIMIZED]"
-msgstr ""
+msgstr "조준 제어 컴퓨터 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_WeaponsScreen
 #. REC: TMLM:ITXT
 msgctxt "000F81"
 msgid "Targeting Computer [OPTIMIZED]"
-msgstr ""
+msgstr "조준 제어 컴퓨터 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_WeaponsScreen
 #. REC: TMLM:ITXT
 msgctxt "000F82"
 msgid "Targeting Computer Optimization"
-msgstr ""
+msgstr "조준 제어 컴퓨터 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_WeaponsScreen
 #. REC: TMLM:ISTX
 msgctxt "000F83"
 msgid "Ammunition Reload [OPTIMIZED]"
-msgstr ""
+msgstr "탄약 재장전 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_WeaponsScreen
 #. REC: TMLM:ITXT
 msgctxt "000F84"
 msgid "Ammunition Reload [OPTIMIZED]"
-msgstr ""
+msgstr "탄약 재장전 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_WeaponsScreen
 #. REC: TMLM:ITXT
 msgctxt "000F85"
 msgid "Ammunition Reload Optimization"
-msgstr ""
+msgstr "탄약 재장전 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_WeaponsScreen
@@ -6561,76 +6788,82 @@ msgstr ""
 msgctxt "000F86"
 msgid "Running Weapon subsystems diagnostic......\nSuccess!\n\nDetermined possible optimizations.\n\n--- Please Select Subsystem Optimization---"
 msgstr ""
+"무장 하위 시스템 진단 중......\n"
+"성공!\n"
+"\n"
+"가능한 최적화를 결정합니다.\n"
+"\n"
+"--- 하위 시스템 최적화를 선택하세요 ---"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_WeaponsScreen
 #. REC: TMLM:FULL
 msgctxt "000F87"
 msgid "Weapon System Optimizations"
-msgstr ""
+msgstr "무장 시스템 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_EngineScreen
 #. REC: TMLM:ISTX
 msgctxt "000F88"
 msgid "Booster Afterburner [OPTIMIZED]"
-msgstr ""
+msgstr "부스터 애프터버너 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_EngineScreen
 #. REC: TMLM:ITXT
 msgctxt "000F89"
 msgid "Booster Afterburner [OPTIMIZED]"
-msgstr ""
+msgstr "부스터 애프터버너 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_EngineScreen
 #. REC: TMLM:ITXT
 msgctxt "000F8A"
 msgid "Booster Afterburner Optimization"
-msgstr ""
+msgstr "부스터 애프터버너 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_EngineScreen
 #. REC: TMLM:ISTX
 msgctxt "000F8B"
 msgid "Thruster Fuel [OPTIMIZED]"
-msgstr ""
+msgstr "추력기 연료 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_EngineScreen
 #. REC: TMLM:ITXT
 msgctxt "000F8C"
 msgid "Thruster Fuel [OPTIMIZED]"
-msgstr ""
+msgstr "추력기 연료 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_EngineScreen
 #. REC: TMLM:ITXT
 msgctxt "000F8D"
 msgid "Thruster Fuel Optimization"
-msgstr ""
+msgstr "추력기 연료 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_EngineScreen
 #. REC: TMLM:ISTX
 msgctxt "000F8E"
 msgid "Engine Accelerator [OPTIMIZED]"
-msgstr ""
+msgstr "엔진 가속기 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_EngineScreen
 #. REC: TMLM:ITXT
 msgctxt "000F8F"
 msgid "Engine Accelerator [OPTIMIZED]"
-msgstr ""
+msgstr "엔진 가속기 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_EngineScreen
 #. REC: TMLM:ITXT
 msgctxt "000F90"
 msgid "Engine Accelerator Optimization"
-msgstr ""
+msgstr "엔진 가속기 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_EngineScreen
@@ -6638,27 +6871,33 @@ msgstr ""
 msgctxt "000F91"
 msgid "Running Engine subsystems diagnostic......\nSuccess!\n\nDetermined possible optimizations.\n\n--- Please Select Subsystem Optimization---"
 msgstr ""
+"엔진 하위 시스템 진단 중......\n"
+"성공!\n"
+"\n"
+"가능한 최적화를 결정합니다.\n"
+"\n"
+"--- 하위 시스템 최적화를 선택하세요 ---"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_EngineScreen
 #. REC: TMLM:FULL
 msgctxt "000F92"
 msgid "Engine Optimizations"
-msgstr ""
+msgstr "엔진 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_WepAmmoReload
 #. REC: TMLM:ITXT
 msgctxt "000F93"
 msgid "Return"
-msgstr ""
+msgstr "돌아가기"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_WepAmmoReload
 #. REC: TMLM:ITXT
 msgctxt "000F94"
 msgid "Optimize Subsystem <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
-msgstr ""
+msgstr "하위 시스템 최적화 <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_WepAmmoReload
@@ -6666,27 +6905,32 @@ msgstr ""
 msgctxt "000F95"
 msgid "Weapons reload/recharge 10% faster.\n\nRequirements: <Token.ValueInt=XTechCost> X-Tech\n\nOptimize system?"
 msgstr ""
+"무기 탄약 재장전/재충전 속도가 10% 향상됩니다.\n"
+"\n"
+"필요: X-테크 <Token.ValueInt=XTechCost>개\n"
+"\n"
+"시스템을 최적화하시겠습니까?"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_WepAmmoReload
 #. REC: TMLM:FULL
 msgctxt "000F96"
 msgid "Ammunition Reload Optimization"
-msgstr ""
+msgstr "탄약 재장전 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_WepEMOvercharge
 #. REC: TMLM:ITXT
 msgctxt "000F97"
 msgid "Return"
-msgstr ""
+msgstr "돌아가기"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_WepEMOvercharge
 #. REC: TMLM:ITXT
 msgctxt "000F98"
 msgid "Optimize Subsystem <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
-msgstr ""
+msgstr "하위 시스템 최적화 <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_WepEMOvercharge
@@ -6694,13 +6938,18 @@ msgstr ""
 msgctxt "000F99"
 msgid "Electromagnetic weapons charge 15% faster.\n\nRequirements: <Token.ValueInt=XTechCost> X-Tech\n\nOptimize system?"
 msgstr ""
+"전자기 무기 재충전 속도가 15% 향상됩니다.\n"
+"\n"
+"필요: X-테크 <Token.ValueInt=XTechCost>개\n"
+"\n"
+"시스템을 최적화하시겠습니까?"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_WepEMOvercharge
 #. REC: TMLM:FULL
 msgctxt "000F9A"
 msgid "EM Overcharging Optimization"
-msgstr ""
+msgstr "전자기 과충전 최적화"
 
 #. List: 0
 #. EDID: SFBGS00DDR010_HighScore_SubMenu
@@ -6721,14 +6970,14 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "000F9D"
 msgid "Return"
-msgstr ""
+msgstr "돌아가기"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_EngineThrusterFuel
 #. REC: TMLM:ITXT
 msgctxt "000F9E"
 msgid "Optimize Subsystem <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
-msgstr ""
+msgstr "하위 시스템 최적화 <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_EngineThrusterFuel
@@ -6736,27 +6985,32 @@ msgstr ""
 msgctxt "000F9F"
 msgid "Ship Thruster turn speed increases by 10%.\n\nRequirements: <Token.ValueInt=XTechCost> X-Tech\n\nOptimize system?"
 msgstr ""
+"함선 추력기 선회 속도가 10% 향상됩니다.\n"
+"\n"
+"필요: X-테크 <Token.ValueInt=XTechCost>개\n"
+"\n"
+"시스템을 최적화하시겠습니까?"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_EngineThrusterFuel
 #. REC: TMLM:FULL
 msgctxt "000FA0"
 msgid "Thruster Fuel Optimization"
-msgstr ""
+msgstr "추력기 연료 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_EngineBoosterAfterburner
 #. REC: TMLM:ITXT
 msgctxt "000FA1"
 msgid "Return"
-msgstr ""
+msgstr "돌아가기"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_EngineBoosterAfterburner
 #. REC: TMLM:ITXT
 msgctxt "000FA2"
 msgid "Optimize Subsystem <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
-msgstr ""
+msgstr "하위 시스템 최적화 <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_EngineBoosterAfterburner
@@ -6764,27 +7018,32 @@ msgstr ""
 msgctxt "000FA3"
 msgid "Ship boosting lasts 10% longer.\n\nRequirements: <Token.ValueInt=XTechCost> X-Tech\n\nOptimize system?"
 msgstr ""
+"함선 부스터가 10% 오래 지속됩니다.\n"
+"\n"
+"필요: X-테크 <Token.ValueInt=XTechCost>개\n"
+"\n"
+"시스템을 최적화하시겠습니까?"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_EngineBoosterAfterburner
 #. REC: TMLM:FULL
 msgctxt "000FA4"
 msgid "Booster Afterburner Optimization"
-msgstr ""
+msgstr "부스터 애프터버너 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_MiscRepairFunc
 #. REC: TMLM:ITXT
 msgctxt "000FA5"
 msgid "Return"
-msgstr ""
+msgstr "돌아가기"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_MiscRepairFunc
 #. REC: TMLM:ITXT
 msgctxt "000FA6"
 msgid "Optimize Subsystem <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
-msgstr ""
+msgstr "하위 시스템 최적화 <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_MiscRepairFunc
@@ -6792,27 +7051,32 @@ msgstr ""
 msgctxt "000FA7"
 msgid "Ship Systems repair 10% faster.\n\nRequirements: <Token.ValueInt=XTechCost> X-Tech\n\nOptimize system?"
 msgstr ""
+"함선 시스템 수리 속도가 10% 향상됩니다.\n"
+"\n"
+"필요: X-테크 <Token.ValueInt=XTechCost>개\n"
+"\n"
+"시스템을 최적화하시겠습니까?"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_MiscRepairFunc
 #. REC: TMLM:FULL
 msgctxt "000FA8"
 msgid "Repair Function Optimization"
-msgstr ""
+msgstr "수리 기능 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_MiscCargoManage
 #. REC: TMLM:ITXT
 msgctxt "000FA9"
 msgid "Return"
-msgstr ""
+msgstr "돌아가기"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_MiscCargoManage
 #. REC: TMLM:ITXT
 msgctxt "000FAA"
 msgid "Optimize Subsystem <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
-msgstr ""
+msgstr "하위 시스템 최적화 <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_MiscCargoManage
@@ -6820,27 +7084,32 @@ msgstr ""
 msgctxt "000FAB"
 msgid "Increases ship cargo capacity by 10%.\n\nRequirements: <Token.ValueInt=XTechCost> X-Tech\n\nOptimize system?"
 msgstr ""
+"함선 화물칸 용량이 10% 향상됩니다.\n"
+"\n"
+"필요: X-테크 <Token.ValueInt=XTechCost>개\n"
+"\n"
+"시스템을 최적화하시겠습니까?"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_MiscCargoManage
 #. REC: TMLM:FULL
 msgctxt "000FAC"
 msgid "Cargo Management Optimization"
-msgstr ""
+msgstr "화물칸 관리 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_MiscHullIntegrity
 #. REC: TMLM:ITXT
 msgctxt "000FAD"
 msgid "Return"
-msgstr ""
+msgstr "돌아가기"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_MiscHullIntegrity
 #. REC: TMLM:ITXT
 msgctxt "000FAE"
 msgid "Optimize Subsystem <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
-msgstr ""
+msgstr "하위 시스템 최적화 <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_MiscHullIntegrity
@@ -6848,13 +7117,18 @@ msgstr ""
 msgctxt "000FAF"
 msgid "Increases hull health by 10%.\n\nRequirements: <Token.ValueInt=XTechCost> X-Tech\n\nOptimize system?"
 msgstr ""
+"선체 내구도가 10% 향상됩니다.\n"
+"\n"
+"필요: X-테크 <Token.ValueInt=XTechCost>개\n"
+"\n"
+"시스템을 최적화하시겠습니까?"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_MiscHullIntegrity
 #. REC: TMLM:FULL
 msgctxt "000FB0"
 msgid "Hull Integrity Optimization"
-msgstr ""
+msgstr "선체 강도 최적화"
 
 #. List: 0
 #. EDID: SFFL_MS01_BabylonDrKim01_HackedTMLM
@@ -7607,7 +7881,7 @@ msgstr ""
 #. REC: MESG:FULL
 msgctxt "001075"
 msgid "Lieutenant Kibwe Ikande"
-msgstr ""
+msgstr "키브웨 이칸데 대위"
 
 #. List: 0
 #. EDID: StarbornContainerMaxCapacityMsg
@@ -7712,7 +7986,7 @@ msgstr ""
 #. REC: LCTN:FULL
 msgctxt "00108F"
 msgid "Asteroid Mine"
-msgstr ""
+msgstr "소행성 광산"
 
 #. List: 0
 #. EDID: SFFLOESM06Location
@@ -7726,7 +8000,7 @@ msgstr ""
 #. REC: LCTN:FULL
 msgctxt "001091"
 msgid "Anchorpoint"
-msgstr ""
+msgstr "앵커포인트"
 
 #. List: 0
 #. EDID: SFFL_R01_HoldingCellLocation
@@ -7740,7 +8014,7 @@ msgstr "SFFL_R01 Holding Cell"
 #. REC: LCTN:FULL
 msgctxt "001093"
 msgid "Chateau des Etoiles"
-msgstr ""
+msgstr "샤토 데 제투알"
 
 #. List: 0
 #. EDID: SFFLOEAF09Location
@@ -7775,14 +8049,14 @@ msgstr "센서 탐지 대상"
 #. REC: LCTN:FULL
 msgctxt "001098"
 msgid "Chateau des Etoiles"
-msgstr ""
+msgstr "샤토 데 제투알"
 
 #. List: 0
 #. EDID: SFFLAsteroidManorInteriorLocation
 #. REC: LCTN:FULL
 msgctxt "001099"
 msgid "Chateau des Etoiles"
-msgstr ""
+msgstr "샤토 데 제투알"
 
 #. List: 0
 #. EDID: SFFLDR026Location
@@ -7817,105 +8091,105 @@ msgstr "치명적인용병TA효과 킬 카운트 AV"
 #. REC: PERK:FULL
 msgctxt "00109E"
 msgid "Booster Afterburner Optimization"
-msgstr ""
+msgstr "부스터 애프터버너 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrades_Misc_RepairFunction_Perk
 #. REC: PERK:FULL
 msgctxt "00109F"
 msgid "Repair Function Optimization"
-msgstr ""
+msgstr "수리 기능 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrades_Misc_HullIntegrity_Perk
 #. REC: PERK:FULL
 msgctxt "0010A0"
 msgid "Hull Integrity Optimization"
-msgstr ""
+msgstr "선체 강도 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrades_GravDrive_FuelMitigator_Perk
 #. REC: PERK:FULL
 msgctxt "0010A1"
 msgid "Grav Drive Fuel Mitigator Optimization"
-msgstr ""
+msgstr "중력 구동기 연료 절감기 최적화"
 
 #. List: 0
 #. EDID: SMS_AdvancedShipScrap_Perk
 #. REC: PERK:FULL
 msgctxt "0010A2"
 msgid "Advanced Ship Scrap Unit"
-msgstr ""
+msgstr "고급 함선 수집기"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_Unit99_Perk
 #. REC: PERK:FULL
 msgctxt "0010A3"
 msgid "Colony War Action Hero - Unit 99"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 99호"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_AdmiralOdeBalewa_Perk
 #. REC: PERK:FULL
 msgctxt "0010A4"
 msgid "Colony War Action Hero: Admiral Ode Balewa"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 오데 발레와 제독"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_UCArmySoldier_Perk
 #. REC: PERK:FULL
 msgctxt "0010A5"
 msgid "Colony War Action Hero - Fleet Admiral Francois \"Vae Victis\" Sanon"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 프랑수아 \"베이 빅티스\" 사논 함대 제독"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_IndiraRastogi_Perk
 #. REC: PERK:FULL
 msgctxt "0010A6"
 msgid "Colony War Action Hero - General Indira Rastogi"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 인디라 라스토기 장군"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_UCNavalOfficer_Perk
 #. REC: PERK:FULL
 msgctxt "0010A7"
 msgid "Colony War Action Hero - United Colonies Naval Officer"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 식민지 연합 해군 장교"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_MayaCruz_Perk
 #. REC: PERK:FULL
 msgctxt "0010A8"
 msgid "Colony War Action Hero - Sergeant Maya Cruz"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 마야 크루즈 병장"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_HadrianSanon_Perk
 #. REC: PERK:FULL
 msgctxt "0010A9"
 msgid "Colony War Action Hero - Major Hadrian Sanon"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 헤이드리안 사논 소령"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_Kaiser_Perk
 #. REC: PERK:FULL
 msgctxt "0010AA"
 msgid "Colony War Action Hero - Kaiser"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 카이저"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_CaptainMyeong_Perk
 #. REC: PERK:FULL
 msgctxt "0010AB"
 msgid "Colony War Action Hero - Captain Myeong"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 명 함장"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_KreetStalker_Perk
 #. REC: PERK:FULL
 msgctxt "0010AC"
 msgid "Colony War Action Hero - Kreet Stalker"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 크릿 미행꾼"
 
 #. List: 0
 #. EDID: Perk_Legendary_Pack_Grenadier
@@ -7929,56 +8203,56 @@ msgstr "공중척탄병TA효과"
 #. REC: PERK:FULL
 msgctxt "0010AF"
 msgid "Thruster Fuel Optimization"
-msgstr ""
+msgstr "추력기 연료 최적화"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaMedic_Perk
 #. REC: PERK:FULL
 msgctxt "0010B0"
 msgid "Colony War Action Hero - Freestar Militia Medic"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 자유항성 민병대 의무병"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_PaxtonHull_Perk
 #. REC: PERK:FULL
 msgctxt "0010B1"
 msgid "Colony War Action Hero - Major Paxton Hull"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 팩스턴 헐 소령"
 
 #. List: 0
 #. EDID: ShipUpgrades_Engines_EngineAccelerator_Perk
 #. REC: PERK:FULL
 msgctxt "0010B2"
 msgid "Engine Accelerator Optimization"
-msgstr ""
+msgstr "엔진 가속기 최적화"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMechPilot_Perk
 #. REC: PERK:FULL
 msgctxt "0010B3"
 msgid "Colony War Action Hero - Freestar Mech Pilot"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 자유항성 메크 조종사"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_TolliverRoyce_Perk
 #. REC: PERK:FULL
 msgctxt "0010B4"
 msgid "Colony War Action Hero - General Tolliver Royce"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 톨리버 로이스 장군"
 
 #. List: 0
 #. EDID: SFFL_MS01_CaptiveFactionPerk
 #. REC: PERK:FULL
 msgctxt "0010B5"
 msgid "Activation Choice Perk"
-msgstr ""
+msgstr "작동 선택 특성"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_JasperKryx_Perk
 #. REC: PERK:FULL
 msgctxt "0010B6"
 msgid "Colony War Action Hero - Jasper Kryx"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 재스퍼 크릭스"
 
 #. List: 0
 #. EDID: Perk_Legendary_Pack_AerialAdvantage_TempPerk
@@ -8027,21 +8301,21 @@ msgstr "LegendaryModifier_Tricky"
 #. REC: PERK:FULL
 msgctxt "0010BD"
 msgid "Ammunition Reload Optimization"
-msgstr ""
+msgstr "탄약 재장전 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrades_Weapons_TargetingComp_Perk
 #. REC: PERK:FULL
 msgctxt "0010BE"
 msgid "Targeting Computer Optimization"
-msgstr ""
+msgstr "조준 제어 컴퓨터 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrades_Weapons_EMOvercharging_Perk
 #. REC: PERK:FULL
 msgctxt "0010BF"
 msgid "EM Overcharging Optimization"
-msgstr ""
+msgstr "전자기 과충전 최적화"
 
 #. List: 0
 #. EDID: LegendaryRobotList
@@ -8209,7 +8483,7 @@ msgstr "[Debug Quest for SFFL_R01]"
 #. REC: WRLD:FULL
 msgctxt "0013FA"
 msgid "Scrap Metal Foundry"
-msgstr ""
+msgstr "고철 주조공장"
 
 #. List: 0
 #. EDID: scSFFLSE015
@@ -8223,7 +8497,7 @@ msgstr ""
 #. REC: CELL:FULL
 msgctxt "0013FC"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: scSFFLSE077
@@ -8244,14 +8518,14 @@ msgstr "센서 탐지 대상"
 #. REC: CELL:FULL
 msgctxt "0013FF"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: scSFFLSE009
 #. REC: CELL:FULL
 msgctxt "001400"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: [01078C7E]
@@ -8293,7 +8567,7 @@ msgstr "Quick Test Cell"
 #. REC: CELL:FULL
 msgctxt "001406"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: CTESTEC
@@ -8307,7 +8581,7 @@ msgstr "Quick Test Cell"
 #. REC: CELL:FULL
 msgctxt "001408"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: [01084781]
@@ -8321,7 +8595,7 @@ msgstr "센서 탐지 대상"
 #. REC: CELL:FULL
 msgctxt "00140A"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: [0107E7B9]
@@ -8335,42 +8609,42 @@ msgstr "센서 탐지 대상"
 #. REC: CELL:FULL
 msgctxt "00140C"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: SMS_Equipment_MicroReactor
 #. REC: GBFM:FULL
 msgctxt "00140D"
 msgid "Micro-Reactor"
-msgstr ""
+msgstr "소형 반응로"
 
 #. List: 0
 #. EDID: SMS_Equipment_EvasiveStealthDrive
 #. REC: GBFM:FULL
 msgctxt "00140E"
 msgid "Evasive Stealth Drive"
-msgstr ""
+msgstr "스텔스 회피기동기"
 
 #. List: 0
 #. EDID: SMS_Equipment_AntiTargetingSystem
 #. REC: GBFM:FULL
 msgctxt "00140F"
 msgid "Anti-Targeting System"
-msgstr ""
+msgstr "안티 락온 시스템"
 
 #. List: 0
 #. EDID: SMS_Equipment_EMPulseShielding
 #. REC: GBFM:FULL
 msgctxt "001410"
 msgid "EM Pulse Shielding"
-msgstr ""
+msgstr "전자기 펄스 차폐기"
 
 #. List: 0
 #. EDID: SMS_Equipment_BuoyantInsulators
 #. REC: GBFM:FULL
 msgctxt "001411"
 msgid "Buoyant Insulators"
-msgstr ""
+msgstr "부양성 단열재"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal
@@ -8384,7 +8658,7 @@ msgstr ""
 #. REC: TERM:FULL
 msgctxt "001413"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_ShipAccessKey
@@ -8566,7 +8840,7 @@ msgstr "앵커포인트 경비대원"
 #. REC: NPC_:SHRT
 msgctxt "00142D"
 msgid "Patron"
-msgstr ""
+msgstr "후원자"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointPatronF02
@@ -8741,7 +9015,7 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "001448"
 msgid "Action Figure: Sealed Lieutenant Kibwe Ikande"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 키브웨 이칸데 대위"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_VaeVictis_Sealed
@@ -8762,7 +9036,7 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "00144B"
 msgid "Schematic - Anti-Targeting System"
-msgstr ""
+msgstr "설계도 - 안티 락온 시스템"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_Terrormorph
@@ -8853,14 +9127,14 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "001458"
 msgid "Schematic - Evasive Stealth Drive"
-msgstr ""
+msgstr "설계도 - 스텔스 회피기동기"
 
 #. List: 0
 #. EDID: EquipmentSchematics_AdvancedShipScrapUnit
 #. REC: MISC:FULL
 msgctxt "001459"
 msgid "Schematic - Advanced Ship Scrap Unit"
-msgstr ""
+msgstr "설계도 - 고급 함선 수집기"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_JasperKryx_Sealed
@@ -8902,7 +9176,7 @@ msgstr ""
 #. REC: CONT:FULL
 msgctxt "00145F"
 msgid "Colony War Action Hero Sealed Display"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 밀봉 전시대"
 
 #. List: 0
 #. EDID: Vendor_SFFL_SE_EC03_FanishaLinkedContainer_1
@@ -9021,7 +9295,7 @@ msgstr "초고속TA효과 주문"
 #. REC: ENCH:FULL
 msgctxt "001476"
 msgid "Micro-Reactor"
-msgstr ""
+msgstr "소형 반응로"
 
 #. List: 0
 #. EDID: Ench_Legendary_Helmet_Mercenary
@@ -9035,7 +9309,7 @@ msgstr "치명적인용병TA효과"
 #. REC: ENCH:FULL
 msgctxt "001478"
 msgid "Buoyant Insulators Ench"
-msgstr ""
+msgstr "부양성 단열재 부여효과"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Mercenary_Cooldown
@@ -9056,7 +9330,7 @@ msgstr "재사용 대기시간"
 #. REC: MGEF:FULL
 msgctxt "00147B"
 msgid "Micro-Reactor"
-msgstr ""
+msgstr "소형 반응로"
 
 #. List: 0
 #. EDID: abFortifyReloadSpeedMult
@@ -9119,7 +9393,7 @@ msgstr "격려TA효과"
 #. REC: MGEF:FULL
 msgctxt "001484"
 msgid "Extended Comm Array"
-msgstr ""
+msgstr "확장 통신 배열기"
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Pyro
@@ -9169,6 +9443,9 @@ msgstr "0"
 msgctxt "00148B"
 msgid "Throws incendiary grenades.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
+"소이 수류탄을 투척한다.\n"
+"\n"
+"이 전설 적 보정이 등장하는 레벨을 설정한다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Pyro
@@ -9182,14 +9459,14 @@ msgstr "방화광TA효과 보정 레벨"
 #. REC: TMLM:ITXT
 msgctxt "00148D"
 msgid "Return"
-msgstr ""
+msgstr "돌아가기"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_GravDriveComp
 #. REC: TMLM:ITXT
 msgctxt "00148E"
 msgid "Optimize Subsystem <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
-msgstr ""
+msgstr "하위 시스템 최적화 <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_GravDriveComp
@@ -9197,6 +9474,11 @@ msgstr ""
 msgctxt "00148F"
 msgid "Grav Drive calculation speed increased by 10%.\n\nRequirements: <Token.ValueInt=XTechCost> X-Tech\n\nOptimize system?"
 msgstr ""
+"중력 구동기 연산 속도가 10% 향상됩니다.\n"
+"\n"
+"필요: X-테크 <Token.ValueInt=XTechCost>개\n"
+"\n"
+"시스템을 최적화하시겠습니까?"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_GravDriveComp
@@ -9210,14 +9492,14 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "001491"
 msgid "Return"
-msgstr ""
+msgstr "돌아가기"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_GravJumpRouting
 #. REC: TMLM:ITXT
 msgctxt "001492"
 msgid "Optimize Subsystem <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
-msgstr ""
+msgstr "하위 시스템 최적화 <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_GravJumpRouting
@@ -9225,13 +9507,18 @@ msgstr ""
 msgctxt "001493"
 msgid "Increases grav jump distance by 10%.\n\nRequirements: <Token.ValueInt=XTechCost> X-Tech\n\nOptimize system?"
 msgstr ""
+"중력 도약 거리가 10% 향상됩니다.\n"
+"\n"
+"필요: X-테크 <Token.ValueInt=XTechCost>개\n"
+"\n"
+"시스템을 최적화하시겠습니까?"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_GravJumpRouting
 #. REC: TMLM:FULL
 msgctxt "001494"
 msgid "Grav Jump Routing Optimization"
-msgstr ""
+msgstr "중력 도약 경로 연산 최적화"
 
 #. List: 0
 #. EDID: mod_AVM_Solstice_c_SFBGS045_Varuun
@@ -9294,21 +9581,21 @@ msgstr ""
 #. REC: MESG:NNAM
 msgctxt "0014A7"
 msgid "Free Lanes - Encounters"
-msgstr ""
+msgstr "프리 레인스 - 인카운터"
 
 #. List: 0
 #. EDID: HelpFreeLanesEncountersPC
 #. REC: MESG:FULL
 msgctxt "0014A8"
 msgid "Free Lanes - Encounters"
-msgstr ""
+msgstr "프리 레인스 - 인카운터"
 
 #. List: 0
 #. EDID: SFFLDR028AsteroidMineLocation
 #. REC: LCTN:FULL
 msgctxt "0014AB"
 msgid "RedCap Asteroid Mine"
-msgstr ""
+msgstr "레드캡 소행성 광산"
 
 #. List: 0
 #. EDID: SFFLDR027AsteroidMineSpaceLocation
@@ -9322,7 +9609,7 @@ msgstr ""
 #. REC: LCTN:FULL
 msgctxt "0014AD"
 msgid "RedCap Asteroid Mine"
-msgstr ""
+msgstr "레드캡 소행성 광산"
 
 #. List: 0
 #. EDID: SFFLOETH02Location
@@ -9343,7 +9630,7 @@ msgstr "격려TA효과"
 #. REC: PERK:FULL
 msgctxt "0014B0"
 msgid "Colony War Action Hero - Doctor Percival Walker"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 퍼시벌 워커 박사"
 
 #. List: 0
 #. EDID: LS_SFBGS00D_LegendaryRank4Crafting01
@@ -9434,7 +9721,7 @@ msgstr ""
 #. REC: QUST:FULL
 msgctxt "0017A1"
 msgid "A Missing Beloved"
-msgstr ""
+msgstr "사라진 연인"
 
 #. List: 0
 #. EDID: SFFLPOI100YGTEST
@@ -9469,21 +9756,21 @@ msgstr ""
 #. REC: CELL:FULL
 msgctxt "0018E9"
 msgid "Chateau des Etoiles"
-msgstr ""
+msgstr "샤토 데 제투알"
 
 #. List: 0
 #. EDID: scSFFLSE007
 #. REC: CELL:FULL
 msgctxt "0018EA"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: scSFFLSE040
 #. REC: CELL:FULL
 msgctxt "0018EB"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: [01084B0D]
@@ -9511,7 +9798,7 @@ msgstr ""
 #. REC: CELL:FULL
 msgctxt "0018F0"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: SFFLTestKris
@@ -9546,28 +9833,28 @@ msgstr "센서 탐지 대상"
 #. REC: CELL:FULL
 msgctxt "0018F5"
 msgid "Abandoned Mine Field"
-msgstr ""
+msgstr "폐광 지대"
 
 #. List: 0
 #. EDID: scSFFLSE013
 #. REC: CELL:FULL
 msgctxt "0018F6"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: SFFL_SE01_GrandmaShip
 #. REC: GBFM:FULL
 msgctxt "0018F7"
 msgid "Narcissus"
-msgstr ""
+msgstr "나르키소스"
 
 #. List: 0
 #. EDID: SFFLDR027AsteroidMine
 #. REC: GBFM:FULL
 msgctxt "0018F8"
 msgid "Asteroid Mine"
-msgstr ""
+msgstr "소행성 광산"
 
 #. List: 0
 #. EDID: SFFLDR029AsteroidMine
@@ -9588,7 +9875,7 @@ msgstr ""
 #. REC: TERM:FULL
 msgctxt "0018FB"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Terminal
@@ -9602,21 +9889,21 @@ msgstr ""
 #. REC: TERM:FULL
 msgctxt "0018FD"
 msgid "Ship Optimization Terminal"
-msgstr ""
+msgstr "함선 최적화 단말기"
 
 #. List: 0
 #. EDID: SFFLDR021_Terminal
 #. REC: TERM:FULL
 msgctxt "0018FE"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_BridgeTerminal
 #. REC: TERM:FULL
 msgctxt "0018FF"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 #. List: 0
 #. EDID: SFBGS00D_AirlockAntiGravity_NoRadius
@@ -9903,7 +10190,7 @@ msgstr "사거리 업그레이드 (원거리)"
 #. REC: MISC:FULL
 msgctxt "00192A"
 msgid "Schematic - Micro-Reactor"
-msgstr ""
+msgstr "설계도 - 소형 반응로"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_AdmiralOdeBalewa
@@ -9917,7 +10204,7 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "00192C"
 msgid "Schematic - Buoyant Insulators"
-msgstr ""
+msgstr "설계도 - 부양성 단열재"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointZ04_Contraband
@@ -10078,21 +10365,21 @@ msgstr ""
 #. REC: BOOK:FNAM
 msgctxt "001945"
 msgid "Sponsored By: Chunks"
-msgstr ""
+msgstr "청크 사 제공"
 
 #. List: 0
 #. EDID: SFFL_MS01_RelaxationTape03
 #. REC: BOOK:ENAM
 msgctxt "001946"
 msgid "Volume Three"
-msgstr ""
+msgstr "3편"
 
 #. List: 0
 #. EDID: SFFL_MS01_RelaxationTape03
 #. REC: BOOK:FULL
 msgctxt "001948"
 msgid "Relaxation Tape Vol. 3"
-msgstr ""
+msgstr "휴식을 위한 테이프 3편"
 
 #. List: 0
 #. EDID: SFBGS00DDR009_Slate01
@@ -10148,14 +10435,14 @@ msgstr ""
 #. REC: BOOK:FNAM
 msgctxt "001956"
 msgid "Sponsored by: Chunks "
-msgstr ""
+msgstr "청크 사 제공 "
 
 #. List: 0
 #. EDID: SFFL_MS01_RelaxationTape01
 #. REC: BOOK:ENAM
 msgctxt "001957"
 msgid "Volume One"
-msgstr ""
+msgstr "1편"
 
 #. List: 0
 #. EDID: SFFL_MS01_Clothes_Glasses
@@ -10253,7 +10540,7 @@ msgstr "심연의해방TA효과"
 #. REC: ENCH:FULL
 msgctxt "001965"
 msgid "Extended Comm Array"
-msgstr ""
+msgstr "확장 통신 배열기"
 
 #. List: 0
 #. EDID: Ench_Legendary_Pack_Grenadier
@@ -10379,14 +10666,14 @@ msgstr ""
 #. REC: FACT:FULL
 msgctxt "001978"
 msgid "New Babylon Faction"
-msgstr ""
+msgstr "뉴바빌론 세력"
 
 #. List: 0
 #. EDID: SFFL_MS01_NewBabylonYeatsFaction
 #. REC: FACT:FULL
 msgctxt "001979"
 msgid "New Babylon Faction"
-msgstr ""
+msgstr "뉴바빌론 세력"
 
 #. List: 0
 #. EDID: ap_Legendary_rank_2
@@ -10443,6 +10730,9 @@ msgstr "0"
 msgctxt "001981"
 msgid "Dying puts nearby allies into a rage.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
+"쓰러지면 근처 아군이 분노한다.\n"
+"\n"
+"이 전설 적 보정이 등장하는 레벨을 설정한다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Martyr
@@ -10673,14 +10963,14 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "0019A2"
 msgid "Return"
-msgstr ""
+msgstr "돌아가기"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_WepTargetComp
 #. REC: TMLM:ITXT
 msgctxt "0019A3"
 msgid "Optimize Subsystem <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
-msgstr ""
+msgstr "하위 시스템 최적화 <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_WepTargetComp
@@ -10688,27 +10978,32 @@ msgstr ""
 msgctxt "0019A4"
 msgid "Targeting enemy ships in Targeting Mode is 10% faster.\n\nRequirements: <Token.ValueInt=XTechCost> X-Tech\n\nOptimize system?"
 msgstr ""
+"조준 모드에서 적 함선을 락온하기까지 걸리는 속도가 10% 향상됩니다.\n"
+"\n"
+"필요: X-테크 <Token.ValueInt=XTechCost>개\n"
+"\n"
+"시스템을 최적화하시겠습니까?"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_WepTargetComp
 #. REC: TMLM:FULL
 msgctxt "0019A5"
 msgid "Targeting Computer Optimization"
-msgstr ""
+msgstr "조준 제어 컴퓨터 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_ShieldEnergyDisp
 #. REC: TMLM:ITXT
 msgctxt "0019A6"
 msgid "Return"
-msgstr ""
+msgstr "돌아가기"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_ShieldEnergyDisp
 #. REC: TMLM:ITXT
 msgctxt "0019A7"
 msgid "Optimize Subsystem <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
-msgstr ""
+msgstr "하위 시스템 최적화 <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_ShieldEnergyDisp
@@ -10716,13 +11011,18 @@ msgstr ""
 msgctxt "0019A8"
 msgid "Shields take 10% less damage from Energy Weapons.\n\nRequirements: <Token.ValueInt=XTechCost> X-Tech\n\nOptimize system?"
 msgstr ""
+"보호막이 에너지 무기로부터 받는 피해가 10% 감소합니다.\n"
+"\n"
+"필요: X-테크 <Token.ValueInt=XTechCost>개\n"
+"\n"
+"시스템을 최적화하시겠습니까?"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_ShieldEnergyDisp
 #. REC: TMLM:FULL
 msgctxt "0019A9"
 msgid "Shield Energy Dispensation"
-msgstr ""
+msgstr "보호막 에너지 배분"
 
 #. List: 0
 #. EDID: SFFL_SE_KT01_CaptainComputerEntry
@@ -10834,63 +11134,63 @@ msgstr ""
 #. REC: TMLM:ISTX
 msgctxt "0019B9"
 msgid "Grav Jump Routing [OPTIMIZED]"
-msgstr ""
+msgstr "중력 도약 경로 연산 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_GravDriveScreen
 #. REC: TMLM:ITXT
 msgctxt "0019BA"
 msgid "Grav Jump Routing [OPTIMIZED]"
-msgstr ""
+msgstr "중력 도약 경로 연산 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_GravDriveScreen
 #. REC: TMLM:ITXT
 msgctxt "0019BB"
 msgid "Grav Jump Routing Optimization"
-msgstr ""
+msgstr "중력 도약 경로 연산 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_GravDriveScreen
 #. REC: TMLM:ISTX
 msgctxt "0019BC"
 msgid "Grav Drive Fuel Mitigator [OPTIMIZED]"
-msgstr ""
+msgstr "중력 구동기 연료 절감기 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_GravDriveScreen
 #. REC: TMLM:ITXT
 msgctxt "0019BD"
 msgid "Grav Drive Fuel Mitigator [OPTIMIZED]"
-msgstr ""
+msgstr "중력 구동기 연료 절감기 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_GravDriveScreen
 #. REC: TMLM:ITXT
 msgctxt "0019BE"
 msgid "Grav Drive Fuel Optimization"
-msgstr ""
+msgstr "중력 구동기 연료 절감기 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_GravDriveScreen
 #. REC: TMLM:ISTX
 msgctxt "0019BF"
 msgid "Grav Drive Computation [OPTIMIZED]"
-msgstr ""
+msgstr "중력 구동기 연산 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_GravDriveScreen
 #. REC: TMLM:ITXT
 msgctxt "0019C0"
 msgid "Grav Drive Computation [OPTIMIZED]"
-msgstr ""
+msgstr "중력 구동기 연산 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_GravDriveScreen
 #. REC: TMLM:ITXT
 msgctxt "0019C1"
 msgid "Grav Drive Computation Update"
-msgstr ""
+msgstr "중력 구동기 연산 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_GravDriveScreen
@@ -10898,76 +11198,82 @@ msgstr ""
 msgctxt "0019C2"
 msgid "Running Grav Drive subsystems diagnostic......\nSuccess!\n\nDetermined possible optimizations.\n\n--- Please Select Subsystem Optimization---"
 msgstr ""
+"중력 구동기 하위 시스템 진단 중......\n"
+"성공!\n"
+"\n"
+"가능한 최적화를 결정합니다.\n"
+"\n"
+"--- 하위 시스템 최적화를 선택하세요 ---"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_GravDriveScreen
 #. REC: TMLM:FULL
 msgctxt "0019C3"
 msgid "Grav Drive Optimizations"
-msgstr ""
+msgstr "중력 구동기 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_MiscScreen
 #. REC: TMLM:ISTX
 msgctxt "0019C4"
 msgid "Cargo Management [OPTIMIZED]"
-msgstr ""
+msgstr "화물칸 관리 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_MiscScreen
 #. REC: TMLM:ITXT
 msgctxt "0019C5"
 msgid "Cargo Management [OPTIMIZED]"
-msgstr ""
+msgstr "화물칸 관리 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_MiscScreen
 #. REC: TMLM:ITXT
 msgctxt "0019C6"
 msgid "Cargo Management Optimization"
-msgstr ""
+msgstr "화물칸 관리 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_MiscScreen
 #. REC: TMLM:ISTX
 msgctxt "0019C7"
 msgid "Repair Function [OPTIMIZED]"
-msgstr ""
+msgstr "수리 기능 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_MiscScreen
 #. REC: TMLM:ITXT
 msgctxt "0019C8"
 msgid "Repair Function [OPTIMIZED]"
-msgstr ""
+msgstr "수리 기능 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_MiscScreen
 #. REC: TMLM:ITXT
 msgctxt "0019C9"
 msgid "Repair Function Optimization"
-msgstr ""
+msgstr "수리 기능 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_MiscScreen
 #. REC: TMLM:ISTX
 msgctxt "0019CA"
 msgid "Hull Integrity [OPTIMIZED]"
-msgstr ""
+msgstr "선체 강도 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_MiscScreen
 #. REC: TMLM:ITXT
 msgctxt "0019CB"
 msgid "Hull Integrity [OPTIMIZED]"
-msgstr ""
+msgstr "선체 강도 [최적화 완료]"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_MiscScreen
 #. REC: TMLM:ITXT
 msgctxt "0019CC"
 msgid "Hull Integrity Optimization"
-msgstr ""
+msgstr "선체 강도 최적화"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_MiscScreen
@@ -10975,13 +11281,19 @@ msgstr ""
 msgctxt "0019CD"
 msgid "Running Miscellaneous subsystems diagnostic......\nSuccess!\n\nDetermined possible optimizations.\n\n--- Please Select Subsystem Optimization---"
 msgstr ""
+"기타 하위 시스템 진단 중......\n"
+"성공!\n"
+"\n"
+"가능한 최적화를 결정합니다.\n"
+"\n"
+"--- 하위 시스템 최적화를 선택하세요 ---"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_MiscScreen
 #. REC: TMLM:FULL
 msgctxt "0019CE"
 msgid "Miscellaneous Optimizations"
-msgstr ""
+msgstr "기타 최적화"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues_Clue5
@@ -11177,28 +11489,28 @@ msgstr "허상TA효과"
 #. REC: PERK:EPF2
 msgctxt "001A00"
 msgid "Feed"
-msgstr ""
+msgstr "먹이주기"
 
 #. List: 0
 #. EDID: SFFL_MS03_MilliPerk
 #. REC: PERK:FULL
 msgctxt "001A01"
 msgid "Milli feeding perk"
-msgstr ""
+msgstr "밀리 먹이주기 특성"
 
 #. List: 0
 #. EDID: SMS_RepairSystemOverdrive_Perk
 #. REC: PERK:FULL
 msgctxt "001A02"
 msgid "Repair System Overdrive"
-msgstr ""
+msgstr "수리 시스템 초과구동기"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_VaeVictis_Perk
 #. REC: PERK:FULL
 msgctxt "001A03"
 msgid "Colony War Action Hero - Fleet Admiral Francois \"Vae Victis\" Sanon"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 프랑수아 \"베이 빅티스\" 사논 함대 제독"
 
 #. List: 0
 #. EDID: Perk_Legendary_Suit_AbyssalRelease
@@ -11233,28 +11545,28 @@ msgstr "숙명TA효과"
 #. REC: PERK:FULL
 msgctxt "001A08"
 msgid "Colony War Action Hero - Commander Sarah Morgan"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 사라 모건 지휘관"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaSoldier_Perk
 #. REC: PERK:FULL
 msgctxt "001A09"
 msgid "Colony War Action Hero - Freestar Militia Soldier"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 자유항성 민병대 병사"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_MarcoGraziani_Perk
 #. REC: PERK:FULL
 msgctxt "001A0A"
 msgid "Colony War Action Hero - Sergeant Marco Graziani"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 마르코 그라치아니 병장"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_Terrormorph_Perk
 #. REC: PERK:FULL
 msgctxt "001A0B"
 msgid "Colony War Action Hero - Terrormorph"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 - 테러모프"
 
 #. List: 0
 #. EDID: LegendaryModifier_Leader
@@ -11268,14 +11580,14 @@ msgstr "LegendaryModifier_Leader"
 #. REC: PERK:FULL
 msgctxt "001A0D"
 msgid "Shield Heatlh - Ship Upgrade"
-msgstr ""
+msgstr "보호막 내구도 - 함선 업그레이드"
 
 #. List: 0
 #. EDID: ShipUpgrades_GravDrive_JumpRouting_Perk
 #. REC: PERK:FULL
 msgctxt "001A0E"
 msgid "Grav Jump Routing Optimization"
-msgstr ""
+msgstr "중력 도약 경로 연산 최적화"
 
 #. List: 0
 #. EDID: LS_SFBGS00D_LegendaryRerolls01
@@ -11296,7 +11608,7 @@ msgstr ""
 #. REC: QUST:FULL
 msgctxt "001A46"
 msgid "Dead But Dreaming"
-msgstr ""
+msgstr "죽었으나 꿈꾸는 자"
 
 #. List: 0
 #. EDID: SFBGS00D_SQ_PEO
@@ -11723,7 +12035,7 @@ msgstr "센서 탐지 대상"
 #. REC: CELL:FULL
 msgctxt "001E78"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: SFFLTestAlbert
@@ -11758,7 +12070,7 @@ msgstr "센서 탐지 대상"
 #. REC: CELL:FULL
 msgctxt "001E7D"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: SFFLDR028Interior
@@ -11772,7 +12084,7 @@ msgstr ""
 #. REC: CELL:FULL
 msgctxt "001E7F"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: [0107113C]
@@ -11996,7 +12308,7 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "001EA0"
 msgid "Milli"
-msgstr "천분이"
+msgstr "밀리"
 
 #. List: 0
 #. EDID: SFBGS00DDR008_EncCataxiQueen03
@@ -12073,7 +12385,7 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "001EAC"
 msgid "Schematic - EM Pulse Shielding"
-msgstr ""
+msgstr "설계도 - 전자기 펄스 차폐기"
 
 #. List: 0
 #. EDID: SFFL_SE_RS01_PowerCell
@@ -12115,7 +12427,7 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "001EB2"
 msgid "Action Figure: Lieutenant Kibwe Ikande"
-msgstr ""
+msgstr "액션 피규어: 키브웨 이칸데 대위"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_CaptainMyeong
@@ -12311,7 +12623,7 @@ msgstr "abLegendaryModifier_Behemoth"
 #. REC: SPEL:FULL
 msgctxt "001ED8"
 msgid "Targeting Computer Optimization"
-msgstr ""
+msgstr "조준 제어 컴퓨터 최적화"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Shielded
@@ -12381,7 +12693,7 @@ msgstr "심연의해방TA효과 DMG"
 #. REC: MGEF:FULL
 msgctxt "001EE2"
 msgid "Buoyant Insulators Effect"
-msgstr ""
+msgstr "부양성 단열재 효과"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Grenadier_TempPerk
@@ -12409,14 +12721,14 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "001EE7"
 msgid "Return"
-msgstr ""
+msgstr "돌아가기"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_ShieldRegen
 #. REC: TMLM:ITXT
 msgctxt "001EE8"
 msgid "Optimize Subsystem <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
-msgstr ""
+msgstr "하위 시스템 최적화 <Token.ValueInt=PlayerXTech>/<Token.ValueInt=XTechCost>"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_ShieldRegen
@@ -12424,13 +12736,18 @@ msgstr ""
 msgctxt "001EE9"
 msgid "Improve shield regeneration speed by 10%.\n\nRequirements: <Token.ValueInt=XTechCost> X-Tech\n\nOptimize system?"
 msgstr ""
+"보호막 재생 속도가 10% 향상됩니다.\n"
+"\n"
+"필요: X-테크 <Token.ValueInt=XTechCost>개\n"
+"\n"
+"시스템을 최적화하시겠습니까?"
 
 #. List: 0
 #. EDID: ShipUpgrade_ConfirmationScreen_ShieldRegen
 #. REC: TMLM:FULL
 msgctxt "001EEA"
 msgid "Shield Regeneration Optimization"
-msgstr ""
+msgstr "보호막 재생 최적화"
 
 #. List: 0
 #. EDID: SFFL_MS01_Zena_TMLM
@@ -12465,7 +12782,7 @@ msgstr "바룬 스킨"
 #. REC: LCTN:FULL
 msgctxt "001EF3"
 msgid "Anchorpoint"
-msgstr ""
+msgstr "앵커포인트"
 
 #. List: 0
 #. EDID: LegendaryModifier_Martyr_TempPerk
@@ -12668,7 +12985,7 @@ msgstr ""
 #. REC: QUST:NNAM
 msgctxt "002318"
 msgid "Talk to Zena"
-msgstr ""
+msgstr "제나와 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
@@ -12759,7 +13076,7 @@ msgstr "Quick Test Cell"
 #. REC: CELL:FULL
 msgctxt "002330"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: [01079186]
@@ -12794,21 +13111,21 @@ msgstr "센서 탐지 대상"
 #. REC: GBFM:FULL
 msgctxt "002335"
 msgid "Shield Refractor Unit"
-msgstr ""
+msgstr "보호막 굴절기"
 
 #. List: 0
 #. EDID: SMS_Equipment_ExtendedCommArray
 #. REC: GBFM:FULL
 msgctxt "002336"
 msgid "Extended Comm Array"
-msgstr ""
+msgstr "확장 통신 배열기"
 
 #. List: 0
 #. EDID: SMS_Equipment_AdvancedShipScrapUnit
 #. REC: GBFM:FULL
 msgctxt "002337"
 msgid "Advanced Ship Scrap Unit"
-msgstr ""
+msgstr "고급 함선 수집기"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_Cargo_Ship
@@ -12822,14 +13139,14 @@ msgstr ""
 #. REC: GBFM:FULL
 msgctxt "002339"
 msgid "Chateau des Etoiles"
-msgstr ""
+msgstr "샤토 데 제투알"
 
 #. List: 0
 #. EDID: SFFLAnchorpointStation
 #. REC: GBFM:FULL
 msgctxt "00233A"
 msgid "Anchorpoint"
-msgstr ""
+msgstr "앵커포인트"
 
 #. List: 0
 #. EDID: SFFLMS02Ship
@@ -13137,14 +13454,14 @@ msgstr ""
 #. REC: BOOK:FNAM
 msgctxt "002368"
 msgid "Sponsored by: Chunks \n"
-msgstr ""
+msgstr "청크 사 제공 \n"
 
 #. List: 0
 #. EDID: SFFL_MS01_RelaxationTape02
 #. REC: BOOK:ENAM
 msgctxt "002369"
 msgid "Volume Two"
-msgstr ""
+msgstr "2편"
 
 #. List: 0
 #. EDID: SFFL_R02_DataSlate01
@@ -13256,7 +13573,7 @@ msgstr "기동사격TA효과 AV 중첩중"
 #. REC: SPEL:FULL
 msgctxt "00237D"
 msgid "Hull Integrity Optimization"
-msgstr ""
+msgstr "선체 강도 최적화"
 
 #. List: 0
 #. EDID: abShipUpgrade_GravDrive_CompUpdate
@@ -13270,14 +13587,14 @@ msgstr ""
 #. REC: SPEL:FULL
 msgctxt "00237F"
 msgid "EM Overcharge Optimization"
-msgstr ""
+msgstr "전자기 과충전 최적화"
 
 #. List: 0
 #. EDID: abShipUpgradeShieldRegen
 #. REC: SPEL:FULL
 msgctxt "002380"
 msgid "Shield Regen - Ship Upgrade"
-msgstr ""
+msgstr "보호막 재생 - 함선 업그레이드"
 
 #. List: 0
 #. EDID: ab_Legendary_Suit_Inspiring_AuraEffects
@@ -13312,7 +13629,7 @@ msgstr "감전TA효과"
 #. REC: ENCH:FULL
 msgctxt "002385"
 msgid "Evasive Stealth Drive"
-msgstr ""
+msgstr "스텔스 회피기동기"
 
 #. List: 0
 #. EDID: Ench_Legendary_Pack_AerialAdvantage
@@ -13326,7 +13643,7 @@ msgstr "공중우위TA효과"
 #. REC: ENCH:FULL
 msgctxt "002387"
 msgid "EM Pulse Shielding"
-msgstr ""
+msgstr "전자기 펄스 차폐기"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Tricky_effect
@@ -13424,7 +13741,7 @@ msgstr "기동사격TA효과 특성 추가"
 #. REC: MGEF:FULL
 msgctxt "002395"
 msgid "Evasive Stealth Drive"
-msgstr ""
+msgstr "스텔스 회피기동기"
 
 #. List: 0
 #. EDID: ShipUpgrade_AbFortifyGravJumpCalc
@@ -13592,7 +13909,7 @@ msgstr ""
 #. REC: MGEF:FULL
 msgctxt "002493"
 msgid "EM Pulse Shielding Effect"
-msgstr ""
+msgstr "전자기 펄스 차폐기 효과"
 
 #. List: 0
 #. EDID: SFFL_SE_RS03_UCSProspector
@@ -13795,7 +14112,7 @@ msgstr ""
 #. REC: LSCR:DESC
 msgctxt "0024C8"
 msgid "Billed as a luxury real estate in deep space, Chateau des Etoiles is a one of kind Asteroid Manor."
-msgstr ""
+msgstr "심우주의 럭셔리 부동산이라는 명목으로 건설된 샤토 데 제투알은 유일무이한 소행성 저택입니다."
 
 #. List: 0
 #. EDID: LS_SFBGS00D_SEencounters
@@ -13844,7 +14161,7 @@ msgstr ""
 #. REC: LSCR:DESC
 msgctxt "0024CF"
 msgid "Place and use the Ship Optimization Terminal on your ship to purchase ship upgrades with X-Tech."
-msgstr ""
+msgstr "함선에 함선 최적화 단말기를 설치하고 사용하면 X-테크로 함선 업그레이드를 구입할 수 있습니다."
 
 #. List: 0
 #. EDID: LS_SFBGS00D_ElderGameSpace01
@@ -14551,7 +14868,7 @@ msgstr ""
 #. REC: PNDT:FULL
 msgctxt "002597"
 msgid "Anchorpoint"
-msgstr ""
+msgstr "앵커포인트"
 
 #. List: 0
 #. EDID: SFBGS00D_ShpGenIntPerSmWallMid_ExLg_Door01_Jammed01
@@ -15034,7 +15351,7 @@ msgstr "센서 탐지 대상"
 #. REC: PKIN:FULL
 msgctxt "0025E4"
 msgid "Colony War Action Hero Playset"
-msgstr ""
+msgstr "식민지 전쟁 액션 히어로 플레이세트"
 
 #. List: 0
 #. EDID: Legendary_Armor_AdvancedTargeting_Stack_Effect02
@@ -15132,7 +15449,7 @@ msgstr "센서 탐지 대상"
 #. REC: CELL:FULL
 msgctxt "0025F2"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: [01091FD6]
@@ -15146,7 +15463,7 @@ msgstr "센서 탐지 대상"
 #. REC: CELL:FULL
 msgctxt "0025F4"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: [01092045]
@@ -15160,14 +15477,14 @@ msgstr "센서 탐지 대상"
 #. REC: CELL:FULL
 msgctxt "0025F6"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: scSFFLSEEmpty01
 #. REC: CELL:FULL
 msgctxt "0025F7"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: [01091A8A]
@@ -15181,21 +15498,21 @@ msgstr "센서 탐지 대상"
 #. REC: CELL:FULL
 msgctxt "0025F9"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: scSFFLSEEmpty02
 #. REC: CELL:FULL
 msgctxt "0025FA"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: scSFFLSEEmpty03
 #. REC: CELL:FULL
 msgctxt "0025FB"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: [01091ADB]
@@ -15209,7 +15526,7 @@ msgstr "센서 탐지 대상"
 #. REC: CELL:FULL
 msgctxt "0025FD"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: [01091B37]
@@ -15223,7 +15540,7 @@ msgstr "센서 탐지 대상"
 #. REC: CELL:FULL
 msgctxt "0025FF"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: [01091DFA]
@@ -15237,7 +15554,7 @@ msgstr "센서 탐지 대상"
 #. REC: CELL:FULL
 msgctxt "002601"
 msgid "Just Markers"
-msgstr ""
+msgstr "Just Markers"
 
 #. List: 0
 #. EDID: sMiscStatsLegendaryTier4ModsCrafted
@@ -15503,7 +15820,7 @@ msgstr ""
 #. REC: TERM:FULL
 msgctxt "002627"
 msgid "Computer"
-msgstr ""
+msgstr "컴퓨터"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_AerialAdvantage_DmgResist
@@ -16077,7 +16394,7 @@ msgstr ""
 #. REC: FLST:FULL
 msgctxt "033D0C"
 msgid "Large Capacity Container"
-msgstr ""
+msgstr "대용량 보관시설"
 
 #. List: 0
 #. EDID: dn_CommonArmor
@@ -17562,6 +17879,20 @@ msgstr ""
 msgctxt "0005A3"
 msgid "Welcome new listener.\n\nWe are here to guide you on a special journey toward relaxation and meditation, brought to you by Chunks. \n\nRelax your shoulders. Feel your muscles. The skin on your face. The softness of your tongue.\n\nNow imagine your tongue gliding over an 8 x 8 cm cube. A Chunk.\n\nIt might taste like chocolate. It might flow like wine. \n\nBut know that when you taste it, total relaxation is possible.\n\n\n\n"
 msgstr ""
+"새로 오신 분을 환영합니다.\n"
+"\n"
+"지금부터 여러분을 휴식과 명상의 특별한 여정으로 안내해 드리겠습니다. 이 안내는 청크 사의 제공으로 전해드립니다.\n"
+"\n"
+"어깨의 힘을 빼세요. 근육을 느껴보세요. 얼굴의 피부를 느껴보세요. 혀의 부드러움을 느껴보세요.\n"
+"\n"
+"이제 혀가 가로 세로 8센티미터 크기의 큐브 위를 미끄러지며 움직이는 모습을 상상해 보세요. 청크 위를 말이죠.\n"
+"\n"
+"초콜릿 맛일 수도 있습니다. 포도주처럼 흐를 수도 있습니다.\n"
+"\n"
+"하지만 한 번 맛보면, 당신은 완전한 휴식이 가능한 거란 걸 아시게 될 겁니다.\n"
+"\n"
+"\n"
+"\n"
 
 #. List: 1
 #. EDID: SFFL_MS01_VotingMessageBox
@@ -17653,6 +17984,20 @@ msgstr ""
 msgctxt "000948"
 msgid "Welcome back.\n\nIn life, we find it hard to be present. But presently, you are here. Uncluttered. Unobstructed. Unbothered. \n\nHere in this zero space, your mind is clear. You notice you are standing on something. A cube. No, not a cube, a Chunk.\n\nYou drop to your knees. You take a bite of the ground. It's familiar, and soothing. It's pork. But if you dislike pork, it's not that. Really, it's your favorite food. It's comfort for your soul. \n\nYou lie down on the chunk of not pork, and find yourself in perfect harmony with the universe. For the Chunk is now part of you, and you are the Chunk.\n\nJust as we are all made of stars, we are all made of Chunks."
 msgstr ""
+"돌아오신 것을 환영합니다.\n"
+"\n"
+"살면서 '지금 이 순간'에 집중하기는 어렵습니다. 하지만 지금, 당신은 여기에 있습니다. 거리낄 것 없이. 방해받을 것 없이. 신경 쓸 "
+"것 없이.\n"
+"\n"
+"이 제로의 공간에서 당신의 마음은 맑아집니다. 문득 무언가 위에 서 있다는 것을 깨닫습니다. 큐브로군요. 아니네요. 큐브가 아니라 "
+"청크입니다.\n"
+"\n"
+"무릎을 꿇고 땅을 한 입 베어 물어봅니다. 익숙하고 편안한 맛이로군요. 돼지고기입니다. 돼지고기를 싫어하신다면, 다른 맛이겠죠. 진정으로 "
+"당신이 가장 좋아하는 음식의 맛 말이지요. 영혼의 위안을 주는 맛입니다.\n"
+"\n"
+"돼지고기가 아닌 청크 위에 눕자, 우주와 완벽하게 하나가 됩니다. 이제 청크는 당신의 일부고, 당신은 곧 청크입니다.\n"
+"\n"
+"우리 모두가 별에서 왔듯이, 우리 모두는 청크로 이루어져 있습니다."
 
 #. List: 1
 #. EDID: SFFL_MS01_ShinarYeatsSlate01
@@ -17660,6 +18005,21 @@ msgstr ""
 msgctxt "00095B"
 msgid "I've long been a fan of the good book, and the mythology of old. Take the story of Babylon, for example.\n\nIn Hebrew, Babylon (Babel) means confusion, but in the ancient Akkadian text it appears as \"Bab-ilani\" or \"gate of the gods.\" \n\nWhen I chose a place to spread the gospel, the name New Babylon struck a chord. If it's truly a \"gate of the gods,\" perhaps here is where I would be closer to His word. And while living in a remote settlement is undoubtedly strange, my path to preaching was never a straight and narrow one.\n\nIt was twisting and wide and full of potholes. I believe this is not a sin, however. Some would accuse me of being unholy, because I choose a drop of liquor here and a pint there. They see the libelous blood in my cheeks and claim there is not a shred of divinity in me.\n\nAnd while it's true I have not held congress with God and recently have barely sought the company of soap, I feel I am still on the right one, when paths are considered.\n\nThe road feels comfortable under my feet.\n"
 msgstr ""
+"예전부터 나는 성경과 고대 신화를 좋아했다. 예를 들어 바빌론 이야기 같은 것 말이다.\n"
+"\n"
+"히브리어에서 바빌론(바벨)은 혼란을 뜻하지만, 고대 아카드어로는 \"밥-일라니(Bab-ilani)\" 또는 \"신들의 문\"이라 표기된다."
+"\n"
+"\n"
+"복음을 전할 곳을 고를 때, 뉴바빌론이라는 이름이 마음에 와닿았다. 정말로 신들의 문이라면, 이곳에서 그분의 말씀에 더 가까워질 수 "
+"있으리라. 외진 정착지에서 사는 것은 분명 기이하지만, 설교의 길은 원래 순탄하거나 편안한 적이 없었다.\n"
+"\n"
+"구불구불 막연한 길에 구덩이투성이였다. 하지만 이것이 죄값을 치르는 건 아니라고 생각한다. 여기저기서 술을 한 잔씩 마신다고 불경하다 "
+"비난하는 자들도 있겠지. 뺨에 떠오른 모욕의 붉은빛을 보며 내게는 신성의 조각도 없다고 말할 거다.\n"
+"\n"
+"신과 깊은 대화를 나눈 지도 오래됐고, 솔직히 말해 요즘은 비누로 씻는 일조차 거의 없지만, 그래도 삶의 여러 방향을 놓고 본다면 나는 "
+"여전히 옳은 길 을 가고 있는 것 같다.\n"
+"\n"
+"발밑의 길이 편안하다.\n"
 
 #. List: 1
 #. EDID: SFFL_MS01_ShinarYeatsSlate02
@@ -17667,6 +18027,15 @@ msgstr ""
 msgctxt "00095D"
 msgid "I've arrived at this place but so far have found few ears willing to lend themselves to my sermon.\n\nI hoped maybe it was the atmosphere. Perhaps sound is muffled on this planet, or its people suffering from an earwax epidemic, but I was not so lucky. Worse yet, the conditions are miserable and the conversation moreso.\n\nDr. Kim assures me they are happy and healthy and existing just fine sans religious guidance. If so, then what is my purpose here? Is this not the gate of the gods? \n\nI am waiting, maker. It's your move. Until then, I will be at the bar, having a drink."
 msgstr ""
+"이곳에 도착하긴 했지만, 아직까지 내 설교에 귀를 기울이는 사람은 거의 없다.\n"
+"\n"
+"분위기 탓이길 바랐다. 이 행성에서는 소리가 먹먹하게 들리는 건 아닐까, 아니면 귀지가 끼는 유행병이라도 도는 건 아닐까 기대해 봤지만, "
+"그런 행운은 없었다. 게다가 생활 환경은 비참하고, 대화는 더 비참하다.\n"
+"\n"
+"킴 박사는 주민들은 행복하고 건강하며 종교적 지도 없이도 잘 지내고 있다고 장담한다. 그렇다면 나는 여기서 무엇을 해야 하는 걸까? "
+"이곳은 신들의 문이 아니란 말인가?\n"
+"\n"
+"기다리겠습니다. 창조주여. 당신 차례입니다. 그때까지 저는 바에서 한잔 하고 있으렵니다."
 
 #. List: 1
 #. EDID: mod_Legendary_Modifier_Medic
@@ -17723,6 +18092,13 @@ msgstr "양자 얽힘 장치의 최대 용량이 %.0f 증가합니다."
 msgctxt "0009D3"
 msgid "While in the Free Lanes, you will encounter ships, derelicts, and other space-explorers. Your ship will display these contacts as icons in space in front of your ship. \n\nTo engage with an Encounter, fly toward its marker. Adjust the ship's throttle in Cruise Mode to gain more control of the ship as you approach a location you wish interact with. To exit an Encounter, re-enter the Free Lanes by engaging Cruise Mode again.\n\nOnce an Encounter has been visited, you may fast travel back to it as long as it exists -- most Encounters will disappear after a time. \n"
 msgstr ""
+"자유 항로에 있는 동안 함선, 버려진 함선, 다른 우주 탐험가를 만날 수 있습니다. 이런 만남 인카운터는 함선 전방의 우주 공간에 "
+"아이콘으로 표시됩니다.\n"
+"\n"
+"인카운터에 접근하려면 표시된 마커를 향해 비행하세요. 상호작용하려는 장소에 접근할 때 순항 모드에서 추력을 조절하면 제어가 더 "
+"수월해집니다. 인카운터에서 떠나려면 순항 모드를 다시 켜서 자유 항로에 재진입하세요.\n"
+"\n"
+"한 번 방문한 인카운터는 계속 존재하는 한 빠른 이동으로 돌아갈 수 있습니다. 대부분의 인카운터는 시간이 지나면 사라집니다. \n"
 
 #. List: 1
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaHeavyGunner_MSG
@@ -17791,21 +18167,21 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "0009DF"
 msgid "Ship System Optimized: Shield Energy Dispensation"
-msgstr ""
+msgstr "함선 시스템 최적화됨: 보호막 에너지 배분"
 
 #. List: 1
 #. EDID: SFBGS00D_ShipOptimization_GravDriveFuel_MSG
 #. REC: MESG:DESC
 msgctxt "0009E0"
 msgid "Ship System Optimized: Grav Drive Fuel Mitigator"
-msgstr ""
+msgstr "함선 시스템 최적화됨: 중력 구동기 연료 절감기"
 
 #. List: 1
 #. EDID: SFBGS00D_ShipOptimization_CargoManagement_MSG
 #. REC: MESG:DESC
 msgctxt "0009E1"
 msgid "Ship System Optimized: Cargo Management"
-msgstr ""
+msgstr "함선 시스템 최적화됨: 화물칸 관리"
 
 #. List: 1
 #. EDID: StarbornContainerSlateMsg
@@ -17833,7 +18209,7 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "0009EC"
 msgid "Harvest Bonus Activated"
-msgstr ""
+msgstr "채집 추가 보상 발동"
 
 #. List: 1
 #. EDID: SFFL_MS01_KeycardMissingMessage
@@ -17847,7 +18223,7 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "0009EF"
 msgid "Ship System Optimized: Shield Strength"
-msgstr ""
+msgstr "함선 시스템 최적화됨: 보호막 강도"
 
 #. List: 1
 #. EDID: SFBGS00D_CWAH_LouSaavedra_MSG
@@ -18421,6 +18797,10 @@ msgstr ""
 msgctxt "001032"
 msgid "You have obtained X-Tech!\n\nX-Tech is a rare and valuable material, perfect for crafting enhancements for your gear and ship. Head to a workbench or add a Ship Optimization Terminal to your ship in Decorate mode to get started."
 msgstr ""
+"X-테크를 획득했습니다!\n"
+"\n"
+"X-테크는 장비와 함선을 강화하는 데 사용할 수 있는 희귀하고 귀중한 소재입니다. 작업대로 가거나, 장식 제작기 모드에서 함선에 함선 "
+"최적화 단말기를 설치하여 강화를 시작하세요."
 
 #. List: 1
 #. EDID: SFFL_SE_RS01_Sycorax
@@ -18476,7 +18856,7 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "001048"
 msgid "EM Pulse Shielding Module Available in Ship Builder."
-msgstr ""
+msgstr "함선 제작기에서 전자기 펄스 차폐기 모듈을 사용할 수 있습니다."
 
 #. List: 1
 #. EDID: StarbornContainerUpgradeMissingResourcesMsg
@@ -18497,35 +18877,35 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "00104D"
 msgid "Ship System Optimized: Engine Accelerator"
-msgstr ""
+msgstr "함선 시스템 최적화됨: 엔진 가속기"
 
 #. List: 1
 #. EDID: SFBGS00D_ShipOptimization_AmmoReload_MSG
 #. REC: MESG:DESC
 msgctxt "00104E"
 msgid "Ship System Optimized: Ammunition Reload"
-msgstr ""
+msgstr "함선 시스템 최적화됨: 탄약 재장전"
 
 #. List: 1
 #. EDID: SFBGS00D_ShipOptimization_HullIntegrity_MSG
 #. REC: MESG:DESC
 msgctxt "00104F"
 msgid "Ship System Optimized: Hull Integrity"
-msgstr ""
+msgstr "함선 시스템 최적화됨: 선체 강도"
 
 #. List: 1
 #. EDID: SFBGS00D_ShipOptimization_Failed_MSG
 #. REC: MESG:DESC
 msgctxt "001050"
 msgid "More X-Tech is needed for this Optimization."
-msgstr ""
+msgstr "최적화를 하려면 X-테크가 더 필요합니다."
 
 #. List: 1
 #. EDID: SFBGS00D_ShipOptimization_BoosterAfterburner_MSG
 #. REC: MESG:DESC
 msgctxt "001051"
 msgid "Ship System Optimized: Booster Afterburner"
-msgstr ""
+msgstr "함선 시스템 최적화됨: 부스터 애프터버너"
 
 #. List: 1
 #. EDID: SFBGS00D_CWAH_CaptainMyeong_MSG
@@ -18539,21 +18919,21 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "001054"
 msgid "Ship System Optimized: Thruster Fuel"
-msgstr ""
+msgstr "함선 시스템 최적화됨: 추력기 연료"
 
 #. List: 1
 #. EDID: SFBGS00D_ShipOptimization_GravDriveCompUpdate_MSG
 #. REC: MESG:DESC
 msgctxt "001055"
 msgid "Ship System Optimized: Grav Drive Computation"
-msgstr ""
+msgstr "함선 시스템 최적화됨: 중력 구동기 연산"
 
 #. List: 1
 #. EDID: SFBGS00D_ShipOptimization_GravJumpRouting_MSG
 #. REC: MESG:DESC
 msgctxt "001056"
 msgid "Ship System Optimized: Grav Jump Routing"
-msgstr ""
+msgstr "함선 시스템 최적화됨: 중력 도약 경로 연산"
 
 #. List: 1
 #. EDID: ExtendedComm_AlliedShipMSG
@@ -18567,7 +18947,7 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "00105A"
 msgid "Advanced Ship Scrap Unit Module Available in Ship Builder."
-msgstr ""
+msgstr "함선 제작기에서 고급 함선 수집기 모듈을 사용할 수 있습니다."
 
 #. List: 1
 #. EDID: SFFL_SE_KT02_TourGuideShipName
@@ -18588,7 +18968,7 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "00105F"
 msgid "Shield Refractor Unit Module Available in Ship Builder."
-msgstr ""
+msgstr "함선 제작기에서 보호막 굴절기 모듈을 사용할 수 있습니다."
 
 #. List: 1
 #. EDID: SFBGS00D_CWAH_UCArmySoldier_MSG
@@ -18690,7 +19070,7 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "00107B"
 msgid "Anti-Targeting System Module Available in Ship Builder."
-msgstr ""
+msgstr "함선 제작기에서 안티 락온 시스템 모듈을 사용할 수 있습니다."
 
 #. List: 1
 #. EDID: SFBGS00D_CWAH_PercivalWalker_MSG
@@ -18704,14 +19084,14 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "00107E"
 msgid "Extended Comm Array Module Available in Ship Builder."
-msgstr ""
+msgstr "함선 제작기에서 확장 통신 배열기 모듈을 사용할 수 있습니다."
 
 #. List: 1
 #. EDID: SFBGS00D_ShipOptimization_RepairFunction_MSG
 #. REC: MESG:DESC
 msgctxt "00107F"
 msgid "Ship System Optimized: Repair Function"
-msgstr ""
+msgstr "함선 시스템 최적화됨: 수리 기능"
 
 #. List: 1
 #. EDID: SFBGS00D_CWAH_Terrormorph_MSG
@@ -18725,14 +19105,14 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "001082"
 msgid "Micro-Reactor Module Available in Ship Builder."
-msgstr ""
+msgstr "함선 제작기에서 소형 반응로 모듈을 사용할 수 있습니다."
 
 #. List: 1
 #. EDID: SFBGS00D_Schematic_RepairSystemOverdrive_MSG
 #. REC: MESG:DESC
 msgctxt "001083"
 msgid "Repair System Overdrive Module Available in Ship Builder."
-msgstr ""
+msgstr "함선 제작기에서 수리 시스템 초과구동기 모듈을 사용할 수 있습니다."
 
 #. List: 1
 #. EDID: SFFL_AnchorpointZ04
@@ -18891,7 +19271,7 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "0014A2"
 msgid "Ship System Optimized: Targeting Computer"
-msgstr ""
+msgstr "함선 시스템 최적화됨: 조준 제어 컴퓨터"
 
 #. List: 1
 #. EDID: SFBGS00D_CWAH_AdmiralOdeBalewa_MSG
@@ -18913,13 +19293,20 @@ msgstr ""
 msgctxt "0014A9"
 msgid "While in the Free Lanes, you will encounter ships, derelicts, and other space-explorers. Your ship will display these contacts as icons in space in front of your ship. \n\nTo engage with an Encounter, fly toward its marker. Adjust the ship's throttle in Cruise Mode to gain more control of the ship as you approach a location you wish interact with. To exit an Encounter, re-enter the Free Lanes by engaging Cruise Mode again.\n\nOnce an Encounter has been visited, you may fast travel back to it as long as it exists -- most Encounters will disappear after a time. \n"
 msgstr ""
+"자유 항로에 있는 동안 함선, 버려진 함선, 다른 우주 탐험가를 만날 수 있습니다. 이런 만남 인카운터는 함선 전방의 우주 공간에 "
+"아이콘으로 표시됩니다.\n"
+"\n"
+"인카운터에 접근하려면 표시된 마커를 향해 비행하세요. 상호작용하려는 장소에 접근할 때 순항 모드에서 추력을 조절하면 제어가 더 "
+"수월해집니다. 인카운터에서 떠나려면 순항 모드를 다시 켜서 자유 항로에 재진입하세요.\n"
+"\n"
+"한 번 방문한 인카운터는 계속 존재하는 한 빠른 이동으로 돌아갈 수 있습니다. 대부분의 인카운터는 시간이 지나면 사라집니다. \n"
 
 #. List: 1
 #. EDID: SFBGS00D_ShipOptimization_ShieldRegen_MSG
 #. REC: MESG:DESC
 msgctxt "0014AA"
 msgid "Ship System Optimized: Shield Regeneration"
-msgstr ""
+msgstr "함선 시스템 최적화됨: 보호막 재생"
 
 #. List: 1
 #. EDID: SFFL_Z01
@@ -18962,6 +19349,28 @@ msgstr ""
 msgctxt "001947"
 msgid "Welcome back.\n\nBy now, you are fully relaxed, in a blissful, restful state. If you're wondering if your slate is broken, don't worry. Due to budget cuts audio will no longer be provided. But that's okay.\n\nInstead I want you to imagine you are hearing my voice, over soothing, relaxing music. To get an idea of what my voice sounds like, you need only listen to a previous tape, then return.\n\nAre you back? Good.\n\nTake a deep breath. Picture in your mind an apple. It's ripe, crisp, with a bead of water glistening from its skin. There's only one thing wrong with it. The shape. If only it had sharp, well-defined edges. Like a Chunk.\n\nYou may still find your thoughts wandering. That's all right. Acknowledge them. They may be saying \"Apples shouldn't be square!\" But those thoughts are mistaken, born from an angry, tense mind. They are not your concern. Let them roll away, like Chunks do, down the chute of a vending machine, right into your hand.\n\nPick up that Chunk, and take a bite. Let its refreshing, synthetically engineered taste flow through your insides. As you relax, deeper and deeper, you curl up into a cube. As you curl, you find yourself mimicking that cubic apple. Transform the curves of your body into a healthy, symmetrical cube.\n\nLook at yourself. You've done it. You've reached your final form. Nothing can harm you. You are perfect. You are a Chunk."
 msgstr ""
+"돌아오신 것을 환영합니다.\n"
+"\n"
+"이제 완전히 이완된, 더없이 행복한 안식 상태에 계실 겁니다. 혹시 슬레이트가 고장인가 싶으시다면 걱정 마세요. 예산 삭감으로 더 이상 "
+"음성이 제공되지 않습니다. 하지만 괜찮습니다.\n"
+"\n"
+"대신 제 목소리가 편안하고 느긋한 음악의 선율 위를 흐르는 모습을 상상해 보세요. 제 목소리가 어떤지 알고 싶으시다면, 이전 테이프를 "
+"다시 한번 들어보시면 됩니다.\n"
+"\n"
+"들어보셨나요? 좋습니다.\n"
+"\n"
+"깊이 숨을 들이쉬세요. 마음속에 사과 한 알을 떠올려 보세요. 잘 익었고, 아삭하고, 껍질에 물방울이 반짝이고 있습니다. 한 가지 아쉬운 "
+"점이 있다면 바로 모양입니다. 날카롭고 또렷한 모서리가 있다면 좋을 텐데 말이죠. 청크처럼요.\n"
+"\n"
+"아직 생각이 흔들릴 수도 있습니다. 괜찮습니다. 인정하세요. \"사과가 네모날 리 없잖아!\"라고 생각할 수도 있습니다. 하지만 그런 "
+"생각은 화나고 긴장된 마음에서 비롯된 오류입니다. 그런 건 신경 쓸 필요 없습니다. 자판기에서 굴러 내려와 손에 쏙 들어오는 청크처럼, "
+"흘려보내세요.\n"
+"\n"
+"청크를 집어 한 입 베어 무세요. 상쾌하고 합성된 맛이 몸속으로 퍼지게 하세요. 몸이 점점 더 깊이 이완되면서 큐브 안으로 둥글게 "
+"말립니다. 그러다 네모난 사과를 닮아가고 있음을 깨닫습니다. 몸의 곡선을 건강하고 대칭적인 큐브처럼 변신시키세요.\n"
+"\n"
+"자신을 돌아 보세요. 해냈습니다. 최종 형태에 도달했습니다. 어떤 것도 당신을 해칠 수 없습니다. 당신은 완벽합니다. 당신이 곧 "
+"청크입니다."
 
 #. List: 1
 #. EDID: SFBGS00DDR009_Slate01
@@ -19066,7 +19475,7 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "0019E8"
 msgid "Evasive Stealth Drive Module Available in Ship Builder."
-msgstr ""
+msgstr "함선 제작기에서 스텔스 회피기동기 모듈을 사용할 수 있습니다."
 
 #. List: 1
 #. EDID: SFFL_R03_PilotSeatMessage
@@ -19108,7 +19517,7 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "0019FC"
 msgid "Ship System Optimized: EM Overcharging"
-msgstr ""
+msgstr "함선 시스템 최적화됨: 전자기 과충전"
 
 #. List: 1
 #. EDID: SFFL_SE_EC07
@@ -19486,7 +19895,7 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "001EF2"
 msgid "Buoyant Insulator Module Available in Ship Builder."
-msgstr ""
+msgstr "함선 제작기에서 부양성 단열재 모듈을 사용할 수 있습니다."
 
 #. List: 1
 #. EDID: SFFL_SE_EC02
@@ -41375,7 +41784,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0011EF"
 msgid "Whatever you do, do not come up to the bridge!"
-msgstr ""
+msgstr "무슨 일이 있어도 함교에는 오지 마!"
 
 #. List: 2
 #. EDID: [0104D02B]

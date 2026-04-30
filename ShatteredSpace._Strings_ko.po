@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2026-04-26 17:13+0000\n"
+"PO-Revision-Date: 2026-05-01 16:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -210,7 +210,6 @@ msgid "Craft one of each type of Vortex Grenade"
 msgstr "볼텍스 수류탄 각 종류별로 제작하기"
 
 # EDID: SFBGS001_mod_CCT_Temperament_Predator_NoWarn, REC: OMOD:DESC
-#, fuzzy
 msgctxt "014D33"
 msgid ""
 "Creature will attack anything within 8m; will attack prey within "
@@ -1702,7 +1701,6 @@ msgstr ""
 "무스타치오 부사관"
 
 # EDID: SFBGS001_DazraZ01_MalikSlate, REC: BOOK:DESC
-#, fuzzy
 msgctxt "014AEF"
 msgid ""
 "Kreso keeps asking me, \"why not hire a farmhand?\" He means well, but he would never understand. I had a farmhand once -- really, they were more a partner than an employee -- and I came to rely on them.\n"
@@ -2130,7 +2128,6 @@ msgstr ""
 "대변자께, 위대한 뱀께, 굳건하고 진실하게."
 
 # EDID: SFBGS001_LC03_Redeemed, REC: BOOK:DESC
-#, fuzzy
 msgctxt "014A32"
 msgid ""
 "Today Mihael introduced us to our newest weapon against the heretics. They are called the Redeemed, but it remains to be seen how they live up to their name.\n"
@@ -3754,7 +3751,6 @@ msgid ""
 msgstr "눈을 뜨고 있는데도 위대한 뱀께서 보이지 않아 걱정하는 자여, 그분의 말씀을 들으려면 그분의 형체가 보여야 가능한 것이 아니다."
 
 # EDID: SFBGS001LC53Slate01, REC: BOOK:DESC
-#, fuzzy
 msgctxt "013F52"
 msgid ""
 "Judy, \n"
@@ -6080,7 +6076,6 @@ msgid "Brother Onamide"
 msgstr "오나마이드 수도사"
 
 # EDID: SFBGS001_VkaiZ03_AudioSlate06, REC: BOOK:DESC
-#, fuzzy
 msgctxt "01163D"
 msgid ""
 "Reigen: What's this thing?\n"
@@ -6616,7 +6611,6 @@ msgid "QuadrupedA Groat Female"
 msgstr "QuadrupedA Groat Female"
 
 # EDID: mod_CCT_RaceOverrides_Teleport, REC: OMOD:DESC
-#, fuzzy
 msgctxt "002374"
 msgid "Creature can teleport in combat."
 msgstr "Creature can teleport in combat."
@@ -6759,7 +6753,6 @@ msgid "A lighter barrel with increased accuracy and recoil control."
 msgstr "경량화 총열. 명중률, 반동 제어 증가."
 
 # EDID: SFBGS001_mod_CCT_Temperament_Aggro, REC: OMOD:DESC
-#, fuzzy
 msgctxt "001D8A"
 msgid ""
 "Attacks enemies and neutrals on sight. Confidence: Foolhardy. Will never "
@@ -7051,7 +7044,6 @@ msgid "Dumpster"
 msgstr "쓰레기통"
 
 # EDID: SFBGS001_SQ_Crew_SpawnManager, REC: QUST:CNAM
-#, fuzzy
 msgctxt "001440"
 msgid "Stop()"
 msgstr "Stop()"
@@ -7065,7 +7057,6 @@ msgid ""
 msgstr "누가 그로트 우리에 해조류 포장팩을 두고갔다. 그로트를 데리고 간 사람은 해조류 양식장 사람인 것 같다. 확인해 보자."
 
 # EDID: SFBGS001_SE_VaruunMissionary_Name, REC: MESG:DESC
-#, fuzzy
 msgctxt "0013E9"
 msgid "Va'ruun Missionary"
 msgstr "바룬 선교사"
@@ -7370,7 +7361,6 @@ msgstr ""
 "사랑한다 동생아."
 
 # EDID: SFBGS001_MQ01_TEMP_EmergencyMSG, REC: MESG:DESC
-#, fuzzy
 msgctxt "000C1A"
 msgid ""
 "The message the player receives should be heavily laden with static so any "
@@ -8071,7 +8061,6 @@ msgstr ""
 "대장은 우릴 순찰로 밤낮으로 굴리지만 난 저놈들이 안나오는 통로에 있을래."
 
 # EDID: SFBGS001LC20_VaruunNote01, REC: BOOK:DESC
-#, fuzzy
 msgctxt "000062"
 msgid ""
 "I am in need of favor. The deal with the children of Jarek has been fruitful, as you know, and shipments have come in from all parts of the Settled Systems.\n"
@@ -8094,7 +8083,6 @@ msgstr "보물을 찾았다."
 
 #
 # EDID: SFBGS001_LC08DebugMessage, REC: MESG:DESC
-#, fuzzy
 msgctxt "000058"
 msgid "This message fired successfully!"
-msgstr "이 메시지가 성공적으로 전송되었습니다!"
+msgstr "메시지가 성공적으로 전송되었습니다!"

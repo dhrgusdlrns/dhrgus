@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-23 00:19+0900\n"
-"PO-Revision-Date: 2026-04-28 15:44+0000\n"
+"PO-Revision-Date: 2026-05-02 15:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -3825,7 +3825,7 @@ msgstr "엔진 최대 출력."
 #. Speaker: Vasco
 msgctxt "000188"
 msgid "Engine throttle at maximum."
-msgstr "엔진 스로틀을 최대로 개방합니다."
+msgstr "엔진 추력을 최대로 올립니다."
 
 #. List: 2
 #. EDID: [FE0000CF]

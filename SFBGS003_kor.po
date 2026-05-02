@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2026-05-02 17:44+0000\n"
+"PO-Revision-Date: 2026-05-03 19:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -2972,7 +2972,7 @@ msgstr "캐시 '역잠류' 에르난데스"
 #. REC = MESG:FULL
 msgctxt "000994"
 msgid "Sawyer \"Hotwire\" Sweeney"
-msgstr "소이어 '열선' 스위니"
+msgstr "소여 '열선' 스위니"
 
 #. EDID = SFBGS003_BountyTarget_Name_Any_204
 #. REC = MESG:FULL
@@ -6266,7 +6266,7 @@ msgstr "레이크 스타"
 #. REC = MESG:FULL
 msgctxt "000BB9"
 msgid "Sawyer Doolin"
-msgstr "소이어 둘린"
+msgstr "소여 둘린"
 
 #. EDID = SFBGS003_BountyTarget_Name_NB_178
 #. REC = MESG:FULL
@@ -6674,7 +6674,7 @@ msgstr "조던 새탕"
 #. REC = MESG:FULL
 msgctxt "000BFD"
 msgid "Sawyer McCoy"
-msgstr "소이어 맥코이"
+msgstr "소여 맥코이"
 
 #. EDID = SFBGS003_BountyTarget_Name_NB_59
 #. REC = MESG:FULL

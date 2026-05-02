@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-04-29 14:45+0000\n"
+"PO-Revision-Date: 2026-05-03 20:44+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -329,7 +329,7 @@ msgstr "안개서린 동굴 스페이서 발굴자의 기록"
 # EDID: SFBGS001_LC08_Treasure_Slate, REC: BOOK:FULL
 msgctxt "000087"
 msgid "Mrs. Goose's Congratulations"
-msgstr "구스 부인의 축하문"
+msgstr "거위 부인의 축하문"
 
 # EDID: SFBGS001LC20_ForemanTerminalMenu, REC: TMLM:UNAM
 msgctxt "000088"
@@ -2778,7 +2778,7 @@ msgstr "(선택) 오킴 카딕의 컴퓨터에 접속하기"
 # EDID: SFBGS001_LC08_BossChestKey, REC: KEYM:FULL
 msgctxt "000D3E"
 msgid "Mrs. Goose's Key"
-msgstr "구스 부인의 열쇠"
+msgstr "거위 부인의 열쇠"
 
 # EDID: VarIntRmSmWallMid_DoorA00, REC: DOOR:FULL
 msgctxt "000D3F"
@@ -6212,7 +6212,7 @@ msgstr "동굴 골판벼슬 사마귀"
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Predator01_Small_Ranged, REC: NPC_:FULL
 msgctxt "001D97"
 msgid "Cavern Bonecrest Spitter"
-msgstr "동굴 골판벼슬 사마귀 침 뱉기"
+msgstr "동굴 침 뱉는 골판벼슬 사마귀"
 
 # EDID: SFBGS001_PCM_Kavnyk_VaruunKai_Predator01_Boss, REC: NPC_:FULL
 msgctxt "001D98"
@@ -12071,7 +12071,7 @@ msgstr "마네킹"
 # EDID: SFBGS001_LC08_Treasure, REC: CONT:FULL
 msgctxt "01286D"
 msgid "Mrs. Goose's Stash"
-msgstr "구스 부인의 은닉품"
+msgstr "거위 부인의 은닉품"
 
 # EDID: SFBGS001_LC48Slate_Heirlooms, REC: BOOK:FULL
 msgctxt "01286F"
@@ -15752,17 +15752,17 @@ msgstr "볼텍스 균열"
 # EDID: SFBGS001_LC08_Treasure_Slate, REC: BOOK:ENAM
 msgctxt "01465B"
 msgid "Mrs. Goose"
-msgstr "구스 부인"
+msgstr "거위 부인"
 
 # EDID: SFBGS001_LC08_Treasure_Slate02, REC: BOOK:ENAM
 msgctxt "01465C"
 msgid "Mrs. Goose"
-msgstr "구스 부인"
+msgstr "거위 부인"
 
 # EDID: SFBGS001_LC08_Treasure_Slate02, REC: BOOK:FULL
 msgctxt "01465E"
 msgid "Mrs. Goose's Warning"
-msgstr "구스 부인의 경고문"
+msgstr "거위 부인의 경고문"
 
 # EDID: SFBGS001LC05_TeleKey_Desktop, REC: TMLM:UNAM
 msgctxt "014662"
@@ -20817,42 +20817,42 @@ msgstr "훈제소 우리 열쇠"
 # EDID: SFBGS001_WoodenGoose01_LC08_01, REC: MISC:FULL
 msgctxt "014C50"
 msgid "Wooden Goose Jack"
-msgstr "나무 거위 잭"
+msgstr "나무 거위, 잭"
 
 # EDID: SFBGS001_WoodenGoose01_LC08_02, REC: MISC:FULL
 msgctxt "014C51"
 msgid "Wooden Goose Kack"
-msgstr "나무 거위 캑"
+msgstr "나무 거위, 캑"
 
 # EDID: SFBGS001_WoodenGoose01_LC08_03, REC: MISC:FULL
 msgctxt "014C52"
 msgid "Wooden Goose Lack"
-msgstr "나무 거위 랙"
+msgstr "나무 거위, 랙"
 
 # EDID: SFBGS001_WoodenGoose01_LC08_04, REC: MISC:FULL
 msgctxt "014C53"
 msgid "Wooden Goose Mack"
-msgstr "나무 거위 맥"
+msgstr "나무 거위, 맥"
 
 # EDID: SFBGS001_WoodenGoose02_LC08_01, REC: MISC:FULL
 msgctxt "014C54"
 msgid "Wooden Goose Nack"
-msgstr "나무 거위 낵"
+msgstr "나무 거위, 낵"
 
 # EDID: SFBGS001_WoodenGoose02_LC08_02, REC: MISC:FULL
 msgctxt "014C55"
 msgid "Wooden Goose Ouack"
-msgstr "나무 거위 왝"
+msgstr "나무 거위, 왝"
 
 # EDID: SFBGS001_WoodenGoose02_LC08_03, REC: MISC:FULL
 msgctxt "014C56"
 msgid "Wooden Goose Pack"
-msgstr "나무 거위 팩"
+msgstr "나무 거위, 팩"
 
 # EDID: SFBGS001_WoodenGoose02_LC08_04, REC: MISC:FULL
 msgctxt "014C57"
 msgid "Wooden Goose Quack"
-msgstr "나무 거위 꽥"
+msgstr "나무 거위, 꽥"
 
 # EDID: SFBGS001_LC05Slate_Modulator, REC: BOOK:FULL
 msgctxt "014C59"

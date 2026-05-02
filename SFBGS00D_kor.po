@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-05-02 17:44+0000\n"
+"PO-Revision-Date: 2026-05-07 12:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -1410,17 +1410,17 @@ msgstr ""
 "사샤 - B-\n"
 "순이 - B+\n"
 "예이츠 - AB+\n"
-"이비카 - ???\n"
+"이비차 - ???\n"
 "캐스피언 - Rh-Null\n"
 "할 - A+\n"
 "\n"
-"이비카는 샘플 제출을 거부하고 있다. 말도 안 되는 일이다. 이것이 전초기지를 위해 필요하다고 강하게 말했지만, 이비카는 의미 없는 "
+"이비차는 샘플 제출을 거부하고 있다. 말도 안 되는 일이다. 이것이 전초기지를 위해 필요하다고 강하게 말했지만, 이비차는 의미 없는 "
 "미신을 집단의 안전보다 우선시하고 있다.\n"
 "\n"
-"만약 이비카에게 수혈이 필요한 사태가 벌어진다면, 항체 검사에 귀중한 시간을 낭비해야 한다.\n"
+"만약 이비차에게 수혈이 필요한 사태가 벌어진다면, 항체 검사에 귀중한 시간을 낭비해야 한다.\n"
 "\n"
 "그러나 가장 흥미로운 샘플은 캐스피언의 것이다. Rh 체계에 항원이 전혀 없는 극히 희귀한 혈액형이다. 통계적으로 유니콘 같은 존재다. "
-"지구에서도 보고된 사례가 손에 꼽을 정도였다. 더 많은 샘플을 채취하고 싶지만, 이비카의 끊임없는 불만 때문에 캐스피언이 내 연구의 "
+"지구에서도 보고된 사례가 손에 꼽을 정도였다. 더 많은 샘플을 채취하고 싶지만, 이비차의 끊임없는 불만 때문에 캐스피언이 내 연구의 "
 "타당성을 의심하게 되어 아직 동의를 얻지 못하고 있다."
 
 #. List: 0
@@ -1565,7 +1565,7 @@ msgstr "중력 우물"
 #. REC: KEYM:FULL
 msgctxt "000582"
 msgid "Ivica's Keycard"
-msgstr "이비카의 키카드"
+msgstr "이비차의 키카드"
 
 #. List: 0
 #. EDID: SFFL_MS01_GraceKeycard
@@ -1607,14 +1607,14 @@ msgstr "김순이"
 #. REC: NPC_:SHRT
 msgctxt "000588"
 msgid "Ivica"
-msgstr "이비카"
+msgstr "이비차"
 
 #. List: 0
 #. EDID: SFFL_MS01_Ivica
 #. REC: NPC_:FULL
 msgctxt "000589"
 msgid "Ivica Vukovic"
-msgstr "이비카 부코비치"
+msgstr "이비차 부코비치"
 
 #. List: 0
 #. EDID: SFFL_MS01_ZenaHield
@@ -2440,7 +2440,7 @@ msgstr "(선택) 자석으로 로봇을 영구적으로 비활성화하기"
 #. REC: QUST:NNAM
 msgctxt "000929"
 msgid "Deliver the parts to Ivica"
-msgstr "이비카에게 부품 전달하기"
+msgstr "이비차에게 부품 전달하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
@@ -2475,7 +2475,7 @@ msgstr "로봇의 전원 켜기"
 #. REC: QUST:NNAM
 msgctxt "00092E"
 msgid "Talk to Ivica about the Model A"
-msgstr "이비카와 모델 A에 대해 대화하기"
+msgstr "이비차와 모델 A에 대해 대화하기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
@@ -3643,7 +3643,7 @@ msgstr "중력 도약 교란 위성"
 #. REC: MESG:FULL
 msgctxt "0009E9"
 msgid "Captain Daniel Blake"
-msgstr "다니엘 블레이크 최고보안관"
+msgstr "다니엘 블레이크 대령"
 
 #. List: 0
 #. EDID: SFBGS00D_HarvestBonus_StartPerkMessage
@@ -3657,7 +3657,7 @@ msgstr "채집 추가 보상 발동"
 #. REC: MESG:FULL
 msgctxt "0009ED"
 msgid "Ivica's Keycard is required to operate this device"
-msgstr "이 장치를 조작하려면 이비카의 키카드가 필요합니다"
+msgstr "이 장치를 조작하려면 이비차의 키카드가 필요합니다"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_LouSaavedra_MSG
@@ -3734,7 +3734,7 @@ msgstr "스타본 보관함 업그레이드 특성"
 #. REC: PERK:FULL
 msgctxt "0009FE"
 msgid "Colony War Action Hero - Captain Daniel Blake"
-msgstr "식민지 전쟁 액션 히어로 - 대니얼 블레이크 최고보안관"
+msgstr "식민지 전쟁 액션 히어로 - 대니얼 블레이크 대령"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaHeavyGunner_Perk
@@ -3825,7 +3825,7 @@ msgstr "허상TA효과 더미"
 #. REC: PERK:FULL
 msgctxt "000A0B"
 msgid "Colony War Action Hero - UC Marine"
-msgstr "식민지 전쟁 액션 히어로 - 식민지 연합 해병대"
+msgstr "식민지 전쟁 액션 히어로 - 식민지 연합 해병대원"
 
 #. List: 0
 #. EDID: SFFL_StarbornSaveActorValues
@@ -4210,7 +4210,7 @@ msgstr "여행객"
 #. REC: NPC_:SHRT
 msgctxt "000E0E"
 msgid "Bobby"
-msgstr ""
+msgstr "보비"
 
 #. List: 0
 #. EDID: SFFL_SE_EC03_Bobby
@@ -4280,7 +4280,7 @@ msgstr "킬리언 브라이스"
 #. REC: NPC_:SHRT
 msgctxt "000E18"
 msgid "Security"
-msgstr ""
+msgstr "경비대원"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSecurityM01
@@ -4315,7 +4315,7 @@ msgstr "조종사"
 #. REC: NPC_:SHRT
 msgctxt "000E1D"
 msgid "Barrow"
-msgstr ""
+msgstr "배로우"
 
 #. List: 0
 #. EDID: SFFL_SE_RS02_BarrowJackson
@@ -4329,7 +4329,7 @@ msgstr "배로우 잭슨"
 #. REC: NPC_:SHRT
 msgctxt "000E1F"
 msgid "Evan"
-msgstr ""
+msgstr "에반"
 
 #. List: 0
 #. EDID: SFFL_EvanAlonso__AUDIOONLY_NoAppearanceData
@@ -4343,21 +4343,21 @@ msgstr "에반 알론소"
 #. REC: STAT:FULL
 msgctxt "000E21"
 msgid "Kitchen Counter"
-msgstr ""
+msgstr "주방 조리대"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_JasperKryx
 #. REC: MISC:FULL
 msgctxt "000E22"
 msgid "Action Figure: Jasper Kryx"
-msgstr ""
+msgstr "액션 피규어: 재스퍼 크릭스"
 
 #. List: 0
 #. EDID: SFFL_Se01_HumanFootMiscObject
 #. REC: MISC:FULL
 msgctxt "000E23"
 msgid "Human Foot"
-msgstr ""
+msgstr "인간의 발"
 
 #. List: 0
 #. EDID: EquipmentSchematics_ExtendedCommArray
@@ -4385,49 +4385,49 @@ msgstr "설계도 - 보호막 굴절기"
 #. REC: MISC:FULL
 msgctxt "000E27"
 msgid "Action Figure: Fleet Admiral François \"Vae Victis\" Sanon"
-msgstr ""
+msgstr "액션 피규어: 프랑수아 \"베이 빅티스\" 사논 함대 제독"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_CaptainMyeong_Sealed
 #. REC: MISC:FULL
 msgctxt "000E28"
 msgid "Action Figure: Sealed Captain Myeong"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 명 함장"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_PercivalWalker_Sealed
 #. REC: MISC:FULL
 msgctxt "000E29"
 msgid "Action Figure: Sealed Doctor Percival Walker"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 퍼시벌 워커 박사"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_LouSaavedra
 #. REC: MISC:FULL
 msgctxt "000E2A"
 msgid "Action Figure: Sergeant Lou Saavedra"
-msgstr ""
+msgstr "액션 피규어: 루 사베드라 병장"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaHeavyGunner
 #. REC: MISC:FULL
 msgctxt "000E2B"
 msgid "Action Figure: Freestar Militia Heavy Gunner"
-msgstr ""
+msgstr "액션 피규어: 자유항성 민병대 중화기병"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_MarcoGraziani
 #. REC: MISC:FULL
 msgctxt "000E2C"
 msgid "Action Figure: Sergeant Marco Graziani"
-msgstr ""
+msgstr "액션 피규어: 마르코 그라치아니 병장"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_MarcoGraziani_Sealed
 #. REC: MISC:FULL
 msgctxt "000E2D"
 msgid "Action Figure: Sealed Sergeant Marco Graziani"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 마르코 그라치아니 병장"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_Damage_melee
@@ -4441,49 +4441,49 @@ msgstr "피해 업그레이드 (근접)"
 #. REC: MISC:FULL
 msgctxt "000E2F"
 msgid "Prototype Robot Parts"
-msgstr ""
+msgstr "로봇 부품 시제품"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_PercivalWalker
 #. REC: MISC:FULL
 msgctxt "000E30"
 msgid "Action Figure: Doctor Percival Walker"
-msgstr ""
+msgstr "액션 피규어: 퍼시벌 워커 박사"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_IndiraRastogi
 #. REC: MISC:FULL
 msgctxt "000E31"
 msgid "Action Figure: General Indira Rastogi"
-msgstr ""
+msgstr "액션 피규어: 인디라 라스토기 장군"
 
 #. List: 0
 #. EDID: Vendor_SFFL_SE_EC03_BobbyLinkedContainer_4
 #. REC: CONT:FULL
 msgctxt "000E32"
 msgid "Ship"
-msgstr ""
+msgstr "함선"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Safe
 #. REC: CONT:FULL
 msgctxt "000E33"
 msgid "Defunct Safe"
-msgstr ""
+msgstr "안 쓰이는 금고"
 
 #. List: 0
 #. EDID: FC05_AuroraStashChestCOPY0000
 #. REC: CONT:FULL
 msgctxt "000E34"
 msgid "Storage Crate"
-msgstr ""
+msgstr "보관함"
 
 #. List: 0
 #. EDID: Vendor_SFFL_SE_EC03_BobbyLinkedContainer_0
 #. REC: CONT:FULL
 msgctxt "000E35"
 msgid "Ship"
-msgstr ""
+msgstr "함선"
 
 #. List: 0
 #. EDID: StarbornContainer
@@ -4504,112 +4504,112 @@ msgstr "식민지 전쟁 액션 히어로 플레이세트"
 #. REC: BOOK:FULL
 msgctxt "000E39"
 msgid "Security Request"
-msgstr ""
+msgstr "보안 요청"
 
 #. List: 0
 #. EDID: SFBGS00DDR009_Slate04
 #. REC: BOOK:FULL
 msgctxt "000E3B"
 msgid "Keep Bill Out"
-msgstr ""
+msgstr "빌 접근 금지"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_TextSlate_BriceMessage
 #. REC: BOOK:FULL
 msgctxt "000E3D"
 msgid "A Message for Mister Brice"
-msgstr ""
+msgstr "브라이스 씨에게 보내는 메시지"
 
 #. List: 0
 #. EDID: SFFL_SE_EC03_Keepsake_Dataslate
 #. REC: BOOK:FULL
 msgctxt "000E3F"
 msgid "3 Things About My Mum"
-msgstr ""
+msgstr "엄마에 대한 3가지 사실"
 
 #. List: 0
 #. EDID: SFBGS00DDR005_Slate04
 #. REC: BOOK:FULL
 msgctxt "000E43"
 msgid "Staff Memo - Key Locations"
-msgstr ""
+msgstr "직원 메모 - 열쇠 위치"
 
 #. List: 0
 #. EDID: SFFL_SE01_DataSlate03
 #. REC: BOOK:FULL
 msgctxt "000E45"
 msgid "Old Woman's Diary 01"
-msgstr ""
+msgstr "노파의 일기 01"
 
 #. List: 0
 #. EDID: SFFL_R03_DataSlate01
 #. REC: BOOK:FULL
 msgctxt "000E47"
 msgid "Last Chance"
-msgstr ""
+msgstr "마지막 기회"
 
 #. List: 0
 #. EDID: SFFL_MS01_SunniSlate_Rusty
 #. REC: BOOK:FNAM
 msgctxt "000E48"
 msgid "Text Only"
-msgstr ""
+msgstr "텍스트 전용"
 
 #. List: 0
 #. EDID: SFFL_MS01_SunniSlate_Rusty
 #. REC: BOOK:ENAM
 msgctxt "000E49"
 msgid "Personal Slate"
-msgstr ""
+msgstr "개인 슬레이트"
 
 #. List: 0
 #. EDID: SFFL_MS01_SunniSlate_Rusty
 #. REC: BOOK:FULL
 msgctxt "000E4B"
 msgid "Sunni's List"
-msgstr ""
+msgstr "순이의 후보목록"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_TextSlate_DrinkIdeas
 #. REC: BOOK:FULL
 msgctxt "000E4D"
 msgid "New Drink Ideas"
-msgstr ""
+msgstr "신메뉴 아이디어"
 
 #. List: 0
 #. EDID: SFFL_MS03_PlantActivator03
 #. REC: ACTI:ATTX
 msgctxt "000E4E"
 msgid "Water"
-msgstr ""
+msgstr "물 주기"
 
 #. List: 0
 #. EDID: SFFL_MS03_PlantActivator03
 #. REC: ACTI:FULL
 msgctxt "000E4F"
 msgid "Plant"
-msgstr ""
+msgstr "심기"
 
 #. List: 0
 #. EDID: SFFL_SE01_FoodActivator
 #. REC: ACTI:ATTX
 msgctxt "000E50"
 msgid "Eat"
-msgstr ""
+msgstr "먹기"
 
 #. List: 0
 #. EDID: SFFL_SE01_FoodActivator
 #. REC: ACTI:FULL
 msgctxt "000E51"
 msgid "Food?"
-msgstr ""
+msgstr "먹을 수 있나?"
 
 #. List: 0
 #. EDID: SFFL_MS03_OutpostMilliwhaleBowl
 #. REC: ACTI:FULL
 msgctxt "000E52"
 msgid "Milliwhale Food Bowl"
-msgstr ""
+msgstr "밀리고래 먹이 그릇"
 
 #. List: 0
 #. EDID: abShipUpgradeShieldHealth
@@ -4637,7 +4637,7 @@ msgstr "허상TA효과 홀로그램"
 #. REC: SPEL:FULL
 msgctxt "000E56"
 msgid "CWAH Terrormorph HitSpell"
-msgstr ""
+msgstr "CWAH Terrormorph HitSpell"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Leader_AuraEffects
@@ -4686,14 +4686,14 @@ msgstr "초고속TA효과"
 #. REC: MGEF:FULL
 msgctxt "000E5D"
 msgid "+4 to Harvesting"
-msgstr ""
+msgstr "채집 +4"
 
 #. List: 0
 #. EDID: SFFL_SE01_Chem_IMOD_GrandmasFood
 #. REC: MGEF:FULL
 msgctxt "000E5E"
 msgid "Grandmas Food IMOD"
-msgstr ""
+msgstr "할머니 음식 IMOD"
 
 #. List: 0
 #. EDID: ModLegendaryEffect_Grenadier
@@ -4714,14 +4714,14 @@ msgstr "공중척탄병TA효과 특성 추가"
 #. REC: MGEF:DNAM
 msgctxt "000E61"
 msgid "+<mag> Health for <dur>"
-msgstr ""
+msgstr "<dur> 동안 체력 +<mag>"
 
 #. List: 0
 #. EDID: FortifyHealth_Area
 #. REC: MGEF:FULL
 msgctxt "000E62"
 msgid "Fortify Health in Area"
-msgstr ""
+msgstr "범위 내 체력 강화"
 
 #. List: 0
 #. EDID: abLegendaryModifier_Martyr_TempPerk_Effect
@@ -4749,7 +4749,7 @@ msgstr "보호막TA효과 추가 특성 효과"
 #. REC: MGEF:DNAM
 msgctxt "000E66"
 msgid "Paralyzes enemies."
-msgstr ""
+msgstr "적을 마비시킨다."
 
 #. List: 0
 #. EDID: Legendary_Armor_Electrified_Paralyze_Effect
@@ -4840,7 +4840,7 @@ msgstr "뉴바빌론 세력"
 #. REC: KYWD:FULL
 msgctxt "000E73"
 msgid "X-Tech: A unique resource used in exceptional items."
-msgstr ""
+msgstr "X-테크: 특별한 효과 부여에 사용되는 고유 자원."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tank
@@ -5260,14 +5260,14 @@ msgstr "베헤모스TA효과 보정 레벨"
 #. REC: TMLM:ITXT
 msgctxt "000EAD"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. List: 0
 #. EDID: SFFL_BE_EC07_GalBankTerminal_Contact
 #. REC: TMLM:ITXT
 msgctxt "000EAE"
 msgid "Retry"
-msgstr ""
+msgstr "재시도"
 
 #. List: 0
 #. EDID: SFFL_BE_EC07_GalBankTerminal_Contact
@@ -5275,27 +5275,30 @@ msgstr ""
 msgctxt "000EAF"
 msgid "Error: no communication uplink found.\n\nPlease make sure you are within 1 Light-Second of a certified GalBank branch (Level 5 Security minimum) and try again."
 msgstr ""
+"오류: 통신 업링크를 찾을 수 없습니다.\n"
+"\n"
+"인증된 갤뱅크 지점(보안 레벨 5 이상)으로부터 1광초 이내에 있는지 확인한 후 다시 시도하세요."
 
 #. List: 0
 #. EDID: SFFL_BE_EC07_GalBankTerminal_Contact
 #. REC: TMLM:FULL
 msgctxt "000EB0"
 msgid "Contact GalBank ITSec"
-msgstr ""
+msgstr "갤뱅크 IT 보안부서에 연락"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_GloriaFiles
 #. REC: TMLM:ITXT
 msgctxt "000EB1"
 msgid "Personal"
-msgstr ""
+msgstr "개인"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_GloriaFiles
 #. REC: TMLM:ITXT
 msgctxt "000EB2"
 msgid "Homework"
-msgstr ""
+msgstr "숙제"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_GloriaFiles
@@ -5303,13 +5306,21 @@ msgstr ""
 msgctxt "000EB3"
 msgid "Stephanie Swansen-Black\n\nApp. 01-1342\nAthena Tower\nNew Atlantis, Jemison\nAlpha Centauri\n\nNOTE: she may have changed floors since then."
 msgstr ""
+"스테파니 스완슨-블랙\n"
+"\n"
+"App. 01-1342\n"
+"아테나 타워\n"
+"뉴아틀란티스, 제미슨\n"
+"알파 센타우리\n"
+"\n"
+"주의: 이후 층을 옮겼을 수 있음."
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_GloriaFiles
 #. REC: TMLM:ITXT
 msgctxt "000EB4"
 msgid "Stephanie's address"
-msgstr ""
+msgstr "스테파니의 주소"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_GloriaFiles
@@ -5317,20 +5328,32 @@ msgstr ""
 msgctxt "000EB5"
 msgid "Things to do:\n\n- Hack anti-theft device on ship controls\n- Go to Anchorpoint, wherever that is\n- Don't get killed\n- Sell the Ship for peanuts\n- Dye my hair black\n- Get fake ID with a new name (like \"Emilia Drake\")\n- Buy a ticket for New Atlantis\n- Surprise Steph at work \"Ha ha I live with you now\"\n- Get a job\n- Become rich and famous"
 msgstr ""
+"할 일 목록:\n"
+"\n"
+"- 함선 조종장치의 도난 방지 장치 해킹하기\n"
+"- 앵커포인트 가기. 어떤 데인지는 몰라도.\n"
+"- 죽지 않기\n"
+"- 함선을 헐값에 팔기\n"
+"- 머리를 검은색으로 염색하기\n"
+"- 새 이름으로 위조 신분증 만들기 (\"에밀리아 드레이크\" 같은 걸로)\n"
+"- 뉴아틀란티스행 표 구매하기\n"
+"- 직장에서 일하는 스텝흐 앞에 깜짝 등장하기 \"하하 이제 같이 살자\"\n"
+"- 취직하기\n"
+"- 부자가 되어 유명해지기"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_GloriaFiles
 #. REC: TMLM:ITXT
 msgctxt "000EB6"
 msgid "To Do"
-msgstr ""
+msgstr "할 일"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_GloriaFiles
 #. REC: TMLM:FULL
 msgctxt "000EB7"
 msgid "Gloria - KEEP OUT"
-msgstr ""
+msgstr "글로리아 - 열람 금지"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseVerifySub
@@ -5347,7 +5370,7 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "000EB9"
 msgid "Purchase complete"
-msgstr ""
+msgstr "구매 완료"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseVerifySub
@@ -5355,13 +5378,17 @@ msgstr ""
 msgctxt "000EBA"
 msgid "We're sorry to hear that, but there's still time to change your mind.\n\nJust don't wait too long. After all, the Château des Étoiles is a residence like no other.\n\n"
 msgstr ""
+"유감이군요. 하지만 마음을 바꾸실 시간은 아직 남아 있습니다.\n"
+"\n"
+"너무 오래 고민하지는 마세요. 어쨌든, 샤토 데 제투알은 그 어느 곳과도 비교할 수 없는 특별한 저택이니까요.\n"
+"\n"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseVerifySub
 #. REC: TMLM:ITXT
 msgctxt "000EBB"
 msgid "I'm not interested at this time."
-msgstr ""
+msgstr "지금은 관심 없습니다."
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseVerifySub
@@ -5369,13 +5396,18 @@ msgstr ""
 msgctxt "000EBC"
 msgid "Account authentication in progress...\n\nAccount verified, checking balance...\n\nInsufficient funds. Transaction canceled."
 msgstr ""
+"계정 인증 진행 중...\n"
+"\n"
+"계정 확인 완료, 잔액 확인 중...\n"
+"\n"
+"잔액 부족. 거래가 취소되었습니다."
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseVerifySub
 #. REC: TMLM:ITXT
 msgctxt "000EBD"
 msgid "Pay <Token.Name=AsteroidManorCost> credits"
-msgstr ""
+msgstr "<Token.Name=AsteroidManorCost> 크레딧 주기"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseVerifySub
@@ -5383,13 +5415,20 @@ msgstr ""
 msgctxt "000EBE"
 msgid "Account authentication in progress...\n\nAccount verified, checking balance...\n\nBalance verified, transmitting credits...\n\nTransaction complete, ownership records updated."
 msgstr ""
+"계정 인증 진행 중...\n"
+"\n"
+"계정 확인 완료, 잔액 확인 중...\n"
+"\n"
+"잔액 확인 완료, 크레딧 송금 중...\n"
+"\n"
+"거래 완료, 소유권 기록이 갱신되었습니다."
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseVerifySub
 #. REC: TMLM:ITXT
 msgctxt "000EBF"
 msgid "Pay <Token.Name=AsteroidManorCost> credits"
-msgstr ""
+msgstr "<Token.Name=AsteroidManorCost> 크레딧 주기"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseVerifySub
@@ -5397,13 +5436,17 @@ msgstr ""
 msgctxt "000EC0"
 msgid "Great! Please verify below that you will transmit <Token.Name=AsteroidManorCost> credits to complete the purchase. \n\nThis is your last chance to change your mind. Once you agree, the credits will immediately be deducted from your account.\n\n"
 msgstr ""
+"좋습니다! 구매를 완료하기 위해 아래에서 <Token.Name=AsteroidManorCost> 크레딧 송금을 승인해 주세요.\n"
+"\n"
+"마음을 바꾸실 마지막 기회입니다. 동의하면 즉시 계정에서 크레딧이 차감됩니다.\n"
+"\n"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseVerifySub
 #. REC: TMLM:FULL
 msgctxt "000EC1"
 msgid "I'd like to purchase the Château des Étoiles"
-msgstr ""
+msgstr "샤토 데 제투알을 구매하겠습니다"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseSub
@@ -5411,20 +5454,24 @@ msgstr ""
 msgctxt "000EC2"
 msgid "We're sorry to hear that, but there's still time to change your mind.\n\nJust don't wait too long. After all, the Château des Étoiles is a residence like no other.\n\n"
 msgstr ""
+"유감이군요. 하지만 마음을 바꾸실 시간은 아직 남아 있습니다.\n"
+"\n"
+"너무 오래 고민하지는 마세요. 어쨌든, 샤토 데 제투알은 그 어느 곳과도 비교할 수 없는 특별한 저택이니까요.\n"
+"\n"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseSub
 #. REC: TMLM:ITXT
 msgctxt "000EC3"
 msgid "I'm not interested at this time."
-msgstr ""
+msgstr "지금은 관심 없습니다."
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseSub
 #. REC: TMLM:ITXT
 msgctxt "000EC4"
 msgid "I'd like to purchase the Château des Étoiles"
-msgstr ""
+msgstr "샤토 데 제투알을 구매하겠습니다"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseSub
@@ -5432,6 +5479,16 @@ msgstr ""
 msgctxt "000EC5"
 msgid "We hope you enjoyed your tour of the Château des Étoiles. We think you'll agree that there's no home in the Settled Systems that combines spacious and luxurious interiors with breathtaking views in a truly singular location.\n\nWhile the property is still available, time is running out on this one-of-a-kind opportunity, so don't delay! Simply respond below to transmit the credits, and the Château des Étoiles will be yours.\n\nA luxury home among the stars. Who could ask for more?\n\nCost: <Token.Name=AsteroidManorCost> credits.\n\n"
 msgstr ""
+"샤토 데 제투알 체험이 즐거우셨기를 바랍니다. 개척 성계 어디에도 이처럼 광활하고 호화로운 내부 인테리어, 환상적인 조망, 독보적인 입지 "
+"조건을 모두 갖춘 집은 없다는 데 동의하시리라 믿습니다.\n"
+"\n"
+"해당 매물은 아직 계약 가능하지만, 이 특별한 기회를 잡을 시간은 점점 줄어들고 있으니 서둘러 주세요! 아래에서 크레딧을 송금하시면, "
+"샤토 데 제투알은 바로 고객님의 소유가 됩니다. \n"
+"\n"
+"별들 사이에 자리 잡은 럭셔리 하우스. 이보다 완벽한 곳이 더 있을까요?\n"
+"\n"
+"가격: <Token.Name=AsteroidManorCost> 크레딧.\n"
+"\n"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_RishiSaintTerminal_HouseSub
@@ -5445,7 +5502,7 @@ msgstr "별들 사이에 마련된 럭셔리 홈"
 #. REC: TMLM:ITXT
 msgctxt "000EC7"
 msgid "Restricted Access Data"
-msgstr ""
+msgstr "접속 제한 데이터"
 
 #. List: 0
 #. EDID: SFFL_MS01_Sasha_TMLM
@@ -5453,13 +5510,20 @@ msgstr ""
 msgctxt "000EC8"
 msgid "My partner left New Babylon thinking he could strike it rich elsewhere, but that just means his shares are up for grabs. I might have to fight Grace for them, she's a sneaky one when it comes to finances.\n\nYeats might be dead in a week so I feel like his shares might be available soon. Once Hal takes over for Zena, I really think this outpost will take off. We're going to need more people, obviously, but if Ivica can strike a deal with a big player for the Caelumite, I think times will be changing for the better.\n\n"
 msgstr ""
+"동료가 다른 곳에서 대박을 노릴 수 있을 거라 생각하고 뉴 바빌론을 떠났는데, 그 말은 결국 동료의 배당금이 임자 없는 떡이 됐다는 "
+"거지. 그 배당금을 차지하려면 그레이스와 한바탕 싸워야 할지도 몰라. 돈 문제에 있어서는 정말 영악한 여자거든.\n"
+"\n"
+"예이츠는 일주일 안에 죽을지도 모르는 상황이니, 예이츠의 배당금도 곧 매물로 나올 것 같아. 할이 제나의 뒤를 이어 자리를 잡고 나면, "
+"이 전초기지는 정말 크게 성장할 거야. 당연히 인력도 더 필요하겠지. 하지만 이비차가 큰손이랑 계약해서 캘루마이트 거래만 성사시킨다면, "
+"인력 상황은 확실히 좋아질 거야.\n"
+"\n"
 
 #. List: 0
 #. EDID: SFFL_MS01_Sasha_TMLM
 #. REC: TMLM:ITXT
 msgctxt "000EC9"
 msgid "Resident Share Program"
-msgstr ""
+msgstr "주민 배당금 배분 계획"
 
 #. List: 0
 #. EDID: SFFL_MS01_Sasha_TMLM
@@ -5467,20 +5531,28 @@ msgstr ""
 msgctxt "000ECA"
 msgid "As security chief, I take my job seriously. \n\nAnd while I value privacy, I also know that in emergencies, certain measures and precautions must be taken.\n\nVital data that is on other residents' computers will need to be accessible, so I've filed them under \"Restricted Access Data\" in this computer.\n\nAny locks will still be present, but they'll have a far lower security level and can be unlocked with my keycard."
 msgstr ""
+"나는 보안 책임자로서 맡은 업무를 매우 엄중하게 받아들이고 있다.\n"
+"\n"
+"사생활은 존중해야 하지만, 긴급 상황에 대비해 예방책과 대응책이 필요하다는 것도 알고 있다.\n"
+"\n"
+"따라서 다른 주민들의 컴퓨터에 있는 중요 데이터에 접근할 수 있어야 하기에, 해당 데이터들을 이 컴퓨터의 \"접속 제한 데이터\" 항목 "
+"아래에 정리해 두었다.\n"
+"\n"
+"모든 잠금 장치는 그대로 유지되겠지만, 보안 등급은 훨씬 낮아질 것이며, 내 키카드로 잠금을 해제할 수 있게 될 것이다."
 
 #. List: 0
 #. EDID: SFFL_MS01_Sasha_TMLM
 #. REC: TMLM:ITXT
 msgctxt "000ECB"
 msgid "Security Clearance"
-msgstr ""
+msgstr "보안 승인"
 
 #. List: 0
 #. EDID: SFFL_MS01_Sasha_TMLM
 #. REC: TMLM:FULL
 msgctxt "000ECC"
 msgid "Security Computer"
-msgstr ""
+msgstr "보안 컴퓨터"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_CaptainTerminaManifestMenu
@@ -5495,48 +5567,54 @@ msgstr "README_PIRATES"
 msgctxt "000ECE"
 msgid "Oh no, where are all the entries?!?!?! Could your no-good  stepdaughter have deleted them all, just to replace them with dummy files? Why, she'd never do this, would she?\n\nSucks to be you.\n\n- G"
 msgstr ""
+"오 이런, 기록들이 다 어디로 간 걸까?!?!?! 설마 그 못된 의붓딸년이 기록을 다 지워버리고 가짜 파일로 바꿔치기라도 한 걸까? "
+"설마? 걔가 절대로 그럴 리가 없지? 안 그래?\n"
+"\n"
+"정말 꼴 좋게 됐네.\n"
+"\n"
+"- G"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_CaptainTerminaManifestMenu
 #. REC: TMLM:ITXT
 msgctxt "000ECF"
 msgid "README"
-msgstr ""
+msgstr "필독"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_CaptainTerminaManifestMenu
 #. REC: TMLM:FULL
 msgctxt "000ED0"
 msgid "Shipping Manifests"
-msgstr ""
+msgstr "선적 적하 목록"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminalOverride
 #. REC: TMLM:ITXT
 msgctxt "000ED1"
 msgid "Self-Destruct Sequence"
-msgstr ""
+msgstr "자폭 시퀀스"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminalOverride
 #. REC: TMLM:ITXT
 msgctxt "000ED2"
 msgid "Gravity Control"
-msgstr ""
+msgstr "중력 제어"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminalOverride
 #. REC: TMLM:ITXT
 msgctxt "000ED3"
 msgid "Door Control"
-msgstr ""
+msgstr "출입문 제어"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminalOverride
 #. REC: TMLM:ITXT
 msgctxt "000ED4"
 msgid "Ship Terminal Access"
-msgstr ""
+msgstr "함선 단말기 접속"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminalOverride
@@ -5544,6 +5622,11 @@ msgstr ""
 msgctxt "000ED5"
 msgid "SECURITY OVERRIDE\n\nWARNING: Self-Destruct sequence activated. Please exit ship, undock, and get at least 500 meters from the ship.\n\nPlease select one of the options below."
 msgstr ""
+"보안 재정의 설정\n"
+"\n"
+"경고: 자폭 시퀀스가 활성화되었습니다. 함선에서 내리고, 도킹 해제 후, 최소 500미터 이상 떨어지세요.\n"
+"\n"
+"아래 설정 중 하나를 선택하세요."
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminalOverride
@@ -5551,6 +5634,11 @@ msgstr ""
 msgctxt "000ED6"
 msgid "SECURITY OVERRIDE\n\nSecurity mode activated. To exit Security mode, please press the star key twice then enter your 17-digit code.\n\nPlease select one of the options below."
 msgstr ""
+"보안 재정의 설정\n"
+"\n"
+"보안 모드가 활성화되었습니다. 보안 모드를 해제하려면 별 키를 두 번 누른 후 17자리 코드를 입력하세요.\n"
+"\n"
+"아래 설정 중 하나를 선택하세요."
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminalOverride
@@ -5565,13 +5653,27 @@ msgstr "긴급 메뉴"
 msgctxt "000ED8"
 msgid "Grav Jumping: How We Bend Space to Travel the Stars\nBy Gloria Swansen, age 15\n\nBy allowing ships to cross vast distances faster than the speed of light, Grav jumping is the most important technology with regards to space travel. It can bring distant points close to each other by temporarily bending spacetime, so ships can then move between them in an instant.\n\nThe gravity drive creates a controlled singularity bubble that lets the ship bypass normal spacetime to \"jump\" at its destination. The energy required depends on the distance traveled and the mass of the ship. Grav wells stabilize the process, ensuring ships exit the jump safely.\n\nGrav jumping is very useful, but it has its risks. Navigation errors can cause a ship to exit a jump off-course or in dangerous areas. Nearby planets and stars can also interfere with the jump. That's why grav jump systems are strictly regulated, and pilots follow strict protocols when jumping.\n\nThanks to grav jumping, interstellar travel is possible, allowing people to explore distant star systems. While the technology continues to evolve, it has already shaped how we move through the universe."
 msgstr ""
+"중력 도약: 별들 사이를 여행하기 위해 우리가 공간을 구부리는 방법\n"
+"글로리아 스완슨, 15세\n"
+"\n"
+"중력 도약은 함선이 광속을 넘어 먼 거리를 횡단할 수 있게 해주기에, 우주여행에서 가장 중요한 기술이다. 시공간을 일시적으로 구부려 먼 "
+"두 지점을 가깝게 만들어, 함선이 순식간에 이동할 수 있게 해준다.\n"
+"\n"
+"중력 구동기는 제어된 특이점 거품을 생성하여 함선이 정상 시공간을 우회해 목적지로 '도약'하게 해준다. 필요한 에너지는 이동 거리와 함선 "
+"질량에 따라 달라진다. 중력 우물이 이 과정을 안정시켜 함선이 안전하게 도약을 마칠 수 있게 한다.\n"
+"\n"
+"중력 도약은 매우 유용하지만 위험도 따른다. 항법 오류로 함선이 궤도를 벗어나거나 위험 구역에 빠질 수 있다. 근처의 행성이나 항성도 "
+"도약을 방해할 수 있다. 그래서 중력 도약 시스템은 엄격히 규제되며, 조종사들은 도약 시 엄격한 규약을 따른다.\n"
+"\n"
+"중력 도약 덕분에 성간 여행이 가능해져 먼 항성계를 탐험할 수 있게 되었다. 이 기술은 계속 발전하고 있지만, 이미 우주 속에서 우리가 "
+"이동하는 방식을 근본적으로 바꿔놓았다."
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_GloriaHomework_ScienceEssay
 #. REC: TMLM:FULL
 msgctxt "000ED9"
 msgid "Science Essay: Grav Jumping"
-msgstr ""
+msgstr "과학 조사과제: 중력 도약"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminalAccessMenu
@@ -5585,14 +5687,14 @@ msgstr "보안 재정의 설정으로 돌아가기"
 #. REC: TMLM:ITXT
 msgctxt "000EDB"
 msgid "Block Access from all Terminals"
-msgstr ""
+msgstr "모든 단말기의 접속 차단"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminalAccessMenu
 #. REC: TMLM:ITXT
 msgctxt "000EDC"
 msgid "Grant Access from all Terminals"
-msgstr ""
+msgstr "모든 단말기의 접속 허용"
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminalAccessMenu
@@ -5600,6 +5702,11 @@ msgstr ""
 msgctxt "000EDD"
 msgid "SECURITY OVERRIDE\n\nAccess from other Ship Terminals has been granted.\n\nSelect one of the two options below."
 msgstr ""
+"보안 재정의 설정\n"
+"\n"
+"함선의 다른 단말기의 접속이 허용되었습니다.\n"
+"\n"
+"아래 두 설정 중 하나를 선택하세요."
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminalAccessMenu
@@ -5607,13 +5714,18 @@ msgstr ""
 msgctxt "000EDE"
 msgid "SECURITY OVERRIDE\n\nAccess to the ship's other terminals has been suspended due to a manual security override.\n\nSelect one of the two options below."
 msgstr ""
+"보안 재정의 설정\n"
+"\n"
+"수동 보안 재정의 설정으로 인해 함선의 다른 단말기의 접속이 차단되었습니다.\n"
+"\n"
+"아래 두 설정 중 하나를 선택하세요."
 
 #. List: 0
 #. EDID: SFFL_BE_EC02_SecurityTerminalAccessMenu
 #. REC: TMLM:FULL
 msgctxt "000EDF"
 msgid "TERMINAL ACCESS"
-msgstr ""
+msgstr "단말기 접속"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal03_Engineering
@@ -5621,13 +5733,17 @@ msgstr ""
 msgctxt "000EE0"
 msgid "MANUAL ENTRY - V. DELLEN\n\nI sealed the ducts. Twice. Whatever's in there, it's not using the doors.\nSystem keeps saying it's just me down here, but that's bullshit... I can hear breathing.\n"
 msgstr ""
+"수기 기록 - V. 델렌\n"
+"\n"
+"점검구를 봉쇄했다. 두 번이나. 안에 뭐가 있는지는 모르지만, 문은 사용하지 않고 있다.\n"
+"시스템은 여기 아래에 나밖에 없다고 하지만, 개소리다... 숨소리가 들린다.\n"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal03_Engineering
 #. REC: TMLM:ITXT
 msgctxt "000EE1"
 msgid "Engineer's Note"
-msgstr ""
+msgstr "엔지니어의 기록"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal03_Engineering
@@ -5635,13 +5751,18 @@ msgstr ""
 msgctxt "000EE2"
 msgid "MAINTENANCE DOOR B-13: Open (Access log shows no keycard usage)\n\nAUTO-SEAL FAILED: ENGINEERING ACCESS SHAFT\n\nCOOLANT LEAK -- UNTRACED SOURCE -- TEMPORARILY CONTAINED"
 msgstr ""
+"유지보수 출입문 B-13: 열림 (접속 기록에 키카드 사용 내역 없음)\n"
+"\n"
+"자동 봉쇄 실패: 기관부 수직 통로\n"
+"\n"
+"냉각수 누출 -- 출처 불명 -- 임시 격리됨"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal03_Engineering
 #. REC: TMLM:ITXT
 msgctxt "000EE3"
 msgid "System Alerts"
-msgstr ""
+msgstr "시스템 경보"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal03_Engineering
@@ -5649,13 +5770,20 @@ msgstr ""
 msgctxt "000EE4"
 msgid "Atmosphere: Thin, breathable\n\nHumidity: Elevated ship wide\n\nAnomalous Trace Gases Detected: Unknown organic compounds present - Composition: 68% match to human neural byproducts [???]\n\nNOTE: Report flagged for Medical Officer - no response."
 msgstr ""
+"대기: 희박, 호흡 가능\n"
+"\n"
+"습도: 함선 전체에 걸쳐 상승\n"
+"\n"
+"이상 미량 가스 감지: 불명 유기 화합물 존재 - 구성: 인간 신경 부산물과 68% 일치 [???]\n"
+"\n"
+"비고: 의료 담당관에게 보고 전달 - 응답 없음."
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal03_Engineering
 #. REC: TMLM:ITXT
 msgctxt "000EE5"
 msgid "Environmental Systems Status"
-msgstr ""
+msgstr "환경 시스템 상태"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal03_Engineering
@@ -5663,48 +5791,71 @@ msgstr ""
 msgctxt "000EE6"
 msgid "USER: V. DELLEN\n\nQUERY: SHIPBOARD LIFEFORM SIGNATURES?\n\nRegistered Crew: 7\n\nActive Biosigns: 1 [User - V. Dellen - Engineer]\n\nDetected Biosigns: 1\n\nNOTE: Brief spike to 2 biosigns detected in last scan window. Source: unresolved. Logged for review.\n\nQUERY: SHIPBOARD THERMAL SIGNATURES?\n\nCrew Quarters: Stable\n\nCargo Bay: Stable\n\nEngine Room: Stable\n\nMaintenance Crawlspaces: Fluctuations Detected. Range: -12 to +44 degrees Celsius. Source: Non-mechanical. No power draw detected.\n\nQUERY TERMINATED BY USER"
 msgstr ""
+"사용자: V. 델렌\n"
+"\n"
+"질의: 선내 생명체 신호?\n"
+"\n"
+"등록 승무원: 7\n"
+"\n"
+"활성 생체 신호: 1 [사용자 - V. 델렌 - 엔지니어]\n"
+"\n"
+"감지된 생체 신호: 1\n"
+"\n"
+"비고: 직전 스캔에서 생체 신호가 잠시 2로 급등. 출처: 미확인. 검토용 기록.\n"
+"\n"
+"질의: 선내 열 신호?\n"
+"\n"
+"승무원 선실: 안정\n"
+"\n"
+"화물실: 안정\n"
+"\n"
+"기관실: 안정\n"
+"\n"
+"유지보수용 바닥밑 공간: 변동 감지. 범위: -12~+44도. 출처: 비기계적. 전력 누전 감지 안 됨.\n"
+"\n"
+"사용자에 의해 질의 종료"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal03_Engineering
 #. REC: TMLM:ITXT
 msgctxt "000EE7"
 msgid "Diagnostics Report"
-msgstr ""
+msgstr "진단 보고서"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal03_Engineering
 #. REC: TMLM:FULL
 msgctxt "000EE8"
 msgid "Terminal"
-msgstr ""
+msgstr "단말기"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_GloriaHomework
 #. REC: TMLM:ITXT
 msgctxt "000EE9"
 msgid "Science Essay: Grav Jumping"
-msgstr ""
+msgstr "과학 조사과제: 중력 도약"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_GloriaHomework
 #. REC: TMLM:ITXT
 msgctxt "000EEA"
 msgid "UC History Essay"
-msgstr ""
+msgstr "식민지 연합 역사 조사과제"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_GloriaHomework
 #. REC: TMLM:ITXT
 msgctxt "000EEB"
 msgid "Moby Dick Report"
-msgstr ""
+msgstr "모비 딕 조사과제"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_GloriaHomework
 #. REC: TMLM:FULL
 msgctxt "000EEC"
 msgid "Homework"
-msgstr ""
+msgstr "숙제"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal01_CargoBay
@@ -5712,13 +5863,16 @@ msgstr ""
 msgctxt "000EED"
 msgid "UCS PROSPECTOR - CARGO MANAGEMENT SYSTEM\n\nSpecimen 01X container integrity check failed. Bio-signature anomaly logged. Data forwarded to Corporate Oversight. Awaiting analysis. "
 msgstr ""
+"UCS 프로스펙터 - 화물 관리 시스템\n"
+"\n"
+"표본 01X 컨테이너 무결성 점검 실패. 생체 신호 이상 기록. 데이터를 기업 감독부에 전송. 분석 대기 중. "
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal01_CargoBay
 #. REC: TMLM:ITXT
 msgctxt "000EEE"
 msgid "System Notice"
-msgstr ""
+msgstr "시스템 공지"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal01_CargoBay
@@ -5726,20 +5880,33 @@ msgstr ""
 msgctxt "000EEF"
 msgid "UCS PROSPECTOR - CARGO MANAGEMENT SYSTEM\n\nMEDICAL SUPPLIES - 5 CRATES\nSTATUS: SECURED\n\nDRILLING / EXCAVATION EQUIPMENT - 12 PALLETS\nSTATUS: SECURED\n\nPERSONAL EFFECTS - 4 CRATES\nSTATUS: SECURED\n\nBIO-SPECIMEN CONTAINER: SPECIMEN 01X \"UNCLASSIFIED FOSSIL\" - DO NOT EXPOSE TO ENVIRONMENT OR SUDDEN CHANGES IN PRESSURE.\nSTATUS: OPEN"
 msgstr ""
+"UCS 프로스펙터 - 화물 관리 시스템\n"
+"\n"
+"의료 용품 - 5상자\n"
+"상태: 안전\n"
+"\n"
+"굴착 / 발굴 장비 - 12 팔레트\n"
+"상태: 안전\n"
+"\n"
+"개인 소지품 - 4상자\n"
+"상태: 안전\n"
+"\n"
+"생체 표본 컨테이너: 표본 01X \"미분류 화석\" - 외부 환경이나 급격한 기압 변화에 노출시키지 말 것.\n"
+"상태: 개봉됨"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal01_CargoBay
 #. REC: TMLM:ITXT
 msgctxt "000EF0"
 msgid "Cargo Manifest"
-msgstr ""
+msgstr "화물 목록"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal01_CargoBay
 #. REC: TMLM:INAM
 msgctxt "000EF1"
 msgid "Terminal 01"
-msgstr ""
+msgstr "단말기 01"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal01_CargoBay
@@ -5754,13 +5921,26 @@ msgstr "Terminal01_CargoBay"
 msgctxt "000EF3"
 msgid "09.06, 23:58 HOURS\n\nI hear whispers all the time now. It's not voices though, it's more like... a presence; like thoughts.\n\nI know now that It was never dead.\n\nIf you came looking for us, I'm sorry. I wish I could have told you to stay away. If you still can, leave immediately. Destroy the ship. \n\nWe are all dead here.\n\nCapt. Howard Birack, \nUCS Prospector"
 msgstr ""
+"09.06, 23:58\n"
+"\n"
+"이제는 항상 속삭임이 들려온다. 목소리라기보다는... 어떤 존재감, 혹은 생각에 더 가깝다.\n"
+"\n"
+"그것은 결코 죽은 적이 없다는 걸 이제야 알 것 같다.\n"
+"\n"
+"만약 우리를 찾아온 것이라면 미안하다. 멀리 도망가라고 말해줄 수 있었다면 좋았을 텐데. 아직 기회가 있다면 즉시 이곳을 떠나라. 그리고 "
+"함선을 파괴해라.\n"
+"\n"
+"여기에 살아있는 사람은 아무도 없다.\n"
+"\n"
+"하워드 바이랙 선장,\n"
+"UCS 프로스펙터호"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal02_Bridge
 #. REC: TMLM:ITXT
 msgctxt "000EF4"
 msgid "What Have We Done?"
-msgstr ""
+msgstr "우리가 무슨 짓을 저지른 거지?"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal02_Bridge
@@ -5768,13 +5948,20 @@ msgstr ""
 msgctxt "000EF5"
 msgid "09.04, 02:30 HOURS\n\nFossil container interior temp rose by 8°C. No heat source identified.\n\nEmergency lock-down protocols activated.\n\nCrew morale degrading rapidly. Psych evals inconclusive."
 msgstr ""
+"09.04, 02:30\n"
+"\n"
+"화석 컨테이너 내부 온도가 8도 상승했다. 열원은 확인하지 못했다.\n"
+"\n"
+"긴급 봉쇄 프로토콜을 발동했다.\n"
+"\n"
+"승무원 사기가 급격히 떨어졌다. 심리 평가 결과는 불명확하다."
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal02_Bridge
 #. REC: TMLM:ITXT
 msgctxt "000EF6"
 msgid "Internal Incident Report 02"
-msgstr ""
+msgstr "내부 사건 보고서 02"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal02_Bridge
@@ -5782,13 +5969,17 @@ msgstr ""
 msgctxt "000EF7"
 msgid "09.03, 18:00 HOURS\n\nCrewman N. Ruiz reported visual anomalies near the fossil containment unit.\nEngineer V. Dellen reported unexplained power fluctuations originating in cargo hold.\n"
 msgstr ""
+"09.03, 18:00\n"
+"\n"
+"승무원 N. 루이즈가 화석 격납 유닛 부근에서 시각 이상을 보고했다.\n"
+"엔지니어 V. 델렌이 화물실에서 원인 불명의 전력 이상이 발생했다고 보고했다.\n"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal02_Bridge
 #. REC: TMLM:ITXT
 msgctxt "000EF8"
 msgid "Internal Incident Report 01"
-msgstr ""
+msgstr "내부 사건 보고서 01"
 
 #. List: 0
 #. EDID: SFFL_BE_RS03_Terminal02_Bridge
@@ -5809,21 +6000,21 @@ msgstr "Terminal02Bridge"
 #. REC: TMLM:ITXT
 msgctxt "000EFB"
 msgid "Turret Maintenance"
-msgstr ""
+msgstr "터렛 유지보수"
 
 #. List: 0
 #. EDID: SFBGS00DDR010_TrainingCourseMenu
 #. REC: TMLM:ITXT
 msgctxt "000EFC"
 msgid "High Scores"
-msgstr ""
+msgstr "최고 점수"
 
 #. List: 0
 #. EDID: SFBGS00DDR010_TrainingCourseMenu
 #. REC: TMLM:FULL
 msgctxt "000EFD"
 msgid "Training Course Docs"
-msgstr ""
+msgstr "훈련 과정 문서"
 
 #. List: 0
 #. EDID: SFFL_MS01_Ivica_TMLM
@@ -5935,7 +6126,7 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "000F0D"
 msgid "Restricted Access Data"
-msgstr ""
+msgstr "접속 제한 데이터"
 
 #. List: 0
 #. EDID: SFFL_SE_EC08_DerelictComputer_DoorControl
@@ -6054,35 +6245,35 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "000F1E"
 msgid "Clue 5"
-msgstr ""
+msgstr "단서 5"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues
 #. REC: TMLM:ITXT
 msgctxt "000F1F"
 msgid "Clue 4"
-msgstr ""
+msgstr "단서 4"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues
 #. REC: TMLM:ITXT
 msgctxt "000F20"
 msgid "Clue 3"
-msgstr ""
+msgstr "단서 3"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues
 #. REC: TMLM:ITXT
 msgctxt "000F21"
 msgid "Clue 2"
-msgstr ""
+msgstr "단서 2"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues
 #. REC: TMLM:ITXT
 msgctxt "000F22"
 msgid "Clue 1"
-msgstr ""
+msgstr "단서 1"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues
@@ -6285,7 +6476,7 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "000F3F"
 msgid "[Clue 1] Insert Clue 1"
-msgstr ""
+msgstr "[단서 1] 단서 1 넣기"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues_Clue1
@@ -6300,6 +6491,9 @@ msgstr ""
 msgctxt "000F41"
 msgid "Clue inserted.\n\nFirst lock unlocked."
 msgstr ""
+"단서를 넣었다.\n"
+"\n"
+"첫 번째 잠금 해제."
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues_Clue1
@@ -6320,7 +6514,7 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "000F44"
 msgid "Clue 1"
-msgstr ""
+msgstr "단서 1"
 
 #. List: 0
 #. EDID: SFFLDR021SiloTerminal_Desktop
@@ -6362,14 +6556,14 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "000F4A"
 msgid "UC History Essay"
-msgstr ""
+msgstr "식민지 연합 역사 조사과제"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_GloriaHomework_MobyDick
 #. REC: TMLM:ITXT
 msgctxt "000F4B"
 msgid "Moby Dick"
-msgstr ""
+msgstr "모비 딕"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_GloriaHomework_MobyDick
@@ -6411,7 +6605,7 @@ msgstr "출입문 제어"
 #. REC: TMLM:ITXT
 msgctxt "000F51"
 msgid "Retry"
-msgstr ""
+msgstr "재시도"
 
 #. List: 0
 #. EDID: SFFL_SE_EC08_DerelictComputer_EmergencyMenu
@@ -6523,7 +6717,7 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "000F61"
 msgid "Shipping Manifests"
-msgstr ""
+msgstr "선적 적하 목록"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_CaptainTerminalMenu
@@ -7216,7 +7410,7 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "000FBC"
 msgid "[Clue 3] Insert Clue 3"
-msgstr ""
+msgstr "[단서 3] 단서 3 넣기"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues_Clue3
@@ -7231,6 +7425,9 @@ msgstr ""
 msgctxt "000FBE"
 msgid "Clue inserted.\n\nThird lock unlocked."
 msgstr ""
+"단서를 넣었다.\n"
+"\n"
+"세 번째 잠금 해제."
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues_Clue3
@@ -7251,7 +7448,7 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "000FC1"
 msgid "Clue 3"
-msgstr ""
+msgstr "단서 3"
 
 #. List: 0
 #. EDID: _SFFLDR027FearLiathOrbitalPlanetData
@@ -7538,35 +7735,35 @@ msgstr ""
 #. REC: MESG:FULL
 msgctxt "001016"
 msgid "Sergeant Marco Graziani"
-msgstr ""
+msgstr "마르코 그라치아니 병장"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_PaxtonHull_MSG
 #. REC: MESG:FULL
 msgctxt "001018"
 msgid "Major Paxton Hull"
-msgstr ""
+msgstr "팩스턴 헐 소령"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMechPilot_MSG
 #. REC: MESG:FULL
 msgctxt "00101A"
 msgid "Freestar Mech Pilot"
-msgstr ""
+msgstr "자유항성 메크 조종사"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_TolliverRoyce_MSG
 #. REC: MESG:FULL
 msgctxt "00101C"
 msgid "General Tolliver Royce"
-msgstr ""
+msgstr "톨리버 로이스 장군"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaMedic_MSG
 #. REC: MESG:FULL
 msgctxt "00101E"
 msgid " Freestar Militia Medic"
-msgstr ""
+msgstr " 자유항성 민병대 의무병"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_KreetStalker_MSG
@@ -7643,7 +7840,7 @@ msgstr ""
 #. REC: MESG:FULL
 msgctxt "001030"
 msgid "Free Lanes - Cruise Mode"
-msgstr ""
+msgstr "프리 레인스 - 순항 모드"
 
 #. List: 0
 #. EDID: SFFL_SE_RS01_Sycorax
@@ -7755,14 +7952,14 @@ msgstr ""
 #. REC: MESG:FULL
 msgctxt "00104B"
 msgid "General Indira Rastogi"
-msgstr ""
+msgstr "인디라 라스토기 장군"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_CaptainMyeong_MSG
 #. REC: MESG:FULL
 msgctxt "001052"
 msgid "Captain Myeong"
-msgstr ""
+msgstr "명 함장"
 
 #. List: 0
 #. EDID: ExtendedComm_AlliedShipMSG
@@ -7790,14 +7987,14 @@ msgstr ""
 #. REC: MESG:FULL
 msgctxt "00105D"
 msgid "United Colonies Naval Officer"
-msgstr ""
+msgstr "식민지 연합 해군 장교"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_UCArmySoldier_MSG
 #. REC: MESG:FULL
 msgctxt "001060"
 msgid "UC Army Soldier"
-msgstr ""
+msgstr "식민지 연합 병사"
 
 #. List: 0
 #. EDID: StarbornContainerBuildMissingResourcesMsg
@@ -7853,7 +8050,7 @@ msgstr ""
 #. REC: MESG:FULL
 msgctxt "00106D"
 msgid "Major Hadrian Sanon"
-msgstr ""
+msgstr "헤이드리안 사논 소령"
 
 #. List: 0
 #. EDID: SFFLAsteroidManorLoadElevatorMessage01
@@ -7874,7 +8071,7 @@ msgstr ""
 #. REC: MESG:FULL
 msgctxt "001073"
 msgid "Commander Sarah Morgan"
-msgstr ""
+msgstr "사라 모건 지휘관"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_KibweIkande_MSG
@@ -7895,7 +8092,7 @@ msgstr ""
 #. REC: MESG:FULL
 msgctxt "001079"
 msgid "Commander Vincent Woodard"
-msgstr ""
+msgstr "빈센트 우다드 사령관"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_PercivalWalker_MSG
@@ -8980,35 +9177,35 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "001443"
 msgid "Action Figure: Kreet Stalker"
-msgstr ""
+msgstr "액션 피규어: 크릿 미행꾼"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_Unit99_Sealed
 #. REC: MISC:FULL
 msgctxt "001444"
 msgid "Action Figure: Sealed Unit 99"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 99호"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_Kaiser
 #. REC: MISC:FULL
 msgctxt "001445"
 msgid "Action Figure: Kaiser"
-msgstr ""
+msgstr "액션 피규어: 카이저"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_UCMarine_Sealed
 #. REC: MISC:FULL
 msgctxt "001446"
 msgid "Action Figure: Sealed UC Marine"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 식민지 연합 해병대원"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_IndiraRastogi_Sealed
 #. REC: MISC:FULL
 msgctxt "001447"
 msgid "Action Figure: Sealed General Indira Rastogi"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 인디라 라스토기 장군"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_KibweIkande_Sealed
@@ -9022,7 +9219,7 @@ msgstr "액션 피규어: 밀봉된 키브웨 이칸데 대위"
 #. REC: MISC:FULL
 msgctxt "001449"
 msgid "Action Figure: Sealed Fleet Admiral François \"Vae Victis\" Sanon"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 프랑수아 \"베이 빅티스\" 사논 함대 제독"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointZ02_Parts_Damaged
@@ -9043,28 +9240,28 @@ msgstr "설계도 - 안티 락온 시스템"
 #. REC: MISC:FULL
 msgctxt "00144C"
 msgid "Action Figure: Terrormorph"
-msgstr ""
+msgstr "액션 피규어: 테러모프"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_MayaCruz
 #. REC: MISC:FULL
 msgctxt "00144D"
 msgid "Action Figure: Sergeant Maya Cruz"
-msgstr ""
+msgstr "액션 피규어: 마야 크루즈 병장"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_TolliverRoyce_Sealed
 #. REC: MISC:FULL
 msgctxt "00144E"
 msgid "Action Figure: Sealed General Tolliver Royce"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 톨리버 로이스 장군"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaMedic
 #. REC: MISC:FULL
 msgctxt "00144F"
 msgid "Action Figure: Freestar Militia Medic"
-msgstr ""
+msgstr "액션 피규어: 자유항성 민병대 의무병"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_AimSpeed_ranged
@@ -9120,7 +9317,7 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "001457"
 msgid "Action Figure: Freestar Mech Pilot"
-msgstr ""
+msgstr "액션 피규어: 자유항성 메크 조종사"
 
 #. List: 0
 #. EDID: EquipmentSchematics_EvasiveStealthDrive
@@ -9141,21 +9338,21 @@ msgstr "설계도 - 고급 함선 수집기"
 #. REC: MISC:FULL
 msgctxt "00145A"
 msgid "Action Figure: Sealed Jasper Kryx"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 재스퍼 크릭스"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_HadrianSanon
 #. REC: MISC:FULL
 msgctxt "00145B"
 msgid "Action Figure: Major Hadrian Sanon"
-msgstr ""
+msgstr "액션 피규어: 헤이드리안 사논 소령"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_Terrormorph_Sealed
 #. REC: MISC:FULL
 msgctxt "00145C"
 msgid "Action Figure: Sealed Terrormorph"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 테러모프"
 
 #. List: 0
 #. EDID: SFFL_VendorKillianBriceContainer
@@ -9260,14 +9457,14 @@ msgstr ""
 #. REC: ACTI:ATTX
 msgctxt "001471"
 msgid "Water"
-msgstr ""
+msgstr "물 주기"
 
 #. List: 0
 #. EDID: SFFL_MS03_PlantActivator04
 #. REC: ACTI:FULL
 msgctxt "001472"
 msgid "Plant"
-msgstr ""
+msgstr "심기"
 
 #. List: 0
 #. EDID: LegendaryModifier_Martyr_Spell
@@ -9574,7 +9771,7 @@ msgstr ""
 #. REC: MESG:FULL
 msgctxt "0014A5"
 msgid "Sergeant Maya Cruz"
-msgstr ""
+msgstr "마야 크루즈 병장"
 
 #. List: 0
 #. EDID: HelpFreeLanesEncountersPC
@@ -10022,7 +10219,7 @@ msgstr "파니샤 라우"
 #. REC: NPC_:FULL
 msgctxt "001910"
 msgid "Milliwhale Pet"
-msgstr "천분고래 애완동물"
+msgstr "밀리고래 애완동물"
 
 #. List: 0
 #. EDID: SFFL_MS03_CaptorF02
@@ -10197,7 +10394,7 @@ msgstr "설계도 - 소형 반응로"
 #. REC: MISC:FULL
 msgctxt "00192B"
 msgid "Action Figure: Admiral Ode Balewa"
-msgstr ""
+msgstr "액션 피규어: 오데 발레와 제독"
 
 #. List: 0
 #. EDID: EquipmentSchematics_BuoyantInsulators
@@ -10218,91 +10415,91 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "00192E"
 msgid "Action Figure: Sealed Admiral Ode Balewa"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 오데 발레와 제독"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_MayaCruz_Sealed
 #. REC: MISC:FULL
 msgctxt "00192F"
 msgid "Action Figure: Sealed Sergeant Maya Cruz"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 마야 크루즈 병장"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_UCNavalOfficer
 #. REC: MISC:FULL
 msgctxt "001930"
 msgid "Action Figure: United Colonies Naval Officer"
-msgstr ""
+msgstr "액션 피규어: 식민지 연합 해군 장교"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_TolliverRoyce
 #. REC: MISC:FULL
 msgctxt "001931"
 msgid "Action Figure: General Tolliver Royce"
-msgstr ""
+msgstr "액션 피규어: 톨리버 로이스 장군"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_DanielBlake
 #. REC: MISC:FULL
 msgctxt "001932"
 msgid "Action Figure: Captain Daniel Blake"
-msgstr ""
+msgstr "액션 피규어: 다니엘 블레이크 대령"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaHeavyGunner_Sealed
 #. REC: MISC:FULL
 msgctxt "001933"
 msgid "Action Figure: Sealed Freestar Militia Heavy Gunner"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 자유항성 민병대 중화기병"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaMedic_Sealed
 #. REC: MISC:FULL
 msgctxt "001934"
 msgid "Action Figure: Sealed Freestar Militia Medic"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 자유항성 민병대 의무병"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaSoldier_Sealed
 #. REC: MISC:FULL
 msgctxt "001935"
 msgid "Action Figure: Sealed Freestar Militia Soldier"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 자유항성 민병대 병사"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaSoldier
 #. REC: MISC:FULL
 msgctxt "001936"
 msgid "Action Figure: Freestar Militia Soldier"
-msgstr ""
+msgstr "액션 피규어: 자유항성 민병대 병사"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_Kaiser_Sealed
 #. REC: MISC:FULL
 msgctxt "001937"
 msgid "Action Figure: Sealed Kaiser"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 카이저"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_LouSaavedra_Sealed
 #. REC: MISC:FULL
 msgctxt "001938"
 msgid "Action Figure: Sealed Sergeant Lou Saavedra"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 루 사베드라 병장"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_UCArmySoldier
 #. REC: MISC:FULL
 msgctxt "001939"
 msgid "Action Figure: UC Army Soldier"
-msgstr ""
+msgstr "액션 피규어: 식민지 연합 병사"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMechPilot_Sealed
 #. REC: MISC:FULL
 msgctxt "00193A"
 msgid "Action Figure: Sealed Freestar Mech Pilot"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 자유항성 메크 조종사"
 
 #. List: 0
 #. EDID: SFBGS00D_GravityAirlock_Main_DoorA01_Fast
@@ -10575,7 +10772,7 @@ msgstr "ModLegendaryEffect_Grenadier_Missiles"
 #. REC: MGEF:DNAM
 msgctxt "00196A"
 msgid "+<mag> Health for <dur>"
-msgstr ""
+msgstr "<dur> 동안 체력 +<mag>"
 
 #. List: 0
 #. EDID: FortifyMaxShipHealth
@@ -10753,7 +10950,7 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "001984"
 msgid "Manifest"
-msgstr ""
+msgstr "물품 목록"
 
 #. List: 0
 #. EDID: SFFLDR022_Terminal_Boss
@@ -10795,14 +10992,14 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "00198A"
 msgid "Terminal"
-msgstr ""
+msgstr "단말기"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues_Clue2
 #. REC: TMLM:ITXT
 msgctxt "00198B"
 msgid "[Clue 2] Insert Clue 2"
-msgstr ""
+msgstr "[단서 2] 단서 2 넣기"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues_Clue2
@@ -10817,6 +11014,9 @@ msgstr ""
 msgctxt "00198D"
 msgid "Clue inserted.\n\nSecond lock unlocked."
 msgstr ""
+"단서를 넣었다.\n"
+"\n"
+"두 번째 잠금 해제."
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues_Clue2
@@ -10837,7 +11037,7 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "001990"
 msgid "Clue 2"
-msgstr ""
+msgstr "단서 2"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Desktop
@@ -11092,7 +11292,7 @@ msgstr ""
 #. REC: TMLM:ITXT
 msgctxt "0019B3"
 msgid "[Clue 4] Insert Clue 4"
-msgstr ""
+msgstr "[단서 4] 단서 4 넣기"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues_Clue4
@@ -11107,6 +11307,9 @@ msgstr ""
 msgctxt "0019B5"
 msgid "Clue inserted.\n\nFourth lock unlocked."
 msgstr ""
+"단서를 넣었다.\n"
+"\n"
+"네 번째 잠금 해제."
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues_Clue4
@@ -11127,7 +11330,7 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "0019B8"
 msgid "Clue 4"
-msgstr ""
+msgstr "단서 4"
 
 #. List: 0
 #. EDID: ShipUpgrade_TerminalScreen_GravDriveScreen
@@ -11300,7 +11503,7 @@ msgstr "기타 최적화"
 #. REC: TMLM:ITXT
 msgctxt "0019CF"
 msgid "[Clue 5] Insert Clue 5"
-msgstr ""
+msgstr "[단서 5] 단서 5 넣기"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues_Clue5
@@ -11315,6 +11518,11 @@ msgstr ""
 msgctxt "0019D1"
 msgid "Clue inserted.\n\nFinal lock unlocked.\n\nSafe ready to be opened."
 msgstr ""
+"단서를 넣었다.\n"
+"\n"
+"마지막 잠금 해제.\n"
+"\n"
+"금고를 열 수 있다."
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clues_Clue5
@@ -11335,7 +11543,7 @@ msgstr ""
 #. REC: TMLM:FULL
 msgctxt "0019D4"
 msgid "Clue 5"
-msgstr ""
+msgstr "단서 5"
 
 #. List: 0
 #. EDID: mod_Legendary_Armor_4_Enigmatic
@@ -11391,7 +11599,7 @@ msgstr ""
 #. REC: MESG:FULL
 msgctxt "0019EC"
 msgid "UC Marine"
-msgstr ""
+msgstr "식민지 연합 해병대원"
 
 #. List: 0
 #. EDID: SFFL_SE_EC06_SatelliteName
@@ -11405,21 +11613,21 @@ msgstr ""
 #. REC: MESG:FULL
 msgctxt "0019F0"
 msgid "Freestar Militia Soldier"
-msgstr ""
+msgstr "자유항성 민병대 병사"
 
 #. List: 0
 #. EDID: SFBGS00D_Tutorial_CruiseMode
 #. REC: MESG:NNAM
 msgctxt "0019F2"
 msgid "Free Lanes - Cruise"
-msgstr ""
+msgstr "프리 레인스 - 순항"
 
 #. List: 0
 #. EDID: SFBGS00D_Tutorial_CruiseMode
 #. REC: MESG:FULL
 msgctxt "0019F3"
 msgid "Free Lanes - Cruise"
-msgstr ""
+msgstr "프리 레인스 - 순항"
 
 #. List: 0
 #. EDID: HelpFreeLanesCruiseModePC
@@ -11433,7 +11641,7 @@ msgstr ""
 #. REC: MESG:FULL
 msgctxt "0019F6"
 msgid "Free Lanes - Cruise Mode"
-msgstr ""
+msgstr "프리 레인스 - 순항 모드"
 
 #. List: 0
 #. EDID: SFFL_Z01_SehoyNameMessage
@@ -12140,21 +12348,21 @@ msgstr ""
 #. REC: ALCH:FULL
 msgctxt "001E88"
 msgid "Food?"
-msgstr ""
+msgstr "먹을 수 있나?"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clue4
 #. REC: KEYM:FULL
 msgctxt "001E89"
 msgid "Clue 4"
-msgstr ""
+msgstr "단서 4"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_Clue1
 #. REC: KEYM:FULL
 msgctxt "001E8A"
 msgid "Clue 1"
-msgstr ""
+msgstr "단서 1"
 
 #. List: 0
 #. EDID: SFFLDR026_Keycard
@@ -12350,35 +12558,35 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "001EA6"
 msgid "Action Figure: Sealed Captain Daniel Blake"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 다니엘 블레이크 대령"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_KreetStalker_Sealed
 #. REC: MISC:FULL
 msgctxt "001EA8"
 msgid "Action Figure: Sealed Kreet Stalker"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 크릿 미행꾼"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_Unit99
 #. REC: MISC:FULL
 msgctxt "001EA9"
 msgid "Action Figure: Unit 99"
-msgstr ""
+msgstr "액션 피규어: 99호"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_UCArmySoldier_Sealed
 #. REC: MISC:FULL
 msgctxt "001EAA"
 msgid "Action Figure: Sealed UC Army Soldier"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 식민지 연합 병사"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_SarahMorgan
 #. REC: MISC:FULL
 msgctxt "001EAB"
 msgid "Action Figure: Commander Sarah Morgan"
-msgstr ""
+msgstr "액션 피규어: 사라 모건 지휘관"
 
 #. List: 0
 #. EDID: EquipmentSchematics_EMPulseShielding
@@ -12406,21 +12614,21 @@ msgstr ""
 #. REC: MISC:FULL
 msgctxt "001EAF"
 msgid "Action Figure: Sealed Major Hadrian Sanon"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 헤이드리안 사논 소령"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_UCMarine
 #. REC: MISC:FULL
 msgctxt "001EB0"
 msgid "Action Figure: UC Marine"
-msgstr ""
+msgstr "액션 피규어: 식민지 연합 해병대원"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_UCNavalOfficer_Sealed
 #. REC: MISC:FULL
 msgctxt "001EB1"
 msgid "Action Figure: Sealed United Colonies Naval Officer"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 식민지 연합 해군 장교"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_KibweIkande
@@ -12434,14 +12642,14 @@ msgstr "액션 피규어: 키브웨 이칸데 대위"
 #. REC: MISC:FULL
 msgctxt "001EB3"
 msgid "Action Figure: Captain Myeong"
-msgstr ""
+msgstr "액션 피규어: 명 함장"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_VincentWoodard_Sealed
 #. REC: MISC:FULL
 msgctxt "001EB4"
 msgid "Action Figure: Sealed Commander Vincent Woodard"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 빈센트 우다드 사령관"
 
 #. List: 0
 #. EDID: SFFL_R01_ContrabandCache
@@ -12469,7 +12677,7 @@ msgstr ""
 #. REC: CONT:FULL
 msgctxt "001EB8"
 msgid "Valeria Hahn - Bar"
-msgstr ""
+msgstr "발레리아 한 - 바"
 
 #. List: 0
 #. EDID: SFFL_VendorDanicaVolkovContainer
@@ -12560,14 +12768,14 @@ msgstr ""
 #. REC: BOOK:ENAM
 msgctxt "001ECD"
 msgid "Moby Dick"
-msgstr ""
+msgstr "모비 딕"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_Book_MobyDick_m
 #. REC: BOOK:FULL
 msgctxt "001ECF"
 msgid "Moby Dick"
-msgstr ""
+msgstr "모비 딕"
 
 #. List: 0
 #. EDID: StarbornContainerSlate
@@ -12658,7 +12866,7 @@ msgstr "심연의해방TA효과"
 #. REC: MGEF:DNAM
 msgctxt "001EDD"
 msgid "+<mag> Health for <dur>"
-msgstr ""
+msgstr "<dur> 동안 체력 +<mag>"
 
 #. List: 0
 #. EDID: ShipUpgrade_HullIntegrity_Effect
@@ -13160,7 +13368,7 @@ msgstr ""
 #. REC: KEYM:FULL
 msgctxt "00233C"
 msgid "Clue 3"
-msgstr ""
+msgstr "단서 3"
 
 #. List: 0
 #. EDID: SFFLDR026_Key
@@ -13286,7 +13494,7 @@ msgstr "다니카 볼코프"
 #. REC: NPC_:FULL
 msgctxt "00234F"
 msgid "Sawyer Brooks"
-msgstr "소이어 브룩스"
+msgstr "소여 브룩스"
 
 #. List: 0
 #. EDID: SFFL_MS03_RomanKreutz
@@ -13342,21 +13550,21 @@ msgstr "에어락"
 #. REC: MISC:FULL
 msgctxt "002357"
 msgid "Action Figure: Sealed Major Paxton Hull"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 팩스턴 헐 소령"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_PaxtonHull
 #. REC: MISC:FULL
 msgctxt "002358"
 msgid "Action Figure: Major Paxton Hull"
-msgstr ""
+msgstr "액션 피규어: 팩스턴 헐 소령"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_VincentWoodard
 #. REC: MISC:FULL
 msgctxt "00235A"
 msgid "Action Figure: Commander Vincent Woodard"
-msgstr ""
+msgstr "액션 피규어: 빈센트 우다드 사령관"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_Recoil_ranged
@@ -13398,7 +13606,7 @@ msgstr "전자기 저항 업그레이드"
 #. REC: MISC:FULL
 msgctxt "002360"
 msgid "Action Figure: Sealed Commander Sarah Morgan"
-msgstr ""
+msgstr "액션 피규어: 밀봉된 사라 모건 지휘관"
 
 #. List: 0
 #. EDID: SFBGS00D_Spaceport_Hangar_Door01
@@ -13531,28 +13739,28 @@ msgstr ""
 #. REC: ACTI:ATTX
 msgctxt "002377"
 msgid "Water"
-msgstr ""
+msgstr "물 주기"
 
 #. List: 0
 #. EDID: SFFL_MS03_PlantActivator01
 #. REC: ACTI:FULL
 msgctxt "002378"
 msgid "Plant"
-msgstr ""
+msgstr "심기"
 
 #. List: 0
 #. EDID: SFFL_MS03_PlantActivator02
 #. REC: ACTI:ATTX
 msgctxt "002379"
 msgid "Water"
-msgstr ""
+msgstr "물 주기"
 
 #. List: 0
 #. EDID: SFFL_MS03_PlantActivator02
 #. REC: ACTI:FULL
 msgctxt "00237A"
 msgid "Plant"
-msgstr ""
+msgstr "심기"
 
 #. List: 0
 #. EDID: ab_Legendary_Suit_Speedster_Spell
@@ -14287,7 +14495,7 @@ msgstr "Quick Test Cell"
 #. REC: TMLM:ITXT
 msgctxt "0024EC"
 msgid "[Download Clue Reminder]"
-msgstr ""
+msgstr "[단서 리마인더 다운로드]"
 
 #. List: 0
 #. EDID: SFFL_SE_EC01_UnlockDoorScript_TerminalMenu
@@ -14315,42 +14523,42 @@ msgstr "UNLOCKDOOR_SCR"
 #. REC: BOOK:FULL
 msgctxt "0024F5"
 msgid "Clue Reminder"
-msgstr ""
+msgstr "단서 리마인더"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_RiddleNote_1
 #. REC: BOOK:FULL
 msgctxt "0024F7"
 msgid "Clue Reminder"
-msgstr ""
+msgstr "단서 리마인더"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_RiddleNote_2
 #. REC: BOOK:FULL
 msgctxt "0024F9"
 msgid "Clue Reminder"
-msgstr ""
+msgstr "단서 리마인더"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_RiddleNote_3
 #. REC: BOOK:FULL
 msgctxt "0024FB"
 msgid "Clue Reminder"
-msgstr ""
+msgstr "단서 리마인더"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_RiddleNote_4
 #. REC: BOOK:FULL
 msgctxt "0024FD"
 msgid "Clue Reminder"
-msgstr ""
+msgstr "단서 리마인더"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointSH_RiddleNote_5
 #. REC: BOOK:FULL
 msgctxt "0024FF"
 msgid "Clue Reminder"
-msgstr ""
+msgstr "단서 리마인더"
 
 #. List: 0
 #. EDID: SFFL_Anchorpoint_SecurityTerminal_MessagesSub
@@ -14539,14 +14747,14 @@ msgstr ""
 #. REC: MESG:NNAM
 msgctxt "002525"
 msgid "Free Lanes - Cruise"
-msgstr ""
+msgstr "프리 레인스 - 순항"
 
 #. List: 0
 #. EDID: SFBGS00D_Tutorial_CruiseMode_Gamepad
 #. REC: MESG:FULL
 msgctxt "002526"
 msgid "Free Lanes - Cruise"
-msgstr ""
+msgstr "프리 레인스 - 순항"
 
 #. List: 0
 #. EDID: SQ_EquipmentModAchievement
@@ -14924,7 +15132,7 @@ msgstr ""
 #. REC: NPC_:FULL
 msgctxt "0025A5"
 msgid "Milliwhale Pet"
-msgstr "천분고래 애완동물"
+msgstr "밀리고래 애완동물"
 
 #. List: 0
 #. EDID: SFFLAnchorpoint_ChanOfficeContainer
@@ -15015,7 +15223,7 @@ msgstr "Legendary_Wep_Gravitational_Projectile"
 #. REC: CONT:FULL
 msgctxt "0025B2"
 msgid "Wreckage"
-msgstr ""
+msgstr "잔해"
 
 #. List: 0
 #. EDID: Ench_LegendaryWeapon_Gravitational_Pull
@@ -15085,7 +15293,7 @@ msgstr ""
 #. REC: CONT:FULL
 msgctxt "0025BC"
 msgid "Wreckage"
-msgstr ""
+msgstr "잔해"
 
 #. List: 0
 #. EDID: SFFL_Loot_Space_MG02_Logs_Hostile_01
@@ -15099,14 +15307,14 @@ msgstr ""
 #. REC: CONT:FULL
 msgctxt "0025BE"
 msgid "Wreckage"
-msgstr ""
+msgstr "잔해"
 
 #. List: 0
 #. EDID: SFFL_Loot_Space_MG02_Logs_FreeStar_01
 #. REC: CONT:FULL
 msgctxt "0025BF"
 msgid "Wreckage"
-msgstr ""
+msgstr "잔해"
 
 #. List: 0
 #. EDID: SFFL_SE_MG02_Logs_Ryujin
@@ -15120,14 +15328,14 @@ msgstr ""
 #. REC: CONT:FULL
 msgctxt "0025C1"
 msgid "Wreckage"
-msgstr ""
+msgstr "잔해"
 
 #. List: 0
 #. EDID: SFFL_Loot_Space_MG02_Logs_Civilian_02
 #. REC: CONT:FULL
 msgctxt "0025C2"
 msgid "Galbank Vault"
-msgstr ""
+msgstr "갤뱅크 금고"
 
 #. List: 0
 #. EDID: SFFL_SE_MG03
@@ -15155,7 +15363,7 @@ msgstr ""
 #. REC: CONT:FULL
 msgctxt "0025C6"
 msgid "Wreckage"
-msgstr ""
+msgstr "잔해"
 
 #. List: 0
 #. EDID: SFBGS00D_ColonyWarActionHero_Display_Button
@@ -18322,6 +18530,14 @@ msgstr ""
 msgctxt "000E38"
 msgid "Emmett,\n\nI'm reaching out to see if you have any security connections beyond our typical vendors. I know our budget is already tight as it is, but these turrets they provided are broken down more often than operational.\n\nLook. If we need to reach out to the Ecliptic, I'm okay with it. Anything will have to do.\n\n- John"
 msgstr ""
+"에밋에게,\n"
+"\n"
+"기존 거래처 말고 보안 관련 연줄이 있는지 물어보려고 연락했어. 예산이 빠듯하다는 건 알지만, 저쪽에서 납품한 포탑은 작동하는 시간보다 "
+"고장 나 있는 시간이 더 길어.\n"
+"\n"
+"이봐. 이클립틱에라도 연락해야 한다면, 그렇게 해. 지금 수단을 가릴 때가 아니야.\n"
+"\n"
+"- 존"
 
 #. List: 1
 #. EDID: SFBGS00DDR009_Slate04
@@ -18329,6 +18545,8 @@ msgstr ""
 msgctxt "000E3A"
 msgid "No matter what, you can't let Bill near any of the supplies. I provided you a new key that I also will have a copy of on me. I left it in one of your desk cabinets. Use it from now on and make sure to always lock the gates behind you."
 msgstr ""
+"무슨 일이 있어도 빌을 물자 근처에 오지 못하게 해. 네가 쓸 새 열쇠와 내가 쓸 복제 열쇠는 같이 네 책상 보관장에 넣어 뒀다. "
+"이제부터 그걸 쓰고, 뒤쪽 문은 반드시 잠가 둬."
 
 #. List: 1
 #. EDID: SFFL_Anchorpoint_TextSlate_BriceMessage
@@ -18336,6 +18554,15 @@ msgstr ""
 msgctxt "000E3C"
 msgid "Mister Brice,\n\nAccompanying this slate is a CredStik with payment for the latest delivery. Our endeavor has demonstrated promising results, and we intend to expand production. This means our need for your services will soon increase. \n\nIf you can expand your operation sufficiently to provide double the current volume, we'll be happy to continue working with you as our sole contractor. If not, rest assured, we'll continue what has been an agreeable partnership, though we will need to expand our sourcing. The opportunity is yours if you want it.\n\nWe look forward to your reply"
 msgstr ""
+"브라이스 씨에게,\n"
+"\n"
+"이 슬레이트에 최근 납품 대금이 담긴 크레딧 스틱을 동봉해 보냅니다. 우리 사업은 성과가 유망해 보이기에, 생산을 확대할 예정입니다. "
+"그만큼 귀하의 서비스가 더 필요해질 것입니다.\n"
+"\n"
+"현재 물량의 두 배를 공급할 수 있도록 충분히 사업을 확장하신다면, 기꺼이 전속 계약을 유지하겠습니다. 그렇지 못하더라도 지금까지의 "
+"원만한 협력 관계는 계속됩니다만, 조달처를 넓힐 필요가 있을 것입니다. 원하신다면 기회는 열려 있습니다.\n"
+"\n"
+"답신을 기다리겠습니다."
 
 #. List: 1
 #. EDID: SFFL_SE_EC03_Keepsake_Dataslate
@@ -18343,6 +18570,25 @@ msgstr ""
 msgctxt "000E3E"
 msgid "3 THINGS ABOUT MY MUM\nby Anjali Lau-Kazan, 8\n\nMy mother is very strong and brave. Once upon a time she was on a navy ship that hunted pirates. That's where she met dad!! One day I will have my own ship, and paint it all black so pirates can't see me.\n\nMy mother is very wise. When she speaks you better listen because it's important! There are many examples but I'm too tired to write them now.\n\nMy mother loves me more than everything, even dad. Dad always looks grumpy, but that's because of his condition. He loves me more than everything too.\n\nI love my parents and I LOVE MY MUM!!\n\n  _ _\n|   `  |\n \\    /\n   \\/\n\nHAPPY MOTHERS DAY MUM"
 msgstr ""
+"엄마에 대한 3가지 사실\n"
+"안잘리 라우-카잔, 8살\n"
+"\n"
+"엄마는 아주 강하고 용감해요. 옛날에 해적을 잡는 해군 배를 탔어요. 거기서 아빠를 만났대요!! 나도 언젠가 내 배를 갖고, 해적이 못 "
+"찾게 새까맣게 칠할 거예요.\n"
+"\n"
+"엄마는 아주 똑똑해요. 엄마가 말하면 잘 들어야 돼요. 중요한 얘기거든요! 사례는 많은데 피곤해서 지금은 안 쓸래요.\n"
+"\n"
+"엄마는 무엇보다 나를 사랑해요. 아빠보다도요. 아빠는 항상 찡그리고 있는 것 같지만, 그건 아파서 그런 거예요. 아빠도 무엇보다 나를 "
+"사랑해요.\n"
+"\n"
+" 엄마 아빠 좋아요. 사랑해요 엄마!!\n"
+"\n"
+"  _ _\n"
+"|   `  |\n"
+" \\    /\n"
+"   \\/\n"
+"\n"
+"엄마 어머니날 축하해요"
 
 #. List: 1
 #. EDID: SFBGS00DDR005_Slate04
@@ -18350,6 +18596,13 @@ msgstr ""
 msgctxt "000E42"
 msgid "Since our Ecliptic \"friends\" have joined us, I've had to keep a closer hold of our valuables, which includes the keys. \n\nThe master key for our exit door out the cave will be moved to our closed off quarters. Please grab and leave that key on the holder in our work area. KEEP IT CLOSE as that is our only copy of that key and I do not want it falling in the hands of a delinquent Ecliptic.\n\nAs for the weapon stash key, that will be on me AT ALL TIMES for the same reasons. To not rustle feathers with the mercenaries, I left our weapons out there but they will be locked. I'll also keep a watchful eye on them."
 msgstr ""
+"이클립틱 \"친구들\"이 합류한 뒤로, 열쇠를 포함해 귀중품을 더 단단히 관리해야만 한다.\n"
+"\n"
+"동굴 출구용 마스터키는 우리 전용 방으로 옮길 것이다. 작업 구역의 열쇠 거치대에서 가져가고 반납해라. 열쇠는 그것 하나뿐이니, 불량한 "
+"이클립틱 놈 손에 들어가지 않도록 \"반드시\" 몸에 지니고 다녀라.\n"
+"\n"
+"같은 이유로 무기고 열쇠는 내가 \"항상\" 소지하고 있겠다. 용병들과 마찰을 일으키지 않기 위해 무기는 그대로 뒀지만, 잠가 놓을 "
+"것이다. 내가 계속 감시하겠다."
 
 #. List: 1
 #. EDID: SFFL_SE01_DataSlate03
@@ -18357,6 +18610,17 @@ msgstr ""
 msgctxt "000E44"
 msgid "An interesting thing happened last night. A lone, spacefaring grandmother invited me onto her ship for a spot of food and company. I must be crazy because I took her up on her offer. \n\nShe was pleasant enough, and it was nice to be able to speak with someone who's around my own age for a change. We ate, drank, and laughed about the odds of two old women meeting each other in the vastness of space. \n\nShe told me her grandkids aren't too happy with her doing what she's doing. Guess she doesn't know how lucky she is. I was never lucky in love, so I don't have any grandkids - or family, really - to worry about, or to worry about me. It gets lonely out here. \n\nIt all got me thinking: what other interesting people are out there? Maybe I should follow her example and start inviting people on board. \n"
 msgstr ""
+"어젯밤 재미있는 일이 있었지. 혼자서 우주를 떠도는 할머니 한 분이 같이 식사하면서 이야기나 나누자면서 자기 배에 초대해 줬어. 그 "
+"제안에 응한 나도 제정신이 아니었던 것 같네.\n"
+"\n"
+"유쾌한 분이었고, 오랜만에 또래와 이야기할 수 있어서 좋았지. 먹고, 마시고, 광활한 우주에서 늙은 여자 둘이 만날 확률을 놓고 웃었어."
+"\n"
+"\n"
+"손주들이 자기가 하는 일을 달가워하지 않는다고 하던데. 그 여자는 자기에게 얼마나 행운이 있는 건지 모르는 모양이야. 나는 연애운이 "
+"없어서 손주는커녕 가족이라 할 사람도 없는데. 외롭기 짝이 없는데.\n"
+"\n"
+"문득 그런 생각이 들었어. 저 밖에 또 어떤 흥미로운 사람들이 있을까? 그 분을 본받아 나도 배에 사람을 초대해 보는 것도 좋을 것 "
+"같네. \n"
 
 #. List: 1
 #. EDID: SFFL_R03_DataSlate01
@@ -18364,6 +18628,17 @@ msgstr ""
 msgctxt "000E46"
 msgid "Thanks for coming to speak with me face to face. I appreciate the due respect, and I like to see that you're not a coward. I don't like working with cowards. But, I also don't like working with failures.\n\nYou're not hitting your quota. I need ships. That's what I pay you for. I pay you, and you get me ships. It's that simple. But you haven't been delivering for a long time, and you know that, don't you? Sure you do - you're not stupid, you're just incompetent - and no amount of smooth talking from you changes the fact that you aren't delivering. \n\nLook, I like you, so I hate to say this, but you're expendable. I'm running a business here, and this is your final shot. If you screw up on this run, you're done. I'm sure you know what I mean by that. \n\n-- D"
 msgstr ""
+"직접 만나러 와줘서 고맙군. 성의를 보여줘서 고맙다. 네가 겁쟁이가 아니라는 것도 마음에 드는군. 나는 겁쟁이와 일하는 걸 싫어해. "
+"하지만 무능한 놈과 일하는 것도 싫지.\n"
+"\n"
+"넌 할당량을 못 채우고 있어. 나는 함선이 필요하고, 그래서 돈을 준 거다. 내가 돈을 내면 너는 배를 가져온다. 간단한 이야기잖아. "
+"그런데 넌 오랫동안 납품을 못 하고 있고, 너 자신도 알잖아? 당연히 알겠지. 바보는 아니니까. 그냥 무능할 뿐이지. 아무리 말을 "
+"번지르르하게 해도, 납품을 못 하고 있다는 사실은 변하지 않아.\n"
+"\n"
+"네가 마음이 드니까 이런 말 하긴 싫지만, 널 대체할 놈은 쌔고 쌨다. 나는 사업을 하고 있다고. 마지막 기회를 주지. 이번에도 실패하면 "
+"끝이다. 무슨 뜻인지 알겠지.\n"
+"\n"
+"-- D"
 
 #. List: 1
 #. EDID: SFFL_MS01_SunniSlate_Rusty
@@ -18371,6 +18646,16 @@ msgstr ""
 msgctxt "000E4A"
 msgid "Potential Names for Robot [DO NOT STEAL!!!!]\nby Sunni Kim\n\n[] Model A-Hole\n[] Farmer Charmer\n[] Gary\n[] It Just Works\n[] Takahashi\n[] K.R.I.S - Killer Robot and Industrial Servant\n[X] Rusty"
 msgstr ""
+"로봇 이름 후보 [도용 금지!!!!]\n"
+"김순이\n"
+"\n"
+"[] 모델 애스홀\n"
+"[] 파머 차머\n"
+"[] 게리\n"
+"[] 잇 저스트 웍스\n"
+"[] 타카하시\n"
+"[] K.R.I.S - 킬러 로봇 앤 인더스트리얼 서번트\n"
+"[X] 러스티"
 
 #. List: 1
 #. EDID: SFFL_Anchorpoint_TextSlate_DrinkIdeas
@@ -18378,6 +18663,30 @@ msgstr ""
 msgctxt "000E4C"
 msgid "New drink ideas for the bar\n\nSTAR SAILOR\nI've been wanting to do a nautical themed drink forever. We're at \"Anchor\"point after all! Should be in the blue/green color range.\n\nFREE LANE FLAME\nI've been asked a couple of times if we have anything spicy, so this would incorporate hot sauce. What kind of base goes with hot sauce? Tomato juice maybe? Can we get that?\n\nSAINT'S BLESSING\nShamelessly sucking up to the boss here. Should be clear, for saintly purity.\n\nTIGER STRIPE\nMaddie's idea so I'm not completely married to it, but it could work. I envision a colorful liquor blend with bold tones, really eye-catching. Uses liquors of different densities. Something with an orange color and a dark color. Will be a challenge to pour but look very unique. Good opportunity for a high cost item!\n\nVAL'S VODKA SURPRISE\nHad to name at least ONE drink after myself, right? The surprise part will be whatever cheap liquor we're trying to get rid of.\n\nTHE ANCHOR PINT\nBeer but served in a special custom pint glass. We can sell these at a premium. That's assuming we can find someone to create and ship custom pint glasses without it costing a fortune."
 msgstr ""
+"바 신메뉴 아이디어\n"
+"\n"
+"스타 세일러\n"
+"전부터 항해를 테마로 한 음료를 만들고 싶었다. 여긴 \"앵커\"포인트잖아! 청록색 계열 색으로 하면 좋을 거 같다.\n"
+"\n"
+"프리 레인 플레임\n"
+"내가 전에 매운 게 있냐고 몇 번 물어본 적 있으니까, 핫소스를 넣어 보자. 핫소스에 어울리는 베이스가 뭐가 있을까? 토마토 주스? 구할 "
+"수 있나?\n"
+"\n"
+"세인트 블레싱\n"
+"대놓고 사장에게 아부 떠는 컨셉의 음료지. 성인처럼 순수한 의도로 말이지.\n"
+"\n"
+"타이거 스트라이프\n"
+"매디의 아이디어라 완전 확정은 아닌데, 될 수도 있다. 대담한 색조의 화려한 리큐르 혼합주를 구상 중이다. 눈길을 확 끄는 느낌으로 "
+"말이다. 밀도가 다른 술을 사용할 거다. 오렌지색과 짙은 색 조합으로. 따르기는 어렵겠지만 독특하게 보일 거다. 비싼 신메뉴를 낼 기회다!"
+"\n"
+"\n"
+"발의 보드카 서프라이즈\n"
+"내 이름 딴 드링크 하나쯤은 있어야지? 안 그래? ‘서프라이즈’로 들어갈 재료는 아마 얼른 처분해야 할 싸구려 술 중 하나가 될 거 같다."
+"\n"
+"\n"
+"앵커 파인트\n"
+"특제 맞춤 파인트 잔에 맥주를 따라서 대령하는 거다. 프리미엄 가격으로 판매해야지. 비용이 많이 안 드는 선에서 맞춤 파인트 잔을 만들어 "
+"보내줄 사람을 찾을 수 있어야겠지만."
 
 #. List: 1
 #. EDID: mod_wep_ranged_statUpgrade_ReloadSpeed_new
@@ -20231,14 +20540,14 @@ msgstr ""
 #. REC: MESG:DESC
 msgctxt "0024F1"
 msgid "Clue Reminder Downloaded"
-msgstr ""
+msgstr "단서 리마인더 다운로드 완료"
 
 #. List: 1
 #. EDID: SFFL_AnchorpointSH_RiddleReminder_MSG
 #. REC: MESG:DESC
 msgctxt "0024F2"
 msgid "Clue Reminder Updated"
-msgstr ""
+msgstr "단서 리마인더 갱신 완료"
 
 #. List: 1
 #. EDID: SFFL_MS03_MilliOutpostMessage
@@ -20252,7 +20561,7 @@ msgstr ""
 #. REC: BOOK:DESC
 msgctxt "0024F4"
 msgid "-Clue Reminder Not Updated-"
-msgstr ""
+msgstr "-단서 리마인더가 갱신되지 않았습니다-"
 
 #. List: 1
 #. EDID: SFFL_AnchorpointSH_RiddleNote_1

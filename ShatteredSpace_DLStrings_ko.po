@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-05-07 12:49+0000\n"
+"PO-Revision-Date: 2026-05-08 15:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -17119,7 +17119,7 @@ msgstr "알 수 없는 데이터"
 # EDID: SFBGS001_MQ01_IboraLog, REC: BOOK:ENAM
 msgctxt "0149E3"
 msgid "Personal Log"
-msgstr "개인 기록"
+msgstr "개인 일지"
 
 # EDID: SFBGS001_MQ01_IboraLog, REC: BOOK:FULL
 msgctxt "0149E5"

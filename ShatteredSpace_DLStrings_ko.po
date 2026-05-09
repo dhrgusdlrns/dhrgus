@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-05-08 15:49+0000\n"
+"PO-Revision-Date: 2026-05-11 11:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -617,7 +617,7 @@ msgstr "오버클럭"
 # EDID: SFBGS001_mod_ParticleMachineGun_Receiver_FullAuto, REC: OMOD:FULL
 msgctxt "000231"
 msgid "Fully Automatic"
-msgstr "완전 자동"
+msgstr "전자동"
 
 # EDID: SFBGS001_mod_ParticleRocketlauncher_Muzzle_Standard, REC: OMOD:FULL
 msgctxt "000232"
@@ -1077,7 +1077,7 @@ msgstr ""
 "05.02.2330: 의료 용품 HV-1732W [비어졌음]\n"
 "04.27.2330: 무기 상자 HV-1286K [비어졌음]\n"
 "04.25.2330: 탄약 상자 HV-1192K [비어졌음]\n"
-"04.04.2330: 함선 부품 HV-0329P [비어졌음]"
+"04.04.2330: 우주선 부품 HV-0329P [비어졌음]"
 
 # EDID: SFBGS001LC20_ForemanTerminalSubMenu, REC: TMLM:FULL
 msgctxt "0006E5"
@@ -1219,7 +1219,7 @@ msgstr ""
 "05.02.2330: 의료 용품 HV-1732W 보류 표시됨\n"
 "04.27.2330: 무기 상자 HV-1286K 보류 표시됨\n"
 "04.25.2330: 탄약 상자 HV-1192K 보류 표시됨\n"
-"04.04.2330: 함선 부품 HV-0329P 보류 표시됨"
+"04.04.2330: 우주선 부품 HV-0329P 보류 표시됨"
 
 # EDID: SFBGS001_MS01_UkaruComputerDesktopMenu01, REC: TMLM:ITXT
 msgctxt "0006F7"
@@ -2608,7 +2608,7 @@ msgstr "(선택) 함선 이륙 기록을 찾기"
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "000D01"
 msgid "Retrieve the Encrypted Slate mentioned in the audio log"
-msgstr "오디오 기록에서 언급된 암호화된 슬레이트 회수하기"
+msgstr "오디오 기록에서 언급된 암호화된 슬레이트 입수하기"
 
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "000D02"
@@ -3006,7 +3006,7 @@ msgid ""
 "My friend from the bar has a plan though. Instead of having the Zealots buy supplies, we provide them for free in exchange for their loyalty. Some of them may be desperate enough to renounce their beliefs and get on their knees for House Va'ruun."
 msgstr ""
 "꽤 오랜 시간이 흘렀지만 여전히 아무도 내가 카딕 가문에 잠입한 첩자라는 사실을 알아차리지 못했다. 카딕 가문은 광신도 무리와 거래하는 "
-"일에 나를 끼워 주었다. 무기, 음식, 함선 부품 따위를 광신도들에게 공급해 주는 일이었고, 명목상 합법적으로 구매된 것들이라 전혀 "
+"일에 나를 끼워 주었다. 무기, 음식, 우주선 부품 따위를 광신도들에게 공급해 주는 일이었고, 명목상 합법적으로 구매된 것들이라 전혀 "
 "추적될 염려도 없었다.\n"
 "\n"
 "그런데 술집의 그 친구가 한 가지 계획을 냈다. 광신도들이 계속 물자를 사게 두는 것이 아니라, 광신도들에게 물건을 공짜로 주는 대신 "
@@ -3280,9 +3280,9 @@ msgstr ""
 "- 그외 점검 사항\n"
 "\n"
 "개요:\n"
-"점검 팀이 비행 제어 패널로 인해 추력 기동 중 제동 실패로 이어질 수 있는 문제를 발견함.\n"
+"점검 팀이 비행 제어판으로 인해 추력 기동 중 제동 실패로 이어질 수 있는 문제를 발견함.\n"
 "\n"
-"수리를 위해 함선을 이송했음. 새 패널로 교체하고 실험 비행 중 모든 연결부가 제대로 작동하도록 정비할 것을 권고."
+"수리를 위해 함선을 이송했음. 새 제어판으로 교체하고 실험 비행 중 모든 연결부가 제대로 작동하도록 정비할 것을 권고."
 
 # EDID: SFBGS001_MS01_FlightTerminal02, REC: TMLM:ITXT
 msgctxt "000DA3"
@@ -4495,7 +4495,7 @@ msgstr "Test Interior Location"
 # EDID: SFBGS001_SE_DerelictVortexPhantom, REC: QUST:FULL
 msgctxt "001435"
 msgid "Derelict Ship Template"
-msgstr "버려진 함선 템플릿"
+msgstr "버려진 우주선 템플릿"
 
 # EDID: SFBGS001_DazraZ01, REC: QUST:NNAM
 msgctxt "001436"
@@ -4926,17 +4926,17 @@ msgstr "말리야 하즈탈과 대화하기"
 # EDID: SFBGS001_MS05, REC: QUST:NNAM
 msgctxt "001723"
 msgid "Retrieve the Broken Fang's Heirloom Rifle"
-msgstr "송곳니의 고장난 가보 소총 회수하기"
+msgstr "송곳니의 고장난 가보 소총 입수하기"
 
 # EDID: SFBGS001_MS05, REC: QUST:NNAM
 msgctxt "001724"
 msgid "Retrieve the Broken Fang's Heirloom Boost Pack"
-msgstr "송곳니의 고장난 가보 부스터 팩 회수하기"
+msgstr "송곳니의 고장난 가보 부스터 팩 입수하기"
 
 # EDID: SFBGS001_MS05, REC: QUST:NNAM
 msgctxt "001725"
 msgid "Retrieve the Broken Fang's Heirloom Spacesuit"
-msgstr "송곳니의 고장난 가보 우주복 회수하기"
+msgstr "송곳니의 고장난 가보 우주복 입수하기"
 
 # EDID: SFBGS001_MS05, REC: QUST:NNAM
 msgctxt "001726"
@@ -5361,7 +5361,7 @@ msgstr "유령 처치하기"
 # EDID: SFBGS001_MQ05, REC: QUST:NNAM
 msgctxt "0019DF"
 msgid "Explore the Dam"
-msgstr "댐 안을 탐험하기"
+msgstr "댐 안을 탐색하기"
 
 # EDID: SFBGS001_MQ05, REC: QUST:NNAM
 msgctxt "0019E0"
@@ -7739,7 +7739,7 @@ msgstr "키스라니의 접속 승인"
 #, fuzzy
 msgctxt "011040"
 msgid "Ship Services Vendor Faction"
-msgstr "함선 정비 기술자 상인 세력"
+msgstr "우주선 정비 기술자 상인 세력"
 
 # EDID: SFBGS001_mod_ParticleMachineGun_Muzzle_SpreadNozzle, REC: OMOD:FULL
 msgctxt "011041"
@@ -11372,7 +11372,7 @@ msgstr ""
 "05.02.2330: 의료 용품 HV-1732W [배송 완료]\n"
 "04.27.2330: 무기 상자 HV-1286K [배송 완료]\n"
 "04.25.2330: 탄약 상자 HV-1192K [배송 완료]\n"
-"04.04.2330: 함선 부품 HV-0329P [배송 완료]"
+"04.04.2330: 우주선 부품 HV-0329P [배송 완료]"
 
 # EDID: SFBGS001LC20_CockpitTerminalMenu, REC: TMLM:ITXT
 msgctxt "01253D"
@@ -11965,7 +11965,7 @@ msgstr "전자기 빔"
 # EDID: SFBGS001_mod_VaruunSolstice_Receiver_FullAuto, REC: OMOD:FULL
 msgctxt "012740"
 msgid "Fully Automatic"
-msgstr "완전 자동"
+msgstr "전자동"
 
 # EDID: SFBGS001_mod_VaruunSolstice_Receiver_SemiAuto_Standard, REC: OMOD:FULL
 msgctxt "012741"
@@ -12156,7 +12156,7 @@ msgstr "Quality Tiers Any"
 # EDID: SFBGS001_mod_VaruunEquinox_Receiver_FullAuto, REC: OMOD:FULL
 msgctxt "012885"
 msgid "Fully Automatic"
-msgstr "완전 자동"
+msgstr "전자동"
 
 # EDID: SFBGS001_mod_VaruunEquinox_Receiver_SemiAuto_Standard, REC: OMOD:FULL
 msgctxt "012886"
@@ -14345,7 +14345,7 @@ msgstr "보고"
 # EDID: SFBGS001LC21_MalikTerminal_Folder_Messages, REC: TMLM:BTXT
 msgctxt "013B01"
 msgid "Kaylin's Research Base"
-msgstr "칼린의 연구 기지"
+msgstr "케일린의 연구 기지"
 
 # EDID: SFBGS001LC21_MalikTerminal_Folder_Messages, REC: TMLM:FULL
 msgctxt "013B02"
@@ -14377,7 +14377,7 @@ msgstr "그로트의 생체 신호"
 # EDID: SFBGS001LC21_MalikTerminal_Desktop, REC: TMLM:BTXT
 msgctxt "013B06"
 msgid "Kaylin's Research Base"
-msgstr "칼린의 연구 기지"
+msgstr "케일린의 연구 기지"
 
 # EDID: SFBGS001LC21_MalikTerminal_Desktop, REC: TMLM:FULL
 msgctxt "013B07"
@@ -16619,7 +16619,7 @@ msgstr "보고"
 # EDID: SFBGS001LC15_MonitoringTerminal_Desktop, REC: TMLM:BTXT
 msgctxt "01495D"
 msgid "Kaylin's Research Base"
-msgstr "칼린의 연구 기지"
+msgstr "케일린의 연구 기지"
 
 # EDID: SFBGS001LC15_MonitoringTerminal_Desktop, REC: TMLM:FULL
 msgctxt "01495E"
@@ -17526,7 +17526,7 @@ msgstr "부단한 숨결"
 # EDID: SFBGS001_Z01Temple_FortifyCarryWeight, REC: MGEF:DNAM
 msgctxt "014A59"
 msgid "+<mag> Carry Weight"
-msgstr "운반 중량 + <mag>"
+msgstr "운반 중량 +<mag>"
 
 # EDID: SFBGS001_Z01Temple_FortifyCarryWeight, REC: MGEF:FULL
 msgctxt "014A5A"
@@ -22984,7 +22984,7 @@ msgstr "고탄소강 칼날"
 # EDID: SFBGS001_MQ05, REC: QUST:NNAM
 msgctxt "014DFB"
 msgid "Explore the Dam"
-msgstr "댐 안을 탐험하기"
+msgstr "댐 안을 탐색하기"
 
 # EDID: SFBGS001_MQ05, REC: QUST:NNAM
 msgctxt "014DFC"
@@ -23009,7 +23009,7 @@ msgstr "함선 정비 상인 보관함"
 # EDID: SFBGS001_DazraShipServices_Vendor_Faction, REC: FACT:FULL
 msgctxt "014E00"
 msgid "Dazra Ship Services Vendor Faction"
-msgstr "다즈라 함선 정비 기술자 상인 세력"
+msgstr "다즈라 우주선 정비 기술자 상인 세력"
 
 # EDID: SFBGS001_DazraPlayerHouseQuest, REC: QUST:NNAM
 msgctxt "014E01"

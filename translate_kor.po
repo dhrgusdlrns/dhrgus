@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2026-05-02 17:44+0000\n"
+"PO-Revision-Date: 2026-05-11 10:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -488,10 +488,10 @@ msgid "$Brightness"
 msgstr "밝기"
 
 msgid "$Build"
-msgstr "건설"
+msgstr "제작"
 
 msgid "$BUILD"
-msgstr "건설"
+msgstr "제작"
 
 msgid "$BUILD LIMIT"
 msgstr "제작 제한"
@@ -500,13 +500,13 @@ msgid "$Build Mod?"
 msgstr "모드 제작?"
 
 msgid "$BUILD MODE"
-msgstr "건설 모드"
+msgstr "제작 모드"
 
 msgid "$BUILD REQUIREMENTS:"
-msgstr "건설 필요조건:"
+msgstr "제작 필요조건:"
 
 msgid "$Build Requirements:"
-msgstr "건설 필요조건:"
+msgstr "제작 필요조건:"
 
 msgid "$BUILD RESOURCES NEEDED"
 msgstr "반입 자원 (필요시)"
@@ -5773,7 +5773,7 @@ msgid "$SB_ERRORHEADER_COST"
 msgstr "함선 비용"
 
 msgid "$SB_ERRORHEADER_COUNT"
-msgstr "함선 모듈 개수"
+msgstr "우주선 모듈 개수"
 
 msgid "$SB_ERRORHEADER_DOCKER_CANNOT_REACH_COCKPIT"
 msgstr "도킹 장치가 조종실에 연결되지 않음"
@@ -6913,7 +6913,7 @@ msgid "$ShipInfo_Modify_ShipBuilder"
 msgstr "함선 제작기 열기"
 
 msgid "$ShipInfo_Modify_UpgradeShip"
-msgstr "함선 부품 업그레이드"
+msgstr "우주선 부품 업그레이드"
 
 msgid "$ShipInfo_NextShip"
 msgstr "다음 함선"
@@ -8170,7 +8170,9 @@ msgid "$Vehicle"
 msgstr "차량"
 
 msgid "$VEHICLE UNLOCKED MESSAGE"
-msgstr "이제 차량을 이용할 수 있습니다. REV-8은 함선이 착륙하면 자동으로 함선 옆에 배치됩니다. 주요 우주항에 있는 함선 정비 기술자를 방문하여 차량을 관리하세요."
+msgstr ""
+"이제 차량을 이용할 수 있습니다. REV-8은 함선이 착륙하면 자동으로 함선 옆에 배치됩니다. 주요 우주항에 있는 우주선 정비 기술자를 "
+"방문하여 차량을 관리하세요."
 
 msgid "$Vehicle_VehicleBoost"
 msgstr "부스터"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-26 16:17+0900\n"
-"PO-Revision-Date: 2026-05-02 15:44+0000\n"
+"PO-Revision-Date: 2026-05-10 17:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -42,7 +42,7 @@ msgstr "빈디케이터"
 # List: 0, EDID: QDTempShipNEW, REC: GBFM:FULL
 msgctxt "007375"
 msgid "Ship"
-msgstr "함선"
+msgstr "우주선"
 
 # List: 0, EDID: QDTempShipNEW, REC: GBFM:HULL
 msgctxt "007376"
@@ -585,7 +585,7 @@ msgstr "이지스"
 # List: 0, EDID: BlueprintExterior_BaseShipTemplateLocation, REC: LCTN:FULL
 msgctxt "02E9C4"
 msgid "Ship"
-msgstr "함선"
+msgstr "우주선"
 
 # List: 0, EDID: Cargo_B_Generic_Wagontrain01_Template, REC: GBFM:FULL
 msgctxt "02ED4D"

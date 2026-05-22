@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-26 16:17+0900\n"
-"PO-Revision-Date: 2024-10-01 14:23+0000\n"
+"PO-Revision-Date: 2026-05-23 17:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -157,7 +157,7 @@ msgstr "EIT 의상점"
 # List: 0, EDID: CityMapMarker_UCDistributionCenter, REC: REFR:FULL
 msgctxt "000021"
 msgid "UC Distribution Center"
-msgstr "UC 배급 센터"
+msgstr "식민지 연합 배급 센터"
 
 # List: 0, EDID: CityMapMarker_TheViewport, REC: REFR:UNAM
 #, fuzzy
@@ -308,7 +308,7 @@ msgstr "릴라이언트 메디컬"
 # List: 0, EDID: CityMapMarkers_UCExchangeCydonia, REC: REFR:FULL
 msgctxt "000041"
 msgid "UC Exchange"
-msgstr "UC 거래소"
+msgstr "식민지 연합 거래소"
 
 # List: 0, EDID: CityMapMarkers_ChunksNeonOrigin, REC: REFR:FULL
 msgctxt "000042"

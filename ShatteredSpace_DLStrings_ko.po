@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-05-11 11:49+0000\n"
+"PO-Revision-Date: 2026-05-23 17:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -4363,7 +4363,7 @@ msgstr "사라진 그로트들"
 # EDID: SFBGS001_SE_Player_Attack13, REC: QUST:FULL
 msgctxt "001396"
 msgid "Serpent's Crusade vs. UCNavy"
-msgstr "뱀의 성전군 vs UC 해군"
+msgstr "뱀의 성전군 vs 식민지 연합 해군"
 
 # EDID: SFBGS001_SE_Player_Attack12, REC: QUST:FULL
 msgctxt "0013A0"
@@ -4373,12 +4373,12 @@ msgstr "뱀의 성전군 vs 자유항성"
 # EDID: SFBGS001_LvlShip_HouseVaruun_Combat, REC: GBFM:FULL
 msgctxt "0013D7"
 msgid "UC Navy A Cargo"
-msgstr "UC 해군 화물선 A"
+msgstr "식민지 연합 해군 화물선 A"
 
 # EDID: SFBGS001_LvlShip_HouseVaruun_Combat_50, REC: GBFM:FULL
 msgctxt "0013D8"
 msgid "UC Navy A Cargo"
-msgstr "UC 해군 화물선 A"
+msgstr "식민지 연합 해군 화물선 A"
 
 # EDID: SFBGS001_HV_HasmakDulkehf, REC: NPC_:FULL
 msgctxt "0013D9"

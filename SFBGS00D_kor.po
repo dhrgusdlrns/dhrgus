@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-05-21 16:49+0000\n"
+"PO-Revision-Date: 2026-05-24 10:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -14476,7 +14476,7 @@ msgstr "오래된 상처"
 #. REC: ARMO:FULL
 msgctxt "0023C2"
 msgid "UC Security Uniform"
-msgstr "UC 경비대원 제복"
+msgstr "식민지 연합 경비대원 제복"
 
 #. List: 0
 #. EDID: LegendaryModifier_Leader_Aura_ReduceDamage_Effect
@@ -15564,14 +15564,14 @@ msgstr "회의 기록"
 #. REC: BOOK:FULL
 msgctxt "002579"
 msgid "Galbank Note"
-msgstr "갈뱅크 기록"
+msgstr "갤뱅크 기록"
 
 #. List: 0
 #. EDID: SFFL_SE_BBI_DataSlate12
 #. REC: BOOK:FULL
 msgctxt "00257B"
 msgid "Galbank Note"
-msgstr "갈뱅크 기록"
+msgstr "갤뱅크 기록"
 
 #. List: 0
 #. EDID: SFFL_SE_BBI_DataSlate17
@@ -15592,7 +15592,7 @@ msgstr "기관실 재고"
 #. REC: BOOK:FULL
 msgctxt "002581"
 msgid "Observation Log"
-msgstr "관측 일지"
+msgstr "관측 기록"
 
 #. List: 0
 #. EDID: SFFL_SE_BBI_DataSlate25
@@ -15613,7 +15613,7 @@ msgstr "현장 기록"
 #. REC: BOOK:FULL
 msgctxt "002587"
 msgid "Memo Draft"
-msgstr "기안문"
+msgstr "작성 중인 내용"
 
 #. List: 0
 #. EDID: SFFL_SE_BBI_DataSlate29
@@ -15662,7 +15662,7 @@ msgstr "중력 구동기 시험"
 #. REC: BOOK:FULL
 msgctxt "002594"
 msgid "Repair Call"
-msgstr "수리 요청"
+msgstr "수리사항 보고"
 
 #. List: 0
 #. EDID: SFFL_MS03_OutpostMilliwhaleBowl
@@ -19410,7 +19410,7 @@ msgstr ""
 "\n"
 "타이거 스트라이프\n"
 "매디의 아이디어라 완전 확정은 아닌데, 될 수도 있다. 대담한 색조의 화려한 리큐르 혼합주를 구상 중이다. 눈길을 확 끄는 느낌으로 "
-"말이다. 밀도가 다른 술을 사용할 거다. 오렌지색과 짙은 색 조합으로. 따르기는 어렵겠지만 독특하게 보일 거다. 비싼 신메뉴를 낼 기회다!"
+"말이다. 밀도가 다른 술을 사용할 거다. 주황색과 짙은 색 조합으로. 따르기는 어렵겠지만 독특하게 보일 거다. 비싼 신메뉴를 낼 기회다!"
 "\n"
 "\n"
 "발의 보드카 서프라이즈\n"
@@ -20890,7 +20890,7 @@ msgstr ""
 msgctxt "001B67"
 msgid "The VP of Acquisitions for GalBank and her assistant Hannah are stuck in the cockpit of a derelict ship, and have offered me a reward to help them get out. Crew are dead, but the VP and her assistant are okay. There may be a few pirates already aboard the ship, however."
 msgstr ""
-"갈뱅크의 인수 담당 부사장과 비서 한나가 버려진 우주선의 조종실에 갇혀 있다. 꺼내 주면 보수를 주겠다고 했다. 승무원은 사망했지만, "
+"갤뱅크의 인수 담당 부사장과 비서 한나가 버려진 우주선의 조종실에 갇혀 있다. 꺼내 주면 보수를 주겠다고 했다. 승무원은 사망했지만, "
 "부사장과 비서는 무사하다. 다만 이미 해적 몇 명이 배에 탑승해 있을 수 있다."
 
 #. List: 1
@@ -20899,7 +20899,7 @@ msgstr ""
 msgctxt "001B68"
 msgid "The VP of Acquisitions for GalBank is stuck in the cockpit of a derelict ship, and I've been offered a reward to help them get out. The crew are dead, but the VP and her assistant are unharmed. There may be a few pirates already aboard the ship, however."
 msgstr ""
-"갈뱅크의 인수 담당 부사장이 버려진 우주선의 조종실에 갇혀 있다. 꺼내 주면 보수를 주겠다고 했다. 승무원은 사망했지만, 부사장과 비서는 "
+"갤뱅크의 인수 담당 부사장이 버려진 우주선의 조종실에 갇혀 있다. 꺼내 주면 보수를 주겠다고 했다. 승무원은 사망했지만, 부사장과 비서는 "
 "무사하다. 다만 이미 해적 몇 명이 배에 탑승해 있을 수 있다."
 
 #. List: 1
@@ -20908,7 +20908,7 @@ msgstr ""
 msgctxt "001B69"
 msgid "The VP of Acquisitions for GalBank and her assistant Hannah are stuck in the cockpit of a derelict ship, and I've been offered a reward to help them get out. There may be a few pirates already aboard the ship, so I need to be prepared."
 msgstr ""
-"갈뱅크의 인수 담당 부사장과 비서 한나가 버려진 우주선의 조종실에 갇혀 있다. 꺼내 주면 보수를 주겠다고 했다. 이미 해적 몇 명이 배에 "
+"갤뱅크의 인수 담당 부사장과 비서 한나가 버려진 우주선의 조종실에 갇혀 있다. 꺼내 주면 보수를 주겠다고 했다. 이미 해적 몇 명이 배에 "
 "탑승해 있을 수 있다. 대비를 해둬야겠다."
 
 #. List: 1
@@ -20917,7 +20917,7 @@ msgstr ""
 msgctxt "001B6A"
 msgid "The VP of Acquisitions for GalBank is stuck in the cockpit of a derelict ship, and I've been offered a reward to come aboard and help them get out. There may be a few pirates already aboard the ship, so I need to be prepared for a fight."
 msgstr ""
-"갈뱅크의 인수 담당 부사장이 버려진 우주선의 조종실에 갇혀 있다. 꺼내 주면 보수를 주겠다고 했다. 이미 해적 몇 명이 배에 탑승해 있을 "
+"갤뱅크의 인수 담당 부사장이 버려진 우주선의 조종실에 갇혀 있다. 꺼내 주면 보수를 주겠다고 했다. 이미 해적 몇 명이 배에 탑승해 있을 "
 "수 있다. 싸울 준비를 해둬야겠다."
 
 #. List: 1
@@ -20926,7 +20926,7 @@ msgstr ""
 msgctxt "001B6B"
 msgid "The VP of Acquisitions for GalBank and her assistant Hannah need help getting out of the cockpit of their derelict ship. Some crew are dead, but the VP and her assistant are unharmed. There may be a few pirates already aboard the ship, however."
 msgstr ""
-"갈뱅크의 인수 담당 부사장과 비서 한나가 버려진 우주선의 조종실에 갇혀 있어 구해줘야 한다. 승무원은 사망했지만, 부사장과 비서는 "
+"갤뱅크의 인수 담당 부사장과 비서 한나가 버려진 우주선의 조종실에 갇혀 있어 구해줘야 한다. 승무원은 사망했지만, 부사장과 비서는 "
 "무사하다. 다만 이미 해적 몇 명이 배에 탑승해 있을 수 있다."
 
 #. List: 1
@@ -20935,7 +20935,7 @@ msgstr ""
 msgctxt "001B6C"
 msgid "The VP of Acquisitions for GalBank is stuck in the cockpit of a derelict ship, and I've been asked to help them get out. Some crew are dead, but the VP and her assistant are unharmed. There may be a few pirates already aboard the ship, however."
 msgstr ""
-"갈뱅크의 인수 담당 부사장과 비서 한나가 버려진 우주선의 조종실에 갇혀 있다. 꺼내 달라고 부탁을 받았다. 승무원은 사망했지만, 부사장과 "
+"갤뱅크의 인수 담당 부사장과 비서 한나가 버려진 우주선의 조종실에 갇혀 있다. 꺼내 달라고 부탁을 받았다. 승무원은 사망했지만, 부사장과 "
 "비서는 무사하다. 다만 이미 해적 몇 명이 배에 탑승해 있을 수 있다."
 
 #. List: 1
@@ -20944,7 +20944,7 @@ msgstr ""
 msgctxt "001B6D"
 msgid "The VP of Acquisitions for GalBank and her assistant Hannah are stuck in the cockpit of a derelict ship, and want me to come help them out. There may be a few pirates already aboard the ship, so I need to be prepared for a fight."
 msgstr ""
-"갈뱅크의 인수 담당 부사장과 비서 한나가 버려진 우주선의 조종실에 갇혀 있다. 둘은 내가 우주선에서 꺼내주길 바란다. 이미 해적 몇 명이 "
+"갤뱅크의 인수 담당 부사장과 비서 한나가 버려진 우주선의 조종실에 갇혀 있다. 둘은 내가 우주선에서 꺼내주길 바란다. 이미 해적 몇 명이 "
 "배에 탑승해 있을 수 있다. 싸울 준비를 해둬야겠다."
 
 #. List: 1
@@ -20953,7 +20953,7 @@ msgstr ""
 msgctxt "001B6E"
 msgid "The VP of Acquisitions for GalBank is stuck in the cockpit of a derelict ship, and I've been asked to come aboard to help them get out. There may be a few pirates already aboard the ship, so I need to be prepared for a fight."
 msgstr ""
-"갈뱅크의 인수 담당 부사장이 버려진 우주선의 조종실에 갇혀 있다. 우주선에 승선해 탈출하는 것을 도와달라는 요청을 받았다. 이미 해적 몇 "
+"갤뱅크의 인수 담당 부사장이 버려진 우주선의 조종실에 갇혀 있다. 우주선에 승선해 탈출하는 것을 도와달라는 요청을 받았다. 이미 해적 몇 "
 "명이 배에 탑승해 있을 수 있다. 싸울 준비를 해둬야겠다."
 
 #. List: 1
@@ -22412,6 +22412,18 @@ msgstr ""
 msgctxt "002580"
 msgid "Unknown Device Observation Log\nCycle 118\n\nThe device pulsed at 03:47 again. No observable phenomena, we just sort of... felt it. Everyone in the chamber reported nausea; some described hearing music \"from behind their own voice,\" if that makes any sense.\n\nRecorder logs show corrupted timecode. Rebooting did nothing. Recommend immediate review by Constellation, or maybe Ryujin R&D. Preferably not both.\n\n\n\n<image name='' caption=''>"
 msgstr ""
+"알 수 없는 장치 관측 기록\n"
+"사이클 118\n"
+"\n"
+"장치가 03:47에 다시 한번 진동했다. 관측 가능한 현상이 있던 건 아니었으나, 그냥 그게... 느껴졌다. 방에 있던 사람들이 모두 "
+"메스꺼움을 호소했고, 일부는 \"자신의 목소리 뒤편에서\" 음악이 들렸다고 표현했다. 말이 되는 소린지는 모르겠지만.\n"
+"\n"
+"기록 장치의 기록을 보니 시간 코드가 손상된 것으로 나타났다. 재부팅을 해도 아무런 효과가 없었다. 컨스텔레이션이나 류진 연구개발부에게 "
+"즉각 검토하도록 할 것을 권고한다. 가급적이면 양쪽 둘 다에 맡기지는 않는 게 좋겠다.\n"
+"\n"
+"\n"
+"\n"
+"<image name='' caption=''>"
 
 #. List: 1
 #. EDID: SFFL_SE_BBI_DataSlate25
@@ -22419,6 +22431,31 @@ msgstr ""
 msgctxt "002582"
 msgid "Experimental Grav Drive Test Report\nEngineering Bay 3B\n\nAdjusted field compression ratio by 0.04% to stabilize observed sublight re-entry spin.\n\nUnexpected result: a secondary micro-jump occurred without jump command (yikes).\n\nOther observations:\n\nTelemetry scrambled\n\nSeveral temperature gauges exceeded specified limits\n\nNav beacon drifted by ~12 minutes standard time during the micro-jump; unclear where that time went\n\nSummary:\n\nIt seems to have worked, but not without significant problems.\n\nOver a dozen Orange-level warnings on first try, 3 Reds, and one Black-level warning from the data recorder. Results are unstable, still analyzing data, but the readings are unlike anything we've observed before.\n\nDO NOT REPLICATE TEST CONDITIONS. Further analysis required.\n\n\n"
 msgstr ""
+"시제품 중력 구동기 시험 보고서\n"
+"기관실 3B\n"
+"\n"
+"관측된 아광속 재진입 스핀을 안정시키기 위해 역장 압축비를 0.04% 조정함.\n"
+"\n"
+"예기치 못한 결과: 도약 명령을 입력하지 않았음에도 2차 미세 도약이 발생함 (어이쿠).\n"
+"\n"
+"기타 관측 사항:\n"
+"\n"
+"원격 측정 데이터가 뒤죽박죽이 됨\n"
+"\n"
+"여러 온도계가 규정 한계를 초과함\n"
+"\n"
+"미세 도약 동안 항법 신호기가 표준시 기준 약 12분 정도 이탈함. 그 시간이 어디로 사라졌는지는 불분명함\n"
+"\n"
+"요약:\n"
+"\n"
+"작동은 한 것으로 보이나, 심각한 문제들이 동반됨.\n"
+"\n"
+"데이터 기록기 확인 결과 첫 시도에서 12개 이상의 주황색 등급 경고, 3개의 적색 등급 경고, 1개의 흑색 등급 경고가 발생함. 결과가 "
+"불안정하여 아직 데이터를 분석 중이나, 측정값은 우리가 이전에 관측했던 그 어떤 것과도 다름.\n"
+"\n"
+"시험 조건을 그대로 재현하지 말 것. 추가 분석이 필요함.\n"
+"\n"
+"\n"
 
 #. List: 1
 #. EDID: SFFL_SE_BBI_DataSlate26
@@ -22426,6 +22463,25 @@ msgstr ""
 msgctxt "002584"
 msgid "A. Leroux -- LIST Surveyor, Outer Systems Patrol\n\nDidn't sign up for this kind of contact.\n\nWe logged the anomaly from orbit - no emissions, no motion, just sitting there like it had always been part of the rock. Figured it was slag runoff or maybe some dormant biotech trash from the War.\n\nThen it moved.\n\nNot fast, not hostile. Just... aware. Like it noticed me noticing it. And then something changed. The air, the pressure in my head - like being underwater and upside-down all at once. I couldn't feel my boots on the ground. Couldn't remember how long I'd been standing there.\n\nI don't think it touched me. Not physically. But part of it's still in me. Echoes of shapes and colors I don't have names for. Feels wrong when I try to describe it. Feels worse when I don't.\n\nFiling this under high-priority biohazard until someone smarter tells me otherwise.\n\n\n"
 msgstr ""
+"A. 르루 -- LIST 조사원, 변방 항성계 순찰대\n"
+"\n"
+"이런 식의 접촉을 기대하고 이 일에 지원한 게 아니었다.\n"
+"\n"
+"우리는 궤도에서 그 이상 현상을 기록했다. 방출되는 에너지도 없고, 움직임도 없이, 마치 원래부터 바위의 일부였던 것처럼 그저 그 자리에 "
+"가만히 있었다. 제련 찌꺼기이거나, 아니면 대전쟁 때 버려져 휴면 상태에 들어간 생물공학 쓰레기일 거라 생각했다.\n"
+"\n"
+"그런데 그것이 움직였다.\n"
+"\n"
+"빠르지도, 적대적이지도 않았다. 그저... 의식을 가진 것 같았다. 내가 자신을 주시하고 있다는 걸 그쪽에서도 알아챈 듯한 느낌이었다. "
+"그러고는 무언가 변했다. 공기, 머릿속에 느껴지는 압력, 마치 물속에서 한순간에 거꾸로 뒤집힌 듯한 기분이었다. 발이 땅에 닿아 있는 "
+"감각이 느껴지지 않았다. 내가 얼마나 오랫동안 그곳에 서 있었는지조차 기억할 수 없었다.\n"
+"\n"
+"내 몸에 직접 닿진 않은 것 같다. 물리적으로는 말이다. 하지만 그것의 일부가 여전히 내 안에 남아 있다. 이름조차 붙일 수 없는 형상과 "
+"색채의 잔상들. 그것을 묘사하면 잘못될 것 같은 느낌이 든다. 하지만 묘사하지 않고 가만히 있으면 기분이 더 나빠진다.\n"
+"\n"
+"나보다 더 똑똑한 누군가가 다른 의견을 내기 전까지, 이 건을 고위험 생물학적 위험으로 분류해 두겠다.\n"
+"\n"
+"\n"
 
 #. List: 1
 #. EDID: SFFL_SE_BBI_DataSlate27
@@ -22433,6 +22489,17 @@ msgstr ""
 msgctxt "002586"
 msgid "Memo Draft - ENCRYPTION FAILED\nAsset V-11\n\nMade it into the archive sublevel data vault. It was colder than it should've been, strangely. Condensation thick on the walls.\n\nPulled the package, but security AI re-booted early. Had to lock out the entire security root command tree. Meant I couldn't open anymore doors, but neither could their security, so it bought me time.\n\nIf this message gets through: the prototype's real, and it's not a weapon. It's something else.\n\n\n"
 msgstr ""
+"작성 중인 내용 - 암호화 실패\n"
+"자산 V-11\n"
+"\n"
+"기록보관소 하부 데이터 금고에 진입하는 데 성공했다. 이상하게도 금고 안은 필요 이상으로 추웠다. 벽면에 결로가 심하게 맺혀 있었다.\n"
+"\n"
+"물품을 확보했으나 보안 AI가 예상보다 일찍 재부팅되었다. 보안 루트 명령 트리 전체를 차단해야만 했다. 그 바람에 나도 더 이상 문을 "
+"열 수 없게 되었지만, 보안 시스템 역시 문을 열지 못하게 되었으니 시간을 벌 수 있었다.\n"
+"\n"
+"이 메시지가 제대로 전달된다면 이것만은 알아두라. 시제품은 실제로 존재하며, 그건 무기가 아니다. 그것은 다른 무언가다.\n"
+"\n"
+"\n"
 
 #. List: 1
 #. EDID: SFFL_SE_BBI_DataSlate29
@@ -22440,6 +22507,16 @@ msgstr ""
 msgctxt "002588"
 msgid "Crew Log: Quartermaster Drel Sorrin\nVessel: UC Bellwether\n\nSomeone's stealing food from the galley again. That's the third time this week, and I'm done playing mystery chef. If you're hungry, ask. If you're lazy, starve.\n\nWe've got enough rations to make it to Cydonia, barely, but if people keep hoarding nutrient packs like we're scrounging the frontier, I'll start locking down sections. Don't think I won't. You want to play feral, I'll feed you like a beast: behind bars.\n\n\n"
 msgstr ""
+"승무원 일지: 보급관 드렐 소린\n"
+"우주선: UC 벨웨더\n"
+"\n"
+"누군가 또 조리실에서 음식을 훔쳐 가고 있다. 이번 주만 벌써 세 번째다. 도둑 요리사 잡기 놀이는 이제 끝이다. 배가 고프면, 말을 "
+"해. 게으름을 피울 거면, 굶어.\n"
+"\n"
+"시도니아까지 겨우 도착할 만큼 보급품은 있지만, 개척지에서 구걸이라도 하는 것처럼 영양 팩을 계속 사재기한다면, 구역들을 폐쇄할 거다. "
+"못 할 것 같냐? 야수처럼 굴고 싶다면, 우리 안의 짐승처럼 먹이를 주마.\n"
+"\n"
+"\n"
 
 #. List: 1
 #. EDID: SFFL_SE_BBI_DataSlate30
@@ -22447,6 +22524,22 @@ msgstr ""
 msgctxt "00258A"
 msgid "Personal Log: T. Serano\n\nLocation: Ryujin Research Facility \"Chiron\"\nStatus: Unsent Draft\n\nRyujin promised a bonus. A \"hazard stipend,\" they called it. No details, just a cred number, and a big one. Seemed like a good idea at the time.\n\nWhat they didn't say is that we'd be testing the drug on ourselves. Said it was stable, said the neurological side effects we had heard about were \"understated and controlled.\" But I've watched three coworkers drop into seizures, and one just walked into the reactor chamber like it was nothing. I can still hear his screams.\n\nNo more messages coming in from HQ. Feeds are scrubbed. The slates don't sync with the DB anymore. If you find this, tell someone we weren't volunteers. They made us lab rats.\n\n\n"
 msgstr ""
+"개인 일지: T. 세라노\n"
+"\n"
+"위치: 류진 연구 시설 \"키론\"\n"
+"상태: 전송되지 않은 내용\n"
+"\n"
+"류진 측은 특별 수당을 약속했다. 류진은 그걸 \"위험 수당\"이라고만 불렀다. 세부 사항에 대한 안내는 없었고, 그저 엄청나게 많은 "
+"크레딧 액수만 적혀 있었다. 그 당시에는 그게 좋아 보였다.\n"
+"\n"
+"류진 측이 말하지 않은 것은 우리 몸에 인체실험을 하게 될 것이라는 점이었다. 약물이 안정적이라고 했고, 우리가 들었던 신경학적 부작용은 "
+"\"과장되었으며 통제되고 있다\"고 했다. 하지만 나는 동료 세 명이 발작을 일으키며 쓰러지는 것을 보았고, 한 명은 아무렇지도 않다는 "
+"듯 원자로실로 걸어 들어갔다. 그 비명 소리가 아직도 귀에 선하다.\n"
+"\n"
+"본사에서 오는 메시지는 더 이상 없다. 데이터 피드는 모두 삭제되었다. 슬레이트는 더 이상 데이터베이스와 동기화되지 않는다. 만약 당신이 "
+"이 슬레이트를 발견했다면, 우리는 인체실험에 자원하지 않았다고 누군가에게 전해주세요. 류진은 우리를 실험실 쥐처럼 취급했어요.\n"
+"\n"
+"\n"
 
 #. List: 1
 #. EDID: SFFL_SE_BBI_DataSlate33
@@ -22454,6 +22547,12 @@ msgstr ""
 msgctxt "00258F"
 msgid "We ran a ton of contraband planetside, but there were UC Vanguard folks buzzing around.\n\nWe left the Moon Jumper at the coordinates contained - we couldn't get it off planet in time.  If you could, grab it and her goods before circling back.\n\n\n"
 msgstr ""
+"엄청난 양의 밀수품을 행성 표면으로 운반했으나, 주변에 식민지 연합 뱅가드 녀석들이 윙윙거리며 날아다니고 있었다.\n"
+"\n"
+"표시한 좌표에 문 점퍼를 남겨뒀다. 문 점퍼를 실으면 제때 행성을 빠져나갈 수 없었다. 가능하다면 돌아오기 전에 차량과 안에 있는 "
+"물건들을 찾아와라.\n"
+"\n"
+"\n"
 
 #. List: 1
 #. EDID: SFFL_SE_BBI_DataSlate34
@@ -22461,6 +22560,20 @@ msgstr ""
 msgctxt "002591"
 msgid "02.21.2141\n\nHouston, Grav Drive test commencing shortly.\n\nAll systems green. Grav Drive powering up.\n\n\nGetting a lot of noise on the reads here.  \n\nMultiple anomalous events - we're seeing cascading electromagnetic field generation and destruction.\n\nStability is holding though, proceeding with jump in 3, 2...\n\n\n"
 msgstr ""
+"02.21.2141\n"
+"\n"
+"휴스턴, 중력 구동기 시험을 곧 시작한다.\n"
+"\n"
+"전 시스템 이상 없음. 중력 구동기 가동.\n"
+"\n"
+"\n"
+"측정값에 노이즈가 심하게 잡힌다.\n"
+"\n"
+"다수의 이상 이벤트 발생. 전자기장의 생성과 소멸이 연달아 관측되고 있다.\n"
+"\n"
+"안정성 유지 중, 도약 실행, 3, 2...\n"
+"\n"
+"\n"
 
 #. List: 1
 #. EDID: SFFL_SE_BBI_DataSlate35
@@ -22468,55 +22581,63 @@ msgstr ""
 msgctxt "002593"
 msgid "EVA scheduled for 0600.\n\nRepair of platinum shielding above Hab and CenCom.\n\nDue to nature of repairs - we will be untethered. Bring ample backup fuel in case of inadvertent station deorbit.\n\n\n"
 msgstr ""
+"06:00에 함선 외부 활동이 예정되어 있음.\n"
+"\n"
+"선실 및 중앙 통제소 상부의 백금 보호막을 수리하겠다.\n"
+"\n"
+"수리 작업의 특성상 생명줄을 연결하지 않고 진행할 예정임. 우주정거장이 예기치 않게 궤도를 이탈할 경우를 대비하여 예비 연료를 충분히 "
+"지참할 것.\n"
+"\n"
+"\n"
 
 #. List: 1
 #. EDID: SFFL_SE_EC07
 #. REC: QUST:CNAM
 msgctxt "00259D"
 msgid "I successfully gained access to the ship's cockpit where the VP of Acquisitions and her assistant were trapped."
-msgstr ""
+msgstr "인수 담당 부사장과 비서가 갇혀 있는 우주선 조종실에 들어갈 수 있게 되었다."
 
 #. List: 1
 #. EDID: SFFL_SE_EC07
 #. REC: QUST:CNAM
 msgctxt "00259E"
 msgid "I found the access card for the ship's cockpit, now I can get the VP of Acquisitions and her assistant out of there."
-msgstr ""
+msgstr "우주선 조종실 인증 카드를 찾았다. 이제 인수 담당 부사장과 비서가 나오게 할 수 있다."
 
 #. List: 1
 #. EDID: SFFL_SE_EC07
 #. REC: QUST:CNAM
 msgctxt "00259F"
 msgid "The VP of Acquisitions for GalBank and her assistant are stuck in the cockpit. I need to find the key to open the door."
-msgstr ""
+msgstr "갤뱅크의 인수 담당 부사장과 비서가 조종실에 갇혀 있다. 문을 열 인증 카드를 찾아야 한다."
 
 #. List: 1
 #. EDID: SFFL_SE_EC07
 #. REC: QUST:CNAM
 msgctxt "002640"
 msgid "I've boarded the GalBank ship and must now reach the cockpit."
-msgstr ""
+msgstr "갤뱅크 우주선에 탑승했다. 이제 조종실로 가자."
 
 #. List: 1
 #. EDID: SFFL_SE_EC07
 #. REC: QUST:CNAM
 msgctxt "002650"
 msgid "Ruby Krause, VP of Acquisitions for GalBank, needs safe transportation out of a debris field full of space mines."
-msgstr ""
+msgstr "갤뱅크의 인수 담당 부사장 루비 크라우스를 우주 기뢰로 가득한 잔해 지대에서 안전하게 구출해야 한다."
 
 #. List: 1
 #. EDID: SFFL_MS03
 #. REC: QUST:CNAM
 msgctxt "002659"
 msgid "I killed the milliwhale pet that I was asked to care for. "
-msgstr ""
+msgstr "돌봐달라고 부탁받은 애완 밀리웨일을 죽여버렸다. "
 
 #. List: 1
 #. EDID: co_gun_mod_MagPulse_Internal_ShockCharge
 #. REC: COBJ:DESC
 msgctxt "006B88"
 msgid "Electrified device that attaches an electric burst of energy to rounds passed through it."
-msgstr ""
+msgstr "대전 장치. 장치를 통과한 실탄에 전기 폭발 에너지를 부여함."
 
 #. List: 1
 #. EDID: co_wep_ranged_statUpgrade_None_new
@@ -22530,56 +22651,56 @@ msgstr "업그레이드 없음."
 #. REC: INFO:NAM1
 msgctxt "000060"
 msgid "I'd say murdered and turned their vengeful ghosts into my thralls."
-msgstr ""
+msgstr "살해한 다음, 복수심에 불타는 유령으로 만들어 노예로 삼았겠죠."
 
 #. List: 2
 #. EDID: [01083BFC]
 #. REC: INFO:NAM1
 msgctxt "000061"
 msgid "Just murder, or murdered and absorbed their souls?"
-msgstr ""
+msgstr "그냥 죽인 거야? 아니면 죽여서 영혼까지 흡수한 거야?"
 
 #. List: 2
 #. EDID: [01083C25]
 #. REC: INFO:NAM1
 msgctxt "000062"
 msgid "You have your headcanon, I have mine."
-msgstr ""
+msgstr "당신은 당신 식대로 상상하시고, 전 제 식대로 상상할게요."
 
 #. List: 2
 #. EDID: [01083C48]
 #. REC: INFO:NAM1
 msgctxt "000063"
 msgid "It was definitely more mundane than that."
-msgstr ""
+msgstr "분명 그 상상보단 훨씬 평범하게 태어났을걸."
 
 #. List: 2
 #. EDID: [01083DB9]
 #. REC: INFO:NAM1
 msgctxt "000064"
 msgid "More than fair. Facts."
-msgstr ""
+msgstr "그럴 만한 정도가 아니죠. 진실이란 그런 거예요."
 
 #. List: 2
 #. EDID: [01083B7F]
 #. REC: INFO:NAM1
 msgctxt "000065"
 msgid "I know. It brings a tear to my eye just thinking about it."
-msgstr ""
+msgstr "그러게요. 그냥 생각만 해도 눈물을 글썽이게 된다니까요."
 
 #. List: 2
 #. EDID: [01083B65]
 #. REC: INFO:NAM1
 msgctxt "000066"
 msgid "Fair."
-msgstr ""
+msgstr "그럴 만하네."
 
 #. List: 2
 #. EDID: [01083BAB]
 #. REC: INFO:NAM1
 msgctxt "000067"
 msgid "I feel like I shouldn't have to explain this to you of all people. "
-msgstr ""
+msgstr "당신이라면 굳이 말 안 해도 알 줄 알았는데, 이걸 설명해 줘야 하네요. "
 
 #. List: 2
 #. EDID: [01083CAC]
@@ -22649,7 +22770,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "00007F"
 msgid "Earlier, you mentioned a ship full of dead cultists. What happened to them?"
-msgstr ""
+msgstr "전에 광신도 시체로 가득 찬 우주선 얘기를 했었잖아. 그 사람들한테 무슨 일이 있었던 거야?"
 
 #. List: 2
 #. EDID: [01083DB7]
@@ -22789,7 +22910,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0000F1"
 msgid "Well, either way, if you ever find a bottomless pit in your travels, let me know. I've got a list."
-msgstr ""
+msgstr "뭐, 어쨌든 여행 중에 바닥없는 구덩이를 발견하면 알려주세요. 할 일이 좀 있거든요."
 
 #. List: 2
 #. EDID: [01083B98]
@@ -22797,13 +22918,15 @@ msgstr ""
 msgctxt "0000F2"
 msgid "I don't know. Maybe a black hole. Not the kind in space, just a big bottomless pit. It'd be fun to throw people into it."
 msgstr ""
+"잘 모르겠네요. 블랙홀을 보고 싶은 걸지도요? 우주에 있는 그런 거 말고요. 그냥 바닥없는 큰 구덩이요. 사람을 밀어 넣으면 재밌을 것 "
+"같네요."
 
 #. List: 2
 #. EDID: [01083B98]
 #. REC: INFO:NAM1
 msgctxt "0000F3"
 msgid "You mean besides the cold, endless void?"
-msgstr ""
+msgstr "차갑고 끝없는 공허 말고 다른 곳 말인가요?"
 
 #. List: 2
 #. EDID: [01083BAD]
@@ -22824,14 +22947,14 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0000F7"
 msgid "Because that's boring. Guns are noisy and lack drama."
-msgstr ""
+msgstr "그건 재미없잖아요. 총은 시끄럽고 극적인 게 없어요."
 
 #. List: 2
 #. EDID: [01083BE2]
 #. REC: INFO:NAM1
 msgctxt "0000F8"
 msgid "Why not just shoot them?"
-msgstr ""
+msgstr "왜? 그냥 쏴버리지?"
 
 #. List: 2
 #. EDID: [01083C11]
@@ -22845,7 +22968,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0000FA"
 msgid "As long as mine get thrown in first."
-msgstr ""
+msgstr "제가 고른 인간들 먼저 던진다면, 괜찮겠네요."
 
 #. List: 2
 #. EDID: [01083BB6]
@@ -22866,7 +22989,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "000104"
 msgid "Sure is."
-msgstr ""
+msgstr "알아요."
 
 #. List: 2
 #. EDID: [01083BAC]
@@ -22880,28 +23003,28 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "00010F"
 msgid "How is banking similar to demonic pacts?"
-msgstr ""
+msgstr "은행 업무와 악마와의 계약이 뭐가 비슷하단 거야?"
 
 #. List: 2
 #. EDID: [01083BE1]
 #. REC: INFO:NAM1
 msgctxt "000110"
 msgid "I really do love banks."
-msgstr ""
+msgstr "은행이 참 너무 좋더라고요."
 
 #. List: 2
 #. EDID: [01083BE1]
 #. REC: INFO:NAM1
 msgctxt "000111"
 msgid "Me? I respect a faction that can take off the mask and be cartoonishly evil. "
-msgstr ""
+msgstr "전 어떻게 생각하냐고요? 차라리 가식적인 가면을 벗고 대놓고 만화에 나오는 악당처럼 사악하게 구는 세력이 더 존경스럽던데요. "
 
 #. List: 2
 #. EDID: [01083BE1]
 #. REC: INFO:NAM1
 msgctxt "000112"
 msgid "It's definitely not for everyone."
-msgstr ""
+msgstr "모든 사람한테 그런 건 아니잖아요."
 
 #. List: 2
 #. EDID: [01083C10]
@@ -22915,14 +23038,14 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "000114"
 msgid "Those aren't the same. Loans like that are way worse."
-msgstr ""
+msgstr "둘은 다르지. 대출이 훨씬 나쁘다고."
 
 #. List: 2
 #. EDID: [01083CAD]
 #. REC: INFO:NAM1
 msgctxt "000115"
 msgid "Yeah, but where's the magic in that."
-msgstr ""
+msgstr "예, 그렇긴 하죠. 근데 그렇게 해석하면 마법 같은 느낌이 없잖아요."
 
 #. List: 2
 #. EDID: [01083B5B]
@@ -22936,7 +23059,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "000117"
 msgid "Not all loans need to be predatory. They provide a way for regular folks to purchase homes and start business."
-msgstr ""
+msgstr "대출이 다 약탈적인 건 아니야. 평범한 사람이 집을 사고 사업을 시작할 수 있게 해주는 수단이기도 하잖아."
 
 #. List: 2
 #. EDID: [01083B8A]
@@ -22944,20 +23067,22 @@ msgstr ""
 msgctxt "000118"
 msgid "It's the same vibe with banking and the dark arts. Necromancy, demon pacts, predatory loans -- it's all po-tay-to, po-tah-to."
 msgstr ""
+"은행 업무나 흑마술이나 다 똑같은 부류에요. 강령술, 악마와의 계약, 약탈적인 대출... 토마토로 발음하든 토메이토로 발음하든 그게 그거 "
+"아닌가요."
 
 #. List: 2
 #. EDID: [01083B8A]
 #. REC: INFO:NAM1
 msgctxt "000119"
 msgid "Yeah. To me, stuff like magic, science, it's all semantics. Fire is fire, energy is energy."
-msgstr ""
+msgstr "예. 저한테는 마법이나 과학이나 전부 의미를 해석하는 일일뿐이에요. 불은 불이고, 에너지는 에너지죠."
 
 #. List: 2
 #. EDID: [01083BB4]
 #. REC: INFO:NAM1
 msgctxt "00011A"
 msgid "Did you ever have any actual interest in the finance sector?"
-msgstr ""
+msgstr "재무 분야에 진짜로 관심을 가진 적은 있어?"
 
 #. List: 2
 #. EDID: [01083B9F]
@@ -23034,7 +23159,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "00016A"
 msgid "I had enough. Most of them were imaginary, or fungi."
-msgstr ""
+msgstr "많았죠. 대부분은 상상 속 친구거나 곰팡이였지만요."
 
 #. List: 2
 #. EDID: [01083BBC]
@@ -23055,7 +23180,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "00016D"
 msgid "It was a fairly transparent adoption process."
-msgstr ""
+msgstr "입양 과정이 꽤 순탄했다고 할 수 있죠."
 
 #. List: 2
 #. EDID: [01083BD7]
@@ -23063,83 +23188,85 @@ msgstr ""
 msgctxt "00016E"
 msgid "Mmm... hard to say. They did introduce me to fantasy books and video slates. I think those became my parents after that."
 msgstr ""
+"음... 뭐라 말하기 어렵네요. 제게 판타지 소설과 비디오 슬레이트를 처음 알려 주시긴 했어요. 제 생각엔 그 뒤로 그것들이 제 부모가 "
+"된 것 같지만요."
 
 #. List: 2
 #. EDID: [01083BA7]
 #. REC: INFO:NAM1
 msgctxt "00016F"
 msgid "Did you have many friends as a child?"
-msgstr ""
+msgstr "어린 시절에 친구가 많았어?"
 
 #. List: 2
 #. EDID: [01083C31]
 #. REC: INFO:NAM1
 msgctxt "000170"
 msgid "Yeah. I'd be a murderer."
-msgstr ""
+msgstr "예. 아마 살인마가 됐겠죠."
 
 #. List: 2
 #. EDID: [01083C66]
 #. REC: INFO:NAM1
 msgctxt "000171"
 msgid "Would you be different if you had siblings?"
-msgstr ""
+msgstr "형제자매가 있었으면 지금과 달랐을까?"
 
 #. List: 2
 #. EDID: [01083B6E]
 #. REC: INFO:NAM1
 msgctxt "000172"
 msgid "Let's go back to my other questions."
-msgstr ""
+msgstr "아까 질문으로 돌아가자."
 
 #. List: 2
 #. EDID: [01083B55]
 #. REC: INFO:NAM1
 msgctxt "000173"
 msgid "Okay."
-msgstr ""
+msgstr "알겠어요."
 
 #. List: 2
 #. EDID: [01083B86]
 #. REC: INFO:NAM1
 msgctxt "000174"
 msgid "Mind telling me more about your past?"
-msgstr ""
+msgstr "과거에 대해 좀 더 얘기해 줄래?"
 
 #. List: 2
 #. EDID: [01083B9E]
 #. REC: INFO:NAM1
 msgctxt "000175"
 msgid "I got a pamphlet. Thought it'd be cool."
-msgstr ""
+msgstr "소책자를 받았는데, 좀 멋져 보였거든요."
 
 #. List: 2
 #. EDID: [01083BB1]
 #. REC: INFO:NAM1
 msgctxt "000176"
 msgid "How did you join this cult?"
-msgstr ""
+msgstr "그 교단에는 어떻게 들어가게 된 거야?"
 
 #. List: 2
 #. EDID: [01083BCC]
 #. REC: INFO:NAM1
 msgctxt "000177"
 msgid "Same old cult stuff. Not even a cool plushie to give new members. I had to crochet my own."
-msgstr ""
+msgstr "낡아빠진 교단이었죠. 입교 기념 인형 하나 안 줘서, 제가 직접 뜨개질로 만들었다고요."
 
 #. List: 2
 #. EDID: [01083BCC]
 #. REC: INFO:NAM1
 msgctxt "000178"
 msgid "Yeah, pretty boring stuff. You'd think snake worshipers would have more originality, but nope. "
-msgstr ""
+msgstr "예, 좀 재미없죠. 위대한 뱀 숭배자라면 좀 독특할 줄 알았는데 아니더라고요. "
 
 #. List: 2
 #. EDID: [01083BF3]
 #. REC: INFO:NAM1
 msgctxt "000179"
 msgid "Oh, so just regular cult things."
-msgstr ""
+msgstr "오, 흔한 사이비 교단 얘기네."
 
 #. List: 2
 #. EDID: [01083C1B]
@@ -23153,35 +23280,35 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "00017B"
 msgid "Eh, it's not that big a deal. Spoiler alert, I'm still here."
-msgstr ""
+msgstr "어, 큰일이 일어나진 않았어요. 뒷이야기 누설이긴 한데, 저 아직 살아있잖아요."
 
 #. List: 2
 #. EDID: [01083D18]
 #. REC: INFO:NAM1
 msgctxt "00017C"
 msgid "Wow. "
-msgstr ""
+msgstr "와. "
 
 #. List: 2
 #. EDID: [01083B90]
 #. REC: INFO:NAM1
 msgctxt "00017D"
 msgid "That sounds terrifying."
-msgstr ""
+msgstr "듣기만 해도 소름 돋는데."
 
 #. List: 2
 #. EDID: [01083B78]
 #. REC: INFO:NAM1
 msgctxt "00017E"
 msgid "Yeah. That level of stupidity is incredibly terrifying."
-msgstr ""
+msgstr "예. 그 정도로 멍청할 수 있다는 게 참 무섭죠."
 
 #. List: 2
 #. EDID: [01083BD5]
 #. REC: INFO:NAM1
 msgctxt "000182"
 msgid "If they are believers, then they will find prosperity in the Shrouding as Promised."
-msgstr ""
+msgstr "교단원들이 진정한 신도였다면, 약속받은 장막의 날에 번영을 누리겠지."
 
 #. List: 2
 #. EDID: [01083C01]
@@ -23195,35 +23322,35 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "000184"
 msgid "The leader prepared this special snake venom cocktail. Everyone on the ship was supposed to drink it and get grav jumped to heaven."
-msgstr ""
+msgstr "지도자가 특제 뱀독 칵테일을 만들었죠. 우주선에 탄 전원이 그걸 마시고 천국으로 중력 도약하기로 했어요."
 
 #. List: 2
 #. EDID: [01083C64]
 #. REC: INFO:NAM1
 msgctxt "000185"
 msgid "They were really into the Great Serpent. So into him, they wanted to meet him. "
-msgstr ""
+msgstr "교단은 위대한 뱀에 푹 빠져 있었어요. 너무 빠져서 직접 영접하고 싶어 했죠. "
 
 #. List: 2
 #. EDID: [01083C64]
 #. REC: INFO:NAM1
 msgctxt "000186"
 msgid "It was around the same time I joined a cult."
-msgstr ""
+msgstr "교단에 들어갔을 때부터였죠."
 
 #. List: 2
 #. EDID: [01083C63]
 #. REC: INFO:NAM1
 msgctxt "000187"
 msgid "Around the time I joined that cult I told you about."
-msgstr ""
+msgstr "전에 얘기한 교단에 들어갔을 때부터요."
 
 #. List: 2
 #. EDID: [01083B53]
 #. REC: INFO:NAM1
 msgctxt "000188"
 msgid "When did you start taking an interest in necromancy?"
-msgstr ""
+msgstr "언제부터 강령술에 관심을 갖기 시작한 거야?"
 
 #. List: 2
 #. EDID: [01083B6A]
@@ -31959,7 +32086,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "000723"
 msgid "Wow..."
-msgstr ""
+msgstr "와..."
 
 #. List: 2
 #. EDID: [010275E1]
@@ -35151,7 +35278,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "000A29"
 msgid "As long as it's a sacrifice to some bottomless pit god."
-msgstr ""
+msgstr "바닥없는 구덩이의 신에게 바치는 제물이라. 괜찮겠네."
 
 #. List: 2
 #. EDID: [01083BAD]
@@ -35235,7 +35362,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "000A35"
 msgid "Are you saying you have ship full of corpses somewhere? That's... something."
-msgstr ""
+msgstr "시체를 잔뜩 실은 우주선을 어디에 놔뒀다는 거야? 그건… 좀 그러네."
 
 #. List: 2
 #. EDID: [01083BF2]
@@ -35326,7 +35453,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "000A42"
 msgid "Aren't you like a gangster or something?"
-msgstr ""
+msgstr "당신은 무슨 폭력배나 그와 비슷한 부류 아니었나요?"
 
 #. List: 2
 #. EDID: [01083BD2]
@@ -41801,7 +41928,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0010D8"
 msgid "Well, those sure are words."
-msgstr ""
+msgstr "뭐, 말은 그럴듯하네요."
 
 #. List: 2
 #. EDID: [01083BA5]
@@ -41822,7 +41949,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0010DB"
 msgid "What about your parents? What were they like?"
-msgstr ""
+msgstr "너희 부모님은 어떠셨는데? 어떤 분들이었어?"
 
 #. List: 2
 #. EDID: [01083C3F]
@@ -41836,7 +41963,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0010DD"
 msgid "I guess. I'm an only child. I like to think I was part of group, and I murdered all the other children in the womb."
-msgstr ""
+msgstr "뭐. 전 외동이니까요. 그냥 원래는 형제가 여럿 있었지만, 엄마 뱃속에서 다른 애들을 다 없애 버렸다고 생각할래요."
 
 #. List: 2
 #. EDID: [01083B6F]
@@ -41850,7 +41977,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0010DF"
 msgid "Not often I have human ones like you. Let's call it a trial phase though. I'm still sorting out the side effects."
-msgstr ""
+msgstr "당신 같은 인간 친구는 별로 없었어요. 일단은 시험 기간이라고 해두죠. 저도 부작용을 확인해야 하니까요."
 
 #. List: 2
 #. EDID: [01083B57]
@@ -41921,27 +42048,29 @@ msgstr ""
 msgctxt "0010E9"
 msgid "When you take out a loan, it's a lot like making a contract with a demon. Only as a banker, your contract is backed by GalBank's institutional guarantee."
 msgstr ""
+"대출을 받는 건, 악마와 계약을 맺는 것과 아주 비슷하잖아요. 다만 은행원과 계약할 때는, 갤뱅크의 기관 보증이 뒷받침된다는 게 다를 "
+"뿐이죠."
 
 #. List: 2
 #. EDID: [01083B80]
 #. REC: INFO:NAM1
 msgctxt "0010EA"
 msgid "How is banking similar to practicing necromancy?"
-msgstr ""
+msgstr "은행 업무와 강령술이 뭐가 비슷하단 거야?"
 
 #. List: 2
 #. EDID: [01083C49]
 #. REC: INFO:NAM1
 msgctxt "0010EB"
 msgid "Is there anywhere you want to visit?"
-msgstr ""
+msgstr "가보고 싶은 곳이 있어?"
 
 #. List: 2
 #. EDID: [01083B8C]
 #. REC: INFO:NAM1
 msgctxt "0010EC"
 msgid "That'd be awesome, but those don't exist either. Believe me, I've done the research."
-msgstr ""
+msgstr "그러면 정말 멋지겠지만, 그런 존재도 없어요. 맞다니까요. 이미 다 조사해 봤으니까요."
 
 #. List: 2
 #. EDID: [01083B76]
@@ -41969,21 +42098,21 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0010F0"
 msgid "I never made the grav jump. I still have the corpses."
-msgstr ""
+msgstr "중력 도약은 안 했어요. 시체도 아직 있고요."
 
 #. List: 2
 #. EDID: [01083B77]
 #. REC: INFO:NAM1
 msgctxt "0010F1"
 msgid "And then it occurred to me -- if I was gonna be surrounded by a bunch of dead people, it'd be cool if I could raise them as my personal army."
-msgstr ""
+msgstr "그때 생각했죠. 죽은 사람들에 둘러싸일 거면, 되살려서 내 군대로 만들면 멋지겠다고요."
 
 #. List: 2
 #. EDID: [01083B77]
 #. REC: INFO:NAM1
 msgctxt "0010F2"
 msgid "But yeah, I didn't want to meet the Great Serpent, so I volunteered to pilot the ship."
-msgstr ""
+msgstr "근데... 예, 저는 위대한 뱀을 영접하러 가고 싶지 않아서, 우주선 조종사로 자원했어요."
 
 #. List: 2
 #. EDID: [01083C3C]
@@ -42032,14 +42161,14 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0010F9"
 msgid "Why didn't you want to meet the Great Serpent?"
-msgstr ""
+msgstr "왜 위대한 뱀을 영접하고 싶지 않았어?"
 
 #. List: 2
 #. EDID: [01083C04]
 #. REC: INFO:NAM1
 msgctxt "0010FA"
 msgid "Eh, it didn't seem like we'd have much in common. Would've been pretty awkward."
-msgstr ""
+msgstr "어, 공통점이 별로 없을 것 같았거든요. 영접하면 꽤 어색했을 거예요."
 
 #. List: 2
 #. EDID: [01083BF4]
@@ -42074,7 +42203,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0010FF"
 msgid "Maybe not. But we all have to make compromises to get us through the work week."
-msgstr ""
+msgstr "그럴지도 모르겠네요. 하지만 우리 모두 한 주 동안 일하는 걸 버티려면 어느 정도 타협은 해야 하는 법이니까요."
 
 #. List: 2
 #. EDID: [01083B5D]
@@ -47310,7 +47439,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0014C0"
 msgid "When did you start taking an interest in necromancy?"
-msgstr ""
+msgstr "언제부터 강령술에 관심을 갖기 시작한 거야?"
 
 #. List: 2
 #. EDID: [01083C84]
@@ -47359,7 +47488,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0014C7"
 msgid "Earlier, you mentioned a ship full of dead cultists. What happened to them?"
-msgstr ""
+msgstr "전에 광신도 시체로 가득 찬 우주선 얘기를 했었잖아. 그 사람들한테 무슨 일이 있었던 거야?"
 
 #. List: 2
 #. EDID: [01083BBE]
@@ -47415,7 +47544,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0014CF"
 msgid "It's kind of like having my own personal corpse."
-msgstr ""
+msgstr "꼭 저만의 개인 시체를 갖고 있는 것 같은 기분이지요."
 
 #. List: 2
 #. EDID: [01083DD3]
@@ -47423,6 +47552,8 @@ msgstr ""
 msgctxt "0014D0"
 msgid "Eventually they get so strapped with debt they become a lifeless husk working three jobs to fund my lavish lifestyle. "
 msgstr ""
+"결국 대출자들은 빚에 너무 쪼들린 나머지 영혼 없는 껍데기가 되어, 저의 호화로운 생활비를 충당해 주기 위해 하루에 쓰리잡을 뛰는 신세가 "
+"되는 거죠. "
 
 #. List: 2
 #. EDID: [01083DD3]
@@ -47430,6 +47561,7 @@ msgstr ""
 msgctxt "0014D1"
 msgid "Lots of ways. When I give someone a high interest loan, it's like casting a drain spell that slowly sucks the life force out of a person."
 msgstr ""
+"여러가지가 비슷하죠. 누군가에게 고금리 대출을 해주는 것은, 그 사람의 생명력을 서서히 흡수하는 저주 주문을 거는 것과 아주 비슷하니까요."
 
 #. List: 2
 #. EDID: [01083B66]
@@ -47457,7 +47589,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0014D5"
 msgid "That's murder."
-msgstr ""
+msgstr "그건 살인이야."
 
 #. List: 2
 #. EDID: [01083B5C]
@@ -47465,6 +47597,8 @@ msgstr ""
 msgctxt "0014D6"
 msgid "Yeah, but I hear black holes rip you apart before you ever \"fall\" in. And space is so sterile. I want to hear the trail of screams."
 msgstr ""
+"예, 근데 블랙홀은 구덩이에 채 '떨어지기도' 전에 몸이 갈기갈기 찢긴다던데요. 게다가 우주는 너무 적막해요. 사람들이 떨어지면서 길게 "
+"내지르는 비명 소리를 듣고 싶다고요."
 
 #. List: 2
 #. EDID: [01083C2E]
@@ -47527,14 +47661,14 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0014DF"
 msgid "I'm not answering that question without a lawyer present."
-msgstr ""
+msgstr "변호사 없이는 대답 안 할 거예요."
 
 #. List: 2
 #. EDID: [01083B91]
 #. REC: INFO:NAM1
 msgctxt "0014E0"
 msgid "Where are the corpses?"
-msgstr ""
+msgstr "시체들은 어디 있어?"
 
 #. List: 2
 #. EDID: [01083BA6]
@@ -47604,14 +47738,14 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0014EA"
 msgid "Aren't you like a pirate or something?"
-msgstr ""
+msgstr "당신은 무슨 해적이나 그와 비슷한 부류 아니었나요?"
 
 #. List: 2
 #. EDID: [01083B89]
 #. REC: INFO:NAM1
 msgctxt "0014EB"
 msgid "Except banking isn't nearly as cool."
-msgstr ""
+msgstr "은행 업무가 흑마술처럼 멋있진 않다는 거 빼곤 다 맞네."
 
 #. List: 2
 #. EDID: [01083BA0]
@@ -47632,7 +47766,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0014EE"
 msgid "Let's go back to my other questions."
-msgstr ""
+msgstr "아까 질문으로 돌아가자."
 
 #. List: 2
 #. EDID: [01083C4A]
@@ -54814,21 +54948,21 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "001A2D"
 msgid "Assuming you could actually raise them."
-msgstr ""
+msgstr "정말로 소생시킬 수 있으려나."
 
 #. List: 2
 #. EDID: [01083BD6]
 #. REC: INFO:NAM1
 msgctxt "001A2E"
 msgid "Now I'll just have to make people miserable the old fashioned way, by mocking them. "
-msgstr ""
+msgstr "이제는 그냥 고전적인 방식으로 사람들을 비참하게 만들어야겠죠. 조롱하는 방식으로 말이죠. "
 
 #. List: 2
 #. EDID: [01083BD6]
 #. REC: INFO:NAM1
 msgctxt "001A2F"
 msgid "Well, you can't. I was a naive little goth with dreams of terrorizing the galaxy."
-msgstr ""
+msgstr "뭐, 당신이라면 무리겠죠. 저야 그때는 세상 물정 모르고 은하를 공포에 빠뜨리겠다는 꿈에 빠져 있었던 고스족 소녀였고요."
 
 #. List: 2
 #. EDID: [01083D3C]
@@ -54856,7 +54990,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "001A33"
 msgid "They're just orbiting around a planet, or moon, I forget. I have it written down somewhere."
-msgstr ""
+msgstr "어떤 행성 궤도 위에 있어요. 아, 위성이었나? 어딘가에 적어뒀을 거예요."
 
 #. List: 2
 #. EDID: [01083BD9]
@@ -54891,14 +55025,14 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "001A38"
 msgid "The only real difference is that witches get burned at the stake, whereas bankers get golden parachutes."
-msgstr ""
+msgstr "유일한 차이점이라면, 마녀들은 말뚝에 묶여 화형을 당하지만, 은행원들은 거액의 퇴직금을 받고 탈출한다는 것 정도겠네요."
 
 #. List: 2
 #. EDID: [01083BE0]
 #. REC: INFO:NAM1
 msgctxt "001A39"
 msgid "Yeah. It's not exactly apples to apples, but it does come from the same tree."
-msgstr ""
+msgstr "예. 완전히 똑같은 사과라고 볼 수는 없어도, 결국 같은 나무에서 자란 사과 같은 거죠."
 
 #. List: 2
 #. EDID: [01083CA7]
@@ -54926,14 +55060,14 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "001A3D"
 msgid "It's just instead of a club, it's like, the universe."
-msgstr ""
+msgstr "무대가 클럽 대신에 우주 같은 걸로 바뀌었을 뿐이잖아요."
 
 #. List: 2
 #. EDID: [01083C0F]
 #. REC: INFO:NAM1
 msgctxt "001A3E"
 msgid "Aren't you like a bouncer or something? Throwing people out is kind of your thing. "
-msgstr ""
+msgstr "당신은 무슨 경비원이나 그와 비슷한 부류 아니었나요? 사람들을 밖으로 던져버리는 거라면 잘 하잖아요. "
 
 #. List: 2
 #. EDID: [01083BA2]
@@ -61849,7 +61983,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "001EFD"
 msgid "Earlier, you mentioned a ship full of dead cultists. What happened to them?"
-msgstr ""
+msgstr "전에 광신도 시체로 가득 찬 우주선 얘기를 했었잖아. 그 사람들한테 무슨 일이 있었던 거야?"
 
 #. List: 2
 #. EDID: [01083C33]
@@ -61933,7 +62067,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "001F09"
 msgid "A black hole is technically a bottomless pit, in space."
-msgstr ""
+msgstr "블랙홀은 엄밀히 말하면 우주에 있는 바닥없는 큰 구덩이야."
 
 #. List: 2
 #. EDID: [01083C4B]
@@ -62038,14 +62172,14 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "001F18"
 msgid "I see what you mean."
-msgstr ""
+msgstr "무슨 말인지 알겠어."
 
 #. List: 2
 #. EDID: [01083B96]
 #. REC: INFO:NAM1
 msgctxt "001F19"
 msgid "That's a beautiful sentiment."
-msgstr ""
+msgstr "그 감성 거 참 아름답네."
 
 #. List: 2
 #. EDID: [01083BB5]
@@ -69129,7 +69263,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "002521"
 msgid "Sounds like fun. I know a few people I'd like to throw in."
-msgstr ""
+msgstr "재밌겠네. 던져넣고 싶은 녀석들이 몇 명 있거든."
 
 #. List: 2
 #. EDID: SFFL_MilliwhaleGeneric03

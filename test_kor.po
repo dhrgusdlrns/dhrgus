@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-26 16:17+0900\n"
-"PO-Revision-Date: 2026-05-17 10:49+0000\n"
+"PO-Revision-Date: 2026-05-23 17:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -453,7 +453,7 @@ msgstr "스타본 가디언"
 # List: 0, EDID: CF03_ShuttleBayShuttle_Template, REC: GBFM:FULL
 msgctxt "007B4F"
 msgid "UC Prison Shuttle"
-msgstr "UC 교도소 수송선"
+msgstr "식민지 연합 죄수 호송선"
 
 # List: 0, EDID: Destroyer_B_Deimos_Hoplite01_Template, REC: GBFM:FULL
 msgctxt "007B80"

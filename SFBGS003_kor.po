@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2026-05-21 13:49+0000\n"
+"PO-Revision-Date: 2026-05-31 14:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -27095,7 +27095,7 @@ msgstr "전문 분야에 특화된 추적자로는 뭐가 있지?"
 #. REC = INFO:NAM1
 msgctxt "0007BE"
 msgid "Yes. I won't go into the particulars, but even if you are in the furthest reaches of space, someone will eventually be directed to pick up your target."
-msgstr "그래. 자세한 건 말 못 하지만, 우주 끝에 있더라도 결국 다른 추적자가 네 수배범을 호송하러 올 거다."
+msgstr "그래. 자세한 건 말 못 하지만, 먼 우주에 있더라도 결국 다른 추적자가 네 수배범을 호송하러 올 거다."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: AgentNo1

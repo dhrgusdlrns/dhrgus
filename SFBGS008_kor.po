@@ -409,5 +409,5 @@ msgstr "더 웰 아파트"
 
 #. List: 0
 msgctxt "00004E"
-msgid ""
+msgid "Shepherd's General Store"
 msgstr ""

@@ -16,7 +16,7 @@ msgstr ""
 #. EDID = SFBGS003_ChopShop_ShipComputer_Menu
 #. REC = TMLM:UNAM
 msgctxt "000001"
-msgid ""
+msgid "------------------------------------------------------------------\nFood/Water:\n    468 L - Water\n    116 kg - Protein\n    180 kg - Grain\n      50 kg - Preserved Foods\n------------------------------------------------------------------\nMunitions:\n    34x - Class C Missiles\n    36,500x - Ballistic Rounds\n------------------------------------------------------------------\nSpare Parts (DO NOT TRADE):\n    6x - Positron Battery\n    4x - Super Cooled Magnet\n    1x - Isocentered Magnet\n------------------------------------------------------------------\nNeeds:\n    1x - Zero G Gimbal <--- We desperately need one.\n    3x - Reactive Gauge\n    4x - Nuclear Fuel Rod\n------------------------------------------------------------------\nFor Trade:\n    18x - Zero Wire\n      3x - Microsecond Regulator\n    11x - Polytextile\n      2x - Comm Relay\n------------------------------------------------------------------"
 "------------------------------------------------------------------\n"
 "Food/Water:\n"
 "    468 L - Water\n"
@@ -136,7 +136,7 @@ msgstr "(오프라인) ::생명 유지 시스템::"
 #. EDID = SFBGS003_ChopShop_ShipComputer_SubMenu_DebugMenu
 #. REC = TMLM:BTXT
 msgctxt "00000C"
-msgid ""
+msgid "              ------------------------------------------------------------------------------\nAttention: This menu is intended for use only by a ::Class B:: Ship Technician or higher. \n\nAccess to this menu has been logged and the ship warranty has been invalidated.\n              ------------------------------------------------------------------------------"
 "------------------------------------------------------------------------------\n"
 "Attention: This menu is intended for use only by a ::Class B:: Ship Technician or higher. \n"
 "\n"
@@ -160,7 +160,7 @@ msgstr "디버그 메뉴"
 #. EDID = SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs
 #. REC = TMLM:UNAM
 msgctxt "00000E"
-msgid ""
+msgid "It's taken years but we finally managed to scrape just enough together to get this ship. Between the noise and lights, the thieves and crooks, Neon is no place to start a family.\n\nToday the eight of us set off to find greener pastures to begin our new lives. Where are we going? Who knows, but we'll know when we find it. \n\nMany hardships await us but I trust we'll find a way.\n\n\n\n"
 "It's taken years but we finally managed to scrape just enough together to get this ship. Between the noise and lights, the thieves and crooks, Neon is no place to start a family.\n"
 "\n"
 "Today the eight of us set off to find greener pastures to begin our new lives. Where are we going? Who knows, but we'll know when we find it. \n"
@@ -182,7 +182,7 @@ msgstr "우리의 여정이 시작됐다!"
 #. EDID = SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs
 #. REC = TMLM:UNAM
 msgctxt "000010"
-msgid ""
+msgid "It's been just over a week since we've set off and all lights are green! We've spent the last few days poking around the Jaffa system. \n\nThe coasts of Jaffa II are absolutely breathtaking. Stocked up on water and food before leaving but we may definitely want to come back.\n\nMet with a group of school children on a field trip in the orbit of Jaffa V. Think I may have scared them a little pretending to be a pirate. \n\nOh well hopefully they learned you can't be too careful out here."
 "It's been just over a week since we've set off and all lights are green! We've spent the last few days poking around the Jaffa system. \n"
 "\n"
 "The coasts of Jaffa II are absolutely breathtaking. Stocked up on water and food before leaving but we may definitely want to come back.\n"
@@ -208,7 +208,7 @@ msgstr "야파"
 #. EDID = SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs
 #. REC = TMLM:UNAM
 msgctxt "000012"
-msgid ""
+msgid "Think we have a winner here, Rasalhague II. The name is a mouthful but the weather's nice and the forests provide some really nice shade.\n\nThe native Leechers are surprisingly tasty too. Just need to keep your distance or else they'll fling their quills at you. Ask me how I know...\n\nWe're going to keep looking for now but unless we find somewhere better I think we'll begin settling here very soon!\n\n"
 "Think we have a winner here, Rasalhague II. The name is a mouthful but the weather's nice and the forests provide some really nice shade.\n"
 "\n"
 "The native Leechers are surprisingly tasty too. Just need to keep your distance or else they'll fling their quills at you. Ask me how I know...\n"
@@ -230,7 +230,7 @@ msgstr "라스알하게"
 #. EDID = SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs
 #. REC = TMLM:UNAM
 msgctxt "000014"
-msgid ""
+msgid "Lost the Grav Drive just outside of Groombridge. I knew it was only a matter of time before the gimbal went. We tried trading for one but no one we've met along the way have had any to spare.\n\nHow could that be when those damn things are everywhere!?\n\nLuckily a nearby ship heard our transmission and said they can tow us to a nearby station in Andromas.\n\nThought we'd be stuck out here forever. Just goes to show, do good things and good things will come."
 "Lost the Grav Drive just outside of Groombridge. I knew it was only a matter of time before the gimbal went. We tried trading for one but no one we've met along the way have had any to spare.\n"
 "\n"
 "How could that be when those damn things are everywhere!?\n"
@@ -257,7 +257,7 @@ msgstr "중력 구동기 임계점"
 #. EDID = SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs
 #. REC = TMLM:UNAM
 msgctxt "000016"
-msgid ""
+msgid "Any nearby ship receiving this message, please send help, we're being boarded by Spacers!\n\nWe're currently trapped in orbit around Groombridge VIII-a. I repeat, any nearby ships please send help!"
 "Any nearby ship receiving this message, please send help, we're being boarded by Spacers!\n"
 "\n"
 "We're currently trapped in orbit around Groombridge VIII-a. I repeat, any nearby ships please send help!"
@@ -287,7 +287,7 @@ msgstr "이전으로 돌아가기..."
 #. EDID = SFBGS003_ChopShop_ShipComputer_SubMenu_Weapons
 #. REC = TMLM:UNAM
 msgctxt "00001A"
-msgid ""
+msgid "Boot Sequence: ((::Atlatl - 270B::))\n    ::Success::\nWarning:: - Fault detected in mounting brackets...\nTesting: Arming Sequence...\n    ::Success::\nTesting: Firing Sequence...\n    ::Success::\n    ::Weapon - Missile Pod:: returned a positive value."
 "Boot Sequence: ((::Atlatl - 270B::))\n"
 "    ::Success::\n"
 "Warning:: - Fault detected in mounting brackets...\n"
@@ -315,7 +315,7 @@ msgstr "((테스트 시퀀스 실행))"
 #. EDID = SFBGS003_ChopShop_ShipComputer_SubMenu_Weapons
 #. REC = TMLM:BTXT
 msgctxt "00001C"
-msgid ""
+msgid "Establishing Connection...\n    ::Success::\n\nWarning: Verify ::Weapon - Missile Pod:: is free of munitions prior to test firing. \n\nFailure to clear munitions may have catastrophic consequences."
 "Establishing Connection...\n"
 "    ::Success::\n"
 "\n"
@@ -363,7 +363,7 @@ msgstr "제어실 컴퓨터"
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Memos
 #. REC = TMLM:UNAM
 msgctxt "000022"
-msgid ""
+msgid "Everyone,\n\nIt is with a heavy heart that I announce the closure of this facility. Due to unforeseen circumstances we'll no longer be able to sustain operations.\n\nOver the years we've been able to provide cheap yet reliable maintenance to countless individuals who may have fallen on hard times.\n\nWithout each and everyone of you all, we would have never have made it as far as we did and I'm proud of every thing we've accomplished. \n\nI'd also personally like to thank Priya, Bohdan, and Ashe. Without you none of this would have been possible in the first place."
 "Everyone,\n"
 "\n"
 "It is with a heavy heart that I announce the closure of this facility. Due to unforeseen circumstances we'll no longer be able to sustain operations.\n"
@@ -393,7 +393,7 @@ msgstr "감사와 작별 인사"
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Memos
 #. REC = TMLM:UNAM
 msgctxt "000024"
-msgid ""
+msgid "Let me be the first to welcome you fine legitimate business people to our brand new establishment. \n\nThanks to a tip from our good friend Priya we have found ourselves in possession of a recently abandoned staryard. What luck!\n\nNext week we'll begin the process of moving it to the asteroid field outside of Andromas IV-a. \n\nIt won't be easy but I expect great things from you all."
 "Let me be the first to welcome you fine legitimate business people to our brand new establishment. \n"
 "\n"
 "Thanks to a tip from our good friend Priya we have found ourselves in possession of a recently abandoned staryard. What luck!\n"
@@ -419,7 +419,7 @@ msgstr "환영 인사"
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Memos
 #. REC = TMLM:UNAM
 msgctxt "000026"
-msgid ""
+msgid "Until further notice the gravity is staying off. We just got two ships in that need to be chopped and dropped ASAP.\n\nI don't care if it makes your tum tum upset or if you're bumping into stuff while you sleep, it's staying off.\n\nThe sooner we get this done the sooner you'll be able to use your legs again."
 "Until further notice the gravity is staying off. We just got two ships in that need to be chopped and dropped ASAP.\n"
 "\n"
 "I don't care if it makes your tum tum upset or if you're bumping into stuff while you sleep, it's staying off.\n"
@@ -441,7 +441,7 @@ msgstr "중력 상태 주의."
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Memos
 #. REC = TMLM:UNAM
 msgctxt "000028"
-msgid ""
+msgid "Friendly reminder to secure anything that isn't bolted down. Remember to use the magnetic clamps to secure anything heavy. \n\nWe don't want a repeat of the Randy Incident from the last time we had to do this.\n\nAlso, if I float into another one of your used tissues the whole lot of you are going out the airlock.\n\n"
 "Friendly reminder to secure anything that isn't bolted down. Remember to use the magnetic clamps to secure anything heavy. \n"
 "\n"
 "We don't want a repeat of the Randy Incident from the last time we had to do this.\n"
@@ -469,7 +469,7 @@ msgstr "내부 메모"
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Personal
 #. REC = TMLM:UNAM
 msgctxt "00002B"
-msgid ""
+msgid "Tugboat's out of commisision ever since Laz borked the engines trying to reposition the asteroids outside. I told him they were fine, but he insisted they were getting closer. And that's why you don't use chems on the job. \n\nOnce we finish work on the Thresher, we'll bring it in for repairs, then we can worry about the Sunsail. For now, let people know about the wires so no one gets tangled up or pulls them or whatever.\n\n-Anton. "
 "Tugboat's out of commisision ever since Laz borked the engines trying to reposition the asteroids outside. I told him they were fine, but he insisted they were getting closer. And that's why you don't use chems on the job. \n"
 "\n"
 "Once we finish work on the Thresher, we'll bring it in for repairs, then we can worry about the Sunsail. For now, let people know about the wires so no one gets tangled up or pulls them or whatever.\n"
@@ -491,7 +491,7 @@ msgstr "제목: 예인선"
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Personal
 #. REC = TMLM:UNAM
 msgctxt "00002D"
-msgid ""
+msgid "Hey boss, I've got a couple tips that we might want to act on:\n\nSome sort of fancy party's happening on Porrima II, well outside of Paradiso. Buncha wealthy elite scumbags bringing their pleasure vessels from all over for a private beach party. Can't believe those assholes on the Paradiso board let them, but I guess even they have a price. If we can slip in while they're all drunk and naked on the beach, we can make off with dozens of top-tier ships.\n\nThere's a classic ship show happening next week outside of New Atlantis. Lots of older models, but they're worth a fortune. Not sure if we want to hit it the night before while everyone's parked and getting ready, or pose as interested buyers and jack 'em right out from under their noses. Just remember, don't try to take the '72 Alias. There's a reason they don't make Grav Drives like that anymore.\n\n-Artur"
 "Hey boss, I've got a couple tips that we might want to act on:\n"
 "\n"
 "Some sort of fancy party's happening on Porrima II, well outside of Paradiso. Buncha wealthy elite scumbags bringing their pleasure vessels from all over for a private beach party. Can't believe those assholes on the Paradiso board let them, but I guess even they have a price. If we can slip in while they're all drunk and naked on the beach, we can make off with dozens of top-tier ships.\n"
@@ -517,7 +517,7 @@ msgstr "제목: 정보"
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Personal
 #. REC = TMLM:UNAM
 msgctxt "00002F"
-msgid ""
+msgid "Sorry, that was me. Won't happen again.\n\n-Deke\n\n-------------------------------------------------------------------------------------------------\n\nI don't know who was eating Chunks in Hangar A, but Shanti found loose bits of cheesesteak and Cabernet Chunkignon sticking to the inside of the open compartment of the Dolphin we had in there. It could have caused a short in the weapons systems, which would have been bad for all of us if we fired up the ship before cleaning it. Don't make me bring out the pictures from last time we had an accident like that.\n\n-Hannibal"
 "Sorry, that was me. Won't happen again.\n"
 "\n"
 "-Deke\n"
@@ -547,7 +547,7 @@ msgstr "제목: 답변: 거주 구역 안에 과자를 쟁여놔!"
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Personal
 #. REC = TMLM:UNAM
 msgctxt "000031"
-msgid ""
+msgid "Yo, Hannibal. Word is the Trackers set up shop in Akila. Shame, 'cause we've seen a lot of good ships come from there. For your own good, I'd avoid going there yourself. Maybe send someone else to make contact with our friends there. Might even want to keep this on the down low so as not to spook anyone. Word will get out soon enough. We need to be careful and take advantage of that before no one's willing to go anymore.\n \n-Deke\n\n"
 "Yo, Hannibal. Word is the Trackers set up shop in Akila. Shame, 'cause we've seen a lot of good ships come from there. For your own good, I'd avoid going there yourself. Maybe send someone else to make contact with our friends there. Might even want to keep this on the down low so as not to spook anyone. Word will get out soon enough. We need to be careful and take advantage of that before no one's willing to go anymore.\n"
 " \n"
 "-Deke"
@@ -1145,7 +1145,7 @@ msgstr "추적자 동맹"
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs
 #. REC = TMLM:UNAM
 msgctxt "00049E"
-msgid ""
+msgid "Status:\nDone: Refurbished and upgraded\n\nNotes:\nBuyer was very eager to get it back and paid extra for a rush order. Very discreet. I've never seen a ship quite like this one. It must have been through several shops like ours to get where it is now. Honestly, I'm glad it was a rush order. They gave me the creeps. Said they wanted a ship to rival the Razorleaf, whatever that is. I said I could do it anyway and it wasn't questioned. Told me money was no object, so I just gave 'em the works, and they seemed pleased."
 "Status:\n"
 "Done: Refurbished and upgraded\n"
 "\n"
@@ -1167,7 +1167,7 @@ msgstr "???"
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs
 #. REC = TMLM:UNAM
 msgctxt "0004A0"
-msgid ""
+msgid "Status: \nDone: Scrubbed and fully refurbished\n\nRemoved all traces of identification. Gave it a brand new paint job, and outfitted with advanced weaponry. Upgraded Grav Drive. "
 "Status: \n"
 "Done: Scrubbed and fully refurbished\n"
 "\n"
@@ -1187,7 +1187,7 @@ msgstr "레이피어"
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs
 #. REC = TMLM:UNAM
 msgctxt "0004A2"
-msgid ""
+msgid "Status: \nDone: Fully Stripped\n\nNotes:\nExtensive Heatleech damage in the thruster compartments. Had to scrap those. The rest was salvageable. Marco managed to get the stains out of all the upholstery, but wasn't happy about it. I gave him an extra bonus for a job well done."
 "Status: \n"
 "Done: Fully Stripped\n"
 "\n"
@@ -1209,7 +1209,7 @@ msgstr "벌처"
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs
 #. REC = TMLM:UNAM
 msgctxt "0004A4"
-msgid ""
+msgid "Status: \nIn Progress: Prep for Disassembly in Hangar B\n\nNotes: \nAnton discovered a problem with the Missile Pod. The magnetic clamps refuse to disengage even after powering down. Niklas says he can get in and rewire it, but recommends moving the pod to the upper transport shaft in case it goes off, that way it'll only fire a hole into the upper loading bay (which we can cheaply repair) instead of knocking a hole in the side of the shop (a lot less cheap). He says it should work, but he needs a little more time. I recommended doing this outside, but we've already started stripping down the engines, and our tow's currently out of commission, so the ship's gotta stay in the garage.\n\nUntil then, Niklas says he's locking up the ship so no one can accidentally fire the missile. and keeping the key in a \"safe place,\" which, knowing him, means his locker."
 "Status: \n"
 "In Progress: Prep for Disassembly in Hangar B\n"
 "\n"
@@ -1235,7 +1235,7 @@ msgstr "선세일"
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs
 #. REC = TMLM:UNAM
 msgctxt "0004A6"
-msgid ""
+msgid "Status: \nIn Progress: Disassembly started in Hangar  A\n\nNotes: \nScrubbed IDs and wiped computers, still need to file numbers off several parts after they're ripped out. Removed main systems from internal power. Hull requires repairs, so see what can be salvaged and we'll use the rest for scrap. Weapons and engine systems are in good shape. Can easily be retrofitted into other ships. Several buyers are lined up, so take priority on this one."
 "Status: \n"
 "In Progress: Disassembly started in Hangar  A\n"
 "\n"
@@ -1269,7 +1269,7 @@ msgstr "이전으로 돌아가기..."
 #. EDID = SFBGS003_ChopShop_ShipComputer_SubMenu_OfflineSystems
 #. REC = TMLM:BTXT
 msgctxt "0004AA"
-msgid ""
+msgid "------------------------------------------------------------------------------\nEstablishing Connection...\n    ::Error::\n\nWarning: System is offline. Connection could not be established. \n------------------------------------------------------------------------------"
 "------------------------------------------------------------------------------\n"
 "Establishing Connection...\n"
 "    ::Error::\n"
@@ -2109,7 +2109,7 @@ msgstr "극한 온도 진입용 우주복"
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Personal
 #. REC = TMLM:UNAM
 msgctxt "0008E4"
-msgid ""
+msgid "Don't worry. I already found us a buyer. Some stupid shopkeeper in Cydonia spent her life savings to take it off our hands. She seemed really happy about it and didn't ask any questions. Didn't even ask for my name. So I don't think there's gonna be any problems - at least not for us. Surely someone's gonna come looking for that ship sooner or later. I'm just glad it's not us who have to worry about it.\n\n\n-Deke\n\n-------------------------------------------------------------------------\n\nOne of the guys said he might have been spotted by SysDef when we jacked that weird custom cargo ship, and this thing's too huge to fit in the hangar, so our options to scrub it may be limited. I think our best bet's to cut our losses and offload it as quickly as possible. I don't care the price. Just get rid of it.\n\n-Hannibal"
 "Don't worry. I already found us a buyer. Some stupid shopkeeper in Cydonia spent her life savings to take it off our hands. She seemed really happy about it and didn't ask any questions. Didn't even ask for my name. So I don't think there's gonna be any problems - at least not for us. Surely someone's gonna come looking for that ship sooner or later. I'm just glad it's not us who have to worry about it.\n"
 "\n"
 "\n"
@@ -2489,7 +2489,7 @@ msgstr "이전으로 돌아가기..."
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Lockdown
 #. REC = TMLM:UNAM
 msgctxt "000930"
-msgid ""
+msgid "Crew Quarters - Success\n    Lockdown Lifted\nLoading Bay - Error\n    Warning: Door unresponsive, check for blockages.\nDocking Bay - Error\n    Warning: Doors already unlocked.\nCommand Tower - Error\n    Warning: Mechanical locks engaged; manual key entry required.\n"
 "Crew Quarters - Success\n"
 "    Lockdown Lifted\n"
 "Loading Bay - Error\n"
@@ -2517,7 +2517,7 @@ msgstr "우주정거장 봉쇄 비활성화..."
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Lockdown
 #. REC = TMLM:BTXT
 msgctxt "000932"
-msgid ""
+msgid "              ------------------------------------------------------------------------------\n                            Pulsar Systems Staryard Security System\n              ------------------------------------------------------------------------------"
 "------------------------------------------------------------------------------\n"
 "                            Pulsar Systems Staryard Security System\n"
 "              ------------------------------------------------------------------------------"
@@ -9716,7 +9716,7 @@ msgstr "연쇄 살인"
 #. EDID = SFBGS003_TAHQ_Volk_Slate
 #. REC = BOOK:DESC
 msgctxt "000496"
-msgid ""
+msgid "Agent No. 1 is dead. Murdered by one of our own, Volk. His insubordination and cruel ways were called out by Agent No. 1. He was reprimanded, and took issue with it. Violently exacting his grievances when No. 1 was most vulnerable.\n\nHe didn't go down without a fight, but we managed to subdue and capture him before he could escape, with only minimal collateral damage to the Cave. After following the late Agent No. 1's will and naming a successor, myself, as the new Agent No. 1, I called for Volk's execution by firing squad. Needless to say, every Tracker volunteered, but we had to limit it to twenty.\n\nFrom here on out, Volk's service will be stricken from the records. All accomplishments and acknowledgement will be wiped from databases, books, and other communications. If any of Volk's relatives or associates come asking about him, they will be told he died on a secretive bounty mission which we are not at liberty to discuss. \n\nOtherwise, I want to make it clear that I do not wish to hear his name uttered in my presence, or within the walls of this or any future headquarters. "
 "Agent No. 1 is dead. Murdered by one of our own, Volk. His insubordination and cruel ways were called out by Agent No. 1. He was reprimanded, and took issue with it. Violently exacting his grievances when No. 1 was most vulnerable.\n"
 "\n"
 "He didn't go down without a fight, but we managed to subdue and capture him before he could escape, with only minimal collateral damage to the Cave. After following the late Agent No. 1's will and naming a successor, myself, as the new Agent No. 1, I called for Volk's execution by firing squad. Needless to say, every Tracker volunteered, but we had to limit it to twenty.\n"
@@ -9736,7 +9736,7 @@ msgstr ""
 #. EDID = SFBGS003_TAHQ_FoundingTrackers_Book
 #. REC = BOOK:DESC
 msgctxt "000498"
-msgid ""
+msgid "[This aptly named book contains information about the founding members of the Trackers Alliance, including this crib sheet summary of the original five members]\n\nElias Zaxx\nAn ex-mercenary who fought on both side of the Narion War. As a soldier for hire, his only allegiance was with who was currently keeping him on their payroll. When the war ended, and his services were no longer required, he turned his skills towards bounty hunting, and didn't look back. He was able to leverage his connections within the United Colonies and Freestar Collective to help broker the deal that would eventually lead towards legitimacy for the Trackers Alliance.\n\nBertha Mondu\nFrequent Spacer attacks plagued Bertha's homestead, which she famously defended. One day, while she was gathering supplies from an off-world outpost, Spacers came and murdered her entire family. After getting revenge and bringing those responsible to justice, she turned her sights towards other fugitives and criminals. She managed to steal a large Spacer ship and established the first mobile base of operations for the Trackers Alliance, a ship called the Falcon.\n\nBong-cha Noe\nA former assassin for hire working for the now defunct Automyka corporation, until her employer stiffed her and set her up to be caught and disposed of. She managed to turn the tables, and systematically killed the entire corporate board one by one, after uncovering their terrible crimes. It led to the entire corporation dissolving within a few short months. Until joining the Trackers Alliance, she focused her efforts on surreptitiously infiltrating criminal groups and taking them down from within.\n\nDumitru Vega\nDumitru was a big game hunter, and the heir to billions of credits. After conquering the biggest and toughest alien creature he could find, he determined that the only thing left was to hunt the most dangerous game: other humans. His advisors informed him that would be illegal until he insisted they find him a legal way to do it. And so, he turned to legitimate freelance bounty hunting and he met up with the other members of the fledgling Trackers Alliance. As such, he was instrumental in financing the early Trackers Alliance. To this day, when Trackers need to requisition credits or other provisions from the Trackers Alliance supply, it's called \"dipping into the Vega Fund.\"\n\nBadger\nLittle is known about Badger. They showed up one day, never showed their face, and reportedly spoke few words. However, they were known for being the best of the best and held the record for bringing in the most bounties in Tracker history for nearly 100 years. Reportedly, they never once let a target get away. Legend has it that they are not only responsible for inspiring the rules and traditions for Agent No. 1, but also the Trackers Alliance motto, \"Leave no quarter. Show no mercy.\""
 "[This aptly named book contains information about the founding members of the Trackers Alliance, including this crib sheet summary of the original five members]\n"
 "\n"
 "Elias Zaxx\n"
@@ -9787,7 +9787,7 @@ msgstr ""
 #. EDID = SFBGS003_TAHQ_TrackerHistory_Book
 #. REC = BOOK:DESC
 msgctxt "00049A"
-msgid ""
+msgid "[A rather dry book about the extraordinary history of the Trackers Alliance. Below is an excerpt]\n\n2217 was a different time - just a year after the Treaty of Narion was signed, signaling the end of a twenty year long war. But while the war had raged, issues of all kinds plagued society. There was hunger, supply chain disruptions, economic uncertainty, and rampant crime, as military and local law enforcement directed most of their resources towards the war efforts.\n\nIn the absence of state-sanctioned justice, the people took matters into their own hands in the form of extra-judicial killings to deal with Spacers, pirates, and other violent criminals. The growing problem of private citizens taking matters into their own hands, and either getting themselves or innocents killed in the process was enough to prompt some of those vigilante citizens to band together and work with the governments of the Settled Systems, rather than leave it to said governments to impose their own set of restrictions that could put their livelihoods in jeopardy.\n\nThus, the Trackers Alliance formed as a officially sanctioned way to work within the system, delivering criminals and the like to the United Colonies or Freestar Collective via an official bounty system. The governments of the Settled Systems found this arrangement to be a benefit, as their own resources to track down and capture dangerous criminals were stretched thin after the war, and who better to deal with the problem than elite trained professionals? On the other hand, it's also a poorly guarded secret that anyone with the resources can hire the Trackers for their own bounty purposes. The system, while far from perfect, still exists today."
 "[A rather dry book about the extraordinary history of the Trackers Alliance. Below is an excerpt]\n"
 "\n"
 "2217 was a different time - just a year after the Treaty of Narion was signed, signaling the end of a twenty year long war. But while the war had raged, issues of all kinds plagued society. There was hunger, supply chain disruptions, economic uncertainty, and rampant crime, as military and local law enforcement directed most of their resources towards the war efforts.\n"
@@ -10195,7 +10195,7 @@ msgstr "무단횡단"
 #. EDID = SFBGS003_Tutorial_Astra
 #. REC = MESG:DESC
 msgctxt "000935"
-msgid ""
+msgid "You have found an Astra. \n\nThis rare currency can be found around the galaxy. Once you go to the Trackers Alliance HQ, complete your first bounty mission for them and become an official Tracker, you will be able to give Astras to a Tracker Agent named Stache in exchange for rare equipment."
 "You have found an Astra. \n"
 "\n"
 "This rare currency can be found around the galaxy. Once you go to the Trackers Alliance HQ, complete your first bounty mission for them and become an official Tracker, you will be able to give Astras to a Tracker Agent named Stache in exchange for rare equipment."
@@ -27901,7 +27901,7 @@ msgstr "아! 우리한테는 아킬라 시티에 새 본부가 생겼어. 좋은
 #. EDID = [FD00332F]
 #. REC = INFO:NAM1
 msgctxt "000878"
-msgid ""
+msgid " "
 msgstr " "
 
 #. SCRIPT NOTES: Smirk / to Player Default
@@ -28043,107 +28043,107 @@ msgstr "[Update 7 Patch Quest for SFBGS003]"
 
 #. List: 0
 msgctxt "000D62"
-msgid ""
+msgid "[SFBGS003 Patch]"
 msgstr ""
 
 #. List: 0
 msgctxt "000D64"
-msgid ""
+msgid "Cycle Left"
 msgstr ""
 
 #. List: 0
 msgctxt "000D65"
-msgid ""
+msgid "Cycle Right"
 msgstr ""
 
 #. List: 0
 msgctxt "000D66"
-msgid ""
+msgid "[Update 7.1 Patch Quest for SFBGS003]"
 msgstr ""
 
 #. List: 0
 msgctxt "000D67"
-msgid ""
+msgid "Citizen"
 msgstr ""
 
 #. List: 0
 msgctxt "000D68"
-msgid ""
+msgid "Citizen"
 msgstr ""
 
 #. List: 0
 msgctxt "000D69"
-msgid ""
+msgid "Citizen"
 msgstr ""
 
 #. List: 0
 msgctxt "000D6A"
-msgid ""
+msgid "Citizen"
 msgstr ""
 
 #. List: 0
 msgctxt "000D6B"
-msgid ""
+msgid "Citizen"
 msgstr ""
 
 #. List: 0
 msgctxt "000D6C"
-msgid ""
+msgid "Citizen"
 msgstr ""
 
 #. List: 0
 msgctxt "000D6D"
-msgid ""
+msgid "Citizen"
 msgstr ""
 
 #. List: 0
 msgctxt "000D6E"
-msgid ""
+msgid "Citizen"
 msgstr ""
 
 #. List: 0
 msgctxt "000D6F"
-msgid ""
+msgid "Citizen"
 msgstr ""
 
 #. List: 0
 msgctxt "000D70"
-msgid ""
+msgid "Citizen"
 msgstr ""
 
 #. List: 0
 msgctxt "000D71"
-msgid ""
+msgid "Citizen"
 msgstr ""
 
 #. List: 0
 msgctxt "000D72"
-msgid ""
+msgid "Citizen"
 msgstr ""
 
 #. List: 0
 msgctxt "000D73"
-msgid ""
+msgid "Citizen"
 msgstr ""
 
 #. List: 0
 msgctxt "000D74"
-msgid ""
+msgid "Citizen"
 msgstr ""
 
 #. List: 0
 msgctxt "000D75"
-msgid ""
+msgid "[Update 8 Patch Quest for SFBGS003]"
 msgstr ""
 
 #. List: 0
 msgctxt "000D76"
-msgid ""
+msgid "Quality Level 05"
 msgstr ""
 
 #. List: 0
 msgctxt "000D77"
-msgid ""
+msgid "Quality Level 06"
 msgstr ""
 
 #. List: 1

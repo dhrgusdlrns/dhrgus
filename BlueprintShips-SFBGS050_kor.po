@@ -14,157 +14,249 @@ msgstr ""
 "X-Generator: starfield_strings_placeholder_setup\n"
 
 #. List: 0
+#. EDID: SFTER_TerranShip_Generic_TEST
+#. REC: GBFM:FULL
+#. FormID: 0200B471
 msgctxt "000162"
-msgid ""
-msgstr ""
+msgid "Atlas"
+msgstr "아틀라스"
 
 #. List: 0
+#. EDID: SFTER_VOIDShip_Generic_TEST
+#. REC: GBFM:FULL
+#. FormID: 02028C5B
 msgctxt "000C9C"
-msgid ""
-msgstr ""
+msgid "VOID Support Ship"
+msgstr "VOID 지원선"
 
 #. List: 0
+#. EDID: SFTER_UCOfficerShip_TEST
+#. REC: GBFM:FULL
+#. FormID: 0202BB7B
 msgctxt "000EF0"
-msgid ""
-msgstr ""
+msgid "Atlas"
+msgstr "아틀라스"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_A_TerranArmada_Scipio01_Template
+#. REC: GBFM:FULL
+#. FormID: 0203EBD3
 msgctxt "001A2B"
-msgid ""
-msgstr ""
+msgid "Terran Scipio"
+msgstr "테란 스키피오"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_A_TerranArmada_Shaka01_Template
+#. REC: GBFM:FULL
+#. FormID: 0203EBD4
 msgctxt "001A2C"
-msgid ""
-msgstr ""
+msgid "Terran Shaka"
+msgstr "테란 샤카"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_A_TerranArmada_Scipio02
+#. REC: GBFM:FULL
+#. FormID: 0203EBD5
 msgctxt "001A2D"
-msgid ""
-msgstr ""
+msgid "Terran Scipio II"
+msgstr "테란 스키피오 II"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_A_TerranArmada_Scipio03
+#. REC: GBFM:FULL
+#. FormID: 0203EBD6
 msgctxt "001A2E"
-msgid ""
-msgstr ""
+msgid "Terran Scipio III"
+msgstr "테란 스키피오 III"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_A_TerranArmada_Shaka02
+#. REC: GBFM:FULL
+#. FormID: 0203EBD7
 msgctxt "001A2F"
-msgid ""
-msgstr ""
+msgid "Terran Shaka II"
+msgstr "테란 샤카 II"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_A_TerranArmada_Shaka03
+#. REC: GBFM:FULL
+#. FormID: 0203EBD8
 msgctxt "001A30"
-msgid ""
-msgstr ""
+msgid "Terran Shaka III"
+msgstr "테란 샤카 III"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_B_TerranArmada_Cyrus03
+#. REC: GBFM:FULL
+#. FormID: 0204586F
 msgctxt "001E12"
-msgid ""
-msgstr ""
+msgid "Terran Cyrus III"
+msgstr "테란 사이러스 III"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_B_TerranArmada_Cyrus02
+#. REC: GBFM:FULL
+#. FormID: 02045870
 msgctxt "001E13"
-msgid ""
-msgstr ""
+msgid "Terran Cyrus II"
+msgstr "테란 사이러스 II"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_B_TerranArmada_Trajan03
+#. REC: GBFM:FULL
+#. FormID: 02045871
 msgctxt "001E14"
-msgid ""
-msgstr ""
+msgid "Terran Trajan III"
+msgstr "테란 트라야누스 III"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_B_TerranArmada_Trajan02
+#. REC: GBFM:FULL
+#. FormID: 02045872
 msgctxt "001E15"
-msgid ""
-msgstr ""
+msgid "Terran Trajan II"
+msgstr "테란 트라야누스 II"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_B_TerranArmada_Trajan01_Template
+#. REC: GBFM:FULL
+#. FormID: 02045873
 msgctxt "001E16"
-msgid ""
-msgstr ""
+msgid "Terran Trajan"
+msgstr "테란 트라야누스"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_B_TerranArmada_Cyrus01_Template
+#. REC: GBFM:FULL
+#. FormID: 02045874
 msgctxt "001E17"
-msgid ""
-msgstr ""
+msgid "Terran Cyrus"
+msgstr "테란 사이러스"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_B_TerranArmada_Tomyris01_Template
+#. REC: GBFM:FULL
+#. FormID: 02045875
 msgctxt "001E18"
-msgid ""
-msgstr ""
+msgid "Terran Tomyris"
+msgstr "테란 토미리스"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_B_TerranArmada_Tomyris02
+#. REC: GBFM:FULL
+#. FormID: 02045876
 msgctxt "001E19"
-msgid ""
-msgstr ""
+msgid "Terran Tomyris II"
+msgstr "테란 토미리스 II"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_C_TerranArmada_Saladin01_Template
+#. REC: GBFM:FULL
+#. FormID: 0205D08E
 msgctxt "001F20"
-msgid ""
-msgstr ""
+msgid "Terran Saladin"
+msgstr "테란 살라딘"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_C_TerranArmada_Saladin02
+#. REC: GBFM:FULL
+#. FormID: 0205D08F
 msgctxt "001F21"
-msgid ""
-msgstr ""
+msgid "Terran Saladin II"
+msgstr "테란 살라딘 II"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_C_TerranArmada_Saladin03
+#. REC: GBFM:FULL
+#. FormID: 0205D090
 msgctxt "001F22"
-msgid ""
-msgstr ""
+msgid "Terran Saladin III"
+msgstr "테란 살라딘 III"
 
 #. List: 0
+#. EDID: SFTER_MQ03_Combat_C_TerranArmada_Saladin02
+#. REC: GBFM:FULL
+#. FormID: 0208373C
 msgctxt "00248A"
-msgid ""
-msgstr ""
+msgid "Terran Saladin II"
+msgstr "테란 살라딘 II"
 
 #. List: 0
+#. EDID: SFTER_MQ03_Combat_B_TerranArmada_Tomyris02
+#. REC: GBFM:FULL
+#. FormID: 0208373F
 msgctxt "00248B"
-msgid ""
-msgstr ""
+msgid "Terran Tomyris II"
+msgstr "테란 토미리스 II"
 
 #. List: 0
+#. EDID: SFTER_MQ03_Combat_B_TerranArmada_Cyrus02
+#. REC: GBFM:FULL
+#. FormID: 02083742
 msgctxt "00248C"
-msgid ""
-msgstr ""
+msgid "Terran Cyrus II"
+msgstr "테란 사이러스 II"
 
 #. List: 0
+#. EDID: SFTER_MQ03_Combat_A_TerranArmada_Scipio02
+#. REC: GBFM:FULL
+#. FormID: 02083736
 msgctxt "002496"
-msgid ""
-msgstr ""
+msgid "Terran Scipio II"
+msgstr "테란 스키피오 II"
 
 #. List: 0
+#. EDID: SFTER_MQ03_Combat_A_TerranArmada_Shaka02
+#. REC: GBFM:FULL
+#. FormID: 02083738
 msgctxt "002497"
-msgid ""
-msgstr ""
+msgid "Terran Shaka II"
+msgstr "테란 샤카 II"
 
 #. List: 0
+#. EDID: SFTERAssaultPlatform001Destroyed
+#. REC: GBFM:FULL
+#. FormID: 0209E24C
 msgctxt "002641"
-msgid ""
-msgstr ""
+msgid "Terran Reclaimer"
+msgstr "테란 리클레이머"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_C_TerranArmada_Boudica01_Template
+#. REC: GBFM:FULL
+#. FormID: 020A208F
 msgctxt "0026A7"
-msgid ""
-msgstr ""
+msgid "Terran Boudica"
+msgstr "테란 부디카"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_C_TerranArmada_Boudica02
+#. REC: GBFM:FULL
+#. FormID: 020A2091
 msgctxt "0026A8"
-msgid ""
-msgstr ""
+msgid "Terran Boudica II"
+msgstr "테란 부디카 II"
 
 #. List: 0
+#. EDID: SFBGS050_Combat_C_TerranArmada_Boudica03
+#. REC: GBFM:FULL
+#. FormID: 020A2093
 msgctxt "0026A9"
-msgid ""
-msgstr ""
+msgid "Terran Boudica III"
+msgstr "테란 부디카 III"
 
 #. List: 0
+#. EDID: SFTER_MQ03_ShieldAMPTest
+#. REC: GBFM:FULL
+#. FormID: 0202C510
 msgctxt "007ADA"
-msgid ""
-msgstr ""
+msgid "Defensive Battery"
+msgstr "방어 포대"
 
 #. List: 0
+#. EDID: BlueprintInteriorSFBGS050_Combat_A_TerranArmada_Shaka01_TemplateLocation
+#. REC: LCTN:FULL
+#. FormID: 0304E0A5
 msgctxt "02E9C4"
-msgid ""
-msgstr ""
-
+msgid "Ship"
+msgstr "함선"

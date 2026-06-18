@@ -8087,3 +8087,8 @@ msgstr "보물을 찾았다."
 msgctxt "000058"
 msgid "This message fired successfully!"
 msgstr "메시지가 성공적으로 전송되었습니다!"
+
+#. List: 1
+msgctxt "012552"
+msgid ""
+msgstr ""

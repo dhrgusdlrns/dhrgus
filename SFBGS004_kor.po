@@ -4778,3 +4778,123 @@ msgstr "완벽한 하강이십니다."
 msgctxt "00025C"
 msgid "Hostile destroyed."
 msgstr "적대제 개체 파괴됨."
+
+#. List: 0
+msgctxt "0002A8"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0002A9"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0002AA"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0002AB"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0002AC"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0002AD"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0002AE"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0002AF"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0002B0"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "033BAE"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "033BAF"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "033BB0"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "033BB1"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "033BB2"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "033BB3"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "033BB4"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "033BB5"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "033BB6"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0341F3"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0341F4"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0341F5"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0341F6"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0341F7"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0341F8"
+msgid ""
+msgstr ""

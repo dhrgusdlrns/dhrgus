@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-18 03:10+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: kor\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: starfield_strings_placeholder_setup\n"
+
+#. List: 0
+msgctxt "000162"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "000C9C"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "000EF0"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001A2B"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001A2C"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001A2D"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001A2E"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001A2F"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001A30"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001E12"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001E13"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001E14"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001E15"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001E16"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001E17"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001E18"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001E19"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001F20"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001F21"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001F22"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "00248A"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "00248B"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "00248C"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "002496"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "002497"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "002641"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0026A7"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0026A8"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0026A9"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "007ADA"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "02E9C4"
+msgid ""
+msgstr ""
+

@@ -23381,3 +23381,118 @@ msgstr "바룬 대속자 특성"
 msgctxt "033C59"
 msgid "Chair"
 msgstr "의자"
+
+#. List: 0
+msgctxt "00135F"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001360"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001376"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001380"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001473"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "001475"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "0118B1"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "014E49"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "014E4A"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "014E4B"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "014E4C"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "014E4D"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "014E4E"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "014E4F"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "014E50"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "014E51"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "014E52"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "014E53"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "014E54"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "014E55"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "014E56"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "014E57"
+msgid ""
+msgstr ""
+
+#. List: 0
+msgctxt "014E58"
+msgid ""
+msgstr ""

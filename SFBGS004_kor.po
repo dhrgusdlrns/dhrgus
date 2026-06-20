@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-23 00:19+0900\n"
-"PO-Revision-Date: 2026-05-11 10:49+0000\n"
+"PO-Revision-Date: 2026-06-20 07:26+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -4782,119 +4782,119 @@ msgstr "적대제 개체 파괴됨."
 #. List: 0
 msgctxt "0002A8"
 msgid "Look Forward"
-msgstr ""
+msgstr "앞을 바라봄"
 
 #. List: 0
 msgctxt "0002A9"
 msgid "Surfin'"
-msgstr ""
+msgstr "서핑"
 
 #. List: 0
 msgctxt "0002AA"
 msgid "Side Saddle"
-msgstr ""
+msgstr "곁안장"
 
 #. List: 0
 msgctxt "0002AB"
 msgid "Wave"
-msgstr ""
+msgstr "손 흔들기"
 
 #. List: 0
 msgctxt "0002AC"
 msgid "Thumbs Up"
-msgstr ""
+msgstr "따봉"
 
 #. List: 0
 msgctxt "0002AD"
 msgid "No Hands"
-msgstr ""
+msgstr "손 없음"
 
 #. List: 0
 msgctxt "0002AE"
 msgid "Back Seat Driver"
-msgstr ""
+msgstr "잔소리하는 뒷좌석 승객"
 
 #. List: 0
 msgctxt "0002AF"
 msgid "Hang Ten"
-msgstr ""
+msgstr "발끝에 힘주고 균형잡기"
 
 #. List: 0
 msgctxt "0002B0"
 msgid "Vehicle"
-msgstr ""
+msgstr "차량"
 
 #. List: 0
 msgctxt "033BAE"
 msgid "What's Up?"
-msgstr ""
+msgstr "무슨 일이야?"
 
 #. List: 0
 msgctxt "033BAF"
 msgid "Sneak"
-msgstr ""
+msgstr "은신"
 
 #. List: 0
 msgctxt "033BB0"
 msgid "Sit On Ground"
-msgstr ""
+msgstr "바닥에 앉기"
 
 #. List: 0
 msgctxt "033BB1"
 msgid "Kneeling"
-msgstr ""
+msgstr "무릎 꿇기"
 
 #. List: 0
 msgctxt "033BB2"
 msgid "Jump"
-msgstr ""
+msgstr "도약"
 
 #. List: 0
 msgctxt "033BB3"
 msgid "Cower"
-msgstr ""
+msgstr "웅크리기"
 
 #. List: 0
 msgctxt "033BB4"
 msgid "Boxer"
-msgstr ""
+msgstr "복서"
 
 #. List: 0
 msgctxt "033BB5"
 msgid "Hands On Hips"
-msgstr ""
+msgstr "위풍당당"
 
 #. List: 0
 msgctxt "033BB6"
 msgid "Wave"
-msgstr ""
+msgstr "손 흔들기"
 
 #. List: 0
 msgctxt "0341F3"
 msgid "Gift"
-msgstr ""
+msgstr "선물"
 
 #. List: 0
 msgctxt "0341F4"
 msgid "Propose"
-msgstr ""
+msgstr "프로포즈"
 
 #. List: 0
 msgctxt "0341F5"
 msgid "Thumbs Up"
-msgstr ""
+msgstr "따봉"
 
 #. List: 0
 msgctxt "0341F6"
 msgid "Look Up"
-msgstr ""
+msgstr "쳐다보기"
 
 #. List: 0
 msgctxt "0341F7"
 msgid "Hero"
-msgstr ""
+msgstr "히어로"
 
 #. List: 0
 msgctxt "0341F8"
 msgid "Love"
-msgstr ""
+msgstr "사랑"

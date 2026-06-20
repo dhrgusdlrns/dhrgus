@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-05-23 17:49+0000\n"
+"PO-Revision-Date: 2026-06-20 07:26+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -53,27 +53,27 @@ msgstr "뱀의 길"
 # EDID: SFBGS001_VortexGrenadeProjectile_UnstableRandom, REC: PROJ:FULL
 msgctxt "000013"
 msgid "Vortex Cyst Projectile"
-msgstr "볼텍스 포낭 투사체"
+msgstr "볼텍스 포낭 발사체"
 
 # EDID: SFBGS001_VortexGrenadeProjectile_StableAnchor, REC: PROJ:FULL
 msgctxt "000014"
 msgid "Vortex Cyst Projectile"
-msgstr "볼텍스 포낭 투사체"
+msgstr "볼텍스 포낭 발사체"
 
 # EDID: SFBGS001_VortexGrenadeProjectile_StablePhase, REC: PROJ:FULL
 msgctxt "000015"
 msgid "Vortex Cyst Projectile"
-msgstr "볼텍스 포낭 투사체"
+msgstr "볼텍스 포낭 발사체"
 
 # EDID: SFBGS001_VortexGrenadeProjectile_StableExplosion, REC: PROJ:FULL
 msgctxt "000016"
 msgid "Vortex Cyst Projectile"
-msgstr "볼텍스 포낭 투사체"
+msgstr "볼텍스 포낭 발사체"
 
 # EDID: SFBGS001_VortexGrenadeProjectile_StableSummon, REC: PROJ:FULL
 msgctxt "000017"
 msgid "Vortex Cyst Projectile"
-msgstr "볼텍스 포낭 투사체"
+msgstr "볼텍스 포낭 발사체"
 
 # EDID: SFBGS001_VortexGrenade_StablePhase, REC: WEAP:FULL
 msgctxt "000019"
@@ -2950,7 +2950,7 @@ msgstr "원격 접속 기록 덤프"
 # EDID: SFBGS001_MQ02_TestLocation, REC: LCTN:FULL
 msgctxt "000D61"
 msgid "Test Interior Location"
-msgstr "Test Interior Location"
+msgstr "테스트 실내 지점"
 
 # EDID: SFBGS001_Human_Female_Hair_Messy_Mullet, REC: HDPT:FULL
 msgctxt "000D86"
@@ -4490,7 +4490,7 @@ msgstr "베타알 가문의 인장 반지"
 # EDID: SFBGS001_DazraZ01_TestLocation, REC: LCTN:FULL
 msgctxt "001434"
 msgid "Test Interior Location"
-msgstr "Test Interior Location"
+msgstr "테스트 실내 지점"
 
 # EDID: SFBGS001_SE_DerelictVortexPhantom, REC: QUST:FULL
 msgctxt "001435"
@@ -5276,7 +5276,7 @@ msgstr "독성 식물 숲 C"
 # EDID: SFBGS001_MQ05_TestLocation, REC: LCTN:FULL
 msgctxt "001916"
 msgid "Test Interior Location"
-msgstr "Test Interior Location"
+msgstr "테스트 실내 지점"
 
 # EDID: SFBGS001_SE_VaruunRefugees, REC: QUST:FULL
 msgctxt "001950"
@@ -6237,7 +6237,7 @@ msgstr "경량 총열"
 # EDID: SFBGS001_MQ06_TestLocation, REC: LCTN:FULL
 msgctxt "001DA1"
 msgid "Test Interior Location"
-msgstr "Test Interior Location"
+msgstr "테스트 실내 지점"
 
 # EDID: SFBGS001LC06_BattleDamageModPerk, REC: PERK:FULL
 msgctxt "001DA4"
@@ -6958,17 +6958,17 @@ msgstr "어린이"
 # EDID: SFBGS001_MS03_TempLocation, REC: LCTN:FULL
 msgctxt "00236C"
 msgid "Test Interior Location"
-msgstr "Test Interior Location"
+msgstr "테스트 실내 지점"
 
 # EDID: SFBGS001_DazraZ02_TempLocation, REC: LCTN:FULL
 msgctxt "00236D"
 msgid "Test Interior Location"
-msgstr "Test Interior Location"
+msgstr "테스트 실내 지점"
 
 # EDID: SFBGS001_DazraTestLocation, REC: LCTN:FULL
 msgctxt "00236E"
 msgid "Test Interior Location"
-msgstr "Test Interior Location"
+msgstr "테스트 실내 지점"
 
 # EDID: SFBGS001_TestActorCorrieCombat, REC: NPC_:FULL
 msgctxt "002371"
@@ -7366,32 +7366,32 @@ msgstr "지하 농장 열쇠"
 # EDID: SFBGS001_DazraTheKeepTestLocation, REC: LCTN:FULL
 msgctxt "002590"
 msgid "Test Interior Location"
-msgstr "Test Interior Location"
+msgstr "테스트 실내 지점"
 
 # EDID: SFBGS001_DazraStarportTestLocation, REC: LCTN:FULL
 msgctxt "002591"
 msgid "Test Interior Location"
-msgstr "Test Interior Location"
+msgstr "테스트 실내 지점"
 
 # EDID: SFBGS001_DazraRefugeeCampTestLocation, REC: LCTN:FULL
 msgctxt "002592"
 msgid "Test Interior Location"
-msgstr "Test Interior Location"
+msgstr "테스트 실내 지점"
 
 # EDID: SFBGS001_DazraPlazaTestLocation, REC: LCTN:FULL
 msgctxt "002593"
 msgid "Test Interior Location"
-msgstr "Test Interior Location"
+msgstr "테스트 실내 지점"
 
 # EDID: SFBGS001_DazraHallsOfHealingTestLocation, REC: LCTN:FULL
 msgctxt "002594"
 msgid "Test Interior Location"
-msgstr "Test Interior Location"
+msgstr "테스트 실내 지점"
 
 # EDID: SFBGS001_DazraCommonerNeighborhoodTestLocation, REC: LCTN:FULL
 msgctxt "002595"
 msgid "Test Interior Location"
-msgstr "Test Interior Location"
+msgstr "테스트 실내 지점"
 
 # EDID: SFBGS001_SQ_Group_Faction_List_VaruunAll, REC: FLST:FULL
 msgctxt "002596"
@@ -8617,7 +8617,7 @@ msgstr "슬레이트 나가기"
 # EDID: SFBGS001AliasLocation, REC: LCTN:FULL
 msgctxt "011415"
 msgid "Test Interior Location"
-msgstr "Test Interior Location"
+msgstr "테스트 실내 지점"
 
 # EDID: SFBGS001AliasCell, REC: CELL:FULL
 msgctxt "0114AF"
@@ -9805,7 +9805,7 @@ msgstr "ParticleProjectile"
 # EDID: SFBGS001_VortexPhantom_ParticleProjectile_FuseHeavy, REC: PROJ:FULL
 msgctxt "011C15"
 msgid "Particle Fuse Projectile"
-msgstr "입자 퓨즈 투사체"
+msgstr "입자 퓨즈 발사체"
 
 # EDID: SFBGS001_VortexPhantom_BulletProjectile_HardTarget, REC: PROJ:FULL
 msgctxt "011C16"
@@ -15262,7 +15262,7 @@ msgstr "환경 모니터링 단말기"
 # EDID: SFBGS001_VortexHorror_Ranged_Projectile, REC: PROJ:FULL
 msgctxt "0143B8"
 msgid "Vortex Horror Ranged Projectile"
-msgstr "볼텍스 호러 원거리 투사체"
+msgstr "볼텍스 호러 원거리 발사체"
 
 # EDID: SFBGS001_Ammo_VortexHorror_Ranged, REC: AMMO:ONAM
 msgctxt "0143B9"
@@ -15854,7 +15854,7 @@ msgstr "로봇 제어"
 # EDID: ParticleFuseHeavyProjectile_Large, REC: PROJ:FULL
 msgctxt "014882"
 msgid "Particle Fuse Projectile"
-msgstr "입자 퓨즈 투사체"
+msgstr "입자 퓨즈 발사체"
 
 # EDID: SFBGS001_MS04_Slate_Complete, REC: BOOK:FNAM
 msgctxt "014883"
@@ -19075,7 +19075,7 @@ msgstr "볼텍스 스폰 소환 이펙트 8"
 # EDID: SFBGS001_VortexHorror_Ranged_Projectile_Small, REC: PROJ:FULL
 msgctxt "014B22"
 msgid "Vortex Horror Ranged Projectile"
-msgstr "볼텍스 호러 원거리 투사체"
+msgstr "볼텍스 호러 원거리 발사체"
 
 # EDID: SFBGS001_Ammo_VortexHorror_Ranged_Small, REC: AMMO:ONAM
 msgctxt "014B23"
@@ -23420,79 +23420,79 @@ msgstr ""
 #. List: 0
 msgctxt "014E49"
 msgid "[Update 7.1b - Shattered Space - Secondary Patch Quest]"
-msgstr ""
+msgstr "[Update 7.1b - Shattered Space - Secondary Patch Quest]"
 
 #. List: 0
 msgctxt "014E4A"
 msgid "[Update 7.1 - Shattered Space Patch Quest]"
-msgstr ""
+msgstr "[Update 7.1 - Shattered Space Patch Quest]"
 
 #. List: 0
 msgctxt "014E4B"
 msgid "[Update 8 - Shattered Space]"
-msgstr ""
+msgstr "[Update 8 - Shattered Space]"
 
 #. List: 0
 msgctxt "014E4C"
 msgid "[Update 9 - Shattered Space]"
-msgstr ""
+msgstr "[Update 9 - Shattered Space]"
 
 #. List: 0
 msgctxt "014E4D"
 msgid "Quality Level 05"
-msgstr ""
+msgstr "Quality Level 05"
 
 #. List: 0
 msgctxt "014E4E"
 msgid "Quality Level 06"
-msgstr ""
+msgstr "Quality Level 06"
 
 #. List: 0
 msgctxt "014E4F"
 msgid "Quality Level 05"
-msgstr ""
+msgstr "Quality Level 05"
 
 #. List: 0
 msgctxt "014E50"
 msgid "Quality Level 06"
-msgstr ""
+msgstr "Quality Level 06"
 
 #. List: 0
 msgctxt "014E51"
 msgid "Quality Level 05"
-msgstr ""
+msgstr "Quality Level 05"
 
 #. List: 0
 msgctxt "014E52"
 msgid "Quality Level 06"
-msgstr ""
+msgstr "Quality Level 06"
 
 #. List: 0
 msgctxt "014E53"
 msgid "Quality Level 05"
-msgstr ""
+msgstr "Quality Level 05"
 
 #. List: 0
 msgctxt "014E54"
 msgid "Quality Level 06"
-msgstr ""
+msgstr "Quality Level 06"
 
 #. List: 0
 msgctxt "014E55"
 msgid "Quality Level 05"
-msgstr ""
+msgstr "Quality Level 05"
 
 #. List: 0
 msgctxt "014E56"
 msgid "Quality Level 06"
-msgstr ""
+msgstr "Quality Level 06"
 
 #. List: 0
 msgctxt "014E57"
 msgid "Quality Level 05"
-msgstr ""
+msgstr "Quality Level 05"
 
 #. List: 0
 msgctxt "014E58"
 msgid "Quality Level 06"
-msgstr ""
+msgstr "Quality Level 06"

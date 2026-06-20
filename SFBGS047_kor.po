@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 20:26+0900\n"
-"PO-Revision-Date: 2026-05-11 10:49+0000\n"
+"PO-Revision-Date: 2026-06-20 07:26+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -46,14 +46,14 @@ msgstr "문 점퍼"
 #. REC: WEAP:WABB
 msgctxt "000007"
 msgid "LAS"
-msgstr "LAS"
+msgstr "레이저"
 
 #. List: 0
 #. EDID: MoonJumper_Turret
 #. REC: WEAP:FULL
 msgctxt "000008"
 msgid "MoonJumper Turret"
-msgstr "MoonJumper Turret"
+msgstr "문 점퍼 포탑"
 
 #. List: 0
 #. EDID: MoonJumper
@@ -383,7 +383,7 @@ msgstr "LaserProjectile"
 msgctxt "000001"
 msgid "The Moon Jumper was developed by Stroud Eklund as an experimental long range expeditionary rover. Well armored, with a high capacity boost reserve for extended hovering capabilities."
 msgstr ""
-"문 점퍼는 스트라우드 에클룬드 사가 실험용 장거리 탐사 월면차로 개발한 차량입니다. 견고한 장갑을 갖추고 있으며, 대용량 부스터 예비 "
+"문 점퍼는 스트라우드 에클룬드 사가 장거리 탐사용 월면차로 개발한 시제품 차량입니다. 견고한 장갑을 갖추고 있으며, 대용량 부스터 예비 "
 "전력을 갖춰 장시간 호버링이 가능합니다."
 
 #. List: 1

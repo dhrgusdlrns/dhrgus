@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2026-05-31 14:49+0000\n"
+"PO-Revision-Date: 2026-06-20 07:26+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -2172,7 +2172,7 @@ msgstr "집중 발사구"
 #. REC = OMOD:FULL
 msgctxt "0008EC"
 msgid "Large Magazine"
-msgstr "대형 탄창"
+msgstr "대용량 탄창"
 
 #. EDID = mod_PlasmaCutter_Mag_Standard
 #. REC = OMOD:FULL
@@ -10178,7 +10178,7 @@ msgstr "총구 부품 미부착."
 #. REC = COBJ:DESC
 msgctxt "000921"
 msgid "Increased rate of fire but less accurate."
-msgstr "연사력 증가, 명중률 감소."
+msgstr "연사력 증가. 명중률 감소."
 
 #. EDID = SFBGS003_BountyCrime_85
 #. REC = MESG:DESC
@@ -28044,107 +28044,107 @@ msgstr "[Update 7 Patch Quest for SFBGS003]"
 #. List: 0
 msgctxt "000D62"
 msgid "[SFBGS003 Patch]"
-msgstr ""
+msgstr "[SFBGS003 Patch]"
 
 #. List: 0
 msgctxt "000D64"
 msgid "Cycle Left"
-msgstr ""
+msgstr "왼쪽으로 회전"
 
 #. List: 0
 msgctxt "000D65"
 msgid "Cycle Right"
-msgstr ""
+msgstr "오른쪽으로 회전"
 
 #. List: 0
 msgctxt "000D66"
 msgid "[Update 7.1 Patch Quest for SFBGS003]"
-msgstr ""
+msgstr "[Update 7.1 Patch Quest for SFBGS003]"
 
 #. List: 0
 msgctxt "000D67"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 #. List: 0
 msgctxt "000D68"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 #. List: 0
 msgctxt "000D69"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 #. List: 0
 msgctxt "000D6A"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 #. List: 0
 msgctxt "000D6B"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 #. List: 0
 msgctxt "000D6C"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 #. List: 0
 msgctxt "000D6D"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 #. List: 0
 msgctxt "000D6E"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 #. List: 0
 msgctxt "000D6F"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 #. List: 0
 msgctxt "000D70"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 #. List: 0
 msgctxt "000D71"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 #. List: 0
 msgctxt "000D72"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 #. List: 0
 msgctxt "000D73"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 #. List: 0
 msgctxt "000D74"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 #. List: 0
 msgctxt "000D75"
 msgid "[Update 8 Patch Quest for SFBGS003]"
-msgstr ""
+msgstr "[Update 8 Patch Quest for SFBGS003]"
 
 #. List: 0
 msgctxt "000D76"
 msgid "Quality Level 05"
-msgstr ""
+msgstr "Quality Level 05"
 
 #. List: 0
 msgctxt "000D77"
 msgid "Quality Level 06"
-msgstr ""
+msgstr "Quality Level 06"
 
 #. List: 1
 msgctxt "00093F"

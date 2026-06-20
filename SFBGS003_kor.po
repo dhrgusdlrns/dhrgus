@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2026-06-20 07:26+0000\n"
+"PO-Revision-Date: 2026-06-21 10:20+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -195,7 +195,7 @@ msgstr ""
 "\n"
 "야파 II의 해안선은 실로 절경이다. 출발 전 물과 식량을 충분히 비축하였으나, 차후 충분히 재방문할 가치가 있는 곳이다.\n"
 "\n"
-"야파 V의 궤도에서 현장 학습 중이던 학생 집단과 조우하였다. 해적 흉내를 내어 그 녀석들을 다소 놀라게 한 것 같다. \n"
+"야파 V의 궤도권에서 현장 학습 중이던 학생 집단과 조우하였다. 해적 흉내를 내어 그 녀석들을 다소 놀라게 한 것 같다. \n"
 "\n"
 "뭐, 이걸로 우주 공간에서 방심해서는 안 된다는 교훈을 배웠길 바란다."
 
@@ -262,9 +262,9 @@ msgid "Any nearby ship receiving this message, please send help, we're being boa
 "\n"
 "We're currently trapped in orbit around Groombridge VIII-a. I repeat, any nearby ships please send help!"
 msgstr ""
-"이 메시지를 수신하는 주변의 모든 선박에게, 도움을 보내주길 요청한다. 스페이서들에게 납치당하고 있다! \n"
+"이 메시지를 수신하는 주변의 모든 우주선에게, 도움을 보내주길 요청한다. 스페이서들이 우주선에 강제 승선했다!\n"
 "\n"
-"우리는 현재 그룸브릿지 VIII-a의 궤도에 갇혀 있다. 반복한다. 주변의 모든 선박은 지원을 보내달라!"
+"현재 그룸브릿지 VIII-a의 궤도권에 갇혀 있다. 반복한다. 주변에 있는 우주선은 누구든 지원을 보내주길 요청한다!"
 
 #. EDID = SFBGS003_ChopShop_ShipComputer_SubMenu_ShipLogs
 #. REC = TMLM:ITXT
@@ -774,7 +774,8 @@ msgstr "추적자 동맹은 수수께끼의 배타적인 조직입니다. 본부
 #. REC = LSCR:DESC
 msgctxt "0000D2"
 msgid "The elusive starjacker, Hannibal Eutropio, runs an illicit chop shop operation hidden among an asteroid field orbiting Andromas IV-a."
-msgstr "추적하기 어려운 스타재커 한니발 유트로피오는 안드로마스 IV-a 궤도를 도는 소행성들 사이에 찹샵을 숨긴 채 운영하고 있습니다."
+msgstr ""
+"추적하기 어려운 스타재커 한니발 유트로피오는 안드로마스 IV-a 궤도권을 도는 소행성들 사이에 찹샵을 숨긴 채 운영하고 있습니다."
 
 #. EDID = LS_SFBGS003_TrackersHQ02
 #. REC = LSCR:DESC
@@ -10058,7 +10059,7 @@ msgstr "찹샵에서 교신을 보냈다. 나는 교신에 응답해야 한다. 
 #. REC = QUST:CNAM
 msgctxt "0008D0"
 msgid "We have the ship we're going to use to infiltrate Hannibal's Chop Shop. We need to fly it to the chop shop orbiting Andromas IV-a."
-msgstr "한니발의 찹샵에 잠입할 우주선을 찾았다. 안드로마스 IV-a의 궤도를 돌고 있는 찹샵으로 가야 한다."
+msgstr "한니발의 찹샵에 잠입할 우주선을 찾았다. 안드로마스 IV-a의 궤도권을 돌고 있는 찹샵으로 가야 한다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM

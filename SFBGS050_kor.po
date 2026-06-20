@@ -435,7 +435,7 @@ msgstr "일지 03"
 #. FormID: 02005B4B
 msgctxt "000056"
 msgid "Log 02"
-msgstr "로그 02"
+msgstr "일지 02"
 
 #. List: 0
 #. EDID: SFTER_Z01_BossComputerDesktop
@@ -603,7 +603,7 @@ msgstr "절연처리 총열"
 #. FormID: 02007A48
 msgctxt "00006F"
 msgid "Incendiary Barrel"
-msgstr "소이 총열"
+msgstr "발화 총열"
 
 #. List: 0
 #. EDID: SFBGS050_mod_BreechBlock_Grip_Tactical
@@ -1997,7 +1997,7 @@ msgstr "테란 리클레이머 자폭 시작하기"
 #. FormID: 020174A1
 msgctxt "000608"
 msgid "Destroy the ordnance crates (<Global=SFTER_INC_CratesCount>/<Global=SFTER_INC_CratesTotal>)"
-msgstr "군수품 상자 파괴 (<Global=SFTER_INC_CratesCount>/<Global=SFTER_INC_CratesTotal>)"
+msgstr "무기 상자 파괴하기 (<Global=SFTER_INC_CratesCount>/<Global=SFTER_INC_CratesTotal>)"
 
 #. List: 0
 #. EDID: SFTER_INC_MAJ_AssaultPlatformGround01
@@ -5513,7 +5513,7 @@ msgstr "Simple"
 #. FormID: 02010390
 msgctxt "00113B"
 msgid "Auto"
-msgstr "자동"
+msgstr "오토"
 
 #. List: 0
 #. EDID: SFBGS050_MGPLaserRifle
@@ -12333,7 +12333,7 @@ msgstr "VOID 박스"
 #. FormID: 0207AE27
 msgctxt "002365"
 msgid "Nova Spine Set"
-msgstr "노바 스파인 세트"
+msgstr "Nova Spine Set"
 
 #. List: 0
 #. EDID: SMS_SFBGS050_SMOD_Struct_Nova_Spine_AftBtm
@@ -14092,7 +14092,7 @@ msgstr "노바 등골 보강재 C 1L-BF"
 #. FormID: 02081796
 msgctxt "002492"
 msgid "Nova Spine C 1L-TF"
-msgstr "노바 스파인 C 1L-TF"
+msgstr "노바 등골 보강재 C 1L-TF"
 
 #. List: 0
 #. EDID: SMS_SFBGS050_SMOD_Cargo_Dogstar_StorMax-120_Stbd
@@ -20170,7 +20170,7 @@ msgstr "정조준 중 적을 강조 표시. 명중률 크게 증가."
 #. FormID: 0207278B
 msgctxt "000038"
 msgid "Standard issue scope with 4.5x magnification."
-msgstr "4.5x 배율의 표준 지급 조준경입니다."
+msgstr "배율 4.5배의 표준 사양 조준경."
 
 #. List: 1
 #. EDID: SFBGS050_mod_Dogfight_Mag_Standard

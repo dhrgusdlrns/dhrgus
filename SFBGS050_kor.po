@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-18 03:10+0900\n"
-"PO-Revision-Date: 2026-06-21 10:20+0000\n"
+"PO-Revision-Date: 2026-06-21 13:58+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -3408,13 +3408,13 @@ msgstr ""
 "- 181\n"
 "- 182\n"
 "\n"
-"- 글로우핸즈 그레이저\n"
+"- 형광곤봉벌레 (초식성)\n"
 "\n"
 "가설:\n"
 "휴대 가능하고 지속적인 에너지를 위해 전자기 투사 노드(EPN)를 피험체에 이식한다.\n"
 "\n"
 "시험:\n"
-"글로우핸즈에서 EPN을 해부해 적출한다.\n"
+"형광곤봉벌레에서 EPN을 해부해 적출한다.\n"
 "몸에서 제거된 EPN이 활성화되는지 시험한다.\n"
 "피험체에 부착한다.\n"
 "피험체에 부착한 뒤 EPN이 활성화되는지 시험한다.\n"
@@ -3448,15 +3448,15 @@ msgstr ""
 "- 179\n"
 "- 180\n"
 "\n"
-"- 크릿 그레이저\n"
+"- 크릿 바위사냥개 (초식성)\n"
 "- 세이렌\n"
 "\n"
 "가설:\n"
-"크릿 그레이저와 세이렌에서 발견되는 자연 생체 방어구를 피험체에게 이식해 자연 방어력을 높인다.\n"
+"크릿 바위사냥개와 세이렌에서 발견되는 자연 생체 갑피를 피험체에게 이식해 자연 방어력을 높인다.\n"
 "\n"
 "시험:\n"
-"그레이저와 세이렌을 해부해 갑각을 제거한다.\n"
-"어느 생체 방어구가 더 강한지 확인한다.\n"
+"크릿 바위사냥개와 세이렌을 해부해 갑각을 제거한다.\n"
+"어느 생체 갑피가 더 강한지 확인한다.\n"
 "피험체의 표피에 이식을 시도한다.\n"
 "\n"
 "결론/결과:\n"
@@ -3467,7 +3467,7 @@ msgstr ""
 "\n"
 "기록:\n"
 "특정 외계생물학과 관련된 분해(부패) 시간표를 조사할 것.\n"
-"장시간 노출 후 외계생물학이 금속을 화학적으로 변형할 가능성을 연구할 것(금 -> 수은)."
+"장시간 노출 후 외계생물학이 금속을 화학적으로 변형(금 -> 수은)할 가능성을 연구할 것."
 
 #. List: 0
 #. EDID: SFTER_EC_Robot_Q03_Computer_NotSafe_Records
@@ -3487,22 +3487,22 @@ msgstr ""
 "피험체:\n"
 "- 178\n"
 "\n"
-"- 베일린 로티퍼\n"
+"- 수염 윤충\n"
 "\n"
 "가설:\n"
 "항균 물질 생성 기관을 분리해 피험체에게 추출 및 이식하여, 자연적이고 지속적인 항진균/항균 피험체를 만든다.\n"
 "\n"
 "시험:\n"
-"로티퍼를 일련의 진균 및 세균 감염에 노출시킨다.\n"
-"생체정보 스캔을 실행해 어떤 기관 및/또는 분비샘이 반응하는지 확인한다.\n"
+"수염 윤충를 일련의 진균 및 세균 감염에 노출시킨다.\n"
+"생체정보 스캔을 실행해 어떤 기관, 분비샘이 반응하는지 확인한다.\n"
 "추출해 피험체에게 이식한다.\n"
 "\n"
 "결론/결과:\n"
-"베일린 로티퍼들은 투입된 모든 진균 및/또는 세균 감염으로 폐사함.\n"
+"수염 윤충들은 투입한 진균, 세균 종류에 모두 저항하지 못하고 감염으로 폐사함.\n"
 "\n"
 "기록:\n"
 "실험 감염에는 외래 미생물을 사용하지 말 것.\n"
-"로티퍼의 환경에 자생하는 특정 진균 및 기타 미생물이 무엇인지 확인할 것.\n"
+"수염 윤충의 환경에 자생하는 특정 진균 및 기타 미생물이 무엇인지 확인할 것.\n"
 "완료되면 시험을 재개할 것."
 
 #. List: 0
@@ -3525,19 +3525,19 @@ msgstr ""
 "- 176\n"
 "- 177\n"
 "\n"
-"- 노틸러스 그레이저\n"
+"- 조개앵무 (초식성)\n"
 "\n"
 "가설:\n"
-"노틸러스 그레이저 날개의 근골격 구조를 피험체에게 이식한다.\n"
+"조개앵무 날개의 근골격 구조를 피험체에게 이식한다.\n"
 "\n"
 "시험:\n"
-"그레이저를 조심스럽게 해부해 날개를 제거한다.\n"
+"조개앵무를 조심스럽게 해부해 날개를 제거한다.\n"
 "제거한 날개를 얼음 위에 보관한다.\n"
 "날개를 피험체에게 이식한다.\n"
 "회복 속도를 높이고 관찰을 쉽게 하기 위해 혼수상태를 유도한다.\n"
 "\n"
 "결론/결과:\n"
-"그레이저 추가 납품을 기다리느라 프로젝트를 계속 중단해야 했음.\n"
+"조개앵무 추가 납품을 기다리느라 프로젝트를 계속 중단해야 했음.\n"
 "피험체의 몸은 날개 이식을 계속 거부함.\n"
 "\n"
 "기록:\n"
@@ -3563,19 +3563,19 @@ msgstr ""
 "피험체:\n"
 "- 174\n"
 "\n"
-"- 엑소웨일 필터러\n"
-"- 셉터 필터러\n"
+"- 외계 고래 (여과식성)\n"
+"- 왕란홀 (여과식성)\n"
 "\n"
 "가설:\n"
 "섭식에 사용하는 여과 아가미를 인간의 식도 내벽에 이식한다.\n"
 "\n"
 "시험:\n"
-"엑소웨일과 셉터를 해부해 여과 아가미의 위치를 찾는다.\n"
+"외계 고래와 왕란홀을 해부해 여과 아가미의 위치를 찾는다.\n"
 "여과 아가미를 제거해 피험체 174 내부에 배치한다.\n"
 "\n"
 "결론/결과:\n"
-"엑소웨일 필터러를 찾을 수 있는 사람이 없어 셉터 필터러로 방향을 전환해야 했음.\n"
-"셉터 필터러에서 여과 아가미로 추정되는 것을 제거함.\n"
+"외계 고래를 찾을 수 있는 사람이 없어 왕란홀로 방향을 전환해야 했음.\n"
+"왕란홀에서 여과 아가미로 추정되는 것을 제거함.\n"
 "여과 아가미는 제거 과정에서 손상이 너무 심해 이식할 수 없다고 판단됨.\n"
 "\n"
 "기록:\n"
@@ -3608,7 +3608,7 @@ msgstr ""
 "\n"
 "시험:\n"
 "활성화 위치를 식별하기 위해 생체정보를 분석하면서 소각로에서 열거머리를 가열한다.\n"
-"활성화를 일으키는 기관/분비샘을 제거해 피험체에게 부착한다.\n"
+"활성화를 일으키는 기관, 분비샘을 제거해 피험체에게 부착한다.\n"
 "\n"
 "결론/결과:\n"
 "활성화 위치를 식별하지 못함. 소각로의 열이 너무 강해 열거머리에 부착한 생체정보 판독기가 녹아내림.\n"
@@ -3632,7 +3632,7 @@ msgstr "실험 096 - 일시 중단"
 #. FormID: 02024B09
 msgctxt "000AFC"
 msgid "Glowhands Grazer"
-msgstr "글로우핸즈 그레이저"
+msgstr "형광곤봉벌레 (초식성)"
 
 #. List: 0
 #. EDID: SFTER_EC_Robot_Q03_Computer_NotSafe_AnimalRecords
@@ -3648,7 +3648,7 @@ msgstr "세이렌"
 #. FormID: 02024B09
 msgctxt "000AFE"
 msgid "Baleen Rotifer"
-msgstr "베일린 로티퍼"
+msgstr "수염 윤충"
 
 #. List: 0
 #. EDID: SFTER_EC_Robot_Q03_Computer_NotSafe_AnimalRecords
@@ -3656,7 +3656,7 @@ msgstr "베일린 로티퍼"
 #. FormID: 02024B09
 msgctxt "000AFF"
 msgid "Kreet Grazer"
-msgstr "크릿 그레이저"
+msgstr "크릿 바위사냥개 (초식성)"
 
 #. List: 0
 #. EDID: SFTER_EC_Robot_Q03_Computer_NotSafe_AnimalRecords
@@ -3664,7 +3664,7 @@ msgstr "크릿 그레이저"
 #. FormID: 02024B09
 msgctxt "000B01"
 msgid "Exowhale Filterer"
-msgstr "엑소웨일 필터러"
+msgstr "외계 고래 (여과식성)"
 
 #. List: 0
 #. EDID: SFTER_EC_Robot_Q03_Computer_NotSafe_AnimalRecords
@@ -3672,7 +3672,7 @@ msgstr "엑소웨일 필터러"
 #. FormID: 02024B09
 msgctxt "000B02"
 msgid "Scepter Filterer"
-msgstr "셉터 필터러"
+msgstr "왕란홀 (여과식성)"
 
 #. List: 0
 #. EDID: SFTER_EC_Robot_Q03_Computer_NotSafe_AnimalRecords
@@ -3680,7 +3680,7 @@ msgstr "셉터 필터러"
 #. FormID: 02024B09
 msgctxt "000B03"
 msgid "Nautilus Grazer"
-msgstr "노틸러스 그레이저"
+msgstr "조개앵무 (초식성)"
 
 #. List: 0
 #. EDID: SFTER_EC_Robot_Q03_Computer_NotSafe_AnimalRecords
@@ -3889,11 +3889,11 @@ msgstr "받은 편지함"
 msgctxt "000BE0"
 msgid "Name: Glowhands Grazer\n\nExperiment: 101\n\nBiome: Tundras and/or Mountains\n\nDesired Trait: Electromagnetic Projection Nodes (EPNs)"
 msgstr ""
-"이름: 글로우핸즈 그레이저\n"
+"이름: 형광곤봉벌레 (초식성)\n"
 "\n"
 "실험: 101\n"
 "\n"
-"생물 군계: 툰드라 및/또는 산악 지대\n"
+"생물 군계: 툰드라, 산악 지대\n"
 "\n"
 "원하는 특성: 전자기 투사 노드(EPN)"
 
@@ -3908,9 +3908,9 @@ msgstr ""
 "\n"
 "실험: 100\n"
 "\n"
-"생물 군계: 툰드라 및/또는 습지\n"
+"생물 군계: 툰드라, 습지\n"
 "\n"
-"원하는 특성: 유기체 방어구"
+"원하는 특성: 생체 갑피"
 
 #. List: 0
 #. EDID: SFTER_EC_Robot_Q03_Computer_NotSafe_AnimalRecords
@@ -3919,13 +3919,13 @@ msgstr ""
 msgctxt "000BE2"
 msgid "Name: Kreet Grazer\n\nExperiment: 100\n\nBiome: Volcanos and/or Mountains\n\nDesired Trait: Organic Body Armor"
 msgstr ""
-"이름: 크릿 그레이저\n"
+"이름: 크릿 바위사냥개 (초식성)\n"
 "\n"
 "실험: 100\n"
 "\n"
-"생물 군계: 화산 및/또는 산악 지대\n"
+"생물 군계: 화산, 산악 지대\n"
 "\n"
-"원하는 특성: 유기체 방어구"
+"원하는 특성: 생체 갑피"
 
 #. List: 0
 #. EDID: SFTER_EC_Robot_Q03_Computer_NotSafe_AnimalRecords
@@ -3937,7 +3937,7 @@ msgstr ""
 "실험 099\n"
 "항균 능력\n"
 "\n"
-"이름: 베일린 로티퍼\n"
+"이름: 수염 윤충\n"
 "\n"
 "실험: 099\n"
 "\n"
@@ -3952,11 +3952,11 @@ msgstr ""
 msgctxt "000BE4"
 msgid "Name: Nautilus Grazer\n\nExperiment: 098\n\nBiome: Marshes and/or Forests\n\nDesired Trait: Flying Capabilities"
 msgstr ""
-"이름: 노틸러스 그레이저\n"
+"이름: 조개앵무 (초식성)\n"
 "\n"
 "실험: 098\n"
 "\n"
-"생물 군계: 습지 및/또는 숲\n"
+"생물 군계: 습지, 숲\n"
 "\n"
 "원하는 특성: 비행 능력"
 
@@ -3967,11 +3967,11 @@ msgstr ""
 msgctxt "000BE5"
 msgid "Name: Scepter Filterer\n\nExperiment: 097\n\nBiome: Colder and/or Arid Climates\n\nDesired Trait: Filtration Feeding"
 msgstr ""
-"이름: 셉터 필터러\n"
+"이름: 왕란홀 (여과식성)\n"
 "\n"
 "실험: 097\n"
 "\n"
-"생물 군계: 한랭 및/또는 건조 기후\n"
+"생물 군계: 한랭, 건조 기후\n"
 "\n"
 "원하는 특성: 여과 섭식"
 
@@ -3982,7 +3982,7 @@ msgstr ""
 msgctxt "000BE6"
 msgid "Name: Exowhale Filterer\n\nExperiment: 097\n\nBiome: Oceans\n\nDesired Trait: Filtration Feeding"
 msgstr ""
-"이름: 엑소웨일 필터러\n"
+"이름: 외계 고래 (여과식성)\n"
 "\n"
 "실험: 097\n"
 "\n"
@@ -7471,7 +7471,7 @@ msgstr ""
 "대상:\n"
 "- 나 자신\n"
 "\n"
-"- 모스그나스\n"
+"- 모스나스사우루스\n"
 "\n"
 "논제:\n"
 "생물에게서 이끼 성장눈을 추출해 내 모낭에 통합한다.\n"
@@ -7483,7 +7483,7 @@ msgstr ""
 "\n"
 "결론/결과:\n"
 "성공! 이끼 성장은 근처의 모낭 특성을 받아들였다.\n"
-"거의 구분할 수 없지만, 일반 머리카락보다 훨씬 빨리 자라며 약간 가렵고/자극이 있다.\n"
+"거의 구분할 수 없지만, 일반 머리카락보다 훨씬 빨리 자라며, 약간 가렵고, 자극이 있다.\n"
 "\n"
 "참고:\n"
 "두피용 습진 크림을 주문하고 효과를 테스트할 것."
@@ -7503,7 +7503,7 @@ msgstr "나 자신"
 msgctxt "001A37"
 msgid "Name: Mossgnath\n\nExperiment: Myself\n\nBiome: Savannas\n\nDesired Trait: Moss growths along spine"
 msgstr ""
-"이름: 모스그나스\n"
+"이름: 모스나스사우루스\n"
 "\n"
 "실험: 나 자신\n"
 "\n"
@@ -25922,28 +25922,28 @@ msgstr "안돼!"
 #. FormID: 0200B462
 msgctxt "000097"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02009D78
 msgctxt "000098"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02009D77
 msgctxt "000099"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02009D76
 msgctxt "00009A"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -26181,35 +26181,35 @@ msgstr "피해를 입고 있다!"
 #. FormID: 0200B46C
 msgctxt "0000BC"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0200B46B
 msgctxt "0000BD"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0200B46A
 msgctxt "0000BE"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0200B469
 msgctxt "0000BF"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0200B468
 msgctxt "0000C0"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -27667,14 +27667,14 @@ msgstr "이게... 끝일 리 없어..."
 #. FormID: 0200D2C1
 msgctxt "0001C8"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0200D2C0
 msgctxt "0001C9"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -27730,35 +27730,35 @@ msgstr "움직여!"
 #. FormID: 0200D2BD
 msgctxt "0001D1"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0200D2BC
 msgctxt "0001D2"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0200D2BB
 msgctxt "0001D3"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0200D2BA
 msgctxt "0001D4"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0200D2B9
 msgctxt "0001D5"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -27863,21 +27863,21 @@ msgstr "맞았다!"
 #. FormID: 0200D2CE
 msgctxt "0001E4"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0200D2CD
 msgctxt "0001E5"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0200D2CC
 msgctxt "0001E6"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -49624,7 +49624,7 @@ msgstr "그 당시 아버지는 어떤 점에서 훌륭했나요?"
 #. FormID: 020396B5
 msgctxt "001458"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -56010,35 +56010,35 @@ msgstr "뭐- 무슨 일이죠? 여긴 어디예요?"
 #. FormID: 0203D12A
 msgctxt "0018CC"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0203D129
 msgctxt "0018CD"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0203D132
 msgctxt "0018CE"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0203D131
 msgctxt "0018CF"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0203D130
 msgctxt "0018D0"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -69228,4 +69228,4 @@ msgstr ""
 #. FormID: 020AF5C5
 msgctxt "002860"
 msgid "[Fixes for Terran Armada Incursions]"
-msgstr ""
+msgstr "[Fixes for Terran Armada Incursions]"

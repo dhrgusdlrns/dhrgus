@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2026-06-22 11:37+0000\n"
+"PO-Revision-Date: 2026-06-22 13:11+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -8829,56 +8829,48 @@ msgstr "의자"
 
 #. EDID = FC_AC_TrackersAllianceAgent
 #. REC = NPC_:SHRT
-#, fuzzy
 msgctxt "00E09E"
 msgid "Trackers Alliance Agent"
 msgstr "추적자 동맹 대행인"
 
 #. EDID = FC_AC_TrackersAllianceAgent
 #. REC = NPC_:FULL
-#, fuzzy
 msgctxt "00E09F"
 msgid "Trackers Alliance Agent"
 msgstr "추적자 동맹 대행인"
 
 #. EDID = UC_NA_TrackersAllianceAgent
 #. REC = NPC_:SHRT
-#, fuzzy
 msgctxt "00E138"
 msgid "Trackers Alliance Agent"
 msgstr "추적자 동맹 대행인"
 
 #. EDID = UC_NA_TrackersAllianceAgent
 #. REC = NPC_:FULL
-#, fuzzy
 msgctxt "00E139"
 msgid "Trackers Alliance Agent"
 msgstr "추적자 동맹 대행인"
 
 #. EDID = FC_Neon_TrackersAllianceAgent
 #. REC = NPC_:SHRT
-#, fuzzy
 msgctxt "00E67A"
 msgid "Trackers Alliance Agent"
 msgstr "추적자 동맹 대행인"
 
 #. EDID = FC_Neon_TrackersAllianceAgent
 #. REC = NPC_:FULL
-#, fuzzy
 msgctxt "00E67B"
 msgid "Trackers Alliance Agent"
 msgstr "추적자 동맹 대행인"
 
 #. EDID = UC_CY_TrackersAllianceAgent
 #. REC = NPC_:SHRT
-#, fuzzy
 msgctxt "00EF08"
 msgid "Trackers Alliance Agent"
 msgstr "추적자 동맹 대행인"
 
 #. EDID = UC_CY_TrackersAllianceAgent
 #. REC = NPC_:FULL
-#, fuzzy
 msgctxt "00EF09"
 msgid "Trackers Alliance Agent"
 msgstr "추적자 동맹 대행인"
@@ -8891,35 +8883,30 @@ msgstr "센서 탐지 대상"
 
 #. EDID = [00207B8C]
 #. REC = REFR:FULL
-#, fuzzy
 msgctxt "00F56C"
 msgid "Governor Hurst's Ship"
 msgstr "허스트 총독의 함선"
 
 #. EDID = CydoniaCity
 #. REC = WRLD:FULL
-#, fuzzy
 msgctxt "00FA5B"
 msgid "Cydonia"
 msgstr "시도니아"
 
 #. EDID = settletheeleosretreatworld
 #. REC = WRLD:FULL
-#, fuzzy
 msgctxt "00FA86"
 msgid "The Eleos Retreat"
 msgstr "엘레오스 쉼터"
 
 #. EDID = settleredmile
 #. REC = WRLD:FULL
-#, fuzzy
 msgctxt "00FA95"
 msgid "Red Mile"
 msgstr "레드 마일"
 
 #. EDID = LC171World
 #. REC = WRLD:FULL
-#, fuzzy
 msgctxt "00FA9B"
 msgid "Dream Home"
 msgstr "드림 하우스"

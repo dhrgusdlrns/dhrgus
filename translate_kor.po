@@ -79,6 +79,12 @@ msgstr "명중률"
 msgid "$ACCURACY_LRG"
 msgstr "명중"
 
+msgid "$ADBANNER_TITLE"
+msgstr "지금 이용 가능!"
+
+msgid "$ADBANNER_MESSAGE"
+msgstr "테란 아르마다가 모습을 드러냈습니다. 무자비한 군 탈영자 집단이 무력으로 인류를 통합하기 위해 로봇 군대를 구축했습니다. 프리 레인스 전역에서 적의 위협에 맞서 싸우며 새로운 지역을 탐험하고, 새로운 기술을 발견하고, 강력한 신규 무기를 해제해 개척 성계가 적대 세력에 장악되지 않도록 지켜내십시오. Starfield의 완전히 새로운 스토리 DLC입니다."
+
 msgid "$Achievement Friendly"
 msgstr "업적 달성 가능"
 
@@ -8177,14 +8183,53 @@ msgstr ""
 msgid "$Vehicle_VehicleBoost"
 msgstr "부스터"
 
+msgid "$Vehicle_VehicleAccel_KBM"
+msgstr "가속"
+
+msgid "$Vehicle_VehicleAim"
+msgstr "조준"
+
+msgid "$Vehicle_VehicleAim_GP"
+msgstr "조준"
+
+msgid "$Vehicle_VehicleAim_KBM"
+msgstr "조준"
+
+msgid "$Vehicle_VehicleBrake_KBM"
+msgstr "브레이크"
+
 msgid "$Vehicle_VehicleExit"
 msgstr "내리기"
 
 msgid "$Vehicle_VehicleFireWeapon"
 msgstr "발사"
 
+msgid "$Vehicle_VehicleHorn"
+msgstr "경적"
+
+msgid "$Vehicle_VehicleHorn_GP"
+msgstr "경적"
+
+msgid "$Vehicle_VehicleHorn_KBM"
+msgstr "경적"
+
 msgid "$Vehicle_VehicleResetCamera"
 msgstr "시점 전환"
+
+msgid "$Vehicle_VehicleTurnLeft_KBM"
+msgstr "좌회전"
+
+msgid "$Vehicle_VehicleTurnRight_KBM"
+msgstr "우회전"
+
+msgid "$Vehicle_VehicleVertBoost"
+msgstr "수직 부스터"
+
+msgid "$Vehicle_VehicleVertBoost_GP"
+msgstr "수직 부스터"
+
+msgid "$Vehicle_VehicleVertBoost_KBM"
+msgstr "수직 부스터"
 
 msgid "$Vehicle_ZoomIn"
 msgstr "확대"
@@ -8201,7 +8246,13 @@ msgstr "기존 방식"
 msgid "$Vehicle_ControlStickSwap"
 msgstr "차량 조향 반전"
 
+msgid "$Vehicle_ControlStickSwap_PS"
+msgstr "차량 조향 반전"
+
 msgid "$Vehicle_ControlStickSwap_Desc"
+msgstr "차량의 조향 방향을 반전시킵니다."
+
+msgid "$Vehicle_ControlStickSwap_Desc_PS"
 msgstr "차량의 조향 방향을 반전시킵니다."
 
 msgid "$Vehicle_Gamepad_ControlMode"
@@ -8554,3 +8605,640 @@ msgstr "함선 제작기 부품 교체 적용 판정 완화"
 msgid "$Ship Builder Enable Loose Rules Desc"
 msgstr ""
 "함선 제작기 메뉴에서 구조재 부품의 외형 교체시 부착되는 판정(Flip Merge)을 완화해 더 다양한 커스터마이징을 할 수 있게 합니다."
+
+# Interface strings added from Starfield 1.16.244 template.
+msgid "$Achievement Friendly_PS"
+msgstr "트로피 획득 가능"
+
+msgid "$Almanac_CookingUse"
+msgstr "요리"
+
+msgid "$Almanac_IndustrialUse"
+msgstr "산업"
+
+msgid "$Almanac_OutpostUse"
+msgstr "전초기지"
+
+msgid "$Almanac_PharmaUse"
+msgstr "제약"
+
+msgid "$Almanac_ResearchUse"
+msgstr "연구"
+
+msgid "$Almanac_SpacesuitUse"
+msgstr "우주복"
+
+msgid "$Almanac_WeaponUse"
+msgstr "무기"
+
+msgid "$ALMANAC_SORT_DISTANCE"
+msgstr "정렬(거리)"
+
+msgid "$ALMANAC_SORT_NAME"
+msgstr "정렬(이름)"
+
+msgid "$ALMANAC_SORT_SYSTEM"
+msgstr "정렬(성계)"
+
+msgid "$ALMANAC"
+msgstr "데이터베이스"
+
+msgid "$ALREADY_MAX_QUALITY"
+msgstr "이미 최고 품질입니다"
+
+msgid "$ANOMALY DETECTED"
+msgstr "이상 현상 감지"
+
+msgid "$AREA FACTION"
+msgstr "지역 세력"
+
+msgid "$ARRIVAL POINT"
+msgstr "도착 지점"
+
+msgid "$Autopilot On"
+msgstr "자동 조종 켜짐"
+
+msgid "$Autosave Options"
+msgstr "자동 저장 옵션"
+
+msgid "$Bodies"
+msgstr "천체"
+
+msgid "$Bundle"
+msgstr "번들"
+
+msgid "$Bundles with"
+msgstr "다음과 함께 묶인 번들"
+
+msgid "$BundlesWithItem"
+msgstr "번들에 포함됨"
+
+msgid "$BundleLegalWarning"
+msgstr "이 구매에는 여러 크리에이션을 포함한 번들 항목이 포함되어 있습니다. 이 번들에 포함된 하나 이상의 크리에이션을 이미 보유하고 있을 수 있습니다(다른 플랫폼 포함). 각 크리에이션 번들의 구성품은 항목 설명에서 확인하십시오."
+
+msgid "$By:"
+msgstr "제작자: "
+
+msgid "$ByWhom:"
+msgstr "제작자: "
+
+msgid "$Calibrated"
+msgstr "보정"
+
+msgid "$CARGO LINKS"
+msgstr "화물 링크"
+
+msgid "$ConfirmDeleteFiles"
+msgstr "선택한 파일을 삭제하시겠습니까? 이 방식으로 삭제한 파일은 복구할 수 없습니다."
+
+msgid "$ConfirmNew_HC_Mods_PS"
+msgstr "생존 모드로 새 게임을 시작하시겠습니까? 현재 크리에이션이 불러와져 있습니다. 참고: 트로피는 비활성화됩니다."
+
+msgid "$ConfirmNew_Mods_PS"
+msgstr "새 게임을 시작하시겠습니까? 현재 크리에이션이 불러와져 있습니다. 참고: 트로피는 비활성화됩니다."
+
+msgid "$Controller Look Sensitivity Desc_PS"
+msgstr "컨트롤러 시점 이동 스틱의 감도를 조절합니다."
+
+msgid "$COURSE LOCKED"
+msgstr "항로 고정됨"
+
+msgid "$CreationsVisitStore_Sony"
+msgstr "PlayStation Store 방문"
+
+msgid "$CRUISE"
+msgstr "순항"
+
+msgid "$CRUISE MODE"
+msgstr "순항 모드"
+
+msgid "$CruiseCourseClear"
+msgstr "자동 조종 끄기"
+
+msgid "$CruiseCourseLock"
+msgstr "자동 조종"
+
+msgid "$CRUISE_SYSTEMBOUNDARY_HEADER"
+msgstr "프리 레인스 - 순항"
+
+msgid "$CRUISE_SYSTEMBOUNDARY_WARNING"
+msgstr "성계의 가장자리에 도달했습니다.\\n다른 성계로 도약하려면 은하 지도를 열거나, 성계 경계 안에 머물도록 항로를 조정하십시오."
+
+msgid "$CRUISESTAGE1"
+msgstr "질량 구속"
+
+msgid "$CRUISESTAGE2"
+msgstr "질량 근접"
+
+msgid "$CRUISESTAGE3"
+msgstr "질량 임계"
+
+msgid "$CRUISESTAGE4"
+msgstr "순항"
+
+msgid "$DataMenu_OpenAlmanac_KBM"
+msgstr "데이터베이스 열기"
+
+msgid "$DataMenu_OpenAlmanac_GP"
+msgstr "데이터베이스 열기"
+
+msgid "$DEEP SPACE"
+msgstr "심우주"
+
+msgid "$DELETE ALL"
+msgstr "모두 삭제"
+
+msgid "$DELETE SELECTED"
+msgstr "선택 항목 삭제"
+
+msgid "$DIPLOMACY"
+msgstr "외교"
+
+msgid "$DisableControllerAudio"
+msgstr "컨트롤러 오디오 비활성화"
+
+msgid "$DisableControllerAudioDesc"
+msgstr "DualSense® 컨트롤러의 소리를 비활성화합니다."
+
+msgid "$DISCOVERED"
+msgstr "발견됨"
+
+msgid "$DiscoveredPOIs"
+msgstr "발견한 관심 지점"
+
+msgid "$EMERGENCY DECELERATION BURN"
+msgstr "비상 감속"
+
+msgid "$Epic"
+msgstr "에픽"
+
+msgid "$Every # Seconds"
+msgstr "{0}초마다"
+
+msgid "$Exceptional"
+msgstr "최상급"
+
+msgid "$ExploredPOIs"
+msgstr "탐험한 관심 지점"
+
+msgid "$Fanfare_Exotic"
+msgstr "\"엑조틱\" 등급 아이템 획득함"
+
+msgid "$FAVORITECOUNTHEADER"
+msgstr "즐겨찾기 총계"
+
+msgid "$Flawless"
+msgstr "완벽함"
+
+msgid "$Flight Control Roll Dominant_Desc_PS"
+msgstr "함선 비행 시 좌우 스틱의 롤과 요 조작을 서로 바꿉니다."
+
+msgid "$Flight Control Stick Swap_PS"
+msgstr "비행 조종간 바꾸기"
+
+msgid "$Flight Control Stick Swap_Desc_PS"
+msgstr "함선 비행 시 좌우 스틱을 서로 바꿉니다."
+
+msgid "$FREESPACE"
+msgstr "프리 레인스"
+
+msgid "$GRAV BRAKING INITIATED"
+msgstr "관성 완충기 작동"
+
+msgid "$HasOutpost"
+msgstr "전초기지 있음"
+
+msgid "$HOLD_TO_UPGRADE"
+msgstr "길게 눌러 업그레이드"
+
+msgid "$Honed"
+msgstr "연마됨"
+
+msgid "$IncludedCreations:"
+msgstr "포함된 크리에이션:"
+
+msgid "$INORGANICS"
+msgstr "무기물"
+
+msgid "$INSERTION TARGET"
+msgstr "진입 목표"
+
+msgid "$INSTALLED MODS"
+msgstr "설치된 모드"
+
+msgid "$INSTIGATION"
+msgstr "선동"
+
+msgid "$INTIMIDATION"
+msgstr "위협"
+
+msgid "$ITEM QUALITY UPGRADE"
+msgstr "아이템 품질을 다음 등급으로 업그레이드"
+
+msgid "$ItemRarity_Exotic"
+msgstr "\"엑조틱\""
+
+msgid "$KNOWNBLUEPRINTS"
+msgstr "알려진 청사진"
+
+msgid "$KNOWNCOMPONENTS"
+msgstr "알려진 부품"
+
+msgid "$KNOWNRECIPES"
+msgstr "알려진 제작법"
+
+msgid "$KNOWNRESEARCH"
+msgstr "알려진 연구"
+
+msgid "$KNOWNPHARMACEUTICALS"
+msgstr "알려진 약품"
+
+msgid "$KNOWNSPACESUITMODS"
+msgstr "알려진 우주복 개조"
+
+msgid "$KnownUses"
+msgstr "알려진 용도"
+
+msgid "$KNOWNWEAPONMODS"
+msgstr "알려진 무기 개조"
+
+msgid "$LandingScanMoon"
+msgstr "착륙 지점에 직접 경로를 설정하려면 먼저 해당 위성을 방문해야 합니다."
+
+msgid "$LandingScanPlanet"
+msgstr "착륙 지점에 직접 경로를 설정하려면 먼저 해당 행성을 방문해야 합니다."
+
+msgid "$Legendary"
+msgstr "\"레전더리\""
+
+msgid "$LegendaryTier#"
+msgstr "레전더리 단계 {0}"
+
+msgid "$LEGENDARY_MOD_BEHEMOTH"
+msgstr "베히모스"
+
+msgid "$LEGENDARY_MOD_BEHEMOTH_DESC"
+msgstr "체력 대폭 증가, 속도 감소"
+
+msgid "$LEGENDARY_MOD_BERSERKER"
+msgstr "버서커"
+
+msgid "$LEGENDARY_MOD_BERSERKER_DESC"
+msgstr "피해와 속도 증가"
+
+msgid "$LEGENDARY_MOD_DANGEROUS"
+msgstr "위험"
+
+msgid "$LEGENDARY_MOD_DANGEROUS_DESC"
+msgstr "피해 대폭 증가"
+
+msgid "$LEGENDARY_MOD_LEADER"
+msgstr "리더"
+
+msgid "$LEGENDARY_MOD_LEADER_DESC"
+msgstr "주변 아군이 받는 피해 감소"
+
+msgid "$LEGENDARY_MOD_MARTYR"
+msgstr "순교자"
+
+msgid "$LEGENDARY_MOD_MARTYR_DESC"
+msgstr "사망 시 주변 아군을 격분 상태로 만듦"
+
+msgid "$LEGENDARY_MOD_MEDIC"
+msgstr "의무병"
+
+msgid "$LEGENDARY_MOD_MEDIC_DESC"
+msgstr "주변 아군 회복"
+
+msgid "$LEGENDARY_MOD_PYRO"
+msgstr "파이로"
+
+msgid "$LEGENDARY_MOD_PYRO_DESC"
+msgstr "소이 수류탄 투척"
+
+msgid "$LEGENDARY_MOD_QUICK"
+msgstr "신속"
+
+msgid "$LEGENDARY_MOD_QUICK_DESC"
+msgstr "더 빠름"
+
+msgid "$LEGENDARY_MOD_SHIELDED"
+msgstr "차폐"
+
+msgid "$LEGENDARY_MOD_SHIELDED_DESC"
+msgstr "피해 저항 매우 높음"
+
+msgid "$LEGENDARY_MOD_SPECIALIST"
+msgstr "전문가"
+
+msgid "$LEGENDARY_MOD_SPECIALIST_DESC"
+msgstr "시야를 흐리게 하고 자신을 회복함"
+
+msgid "$LEGENDARY_MOD_TANK"
+msgstr "탱크"
+
+msgid "$LEGENDARY_MOD_TANK_DESC"
+msgstr "체력 증가"
+
+msgid "$LEGENDARY_MOD_TRICKY"
+msgstr "교란자"
+
+msgid "$LEGENDARY_MOD_TRICKY_DESC"
+msgstr "피해 회피 확률"
+
+msgid "$LEGENDARY MODS"
+msgstr "레전더리 개조"
+
+msgid "$LOCATIONCOUNTHEADER"
+msgstr "발견한 행성과 위성"
+
+msgid "$LOCATIONS"
+msgstr "위치"
+
+msgid "$LoginError_VPC_Header"
+msgstr "보호자 동의 필요"
+
+msgid "$LoginError_VPC_Body"
+msgstr "사용 중인 게임 서비스에서 이 계정이 아동 계정으로 지정되었다는 신호를 받았습니다. 이 기능을 사용하려면 아동에 대한 보호자 동의가 필요합니다. 보호자 동의를 받으려면 vpc.bethesda.net을 방문하십시오. 도움이 필요하면 help.bethesda.net을 방문하십시오."
+
+msgid "$MainGameplay_MonocleAlt"
+msgstr "핸드 스캐너 보조"
+
+msgid "$MainGameplay_QuickMapAlt"
+msgstr "빠른 지도 보조"
+
+msgid "$MANIPULATION"
+msgstr "조종"
+
+msgid "$Manipulation"
+msgstr "조종"
+
+msgid "$Masterwork"
+msgstr "명품"
+
+msgid "$NEEDED POWER"
+msgstr "필요 동력"
+
+msgid "$NORMAL PLACEMENT MODE"
+msgstr "일반 배치 모드"
+
+msgid "$OpenAlmanac"
+msgstr "데이터베이스"
+
+msgid "$OpenAlmanac_OpenAlmanac_KBM"
+msgstr "데이터베이스 열기"
+
+msgid "$OpenAlmanac_OpenAlmanac_GP"
+msgstr "데이터베이스 열기"
+
+msgid "$OPEN STAR MAP"
+msgstr "항성계 지도 열기"
+
+msgid "$ORBITAL DECELERATION"
+msgstr "궤도 감속"
+
+msgid "$ORGANICS"
+msgstr "유기물"
+
+msgid "$OUTPOSTSBUILT"
+msgstr "건설한 전초기지"
+
+msgid "$OutpostStorage:"
+msgstr "전초기지 보관함:"
+
+msgid "$PerHour:"
+msgstr "시간당:"
+
+msgid "$PLANETARY SPACE"
+msgstr "행성권 우주"
+
+msgid "$POWER_AT_MAXIMUM"
+msgstr "최대 랭크 도달"
+
+msgid "$Powers_FavoriteEsenceTooltip"
+msgstr "즐겨찾기에 양자 정수 사용 추가"
+
+msgid "$POWERS_FAVORITEESSENCE"
+msgstr "양자 정수 즐겨찾기"
+
+msgid "$PRECISE PLACEMENT MODE"
+msgstr "정밀 배치 모드"
+
+msgid "$Press any button to start_PS"
+msgstr "아무 버튼이나 눌러 시작"
+
+msgid "$QualityLevel"
+msgstr "품질 등급"
+
+msgid "$QualityUpgrade"
+msgstr "품질 업그레이드"
+
+msgid "$Quantum-Edged"
+msgstr "양자날"
+
+msgid "$QUANTUM_ESSENCE"
+msgstr "양자 정수"
+
+msgid "$QUANTUM_ESSENCE_COST"
+msgstr "{0}/{1} 양자 정수"
+
+msgid "$QuickAccountAutoPopulateEmail_Sony"
+msgstr "{0}을 누르면 PlayStation™Network 계정의 이메일 주소가 이메일 주소 입력란에 자동으로 입력됩니다."
+
+msgid "$RANK {0} AVAILABLE"
+msgstr "랭크 {0} 사용 가능"
+
+msgid "$RAPID DECELERATION BURN"
+msgstr "급속 감속 점화"
+
+msgid "$Refined"
+msgstr "정제"
+
+msgid "$Remap_BindingRequiredHint_PS"
+msgstr "* 표시는 반드시 지정해야 하는 동작입니다."
+
+msgid "$Remap_ButtonReservedError_PS"
+msgstr "해당 버튼은 예약되어 있습니다."
+
+msgid "$Remap_Prompt_PS"
+msgstr "이 동작에 지정할 버튼을 누르십시오."
+
+msgid "$REQUIRED RESEARCH:"
+msgstr "필요 연구:"
+
+msgid "$REROLL LEGENDARY MOD"
+msgstr "레전더리 개조 재추첨"
+
+msgid "$REROLLS #"
+msgstr "재추첨:{0}"
+
+msgid "$ResearchLab"
+msgstr "연구 연구소"
+
+msgid "$ROLL LEGENDARY MOD"
+msgstr "레전더리 개조 추첨"
+
+msgid "$ROLLS #"
+msgstr "추첨:{0}"
+
+msgid "$SaveUploadNotAllowed"
+msgstr "저장 업로드 불가"
+
+msgid "$Search results for:"
+msgstr "검색 결과: "
+
+msgid "$SETTINGS_CATEGORY_FILE_MANAGER"
+msgstr "저장 파일 관리자"
+
+msgid "$Settings_HDRConsole_PS5 Desc"
+msgstr "HDR을 보정하려면 TV의 설정 > 화면 및 비디오 > 비디오 출력 > 색상 > HDR 조정으로 이동하십시오."
+
+msgid "$Settings_LandingCamera"
+msgstr "착륙 카메라 항상 표시"
+
+msgid "$Settings_LandingCamera_Desc"
+msgstr "플레이어 함선이 착륙할 때 착륙 카메라를 항상 표시합니다."
+
+msgid "$Settings_VisualFidelity_PS5Pro Desc"
+msgstr "프레임 레이트 목표를 유지하면서 우선순위를 설정합니다.\\n\\n성능: 내부 해상도와 특수 효과, 조명, 군중의 세부 표현을 낮춰 성능을 우선합니다. 프레임 레이트 목표를 60 이상으로 선택했을 때 사용해야 합니다.\\n\\n비주얼: 높은 수준의 특수 효과, 조명, 군중 세부 표현을 유지하면서 최고 해상도를 유지해 비주얼을 우선합니다. 프레임 레이트 목표가 60 이상일 때는 권장하지 않습니다.\\n\\n강화: PS5 Pro 하드웨어를 활용해 시각적 세부 표현을 극대화하고, 특수 효과, 조명, 군중의 전체 세부 표현을 유지하면서 최고 해상도를 유지합니다. 프레임 레이트 목표가 60 이상일 때는 권장하지 않습니다."
+
+msgid "$Settings_VisualFidelity_Enhanced"
+msgstr "강화"
+
+msgid "$Settled"
+msgstr "정착됨"
+
+msgid "$Sharpened"
+msgstr "예리함"
+
+msgid "$ShipCrewUpgradeCommandLevel"
+msgstr "더 많은 승무원을 배치하려면 함선 지휘 스킬 레벨을 올리십시오."
+
+msgid "$ShipHUD_Cruise"
+msgstr "순항"
+
+msgid "$ShipHUD_CruiseMode"
+msgstr "우주선(순항 모드)"
+
+msgid "$ShipHUD_CruiseMode_LockCourse"
+msgstr "자동 조종 켜기/끄기"
+
+msgid "$ShipHUD_RepairShip"
+msgstr "수리"
+
+msgid "$SHOW LEGENDARY DETAILS"
+msgstr "레전더리 상세 정보 표시"
+
+msgid "$SHOWBODYLIST"
+msgstr "위치 표시"
+
+msgid "$Sorted by:"
+msgstr "정렬 기준: "
+
+msgid "$Standard"
+msgstr "표준"
+
+msgid "$StarMap_FavoriteBody"
+msgstr "즐겨찾기"
+
+msgid "$STORED RESOURCES"
+msgstr "저장된 자원"
+
+msgid "$Superior"
+msgstr "우수"
+
+msgid "$TerranArmada"
+msgstr "테란 아르마다"
+
+msgid "$TIER"
+msgstr "등급"
+
+msgid "$Toggle Adaptive Triggers"
+msgstr "적응형 트리거"
+
+msgid "$Toggle Adaptive Triggers Desc"
+msgstr "게임플레이 중 DualSense® 컨트롤러의 적응형 트리거 사용을 켜거나 끕니다."
+
+msgid "$TOTAL POWER"
+msgstr "총 동력"
+
+msgid "$Total Value"
+msgstr "총 비용:"
+
+msgid "$Tracked"
+msgstr "추적 중"
+
+msgid "$TrackedRecipes"
+msgstr "추적 중인 제작법:"
+
+msgid "$UNFAVORITE"
+msgstr "즐겨찾기 해제"
+
+msgid "$UpdateAvailable"
+msgstr "업데이트 가능"
+
+msgid "$UPGRADE"
+msgstr "업그레이드"
+
+msgid "$UPGRADE_POWER"
+msgstr "동력 업그레이드"
+
+msgid "$UPGRADE_QUALITY_TO_TIER_1"
+msgstr "다음 품질 등급으로 업그레이드(보정)"
+
+msgid "$UPGRADE_QUALITY_TO_TIER_2"
+msgstr "다음 품질 등급으로 업그레이드(정제)"
+
+msgid "$UPGRADE_QUALITY_TO_TIER_3"
+msgstr "다음 품질 등급으로 업그레이드(고급)"
+
+msgid "$UPGRADE_QUALITY_TO_TIER_4"
+msgstr "다음 품질 등급으로 업그레이드(우수)"
+
+msgid "$UPGRADE_QUALITY_TO_TIER_5"
+msgstr "다음 품질 등급으로 업그레이드(최상급)"
+
+msgid "$UPGRADE_QUALITY_TO_MELEE_TIER_1"
+msgstr "다음 품질 등급으로 업그레이드(예리함)"
+
+msgid "$UPGRADE_QUALITY_TO_MELEE_TIER_2"
+msgstr "다음 품질 등급으로 업그레이드(연마됨)"
+
+msgid "$UPGRADE_QUALITY_TO_MELEE_TIER_3"
+msgstr "다음 품질 등급으로 업그레이드(양자날)"
+
+msgid "$UPGRADE_QUALITY_TO_MELEE_TIER_4"
+msgstr "다음 품질 등급으로 업그레이드(완벽함)"
+
+msgid "$UPGRADE_QUALITY_TO_MELEE_TIER_5"
+msgstr "다음 품질 등급으로 업그레이드(명품)"
+
+msgid "$UPGRADE_UNAVAILABLE"
+msgstr "업그레이드 불가"
+
+msgid "$UsingConsoleMayDisableAchievements_PS4"
+msgstr "특정 콘솔 명령어를 사용하면 트로피를 달성할 수 없게 됩니다."
+
+msgid "$VELOCITY SHELL DISRUPTION"
+msgstr "속도 교란"
+
+msgid "$Vibration_PS"
+msgstr "컨트롤러 진동"
+
+msgid "$Vibration Desc_PS"
+msgstr "컨트롤러 진동을 켜거나 끕니다."
+
+msgid "$ViewIncludedCreations"
+msgstr "포함된 크리에이션 보기"
+
+msgid "$WeaponRarityAndType_Exotic {0}"
+msgstr "\"엑조틱\" {0}"
+
+msgid "$Workshop_TogglePrecise"
+msgstr "정밀 배치 전환"
+
+msgid "$Workshop_TogglePrecise_GP"
+msgstr "정밀 배치 전환"
+
+msgid "$Workshop_TogglePrecise_KBM"
+msgstr "정밀 배치 전환"

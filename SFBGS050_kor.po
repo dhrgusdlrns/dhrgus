@@ -56224,21 +56224,21 @@ msgstr " "
 #. FormID: 0203D12E
 msgctxt "0018D1"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0203D12D
 msgctxt "0018D2"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0203D12C
 msgctxt "0018D3"
 msgid " "
-msgstr ""
+msgstr " "
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -66239,308 +66239,308 @@ msgstr "우리는 지금까지 너무나도 잘못된 길을 걸어왔다."
 #. FormID: 020518D7
 msgctxt "001EE6"
 msgid "[Lie] We've lost the fight. It's time to make a new life. Start over."
-msgstr ""
+msgstr "[Lie] 우리는 싸움에서 졌어. 새 삶을 시작할 때야. 다시 시작하는 거지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518D6
 msgctxt "001EE7"
 msgid "[Lie] The Armada's been defeated. Lay low. Start a new life."
-msgstr ""
+msgstr "[Lie] 아르마다는 패배했어. 몸을 숨기고 새 삶을 시작해."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02051A4F
 msgctxt "001EE8"
 msgid "Just try and change my mind."
-msgstr ""
+msgstr "어디 한번 내 마음을 바꿔 봐."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02051A4E
 msgctxt "001EE9"
 msgid "Misguided? The only one here misguided is you."
-msgstr ""
+msgstr "잘못됐다고? 여기서 잘못된 건 너뿐이야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02051A5A
 msgctxt "001EEA"
 msgid "Good luck with that."
-msgstr ""
+msgstr "잘해 보시지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02051A59
 msgctxt "001EEB"
 msgid "Back me up!"
-msgstr ""
+msgstr "엄호해!"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02051A5D
 msgctxt "001EEC"
 msgid "[Attack] I'm not taking any chances."
-msgstr ""
+msgstr "[Attack] 위험은 남기지 않겠어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02051A5C
 msgctxt "001EED"
 msgid "[Attack] Delta's assessment sounds fair to me."
-msgstr ""
+msgstr "[Attack] 델타의 평가가 타당해 보이는군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02051A4B
 msgctxt "001EEE"
 msgid "Good, now let's focus on how misguided the Terran cause is."
-msgstr ""
+msgstr "좋아, 이제 테란의 대의가 얼마나 잘못됐는지에 집중해 보자고."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02051A4A
 msgctxt "001EEF"
 msgid "Now all you need to admit is how misguided your cause is."
-msgstr ""
+msgstr "이제 네 대의가 얼마나 잘못됐는지만 인정하면 돼."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02051896
 msgctxt "001EF0"
 msgid "What makes you think you can take on the United Colonies and the Freestar Collective and win?"
-msgstr ""
+msgstr "식민지 연합과 자유항성 공동체를 상대로 싸워서 이길 수 있다고 생각하는 근거가 뭐지?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02051895
 msgctxt "001EF1"
 msgid "You're one small faction. Do you really think you stand a chance?"
-msgstr ""
+msgstr "너희는 작은 세력 하나일 뿐이야. 정말 승산이 있다고 생각해?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02051894
 msgctxt "001EF2"
 msgid "Do you really think you can take on the Settled Systems and win?"
-msgstr ""
+msgstr "정말 개척 성계 전체를 상대해서 이길 수 있다고 생각해?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205188B
 msgctxt "001EF3"
 msgid "The Terran Armada is going to bring about a true age of peace by uniting everyone under a single banner."
-msgstr ""
+msgstr "테란 아르마다는 모두를 하나의 깃발 아래 통합해 진정한 평화의 시대를 열 것이다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205188B
 msgctxt "001EF4"
 msgid "Just because the Colony War is over doesn't mean the people in power have superior morals or motivations to their predecessors. "
-msgstr ""
+msgstr "식민지 전쟁이 끝났다고 해서 권력자들의 도덕성이나 동기가 선대보다 낫다는 뜻은 아니야. "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205188A
 msgctxt "001EF5"
 msgid "The Terran Armada will bring a new age of peace for all."
-msgstr ""
+msgstr "테란 아르마다는 모두를 위한 새로운 평화의 시대를 열 것이다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205188A
 msgctxt "001EF6"
 msgid "The leaders of the Settled Systems cannot be trusted. Tech may be banned, but their motivations are still as selfish as ever."
-msgstr ""
+msgstr "개척 성계의 지도자들은 믿을 수 없어. 기술은 금지됐을지 몰라도 그들의 동기는 여전히 이기적이야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205188A
 msgctxt "001EF7"
 msgid "What the people in power did during the Colony War was unforgivable. "
-msgstr ""
+msgstr "식민지 전쟁 중 권력자들이 저지른 일은 용서받을 수 없어. "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02051889
 msgctxt "001EF8"
 msgid "The Terran Armada will establish a true age of peace and war will be a thing of the past."
-msgstr ""
+msgstr "테란 아르마다는 진정한 평화의 시대를 세울 것이고, 전쟁은 과거의 일이 될 것이다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02051889
 msgctxt "001EF9"
 msgid "And their intentions cost the lives of thousands. "
-msgstr ""
+msgstr "그리고 그 의도 때문에 수천 명이 목숨을 잃었지. "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02051889
 msgctxt "001EFA"
 msgid "The Colony War was full of atrocities. The people in power had no respect. No decency. "
-msgstr ""
+msgstr "식민지 전쟁은 잔혹 행위로 가득했어. 권력자들에게는 존중도 없었고, 품위도 없었지. "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518BA
 msgctxt "001EFB"
 msgid "You can't possibly imagine the amount of preparation we've done for this. Your very question shows how you underestimate us."
-msgstr ""
+msgstr "우리가 이 일을 위해 얼마나 준비했는지 너는 상상도 못 할 거야. 그런 질문 자체가 네가 우리를 얼마나 과소평가하는지 보여 주는군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518B9
 msgctxt "001EFC"
 msgid "It's been over twenty years since the Colony War. What do you think we've been doing all that time? "
-msgstr ""
+msgstr "식민지 전쟁이 끝난 지 20년도 넘었어. 그동안 우리가 뭘 하고 있었다고 생각하지? "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518B8
 msgctxt "001EFD"
 msgid "We've done nothing but prepare after the Colony War. You have no idea what you're up against."
-msgstr ""
+msgstr "우리는 식민지 전쟁 이후 준비만 해 왔다. 네가 뭘 상대하고 있는지 전혀 모르는군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518A3
 msgctxt "001EFE"
 msgid "We've all had a pervasive feeling of... wrongness since it started. And you've helped to open our eyes."
-msgstr ""
+msgstr "시작된 뒤로 우리 모두에게는 줄곧... 뭔가 잘못됐다는 느낌이 퍼져 있었다. 그리고 네가 우리의 눈을 뜨게 해 줬어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518A3
 msgctxt "001EFF"
 msgid "There is a level of hypocrisy and extremism that's hard to ignore now that we've entered into this battle. "
-msgstr ""
+msgstr "이 전투에 뛰어들고 보니 외면하기 힘든 수준의 위선과 극단주의가 보이더군. "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518A3
 msgctxt "001F00"
 msgid "I think everyone here would agree that we've had our doubts with leadership for some time now."
-msgstr ""
+msgstr "여기 있는 모두가 한동안 지도부에 의구심을 품고 있었다는 데 동의할 거라고 생각해."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518A2
 msgctxt "001F01"
 msgid "I think my fellow soldiers here would agree, we were misled."
-msgstr ""
+msgstr "내 전우들도 동의할 거야. 우리는 속았어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518A2
 msgctxt "001F02"
 msgid "Returning to the Settled Systems has been eye opening. It's not the place of evil we all believed it to be."
-msgstr ""
+msgstr "개척 성계로 돌아와 보니 눈이 뜨였어. 우리가 믿었던 것처럼 악의 땅은 아니더군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518A2
 msgctxt "001F03"
 msgid "I would be remiss to not admit I've... struggled with the words of our leaders of late."
-msgstr ""
+msgstr "최근 우리 지도자들의 말에... 흔들렸다는 걸 인정하지 않으면 정직하지 못한 거겠지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518A1
 msgctxt "001F04"
 msgid "The Settled Systems may still be misguided, but not as misguided as we've been."
-msgstr ""
+msgstr "개척 성계가 아직 잘못된 길을 가고 있을지는 몰라도, 우리가 그랬던 것만큼은 아니야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518A1
 msgctxt "001F05"
 msgid "I admit, I've had my doubts with our leaders for some time, but your words have finally convinced me. "
-msgstr ""
+msgstr "인정하지. 나는 한동안 우리 지도자들에게 의구심을 품고 있었어. 하지만 네 말이 마침내 나를 설득했다. "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518D1
 msgctxt "001F06"
 msgid "Is that so? Perhaps there is hope for some in the Settled Systems after all."
-msgstr ""
+msgstr "그래? 어쩌면 개척 성계에도 아직 희망이 있는 자들이 있나 보군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518D0
 msgctxt "001F07"
 msgid "I suppose there's a first chance for everything."
-msgstr ""
+msgstr "무슨 일이든 첫 기회라는 건 있는 법이지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518CF
 msgctxt "001F08"
 msgid "Now that's a first. But it's about time someone from the Settled Systems was willing to listen."
-msgstr ""
+msgstr "이건 처음이군. 그래도 개척 성계 사람이 들을 마음을 먹을 때가 되긴 했지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518AA
 msgctxt "001F09"
 msgid "I'd like to get a better understanding on why you're with the Armada."
-msgstr ""
+msgstr "네가 왜 아르마다에 있는지 더 잘 이해하고 싶어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518A9
 msgctxt "001F0A"
 msgid "I only want to exchange points of view and try to understand."
-msgstr ""
+msgstr "나는 그저 관점을 나누고 이해해 보려는 것뿐이야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518A8
 msgctxt "001F0B"
 msgid "I just want to hear your side of the story."
-msgstr ""
+msgstr "네 입장을 들어 보고 싶을 뿐이야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205188F
 msgctxt "001F0C"
 msgid "If you want to preach, you've come to the wrong place."
-msgstr ""
+msgstr "설교하러 온 거라면 번지수를 잘못 찾았어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205188E
 msgctxt "001F0D"
 msgid "Let me stop you right there. We're a necessary force. The Settled Systems needs guidance and the Terran Armada will provide it."
-msgstr ""
+msgstr "거기서 멈춰. 우리는 필요한 힘이다. 개척 성계에는 지도가 필요하고, 테란 아르마다가 그 역할을 할 거야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205188D
 msgctxt "001F0E"
 msgid "No, you may not recognize it, but the Settled Systems needs us. "
-msgstr ""
+msgstr "아니, 네가 알아보지 못할 뿐 개척 성계에는 우리가 필요해. "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518BE
 msgctxt "001F0F"
 msgid "The Terran Armada are extremists. You're on the wrong side."
-msgstr ""
+msgstr "테란 아르마다는 극단주의자들이야. 넌 잘못된 편에 서 있어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518BD
 msgctxt "001F10"
 msgid "Abandon this fight. It's misguided and foolish."
-msgstr ""
+msgstr "이 싸움을 포기해. 잘못됐고 어리석은 일이야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020518BC
 msgctxt "001F11"
 msgid "I'm here to convince you to leave the Terran Armada."
-msgstr ""
+msgstr "난 네가 테란 아르마다를 떠나도록 설득하러 왔어."
 
 #. List: 2
 #. EDID: SFTER_INC_SCP_SoldierFinalPlayerChoiceC03
@@ -66548,7 +66548,7 @@ msgstr ""
 #. FormID: 02051A63
 msgctxt "001F12"
 msgid "[Attack] There's only one way to atone for what you've done."
-msgstr ""
+msgstr "[Attack] 네가 저지른 일을 속죄할 방법은 하나뿐이야."
 
 #. List: 2
 #. EDID: SFTER_INC_SCP_SoldierFinalPlayerChoiceC02
@@ -66556,7 +66556,7 @@ msgstr ""
 #. FormID: 02051A62
 msgctxt "001F13"
 msgid "[Attack] You know the truth, so you know you deserve this."
-msgstr ""
+msgstr "[Attack] 넌 진실을 알고 있어. 그러니 네가 이걸 받아 마땅하다는 것도 알겠지."
 
 #. List: 2
 #. EDID: SFTER_INC_SCP_SoldierFinalPlayerChoiceC01
@@ -66564,7 +66564,7 @@ msgstr ""
 #. FormID: 02051A61
 msgctxt "001F14"
 msgid "[Attack] Now that you've seen the truth, you can pay the price."
-msgstr ""
+msgstr "[Attack] 이제 진실을 봤으니, 대가를 치를 차례야."
 
 #. List: 2
 #. EDID: SFTER_CREW_EliteCrew_ExteriorReality
@@ -66572,35 +66572,35 @@ msgstr ""
 #. FormID: 0205D009
 msgctxt "001F15"
 msgid "Correct. Counterpoint: Must wait for exterior reality to catch up after solution discovery."
-msgstr ""
+msgstr "정확함. 반론: 해결책 발견 후 외부 현실이 따라잡을 때까지 대기 필요."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205D01B
 msgctxt "001F16"
 msgid "Correct. X-Tech's properties resulted in exponentially increased processing efficiency. Reason currently unknown."
-msgstr ""
+msgstr "정확함. X-테크의 특성으로 처리 효율이 기하급수적으로 증가. 현재 이유 불명."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02051A69
 msgctxt "001F17"
 msgid "Examples:"
-msgstr ""
+msgstr "예시:"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205D008
 msgctxt "001F18"
 msgid "Logging emotional response: Frustration."
-msgstr ""
+msgstr "감정 반응 기록: 좌절."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205D01D
 msgctxt "001F19"
 msgid "That desyncing probably stems from your X-Tech chip."
-msgstr ""
+msgstr "그 비동기화는 아마 네 X-테크 칩에서 비롯된 것 같아."
 
 #. List: 2
 #. EDID: SFTER_CREW_EliteCrew_Delta_Confused
@@ -66608,42 +66608,42 @@ msgstr ""
 #. FormID: 0205D016
 msgctxt "001F1A"
 msgid "Confused. Delta Unit not above anything of significance currently."
-msgstr ""
+msgstr "혼란. 델타 유닛은 현재 유의미한 어떤 것 위에도 있지 않음."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205D020
 msgctxt "001F1B"
 msgid "You're saying that everything looks slow for you now."
-msgstr ""
+msgstr "이제 네 눈에는 모든 게 느리게 보인다는 거군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205D019
 msgctxt "001F1C"
 msgid "This doesn't sound like a bad thing, you can always think ahead."
-msgstr ""
+msgstr "나쁜 일처럼 들리진 않는데. 언제든 앞서 생각할 수 있잖아."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205D018
 msgctxt "001F1D"
 msgid "Makes sense for how on top of things you seem to be."
-msgstr ""
+msgstr "네가 그렇게 상황을 잘 파악하는 이유로는 말이 되네."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205D01A
 msgctxt "001F1E"
 msgid "Correct. Exterior is slow comparatively."
-msgstr ""
+msgstr "정확함. 외부가 상대적으로 느림."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0203B664
 msgctxt "001F1F"
 msgid "Moving on."
-msgstr ""
+msgstr "다음으로 넘어가자."
 
 #. List: 2
 #. EDID: SFTER_MS02_AudioLogs_SI_Percy03B
@@ -66651,7 +66651,7 @@ msgstr ""
 #. FormID: 0205DC41
 msgctxt "001F3F"
 msgid "They are no people of mine. I have no love lost for either Freestar or the UC."
-msgstr ""
+msgstr "그들은 내 사람들이 아니야. 나는 자유항성도 UC도 좋아하지 않아."
 
 #. List: 2
 #. EDID: SFTER_MS02_AudioLogs_SI_Percy03A
@@ -66659,14 +66659,14 @@ msgstr ""
 #. FormID: 0205D075
 msgctxt "001F40"
 msgid "They are no people of mine. Va'ruun has no love lost for either Freestar or the UC."
-msgstr ""
+msgstr "그들은 내 사람들이 아니야. 바룬은 자유항성도 UC도 좋아하지 않아."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC40
 msgctxt "001F41"
 msgid "But the enemy of my enemy is surely something you militaristic lot can understand."
-msgstr ""
+msgstr "하지만 내 적의 적이라는 개념은 너희 같은 군사주의자들도 이해할 수 있겠지."
 
 #. List: 2
 #. EDID: SFTER_INC_SPP_Thanks10
@@ -66674,7 +66674,7 @@ msgstr ""
 #. FormID: 0205DC73
 msgctxt "001F42"
 msgid "Your timing couldn't have been better. We're alive, thanks to you."
-msgstr ""
+msgstr "타이밍이 이보다 좋을 수는 없었어. 네 덕분에 살았어."
 
 #. List: 2
 #. EDID: SFTER_INC_SPP_Thanks09
@@ -66682,7 +66682,7 @@ msgstr ""
 #. FormID: 0205DC72
 msgctxt "001F43"
 msgid "Those Terrans almost had us. I've never been so thankful for reinforcements."
-msgstr ""
+msgstr "그 테란들이 우리를 거의 잡을 뻔했어. 지원 병력이 이렇게 고마운 적은 처음이야."
 
 #. List: 2
 #. EDID: SFTER_INC_SPP_Thanks08
@@ -66690,7 +66690,7 @@ msgstr ""
 #. FormID: 0205DC71
 msgctxt "001F44"
 msgid "Thank god you showed up. We owe you our lives."
-msgstr ""
+msgstr "네가 와 줘서 정말 다행이야. 우리는 목숨을 빚졌어."
 
 #. List: 2
 #. EDID: SFTER_INC_SPP_Thanks07
@@ -66698,7 +66698,7 @@ msgstr ""
 #. FormID: 0205DC70
 msgctxt "001F45"
 msgid "Are we glad to see you. We weren't going to last much longer."
-msgstr ""
+msgstr "널 보니 얼마나 반가운지 몰라. 더는 오래 버티지 못했을 거야."
 
 #. List: 2
 #. EDID: SFTER_INC_SPP_Thanks06
@@ -66706,7 +66706,7 @@ msgstr ""
 #. FormID: 0205DC6F
 msgctxt "001F46"
 msgid "Thanks for the save! Those Terrans came out of nowhere."
-msgstr ""
+msgstr "구해 줘서 고마워! 그 테란들이 갑자기 튀어나왔어."
 
 #. List: 2
 #. EDID: SFTER_INC_SPP_Thanks05
@@ -66714,7 +66714,7 @@ msgstr ""
 #. FormID: 0205DC6E
 msgctxt "001F47"
 msgid "I thought those Terrans had us. You showed up just in time."
-msgstr ""
+msgstr "그 테란들에게 끝장나는 줄 알았어. 정말 제때 나타났군."
 
 #. List: 2
 #. EDID: SFTER_INC_SPP_Thanks04
@@ -66722,7 +66722,7 @@ msgstr ""
 #. FormID: 0205DC6D
 msgctxt "001F48"
 msgid "You saved our lives. We owe you one."
-msgstr ""
+msgstr "우리 목숨을 구했어. 신세 하나 졌군."
 
 #. List: 2
 #. EDID: SFTER_INC_SPP_Thanks03
@@ -66730,7 +66730,7 @@ msgstr ""
 #. FormID: 0205DC6C
 msgctxt "001F49"
 msgid "I've never been so happy to see a friendly face! "
-msgstr ""
+msgstr "우호적인 얼굴을 보고 이렇게 기뻤던 적은 없어! "
 
 #. List: 2
 #. EDID: SFTER_INC_SPP_Thanks02
@@ -66738,7 +66738,7 @@ msgstr ""
 #. FormID: 0205DC6B
 msgctxt "001F4A"
 msgid "You showed up just in time. I thought we were dead."
-msgstr ""
+msgstr "정말 제때 나타났어. 죽는 줄 알았다고."
 
 #. List: 2
 #. EDID: SFTER_INC_SPP_Thanks01
@@ -66746,147 +66746,147 @@ msgstr ""
 #. FormID: 0205DC6A
 msgctxt "001F4B"
 msgid "Thanks! I didn't think we'd survive that."
-msgstr ""
+msgstr "고마워! 살아남을 줄은 몰랐어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC5D
 msgctxt "001F4C"
 msgid "Everything? Now I know you're lying."
-msgstr ""
+msgstr "전부라고? 이제 네가 거짓말하는 걸 알겠군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC5C
 msgctxt "001F4D"
 msgid "I wouldn't say everything..."
-msgstr ""
+msgstr "전부라고까지는 안 하겠지만..."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC5B
 msgctxt "001F4E"
 msgid "Everything points to you being Terrans. Why deny it? "
-msgstr ""
+msgstr "모든 증거가 너희가 테란이라는 걸 가리켜. 왜 부정하지? "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC61
 msgctxt "001F4F"
 msgid "You can trust me. This will work in your favor."
-msgstr ""
+msgstr "날 믿어도 돼. 이건 너에게 유리하게 작용할 거야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC60
 msgctxt "001F50"
 msgid "Just be honest with me, be reasonable."
-msgstr ""
+msgstr "솔직하게 말해. 이성적으로 굴라고."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC5F
 msgctxt "001F51"
 msgid "Once the truth is out, this all gets easier."
-msgstr ""
+msgstr "진실이 드러나면 이 모든 게 쉬워져."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC5A
 msgctxt "001F52"
 msgid "I told you the truth. It's not my fault you won't believe it."
-msgstr ""
+msgstr "난 진실을 말했어. 네가 믿지 않는 건 내 탓이 아니야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC59
 msgctxt "001F53"
 msgid "But I already told you the truth."
-msgstr ""
+msgstr "하지만 이미 진실을 말했잖아."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC58
 msgctxt "001F54"
 msgid "I'm already being honest here."
-msgstr ""
+msgstr "난 지금도 솔직하게 말하고 있어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC56
 msgctxt "001F55"
 msgid "All cards on the table, huh?"
-msgstr ""
+msgstr "패를 전부 까자는 건가?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC55
 msgctxt "001F56"
 msgid "I get where you're coming from. Believe me."
-msgstr ""
+msgstr "네 입장은 이해해. 정말이야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC54
 msgctxt "001F57"
 msgid "I can see why you'd say that."
-msgstr ""
+msgstr "왜 그렇게 말하는지는 알겠어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205E465
 msgctxt "001F58"
 msgid "I don't care what story you want to go with, but we can get to that later."
-msgstr ""
+msgstr "네가 어떤 이야기를 믿고 싶든 상관없어. 그건 나중에 다루자고."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205E465
 msgctxt "001F59"
 msgid "First the Vanguard, now the Rangers? You sure get around."
-msgstr ""
+msgstr "뱅가드에 이어 레인저까지? 참 여기저기 다니는군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC3F
 msgctxt "001F5A"
 msgid "Out of the way!"
-msgstr ""
+msgstr "비켜!"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC46
 msgctxt "001F5B"
 msgid "Ugh..."
-msgstr ""
+msgstr "으윽..."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC45
 msgctxt "001F5C"
 msgid "No, make it stop..."
-msgstr ""
+msgstr "안 돼, 멈춰 줘..."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC44
 msgctxt "001F5D"
 msgid "Move, move!"
-msgstr ""
+msgstr "움직여, 움직여!"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC43
 msgctxt "001F5E"
 msgid "Please, don't!"
-msgstr ""
+msgstr "제발, 그러지 마!"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC42
 msgctxt "001F5F"
 msgid "Aaah!"
-msgstr ""
+msgstr "아아악!"
 
 #. List: 2
 #. EDID: SFTER_INC_SCP_SoldierFinalResponseB01
@@ -66894,7 +66894,7 @@ msgstr ""
 #. FormID: 0205DC23
 msgctxt "001F7F"
 msgid "Thank you for setting us straight."
-msgstr ""
+msgstr "우리를 바로잡아 줘서 고마워."
 
 #. List: 2
 #. EDID: SFTER_INC_SCP_SoldierFinalResponseB01
@@ -66902,7 +66902,7 @@ msgstr ""
 #. FormID: 0205DC23
 msgctxt "001F80"
 msgid "Once we've found somewhere to settle, we'll make sure others will have a safe space to go."
-msgstr ""
+msgstr "정착할 곳을 찾고 나면, 다른 사람들도 갈 수 있는 안전한 공간을 마련할게."
 
 #. List: 2
 #. EDID: SFTER_INC_SCP_SoldierFinalResponseB01
@@ -66910,7 +66910,7 @@ msgstr ""
 #. FormID: 0205DC23
 msgctxt "001F81"
 msgid "You're... you're right. Our situation won't allow for much, but we'll do what we can."
-msgstr ""
+msgstr "네... 네 말이 맞아. 우리 처지상 많은 건 못 하겠지만, 할 수 있는 건 해 볼게."
 
 #. List: 2
 #. EDID: SFTER_INC_SCP_SoldierFinalResponseB02
@@ -66918,7 +66918,7 @@ msgstr ""
 #. FormID: 0205DC22
 msgctxt "001F82"
 msgid "Hopefully, we can help others as you helped us today."
-msgstr ""
+msgstr "오늘 네가 우리를 도와준 것처럼, 우리도 다른 사람들을 도울 수 있으면 좋겠어."
 
 #. List: 2
 #. EDID: SFTER_INC_SCP_SoldierFinalResponseB02
@@ -66926,7 +66926,7 @@ msgstr ""
 #. FormID: 0205DC22
 msgctxt "001F83"
 msgid "It'll be our first priority once we can set up a small base of operations."
-msgstr ""
+msgstr "작은 작전 거점이라도 세울 수 있게 되면 그걸 최우선으로 삼을게."
 
 #. List: 2
 #. EDID: SFTER_INC_SCP_SoldierFinalResponseB02
@@ -66934,7 +66934,7 @@ msgstr ""
 #. FormID: 0205DC22
 msgctxt "001F84"
 msgid "You're right. Our fight doesn't end here, it just changes direction."
-msgstr ""
+msgstr "네 말이 맞아. 우리의 싸움은 여기서 끝나는 게 아니라 방향이 바뀌는 거야."
 
 #. List: 2
 #. EDID: SFTER_INC_SCP_SoldierFinalResponseB03
@@ -66942,7 +66942,7 @@ msgstr ""
 #. FormID: 0205DC21
 msgctxt "001F85"
 msgid "Thanks to you, we'll be able to provide that route for them."
-msgstr ""
+msgstr "네 덕분에 우리가 그들에게 그런 길을 마련해 줄 수 있을 거야."
 
 #. List: 2
 #. EDID: SFTER_INC_SCP_SoldierFinalResponseB03
@@ -66950,7 +66950,7 @@ msgstr ""
 #. FormID: 0205DC21
 msgctxt "001F86"
 msgid "I know many who would leap at the opportunity to get out, if only they knew how."
-msgstr ""
+msgstr "빠져나갈 방법만 알았다면 당장이라도 기회를 잡을 사람이 많다는 걸 알아."
 
 #. List: 2
 #. EDID: SFTER_INC_SCP_SoldierFinalResponseB03
@@ -66958,882 +66958,882 @@ msgstr ""
 #. FormID: 0205DC21
 msgctxt "001F87"
 msgid "As soon as we're able, it will be the least we can do."
-msgstr ""
+msgstr "할 수 있게 되는 즉시, 그 정도는 우리가 해야 할 최소한의 일이야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC3B
 msgctxt "001F88"
 msgid "What is it now?"
-msgstr ""
+msgstr "이번엔 또 뭐야?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC3A
 msgctxt "001F89"
 msgid "You're still here?"
-msgstr ""
+msgstr "아직도 여기 있어?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020517DE
 msgctxt "001F8A"
 msgid "Yes, we're the enemy. We're Terrans. Now start talking before I put a bullet in your brain."
-msgstr ""
+msgstr "그래, 우리가 적이다. 우리는 테란이야. 이제 말해. 안 그러면 네 머리에 총알을 박아 주지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020517DD
 msgctxt "001F8B"
 msgid "We're Terrans, and I think we both know you better have a pretty good story, or you aren't walking away from here alive."
-msgstr ""
+msgstr "우리는 테란이고, 너도 꽤 그럴듯한 이야기가 없으면 여기서 살아서 못 나간다는 걸 알겠지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020517DC
 msgctxt "001F8C"
 msgid "We're Terrans. And now that you know, you better start talking."
-msgstr ""
+msgstr "우리는 테란이야. 이제 알았으니 말문을 여는 게 좋을 거다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC1D
 msgctxt "001F8D"
 msgid "Thank you. I know you didn't have to deal with my attitude or try to convince us of the truth, but we appreciate it all the same."
-msgstr ""
+msgstr "고마워. 내 태도를 받아 줄 필요도, 우리에게 진실을 납득시키려 애쓸 필요도 없었는데, 그래도 고맙게 생각해."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC1D
 msgctxt "001F8E"
 msgid "You're right. A small group like us with no ships or robots isn't worth the recovery effort when we turn up missing."
-msgstr ""
+msgstr "네 말이 맞아. 함선도 로봇도 없는 우리 같은 소규모 집단은 실종돼도 회수 작전을 벌일 가치가 없겠지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC1C
 msgctxt "001F8F"
 msgid "You got through to me, and I'm in your debt."
-msgstr ""
+msgstr "넌 내 마음을 움직였어. 신세를 졌군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC1C
 msgctxt "001F90"
 msgid "And hey, sorry about the attitude back there. I was just hoping to run you off rather than follow protocol, if you know what I mean."
-msgstr ""
+msgstr "그리고 아까 태도가 나빴던 건 미안해. 무슨 말인지 알겠지만, 규약대로 하기보다는 그냥 널 쫓아내고 싶었을 뿐이야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC1C
 msgctxt "001F91"
 msgid "It sure is the perfect opportunity. The Terrans will write us off as just another lost scouting party."
-msgstr ""
+msgstr "정말 완벽한 기회야. 테란들은 우리를 그냥 또 하나의 실종 정찰대로 처리할 거야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC1B
 msgctxt "001F92"
 msgid "We don't deserve this chance, but we'll make the most of it."
-msgstr ""
+msgstr "우리는 이 기회를 받을 자격이 없지만, 최대한 잘 활용할게."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC1B
 msgctxt "001F93"
 msgid "Look, I know I wasn't the easiest to deal with, so I appreciate you trying to get through to me. "
-msgstr ""
+msgstr "봐, 내가 상대하기 쉬운 사람은 아니었다는 거 알아. 그래도 내게 닿으려고 애써 준 건 고맙게 생각해. "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC1B
 msgctxt "001F94"
 msgid "You're right, and the timing is ideal since we're already out here. With any luck, we'll be labeled MIA and forgotten."
-msgstr ""
+msgstr "네 말이 맞아. 이미 밖에 나와 있으니 타이밍도 딱 좋아. 운이 좋으면 MIA로 분류되고 잊히겠지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC52
 msgctxt "001F95"
 msgid "You just need to look at the big picture. "
-msgstr ""
+msgstr "넌 큰 그림을 봐야 해. "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC51
 msgctxt "001F96"
 msgid "I can see how this looks..."
-msgstr ""
+msgstr "이게 어떻게 보일지는 알아..."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC50
 msgctxt "001F97"
 msgid "You're the ones breaking the peace. It's so hypocritical."
-msgstr ""
+msgstr "평화를 깨는 건 너희야. 정말 위선적이군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC69
 msgctxt "001F98"
 msgid "The Settled Systems left us no choice."
-msgstr ""
+msgstr "개척 성계가 우리에게 다른 선택지를 남기지 않았어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC68
 msgctxt "001F99"
 msgid "We do what we must."
-msgstr ""
+msgstr "우리는 해야 할 일을 할 뿐이다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC67
 msgctxt "001F9A"
 msgid "It's a means to an end."
-msgstr ""
+msgstr "목적을 위한 수단일 뿐이야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC65
 msgctxt "001F9B"
 msgid " I do sometimes wonder..."
-msgstr ""
+msgstr " 가끔은 나도 생각해..."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC64
 msgctxt "001F9C"
 msgid "It's not like I've never questioned anything."
-msgstr ""
+msgstr "내가 한 번도 의문을 품지 않은 건 아니야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC63
 msgctxt "001F9D"
 msgid "I have my doubts on occasion..."
-msgstr ""
+msgstr "가끔은 의심이 들기도 해..."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC77
 msgctxt "001F9E"
 msgid "You know what you're doing is wrong, and yet, you do nothing to stop it."
-msgstr ""
+msgstr "네가 하는 일이 잘못됐다는 걸 알면서도, 넌 그걸 막기 위해 아무것도 하지 않아."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC76
 msgctxt "001F9F"
 msgid "Don't act like you can't see how delusional your leaders are."
-msgstr ""
+msgstr "네 지도자들이 얼마나 망상에 빠져 있는지 못 보는 척하지 마."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0205DC75
 msgctxt "001FA0"
 msgid "You know what you're doing is wrong."
-msgstr ""
+msgstr "네가 하는 일이 잘못됐다는 걸 알고 있잖아."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0200FB19
 msgctxt "001FA1"
 msgid "Only human allowed to work on Delta Unit."
-msgstr ""
+msgstr "델타 유닛 작업은 인간만 허용됨."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0200FB19
 msgctxt "001FA2"
 msgid "Counterpoint: Dr. Bourreau best suited for task. Has understanding of intricacies of original construction and modifications made. Work is proficient and deft."
-msgstr ""
+msgstr "반론: 부로 박사가 작업에 최적. 원래 구조와 적용된 개조의 복잡성 이해. 작업 능숙하고 정교함."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0202C52B
 msgctxt "001FA3"
 msgid "Prior to physical transfer, operated at maximum efficiency. Friction, overheating, and other restrictions classified as irrelevant."
-msgstr ""
+msgstr "물리적 이전 전에는 최대 효율로 작동. 마찰, 과열 및 기타 제약은 무관한 것으로 분류."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618E5
 msgctxt "001FE7"
 msgid "Do you need to take a break?"
-msgstr ""
+msgstr "잠깐 쉬어야 해?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618E4
 msgctxt "001FE8"
 msgid "I'm all ears."
-msgstr ""
+msgstr "듣고 있어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618E3
 msgctxt "001FE9"
 msgid "Take your time."
-msgstr ""
+msgstr "천천히 해."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618F3
 msgctxt "001FEA"
 msgid "Anything you need?"
-msgstr ""
+msgstr "필요한 것 있나?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618F2
 msgctxt "001FEB"
 msgid "A pleasure."
-msgstr ""
+msgstr "반갑군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618F1
 msgctxt "001FEC"
 msgid "Always on the move."
-msgstr ""
+msgstr "늘 바쁘게 움직이는군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618F0
 msgctxt "001FED"
 msgid "Ryujin will remain available to help clean up the mess left behind by the Terrans."
-msgstr ""
+msgstr "류진은 테란들이 남긴 혼란을 수습하는 데 계속 도움을 줄 겁니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618EF
 msgctxt "001FEE"
 msgid "If you come across any Terran threats, do let us know."
-msgstr ""
+msgstr "테란 위협을 발견하면 알려 주십시오."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618CF
 msgctxt "001FEF"
 msgid "I look forward to our next encounter."
-msgstr ""
+msgstr "다음 만남을 기대하겠습니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618CE
 msgctxt "001FF0"
 msgid "I'll be here, as always."
-msgstr ""
+msgstr "저는 늘 그렇듯 여기 있겠습니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618B6
 msgctxt "001FF1"
 msgid "You lack business acumen."
-msgstr ""
+msgstr "당신은 비즈니스 감각이 부족하군요."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618B5
 msgctxt "001FF2"
 msgid "Do not open a deal you cannot close."
-msgstr ""
+msgstr "마무리할 수 없는 거래를 시작하지 마십시오."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618B4
 msgctxt "001FF3"
 msgid "Luck will not favor you long."
-msgstr ""
+msgstr "행운이 오래 따르지는 않을 겁니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618C3
 msgctxt "001FF4"
 msgid "This was not in the contract..."
-msgstr ""
+msgstr "이건 계약에 없던 일인데..."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618E9
 msgctxt "001FF5"
 msgid "Desist now!"
-msgstr ""
+msgstr "지금 중지하십시오!"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618E8
 msgctxt "001FF6"
 msgid "You are simply adding to my hazard pay."
-msgstr ""
+msgstr "제 위험 수당만 늘리고 있을 뿐입니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618E7
 msgctxt "001FF7"
 msgid "My insurance will cover that!"
-msgstr ""
+msgstr "그건 제 보험이 처리할 겁니다!"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618D8
 msgctxt "001FF8"
 msgid "What can you tell me about Radha?"
-msgstr ""
+msgstr "라다에 대해 무엇을 말해 줄 수 있지?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618A4
 msgctxt "001FF9"
 msgid "Those who do not keep the mistakes of our history in mind are bound to repeat them."
-msgstr ""
+msgstr "역사의 실수를 마음에 새기지 않는 자들은 반드시 그것을 반복하게 됩니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618AA
 msgctxt "001FFA"
 msgid "It has not been long, but I value her perspective. It is my mantra to learn what I can from those who have collected more experience."
-msgstr ""
+msgstr "오래되지는 않았지만, 저는 그녀의 관점을 소중히 여깁니다. 더 많은 경험을 쌓은 사람들에게서 배울 수 있는 것은 배우는 것이 제 신조입니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618B8
 msgctxt "001FFB"
 msgid "I am confident we can utilize his expertise to help decide our best courses of action."
-msgstr ""
+msgstr "그의 전문 지식을 활용하면 우리가 최선의 행동 방침을 결정하는 데 도움이 될 것이라 확신합니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618E0
 msgctxt "001FFC"
 msgid "From what I've gathered, you appear most capable. If you need anything, I hope you will not hesitate to bring it to my attention."
-msgstr ""
+msgstr "제가 들은 바로는 당신은 매우 유능해 보입니다. 필요한 것이 있다면 주저하지 말고 제게 알려 주시길 바랍니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618DF
 msgctxt "001FFD"
 msgid "If you come across anything worth noting out there, I hope you will not hesitate to involve me."
-msgstr ""
+msgstr "밖에서 주목할 만한 것을 발견하면 주저하지 말고 저를 끌어들여 주시길 바랍니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618DF
 msgctxt "001FFE"
 msgid "From what I hear across the Ryujin offices, you are a most capable operative."
-msgstr ""
+msgstr "류진 사무실 곳곳에서 들은 바로는, 당신은 매우 유능한 요원이라고 하더군요."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618A7
 msgctxt "001FFF"
 msgid "What's VOID again?"
-msgstr ""
+msgstr "VOID가 뭐였지?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618CB
 msgctxt "002000"
 msgid "And I assure you my intentions are pure. I wish only to fulfill Ryujin's stake in these operations and restore our good name."
-msgstr ""
+msgstr "그리고 제 의도는 순수하다고 확언드립니다. 저는 그저 이 작전에서 류진의 지분을 이행하고 우리의 명예를 회복하고 싶을 뿐입니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618D5
 msgctxt "002001"
 msgid "I hope we can turn to you again in the future, if need be."
-msgstr ""
+msgstr "필요하다면 앞으로도 다시 당신에게 의지할 수 있기를 바랍니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618DB
 msgctxt "002002"
 msgid "As before VOID continues to prepare for potential threats to the Settled Systems -- Terran or otherwise."
-msgstr ""
+msgstr "이전과 마찬가지로 VOID는 테란이든 아니든 개척 성계에 대한 잠재적 위협에 대비하고 있습니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618B0
 msgctxt "002003"
 msgid "He is a vital asset to the UC. I can see the value he brings to VOID."
-msgstr ""
+msgstr "그는 UC에 중요한 자산입니다. 그가 VOID에 가져오는 가치를 알 수 있습니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618BF
 msgctxt "002004"
 msgid "What can you tell me about Tracy?"
-msgstr ""
+msgstr "트레이시에 대해 무엇을 말해 줄 수 있지?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618AE
 msgctxt "002005"
 msgid "Greetings -- Kenji Kanazawa. I'll be taking over all VOID projects and duties left by my predecessor."
-msgstr ""
+msgstr "안녕하십니까. 켄지 카나자와입니다. 제 전임자가 남긴 모든 VOID 프로젝트와 임무를 제가 맡게 되었습니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618C5
 msgctxt "002006"
 msgid "I look forward to fostering our working relationship going forward."
-msgstr ""
+msgstr "앞으로 우리의 업무 관계를 발전시켜 나가길 기대합니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618D1
 msgctxt "002007"
 msgid "As I am a more recent addition, I would think you might be better equipped to answer that question than I."
-msgstr ""
+msgstr "저는 비교적 최근에 합류했으니, 그 질문에는 당신이 저보다 더 잘 답할 수 있을 것 같습니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618BC
 msgctxt "002008"
 msgid "Ryujin does not place any blame on you, nor do I. On the contrary, I have nothing but respect for people that deliver results as consistently as you have."
-msgstr ""
+msgstr "류진은 당신을 탓하지 않습니다. 저도 마찬가지입니다. 오히려 저는 당신처럼 꾸준히 성과를 내는 사람들을 존중할 뿐입니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618C8
 msgctxt "002009"
 msgid "You're Ryujin's replacement VOID representative?"
-msgstr ""
+msgstr "당신이 류진의 새 VOID 대표인가?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618EB
 msgctxt "00200A"
 msgid "Are you upset about what happened to Percy Kanu?"
-msgstr ""
+msgstr "퍼시 카누에게 일어난 일 때문에 화가 났나?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618A1
 msgctxt "00200B"
 msgid "It's just business. We have a contract with VOID, and there was a party not honoring the spirit of it."
-msgstr ""
+msgstr "그저 비즈니스일 뿐입니다. 우리는 VOID와 계약을 맺었고, 그 정신을 지키지 않은 당사자가 있었죠."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02061C7C
 msgctxt "00200D"
 msgid "Though, maybe let's hope it doesn't come to this point again."
-msgstr ""
+msgstr "하지만, 이런 지경까지 다시 오지 않기를 바라야겠군요."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02061C7D
 msgctxt "00200E"
 msgid "You were saying?"
-msgstr ""
+msgstr "말하던 중이었지?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618BA
 msgctxt "00201E"
 msgid "*gunfire*"
-msgstr ""
+msgstr "*총성*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618BD
 msgctxt "00201F"
 msgid "Hold on, give me a minute first. I might be able to use the reserves to squeeze out a signal long enough for a quick message..."
-msgstr ""
+msgstr "잠깐만, 먼저 1분만 줘. 예비 전력을 써서 짧은 메시지를 보낼 만큼 신호를 짜낼 수 있을지도 몰라..."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618A2
 msgctxt "002020"
 msgid "Oh god, oh god... Ellie, they're here. I can hear them. Please, we have to go!"
-msgstr ""
+msgstr "세상에, 세상에... 엘리, 놈들이 왔어. 소리가 들려. 제발, 가야 해!"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618A8
 msgctxt "002021"
 msgid "*hum of consoles whirring up*"
-msgstr ""
+msgstr "*콘솔이 웅웅거리며 켜지는 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618AF
 msgctxt "002022"
 msgid "*gunfire*"
-msgstr ""
+msgstr "*총성*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618C6
 msgctxt "002023"
 msgid "Looks like it's transmitting. What do you want to do, ma'am?"
-msgstr ""
+msgstr "송신되는 것 같습니다. 어떻게 하시겠습니까, 부인?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618CC
 msgctxt "002024"
 msgid "Hmph, give it here."
-msgstr ""
+msgstr "흥, 이리 줘."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618DA
 msgctxt "002025"
 msgid "Engineering's where the comms are, right? Can't get out a big enough signal unless we use the main beacon."
-msgstr ""
+msgstr "통신 장비는 엔지니어링에 있지? 주 비컨을 쓰지 않으면 충분히 큰 신호를 못 보내."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618EC
 msgctxt "002026"
 msgid "*metal footsteps*"
-msgstr ""
+msgstr "*금속성 발소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618C1
 msgctxt "002027"
 msgid "*distant metal footsteps*"
-msgstr ""
+msgstr "*멀리서 들리는 금속성 발소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618ED
 msgctxt "002028"
 msgid "Daniel...? N-no... You mons--"
-msgstr ""
+msgstr "다니엘...? 아, 안 돼... 이 괴ㅁ--"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618B2
 msgctxt "002029"
 msgid "Alright, we tried. Let's call it quits and book it out of here while we can."
-msgstr ""
+msgstr "좋아, 해 볼 만큼 해 봤어. 그만두고 지금 도망칠 수 있을 때 나가자."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618DD
 msgctxt "00202A"
 msgid "Ellie, it's--"
-msgstr ""
+msgstr "엘리, 그건--"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618D4
 msgctxt "00202B"
 msgid "*sigh* There goes my vacation."
-msgstr ""
+msgstr "*한숨* 내 휴가는 날아갔네."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618C7
 msgctxt "00202C"
 msgid "Why can't we just be smart and hide?"
-msgstr ""
+msgstr "그냥 똑똑하게 숨어 있으면 안 되는 거야?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618C7
 msgctxt "00202D"
 msgid "If we go boot up that broadcast, we're practically telling all those Terran people -- \"Here we are, come kill us!\""
-msgstr ""
+msgstr "가서 그 방송을 켜면, 그 테란 사람들한테 사실상 '여기 있어요, 와서 죽여 주세요!'라고 알리는 거나 마찬가지야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618C4
 msgctxt "00202E"
 msgid "*ship impact sounds followed by EMP*"
-msgstr ""
+msgstr "*EMP로 이어지는 함선 충격음*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618D6
 msgctxt "00202F"
 msgid "If anyone can hear this, we've been attacked by--"
-msgstr ""
+msgstr "누구든 이걸 듣고 있다면, 우리는 공격을 받았--"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618D6
 msgctxt "002030"
 msgid "Okay, got it. Testing, testing! This is Ellie Aikau, aboard the Opulence of the Stars."
-msgstr ""
+msgstr "좋아, 됐어. 테스트, 테스트! 여기는 오퓰런스 오브 더 스타에 탑승한 엘리 아이카우입니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618AC
 msgctxt "002031"
 msgid "They're... disrupting power somehow? The systems won't switch over."
-msgstr ""
+msgstr "놈들이... 어떻게든 전력을 교란하고 있는 건가? 시스템이 전환되지 않아."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618AC
 msgctxt "002032"
 msgid "I don't know, I'm not an engineer... But it doesn't look like anything's actually wrong."
-msgstr ""
+msgstr "몰라, 난 엔지니어가 아니야... 하지만 실제로 고장 난 건 없어 보여."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618EA
 msgctxt "002033"
 msgid "And what good's that going to do? If those things find us, we're dead!"
-msgstr ""
+msgstr "그게 무슨 소용이야? 저것들이 우릴 찾으면 우리는 죽어!"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618D0
 msgctxt "002034"
 msgid "If we don't do something while we can, they're going to keep doing this... Ship after ship. Planet after planet."
-msgstr ""
+msgstr "지금 할 수 있을 때 뭔가 하지 않으면, 놈들은 계속 이럴 거야... 함선마다. 행성마다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618D0
 msgctxt "002035"
 msgid "I get that you're scared, Dan... I am too. But we need to do this."
-msgstr ""
+msgstr "네가 무서운 건 알아, 댄... 나도 그래. 하지만 이건 해야 해."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618D7
 msgctxt "002036"
 msgid "*silence, then a distant clank*"
-msgstr ""
+msgstr "*침묵 후 멀리서 둔탁한 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618A9
 msgctxt "002037"
 msgid "ETA on getting the lights back on?"
-msgstr ""
+msgstr "조명 복구 예상 시간은?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618A3
 msgctxt "002038"
 msgid "There's not going to be a later if we don't move!"
-msgstr ""
+msgstr "움직이지 않으면 나중이라는 건 없어!"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618F4
 msgctxt "002039"
 msgid "All right, let me just grab my equipment... We'll figure out the broadcast later."
-msgstr ""
+msgstr "알았어, 장비만 챙길게... 방송은 나중에 어떻게든 해 보자."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618BB
 msgctxt "00203A"
 msgid "Whoa, what was that? Almost felt like--"
-msgstr ""
+msgstr "우와, 방금 뭐였어? 거의--"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618DE
 msgctxt "00203B"
 msgid "No, no, no, no... I knew we should've stayed put. They're coming, Ellie."
-msgstr ""
+msgstr "안 돼, 안 돼, 안 돼... 가만히 있었어야 했다고 했잖아. 놈들이 오고 있어, 엘리."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618BE
 msgctxt "00203C"
 msgid "Someone out there's got to be listening. A rescue ship, a patrol, hell -- even a passing satellite. If not now, eventually."
-msgstr ""
+msgstr "저 밖에 누군가는 듣고 있을 거야. 구조선이든, 순찰대든, 젠장, 지나가는 위성이든. 지금이 아니면 언젠가는."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618CA
 msgctxt "00203D"
 msgid "Almost feels like a story, yeah?"
-msgstr ""
+msgstr "거의 이야기 같지 않아?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618B7
 msgctxt "00203E"
 msgid "Warn who? We drifted way off course... No one's coming out to the Free Lanes for us."
-msgstr ""
+msgstr "누구한테 경고해? 우린 항로에서 한참 벗어났어... 프리 레인스까지 우릴 찾으러 올 사람은 없어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618AD
 msgctxt "00203F"
 msgid "That's not happening either. You and I both know that. The least we can do is warn everyone else about these people."
-msgstr ""
+msgstr "그것도 안 돼. 너도 나도 알잖아. 우리가 할 수 있는 최소한은 모두에게 이 사람들에 대해 경고하는 거야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618B1
 msgctxt "002040"
 msgid "*rumbling sound*"
-msgstr ""
+msgstr "*우르릉거리는 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618AB
 msgctxt "002041"
 msgid "I saw some slots past the lounge earlier. How about we..."
-msgstr ""
+msgstr "아까 라운지 너머에 슬롯머신 몇 대가 보였어. 우리 한번..."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618AB
 msgctxt "002042"
 msgid "While I'm still riding this high maybe we should try for a real jackpot!"
-msgstr ""
+msgstr "아직 기세가 좋을 때 진짜 잭팟을 노려 봐야 하지 않겠어!"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618A6
 msgctxt "002043"
 msgid "Maybe they'll forget about us and we can get away..."
-msgstr ""
+msgstr "어쩌면 놈들이 우릴 잊어버리고 우리가 빠져나갈 수 있을지도..."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618A0
 msgctxt "002044"
 msgid "We're dead either way. You heard them... No survivors. They're not taking any hostages."
-msgstr ""
+msgstr "어차피 죽는 건 마찬가지야. 들었잖아... 생존자 없음. 인질도 안 잡는다고."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618A5
 msgctxt "002045"
 msgid "Yeah, yeah. Enjoy it while you can."
-msgstr ""
+msgstr "그래, 그래. 즐길 수 있을 때 즐겨."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618D9
 msgctxt "002046"
 msgid "*sigh* Maybe you have a point. Not like there's anything I can really do about it right now."
-msgstr ""
+msgstr "*한숨* 어쩌면 네 말이 맞을지도. 지금 내가 할 수 있는 것도 딱히 없으니까."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618C0
 msgctxt "002047"
 msgid "They're always sticking us on this empty stuff, though. When are we going to get something with some teeth?"
-msgstr ""
+msgstr "그래도 늘 이런 빈 건수만 우리한테 맡기잖아. 언제쯤 좀 제대로 된 걸 맡게 될까?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618C9
 msgctxt "002048"
 msgid "This is insane. You're insane. Of all the places to run, you want to go toward the army of death robots?"
-msgstr ""
+msgstr "이건 미친 짓이야. 너도 미쳤어. 도망칠 곳이 그렇게 많은데 하필 죽음의 로봇 군대 쪽으로 가자고?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0206189F
 msgctxt "002049"
 msgid "Ellie Aikau -- actually listening to me for once? Did I just hit a jackpot?"
-msgstr ""
+msgstr "엘리 아이카우가, 한 번이라도 내 말을 실제로 듣는다고? 나 방금 잭팟 터뜨린 거야?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618D3
 msgctxt "00204A"
 msgid "Sometimes you just want to hear about the good things in life. Gives you something to daydream about."
-msgstr ""
+msgstr "가끔은 삶의 좋은 면에 대해 듣고 싶을 때가 있잖아. 공상할 거리도 생기고."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618D3
 msgctxt "00204B"
 msgid "Aw, don't be like that. Not everything people want to read is gonna be award-winning."
-msgstr ""
+msgstr "아, 그러지 마. 사람들이 읽고 싶어 하는 게 전부 수상작 수준일 필요는 없잖아."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618D2
 msgctxt "00204C"
 msgid "You know, most people would appreciate getting to live it up on company credit."
-msgstr ""
+msgstr "대부분 사람들은 회사 돈으로 호화롭게 지내는 걸 고마워할걸."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618B9
 msgctxt "00204D"
 msgid "Yeah, this is the exactly what I got my degree for -- writing puff pieces on a bunch of yuppies with too many credits to spend."
-msgstr ""
+msgstr "그래, 내가 학위를 딴 이유가 바로 이거지. 쓸 돈이 너무 많은 여피들에 대한 홍보성 기사나 쓰려고."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618DC
 msgctxt "00204E"
 msgid "Luxury food, Zero-G dance floors, a sonic wave pool... This is the life huh, Ellie?"
-msgstr ""
+msgstr "고급 요리, 무중력 댄스 플로어, 소닉 웨이브 풀... 이게 인생이지, 엘리?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020618DC
 msgctxt "00204F"
 msgid "Maiden voyage for the Opulence of the Stars, glitz and glamour everywhere you look."
-msgstr ""
+msgstr "오퓰런스 오브 더 스타의 처녀항해, 어디를 봐도 화려함과 매력이 가득하지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F67
 msgctxt "0021A7"
 msgid "Your cooperation is appreciated."
-msgstr ""
+msgstr "협조에 감사드립니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F67
 msgctxt "0021A8"
 msgid "Temporary turbulence detected. Please remain in place while we work to stabilize ship systems. "
-msgstr ""
+msgstr "일시적 난기류가 감지되었습니다. 함선 시스템 안정화 작업 중이니 제자리에 머물러 주십시오. "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F66
 msgctxt "0021A9"
 msgid "Initiating diagnostic subroutines cycle."
-msgstr ""
+msgstr "진단 서브루틴 사이클 시작."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F65
 msgctxt "0021AA"
 msgid "Disruption detected. Switching to auxiliary power."
-msgstr ""
+msgstr "교란 감지. 보조 전력으로 전환합니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F63
 msgctxt "0021AB"
 msgid "Access denied. Emergency procedures in effect."
-msgstr ""
+msgstr "접근 거부. 비상 절차가 시행 중입니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F62
 msgctxt "0021AC"
 msgid "Lockdown in progress. Please move to approved areas."
-msgstr ""
+msgstr "봉쇄 진행 중. 승인된 구역으로 이동하십시오."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F61
 msgctxt "0021AD"
 msgid "Containment will be lifted once hostile activities have ceased."
-msgstr ""
+msgstr "적대 행위가 중단되면 격리가 해제됩니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F60
 msgctxt "0021AE"
 msgid "Warning: Aggression is against operational regulations. Please desist."
-msgstr ""
+msgstr "경고: 공격 행위는 운용 규정 위반입니다. 중지하십시오."
 
 #. List: 2
 #. EDID: SFTER_MQ01_SI_SystemVoice_Thanks
@@ -67841,49 +67841,49 @@ msgstr ""
 #. FormID: 02067F5F
 msgctxt "0021AF"
 msgid "Thank you for choosing the Opulence of the Stars. Please enjoy the rest of your voyage."
-msgstr ""
+msgstr "오퓰런스 오브 더 스타를 이용해 주셔서 감사합니다. 남은 항해를 즐겨 주십시오."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F5E
 msgctxt "0021B0"
 msgid "Resuming normal operations."
-msgstr ""
+msgstr "정상 운용을 재개합니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F5D
 msgctxt "0021B1"
 msgid "Emergency status has been ended. Releasing detention state in affected areas."
-msgstr ""
+msgstr "비상 상태가 종료되었습니다. 영향 구역의 억류 상태를 해제합니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F5C
 msgctxt "0021B2"
 msgid "Restarting transmission... Beacon deployed."
-msgstr ""
+msgstr "송신 재시작 중... 비컨 배치됨."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F5B
 msgctxt "0021B3"
 msgid "Executing full system cycle. Resolving pending routines..."
-msgstr ""
+msgstr "전체 시스템 사이클 실행 중. 대기 중인 루틴 해결 중..."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F5A
 msgctxt "0021B4"
 msgid "Executing full system cycle. Resolving pending routine... Beacon deployed."
-msgstr ""
+msgstr "전체 시스템 사이클 실행 중. 대기 중인 루틴 해결 중... 비컨 배치됨."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F59
 msgctxt "0021B5"
 msgid "Releasing local lockdown in \"Guest Lodging\"."
-msgstr ""
+msgstr "\"손님 숙소\"의 지역 봉쇄를 해제합니다."
 
 #. List: 2
 #. EDID: SFTER_MQ01_SI_SystemVoice_NoPower
@@ -67891,42 +67891,42 @@ msgstr ""
 #. FormID: 02067F58
 msgctxt "0021B6"
 msgid "Elevator offline. Restore local power to resume functionality."
-msgstr ""
+msgstr "엘리베이터 오프라인. 기능을 재개하려면 지역 전력을 복구하십시오."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F57
 msgctxt "0021B7"
 msgid "Re-engaging lockdown procedures. To lift detention state, full system restart is required."
-msgstr ""
+msgstr "봉쇄 절차 재가동. 억류 상태를 해제하려면 전체 시스템 재시작이 필요합니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F56
 msgctxt "0021B8"
 msgid "Emergency routines in progress."
-msgstr ""
+msgstr "비상 루틴 진행 중."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F55
 msgctxt "0021B9"
 msgid "Please remain in your designated area until further notice. We appreciate your cooperation."
-msgstr ""
+msgstr "추가 안내가 있을 때까지 지정 구역에 머물러 주십시오. 협조에 감사드립니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F54
 msgctxt "0021BA"
 msgid "Security measures restored. Emergency status still in effect. Proceed with caution. "
-msgstr ""
+msgstr "보안 조치 복구됨. 비상 상태는 여전히 유효합니다. 주의해서 이동하십시오. "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02067F53
 msgctxt "0021BB"
 msgid "Engaging reserve generators. Switching to auxiliary power."
-msgstr ""
+msgstr "예비 발전기 가동. 보조 전력으로 전환합니다."
 
 #. List: 2
 #. EDID: SFTER_MQ01_SI_SystemVoice_YesPower
@@ -67934,7 +67934,7 @@ msgstr ""
 #. FormID: 02067F52
 msgctxt "0021BC"
 msgid "Power restored to \"Engineering Deck\"."
-msgstr ""
+msgstr "\"엔지니어링 덱\"에 전력 복구됨."
 
 #. List: 2
 #. EDID: SFFL_SE_KT02_SailingHighSeasSharedInfo01DUPLICATE000
@@ -67942,805 +67942,805 @@ msgstr ""
 #. FormID: 010388B8
 msgctxt "0021C8"
 msgid "Goddamnit! Honey, power up those weapons!"
-msgstr ""
+msgstr "젠장! 여보, 무기 가동해!"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02069654
 msgctxt "00220B"
 msgid "What opportunity?"
-msgstr ""
+msgstr "무슨 기회?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02069652
 msgctxt "00220C"
 msgid "Let me check in with my friend first."
-msgstr ""
+msgstr "먼저 내 친구에게 확인해 볼게."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02069651
 msgctxt "00220D"
 msgid "Sure, I need to wait for Delta anyway."
-msgstr ""
+msgstr "좋아, 어차피 델타를 기다려야 하니까."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02069653
 msgctxt "00220E"
 msgid "I'd love if you could tell me about these flowers you're growing."
-msgstr ""
+msgstr "네가 기르는 이 꽃들에 대해 들려주면 좋겠어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0206C2F6
 msgctxt "002236"
 msgid "There we are. Let's."
-msgstr ""
+msgstr "됐어. 가자."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0206C2F7
 msgctxt "002237"
 msgid "Is the door locked? Let me see if I can get it opened."
-msgstr ""
+msgstr "문이 잠겼나? 내가 열 수 있는지 볼게."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02029370
 msgctxt "00226F"
 msgid "If they get their guns back online, we're going to be chewed up out here."
-msgstr ""
+msgstr "놈들이 무장을 다시 온라인으로 돌리면, 우린 여기서 갈가리 찢길 거야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02070DD4
 msgctxt "002281"
 msgid "*Sigh* Of course..."
-msgstr ""
+msgstr "*한숨* 물론이지..."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02070DD5
 msgctxt "002282"
 msgid "Right. Listen close."
-msgstr ""
+msgstr "좋아. 잘 들어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02070DD3
 msgctxt "002283"
 msgid "Right."
-msgstr ""
+msgstr "맞아."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FDB
 msgctxt "002284"
 msgid "Ignore anyone here who might get ahead of themselves and tell you otherwise. They're speaking out of emotion."
-msgstr ""
+msgstr "여기서 감정에 앞서 다른 말을 하는 사람이 있더라도 무시해. 그들은 감정적으로 말하는 거야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FDB
 msgctxt "002285"
 msgid "If any unforeseen opportunities arise, I advice you to play it safe and walk away."
-msgstr ""
+msgstr "예상치 못한 기회가 생기더라도, 안전하게 행동하고 물러나길 조언하지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FDB
 msgctxt "002286"
 msgid "If you get inside the Unifier, stay focused. Override the Grav Drive and get out. No more, no less. There's too much at stake here."
-msgstr ""
+msgstr "유니파이어 안으로 들어가면 집중해. 중력 구동기를 오버라이드하고 빠져나와. 그 이상도 이하도 없어. 걸린 게 너무 많아."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD4
 msgctxt "002287"
 msgid "I just hope everyone keeps it together."
-msgstr ""
+msgstr "모두가 평정심을 유지하길 바랄 뿐이야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD4
 msgctxt "002288"
 msgid "I don't hold it against them, this must feel like loose ends of the Colony war. Emotions are high, and that makes people unreliable."
-msgstr ""
+msgstr "그들을 탓하지는 않아. 이건 식민지 전쟁의 남은 불씨처럼 느껴질 테니까. 감정이 고조되면 사람은 믿기 어려워지지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD4
 msgctxt "002289"
 msgid "I fear some of our peers might get ahead of themselves and lose sight of the objective."
-msgstr ""
+msgstr "우리 동료들 중 일부가 앞서나가 목표를 놓칠까 두렵군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD3
 msgctxt "00228A"
 msgid "Indecisiveness will lead to more death. We need to be decisive."
-msgstr ""
+msgstr "우유부단함은 더 많은 죽음을 부를 거야. 우리는 결단을 내려야 해."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD3
 msgctxt "00228B"
 msgid "But with that, I intend to utterly crush these Terrans by any means necessary. We need to be vicious and uncompromising."
-msgstr ""
+msgstr "그렇지만 나는 필요한 모든 수단을 동원해 이 테란들을 철저히 짓밟을 생각이야. 우리는 잔혹하고 타협 없이 움직여야 해."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD3
 msgctxt "00228C"
 msgid "Well, I haven't been involved in a battle of this scale since the Colony War. I'm anxious to say the least."
-msgstr ""
+msgstr "글쎄, 식민지 전쟁 이후로 이 정도 규모의 전투에는 참여한 적이 없어. 적어도 불안한 건 사실이야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD2
 msgctxt "00228D"
 msgid "Watch your surroundings, take any opportunities that open up to hurt the enemy, and don't be afraid to lean on our allies for support."
-msgstr ""
+msgstr "주변을 살피고, 적에게 타격을 줄 기회가 보이면 잡아. 그리고 아군의 지원에 기대는 걸 두려워하지 마."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD2
 msgctxt "00228E"
 msgid "Battles of this size get messy real fast. They're usually determined by which force can adapt to the chaos the best."
-msgstr ""
+msgstr "이 정도 규모의 전투는 순식간에 엉망이 돼. 보통 혼돈에 가장 잘 적응하는 쪽이 승패를 가르지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD9
 msgctxt "00228F"
 msgid "Every soldier here will put their life on the line for you out there."
-msgstr ""
+msgstr "여기 있는 모든 병사가 밖에서 너를 위해 목숨을 걸 거야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD9
 msgctxt "002290"
 msgid "The weakest link is what will determine if we survive this. You don't need to be the one to break the chain."
-msgstr ""
+msgstr "우리가 살아남을지는 가장 약한 고리가 결정해. 네가 그 고리가 될 필요는 없어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD9
 msgctxt "002291"
 msgid "Keep your head down and coordinate with our troops. I know you have a lot of lone wolf experience, but this is war."
-msgstr ""
+msgstr "몸을 낮추고 우리 병력과 협력해. 네가 혼자 움직인 경험이 많다는 건 알지만, 이건 전쟁이야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD7
 msgctxt "002292"
 msgid "That sentiment is shared by every other person here."
-msgstr ""
+msgstr "여기 있는 다른 모든 사람도 같은 생각일 거야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD7
 msgctxt "002293"
 msgid "Any thoughts? I don't think there's much else to share. We need to ensure after this battle there's nothing left of the Terrans to be a threat."
-msgstr ""
+msgstr "생각? 더 말할 건 별로 없어. 이 전투가 끝난 뒤 테란이 더는 위협이 될 수 없도록 아무것도 남기지 않아야 해."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD8
 msgctxt "002294"
 msgid "Any advice before we attack the Unifier?"
-msgstr ""
+msgstr "유니파이어를 공격하기 전에 조언할 게 있나?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD5
 msgctxt "002295"
 msgid "How do you feel about the battle ahead of us?"
-msgstr ""
+msgstr "앞으로의 전투에 대해 어떻게 생각해?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FDA
 msgctxt "002296"
 msgid "Any advice before I head off?"
-msgstr ""
+msgstr "떠나기 전에 조언할 게 있나?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FDC
 msgctxt "002297"
 msgid "Any thoughts on this battle?"
-msgstr ""
+msgstr "이번 전투에 대한 생각은?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD6
 msgctxt "002298"
 msgid "Any advice before I head off?"
-msgstr ""
+msgstr "떠나기 전에 조언할 게 있나?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02071FD1
 msgctxt "002299"
 msgid "What do you think about this battle?"
-msgstr ""
+msgstr "이번 전투에 대해 어떻게 생각하지?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721B9
 msgctxt "0022D7"
 msgid "Perhaps not. I suppose we'll see."
-msgstr ""
+msgstr "어쩌면 아닐지도. 두고 보면 알겠지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721B2
 msgctxt "0022D8"
 msgid "Fair point. Finding a machine to keep in our pocket for the future wouldn't hurt though."
-msgstr ""
+msgstr "맞는 말이야. 그래도 앞으로 쓸 수 있게 기계 하나쯤 챙겨 두는 것도 나쁘진 않겠지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721AC
 msgctxt "0022D9"
 msgid "Research that could go towards X-tech."
-msgstr ""
+msgstr "X-테크 연구에 쓰일 수 있는 자료군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721A7
 msgctxt "0022DA"
 msgid "Mr. Warren is right. The Terran robots have shown clear signs of faulty manufacturing. To reverse engineer them could take years of research."
-msgstr ""
+msgstr "워렌 씨 말이 맞습니다. 테란 로봇들은 제조 결함의 명확한 징후를 보였습니다. 그것들을 역설계하려면 수년의 연구가 필요할 수도 있습니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721A5
 msgctxt "0022DB"
 msgid "Sounds like a terrible idea if you ask me."
-msgstr ""
+msgstr "내 생각을 묻는다면 끔찍한 생각 같군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721A4
 msgctxt "0022DC"
 msgid "It's a shame the Terran robots have faults in their CPUs. But if we reverse engineer their machines, perhaps we could find ways around the faults and utilize them."
-msgstr ""
+msgstr "테란 로봇의 CPU에 결함이 있다는 건 아쉽군요. 하지만 그들의 기계를 역설계하면 결함을 우회하고 활용할 방법을 찾을 수도 있습니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721B5
 msgctxt "0022DE"
 msgid "I knew someone here had to like whiskey! Will do."
-msgstr ""
+msgstr "여기 위스키 좋아하는 사람이 있을 줄 알았어! 알겠어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721AF
 msgctxt "0022DF"
 msgid "I'll take that whiskey."
-msgstr ""
+msgstr "난 그 위스키로 하지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721A3
 msgctxt "0022E0"
 msgid "Dhawan?"
-msgstr ""
+msgstr "다완?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721AD
 msgctxt "0022E1"
 msgid "I see. That's my mistake. Maybe a mocktail then? I'll see if she has any mocktails."
-msgstr ""
+msgstr "알겠습니다. 제 실수군요. 그럼 목테일은 어떨까요? 목테일이 있는지 확인해 보겠습니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721A8
 msgctxt "0022E2"
 msgid "No. I don't drink. Never have. Never will."
-msgstr ""
+msgstr "아니. 나는 술을 안 마셔. 예전에도, 앞으로도."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721BA
 msgctxt "0022E3"
 msgid "As professional as ever."
-msgstr ""
+msgstr "언제나처럼 프로답군요."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721A6
 msgctxt "0022E4"
 msgid "I just think a drink could be good for us is all. You seem like a whiskey kind of guy."
-msgstr ""
+msgstr "그냥 우리에게 한잔이 좋을 것 같다는 생각이었어요. 당신은 위스키가 어울리는 사람 같아서요."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721B4
 msgctxt "0022E5"
 msgid "Dhawan. Warren. I plan to call Valeria to see about getting a few drinks brought down here. Do you want me to put in anything for you?"
-msgstr ""
+msgstr "다완. 워렌. 발레리아에게 연락해서 여기로 술 몇 잔 가져오라고 할 생각인데, 뭐 원하는 거 있나요?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721B8
 msgctxt "0022E7"
 msgid "I suppose not."
-msgstr ""
+msgstr "그런 것 같군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721AB
 msgctxt "0022E8"
 msgid "I see it."
-msgstr ""
+msgstr "보이네."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721B1
 msgctxt "0022E9"
 msgid "But who the Terrans were and what could have been doesn't matter much now."
-msgstr ""
+msgstr "하지만 테란이 어떤 사람들이었고 무엇이 될 수 있었는지는 이제 별 의미가 없어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721B3
 msgctxt "0022EA"
 msgid "The Terrans came together because of the Colony War, and now, we, part of the UC and Freestar, are working together to stop them."
-msgstr ""
+msgstr "테란은 식민지 전쟁 때문에 하나가 되었고, 이제 UC와 자유항성에 속한 우리가 그들을 막기 위해 함께하고 있어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721AE
 msgctxt "0022EB"
 msgid "I know. But surely even you see the irony."
-msgstr ""
+msgstr "알아. 하지만 너도 그 아이러니는 보이겠지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721B6
 msgctxt "0022EC"
 msgid "One conflict tends to spark another."
-msgstr ""
+msgstr "하나의 분쟁은 또 다른 분쟁의 불씨가 되기 마련이지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721A9
 msgctxt "0022ED"
 msgid "To think, all of this mess because of the Colony Wars."
-msgstr ""
+msgstr "생각해 보면, 이 모든 난장판이 식민지 전쟁들 때문이라니."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721BC
 msgctxt "0022EF"
 msgid "Of course. I'm going to take a look at it, then I'll send it your way."
-msgstr ""
+msgstr "물론입니다. 제가 살펴본 뒤 당신에게 보내겠습니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721A2
 msgctxt "0022F0"
 msgid "Thank you, Mrs. Dhawan."
-msgstr ""
+msgstr "감사합니다, 다완 부인."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721B7
 msgctxt "0022F1"
 msgid "After all, the more we know about the Terrans, the better."
-msgstr ""
+msgstr "어쨌든 테란에 대해 더 많이 알수록 좋으니까요."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721B0
 msgctxt "0022F2"
 msgid "Good. I'll take a look at it when I get the chance."
-msgstr ""
+msgstr "좋습니다. 기회가 되면 살펴보겠습니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721AA
 msgctxt "0022F3"
 msgid "A new report from Yemoja has come in."
-msgstr ""
+msgstr "예모자에게서 새 보고가 들어왔습니다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721C4
 msgctxt "0022F5"
 msgid "Their weapon systems are down! It's time to fully mobilize our offensive. Everyone stack up on me, lets wipe them out!"
-msgstr ""
+msgstr "놈들의 무기 시스템이 다운됐다! 이제 공격을 전면 전개할 때다. 모두 내 뒤로 집결해, 놈들을 쓸어버리자!"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020721C5
 msgctxt "0022F6"
 msgid "Their weapon systems are down! It's time to fully mobilize our offensive, wipe them out!"
-msgstr ""
+msgstr "놈들의 무기 시스템이 다운됐다! 이제 공격을 전면 전개해, 놈들을 쓸어버려!"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765E3
 msgctxt "002332"
 msgid "Whatever happens now is on us. You did your job and you did it well. Thank you."
-msgstr ""
+msgstr "이제 무슨 일이 벌어지든 우리 책임이야. 넌 네 일을 훌륭히 해냈어. 고마워."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765E3
 msgctxt "002333"
 msgid "With the Unifier gone and the Terran's tearing each other apart, I can confidently say we can focus on rebuilding from here."
-msgstr ""
+msgstr "유니파이어가 사라지고 테란들이 서로를 찢어발기고 있으니, 이제부터는 재건에 집중할 수 있다고 자신 있게 말할 수 있겠군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765E3
 msgctxt "002334"
 msgid "I think everyone here, including myself is in your debt. I'm not sure I'd be standing here today if not for your actions out there."
-msgstr ""
+msgstr "여기 있는 모두가, 나를 포함해 네게 빚을 졌다고 생각해. 네가 밖에서 행동하지 않았다면 내가 오늘 여기 서 있었을지 모르겠어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765E7
 msgctxt "002335"
 msgid "Either way, you have my thanks. You put everything on the line and pulled through. In the end that's what matters."
-msgstr ""
+msgstr "어쨌든 고맙다. 넌 모든 걸 걸었고 끝까지 해냈어. 결국 중요한 건 그거야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765E7
 msgctxt "002336"
 msgid "That one decision probably could've saved us a lot of headache in the future if they do decide to regroup."
-msgstr ""
+msgstr "그들이 다시 집결하기로 한다면, 그 결정 하나가 앞으로의 골칫거리를 많이 줄였을지도 몰라."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765E7
 msgctxt "002337"
 msgid "I won't say I'm as pressed as some of our other comrades, but I do think you made a mistake not turning the Terran's robots against them."
-msgstr ""
+msgstr "다른 동료들만큼 조급하다고는 못 하겠지만, 테란의 로봇을 그들에게 돌리지 않은 건 실수였다고 생각해."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765F1
 msgctxt "002338"
 msgid "I don't think we'll be hearing about the Terrans anytime soon, if at all. You may have very well wiped them out entirely."
-msgstr ""
+msgstr "우리가 조만간, 어쩌면 아예 테란 소식을 들을 일은 없을 것 같아. 네가 사실상 그들을 완전히 쓸어버렸을지도 몰라."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765F1
 msgctxt "002339"
 msgid "Not just that, but thanks to you the entire weight of their robotics network is collapsing on them as we speak."
-msgstr ""
+msgstr "그뿐만 아니라, 네 덕분에 바로 지금 그들의 로봇 네트워크 전체가 자기들 위로 무너지고 있어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765F1
 msgctxt "00233A"
 msgid "Relieved. The Terrans threw just about everything they had at us, and yet here we are."
-msgstr ""
+msgstr "안도감이지. 테란들은 가진 거의 모든 것을 우리에게 퍼부었지만, 그래도 우리는 여기 있잖아."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765E9
 msgctxt "00233B"
 msgid "Your mission was perilous, but in the end you got the job done. That's what matters. Everyone here is in your debt, even if they don't show it."
-msgstr ""
+msgstr "네 임무는 위험했지만, 결국 해냈어. 그게 중요해. 티를 내지 않더라도 여기 있는 모두가 네게 빚을 졌어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765E9
 msgctxt "00233C"
 msgid "No one knows what the consequences of overriding the Terran network would have been. Best we not find out."
-msgstr ""
+msgstr "테란 네트워크를 오버라이드했을 때 어떤 결과가 생겼을지는 아무도 몰라. 모르는 편이 낫지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765E9
 msgctxt "00233D"
 msgid "I think despite everything thrown at us, you remained focused and made the right call."
-msgstr ""
+msgstr "모든 것이 너에게 쏟아졌는데도, 넌 집중력을 잃지 않고 옳은 결정을 내렸다고 생각해."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765ED
 msgctxt "00233E"
 msgid "Regardless, thank you for everything. I just hope your decision doesn't comeback to haunt us."
-msgstr ""
+msgstr "어쨌든 모든 것에 고맙다. 다만 네 결정이 나중에 우리를 괴롭히지 않기를 바랄 뿐이야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765ED
 msgctxt "00233F"
 msgid "We really don't have any concept of how large the Terran's network is, and you walked away from an prime opportunity to destroy it from the inside."
-msgstr ""
+msgstr "우리는 테란의 네트워크가 얼마나 큰지 전혀 감도 잡지 못하고 있어. 그런데 넌 안에서부터 파괴할 수 있는 절호의 기회를 그냥 지나쳤지."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765ED
 msgctxt "002340"
 msgid "*Sigh* I feel like this battle has just started."
-msgstr ""
+msgstr "*한숨* 이 전투는 이제 막 시작된 것 같은 기분이군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765F3
 msgctxt "002341"
 msgid "I think you're being insufferably naive."
-msgstr ""
+msgstr "내 생각엔 네가 참을 수 없을 만큼 순진하군."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765F2
 msgctxt "002342"
 msgid "Whatever arises, we're more than capable of taking on. I'll be here to lend a hand."
-msgstr ""
+msgstr "무슨 일이 생기든 우리는 충분히 감당할 수 있어. 내가 여기서 도울게."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765EA
 msgctxt "002343"
 msgid "Give me a break. I saved everyone here."
-msgstr ""
+msgstr "웃기지 마. 여기 있는 모두를 내가 구했어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765EC
 msgctxt "002344"
 msgid "I wouldn't sound so confident if I were you."
-msgstr ""
+msgstr "나라면 그렇게 자신만만하게 말하지는 않겠어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765EF
 msgctxt "002345"
 msgid "Whatever happens from here is on you."
-msgstr ""
+msgstr "이제부터 벌어지는 일은 네 책임이야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765EF
 msgctxt "002346"
 msgid "You set loose an army of rogue robots with no central network to limit their target designations."
-msgstr ""
+msgstr "너는 목표 지정을 제한할 중앙 네트워크도 없는 반란 로봇 군대를 풀어놓은 거야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765E8
 msgctxt "002347"
 msgid "No one can ever be sure of that. Years ago we hoped we were done with the Colony War, and we know what arose from that."
-msgstr ""
+msgstr "그건 누구도 확신할 수 없어. 몇 년 전 우리는 식민지 전쟁이 끝났다고 믿었지만, 그 뒤 무엇이 생겨났는지 알잖아."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765EE
 msgctxt "002348"
 msgid "I ensured the Terrans will never be a threat again."
-msgstr ""
+msgstr "테란이 다시는 위협이 되지 못하도록 확실히 해 뒀어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765E5
 msgctxt "002349"
 msgid "Who knows what consequences interfering with the Terran network might have?"
-msgstr ""
+msgstr "테란 네트워크에 개입하면 어떤 결과가 생길지 누가 알겠어?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765E5
 msgctxt "00234A"
 msgid "If I'm to be entirely honest, I think you stepped way out of line making the call you did."
-msgstr ""
+msgstr "완전히 솔직히 말하자면, 네가 그런 결정을 내린 건 선을 한참 넘었다고 생각해."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765E2
 msgctxt "00234B"
 msgid "Any feelings on how everything turned out in the end?"
-msgstr ""
+msgstr "결국 모든 일이 이렇게 끝난 데 대해 어떤 느낌이야?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765E4
 msgctxt "00234C"
 msgid "Any feelings on how everything turned out in the end?"
-msgstr ""
+msgstr "결국 모든 일이 이렇게 끝난 데 대해 어떤 느낌이야?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765F0
 msgctxt "00234D"
 msgid "Any thoughts on how everything turned out?"
-msgstr ""
+msgstr "결국 모든 일이 이렇게 된 것에 대한 생각은?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765F4
 msgctxt "00234E"
 msgid "Any thoughts on how everything turned out?"
-msgstr ""
+msgstr "결국 모든 일이 이렇게 된 것에 대한 생각은?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765E6
 msgctxt "00234F"
 msgid "How do you feel about how everything turned out?"
-msgstr ""
+msgstr "결국 모든 일이 이렇게 끝난 데 대해 어떻게 느껴?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020765EB
 msgctxt "002350"
 msgid "How do you feel about how everything turned out?"
-msgstr ""
+msgstr "결국 모든 일이 이렇게 끝난 데 대해 어떻게 느껴?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0207BFAE
 msgctxt "002395"
 msgid "Let me check in with my friend first."
-msgstr ""
+msgstr "먼저 내 친구에게 확인해 볼게."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0207BFAF
 msgctxt "002396"
 msgid "What opportunity?"
-msgstr ""
+msgstr "무슨 기회?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0207BFAD
 msgctxt "002397"
 msgid "Sure, I need to wait for Delta anyway."
-msgstr ""
+msgstr "좋아, 어차피 델타를 기다려야 하니까."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0207BFAC
 msgctxt "002398"
 msgid "I'd love if you could tell me about these flowers you're growing."
-msgstr ""
+msgstr "네가 기르는 이 꽃들에 대해 들려주면 좋겠어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0207E823
 msgctxt "0023D0"
 msgid "So, are your opinions your own?"
-msgstr ""
+msgstr "그럼, 네 의견은 네 자신의 거야?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC34
 msgctxt "0024FD"
 msgid "*angry beeps*"
-msgstr ""
+msgstr "*화난 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC39
 msgctxt "0024FE"
 msgid "You can return to your post now."
-msgstr ""
+msgstr "이제 네 자리로 돌아가도 돼."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC2D
 msgctxt "0024FF"
 msgid "[Select Default]"
-msgstr ""
+msgstr "[기본 선택]"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC29
 msgctxt "002500"
 msgid "*beep beep*"
-msgstr ""
+msgstr "*삐 삐*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC24
 msgctxt "002501"
 msgid "Time to swap personalities, buddy."
-msgstr ""
+msgstr "성격을 바꿀 시간이야, 친구."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC1F
 msgctxt "002502"
 msgid "[Select Sad]"
-msgstr ""
+msgstr "[슬픔 선택]"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC1A
 msgctxt "002503"
 msgid "*sad beeps*"
-msgstr ""
+msgstr "*슬픈 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC15
 msgctxt "002504"
 msgid "[Select Joyful]"
-msgstr ""
+msgstr "[기쁨 선택]"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC41
 msgctxt "002505"
 msgid "*joyful beeps*"
-msgstr ""
+msgstr "*즐거운 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC3C
 msgctxt "002506"
 msgid "[Select Angry]"
-msgstr ""
+msgstr "[분노 선택]"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC37
 msgctxt "002507"
 msgid "*angry beeps*"
-msgstr ""
+msgstr "*화난 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC32
 msgctxt "002508"
 msgid "[Select Afraid]"
-msgstr ""
+msgstr "[두려움 선택]"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC2C
 msgctxt "002509"
 msgid "*afraid beeps*"
-msgstr ""
+msgstr "*겁먹은 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC23
 msgctxt "00250A"
 msgid "*silly beeps*"
-msgstr ""
+msgstr "*장난스러운 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC28
 msgctxt "00250B"
 msgid "[Select Silly]"
-msgstr ""
+msgstr "[익살 선택]"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC1E
 msgctxt "00250C"
 msgid "[Select Flirty]"
-msgstr ""
+msgstr "[추파 선택]"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC19
 msgctxt "00250D"
 msgid "*flirty beeps*"
-msgstr ""
+msgstr "*추파 던지는 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC35
 msgctxt "00250E"
 msgid "[Select Va'ruun Paint]"
-msgstr ""
+msgstr "[바룬 도색 선택]"
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -68754,21 +68754,21 @@ msgstr "*신호음*"
 #. FormID: 0208EC2A
 msgctxt "002510"
 msgid "[Select Red Paint]"
-msgstr ""
+msgstr "[빨간 도색 선택]"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC25
 msgctxt "002511"
 msgid "*beep boop*"
-msgstr ""
+msgstr "*삐 뿌*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC20
 msgctxt "002512"
 msgid "[Select Pink Paint]"
-msgstr ""
+msgstr "[분홍 도색 선택]"
 
 #. List: 2
 #. EDID: SFBGS022_CREW_MinibotSharedBeep
@@ -68776,490 +68776,490 @@ msgstr ""
 #. FormID: 0208EC1B
 msgctxt "002513"
 msgid "*boop beep*"
-msgstr ""
+msgstr "*뿌 삐*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC16
 msgctxt "002514"
 msgid "Let's change your look."
-msgstr ""
+msgstr "네 외형을 바꾸자."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC42
 msgctxt "002515"
 msgid "Let's get you assigned somewhere."
-msgstr ""
+msgstr "널 어딘가에 배치하자."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC4F
 msgctxt "002516"
 msgid "*flirty beeps*"
-msgstr ""
+msgstr "*추파 던지는 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC4E
 msgctxt "002517"
 msgid "*silly beeps*"
-msgstr ""
+msgstr "*장난스러운 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC4D
 msgctxt "002518"
 msgid "*afraid beeps*"
-msgstr ""
+msgstr "*겁먹은 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC4C
 msgctxt "002519"
 msgid "*sad beeps*"
-msgstr ""
+msgstr "*슬픈 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC4B
 msgctxt "00251A"
 msgid "*angry beeps*"
-msgstr ""
+msgstr "*화난 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC4A
 msgctxt "00251B"
 msgid "*joyful beeps*"
-msgstr ""
+msgstr "*즐거운 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC49
 msgctxt "00251C"
 msgid "*beeping noises*"
-msgstr ""
+msgstr "*삐 소리들*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC48
 msgctxt "00251D"
 msgid "*excited beeps*"
-msgstr ""
+msgstr "*신난 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC47
 msgctxt "00251E"
 msgid "*happy beeps*"
-msgstr ""
+msgstr "*행복한 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC40
 msgctxt "00251F"
 msgid "*cheerful beeps*"
-msgstr ""
+msgstr "*쾌활한 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC3B
 msgctxt "002520"
 msgid "*excited beeping*"
-msgstr ""
+msgstr "*신난 삐삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC36
 msgctxt "002521"
 msgid "Are you sure you're in good enough shape to travel? "
-msgstr ""
+msgstr "여행할 만큼 몸 상태가 괜찮은 거 맞아? "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC2F
 msgctxt "002522"
 msgid "Let's talk later, I don't have the space right now. "
-msgstr ""
+msgstr "나중에 이야기하자. 지금은 공간이 없어. "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC2B
 msgctxt "002523"
 msgid "*confused beeps*"
-msgstr ""
+msgstr "*혼란스러운 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC26
 msgctxt "002524"
 msgid "*cheerful beeps*"
-msgstr ""
+msgstr "*쾌활한 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC21
 msgctxt "002525"
 msgid "*happy beeps*"
-msgstr ""
+msgstr "*행복한 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC1C
 msgctxt "002526"
 msgid "Yeah, let's get going. "
-msgstr ""
+msgstr "그래, 가자. "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC17
 msgctxt "002527"
 msgid "*sad beeps*"
-msgstr ""
+msgstr "*슬픈 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC43
 msgctxt "002528"
 msgid "I'd like you to follow me for a while."
-msgstr ""
+msgstr "한동안 나를 따라와 줬으면 해."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC63
 msgctxt "002529"
 msgid "*silly beeps*"
-msgstr ""
+msgstr "*장난스러운 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC62
 msgctxt "00252A"
 msgid "*sad beeps*"
-msgstr ""
+msgstr "*슬픈 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC61
 msgctxt "00252B"
 msgid "*flirty beeps*"
-msgstr ""
+msgstr "*추파 던지는 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC60
 msgctxt "00252C"
 msgid "*angry beeps*"
-msgstr ""
+msgstr "*화난 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC5F
 msgctxt "00252D"
 msgid "*afraid beeps*"
-msgstr ""
+msgstr "*겁먹은 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC5E
 msgctxt "00252E"
 msgid "*joyful beeps*"
-msgstr ""
+msgstr "*즐거운 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC5D
 msgctxt "00252F"
 msgid "*cheerful beeps*"
-msgstr ""
+msgstr "*쾌활한 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC5C
 msgctxt "002530"
 msgid "*excited beeps*"
-msgstr ""
+msgstr "*신난 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC5B
 msgctxt "002531"
 msgid "*happy beeps*"
-msgstr ""
+msgstr "*행복한 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC59
 msgctxt "002532"
 msgid "*flirty beeps*"
-msgstr ""
+msgstr "*추파 던지는 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC58
 msgctxt "002533"
 msgid "*silly beeps*"
-msgstr ""
+msgstr "*장난스러운 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC57
 msgctxt "002534"
 msgid "*afraid beeps*"
-msgstr ""
+msgstr "*겁먹은 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC56
 msgctxt "002535"
 msgid "*sad beeps*"
-msgstr ""
+msgstr "*슬픈 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC55
 msgctxt "002536"
 msgid "*angry beeps*"
-msgstr ""
+msgstr "*화난 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC54
 msgctxt "002537"
 msgid "*joyful beeps*"
-msgstr ""
+msgstr "*즐거운 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC53
 msgctxt "002538"
 msgid "*cheerful beeps*"
-msgstr ""
+msgstr "*쾌활한 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC52
 msgctxt "002539"
 msgid "*confident beeps*"
-msgstr ""
+msgstr "*자신만만한 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC51
 msgctxt "00253A"
 msgid "*happy beeps*"
-msgstr ""
+msgstr "*행복한 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC38
 msgctxt "00253B"
 msgid "Let's get moving."
-msgstr ""
+msgstr "출발하자."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC6D
 msgctxt "00253C"
 msgid "*flirty beeps*"
-msgstr ""
+msgstr "*추파 던지는 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC6C
 msgctxt "00253D"
 msgid "*afraid beeps*"
-msgstr ""
+msgstr "*겁먹은 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC6B
 msgctxt "00253E"
 msgid "*sad beeps*"
-msgstr ""
+msgstr "*슬픈 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC6A
 msgctxt "00253F"
 msgid "*joyful beeps*"
-msgstr ""
+msgstr "*즐거운 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC69
 msgctxt "002540"
 msgid "*silly beeps*"
-msgstr ""
+msgstr "*장난스러운 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC68
 msgctxt "002541"
 msgid "*grumpy beeps*"
-msgstr ""
+msgstr "*심술난 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC67
 msgctxt "002542"
 msgid "*beeping noises*"
-msgstr ""
+msgstr "*삐 소리들*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC66
 msgctxt "002543"
 msgid "*excited beeps*"
-msgstr ""
+msgstr "*신난 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC65
 msgctxt "002544"
 msgid "*happy beeps*"
-msgstr ""
+msgstr "*행복한 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC33
 msgctxt "002545"
 msgid "Wait here a moment."
-msgstr ""
+msgstr "잠깐 여기서 기다려."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC77
 msgctxt "002546"
 msgid "*flirty beeps*"
-msgstr ""
+msgstr "*추파 던지는 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC76
 msgctxt "002547"
 msgid "*silly beeps*"
-msgstr ""
+msgstr "*장난스러운 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC75
 msgctxt "002548"
 msgid "*afraid beeps*"
-msgstr ""
+msgstr "*겁먹은 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC74
 msgctxt "002549"
 msgid "*angry beeps*"
-msgstr ""
+msgstr "*화난 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC73
 msgctxt "00254A"
 msgid "*joyful beeps*"
-msgstr ""
+msgstr "*즐거운 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC72
 msgctxt "00254B"
 msgid "*sad beeps*"
-msgstr ""
+msgstr "*슬픈 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC71
 msgctxt "00254C"
 msgid "*whistle beeping*"
-msgstr ""
+msgstr "*휘파람 같은 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC70
 msgctxt "00254D"
 msgid "*heroic beeps*"
-msgstr ""
+msgstr "*영웅적인 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC6F
 msgctxt "00254E"
 msgid "*confident beeps*"
-msgstr ""
+msgstr "*자신만만한 삐 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC27
 msgctxt "002551"
 msgid "*repair noise*"
-msgstr ""
+msgstr "*수리 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC3E
 msgctxt "002552"
 msgid "[2 Power Circuits and 3 Zero Wire] I don't have the items to fix you. I'll be back."
-msgstr ""
+msgstr "[2 Power Circuits and 3 Zero Wire] 수리할 아이템이 없어. 다시 올게."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC3D
 msgctxt "002553"
 msgid "[2 Power Circuits and 3 Zero Wire] Let me fix you up."
-msgstr ""
+msgstr "[2 Power Circuits and 3 Zero Wire] 고쳐 줄게."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC1D
 msgctxt "002554"
 msgid "*broken noise* "
-msgstr ""
+msgstr "*고장 난 소리* "
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC18
 msgctxt "002555"
 msgid "I see the problem. Let me patch you up."
-msgstr ""
+msgstr "문제가 뭔지 알겠어. 바로 고쳐 줄게."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC22
 msgctxt "002556"
 msgid "*beep boop*"
-msgstr ""
+msgstr "*삐 뿌*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC44
 msgctxt "002557"
 msgid "This is not worth my time."
-msgstr ""
+msgstr "이건 내 시간을 들일 가치가 없어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC31
 msgctxt "002558"
 msgid "*broken sad noises*"
-msgstr ""
+msgstr "*고장 난 슬픈 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0208EC30
 msgctxt "002559"
 msgid "*repair noises*"
-msgstr ""
+msgstr "*수리 소리*"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02093F4B
 msgctxt "0025C7"
 msgid "I thought this was one on one, how come you used explosive drones?"
-msgstr ""
+msgstr "일대일인 줄 알았는데, 왜 폭발 드론을 쓴 거야?"
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -69273,133 +69273,133 @@ msgstr "좀 황당하네. 자기가 틀렸다는 걸 인정 안 하려고 범용
 #. FormID: 020A2F2C
 msgctxt "0026AB"
 msgid "You seem to really enjoy combat, why is that?"
-msgstr ""
+msgstr "전투를 정말 즐기는 것 같은데, 왜 그래?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020A2F23
 msgctxt "0026AC"
 msgid "I don't have any more questions right now."
-msgstr ""
+msgstr "지금은 더 질문이 없어."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020A2F24
 msgctxt "0026AD"
 msgid "Do you mind if I ask you some personal questions?"
-msgstr ""
+msgstr "개인적인 질문을 좀 해도 될까?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020A2F22
 msgctxt "0026AE"
 msgid "Why do you hate humans so much?"
-msgstr ""
+msgstr "왜 인간을 그렇게 싫어해?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020A2F28
 msgctxt "0026AF"
 msgid "Do you think robots are superior?"
-msgstr ""
+msgstr "로봇이 더 우월하다고 생각해?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020A2F27
 msgctxt "0026B0"
 msgid "Do you miss being only a chip?"
-msgstr ""
+msgstr "칩이었을 때가 그리워?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020A2F40
 msgctxt "0026B1"
 msgid "Never mind."
-msgstr ""
+msgstr "아니야."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020A6AB2
 msgctxt "002777"
 msgid "Change color to blue."
-msgstr ""
+msgstr "색상을 파란색으로 변경한다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020A6ACC
 msgctxt "002778"
 msgid "Change color to white"
-msgstr ""
+msgstr "색상을 흰색으로 변경한다"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020A6ABB
 msgctxt "002779"
 msgid "Change color to violet."
-msgstr ""
+msgstr "색상을 보라색으로 변경한다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020A6AB1
 msgctxt "00277A"
 msgid "Change color to green."
-msgstr ""
+msgstr "색상을 초록색으로 변경한다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020A6AAE
 msgctxt "00277B"
 msgid "Change color to yellow."
-msgstr ""
+msgstr "색상을 노란색으로 변경한다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020A6AAD
 msgctxt "00277C"
 msgid "Change color to orange."
-msgstr ""
+msgstr "색상을 주황색으로 변경한다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020A6AAC
 msgctxt "00277D"
 msgid "Change color to red."
-msgstr ""
+msgstr "색상을 빨간색으로 변경한다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020A6AAF
 msgctxt "00277E"
 msgid "Access eye color settings."
-msgstr ""
+msgstr "눈 색상 설정에 접근한다."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 0202AD94
 msgctxt "0027C4"
 msgid "Name scans show no criminal record. Counterpoint: Criminal activity still possible. Unreported?"
-msgstr ""
+msgstr "이름 스캔 결과 범죄 기록 없음. 반론: 범죄 행위 가능성 여전히 존재. 미신고?"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020AABCD
 msgctxt "0027D8"
 msgid "It looks like Percy Kanu's been playing both sides."
-msgstr ""
+msgstr "퍼시 카누가 양쪽에 다리를 걸치고 있었던 것 같아."
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 020ABB45
 msgctxt "0027E5"
 msgid "[Select Rusted Paint]"
-msgstr ""
+msgstr "[녹슨 도색 선택]"
 
 #. List: 2
 #. REC: INFO:NAM1
 #. FormID: 02036E1A
 msgctxt "0027ED"
 msgid "Scientifically speaking, this is a major event that will be studied for generations."
-msgstr ""
+msgstr "과학적으로 말하자면, 이것은 여러 세대에 걸쳐 연구될 중대한 사건입니다."
 
 #. List: 0
 #. EDID: SFTER_SFBGS050_Incursion_Patch_Fixes

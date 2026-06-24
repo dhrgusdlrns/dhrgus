@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-27 00:51+0900\n"
-"PO-Revision-Date: 2026-05-17 10:49+0000\n"
+"PO-Revision-Date: 2026-06-25 10:28+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -203,7 +203,7 @@ msgstr ""
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage_ship, REC: GPOF:NNAM
 msgctxt "00002E"
 msgid "Enemy Ship Damage"
-msgstr "적 우주선의 피해"
+msgstr "적 우주선이 가하는 피해 정도"
 
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:RESN
 msgctxt "00002F"
@@ -299,7 +299,7 @@ msgstr ""
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:NNAM
 msgctxt "00003C"
 msgid "Enemy Combat Damage"
-msgstr "전투시 적의 피해"
+msgstr "전투시 적이 가하는 피해"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:RESN
 msgctxt "00003D"
@@ -395,7 +395,7 @@ msgstr ""
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:NNAM
 msgctxt "00004A"
 msgid "Player Ship Damage"
-msgstr "플레이어 함선의 피해"
+msgstr "플레이어 함선이 가하는 피해 정도"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:RESN
 msgctxt "00004B"
@@ -491,7 +491,7 @@ msgstr ""
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:NNAM
 msgctxt "000058"
 msgid "Player Combat Damage"
-msgstr "전투시 플레이어의 피해"
+msgstr "전투시 플레이어가 가하는 피해 정도"
 
 # List: 0, EDID: PEO_GPO_VendorCredits, REC: GPOF:RESN
 msgctxt "000059"
@@ -1365,7 +1365,7 @@ msgstr "실탄 중량을 설정합니다."
 # List: 1, EDID: PEO_CombatLethality_Perk, REC: PERK:DESC
 msgctxt "00000E"
 msgid "Sets damage output for player and enemies."
-msgstr "플레이어와 적의 피해 결과값을 설정합니다."
+msgstr "플레이어와 적이 가하는 피해의 결과값을 설정합니다."
 
 # List: 1, EDID: PEO_ShipDamageOutput_Player_Perk, REC: PERK:DESC
 msgctxt "000010"

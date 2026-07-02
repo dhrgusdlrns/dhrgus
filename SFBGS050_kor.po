@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-18 03:10+0900\n"
-"PO-Revision-Date: 2026-06-25 10:28+0000\n"
+"PO-Revision-Date: 2026-07-03 16:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -2327,7 +2327,7 @@ msgstr "테란 인커전"
 #. FormID: 02021405
 msgctxt "000766"
 msgid "Opulence of the Stars"
-msgstr "오퓰런스 오브 더 스타"
+msgstr "오퓰런스 오브 더 스타즈"
 
 #. List: 0
 #. EDID: scSFTERAssaultPlatform001HoldingCell
@@ -2367,7 +2367,7 @@ msgstr "Quick Test Cell"
 #. FormID: 0201B126
 msgctxt "0007AD"
 msgid "Opulence of the Stars"
-msgstr "오퓰런스 오브 더 스타"
+msgstr "오퓰런스 오브 더 스타즈"
 
 #. List: 0
 #. EDID: SFTERLC001_EngineeringKey
@@ -10302,7 +10302,7 @@ msgstr "강제 기상"
 msgctxt "002169"
 msgid "Ensign Ari Malroy, Engineering - Opulence of the Stars\nLocation: Still in space. Shocking, I know."
 msgstr ""
-"아리 맬로이 소위, 엔지니어링 - 오퓰런스 오브 더 스타\n"
+"아리 맬로이 소위, 엔지니어링 - 오퓰런스 오브 더 스타즈\n"
 "위치: 아직도 우주. 놀랍지, 나도 알아."
 
 #. List: 0
@@ -14144,7 +14144,7 @@ msgstr "테란 샤카 II"
 #. FormID: 0208383B
 msgctxt "0024AC"
 msgid "Red Bed"
-msgstr "빨간 침대"
+msgstr "빨간색 이불 침대"
 
 #. List: 0
 #. EDID: SFBGS037_ElevatedCabin_Bed_Purple
@@ -14152,7 +14152,7 @@ msgstr "빨간 침대"
 #. FormID: 0208383A
 msgctxt "0024AD"
 msgid "Purple Bed"
-msgstr "보라색 침대"
+msgstr "보라색 이불 침대"
 
 #. List: 0
 #. EDID: SFBGS037_ElevatedCabin_Bed_Blue
@@ -14160,7 +14160,7 @@ msgstr "보라색 침대"
 #. FormID: 02083839
 msgctxt "0024AE"
 msgid "Blue Bed"
-msgstr "파란 침대"
+msgstr "파란색 이불 침대"
 
 #. List: 0
 #. EDID: SFBGS037_ElevatedCabin_CouchFlipped
@@ -16199,7 +16199,7 @@ msgid "Status: CLOSED\n\nAn attack aboard the vessel The Opulence of the Stars h
 msgstr ""
 "상태: 종결\n"
 "\n"
-"함선 오퓰런스 오브 더 스타에서 발생한 공격이 보고되어 현재 조사 중이다. 실제로 무슨 일이 벌어졌는지는 알 수 없으나, 요원 예모자는 "
+"함선 오퓰런스 오브 더 스타즈에서 발생한 공격이 보고되어 현재 조사 중이다. 실제로 무슨 일이 벌어졌는지는 알 수 없으나, 요원 예모자는 "
 "한 개인이 함선에 진입해 공격자들과 교전했다는 보고를 보냈다. 현재 테란에 대해서는 추가 기밀 정보(권한이 있다면 테란의 기원에서 확인 "
 "가능) 외에는 알려진 바가 거의 없다.\n"
 "\n"
@@ -16238,7 +16238,7 @@ msgid "Status: CLOSED\n\nAn attack aboard the vessel the Opulence of the Stars h
 msgstr ""
 "상태: 종결\n"
 "\n"
-"함선 오퓰런스 오브 더 스타에서 발생한 공격이 보고되어 현재 조사 중이다. 실제로 무슨 일이 벌어졌는지는 알 수 없으나, 요원 예모자는 "
+"함선 오퓰런스 오브 더 스타즈에서 발생한 공격이 보고되어 현재 조사 중이다. 실제로 무슨 일이 벌어졌는지는 알 수 없으나, 요원 예모자는 "
 "한 개인이 함선에 진입해 공격자들과 교전했다는 보고를 보냈다. 현재 테란에 대해서는 추가 기밀 정보(권한이 있다면 테란의 기원에서 확인 "
 "가능) 외에는 알려진 바가 거의 없다.\n"
 "\n"
@@ -16276,7 +16276,7 @@ msgid "Status: OPEN\n\nAn attack aboard the vessel the Opulence of the Stars has
 msgstr ""
 "상태: 진행 중\n"
 "\n"
-"함선 오퓰런스 오브 더 스타에서 발생한 공격이 보고되어 현재 조사 중이다. 실제로 무슨 일이 벌어졌는지는 알 수 없으나, 요원 예모자는 "
+"함선 오퓰런스 오브 더 스타즈에서 발생한 공격이 보고되어 현재 조사 중이다. 실제로 무슨 일이 벌어졌는지는 알 수 없으나, 요원 예모자는 "
 "한 개인이 함선에 진입해 공격자들과 교전했다는 보고를 보냈다. 현재 테란에 대해서는 추가 기밀 정보(권한이 있다면 테란의 기원에서 확인 "
 "가능) 외에는 알려진 바가 거의 없다.\n"
 "\n"
@@ -16308,7 +16308,7 @@ msgid "Status: OPEN\n\nAn attack aboard the vessel the Opulence of the Stars has
 msgstr ""
 "상태: 진행 중\n"
 "\n"
-"함선 오퓰런스 오브 더 스타에서 발생한 공격이 보고되어 현재 조사 중이다. 실제로 무슨 일이 벌어졌는지는 알 수 없으나, 요원 예모자는 "
+"함선 오퓰런스 오브 더 스타즈에서 발생한 공격이 보고되어 현재 조사 중이다. 실제로 무슨 일이 벌어졌는지는 알 수 없으나, 요원 예모자는 "
 "한 개인이 함선에 진입해 공격자들과 교전했다는 보고를 보냈다. 현재 테란에 대해서는 추가 기밀 정보(권한이 있다면 테란의 기원에서 확인 "
 "가능) 외에는 알려진 바가 거의 없다.\n"
 "\n"
@@ -16338,7 +16338,7 @@ msgid "Status: OPEN\n\nAn attack aboard the vessel the Opulence of the Stars has
 msgstr ""
 "상태: 진행 중\n"
 "\n"
-"함선 오퓰런스 오브 더 스타에서 발생한 공격이 보고되어 현재 조사 중이다. 실제로 무슨 일이 벌어졌는지는 알 수 없으나, 요원 예모자는 "
+"함선 오퓰런스 오브 더 스타즈에서 발생한 공격이 보고되어 현재 조사 중이다. 실제로 무슨 일이 벌어졌는지는 알 수 없으나, 요원 예모자는 "
 "한 개인이 함선에 진입해 공격자들과 교전했다는 보고를 보냈다. 현재 테란에 대해서는 추가 기밀 정보(권한이 있다면 테란의 기원에서 확인 "
 "가능) 외에는 알려진 바가 거의 없다.\n"
 "\n"
@@ -17117,7 +17117,9 @@ msgstr "테란 함대는 대부분 로봇 병력으로 구성되어 있으며, �
 #. FormID: 020A2096
 msgctxt "0026A5"
 msgid "The Opulence of the Stars is a cruise liner owned by Trident Luxury Lines, one of newest ships of the class manufactured at the Trident Staryard above Akila."
-msgstr "오퓰런스 오브 더 스타스는 트라이던트 럭셔리 라인 소유의 유람선으로, 아킬라 상공의 트라이던트 우주조선소에서 제작된 동급 최신 선박 중 하나입니다."
+msgstr ""
+"오퓰런스 오브 더 스타즈는 트라이던트 럭셔리 라인 소유의 유람선으로, 다른 동급 우주선들과 함께 아킬라의 궤도권에 있는 트라이던트 "
+"우주조선소에서 제작되었습니다."
 
 #. List: 0
 #. EDID: LS_SFBGS050_VOID
@@ -17637,7 +17639,7 @@ msgstr "손상된 트라이던트 함선"
 #. FormID: 020A4B82
 msgctxt "0026FF"
 msgid "Opulence of the Stars"
-msgstr "오퓰런스 오브 더 스타"
+msgstr "오퓰런스 오브 더 스타즈"
 
 #. List: 0
 #. EDID: SFTER_INC_Slate30_Anxiety
@@ -18053,7 +18055,7 @@ msgstr "테란 함대 장갑 우주 헬멧"
 #. FormID: 020A5512
 msgctxt "00274E"
 msgid "Opulence of the Stars"
-msgstr "오퓰런스 오브 더 스타"
+msgstr "오퓰런스 오브 더 스타즈"
 
 #. List: 0
 #. EDID: SFTERLC001ShipLocation
@@ -18061,7 +18063,7 @@ msgstr "오퓰런스 오브 더 스타"
 #. FormID: 020A5513
 msgctxt "00274F"
 msgid "Opulence of the Stars"
-msgstr "오퓰런스 오브 더 스타"
+msgstr "오퓰런스 오브 더 스타즈"
 
 #. List: 0
 #. EDID: SFTER_MQ01
@@ -19798,7 +19800,7 @@ msgstr "알고라브 II"
 #. FormID: 0020350D
 msgctxt "00CB64"
 msgid "Siren of the Stars"
-msgstr "세이렌 오브 더 스타"
+msgstr "세이렌 오브 더 스타즈"
 
 #. List: 0
 #. EDID: SELocation
@@ -21235,7 +21237,8 @@ msgstr "테란 리클레이머를 무력화해 <Alias=ChosenPlanetSurfaceLocatio
 #. FormID: 0203B642
 msgctxt "0015A4"
 msgid "Nova Galactic Habitat Modules come in several different interior configurations, for a variety of personalization options."
-msgstr "노바 갤럭틱 선실 모듈에는 여러 가지 내부 장식 구성이 제공되므로, 개인의 각양각색 취향에 맞춰 선택할 수 있습니다."
+msgstr ""
+"노바 갤럭틱 선실 모듈에는 여러 종류의 내부 장식 선택지가 제공됩니다. 개인별로 각양각색 취향에 맞춰 장식을 선택할 수 있습니다."
 
 #. List: 1
 #. EDID: SFTER_INC_MIN_DropPodsGround01
@@ -23318,7 +23321,7 @@ msgstr "발레리아는 내가 암구호를 말하자 자신을 따라오라고 
 msgctxt "0021DC"
 msgid "After investigating the Opulence of the Stars and meeting Delta, Agent Yemoja told me those in charge would want to meet Delta and me. I've been asked to head to Anchorpoint and order a 'vocatis vacuos.'"
 msgstr ""
-"오퓰런스 오브 더 스타 호를 조사하고 델타를 만난 뒤, 요원 예모자는 윗선에서 델타와 나를 만나고 싶어 할 거라고 말했다. 앵커포인트로 "
+"오퓰런스 오브 더 스타즈 호를 조사하고 델타를 만난 뒤, 요원 예모자는 윗선에서 델타와 나를 만나고 싶어 할 거라고 말했다. 앵커포인트로 "
 "가서 '보카티스 바쿠오스'를 주문하라는 요청을 받았다."
 
 #. List: 1
@@ -23328,7 +23331,7 @@ msgstr ""
 msgctxt "0021DD"
 msgid "After investigating the Opulence of the Stars and meeting Delta, Agent Yemoja told me those in charge would want to meet Delta and me. I've been asked to head to Anchorpoint and order a 'vocatis vacuos.'"
 msgstr ""
-"오퓰런스 오브 더 스타 호를 조사하고 델타를 만난 뒤, 요원 예모자는 윗선에서 델타와 나를 만나고 싶어 할 거라고 말했다. 앵커포인트로 "
+"오퓰런스 오브 더 스타즈 호를 조사하고 델타를 만난 뒤, 요원 예모자는 윗선에서 델타와 나를 만나고 싶어 할 거라고 말했다. 앵커포인트로 "
 "가서 '보카티스 바쿠오스'를 주문하라는 요청을 받았다."
 
 #. List: 1
@@ -24098,7 +24101,9 @@ msgstr ""
 #. FormID: 02043828
 msgctxt "0023BE"
 msgid "I ran into Agent Yemoja at Anchorpoint. It's been a while since we last met aboard the Opulence of the Stars, I should see what she has to say."
-msgstr "앵커포인트에서 예모자 요원과 마주쳤다. 오퓰런스 오브 더 스타스에서 마지막으로 만난 뒤 꽤 오랜만이니, 그녀가 무슨 말을 하려는지 들어봐야겠다."
+msgstr ""
+"앵커포인트에서 예모자 요원과 마주쳤다. 오퓰런스 오브 더 스타즈에서 마지막으로 만난 뒤 꽤 오랜만이니, 그녀가 무슨 말을 하려는지 "
+"들어봐야겠다."
 
 #. List: 1
 #. EDID: SFTER_MS02_TerranSlate
@@ -25129,8 +25134,8 @@ msgstr ""
 msgctxt "002704"
 msgid "Daniel Fogel: Maiden voyage for the Opulence of the Stars, glitz and glamour everywhere you look. Luxury food, Zero-G dance floors, a sonic wave pool... This is the life huh, Ellie?\n\nEllie Aikau: Yeah, this is the exactly what I got my degree for -- writing puff pieces on a bunch of yuppies with too many credits to spend.\n\nDaniel Fogel: Aw, don't be like that. Not everything people want to read is gonna be award-winning. Sometimes you just want to hear about the good things in life. Gives you something to daydream about.\n\nEllie Aikau: They're always sticking us on this empty stuff, though. When are we going to get something with some teeth?\n\nDaniel Fogel: You know, most people would appreciate getting to live it up on company credit.\n\nEllie Aikau: *sigh* Maybe you have a point. Not like there's anything I can really do about it right now.\n\nDaniel Fogel: Ellie Aikau -- actually listening to me for once? Did I just hit a jackpot?\n\nEllie Aikau: Yeah, yeah. Enjoy it while you can.\n\nDaniel Fogel: While I'm still riding this high maybe we should try for a real jackpot! I saw some slots past the lounge earlier. How about we...\n\nDaniel Fogel: Whoa, what was that? Almost felt like--\n\nEllie Aikau: Almost feels like a story, yeah?\n\nDaniel Fogel: *sigh* There goes my vacation."
 msgstr ""
-"다니엘 포겔: 오퓰런스 오브 더 스타의 처녀 항해라. 사방이 화려함과 사치로 가득하네. 고급 음식, 무중력 댄스 플로어, 음파 풀장... "
-"이런 게 인생 아니겠어, 엘리?\n"
+"다니엘 포겔: 오퓰런스 오브 더 스타즈의 처녀 항해라. 사방이 화려함과 사치로 가득하네. 고급 음식, 무중력 댄스 플로어, 음파 "
+"풀장... 이런 게 인생 아니겠어, 엘리?\n"
 "\n"
 "엘리 아이카우: 그래, 이게 바로 내가 학위까지 딴 이유지. 쓸 크레딧이 넘쳐나는 여피들 홍보성 기사나 쓰려고.\n"
 "\n"
@@ -25208,7 +25213,7 @@ msgstr ""
 "\n"
 "다니엘 포겔: 맙소사, 맙소사... 엘리, 여기 왔어. 소리가 들려. 제발, 가야 해!\n"
 "\n"
-"엘리 아이카우: 좋아, 됐다. 테스트, 테스트! 여기는 오퓰런스 오브 더 스타에 탑승한 엘리 아이카우입니다. 누구든 이 메시지가 "
+"엘리 아이카우: 좋아, 됐다. 테스트, 테스트! 여기는 오퓰런스 오브 더 스타즈에 탑승한 엘리 아이카우입니다. 누구든 이 메시지가 "
 "들린다면, 우리는 공격을 받았습니다--\n"
 "\n"
 "다니엘 포겔: 엘리, 그건--\n"
@@ -25719,7 +25724,8 @@ msgstr "방아쇠를 당길 때마다 3발씩 발사하는 격발 장치. "
 #. FormID: 020A8783
 msgctxt "0027A4"
 msgid "Nova Galactic Habitat Modules come in several different interior configurations, for a variety of personalization options."
-msgstr "노바 갤럭틱 선실 모듈에는 여러 가지 내부 장식 구성이 제공되므로, 개인의 각양각색 취향에 맞춰 선택할 수 있습니다."
+msgstr ""
+"노바 갤럭틱 선실 모듈에는 여러 종류의 내부 장식 선택지가 제공됩니다. 개인별로 각양각색 취향에 맞춰 장식을 선택할 수 있습니다."
 
 #. List: 1
 #. EDID: co_SMS_SFBGS050_Hab_TA_3L1W2H
@@ -25727,7 +25733,8 @@ msgstr "노바 갤럭틱 선실 모듈에는 여러 가지 내부 장식 구성�
 #. FormID: 020A9072
 msgctxt "0027AE"
 msgid "Nova Galactic Habitat Modules come in several different interior configurations, for a variety of personalization options."
-msgstr "노바 갤럭틱 선실 모듈에는 여러 가지 내부 장식 구성이 제공되므로, 개인의 각양각색 취향에 맞춰 선택할 수 있습니다."
+msgstr ""
+"노바 갤럭틱 선실 모듈에는 여러 종류의 내부 장식 선택지가 제공됩니다. 개인별로 각양각색 취향에 맞춰 장식을 선택할 수 있습니다."
 
 #. List: 1
 #. EDID: SFTER_MQ02A
@@ -25776,7 +25783,7 @@ msgstr "안타깝게도 시설에서 장애물에 막혔고, 시스템을 작동
 msgctxt "0027E3"
 msgid "After investigating the Opulence of the Stars and meeting Delta, Agent Yemoja told me those in charge would want to meet Delta and me. I've been asked to head to Anchorpoint in the Algorab system."
 msgstr ""
-"오퓰런스 오브 더 스타를 조사하고 델타를 만난 뒤, 요원 예모자는 책임자들이 델타와 나를 만나고 싶어 한다고 말했다. 알고랍 성계의 "
+"오퓰런스 오브 더 스타즈를 조사하고 델타를 만난 뒤, 요원 예모자는 책임자들이 델타와 나를 만나고 싶어 한다고 말했다. 알고랍 성계의 "
 "앵커포인트로 가라는 요청을 받았다."
 
 #. List: 1
@@ -27632,7 +27639,7 @@ msgstr "*숨막힘*"
 #: 020059D4/00000/SFTER_MQIntro_Scene_010_SSNNKiosk:02005A05
 msgctxt "000112"
 msgid "The luxury liner, Opulence of the Stars, has been hijacked in the Nirvana System, by a group calling themselves the Terran Armada."
-msgstr "호화 유람선 오퓰런스 오브 더 스타가 니르바나 성계에서 납치되었습니다. 납치범들은 자신들의 이름이 테란 함대라고 밝혔습니다."
+msgstr "호화 유람선 오퓰런스 오브 더 스타즈가 니르바나 성계에서 납치되었습니다. 납치범들은 자신들의 이름이 테란 함대라고 밝혔습니다."
 
 #. List: 2
 #. EDID: SFTER_MQIntroSharedInfo04
@@ -40257,7 +40264,7 @@ msgstr ""
 #: 0201A3F9/00170/SFTER_MQ02A_0170_VOID:0201A46D
 msgctxt "0006E8"
 msgid "Tell us: what happened on the Opulence of the Stars?"
-msgstr "말해 주십시오. 오퓰런스 오브 더 스타스호에서 무슨 일이 있었습니까?"
+msgstr "말해 주십시오. 오퓰런스 오브 더 스타즈 호에서 무슨 일이 있었습니까?"
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -40443,7 +40450,7 @@ msgstr "하지만 당신이 저 빌어먹을 놈들의 기계 중 하나를 데�
 #: 0201AAA8/00120/SFTER_MQ02A_0120_Tracy:0201AACC
 msgctxt "0006FF"
 msgid "We heard you fought those Terran bastards on the Opulence of the Stars. You got some guts."
-msgstr "네가 오퓰런스 오브 더 스타에서 그 테란 놈들과 싸웠다고 들었어. 배짱이 있군."
+msgstr "네가 오퓰런스 오브 더 스타즈에서 그 테란 놈들과 싸웠다고 들었어. 배짱이 있군."
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -40471,7 +40478,7 @@ msgstr "그러나 괜찮으시다면, 먼저 함께 오신 테란의 존재에 �
 #: 0201AAA9/00120/SFTER_MQ02A_0120_Percy:0201AAB7
 msgctxt "000701"
 msgid "It's good to see you here and in the flesh considering what we've heard happened to you on the Opulence of the Stars."
-msgstr "오퓰런스 오브 더 스타에서 당신에게 벌어진 일을 들었는데, 이렇게 직접 무사한 모습을 보니 반갑군요."
+msgstr "오퓰런스 오브 더 스타즈에서 당신에게 벌어진 일을 들었는데, 이렇게 직접 무사한 모습을 보니 반갑군요."
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -40500,7 +40507,7 @@ msgstr "다만 무엇보다 먼저 당신과 함께 온 테란 기계에 대해 
 msgctxt "000703"
 msgid "So you're the one who investigated the Opulence of the Stars? Impressive. The Terrans don't seem to be known for their survivors."
 msgstr ""
-"그러니까 당신이 오퓰런스 오브 더 스타를 조사한 사람이군요? 인상적입니다. 테란은 생존자를 남기는 쪽으로 유명하지 않은 것 같던데요."
+"그러니까 당신이 오퓰런스 오브 더 스타즈를 조사한 사람이군요? 인상적입니다. 테란은 생존자를 남기는 쪽으로 유명하지 않은 것 같던데요."
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -78704,7 +78711,7 @@ msgstr "목표: 록산 부로 박사 납치. 납치 목적: 불명. 평가: 깔�
 #: 0203B385/00170/SFTER_MQ02A_0170_VOID:0203B3CF
 msgctxt "0016C6"
 msgid "Terran Armada attacked Opulence of Stars. Left no survivors."
-msgstr "테란 함대가 오퓰런스 오브 더 스타를 공격. 생존자 없음."
+msgstr "테란 함대가 오퓰런스 오브 더 스타즈를 공격. 생존자 없음."
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -104725,7 +104732,7 @@ msgstr "누구든 이걸 듣고 있다면, 우리는 공격을 받았--"
 #: 02061863/00000/SFTER_MQ01_AudioLogs_Report03:020618D6
 msgctxt "002030"
 msgid "Okay, got it. Testing, testing! This is Ellie Aikau, aboard the Opulence of the Stars."
-msgstr "좋아, 됐어. 테스트, 테스트! 여기는 오퓰런스 오브 더 스타에 탑승한 엘리 아이카우입니다."
+msgstr "좋아, 됐어. 테스트, 테스트! 여기는 오퓰런스 오브 더 스타즈에 탑승한 엘리 아이카우입니다."
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -105132,7 +105139,7 @@ msgstr "고급 요리, 무중력 댄스 플로어, 소닉 웨이브 풀... 이�
 #: 02061886/00000/SFTER_MQ01_AudioLogs_Report01:020618DC
 msgctxt "00204F"
 msgid "Maiden voyage for the Opulence of the Stars, glitz and glamour everywhere you look."
-msgstr "오퓰런스 오브 더 스타의 처녀항해, 어디를 봐도 화려함과 매력이 가득하지."
+msgstr "오퓰런스 오브 더 스타즈의 처녀항해, 어디를 봐도 화려함과 매력이 가득하지."
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -105243,7 +105250,7 @@ msgstr "경고: 공격 행위는 운용 규정 위반입니다. 중지하십시�
 #: 0209EB14/00000/SFTER_MQ01_1000_SystemVoice_LockdownLifted:02067F5F
 msgctxt "0021AF"
 msgid "Thank you for choosing the Opulence of the Stars. Please enjoy the rest of your voyage."
-msgstr "오퓰런스 오브 더 스타를 이용해 주셔서 감사합니다. 남은 항해를 즐겨 주십시오."
+msgstr "오퓰런스 오브 더 스타즈를 이용해 주셔서 감사합니다. 남은 항해를 즐겨 주십시오."
 
 #. List: 2
 #. REC: INFO:NAM1

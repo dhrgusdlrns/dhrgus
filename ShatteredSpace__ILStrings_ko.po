@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-06-22 15:51+0000\n"
+"PO-Revision-Date: 2026-07-07 13:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -36,7 +36,7 @@ msgstr "아직도 이 곳에는 처리해야하는 이단자 녀석들이 있어
 #. SUBTYPE: BlockingHello
 msgctxt "02F33B"
 msgid "Caution, friend. The faithless still roam this vessel."
-msgstr "주의하게, 친구. 여전히 함선을 배회하는 불신자들이 있어."
+msgstr "주의하게, 친구. 여전히 우주선을 배회하는 불신자들이 있어."
 
 #. SCRIPT NOTES: Worried
 #. VOICE TYPE: SFBGS001_VaruunGenericMale02
@@ -1087,7 +1087,7 @@ msgstr "좋은 솜씨야. 전에 본 것 같은 느낌이지만."
 #. SUBTYPE: Custom
 msgctxt "02A209"
 msgid "Then it's goodbye for now. Serpent be with you!"
-msgstr "그럼, 이만 안녕. 뱀께서 함께하시길!"
+msgstr "그럼, 이만 안녕. 위대한 뱀께서 함께하시길!"
 
 #. SCRIPT NOTES: Puzzled
 #. VOICE TYPE: SFBGS001_NPCFSahimaKadic
@@ -1327,7 +1327,7 @@ msgstr "그러다가 누가 심각히 다칠 수도 있었어."
 #. SUBTYPE: Goodbye
 msgctxt "0298AC"
 msgid "Safe travels."
-msgstr "안전하게 다녀."
+msgstr "안전하게 여행해."
 
 #. SCRIPT NOTES: Angry
 #. VOICE TYPE: SFBGS001_VaruunGenericMale02
@@ -5264,7 +5264,7 @@ msgstr "적들이 우리의 무장 하나를 파괴했어!"
 #. SUBTYPE: SpaceshipLeaveCombat
 msgctxt "01B6C6"
 msgid "Well done. If you don't mind. I'll check the ship for damages."
-msgstr "잘했어. 괜찮다면, 함선에 가해진 피해 수준을 확인할게."
+msgstr "잘했어. 괜찮다면, 우주선에 가해진 피해 수준을 확인할게."
 
 #. VOICE TYPE: SFBGS001_NPCFSahimaKadic
 #. FACE: Neutral
@@ -5919,7 +5919,7 @@ msgstr "경고 신호가 장난이 아닌데. 돌아가는 편이 좋을 것 같
 #. SUBTYPE: Custom
 msgctxt "0196EB"
 msgid "I really hope that was an accident."
-msgstr "그게 사고였길 바라."
+msgstr "그게 사고였으면 좋겠어."
 
 #. VOICE TYPE: SFBGS001_VaruunGenericMale02
 #. FACE: Neutral
@@ -6360,7 +6360,7 @@ msgstr "역겨운 저주받은 자!"
 #. SUBTYPE: Custom
 msgctxt "017B1D"
 msgid "Be sure to wipe the dust off your feet before getting back on the ship. Red's too suspicious of a color."
-msgstr "함선에 오르기 전에 먼지부터 다 털고 들어가라고. 붉은색이 덕지덕지 남으면 의심을 사니까."
+msgstr "우주선에 오르기 전에 먼지부터 다 털고 들어가라고. 붉은색이 덕지덕지 남으면 의심을 사니까."
 
 #. VOICE TYPE: SFBGS001_NPCMTaneSalavea
 #. FACE: Serious
@@ -7170,7 +7170,7 @@ msgstr "차량을 거래하고 싶습니다."
 #. SUBTYPE: Custom
 msgctxt "014D6B"
 msgid "I'd like to view my vehicles."
-msgstr "제 차량을 살펴보고 싶습니다."
+msgstr "제 차량을 살펴보거나 개조하고 싶습니다."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: The Great Serpent guides me. This is more than coincidence. This is fate itself. &&& Razma: Yes, it does seem more than mere coincidence, doesn't it? But there's still one unanswered question. &&& Razma: I don't know where the Zealots are keeping Sahima, but I have a good idea who does.|Their name is Mirek. Mirek is a Ka'dic, and they also work for me as an agent in the Ministry of Conjunction. |This is where matters get... complicated.
@@ -7490,7 +7490,7 @@ msgstr "이 여정이 얼마나 안전한 겁니까? 길이 보호되어 있나�
 #. SUBTYPE: SharedInfo
 msgctxt "014AF3"
 msgid "Lost, alone, amidst a dream's whispers. A voice, sings, for our trapped world unheard."
-msgstr "홀로 길 잃은 채, 꿈의 속삭임 속에서. 들리지 않는 어느 노랫소리, 우리의 갇힌 세상을 향해."
+msgstr "길 잃어, 홀로, 꿈의 속삭임을 헤매네. 목소리, 노래, 갇혀버린 세상에선 안 들리네."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: Malik hired me to find out what's happening to his groats. &&& Farmer: Well, I am his farmhand, and he never told me that, so how do I know you are telling the truth?
@@ -7520,7 +7520,7 @@ msgstr "시치미 떼지 마. 이 슬레이트에 해조류 양식장에서 아�
 #. SUBTYPE: Custom
 msgctxt "014AE2"
 msgid "Knock it off. Malik doesn't have farmhands. He says so in this note."
-msgstr "집어치워. 말릭은 일꾼이 없어. 이쪽에 그렇게 적혀 있다고."
+msgstr "집어치워. 말릭 씨에겐 일꾼이 없어. 여기 그렇게 적혀 있다고."
 
 #. SCRIPT NOTES: Angry
 #. VOICE TYPE: RobotModelAGeneric
@@ -8776,7 +8776,7 @@ msgstr "어쨌든 질서가 세워지겠지. 그건 확실해."
 #. SUBTYPE: Custom
 msgctxt "01483C"
 msgid "Indeed, they seem to value order very highly. Hopefully the rest of House Va'ruun will follow."
-msgstr "확실히 질서를 매우 중시하는 것 같아. 부디 바룬 가문의 나머지 인원들도 그러길 바라."
+msgstr "확실히 질서를 매우 중시하는 것 같아. 부디 바룬 가문의 나머지 인원들도 그랬으면 좋겠어."
 
 #. DIALOGUE BEFORE: Player Default: I have faith that Razma will be a good leader. &&& Andreja: The decision is behind us, so I can do nothing but share that faith.
 #. ALIAS: Andreja
@@ -9529,7 +9529,7 @@ msgstr "그래! 분명히! 넌 그냥... 넌... 넌.. 날 짜증나게 해, 알�
 #. SUBTYPE: Custom
 msgctxt "01480A"
 msgid "I hope that at some point you can understand... How much your actions can affect others."
-msgstr "언젠가는 너도 이해하게 되길 바라... 자신의 행동이 다른 사람에게 얼마나 큰 영향을 미칠 수 있는지."
+msgstr "언젠가는 너도 이해하게 됐으면 좋겠어... 자신의 행동이 다른 사람에게 얼마나 큰 영향을 미칠 수 있는지."
 
 #. SCRIPT NOTES: Stern
 #. DIALOGUE BEFORE: Andreja: There is no living descendant! So... So what, they should just give up?
@@ -10040,7 +10040,7 @@ msgstr "추가 방어 조치가 신민들에게 조금이라도 위안을 주었
 #. SUBTYPE: Custom
 msgctxt "0147E2"
 msgid "Extra defenses seem necessary, but I hope those turrets are properly calibrated."
-msgstr "추가 방어 조치가 필요해 보이긴 하지만 포탑들이 제대로 조정되어 있길 바라."
+msgstr "추가 방어 조치가 필요해 보이긴 하지만 포탑들이 제대로 조정되어 있었으면 좋겠어."
 
 #. SCRIPT NOTES: Grateful
 #. VOICE TYPE: NPCFAndreja
@@ -13438,7 +13438,7 @@ msgstr "저게 우리가 찾는 부스터 팩 같은데. 말리야한테 다시 
 #. SUBTYPE: Custom
 msgctxt "0146E5"
 msgid "A bunker. I doubt any ships flying over head would even notice this thing."
-msgstr "벙커네. 저 위에 날아다니는 함선들은 눈치도 못 챌걸."
+msgstr "벙커네. 저 위에 날아다니는 우주선들은 눈치도 못 챌걸."
 
 #. VOICE TYPE: NPCMSamCoe
 #. FACE: Confident
@@ -14206,7 +14206,7 @@ msgstr "여기서 일종의 사업 거래가 이루어졌던 것 같아. 아니�
 #. SUBTYPE: Custom
 msgctxt "0146A4"
 msgid "That vessel has been stripped bare, but it looks sturdy enough."
-msgstr "저 함선은 깡그리 털렸지만, 꽤나 튼튼해 보여."
+msgstr "저 우주선은 깡그리 털렸지만, 꽤나 튼튼해 보여."
 
 #. VOICE TYPE: NPCFSarahMorgan
 #. FACE: Confident
@@ -17245,7 +17245,7 @@ msgstr "그렇게 어리석지는 않을 거야. 내가 베타알 가문을 선�
 #. SUBTYPE: Custom
 msgctxt "01452E"
 msgid "So you chose them knowing that might happen? I hope you're joking."
-msgstr "그런 일이 일어날 수 있다는 걸 알고도 그자들을 선택했다고? 농담이길 바라."
+msgstr "그런 일이 일어날 수 있다는 걸 알고도 그자들을 선택했다고? 농담이었으면 좋겠어."
 
 #. SCRIPT NOTES: Apologetic
 #. PROMPT: What do you think about House Veth'aal?
@@ -18199,7 +18199,7 @@ msgstr "봐, 넌 컨스텔레이션의 일원이니까, 내가 편향된 걸 수
 #. SUBTYPE: Custom
 msgctxt "0144E8"
 msgid "So I'm giving you another set of cards. Let's hope you play 'em right."
-msgstr "그러니까 한 번 더 기회를 주겠다는 거야. 이번엔 제대로 하길 바라."
+msgstr "그러니까 한 번 더 기회를 주겠다는 거야. 이번엔 제대로 했으면 좋겠어."
 
 #. SCRIPT NOTES: Frustrated. Reluctantly willing to listen to the player. / Irritated
 #. PROMPT: Sam, please, I can explain.
@@ -18551,7 +18551,7 @@ msgstr "저게 그 반응로야! 머리를 잘 굴려 봐. 일단 저걸 안정�
 #. SUBTYPE: Custom
 msgctxt "0144BE"
 msgid "Whoa. This thing looks ready to blow."
-msgstr "와. 저거 터지기 직전인 것 같은데."
+msgstr "우와. 저거 터지기 직전인 것 같은데."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: companion
@@ -18978,7 +18978,7 @@ msgstr "탐험과 파괴가 서로 배타적인 건 아니잖아."
 #. SUBTYPE: Custom
 msgctxt "01449F"
 msgid "I hope in time you realize the scale of what you've done. The lives that you put in harm's way. But either way, I can't be a part of it."
-msgstr "네가 한 일의 심각성을 언젠가 깨닫길 바라. 네가 위험에 빠뜨린 생명들 말이야. 어느 쪽이든, 난 거기에 가담할 수 없어."
+msgstr "네가 한 일의 심각성을 언젠가 깨달았으면 좋겠어. 네가 위험에 빠뜨린 생명들 말이야. 어느 쪽이든, 난 거기에 가담할 수 없어."
 
 #. SCRIPT NOTES: Angry
 #. PROMPT: Exploration and destruction aren't mutually exclusive.
@@ -19068,7 +19068,7 @@ msgstr "상관없어. 결정은 이미 내려졌으니까."
 #. SUBTYPE: Custom
 msgctxt "014499"
 msgid "I want you to open your eyes and see the consequences of that choice. And if you can't, then I can't be a part of it."
-msgstr "네가 그 선택의 결과를 직시하길 바라. 그리고 그럴 수 없다면, 난 거기에 가담할 수 없어."
+msgstr "네가 그 선택의 결과를 직시했으면 좋겠어. 그리고 그럴 수 없다면, 난 거기에 가담할 수 없어."
 
 #. SCRIPT NOTES: Angry
 #. PROMPT: It is the best thing for the Settled Systems.
@@ -19199,7 +19199,7 @@ msgstr "네가 생명을 위험에 빠뜨리는 그 경솔한 방식... 그건 �
 #. SUBTYPE: Custom
 msgctxt "014490"
 msgid "I'm going to stick with you for now, but please -- learn from this."
-msgstr "당분간은 너와 함께 하겠지만, 제발 – 이번 일에서 교훈을 얻길 바라."
+msgstr "당분간은 너와 함께 하겠지만, 제발 이번 일에서 교훈을 얻었으면 좋겠어."
 
 #. SCRIPT NOTES: A warning to the player. / Concerned
 #. DIALOGUE BEFORE: Barrett: We've been through so much, and are on this journey together.
@@ -19924,7 +19924,7 @@ msgstr "그리고 '지도자 선택’에 관해서는, 네가 옳은 선택을 
 #. SUBTYPE: Custom
 msgctxt "014457"
 msgid "For the sake of Dazra, I hope to see improvement sooner than that."
-msgstr "다즈라를 위해서, 그보다 더 빨리 개선되기를 바라."
+msgstr "다즈라를 위해서, 그보다 더 빨리 개선됐으면 좋겠어."
 
 #. SCRIPT NOTES: Confident
 #. PROMPT: I actually chose House Veth'aal knowing it was the worst thing for Dazra.
@@ -26402,7 +26402,7 @@ msgstr "희망을 잃지 않도록 해 봐야지요. 앞으로 무슨 일이 있
 #. SUBTYPE: BlockingHello
 msgctxt "0141F8"
 msgid "You have no place in our city."
-msgstr "우리 도시에서 네가 있을 자리는 없어."
+msgstr "우리 도시에 네 녀석이 있을 자리는 없어."
 
 #. SCRIPT NOTES: Disgust
 #. VOICE TYPE: SFBGS001_NPCMMakolaJubav
@@ -27819,7 +27819,7 @@ msgstr "요새 바깥으로 나오니 꽤 좋네."
 #. SUBTYPE: Hello
 msgctxt "014184"
 msgid "The armor of the Fang? But how?"
-msgstr "송곳니의 방어구? 하지만 어떻게?"
+msgstr "송곳니의 방어구잖아? 하지만 어떻게?"
 
 #. SCRIPT NOTES: Surprised, confused / Surprised
 #. VOICE TYPE: SFBGS001_VaruunGenericMale02
@@ -27956,7 +27956,7 @@ msgstr "지시 사항대로."
 #. SUBTYPE: Custom
 msgctxt "014179"
 msgid "Why are these groats so important? Can't you replace them?"
-msgstr "왜 그로트가 그렇게 중요한데? 그냥 다른 걸로 대체하면 안 돼?"
+msgstr "그로트가 뭐가 그렇게 중요한데요? 그냥 다른 걸로 대신하면 안 되나요?"
 
 #. SCRIPT NOTES: gruff / Neutral / to Player Default
 #. DIALOGUE BEFORE: Player Default: Why are these groats so important? Can't you replace them?
@@ -27983,7 +27983,8 @@ msgstr "쯧, 가축 키우는 것에 대해 아무것도 모르는군. 다즈라
 #. SUBTYPE: Custom
 msgctxt "014177"
 msgid "And, if I keep losing groats, how will I breed new ones? I can work with the other groat farms, but their supply is already strained."
-msgstr "그리고, 내가 계속 그로트를 잃으면, 어떻게 새끼를 치겠어? 다른 그로트 목장과 협력할 수 있지만, 그쪽 물자도 이미 바닥을 보이고 있어."
+msgstr ""
+"그리고, 내가 계속 그로트를 잃으면, 어떻게 새끼를 치겠나? 다른 그로트 목장과 협력할 수 있지만, 그쪽 물자도 이미 바닥을 보이고 있네."
 
 #. SCRIPT NOTES:  / to Player Default
 #. PROMPT: I'd like to ask you about something else. 
@@ -28559,7 +28560,7 @@ msgstr "이걸 내 마지막 작별 인사로 여겨! 선장, 끝낸다! 그리�
 msgctxt "014149"
 msgid "It all began with the king's insatiable curiosity, or so he claims. One fine day, he decided to tinker with the ship's engine controls, leading to a catastrophic failure that forced us into a crash landing on this godforsaken planet."
 msgstr ""
-"모든 건 킹의 만족할 줄 모르는 호기심이나, 녀석이 박박 우기던 것 때문에 시작됐지. 어느 좋은 날, 녀석은 함선의 엔진 제어 장치를 "
+"모든 건 킹의 만족할 줄 모르는 호기심이나, 녀석이 박박 우기던 것 때문에 시작됐지. 어느 좋은 날, 녀석은 우주선의 엔진 제어 장치를 "
 "만지작거리려 했고, 그 결과 돌발고장이 발생해서 이 망할 놈의 행성에 불시착하게 됐지."
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): So what did we do? We claimed it as our own, naturally. A temporary refuge until we could plot our escape from this miserable rock.
@@ -35256,7 +35257,7 @@ msgstr "그것만 해도 많은 변화가 있었는데, 이젠 대변자로 지�
 #. SUBTYPE: Hello
 msgctxt "013F2D"
 msgid "Viktor Veth'aal executed his own son for heresy. So much loss, and yet the Ministry of State prevails."
-msgstr "빅토르 베타알은 이단이라는 이유로 자기 아들을 처형했어요. 그렇게 많은 이들을 잃고도, 아직 국무성은 건재하죠."
+msgstr "빅토르 베타알은 이단 행위를 했다는 이유로 자기 아들을 처형했어요. 그렇게 많은 이들을 잃고도, 아직 국무성은 건재하죠."
 
 #. SCRIPT NOTES: Concerned
 #. VOICE TYPE: SFBGS001_VaruunGenericMale02
@@ -35268,7 +35269,9 @@ msgstr "빅토르 베타알은 이단이라는 이유로 자기 아들을 처형
 #. SUBTYPE: Hello
 msgctxt "013F2C"
 msgid "The Ministry of State executed Vaeric Veth'aal as a traitor. We must all remember our duty to root out heresy. Even now."
-msgstr "국무성은 배릭 베타알을 반역자로 처형했어요. 우리는 이단 척결의 의무를 기억해야 합니다. 현재도요."
+msgstr ""
+"국무성은 배릭 베타알을 반역자로 규정하고 처형했어. 우리는 이단자들을 뿌리 뽑아야 하는 우리의 의무를 기억해야 해. 지금 이 순간에도 "
+"말이지."
 
 #. SCRIPT NOTES: Confident
 #. VOICE TYPE: SFBGS001_VaruunGenericMale02
@@ -46960,7 +46963,7 @@ msgstr "배급용 그로트를 안정적으로 공급해야 한다는 압박이 
 #. SUBTYPE: Custom
 msgctxt "013B8B"
 msgid "We are holding out, but if something goes wrong, we could be responsible for the starvation of hundreds."
-msgstr "우린 버티고 있지만, 일이 잘못되면 수백 명의 굶주림에 대한 책임을 져야 할 수도 있어."
+msgstr "우린 버티고 있지만, 일이 잘못되면 수백 명이 굶주리게 되는데 그 책임을 져야 할 수도 있네."
 
 #. SCRIPT NOTES: Tired / to Player Default
 #. ALIAS: HVDazraMalikVosh
@@ -46974,7 +46977,7 @@ msgstr "우린 버티고 있지만, 일이 잘못되면 수백 명의 굶주림�
 #. SUBTYPE: Custom
 msgctxt "013B8A"
 msgid "All this pressure... it is not good for an old body like mine."
-msgstr "이 모든 압박감... 나 같은 늙은이에겐 좋지 않아."
+msgstr "이 모든 압박감... 나 같은 늙은이에겐 좋지 않네."
 
 #. SCRIPT NOTES:  / to MQ_EkrisKaisir
 #. ALIAS: Player Default
@@ -47252,7 +47255,7 @@ msgstr "우리 우주 밖에서 온 적을 상대로 검증되지 않은 기술�
 #. SUBTYPE: Custom
 msgctxt "013B77"
 msgid "And with my groats missing, things are growing worse by the day."
-msgstr "게다가 그로트들이 사라지면서 상황은 날이 갈수록 나빠지고 있어."
+msgstr "게다가 그로트들이 사라지면서 상황은 날이 갈수록 나빠지고 있네."
 
 #. SCRIPT NOTES: Irritated / to Player Default
 #. PROMPT: Unproven technology against enemies from outside our universe? Sounds like a great plan.
@@ -47336,7 +47339,7 @@ msgstr "코에서 그로트 냄새를 빼기란 쉽지 않아..."
 #. SUBTYPE: Custom
 msgctxt "013B71"
 msgid "Will you pay me?"
-msgstr "돈은 주는 건가?"
+msgstr "돈은 주는 건가요?"
 
 #. SCRIPT NOTES: Irritated / to Player Default
 #. PROMPT: Will you pay me?
@@ -47352,7 +47355,7 @@ msgstr "돈은 주는 건가?"
 #. SUBTYPE: Custom
 msgctxt "013B70"
 msgid "Do I look like a miser? Yes, yes, I will pay you."
-msgstr "내가 구두쇠로 보이나? 그래, 그래, 돈은 줄 테니까."
+msgstr "내가 구두쇠로 보이나? 그래, 그래, 돈은 주겠네."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: Wait a second, maybe I can help you.  &&& MalikVosh: Eh, perhaps. |I'm old. And very tired. I suppose I could use the assistance.  &&& MalikVosh: For weeks now, my groats have been going missing. The first time I did not think much of it. Groats are crafty, and sometimes they escape. |But I am down too many groats now for this to be mere coincidence. They are being stolen. |This cannot continue. I cannot keep purchasing new groats only for them to go missing a few days later.  And without my groats, I cannot supply milk or meat to the city. |I understand that this may seem a minor problem compared to others in Dazra, but I would appreciate your assistance.
@@ -47367,7 +47370,7 @@ msgstr "내가 구두쇠로 보이나? 그래, 그래, 돈은 줄 테니까."
 #. SUBTYPE: Custom
 msgctxt "013B6F"
 msgid "I don't have time right now."
-msgstr "지금은 시간이 없어."
+msgstr "지금은 시간이 없어서요."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. PROMPT: I'll help you find your groats.
@@ -47382,7 +47385,7 @@ msgstr "지금은 시간이 없어."
 #. SUBTYPE: Custom
 msgctxt "013B6E"
 msgid "I appreciate the help."
-msgstr "도와줘서 고마워."
+msgstr "도와줘서 고맙네."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. PROMPT: I'll help you find your groats.
@@ -47411,7 +47414,7 @@ msgstr "내 목장에 가서 내가 놓친 게 있는지 찾아봐. 나는 도�
 #. SUBTYPE: Custom
 msgctxt "013B6C"
 msgid "I'll help you find your groats."
-msgstr "그로트를 찾도록 도와주지."
+msgstr "그로트 찾는 일을 도와드리겠습니다."
 
 #. SCRIPT NOTES: Irritated / to Player Default
 #. PROMPT: Nothing, never mind.
@@ -47456,7 +47459,7 @@ msgstr "이봐, 나 진짜 가봐야 해. 급한 일이라서 말이야."
 #. SUBTYPE: Custom
 msgctxt "013B69"
 msgid "Then please, do not waste my time any further. I must continue my inquiries."
-msgstr "그러면 더 이상 내 시간을 낭비하지 말아 줘. 난 계속 찾아봐야 하니까."
+msgstr "그러면 더 이상 내 시간을 낭비하지 말아 주게나. 계속 찾아봐야 하니까."
 
 #. SCRIPT NOTES: Surprised / to Player Default
 #. PROMPT: [10000 Credits] I have another idea. I'll pay you to take the groat back to Malik, and work on his farm as a farmhand.
@@ -47500,7 +47503,7 @@ msgstr "글쎄, 말릭이 허락한다면 당신 제안을 받아들이겠어. �
 #. SUBTYPE: Custom
 msgctxt "013B66"
 msgid "Nothing, never mind."
-msgstr "아니, 됐어."
+msgstr "아뇨, 됐어요."
 
 #. SCRIPT NOTES: Nervous / to Player Default
 #. ALIAS: AndrahDubib
@@ -47539,7 +47542,7 @@ msgstr "넌 네가 생각하는 것만큼 무섭지 않아."
 #. SUBTYPE: Custom
 msgctxt "013B63"
 msgid "The person at Malik's farm mentioned you by name. I know something's up."
-msgstr "말릭 농장에 있는 사람이 네 이름을 말했어. 뭔가 있는 거 다 알아."
+msgstr "말릭 씨 농장에 있는 사람이 네 이름을 말했어. 뭔가 있는 거 다 알아."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. ALIAS: AndrahDubib
@@ -47580,7 +47583,8 @@ msgstr "네 말을 믿을 수 없어."
 #. SUBTYPE: Custom
 msgctxt "013B60"
 msgid "[10000 Credits] I have another idea. I'll pay you to take the groat back to Malik, and work on his farm as a farmhand."
-msgstr "[10000 크레딧] 다른 생각이 있어. 네가 그로트를 말릭에게 돌려주고 말릭의 농장에서 일꾼으로 일한다면 돈을 줄게."
+msgstr ""
+"[10000 크레딧] 다른 생각이 있어. 네가 그로트를 말릭 씨에게 돌려주고 말릭 씨의 농장에서 일꾼으로 일한다면 크레딧을 줄게."
 
 #. SCRIPT NOTES: Nervous / to Player Default
 #. ALIAS: AndrahDubib
@@ -47825,7 +47829,7 @@ msgstr "네가 그로트를 가지고 있잖아. 수상하긴 하네."
 #. SUBTYPE: Custom
 msgctxt "013B4D"
 msgid "All I want is to give Malik his groat back. I don't care what happens to you."
-msgstr "난 그저 말릭에게 그로트를 돌려주고 싶을 뿐이야. 네가 어떻게 되든 상관없어."
+msgstr "난 그저 말릭 씨에게 그로트를 돌려주고 싶을 뿐이야. 네가 어떻게 되든 상관없어."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: Just admit it. You're the reason Malik's groats have been disappearing.  &&& AndrahDubib: I did nothing of the sort!   &&& AndrahDubib: *Sigh* Look, really, I do not know what you want from me. Please just leave me alone. &&& AndrahDubib: Okay, okay, I confess. This groat is not mine, and I have been taking Malik's groats for some time, but I swear to you that it is for a good reason.|I know so many people that cannot feed themselves or their families. So many people, so many children, are starving. |I have been taking the groats and giving them to families that cannot afford to feed themselves. At times I pay others to steal the groats so that they can use the credits for medication or other supplies. |Listen, I will pay you however much the groat is worth, but just let me leave with it. I will leave Malik's groats alone from here on out.
@@ -47840,7 +47844,7 @@ msgstr "난 그저 말릭에게 그로트를 돌려주고 싶을 뿐이야. 네�
 #. SUBTYPE: Custom
 msgctxt "013B4C"
 msgid "I think you should work on Malik's farm as a farmhand to make up for the groats you've taken."
-msgstr "네가 훔친 그로트를 보상하려면 말릭의 농장에서 일꾼으로 일해야 할 것 같아."
+msgstr "네가 훔친 그로트를 보상하려면 말릭 씨의 농장에서 일꾼으로 일해야 할 것 같아."
 
 #. SCRIPT NOTES:  / to AndrahDubib
 #. ALIAS: Player Default
@@ -47983,7 +47987,7 @@ msgstr "뭐라고? 뭘 한다고?"
 #. SUBTYPE: Custom
 msgctxt "013B42"
 msgid "I do not need any help, much less from a no-good groat thief. I would have rathered you shot him."
-msgstr "난 도움이 필요 없어. 더군다나 그로트 도둑놈의 도움 따위. 차라리 네가 그 녀석을 쐈으면 좋았을 텐데."
+msgstr "난 도움이 필요 없네. 더군다나 그로트 도둑놈의 도움 따위. 차라리 자네가 그 녀석을 쐈으면 좋았을 텐데."
 
 #. SCRIPT NOTES: Nervous / to Player Default
 #. ALIAS: AndrahDubib
@@ -48024,7 +48028,7 @@ msgstr "어... 아니, 별로."
 #. SUBTYPE: Custom
 msgctxt "013B3F"
 msgid "You don't mean that. You're getting old and could use the help."
-msgstr "그런 뜻이 아니잖아. 너도 이제 늙었고, 도움이 필요할 수도 있잖아."
+msgstr "그런 뜻으로 한 말이 아닌 거 아시잖습니까. 말릭 씨도 이제 늙었고, 도움이 필요할 수도 있잖아요."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. PROMPT: He had good intentions but he went about things the wrong way. Give him a chance.
@@ -48054,7 +48058,7 @@ msgstr "그럴지도 모르지. 하지만, 그래도, 그 녀석을 믿을 수 �
 #. SUBTYPE: Custom
 msgctxt "013B3D"
 msgid "I found the person responsible for your missing groats. He'd like to apologize and work as your farmhand."
-msgstr "네 그로트를 훔쳐 간 사람을 찾았어. 사과하고 네 농장에서 일꾼으로 일하고 싶대."
+msgstr "말릭 씨 그로트를 훔쳐 간 사람을 찾았습니다. 사과하고 농장에서 일꾼으로 일하고 싶다고 합니다."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. PROMPT: I could run back over and kill him if you'd like. 
@@ -48084,7 +48088,7 @@ msgstr "아니, 아니, 아니, 이미 끝난 일이야."
 #. SUBTYPE: Custom
 msgctxt "013B3B"
 msgid "I just was not expecting something like this to happen."
-msgstr "그냥 이런 일이 벌어질 줄은 몰랐어."
+msgstr "그냥 이런 일이 벌어질 줄은 몰랐네."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: You don't mean that. You're getting old and could use the help. &&& MalikVosh: I mean... I... maybe so, but from the very same person who stole livestock from me? I just was not expecting this outcome.
@@ -48098,7 +48102,7 @@ msgstr "그냥 이런 일이 벌어질 줄은 몰랐어."
 #. SUBTYPE: Custom
 msgctxt "013B3A"
 msgid "You can always turn him away when he comes to apologize."
-msgstr "사과하러 오면 거절해도 되잖아."
+msgstr "사과하러 오면 거절해도 되잖습니까."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. PROMPT: You don't mean that. You're getting old and could use the help.
@@ -48114,7 +48118,8 @@ msgstr "사과하러 오면 거절해도 되잖아."
 #. SUBTYPE: Custom
 msgctxt "013B39"
 msgid "I mean... I... maybe so, but from the very same person who stole livestock from me? I just was not expecting this outcome."
-msgstr "내 말은... 그러니까... 그럴지도 모르지만, 가축을 훔쳐 간 바로 그 사람한테서? 이런 결말은 전혀 예상치 못했어."
+msgstr ""
+"내 말은... 그러니까... 그럴지도 모르지만, 가축을 훔쳐 간 바로 그 인간한테 도움을 받으라고? 이런 결말은 전혀 예상치 못했네."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: [Lie] I'm sorry. I couldn't find any sign of a thief, or your missing groats.  &&& MalikVosh: That is very, very disappointing. I suppose at this point I can only continue to pray to the Great Serpent, and hope for the best.|I appreciate your help, though I worry that my troubles are not over.  |Although you found nothing, I understand that you took time to try and help me. Here are a few credits for your trouble.|Now I suppose it's best for me to return to what is left of my farm. Excuse me. 
@@ -48129,7 +48134,7 @@ msgstr "내 말은... 그러니까... 그럴지도 모르지만, 가축을 훔�
 #. SUBTYPE: Custom
 msgctxt "013B38"
 msgid "The thief had good intentions."
-msgstr "그 도둑놈이 좋은 의도를 가지고 있었다고."
+msgstr "그 도둑은 좋은 의도로 그런 겁니다."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. DIALOGUE BEFORE: MalikVosh: 
@@ -48156,7 +48161,7 @@ msgstr "흠, 자비의 미덕을 발휘해 그 도둑놈의 말을 들어주겠�
 #. SUBTYPE: Custom
 msgctxt "013B36"
 msgid "It has been a strange day, and I would very much like to rest now. I appreciate you looking into this matter."
-msgstr "참 이상한 하루였어. 이제 푹 쉬고 싶군. 이 일을 살펴봐 줘서 고맙네."
+msgstr "참 이상한 하루였네. 이제 푹 쉬고 싶군. 이 일을 살펴봐 줘서 고맙네."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: I found the person responsible for your missing groats. He'd like to apologize and work as your farmhand. &&& MalikVosh: He'd like to what and do what?|I do not need any help, much less from a no-good groat thief. I would have rathered you shot him.
@@ -48171,7 +48176,7 @@ msgstr "참 이상한 하루였어. 이제 푹 쉬고 싶군. 이 일을 살펴�
 #. SUBTYPE: Custom
 msgctxt "013B35"
 msgid "He had good intentions but he went about things the wrong way. Give him a chance."
-msgstr "앤드라는 좋은 의도로 한 짓이야. 방법이 잘못됐을 뿐이야. 앤드라에게 기회를 줘."
+msgstr "앤드라가 좋은 의도로 한 짓입니다. 방법이 잘못됐을 뿐입니다. 앤드라에게 기회를 주시죠."
 
 #. SCRIPT NOTES: Irritated / to Player Default
 #. PROMPT: The thief had good intentions.
@@ -48256,7 +48261,7 @@ msgstr "말릭, 사과하러 왔어. 네 농장 일꾼으로 일해서 보상하
 #. SUBTYPE: Custom
 msgctxt "013B2F"
 msgid "Hmmm... nonsense, honest work means honest pay, which I will be giving you."
-msgstr "흠... 말도 안 되는 소리. 정직하게 일하면 정직하게 보수를 줘야지. 그게 내가 너한테 줄 보수다."
+msgstr "흠... 말도 안 되는 소리. 정직하게 일하면 정직하게 보수를 줘야지. 그게 자네에게 줄 보수일세."
 
 #. SCRIPT NOTES: Stern / to AndrahDubib
 #. DIALOGUE BEFORE: MalikVosh: Hmmm... nonsense, honest work means honest pay, which I will be giving you. &&& AndrahDubib: I... but sir, I --
@@ -48285,7 +48290,7 @@ msgstr "내 관대함을 그런 식으로 걷어차지 마라, 얘야. 열심히
 #. SUBTYPE: Custom
 msgctxt "013B2D"
 msgid "It is just me at the farm, I do not have any workers. If that were the case I would not have bothered asking you for help."
-msgstr "농장엔 나 혼자야. 일꾼은 없어. 만약 일꾼이 있었다면 애초에 자네에게 도움을 요청하지도 않았을 거야."
+msgstr "농장엔 나 혼자네. 일꾼은 없네. 만약 일꾼이 있었다면 애초에 자네에게 도움을 요청하지도 않았을 걸세."
 
 #. SCRIPT NOTES:  / to MalikVosh
 #. ALIAS: Player Default
@@ -48299,7 +48304,7 @@ msgstr "농장엔 나 혼자야. 일꾼은 없어. 만약 일꾼이 있었다면
 #. SUBTYPE: Custom
 msgctxt "013B2C"
 msgid "Do you have any workers that might have seen anything suspicious?"
-msgstr "뭐 의심스러운 걸 본 일꾼이 있을까?"
+msgstr "뭐 의심스러운 걸 본 일꾼은 없습니까?"
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: I found the person responsible for your missing groats. He'd like to apologize and work as your farmhand. &&& MalikVosh: He'd like to what and do what?|I do not need any help, much less from a no-good groat thief. I would have rathered you shot him.
@@ -48314,7 +48319,7 @@ msgstr "뭐 의심스러운 걸 본 일꾼이 있을까?"
 #. SUBTYPE: Custom
 msgctxt "013B2B"
 msgid "I could run back over and kill him if you'd like."
-msgstr "원한다면 지금 당장 달려가서 그 녀석을 죽여줄 수도 있어."
+msgstr "원한다면 지금 당장 달려가서 그 녀석을 죽여줄 수도 있습니다."
 
 #. SCRIPT NOTES: Stern / to AndrahDubib
 #. ALIAS: MalikVosh
@@ -48327,7 +48332,7 @@ msgstr "원한다면 지금 당장 달려가서 그 녀석을 죽여줄 수도 �
 #. SUBTYPE: Custom
 msgctxt "013B2A"
 msgid "So, you are the culprit that has been taking my groats from me."
-msgstr "그러니까, 네가 내 그로트를 훔쳐 간 범인이구나."
+msgstr "그러니까, 그쪽이 내 그로트를 훔쳐 간 범인이군."
 
 #. SCRIPT NOTES: Stern / to AndrahDubib
 #. ALIAS: MalikVosh
@@ -48355,7 +48360,7 @@ msgstr "그래, 얘야, 할 말 있으면 어디 해 봐라."
 #. SUBTYPE: Custom
 msgctxt "013B28"
 msgid "Ugh, enough of this. Get to work."
-msgstr "윽, 이쯤하면 됐어. 가서 일이나 해."
+msgstr "윽, 이쯤하면 됐네. 가서 일이나 해."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: AndrahDubib: Do you need something?
@@ -48399,7 +48404,7 @@ msgstr "알겠습니다. 감사합니다!"
 #. SUBTYPE: Custom
 msgctxt "013B25"
 msgid "You could always call the guards if you don't want him working for you."
-msgstr "그 녀석이 네 밑에서 일하기 싫으면 언제든 경비대원을 부를 수 있어."
+msgstr "그 녀석이 말릭 씨 밑에서 일하기 싫다고 하면 언제든 경비대원을 부르면 되겠죠."
 
 #. SCRIPT NOTES: Surprised / to MalikVosh
 #. DIALOGUE BEFORE: AndrahDubib: I have come to apologize, Malik. I want to make it up to you by working as your farmhand. You do not have to pay me -- I know I have made things difficult for you. &&& MalikVosh: Hmmm... nonsense, honest work means honest pay, which I will be giving you.
@@ -48489,7 +48494,7 @@ msgstr "뭘 꾸물대는 거야? 내 농장에 가서 뭐라도 찾아봐."
 #. SUBTYPE: Hello
 msgctxt "013B1E"
 msgid "What are you still doing here? Please, we mustn't waste time."
-msgstr "여기서 아직도 뭘 꾸물대는 거야? 지체할 시간이 없어."
+msgstr "여기서 아직도 뭘 꾸물대는 겐가? 지체할 시간이 없네."
 
 #. VOICE TYPE: SFBGS001_NPCFSahimaKadic
 #. FACE: Neutral
@@ -48595,7 +48600,7 @@ msgstr "그래, 그 갑옷을 입고 우주 킹처럼 으스대고 있더군."
 #. SUBTYPE: Custom
 msgctxt "013AFC"
 msgid "Knock it off. Malik told me he doesn't have farmhands, so just tell me what's going on."
-msgstr "집어치워. 말릭한테 일꾼이 없다고 들었으니까, 무슨 일인지 말해."
+msgstr "집어치워. 말릭 씨한테 일꾼이 없다고 들었으니까, 무슨 일인지 말해."
 
 #. SCRIPT NOTES: Nervous / to Player Default
 #. PROMPT: Knock it off. Malik told me he doesn't have farmhands, so just tell me what's going on.
@@ -49453,7 +49458,7 @@ msgstr "뭐야? 여기서 뭐 하는 거야?"
 #. SUBTYPE: Custom
 msgctxt "013AB1"
 msgid "I could ask you the same thing."
-msgstr "내가 할 말이야."
+msgstr "제가 할 말입니다."
 
 #. SCRIPT NOTES: trying to come up with an excuse / Nervous / to Player Default
 #. PROMPT: I could ask you the same thing.
@@ -49484,7 +49489,7 @@ msgstr "난 말릭의 일꾼이고, 그로트를 돌보고 있어. 딱 보면 �
 #. SUBTYPE: Custom
 msgctxt "013AAF"
 msgid "Malik hired me to find out what's happening to his groats."
-msgstr "말릭은 자기 그로트가 어떻게 된 건지 알아보려고 날 고용했어."
+msgstr "말릭 씨는 자기 그로트가 어떻게 된 건지 알아보려고 날 고용했어."
 
 #. SCRIPT NOTES: trying to come up with an excuse / Nervous / to Player Default
 #. PROMPT: Malik hired me to find out what's happening to his groats.
@@ -49632,7 +49637,7 @@ msgstr "저... 알았어, 알았어, 제발 내 말 좀 들어봐!"
 #. SUBTYPE: Custom
 msgctxt "013AA4"
 msgid "Something fishy is going on, here. You seem nervous."
-msgstr "여기 뭔가 수상한데. 너 안절부절못하고 있어."
+msgstr "여기 뭔가 수상한데. 너 안절부절못하고 있잖아."
 
 #. SCRIPT NOTES: Nervous / to Player Default
 #. PROMPT: Something fishy is going on, here. You seem nervous.
@@ -49795,7 +49800,7 @@ msgstr "젠장, 알았어."
 #. SUBTYPE: Custom
 msgctxt "013A98"
 msgid "Give me the credits Andrah paid you before you go. They belong to Malik."
-msgstr "가기 전에 앤드라가 준 돈 이리 내. 그건 말릭 거야."
+msgstr "가기 전에 앤드라가 준 돈 이리 내. 그건 말릭 씨 거야."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Farmer: What? What are you doing here? 
@@ -51094,7 +51099,7 @@ msgstr "더 이상 이방인들이 우리 도시에 몰려드는 건 필요 없�
 #. SUBTYPE: Custom
 msgctxt "013A21"
 msgid "However, the Great Serpent has favored House Ka'dic, so I will hold my tongue and support them, as any citizen should."
-msgstr "하지만 위대한 뱀께서 카딕 가문을 총애하셨으니, 난 입을 다물고 그들을 지지할 것이다. 모든 시민이 그래야 하듯이."
+msgstr "하지만 위대한 뱀께서 카딕 가문을 총애하셨으니, 난 입을 다물고 그들을 지지할 거다. 모든 시민이 그래야 하듯이."
 
 #. SCRIPT NOTES: Serious / to HVDazraMakolaJubav
 #. ALIAS: Player Default
@@ -51192,7 +51197,7 @@ msgstr "위대한 뱀에 대한 헌신은 이해하지만, 강제 순례는 나�
 #. SUBTYPE: Custom
 msgctxt "013A1A"
 msgid "They are strong rulers that understand that the words of Jinan Va'ruun and obedience to the Great Serpent is paramount."
-msgstr "그들은 지난 바룬의 말씀과 위대한 뱀에 대한 복종이 가장 중요하다는 것을 이해하는 강력한 통치자들입니다."
+msgstr "그 가문 사람들은 지난 바룬의 말씀과 위대한 뱀에 대한 복종이 가장 중요하다는 것을 이해하는 강력한 통치자들이지."
 
 #. SCRIPT NOTES: Serious / to Player Default
 #. ALIAS: HVDazraMakolaJubav
@@ -51205,7 +51210,7 @@ msgstr "그들은 지난 바룬의 말씀과 위대한 뱀에 대한 복종이 �
 #. SUBTYPE: Custom
 msgctxt "013A19"
 msgid "We will all be made stronger from their rule."
-msgstr "우리는 모두 그들의 통치로 인해 더 강해질 것입니다."
+msgstr "우리 모두는 가문의 통치 아래 더 강해질 거다."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. DIALOGUE BEFORE: HVDazraSaharRaztan: I hope ending our isolation will lead to trade relationships with the Settled Systems. I could finally get official parts for my machine.|I am nervous about reunification, though. Will we be safe if the Zealots come back?
@@ -51248,7 +51253,7 @@ msgstr "가게를 연 이래 처음으로 장사가 잘되고 있어요."
 #. SUBTYPE: Custom
 msgctxt "013A16"
 msgid "Business has never been better, and that is good enough for me."
-msgstr "장사가 이보다 더 잘 된 적은 없었고, 그것만으로도 충분합니다."
+msgstr "장사가 이보다 더 잘 된 적이 없었어. 그것만으로도 만족스러워."
 
 #. SCRIPT NOTES: Serious / to HVDazraMakolaJubav
 #. ALIAS: Player Default
@@ -52065,7 +52070,7 @@ msgstr "이걸 다 어떻게 끝내라는 걸까요? 계속 일을 더 주는데
 #. SUBTYPE: Hello
 msgctxt "0139DC"
 msgid "I guess we may start seeing more and more Settled Systems ships, if we stop our, uh, isolation. Dumar should be happy."
-msgstr "우리가, 어, 고립을 멈추면 개척 성계 함선이 더 많이 보이기 시작하겠죠. 두마르가 좋아하겠네요."
+msgstr "우리가, 어, 고립을 멈추면 개척 성계 우주선이 더 많이 보이기 시작하겠죠. 두마르가 좋아하겠네요."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: He sounds plenty lost himself. &&& Malibor: You... could hear him? &&& Malibor: Despite the sightings, none have heard a word from Anasko in all this time. Yet you claim to?|Do not toy with me. Not about this. If you speak truth, you must prove it. What did he say?
@@ -52092,7 +52097,7 @@ msgstr "모두가 섬겨야 한다."
 #. SUBTYPE: Hello
 msgctxt "0139DA"
 msgid "I hope I get to see a lot more Settled Systems ships flying in, now that Razma is Speaker."
-msgstr "라즈마가 대변자가 되었으니 개척 성계 함선이 더 많이 들어오는 걸 보면 좋겠어."
+msgstr "라즈마가 대변자가 되었으니 개척 성계 우주선이 더 많이 들어오는 걸 보면 좋겠어."
 
 #. SCRIPT NOTES: Neutral
 #. VOICE TYPE: SFBGS001_NPCMDumarHasadi
@@ -52104,7 +52109,7 @@ msgstr "라즈마가 대변자가 되었으니 개척 성계 함선이 더 많�
 #. SUBTYPE: Hello
 msgctxt "0139D9"
 msgid "Maybe Hasmak will start trading ships with the Settled Systems."
-msgstr "어쩌면 해즈막이 개척 성계와 함선 교역을 시작할지도 몰라."
+msgstr "어쩌면 해즈막이 개척 성계와 우주선 교역을 시작할지도 몰라."
 
 #. SCRIPT NOTES: Neutral
 #. VOICE TYPE: SFBGS001_NPCMDumarHasadi
@@ -52116,7 +52121,7 @@ msgstr "어쩌면 해즈막이 개척 성계와 함선 교역을 시작할지도
 #. SUBTYPE: Hello
 msgctxt "0139D8"
 msgid "I hope I get to see a lot more Settled Systems ships flying in, now that Razma is Speaker."
-msgstr "라즈마가 대변자가 되었으니 개척 성계 함선이 더 많이 들어오는 걸 보면 좋겠어."
+msgstr "라즈마가 대변자가 되었으니 개척 성계 우주선이 더 많이 들어오는 걸 보면 좋겠어."
 
 #. VOICE TYPE: SFBGS001_NPCFHantonIrara
 #. FACE: Neutral
@@ -52327,7 +52332,7 @@ msgstr "둘케프 가문의 명령으로 더 빨리 재건할 수 있으면 좋�
 #. SUBTYPE: Hello
 msgctxt "0139C6"
 msgid "I hope the Great Serpent hears everyone's prayers on their pilgrimages."
-msgstr "위대한 뱀께서 순례길에 오른 모든 이들의 기도를 들어주시길 바라."
+msgstr "위대한 뱀께서 순례길에 오른 모든 이들의 기도를 들어주셨으면 좋겠어."
 
 #. SCRIPT NOTES: stressed / Tired
 #. VOICE TYPE: SFBGS001_NPCMOmanLabir
@@ -52467,7 +52472,7 @@ msgstr "그러느냐? 미안하구나. 그냥 간단한 질문이라 생각했�
 #. SUBTYPE: Custom
 msgctxt "0139BC"
 msgid "How close did you get to the phantom? Any details on who it might be?"
-msgstr "그 유령을 얼마나 가까이서 봤습니까? 누구일지 구체적으로 알려 줄 게 있습니까?"
+msgstr "유령을 얼마나 가까이서 봤습니까? 구체적으로 알려 줄 수 있는 세부사항이 또 있습니까?"
 
 #. SCRIPT NOTES: Apologetic
 #. DIALOGUE BEFORE: Player Default: How close did you get to the phantom? Any details on who it might be?
@@ -52481,7 +52486,7 @@ msgstr "그 유령을 얼마나 가까이서 봤습니까? 누구일지 구체�
 #. SUBTYPE: Custom
 msgctxt "0139BB"
 msgid "I'm afraid I did not get close at all. The ground surrounding the orphanage is collapsing."
-msgstr "자세히 보질 못했어요. 고아원의 땅 주변이 무너지고 있거든요."
+msgstr "자세히 보진 못했어요. 고아원 주변 땅이 무너지고 있었거든요."
 
 #. SCRIPT NOTES: Afraid
 #. ALIAS: Breanne
@@ -52495,7 +52500,8 @@ msgstr "자세히 보질 못했어요. 고아원의 땅 주변이 무너지고 �
 msgctxt "0139BA"
 msgid "There may be other dangers and perhaps even phantoms nearby. But my concern is for anyone who may have been living in the building."
 msgstr ""
-"다른 위험이나 심지어 유령들이 있을지 몰라요. 다만 저는 그 건물에 혹시라도 누가 살고 있나, 그렇다면 그 사람들이 걱정된다는 거예요."
+"주변에 다른 위험 요소가 있을 수도 있고, 심하면 볼텍스 유령들이 나타날지도 몰라요. 그렇지만 혹시라도 그 건물에 누가 살고 있었는지, "
+"그 사람들은 괜찮은지 걱정돼요."
 
 #. ALIAS: Breanne
 #. VOICE TYPE: SFBGS001_NPCFBreanneIbaka
@@ -54516,7 +54522,7 @@ msgstr "서둘러."
 #. SUBTYPE: WaitingForPlayerInput
 msgctxt "013927"
 msgid "Are we done?"
-msgstr "다 끝났나요?"
+msgstr "다 끝났나?"
 
 #. SCRIPT NOTES: Waiting for the player's report. / Serious
 #. VOICE TYPE: SFBGS001_NPCMViktorVethaal
@@ -67780,7 +67786,7 @@ msgstr "우리는 지난 바룬 님의 인도에 따라 곧장 이곳에 도착�
 #. SUBTYPE: Custom
 msgctxt "0134D9"
 msgid "Yes, its final resting place is directly above, very near where it first set down on this moon."
-msgstr "맞다. 바로 위쪽이 함선의 마지막 안식처이지. 이 위성에 처음 착륙했던 곳과도 아주 가깝고."
+msgstr "맞다. 바로 위쪽이 우주선의 마지막 안식처이지. 이 위성에 처음 착륙했던 곳과도 아주 가깝고."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Inaza: It was Jinan Va'ruun's guidance that led us to this precise spot, where he knew there would be temporary shelter waiting.
@@ -73479,7 +73485,7 @@ msgstr "배릭이 돌아왔으니 이제 이곳을 좀 더 집처럼 안락하�
 #. SUBTYPE: Goodbye
 msgctxt "013329"
 msgid "Serpent be with you."
-msgstr "뱀께서 함께 하시길."
+msgstr "위대한 뱀께서 함께 하시길."
 
 #. SCRIPT NOTES: Friendly
 #. VOICE TYPE: SFBGS001_NPCFVitoriaVethaal
@@ -78599,7 +78605,7 @@ msgstr ""
 msgctxt "013130"
 msgid "Why the limited resources, Speaker? Building half the armies is like building a ship with half a grav drive. It will take us nowhere."
 msgstr ""
-"어째서 자원이 한정된 것입니까, 대변자님? 반쪽짜리 군대를 만드는 건 중력 구동기 절반만 가지고 함선을 만드는 것과 같습니다. 아무것도 "
+"어째서 자원이 한정된 것입니까, 대변자님? 반쪽짜리 군대를 만드는 건 중력 구동기 절반만 가지고 우주선을 만드는 것과 같습니다. 아무것도 "
 "못 할 겁니다."
 
 #. SCRIPT NOTES:  / to Speaker
@@ -78805,7 +78811,7 @@ msgstr "알겠습니다. 그리고 시간이 다 된 것 같군요."
 #. SUBTYPE: Custom
 msgctxt "013122"
 msgid "Nonsense. The more ships we ransack, the more our supplies increase. It is a problem that solves itself."
-msgstr "헛소리. 더 많은 함선을 약탈할수록 우리 자원도 늘어난다. 알아서 해결될 문제란 말이다."
+msgstr "헛소리. 더 많은 우주선을 약탈할수록 우리 자원도 늘어난다. 알아서 해결될 문제란 말이다."
 
 #. SCRIPT NOTES: Defiant / to Kadic_Djimal, Dulkehf_Malibor, Vethaal_Lovek
 #. DIALOGUE BEFORE: Speaker: However, we should consider this merely a pause in our ultimate goal. The complete domination of the Settled Systems. &&& ...  &&& Kadic_Djimal: The main question is how to divert resources. Supplies are limited in the wake of the cataclysm. &&& Vethaal_Lovek: I am aware. &&& Dulkehf_Malibor: We are already rationing on all fronts. I would recommend we pull back our efforts until things stabilize.
@@ -80538,7 +80544,7 @@ msgstr "사업은 위대한 뱀의 뜻대로지."
 #. SUBTYPE: Custom
 msgctxt "013075"
 msgid "But surely House Dul'kehf's changes have helped. Trade seems to be flowing, to your store and others."
-msgstr "하지만 둘케프 가문의 변화가 도움이 된 건 확실해. 자네 가게를 포함해서 다른 곳도 교역이 활발해진 것 같아."
+msgstr "그래도 둘케프 가문 인원에 변동이 생긴 게 도움이 된 건 확실해. 자네 가게는 물론 다른 가게도 거래가 활발해진 것 같아."
 
 #. SCRIPT NOTES:  / to Makola
 #. DIALOGUE BEFORE: Citizen01: So how has the new House affected business? &&& Makola: Business is as the Great Serpent wills.
@@ -80553,7 +80559,7 @@ msgstr "하지만 둘케프 가문의 변화가 도움이 된 건 확실해. 자
 #. SUBTYPE: Custom
 msgctxt "013074"
 msgid "But the talk of integrating outsiders and heretics, surely this must worry you as a dealer of weapons."
-msgstr "하지만 이방인과 이단자를 통합한다는 이야기가 무기 중개상인 자네를 분명 걱정스럽게 할 텐데."
+msgstr "그런데 이방인이나 이단자와 협력 관계를 맺는다는 얘기가 있더군. 무기 중개상인 자네에겐 분명 걱정거리일 텐데."
 
 #. SCRIPT NOTES:  / to Makola
 #. DIALOGUE BEFORE: Citizen01: So how has the new House affected business? &&& Makola: Business is as the Great Serpent wills.
@@ -80568,7 +80574,7 @@ msgstr "하지만 이방인과 이단자를 통합한다는 이야기가 무기 
 #. SUBTYPE: Custom
 msgctxt "013073"
 msgid "But surely House Veth'aal's more militant policies will help a dealer of weapons like yourself."
-msgstr "하지만 베타알 가문의 더 강경한 정책은 자네와 같은 무기 중개상에게 분명 도움이 될 거야."
+msgstr "하지만 베타알 가문이 더 강경한 정책을 펼치면 자네 같은 무기 중개상에겐 분명 도움이 될 거야."
 
 #. SCRIPT NOTES: Angry / to Citizen01
 #. DIALOGUE BEFORE: Makola: I do not pray for succor. I pray because He wills it.
@@ -80582,7 +80588,7 @@ msgstr "하지만 베타알 가문의 더 강경한 정책은 자네와 같은 �
 #. SUBTYPE: Custom
 msgctxt "013072"
 msgid "I put my faith in the word of Jinan. What kind of servant would I be if I only prayed during times of need?"
-msgstr "나는 지난의 말씀을 믿네. 필요할 때만 기도한다면 내가 어떤 신도라고 할 수 있겠나?"
+msgstr "나는 지난의 말씀을 믿네. 필요할 때만 기도를 드린다면 내가 어떻게 그분의 종이라고 할 수 있겠나?"
 
 #. DIALOGUE BEFORE: Citizen01: But the talk of integrating outsiders and heretics, surely this must worry you as a dealer of weapons.
 #. ALIAS: Citizen01
@@ -80596,7 +80602,7 @@ msgstr "나는 지난의 말씀을 믿네. 필요할 때만 기도한다면 내�
 #. SUBTYPE: Custom
 msgctxt "013071"
 msgid "I know I myself have prayed on this subject. Surely you have done the same."
-msgstr "나 자신도 이 문제에 대해 기도했다는 걸 알고 있네. 자네도 분명 그렇게 했겠지."
+msgstr "사실은 나도 이 문제에 대해 기도했었네. 자네도 분명 마찬가지였겠지."
 
 #. DIALOGUE BEFORE: Citizen01: But surely House Dul'kehf's changes have helped. Trade seems to be flowing, to your store and others.
 #. ALIAS: Citizen01
@@ -80610,7 +80616,7 @@ msgstr "나 자신도 이 문제에 대해 기도했다는 걸 알고 있네. �
 #. SUBTYPE: Custom
 msgctxt "013070"
 msgid "I know I myself have prayed for such an outcome. Surely you have done the same."
-msgstr "나 자신도 그런 결과를 위해 기도했다는 걸 알고 있네. 자네도 분명 그렇게 했겠지."
+msgstr "사실은 나도 그런 결과를 바라고 기도했었네. 자네도 분명 그렇게 했겠지."
 
 #. SCRIPT NOTES: Defiant
 #. DIALOGUE BEFORE: Makola: Business is as the Great Serpent wills. &&& Citizen01: But surely House Dul'kehf's changes have helped. Trade seems to be flowing, to your store and others. &&& Citizen01: I know I myself have prayed on this subject. Surely you have done the same.
@@ -80625,7 +80631,7 @@ msgstr "나 자신도 그런 결과를 위해 기도했다는 걸 알고 있네.
 #. SUBTYPE: Custom
 msgctxt "01306F"
 msgid "I do not pray for succor. I pray because He wills it."
-msgstr "나는 구원을 위해 기도하지 않아. 그 분께서 원하시기 때문에 기도하는 거지."
+msgstr "나는 구원을 원해서 기도하는 게 아니야. 그 분께서 원하시기 때문에 기도하는 거지."
 
 #. SCRIPT NOTES: Defiant
 #. DIALOGUE BEFORE: Makola: Business is as the Great Serpent wills. &&& Citizen01: But surely House Dul'kehf's changes have helped. Trade seems to be flowing, to your store and others. &&& Citizen01: I know I myself have prayed on this subject. Surely you have done the same.
@@ -84204,7 +84210,7 @@ msgstr "모두가 섬겨야 한다."
 #. SUBTYPE: Custom
 msgctxt "012F03"
 msgid "Buy what you need, then leave."
-msgstr "필요한 걸 샀으면, 가 봐."
+msgstr "필요한 걸 샀으면, 이만 가 보시지."
 
 #. SCRIPT NOTES: Serious
 #. DIALOGUE BEFORE: Player Default: Let me see what you have for sale.
@@ -93903,7 +93909,7 @@ msgstr "배릭이 다즈라에서 충분히 멀리 떨어진 곳에 있게 해�
 #. SUBTYPE: Custom
 msgctxt "012C56"
 msgid "I lost my ship to the incident, so I didn't want Vaeric running off thinking I could just grab him and go."
-msgstr "그 사고 때문에 내 함선을 날려 먹었는지라, 배릭이 나랑 같이 떠날 수 있겠다고 생각하고서 도망쳐 버리면 안 되는 거였어."
+msgstr "그 사고 때문에 내 우주선을 날려 먹었는지라, 배릭이 나랑 같이 떠날 수 있겠다고 생각하고서 도망쳐 버리면 안 되는 거였어."
 
 #. SCRIPT NOTES: Friendly / to Player Default
 #. ALIAS: Tane
@@ -96444,7 +96450,7 @@ msgstr "잘 가라."
 #. SUBTYPE: Goodbye
 msgctxt "012B9C"
 msgid "Serpent be with you."
-msgstr "뱀께서 함께 하시길."
+msgstr "위대한 뱀께서 함께 하시길."
 
 #. SCRIPT NOTES: Confident
 #. VOICE TYPE: SFBGS001_NPCFIrinaMazur
@@ -96564,7 +96570,7 @@ msgstr "위대한 뱀께서 살펴 주시길."
 #. SUBTYPE: Hello
 msgctxt "012B92"
 msgid "Fair journey, outsiders."
-msgstr "안전하게 다니세요. 이방인 여러분."
+msgstr "안전하게 여행하세요. 이방인 여러분."
 
 #. SCRIPT NOTES: Confident
 #. VOICE TYPE: SFBGS001_NPCFMilaMazur
@@ -98150,7 +98156,7 @@ msgstr "아내에 대해 백만 년 동안 이야기해도, 아내가 얼마나 
 #. SUBTYPE: Custom
 msgctxt "012B06"
 msgid "Are all Settled Systems ships delivered by Zealots?"
-msgstr "개척 성계 함선은 전부 광신도가 운반해 오나요?"
+msgstr "개척 성계 우주선은 전부 광신도가 운반해 오나요?"
 
 #. SCRIPT NOTES: composing himself. / Neutral / to Player Default
 #. PROMPT: As hard as it may be, I think she would want you to move on.
@@ -98198,7 +98204,9 @@ msgstr ""
 #. SUBTYPE: Custom
 msgctxt "012B03"
 msgid "Oh, no, not in Dazra, at least. From time to time, our connections are able to deliver an outsider ship. They are very rare though, and the times I get to work on one are very few and far between."
-msgstr "아, 아니요, 적어도 다즈라에서는 아니에요. 가끔, 우리 연줄로 이방인의 함선을 받을 수 있어요. 아주 드물긴 하지만, 내가 그런 함선을 작업할 기회는 정말 손에 꼽을 정도죠."
+msgstr ""
+"아, 아니요, 적어도 다즈라에서는 아니에요. 가끔, 우리 연줄로 이방인의 우주선을 받을 수 있어요. 아주 드물긴 하지만, 내가 그런 "
+"우주선을 작업할 기회는 정말 손에 꼽을 정도죠."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: How are you so knowledgeable about ships from the Settled Systems?  &&& HVDazraDumarHasadi: Hmm, about that... |My father was a technician far outside of Dazra. Growing up, I would help him repair or strip all of the ships that were being delivered to him. Delivered by Zealots.|The ships were incredible. Deimos, Stroud-Eklund, even HopeTech. It was so exciting to work on them. But, now I just feel dirty, knowing where those ships came from, what had to be done to acquire them.|When I grew older, I came to my senses, grew a conscience, and abandoned my father. I thank the Great Serpent that I managed to avoid that life.
@@ -98228,7 +98236,8 @@ msgstr "나라면 예전 일을 계속했을 거예요. 아버지가 크레딧�
 #. SUBTYPE: Custom
 msgctxt "012B01"
 msgid "He was, but it was blood money, and I wanted no part in that. I figured it was better to work on ships that would not tear at my conscience."
-msgstr "많이 버셨지만, 그건 피 묻은 돈이었고, 난 그런 일에 관여하고 싶지 않았어. 양심에 찔리지 않을 함선을 작업하는 게 낫다고 생각했지."
+msgstr ""
+"많이 버셨지만, 그건 피 묻은 돈이었고, 난 그런 일에 관여하고 싶지 않았어. 양심에 찔리지 않을 우주선을 작업하는 게 낫다고 생각했지."
 
 #. SCRIPT NOTES: Friendly / to Player Default
 #. DIALOGUE BEFORE: Player Default: I'd like to see what you have for sale.
@@ -98700,7 +98709,7 @@ msgstr "문을 열고 이방인들이 몰려들게 하는 건 이 도시에 절�
 #. SUBTYPE: Custom
 msgctxt "012AE0"
 msgid "I am disappointed that so many of my people have embraced you so blindly, when we should have found strength within each other."
-msgstr "난 우리끼리 힘을 합쳐야 할 때, 많은 사람들이 맹목적으로 당신을 받아들인 게 실망스러워."
+msgstr "우리끼리 힘을 합쳐야 할 때인데, 신민들이 맹목적으로 널 받아들이다니 실망스럽군."
 
 #. SCRIPT NOTES:   / Neutral / to Player Default
 #. DIALOGUE BEFORE: Player Default: You're saying things that might get you in trouble. Why isn't your faith seeing you through, like other people? 
@@ -99860,7 +99869,7 @@ msgstr "좋아요. 제 물자를 아낄 수 있겠네요."
 #. SUBTYPE: Custom
 msgctxt "012A67"
 msgid "I'd like to modify my ship."
-msgstr "제 함선을 개조하고 싶습니다."
+msgstr "제 우주선을 개조하고 싶습니다."
 
 #. SCRIPT NOTES: Friendly
 #. DIALOGUE BEFORE: Player Default: I'd like to see your wares.
@@ -99947,7 +99956,7 @@ msgstr "이게 지금 제가 가지고 있는 겁니다."
 #. SUBTYPE: Custom
 msgctxt "012A61"
 msgid "I need my ship repaired."
-msgstr "제 함선을 수리해 주세요."
+msgstr "제 우주선을 수리해 주세요."
 
 #. SCRIPT NOTES: Friendly
 #. DIALOGUE BEFORE: Player Default: I need my ship repaired. 
@@ -100022,7 +100031,7 @@ msgstr "제가 손볼 곳이 없어 보이는데요."
 #. SUBTYPE: Custom
 msgctxt "012A5C"
 msgid "Looks like your ship is already in good shape."
-msgstr "함선이 이미 양호한 상태인 것 같습니다."
+msgstr "우주선이 이미 양호한 상태인 것 같습니다."
 
 #. SCRIPT NOTES: Friendly
 #. DIALOGUE BEFORE: Player Default: I need my ship repaired. 
@@ -100037,7 +100046,7 @@ msgstr "함선이 이미 양호한 상태인 것 같습니다."
 #. SUBTYPE: Custom
 msgctxt "012A5B"
 msgid "Your ship seems fine to me."
-msgstr "함선은 아무 문제 없어 보입니다."
+msgstr "우주선은 아무 문제 없어 보입니다."
 
 #. SCRIPT NOTES: Friendly
 #. DIALOGUE BEFORE: Player Default: I'd like to purchase a vehicle. 
@@ -100067,7 +100076,7 @@ msgstr "한번 보시죠."
 #. SUBTYPE: Custom
 msgctxt "012A59"
 msgid "Here are the ships I have in stock."
-msgstr "여기 제가 보유한 함선들입니다."
+msgstr "여기 제가 보유한 우주선들입니다."
 
 #. SCRIPT NOTES: Friendly
 #. DIALOGUE BEFORE: Player Default: I'd like to purchase a vehicle. 
@@ -101468,7 +101477,7 @@ msgstr "쳇, 말은 잘하네. 근데 난 네가 가난한 사람들을 돕거�
 #. SUBTYPE: Custom
 msgctxt "0129ED"
 msgid "Now, buy something or leave."
-msgstr "자, 뭐라도 사던가, 아니면 그냥 가."
+msgstr "자, 뭐라도 사. 안 살 거면 그냥 가."
 
 #. SCRIPT NOTES: a grumbling sound that someone would make when thinking, confused, etc
 #. VOICE TYPE: SFBGS001_NPCFTevinaVethaal
@@ -101750,7 +101759,7 @@ msgstr "그럼 나중에 얘기하지."
 #. SUBTYPE: Goodbye
 msgctxt "0129D7"
 msgid "Yes, yes, goodbye."
-msgstr "네, 네, 잘 가요."
+msgstr "예, 예, 잘 가라고."
 
 #. SCRIPT NOTES: stressed, busy
 #. VOICE TYPE: SFBGS001_NPCMMalikVosh
@@ -101762,7 +101771,7 @@ msgstr "네, 네, 잘 가요."
 #. SUBTYPE: Goodbye
 msgctxt "0129D6"
 msgid "Should be on my way."
-msgstr "가 봐야겠네요."
+msgstr "가 봐야겠네."
 
 #. SCRIPT NOTES: stressed, busy
 #. VOICE TYPE: SFBGS001_NPCMMalikVosh
@@ -101774,7 +101783,7 @@ msgstr "가 봐야겠네요."
 #. SUBTYPE: Goodbye
 msgctxt "0129D5"
 msgid "All right, on your way."
-msgstr "알았어요, 어서 가 보세요."
+msgstr "알았네. 어서 가 보시게."
 
 #. VOICE TYPE: SFBGS001_NPCFMilaHohdan
 #. FACE: Neutral
@@ -102268,7 +102277,7 @@ msgstr "아, 너구나. 잘 지내나?"
 #. SUBTYPE: Hello
 msgctxt "0129AA"
 msgid "So many mouths to feed, and up to me to keep them fed. Ugh."
-msgstr "먹여 살려야 할 입은 한가득인데, 그걸 책임지는 건 나야. 아."
+msgstr "먹여 살려야 할 입은 한가득인데, 그걸 책임지는 건 나일세. 으."
 
 #. SCRIPT NOTES: frustrated, said as a complaint
 #. VOICE TYPE: SFBGS001_NPCMMalikVosh
@@ -102280,7 +102289,7 @@ msgstr "먹여 살려야 할 입은 한가득인데, 그걸 책임지는 건 나
 #. SUBTYPE: Hello
 msgctxt "0129A9"
 msgid "Just trying to get through the day."
-msgstr "그냥 하루하루 버티고 있어."
+msgstr "그냥 하루하루 버티고 있네."
 
 #. SCRIPT NOTES: frustrated, said as a complaint
 #. VOICE TYPE: SFBGS001_NPCMMalikVosh
@@ -102316,7 +102325,7 @@ msgstr "망할 온몸이 다 쑤셔. 이놈의 그로트를 계속하기엔 나�
 #. SUBTYPE: Hello
 msgctxt "0129A6"
 msgid "The groats are still a problem, as always, but I can manage."
-msgstr "여전히 그로트가 문제긴 하지만, 어떻게든 해내고 있어."
+msgstr "여전히 그로트가 문제긴 하지만, 어떻게든 해내고 있네."
 
 #. SCRIPT NOTES: mildly frustrated, they are overworked and stressed
 #. VOICE TYPE: SFBGS001_NPCMMalikVosh
@@ -102352,7 +102361,7 @@ msgstr "그 놈이 그럴 만도 했겠지, 하지만 그로트 한 개 때문�
 #. SUBTYPE: Hello
 msgctxt "0129A3"
 msgid "So much death already... hope the damned groat was worth it."
-msgstr "이미 너무 많은 사람이 죽었어... 그 망할 그로트가 그만한 가치가 있었길 바라."
+msgstr "이미 너무 사람이 많이 죽었네... 그 망할 그로트가 그만한 가치가 있었으면 좋겠군."
 
 #. SCRIPT NOTES: mad
 #. VOICE TYPE: SFBGS001_NPCMMalikVosh
@@ -102364,7 +102373,7 @@ msgstr "이미 너무 많은 사람이 죽었어... 그 망할 그로트가 그�
 #. SUBTYPE: Hello
 msgctxt "0129A2"
 msgid "I cannot believe you let the bastard leave with my groat."
-msgstr "네가 내 그로트를 들고 튀는 놈을 그냥 보냈다는 게 믿기지 않아."
+msgstr "자네가 내 그로트를 들고 튀는 놈을 그냥 보냈다는 게 믿기지 않는군."
 
 #. SCRIPT NOTES: mad, upset that you let the thief run away with the groat
 #. VOICE TYPE: SFBGS001_NPCMMalikVosh
@@ -102376,7 +102385,7 @@ msgstr "네가 내 그로트를 들고 튀는 놈을 그냥 보냈다는 게 믿
 #. SUBTYPE: Hello
 msgctxt "0129A1"
 msgid "Some help you turned out to be."
-msgstr "네가 무슨 도움이 되겠어."
+msgstr "자네가 무슨 도움이 되겠나."
 
 #. VOICE TYPE: SFBGS001_NPCFMilaHohdan
 #. FACE: Neutral
@@ -102847,7 +102856,7 @@ msgstr "대체 뭘 하고 있는 거야?"
 #. SUBTYPE: WaitingForPlayerInput
 msgctxt "012977"
 msgid "Ugh, just say something. It is not that hard."
-msgstr "아, 그냥 뭐라도 말 좀 해봐. 그렇게 어려운 것도 아니잖아."
+msgstr "아, 그냥 뭐라도 말 좀 해보게. 그렇게 어려운 것도 아니잖나."
 
 #. VOICE TYPE: SFBGS001_NPCMMalikVosh
 #. FACE: Neutral
@@ -103861,7 +103870,7 @@ msgstr "널 위해 기도할게."
 #. SUBTYPE: Goodbye
 msgctxt "01290A"
 msgid "I hope everything turns out well for you."
-msgstr "모든 일이 잘 풀리길 바라."
+msgstr "모든 일이 잘 풀렸으면 좋겠어."
 
 #. VOICE TYPE: SFBGS001_NPCFSahimaKadic
 #. FACE: Neutral
@@ -105982,7 +105991,7 @@ msgstr "내 가게에서 당장 나가지 않으면, 경비대원을 부르겠�
 #. SUBTYPE: BlockingHello
 msgctxt "012816"
 msgid "Do not make me call the guards."
-msgstr "날 경비대원을 부르게 만들지 마."
+msgstr "경비대원을 부르게 만들지 마."
 
 #. SCRIPT NOTES: Disgust
 #. VOICE TYPE: SFBGS001_NPCFNaladaBradi
@@ -106285,7 +106294,7 @@ msgstr "다른 필요한 게 있으면 여기 있을게."
 #. SUBTYPE: Goodbye
 msgctxt "0127FD"
 msgid "Enjoy that ship of yours."
-msgstr "네 함선을 즐기라고."
+msgstr "네 우주선을 즐기라고."
 
 #. VOICE TYPE: SFBGS001_NPCMDumarHasadi
 #. FACE: Neutral
@@ -106428,7 +106437,7 @@ msgstr "어서 움직여."
 #. SUBTYPE: Goodbye
 msgctxt "0127F1"
 msgid "Get going, will you?"
-msgstr "어서 가, 응?"
+msgstr "어서 가셔. 가라 좀?"
 
 #. SCRIPT NOTES: terse, suspicious and distrusting of the player
 #. VOICE TYPE: SFBGS001_NPCMMakolaJubav
@@ -106850,7 +106859,7 @@ msgstr "이방인이라. *피식하는 소리* 따분하네."
 #. SUBTYPE: WaitingForPlayerInput
 msgctxt "0127CD"
 msgid "This... conversation, is growing very tiresome."
-msgstr "이... 대화는, 점점 더 피곤해지는데."
+msgstr "이거... 떠들려니 점점 피곤해지는데."
 
 #. VOICE TYPE: SFBGS001_NPCFMarlanaVolav
 #. FACE: Neutral
@@ -107009,7 +107018,7 @@ msgstr "뭘 도와줄까?"
 #. SUBTYPE: Hello
 msgctxt "0127BF"
 msgid "I am dying to work on your ship, friend."
-msgstr "네 함선 고치는 거라면 사족을 못 쓰지, 친구."
+msgstr "네 우주선 고치는 거라면 사족을 못 쓰지, 친구."
 
 #. VOICE TYPE: SFBGS001_NPCMDumarHasadi
 #. FACE: Neutral
@@ -107020,7 +107029,7 @@ msgstr "네 함선 고치는 거라면 사족을 못 쓰지, 친구."
 #. SUBTYPE: Hello
 msgctxt "0127BE"
 msgid "Need something for your ship?"
-msgstr "네 함선에 필요한 거 있어?"
+msgstr "네 우주선에 필요한 거 있어?"
 
 #. SCRIPT NOTES: stressed, flippant
 #. VOICE TYPE: SFBGS001_NPCFHantonIrara
@@ -107092,7 +107101,7 @@ msgstr "네 돈도 다른 사람들 돈이랑 가치가 같겠지."
 #. SUBTYPE: Hello
 msgctxt "0127B8"
 msgid "One wrong move, and I call the guards, outsider."
-msgstr "한 번만 더 까불면 경비대를 부르겠어, 이방인."
+msgstr "한 번만 더 까불면 경비대를 부르겠어. 이방인."
 
 #. SCRIPT NOTES: gruff, suspicious  / Serious
 #. VOICE TYPE: SFBGS001_NPCMMakolaJubav
@@ -107104,7 +107113,7 @@ msgstr "한 번만 더 까불면 경비대를 부르겠어, 이방인."
 #. SUBTYPE: Hello
 msgctxt "0127B7"
 msgid "Already have enough to worry about, without an interloper in my shop."
-msgstr "내 가게에 얼쩡거리는 놈이 없어도 걱정거리는 충분해."
+msgstr "가게에 얼쩡거리는 놈 좀 없었으면 좋겠네. 그러잖아도 딴 걱정거리가 많다고."
 
 #. SCRIPT NOTES: Friendly
 #. VOICE TYPE: SFBGS001_NPCFMarlanaVolav
@@ -110785,7 +110794,7 @@ msgstr "이제 저는 진정으로 세상을 바꿀 수 있어요."
 #. SUBTYPE: Custom
 msgctxt "01258B"
 msgid "There's my old ship, the Vaifala. Ever had one? A vaifala, not a ship. I know you got a bunch of those."
-msgstr "내 옛날 배, 바이팔라가 저기 있군. 혹시 아나? 함선 말고, 그 바이팔라 말일세. 몇 잔 마셔 봤을 텐데."
+msgstr "내 옛날 배, 바이팔라가 저기 있군. 혹시 아나? 우주선 말고, 그 바이팔라 말일세. 몇 잔 마셔 봤을 텐데."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. ALIAS: Smuggler
@@ -110860,7 +110869,7 @@ msgstr ""
 #. SUBTYPE: Custom
 msgctxt "012586"
 msgid "It takes a skilled pilot to land a ship when it's intent on crashing."
-msgstr "추락하는 함선을 착륙시키는 것은 숙련된 조종사만이 가능하지."
+msgstr "추락하는 우주선을 착륙시키는 것은 숙련된 조종사만이 가능하지."
 
 #. SCRIPT NOTES: Nervous / to Player Default
 #. PROMPT: It takes a skilled pilot to land a ship when it's intent on crashing.
@@ -117209,7 +117218,7 @@ msgstr "일리가 있는 것 같네. 위험한 순간이 닥치면 그 사람의
 #. SUBTYPE: Custom
 msgctxt "012340"
 msgid "Hopefully I showed I had plenty."
-msgstr "내가 충분히 보여 줬길 바라."
+msgstr "내가 충분히 보여 줬으면 좋겠어."
 
 #. SCRIPT NOTES: Friendly / to Player Default
 #. PROMPT: Here's to second chances. Nice to meet you, Sahima.
@@ -118533,7 +118542,7 @@ msgstr "제가 만든 바이러스는 엡실론에 있는 주요 시스템을 �
 #. SUBTYPE: Custom
 msgctxt "01228E"
 msgid "Not only that, but any ships that they worked on here within the past few days will get hit as well. As long as they're within range."
-msgstr "그 뿐만 아니라 지난 며칠 동안 여기서 정비했던 함선도 똑같은 피해를 입게 되죠. 범위 안에만 있으면요."
+msgstr "그 뿐만 아니라 지난 며칠 동안 여기서 정비했던 우주선도 똑같은 피해를 입게 되죠. 범위 안에만 있으면요."
 
 #. SCRIPT NOTES:  / to Sahima
 #. ALIAS: Player Default
@@ -124505,7 +124514,7 @@ msgstr "라즈마는 그놈들이 복권이나 마린 가문의 재건을 원한
 #. SUBTYPE: Custom
 msgctxt "012049"
 msgid "The Zealots want nothing but the means to carry out their war. Credits, weapons, and ships."
-msgstr "광신도들은 자기네 전쟁을 이어갈 수단을 원할 뿐이죠. 크레딧, 무기, 함선이요."
+msgstr "광신도들은 자기네 전쟁을 이어갈 수단을 원할 뿐이죠. 크레딧, 무기, 우주선이요."
 
 #. SCRIPT NOTES: Concerned / to Player Default
 #. PROMPT: Why would Zealots ever back a noble House?
@@ -125314,7 +125323,7 @@ msgstr "광신도들이 쓰는 작은 네트워크에 접속할 수 있거든요
 #. SUBTYPE: Custom
 msgctxt "012014"
 msgid "They think I've been working on my research when really I've been formulating a virus that will shut down this entire base and their ships."
-msgstr "그놈들은 제가 연구를 하고 있는 줄 아는데, 사실은 이 기지 전체랑 광신도 함선을 정지시킬 바이러스를 만들고 있었어요."
+msgstr "그놈들은 제가 연구를 하고 있는 줄 아는데, 사실은 이 기지 전체랑 광신도 우주선을 정지시킬 바이러스를 만들고 있었어요."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Gavin: Please. I need to know if Sahima is safe.
@@ -125936,7 +125945,7 @@ msgstr "하찮은 요점이다."
 #. SUBTYPE: Custom
 msgctxt "011FE8"
 msgid "What's a Zealot without their ship?"
-msgstr "함선도 없는 광신도가 무슨 쓸모가 있지?"
+msgstr "우주선도 없는 광신도가 무슨 쓸모가 있지?"
 
 #. SCRIPT NOTES: Speech Challenge success response: Considering the player's offer / Thinking / to Player Default
 #. ALIAS: Mihael
@@ -125949,7 +125958,7 @@ msgstr "함선도 없는 광신도가 무슨 쓸모가 있지?"
 #. SUBTYPE: Custom
 msgctxt "011FE7"
 msgid "They are our more valuable assets..."
-msgstr "함선이 더 중요한 자산이기는 하지..."
+msgstr "우주선이 더 중요한 자산이기는 하지..."
 
 #. SCRIPT NOTES: Speech Challenge fail response: Scoffing at the player / Smug / to Player Default
 #. ALIAS: Mihael
@@ -125962,7 +125971,7 @@ msgstr "함선이 더 중요한 자산이기는 하지..."
 #. SUBTYPE: Custom
 msgctxt "011FE6"
 msgid "We can always find more ships."
-msgstr "함선은 언제든지 더 찾을 수 있어."
+msgstr "우주선은 언제든지 더 찾을 수 있어."
 
 #. SCRIPT NOTES: Speech Challenge success response: Considering the player's offer / Thinking
 #. ALIAS: Mihael
@@ -128794,7 +128803,7 @@ msgstr "너, 대체 어떻게... 허세 부리는 거군."
 #. SUBTYPE: Custom
 msgctxt "011F26"
 msgid "This remote device will launch a virus that will detonate systems within your base and reach your ships as well."
-msgstr "이 원격 장치를 작동시키면 바이러스가 실행돼서 네 기지에 있는 시스템을 폭발시킬 거고, 함선도 무사하지 못할 거야."
+msgstr "이 원격 장치를 작동시키면 바이러스가 실행돼서 네 기지에 있는 시스템을 폭발시킬 거고, 우주선도 무사하지 못할 거야."
 
 #. SCRIPT NOTES: Pleading / to Player Default
 #. PROMPT: Perhaps this offer is the Great Serpent's plan and no one is meant to die today.
@@ -132834,7 +132843,7 @@ msgstr "쓸데없는 잡담은 피하고, 그냥 화물이나 줘."
 #. SUBTYPE: Custom
 msgctxt "011DBF"
 msgid "I've got a ship ready to haul it back to Dazra."
-msgstr "다즈라로 운반할 함선을 준비해 뒀어."
+msgstr "다즈라로 운반할 우주선을 준비해 뒀어."
 
 #. SCRIPT NOTES: Suspicious
 #. PROMPT: I've got a ship ready to haul it back to Dazra.
@@ -137312,8 +137321,7 @@ msgstr "절 도와줄 건가요? 아니면 그냥 갈 건가요?"
 #. SUBTYPE: Custom
 msgctxt "011BF2"
 msgid "I hate to spend less time with grandpa, given he's always forgetting things, but the children need me."
-msgstr ""
-"할아버지와 함께 보내는 시간이 줄어드는 것 같아서 싫다. 항상 무언가를 잊어 버리시는 분인데. 하지만 아이들도 내 도움이 절실하다."
+msgstr "할아버지와 함께 보낼 시간이 줄어드는  싫다. 항상 깜빡깜빡하시는데 어쩌지. 하지만 아이들도 보살펴야 한다."
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): One of the helpers was taken away last night. They accused him of heresy.
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137327,7 +137335,7 @@ msgstr ""
 #. SUBTYPE: Custom
 msgctxt "011BF1"
 msgid "I know better than to argue, but now we're severely understaffed."
-msgstr "함부로 그런 결정에 항의하면 안 된다는 것 알고 있지만, 지금 우린 심각하게 인력이 부족한 상황이다."
+msgstr "함부로 이 결정에 항의하면 안 된다는 건 알고 있지만, 지금 심각하게 인력이 부족하다."
 
 #. ALIAS: Play Audio At Player(Voice Note)
 #. VOICE TYPE: SFBGS001_NPCFIrisUeda
@@ -137658,7 +137666,9 @@ msgstr "맞아요! 제가 쟤 발가락을 밟으면 어떡해요?!"
 #. SUBTYPE: Custom
 msgctxt "011BB0"
 msgid "What if the Great Serpent came down and said, \"we need you to stay up past your bedtimes and stub everyone's toes!\" What then?"
-msgstr "만약 위대한 뱀께서 내려와서 '취침 시간을 넘겨 깨어 있으면서 모든 사람의 발가락을 밟아라'라고 말하시면 어떡해요?"
+msgstr ""
+"만약 위대한 뱀 님이 내려와서 '모두 잠잘 시간 넘겨서 안 자고 버티다가, 눈에 보이는 사람의 발가락을 다 밟아버려라!'라고 말하면 "
+"어떡해요?"
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): Yeah, like if there was a fire, or even worse, a water!
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137672,7 +137682,7 @@ msgstr "만약 위대한 뱀께서 내려와서 '취침 시간을 넘겨 깨어 
 #. SUBTYPE: Custom
 msgctxt "011BAF"
 msgid "Well, in the event of an emergency, we'll want to follow the drills we practiced."
-msgstr "글쎄, 비상 상황이 생기면 우리가 대피 훈련한 대로 따라야지."
+msgstr "글쎄다, 비상 상황이 발생하면 대피 훈련받은 대로 하면 되지 않겠니."
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): But Miss Ueda, what if we need you for something!
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137686,7 +137696,7 @@ msgstr "글쎄, 비상 상황이 생기면 우리가 대피 훈련한 대로 따
 #. SUBTYPE: Custom
 msgctxt "011BAE"
 msgid "Yeah, like if there was a fire, or even worse, a water!"
-msgstr "맞아요. 불이 나거나, 더 심한 경우... 물이 차면 어떡하냐고요!"
+msgstr "맞아요! 불이 나거나, 더 심하면... 물이 차면 어떡해요!"
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): Yeah but Miss Ueda says we can't go upstairs until we finish.
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137700,7 +137710,7 @@ msgstr "맞아요. 불이 나거나, 더 심한 경우... 물이 차면 어떡�
 #. SUBTYPE: Custom
 msgctxt "011BAD"
 msgid "But I know where she keeps the keycard. It's on the top shelf, in the corner. See where I put the ladder?"
-msgstr "난 선생님이 키카드를 어디에 두는지 다 알아. 맨 위 선반, 모서리에 있어. 사다리를 어디에 두셨는지 혹시 알아?"
+msgstr "선생님이 키카드를 어디에 두는지 다 알아. 맨 위 선반, 모서리에 있어. 사다리 어디에 있는지 알아?"
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): But I know where she keeps the keycard. It's on the top shelf, in the corner. See where I put the ladder?
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137727,7 +137737,7 @@ msgstr "그 사다리 충분히 높진 않은 것 같던데. 어른들은 정말
 #. SUBTYPE: Custom
 msgctxt "011BAA"
 msgid "I hate doing chores. There's just so many dishes."
-msgstr "이런 잡일하는 건 싫어. 설거지할 것도 너무 많잖아."
+msgstr "이런 따분한 일은 싫어. 설거지할 것도 너무 많잖아."
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): It's in the jam jar.
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137741,7 +137751,7 @@ msgstr "이런 잡일하는 건 싫어. 설거지할 것도 너무 많잖아."
 #. SUBTYPE: Custom
 msgctxt "011BA9"
 msgid "Ew, gross! So you have to dip your hand in jam to get it?"
-msgstr "드러워! 그럼 잼을 꺼내려면 손을 잼에 담가야 하는 거야?"
+msgstr "으엑, 더러워! 그럼 키카드를 꺼내려면 잼에 손을 담가야 하는 거야?"
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): That seems kind of dangerous. Are you sure the keycard's there? I don't see it, anyway.
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137755,7 +137765,7 @@ msgstr "드러워! 그럼 잼을 꺼내려면 손을 잼에 담가야 하는 거
 #. SUBTYPE: Custom
 msgctxt "011BA7"
 msgid "It's in the jam jar."
-msgstr "잼병 안에 있어."
+msgstr "잼 병 안에 있어."
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): Well, in the event of an emergency, we'll want to follow the drills we practiced.
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137769,7 +137779,7 @@ msgstr "잼병 안에 있어."
 #. SUBTYPE: Custom
 msgctxt "011BA6"
 msgid "But what if wasn't an emergency! What if I stubbed my toe?"
-msgstr "하지만 만약 비상 상황까진 아니라면 어떻게 해요?! 제가 발가락을 다치면 어떡해요?"
+msgstr "근데 만약에 비상 상황까진 아니라면 어떻게 해요?! 제가 발가락을 다치면 어떡해요?"
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): Yes Rumarin, who do you think it was? Jandar, or Jarek?
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137784,7 +137794,7 @@ msgstr "하지만 만약 비상 상황까진 아니라면 어떻게 해요?! 제
 msgctxt "011BA3"
 msgid "Neither! It was a giant groat, named Borklebub! He came in riding the back of the Great Serpent, and bit Jarek's head off!"
 msgstr ""
-"둘 다 아니에요! 바로 보클버브라는 이름의 거대한 그로트였어요! 그 그로트가 위대의 뱀의 등을 타고 들어와서 자렉의 머리를 물어뜯었어요!"
+"둘 다 아니에요! 바로 보클버브라는 이름의 거대한 그로트예요! 그 그로트가 위대의 뱀의 등을 타고 들어와서 자렉의 머리를 물어뜯었어요!"
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): I'll even give you a hint. He had two sons, Jandar and Jarek.
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137812,7 +137822,7 @@ msgstr "오! 오! 저 알아요!"
 #. SUBTYPE: Custom
 msgctxt "011B9D"
 msgid "I'll even give you a hint. He had two sons, Jandar and Jarek."
-msgstr "힌트도 줄게. 지난 바룬 님께는 두 아들, 잔다르와 자렉이 있었어."
+msgstr "힌트도 줄게. 지난 바룬 님께는 두 아들, 잔다르와 자렉 님이 있었어."
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): All right children, it's time for bed.
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137826,7 +137836,7 @@ msgstr "힌트도 줄게. 지난 바룬 님께는 두 아들, 잔다르와 자�
 #. SUBTYPE: Custom
 msgctxt "011B9C"
 msgid "But Miss Ueda, what if we need you for something!"
-msgstr "근데 우에다 선생님, 갑자기 무슨 일이 생겨서 선생님이 필요해지면 어떡해요?!"
+msgstr "근데 우에다 선생님, 갑자기 선생님이 필요한 일이 생기면 어떡해요?!"
 
 #. ALIAS: Play Audio At Player(Voice Note)
 #. VOICE TYPE: SFBGS001_NPCFIrisUeda
@@ -137839,7 +137849,7 @@ msgstr "근데 우에다 선생님, 갑자기 무슨 일이 생겨서 선생님�
 #. SUBTYPE: Custom
 msgctxt "011B9B"
 msgid "Okay children, does anyone know who succeeded Jinan Va'ruun to become the next Speaker?"
-msgstr "자, 애들아, 지난 바룬 님의 뒤를 이어 차기 대변자로 누가 되셨는지 아는 친구 있니?"
+msgstr "자, 애들아. 지난 바룬 님의 뒤를 이어 누가 차기 대변자가 되셨는지 아는 사람 있니?"
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): Well, that's not the worst answer you've given today. I'll consider that progress.
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137852,7 +137862,7 @@ msgstr "자, 애들아, 지난 바룬 님의 뒤를 이어 차기 대변자로 �
 #. SUBTYPE: Custom
 msgctxt "011B9A"
 msgid "In any case, lunch is over. Everyone take their bowls to the kitchen and clear the table."
-msgstr "어쨌든 점심 시간은 이제 끝났단다. 모두 다 그릇을 주방으로 가져가고 테이블을 치우렴."
+msgstr "어쨌든 이제 점심 시간은 끝났단다. 모두 다 그릇을 주방으로 가져다 놓고 탁자를 치우렴."
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): Ew, gross! So you have to dip your hand in jam to get it?
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137866,7 +137876,7 @@ msgstr "어쨌든 점심 시간은 이제 끝났단다. 모두 다 그릇을 주
 #. SUBTYPE: Custom
 msgctxt "011B99"
 msgid "No, that's the trick. The jar isn't ACTUALLY full of jam."
-msgstr "아니, 그건 속임수야. 병에 실제로 잼이 가득 차 있지 않아."
+msgstr "아니, 선생님이 속인 거야. 병에 실제로 잼이 가득 차 있진 않아."
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): I hate doing chores. There's just so many dishes.
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137880,7 +137890,7 @@ msgstr "아니, 그건 속임수야. 병에 실제로 잼이 가득 차 있지 �
 #. SUBTYPE: Custom
 msgctxt "011B98"
 msgid "Well you don't have to do them if you don't want to."
-msgstr "네가 하고 싶지 않으면 안 해도 돼."
+msgstr "하고 싶지 않으면 안 해도 돼."
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): Neither! It was a giant groat, named Borklebub! He came in riding the back of the Great Serpent, and bit Jarek's head off!
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137894,7 +137904,7 @@ msgstr "네가 하고 싶지 않으면 안 해도 돼."
 #. SUBTYPE: Custom
 msgctxt "011B97"
 msgid "Well, that's not the worst answer you've given today. I'll consider that progress."
-msgstr "음, 오늘 네가 답한 것 중에 최악은 아니구나. 진전은 있는 것 같네."
+msgstr "음, 그래도 오늘 네가 대답한 것 중에 최악은 아니구나. 진전은 있는 것 같네."
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): Ding!
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137907,7 +137917,7 @@ msgstr "음, 오늘 네가 답한 것 중에 최악은 아니구나. 진전은 �
 #. SUBTYPE: Custom
 msgctxt "011B96"
 msgid "That's right, Zora. But try not to abuse the privilege, haha."
-msgstr "맞아, 조라. 하지만 함부로 이 특권을 남용하지는 말아 주렴, 하하."
+msgstr "그래, 조라. 하지만 함부로 이 특권을 남용하지는 말아 주렴. 하하."
 
 #. ALIAS: Play Audio At Player(Voice Note)
 #. VOICE TYPE: SFBGS001_NPCFIrisUeda
@@ -137934,7 +137944,7 @@ msgstr "자, 얘들아, 이제 자러 갈 시간이야."
 #. SUBTYPE: Custom
 msgctxt "011B93"
 msgid "That seems kind of dangerous. Are you sure the keycard's there? I don't see it, anyway."
-msgstr "좀 위험해 보이는데. 키카드가 정말 있는 거야? 난 안 보여."
+msgstr "좀 위험해 보이는데. 정말 키카드가 있는 거야? 난 안 보여."
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): No, that's the trick. The jar isn't ACTUALLY full of jam.
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137947,7 +137957,7 @@ msgstr "좀 위험해 보이는데. 키카드가 정말 있는 거야? 난 안 �
 #. SUBTYPE: Custom
 msgctxt "011B91"
 msgid "Whoa."
-msgstr "와."
+msgstr "우와."
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): I don't think that ladder's high enough. Grown-ups really don't play fair.
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -137974,7 +137984,7 @@ msgstr "그래서 사다리에 발판을 놓은 거야. 그러면 꼭대기까�
 #. SUBTYPE: Custom
 msgctxt "011B8E"
 msgid "One of the helpers was taken away last night. They accused him of heresy."
-msgstr "어젯밤에 도우미 한 명이 끌려갔다. 그 사람이 이단자라고 밝혀졌다면서."
+msgstr "어젯밤에 도우미가 끌려갔다. 도우미가 이단자로 밝혀졌다고 했다."
 
 #. SCRIPT NOTES: roo-MAH-rin
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): Oh! Oh! I know!
@@ -137989,7 +137999,7 @@ msgstr "어젯밤에 도우미 한 명이 끌려갔다. 그 사람이 이단자�
 #. SUBTYPE: Custom
 msgctxt "011B8A"
 msgid "Yes Rumarin, who do you think it was? Jandar, or Jarek?"
-msgstr "그래, 루마린, 누구라고 생각해? 잔다르 님? 아니면 자렉?"
+msgstr "그래, 루마린, 누가 대변자가 되셨을 것 같니? 잔다르? 아니면 자렉 님?"
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): What if the Great Serpent came down and said, "we need you to stay up past your bedtimes and stub everyone's toes!" What then?
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -138003,7 +138013,7 @@ msgstr "그래, 루마린, 누구라고 생각해? 잔다르 님? 아니면 자�
 #. SUBTYPE: Custom
 msgctxt "011B88"
 msgid "Now, now children. If there's any reason you need me, no matter how small, just ring the bell, and I'll open the door."
-msgstr "자, 이제 얘들아. 선생님이 필요해지면 아무리 사소하더라도, 그냥 종을 울리면 돼. 내가 바로 문을 열어줄게."
+msgstr "자, 자, 얘들아. 선생님이 필요한 일이 생기면, 아무리 사소한 일이라도, 그냥 종을 울리. 그러면 바로 문을 열어줄게."
 
 #. SCRIPT NOTES: ooh-eh-duh
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): Well you don't have to do them if you don't want to.
@@ -138018,7 +138028,7 @@ msgstr "자, 이제 얘들아. 선생님이 필요해지면 아무리 사소하�
 #. SUBTYPE: Custom
 msgctxt "011B87"
 msgid "Yeah but Miss Ueda says we can't go upstairs until we finish."
-msgstr "응, 하지만 우에다 선생님은 다 마칠 때까지 위층에 올라가면 안 된다고 하셨어."
+msgstr "알겠어. 근데 우에다 선생님이 일을 다 마치기 전에는 위층에 올라가면 안 된다고 하셨어."
 
 #. DIALOGUE BEFORE: Play Audio At Player(Voice Note): Now, now children. If there's any reason you need me, no matter how small, just ring the bell, and I'll open the door.
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -141812,7 +141822,7 @@ msgstr "우리가 너를 회개하게 만들어주마!"
 #. SUBTYPE: NormalToCombat
 msgctxt "011A67"
 msgid "An accursed is attacking the ship!"
-msgstr "저주받은 자가 함선을 공격하고 있다!"
+msgstr "저주받은 자가 우주선을 공격하고 있다!"
 
 #. SCRIPT NOTES: Angry
 #. VOICE TYPE: SFBGS001_VaruunZealotFemale03
@@ -141824,7 +141834,7 @@ msgstr "저주받은 자가 함선을 공격하고 있다!"
 #. SUBTYPE: NormalToCombat
 msgctxt "011A66"
 msgid "We will not allow this ship to be taken!"
-msgstr "이 함선을 빼앗기게 둘 순 없다!"
+msgstr "이 우주선을 빼앗기게 둘 순 없다!"
 
 #. SCRIPT NOTES: Angry
 #. VOICE TYPE: SFBGS001_VaruunZealotFemale03
@@ -141872,7 +141882,7 @@ msgstr "이단자가 쳐들어왔다!"
 #. SUBTYPE: NormalToCombat
 msgctxt "011A62"
 msgid "Cleanse this ship of heathens!"
-msgstr "이 함선에서 이교도들을 쓸어버려라!"
+msgstr "이 우주선에서 이교도들을 쓸어버려라!"
 
 #. SCRIPT NOTES: Angry
 #. VOICE TYPE: SFBGS001_VaruunZealotFemale03
@@ -141896,7 +141906,7 @@ msgstr "도망칠 곳은 없다!"
 #. SUBTYPE: NormalToCombat
 msgctxt "011A60"
 msgid "In the name of the Great Serpent, this ship is ours!"
-msgstr "위대한 뱀의 이름으로, 이 함선은 우리 것이다!"
+msgstr "위대한 뱀의 이름으로, 이 우주선은 우리 것이다!"
 
 #. SCRIPT NOTES: Angry
 #. VOICE TYPE: SFBGS001_VaruunZealotFemale03
@@ -141920,7 +141930,7 @@ msgstr "심판을 받을 준비를 하라!"
 #. SUBTYPE: NormalToCombat
 msgctxt "011A5E"
 msgid "This ship belongs to the Promised!"
-msgstr "이 함선은 약속받은 자들의 것이다!"
+msgstr "이 우주선은 약속받은 자들의 것이다!"
 
 #. SCRIPT NOTES: surprise and confusion, not asking a question
 #. VOICE TYPE: SFBGS001_NPCFTevinaVethaal
@@ -145153,7 +145163,7 @@ msgstr "10년 전 농장의 모습이 아니라 이런 상태를 보게 돼서 �
 #. SUBTYPE: Hello
 msgctxt "011945"
 msgid "I hope Dazra will be okay. If we lose the city, what hope do we have?"
-msgstr "다즈라가 무사하길 바라. 도시를 잃으면, 우리에겐 무슨 희망이 있겠어?"
+msgstr "다즈라가 무사했으면 좋겠어. 도시를 잃으면, 우리에겐 무슨 희망이 있겠어?"
 
 #. VOICE TYPE: SFBGS001_NPCFRaljiraAbbas
 #. FACE: Neutral
@@ -146467,7 +146477,7 @@ msgstr "하지만 그건 걱정할 필요가 없습니다. 이미 충분히 하�
 #. SUBTYPE: Goodbye
 msgctxt "0118CB"
 msgid "Serpent be with you."
-msgstr "뱀께서 함께 하시길."
+msgstr "위대한 뱀께서 함께 하시길."
 
 #. SCRIPT NOTES: The Player hit you / InPain
 #. VOICE TYPE: SFBGS001_Redeemed01
@@ -148449,7 +148459,7 @@ msgstr "우리가 너를 회개하게 만들어주마!"
 #. SUBTYPE: NormalToCombat
 msgctxt "0117CE"
 msgid "Cleanse this ship of heathens!"
-msgstr "이 함선에서 이교도들을 쓸어버려라!"
+msgstr "이 우주선에서 이교도들을 쓸어버려라!"
 
 #. SCRIPT NOTES: Angry
 #. VOICE TYPE: SFBGS001_VaruunZealotFemale03
@@ -148473,7 +148483,7 @@ msgstr "도망칠 곳은 없다!"
 #. SUBTYPE: NormalToCombat
 msgctxt "0117CC"
 msgid "In the name of the Great Serpent, this ship is ours!"
-msgstr "위대한 뱀의 이름으로, 이 함선은 우리 것이다!"
+msgstr "위대한 뱀의 이름으로, 이 우주선은 우리 것이다!"
 
 #. SCRIPT NOTES: Angry
 #. VOICE TYPE: SFBGS001_VaruunZealotFemale03
@@ -148497,7 +148507,7 @@ msgstr "심판을 받을 준비를 하라!"
 #. SUBTYPE: NormalToCombat
 msgctxt "0117CA"
 msgid "This ship belongs to the Promised!"
-msgstr "이 함선은 약속받은 자들의 것이다!"
+msgstr "이 우주선은 약속받은 자들의 것이다!"
 
 #. SCRIPT NOTES: surprise and confusion, not asking a question
 #. VOICE TYPE: SFBGS001_NPCFTevinaVethaal
@@ -153770,7 +153780,7 @@ msgstr "*음악 소리*"
 #. SUBTYPE: Custom
 msgctxt "0114A3"
 msgid "Your station brought me here. It jumped while my ship was docked."
-msgstr "그쪽 정거장이 날 여기 데려온 거예요. 함선이 도킹 돼 있었는데 도약하더군요."
+msgstr "그쪽 정거장이 날 여기 데려온 거예요. 우주선이 도킹 돼 있었는데 도약하더군요."
 
 #. SCRIPT NOTES:  / to Malibor
 #. ALIAS: Player Default
@@ -153784,7 +153794,7 @@ msgstr "그쪽 정거장이 날 여기 데려온 거예요. 함선이 도킹 돼
 #. SUBTYPE: Custom
 msgctxt "0114A2"
 msgid "What is that massive ship sitting above the city?"
-msgstr "도시 위에 놓여있는 저 거대한 함선은 뭔가요?"
+msgstr "도시 위에 놓여있는 저 거대한 우주선은 뭔가요?"
 
 #. SCRIPT NOTES: Surprised / to Player Default
 #. PROMPT: Your station brought me here. It jumped while my ship was docked.
@@ -153815,7 +153825,7 @@ msgstr "자동 송신 신호를 받기는 했지만, 그대는 저희가 기대�
 msgctxt "0114A0"
 msgid "You mean of course the Mourning. A crucial part of our history, it is the very ship that delivered Jinan Va'ruun to this moon generations ago."
 msgstr ""
-"모어닝 호를 말하는 거겠군요. 저희 역사에서 아주 중요한 부분입니다. 바로 그 함선이 몇 세대 전에 지난 바룬 님을 이 위성으로 "
+"모어닝 호를 말하는 거겠군요. 저희 역사에서 아주 중요한 부분입니다. 바로 그 우주선이 몇 세대 전에 지난 바룬 님을 이 위성으로 "
 "데려왔으니까요."
 
 #. SCRIPT NOTES:  / to Player Default
@@ -153831,7 +153841,7 @@ msgstr ""
 #. SUBTYPE: Custom
 msgctxt "01149F"
 msgid "It is, in fact, the ship upon which Jinan first made contact with the Great Serpent."
-msgstr "실은 그 함선에서 지난 님이 위대한 뱀과 처음으로 접촉하셨습니다."
+msgstr "실은 그 우주선에서 지난 님이 위대한 뱀과 처음으로 접촉하셨습니다."
 
 #. SCRIPT NOTES:  / to Malibor
 #. DIALOGUE BEFORE: Player Default: What is that massive ship sitting above the city? &&& Malibor: You mean of course the Mourning. A crucial part of our history, it is the very ship that delivered Jinan Va'ruun to this moon generations ago. &&& Malibor: It is, in fact, the ship upon which Jinan first made contact with the Great Serpent.
@@ -153862,7 +153872,7 @@ msgstr "더 상태 좋았던 시절이 있어 보이는데요."
 #. SUBTYPE: Custom
 msgctxt "01149D"
 msgid "I have always found it comforting to look up and see it."
-msgstr "항상 함선을 올려다보며 위안을 얻곤 했지요."
+msgstr "항상 우주선을 올려다보며 위안을 얻곤 했지요."
 
 #. SCRIPT NOTES:  / to Malibor
 #. PROMPT: Looks like it's seen better days.
@@ -153938,7 +153948,7 @@ msgstr "그 목표를 달성하기 직전이라고 믿으셨는데, 지금은...
 #. SUBTYPE: Custom
 msgctxt "011498"
 msgid "It must be a great source of pride."
-msgstr "분명 저 함선에서 큰 자부심을 느끼겠군요."
+msgstr "분명 저 우주선에서 큰 자부심을 느끼겠군요."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Malibor: I have always found it comforting to look up and see it.
@@ -153981,7 +153991,7 @@ msgstr "아나스코 바룬에 대해 더 자세히 알려줘요."
 #. SUBTYPE: Custom
 msgctxt "011495"
 msgid "They don't make them like that any more."
-msgstr "더 이상 이런 함선은 건조되지 않을 텐데요."
+msgstr "더 이상 이런 우주선은 건조되지 않을 텐데요."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Malibor: He believed he was on the cusp of realizing that goal, and now... Well, you have seen him.
@@ -154013,7 +154023,7 @@ msgstr "너무 많이 말하면 안 되겠지만, 우리가 그분을 영영 잃
 msgctxt "011493"
 msgid "They have never made them like this. It was originally manufactured in the Settled Systems, of course, but we have made many modifications. Improvements."
 msgstr ""
-"이런 함선은 만들어진 적이 없습니다. 물론 원래는 개척 성계에서 제작된 함선이지만, 많은 개조 작업을 거쳤지요. 개량이라고 할까요."
+"이런 우주선은 만들어진 적이 없습니다. 물론 원래는 개척 성계에서 제작된 우주선이지만, 많은 개조 작업을 거쳤지요. 개량이라고 할까요."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Malibor: I should perhaps not speak too much of it, but there has been concern that he was lost to us. Your interaction with him gives me hope.
@@ -157589,7 +157599,7 @@ msgstr "그냥 일을 아주 잘한 것뿐입니다."
 #. SUBTYPE: SharedInfo
 msgctxt "011388"
 msgid "I wander this place, that calls, To feel once more the gentle warmth of your hands, softly, as the rain falls."
-msgstr "나를 부르는 이곳을 떠도네. 그대의 따스한 손길을 다시 느낄 수 있도록. 보슬거리며 내려오는 비와 함께."
+msgstr "이곳을 떠도네. 나를 부르는 이곳을. 다시, 따스한 손길을, 보슬거리며 내리는 비 같은 손길을, 느낄 수 있기를."
 
 #. SCRIPT NOTES: Music from music box / Neutral
 #. VOICE TYPE: SFBGS001_NPCMReigenUeda
@@ -158739,7 +158749,7 @@ msgstr "죄송하지만, 오빠가 당신에게 말해도 된다고 할지 모�
 #. SUBTYPE: SharedInfo
 msgctxt "011335"
 msgid "Lost, alone, amidst a dream's whispers. A voice, sings, for our trapped world unheard."
-msgstr "홀로 길 잃은 채, 꿈의 속삭임 속에서. 들리지 않는 어느 노랫소리, 우리의 갇힌 세상을 향해."
+msgstr "길 잃어, 홀로, 꿈의 속삭임을 헤매네. 목소리, 노래, 갇혀버린 세상에선 안 들리네."
 
 #. SCRIPT NOTES: Lyrics 2 of melody / Somber
 #. DIALOGUE BEFORE: Iris: Lost, alone, amidst a dream's whispers. A voice, sings, for our trapped world unheard.
@@ -158754,7 +158764,7 @@ msgstr "홀로 길 잃은 채, 꿈의 속삭임 속에서. 들리지 않는 어�
 #. SUBTYPE: SharedInfo
 msgctxt "011334"
 msgid "I wander this place, caged here. Longing for a moment of a love that holds, no time nor place, here."
-msgstr "나를 옥죄는 이곳을 떠도네. 날 안아 줄 애정의 순간을 바라며. 시공간도 아닌, 바로 이곳에서."
+msgstr "이곳에서 해매고 있네. 이곳에 갇힌 채. 애정의 손길이 붙잡아 줄 때가 오길 바라네. 시간도 공간도 없는, 이곳에서."
 
 #. SCRIPT NOTES: Lyrics 3 of melody / Somber
 #. DIALOGUE BEFORE: Iris: I wander this place, caged here. Longing for a moment of a love that holds, no time nor place, here.
@@ -158769,7 +158779,7 @@ msgstr "나를 옥죄는 이곳을 떠도네. 날 안아 줄 애정의 순간을
 #. SUBTYPE: SharedInfo
 msgctxt "011333"
 msgid "We touch, walls, that lead a faceless path, Leaving, prints, streaked along faded glass."
-msgstr "우린 얼굴 없는 길로 이어지는 벽을 만지네. 빛 바랜 유리창을 따라 쭉 이어진 발자국을 남기며."
+msgstr "벽을, 만지네. 얼굴 없는 길로 이어지는 벽을. 손자국을, 남기네. 빛 바랜 유리창을 따라 남기네."
 
 #. ALIAS: Player Default
 #. VOICE TYPE: PlayerVoiceMale01
@@ -163391,7 +163401,7 @@ msgstr "이제 우리 도시로 들어가시지요. 장담컨대 해를 입지�
 #. SUBTYPE: Custom
 msgctxt "01118C"
 msgid "I saw the ship landing. I knew immediately that I would be needed."
-msgstr "함선이 착륙하는 걸 봤어요. 바로 제가 필요하리라는 걸 알겠더군요."
+msgstr "우주선이 착륙하는 걸 봤어요. 바로 제가 필요하리라는 걸 알겠더군요."
 
 #. SCRIPT NOTES: Relieved / to Inaza
 #. DIALOGUE BEFORE: Malibor: Herald Inaza. I suspected we might find you here, waiting. &&& Inaza: I saw the ship landing. I knew immediately that I would be needed.
@@ -163661,7 +163671,7 @@ msgstr "다즈라의 미래는 어떻게 될 거라 생각해?"
 #. SUBTYPE: Custom
 msgctxt "011130"
 msgid "But I am hopeful that Razma will serve the role of Speaker with honor and faith."
-msgstr "하지만 부디 라즈마라면 명예와 믿음으로 대변자의 역할을 수행할 수 있길 바라."
+msgstr "하지만 부디 라즈마라면 명예와 믿음으로 대변자의 역할을 수행할 수 있었으면 좋겠어."
 
 #. SCRIPT NOTES: Neutral
 #. DIALOGUE BEFORE: Sahima: Heisenberg's principle states that all things have uncertainty, that nothing can be measured with precision. The same is true of the future.
@@ -163675,7 +163685,7 @@ msgstr "하지만 부디 라즈마라면 명예와 믿음으로 대변자의 역
 #. SUBTYPE: Custom
 msgctxt "01112F"
 msgid "But I am hopeful that Viktor Veth'aal will serve the role of Speaker with honor and faith."
-msgstr "하지만 부디 빅토르 베타알이라면 명예와 믿음으로 대변자의 역할을 수행할 수 있길 바라."
+msgstr "하지만 부디 빅토르 베타알이라면 명예와 믿음으로 대변자의 역할을 수행할 수 있었으면 좋겠어."
 
 #. SCRIPT NOTES: Neutral
 #. DIALOGUE BEFORE: Sahima: Heisenberg's principle states that all things have uncertainty, that nothing can be measured with precision. The same is true of the future.
@@ -163689,7 +163699,7 @@ msgstr "하지만 부디 빅토르 베타알이라면 명예와 믿음으로 대
 #. SUBTYPE: Custom
 msgctxt "01112E"
 msgid "But I am hopeful that Hasmak Dul'kehf will serve the role of Speaker with honor and faith."
-msgstr "하지만 부디 해즈막 둘케프라면 명예와 믿음으로 대변자의 역할을 수행할 수 있길 바라."
+msgstr "하지만 부디 해즈막 둘케프라면 명예와 믿음으로 대변자의 역할을 수행할 수 있었으면 좋겠어."
 
 #. SCRIPT NOTES: Grateful / to Player Default
 #. PROMPT: I think so. I chose them because they're the best equipped for what's ahead.
@@ -163869,7 +163879,7 @@ msgstr "그런... 선택을 내릴 수도 있겠네. 하지만 불확정성 원�
 #. SUBTYPE: Custom
 msgctxt "01111A"
 msgid "For Dazra's sake, I hope you are either joking or wrong."
-msgstr "부디 다즈라를 위해서라도, 농담하는 것이거나 틀렸길 바라."
+msgstr "부디 다즈라를 위해서라도, 농담하는 것이거나 틀렸으면 좋겠어."
 
 #. SCRIPT NOTES: Worried
 #. DIALOGUE BEFORE: Player Default: What do you think of Dazra's future?
@@ -164028,7 +164038,7 @@ msgstr "문제라도 있습니까? 마콜라?"
 #. SUBTYPE: Custom
 msgctxt "01110B"
 msgid "The city is in shambles, the Speaker is missing, and here you are leading some outsider through our sacred space."
-msgstr "도시가 무너지고 대변자님이 실종되셨는데, 의원님이 어떤 이방인을 우리 신성한 장소에 들여놨잖습니까."
+msgstr "도시가 무너지고 대변자님이 실종되셨는데, 의원님은 이방인이 우리의 신성한 장소에 들어오게 놔두셨잖습니까."
 
 #. SCRIPT NOTES: Disgust / to Player Default
 #. DIALOGUE BEFORE: Makola: The city is in shambles, the Speaker is missing, and here you are leading some outsider through our sacred space.
@@ -164087,7 +164097,7 @@ msgstr "그리고 곧 위대한 뱀의 뜻대로, 우리의 일원이 될 겁니
 #. SUBTYPE: Custom
 msgctxt "011107"
 msgid "But I can be sure and pass your concerns on to the rest of the High Council, if you wish."
-msgstr "그래도 정 원하신다면, 그 걱정은 대의회에 확실하게 전달해 드리지요."
+msgstr "그래도 정 원하신다면, 우려 사항은 확실하게 대의회에 전달해 드리지요."
 
 #. SCRIPT NOTES: Angry
 #. ALIAS: Boss
@@ -164265,7 +164275,7 @@ msgstr "봤어요. 멀리서 본 거긴 하지만요. 사람 같은 모습이었
 #. SUBTYPE: Custom
 msgctxt "0110F9"
 msgid "In the past few weeks there have been rumors of people squatting there, and using the building as housing."
-msgstr "지난 몇 주간 사람들이 거기에 눌러앉아서 건물을 집처럼 사용한다는 소문이 있었지요."
+msgstr "지난 몇 주간 사람들이 고아원에 눌러앉아서 제 집처럼 쓴다는 소문이 있었지요."
 
 #. SCRIPT NOTES: Stern / to Player Default
 #. PROMPT: I've dealt with phantoms. I can deal with yours.
@@ -164303,7 +164313,7 @@ msgstr "위대한 뱀이시여, 악으로부터 우리를 보호하소서."
 #. SUBTYPE: Goodbye
 msgctxt "0110F6"
 msgid "I know not what these phantoms are, but I assure you they are not friendly. The fates will tell you as much."
-msgstr "이 유령들이 뭔지는 모르겠지만, 우호적이지 않다는 건 확실해요. 운명이 그렇게 말해 주고 있어요."
+msgstr "유령들의 정체가 뭔지는 모르겠지만, 우호적이지 않다는 건 확실해요. 운명이 그렇게 말해 주고 있어요."
 
 #. VOICE TYPE: SFBGS001_NPCFBreanneIbaka
 #. FACE: Neutral
@@ -164314,7 +164324,7 @@ msgstr "이 유령들이 뭔지는 모르겠지만, 우호적이지 않다는 �
 #. SUBTYPE: Goodbye
 msgctxt "0110F5"
 msgid "Thank you for your help in this matter."
-msgstr "이 문제에 도움을 줘서 고마워요."
+msgstr "일을 도와주셔서 고마워요."
 
 #. ALIAS: Ilana
 #. VOICE TYPE: SFBGS001_NPCMIlanaKalima
@@ -165046,7 +165056,7 @@ msgstr "어디 안전하게 피신할 곳은 있나요?"
 #. SUBTYPE: Custom
 msgctxt "01109F"
 msgid "Earlier you spoke of an ill omen?"
-msgstr "아까 불길한 징조가 있다고 말했었죠?"
+msgstr "아까 불길한 징조가 있었다고 말했죠?"
 
 #. SCRIPT NOTES: Afraid
 #. DIALOGUE BEFORE: Player Default: Earlier you spoke of an ill omen?
@@ -165060,7 +165070,7 @@ msgstr "아까 불길한 징조가 있다고 말했었죠?"
 #. SUBTYPE: Custom
 msgctxt "01109E"
 msgid "Yes, the old orphanage is ill-fated, that much is certain."
-msgstr "네, 저 오래된 고아원은 불길해요. 그건 확실하죠."
+msgstr "네, 그 오래된 고아원은 불길해요. 분명 불길하기 짝이 없죠."
 
 #. SCRIPT NOTES: Afraid
 #. ALIAS: Breanne
@@ -165074,8 +165084,8 @@ msgstr "네, 저 오래된 고아원은 불길해요. 그건 확실하죠."
 msgctxt "01109D"
 msgid "Even before the city was lost, I once asked the Heralds to read the star-scales and bless the children there. Instead, they spoke of malicious portents."
 msgstr ""
-"도시가 사라지기 전에도, 전령들에게 별점을 쳐서 저기 있는 아이들을 축복해 달라고 부탁한 적이 있었어요. 그 대신, 악한 전조가 있다는 "
-"말만 들었죠."
+"도시가 사라지기 전에, 전령들에게 별의 비늘을 읽고 점을 쳐서 저기 있는 아이들을 축복해 달라고 부탁한 적이 있었어요. 그런데 전령들은 "
+"축복 대신 나쁜 징조가 있다는 말만 잔뜩 늘어놨죠."
 
 #. SCRIPT NOTES: Afraid
 #. ALIAS: Breanne
@@ -165088,7 +165098,7 @@ msgstr ""
 #. SUBTYPE: Custom
 msgctxt "01109C"
 msgid "Now I wonder if the land itself is cursed."
-msgstr "이제는 저 땅 자체가 저주받은 건 아닌지 의심스럽네요."
+msgstr "이제는 저 땅 자체가 저주받은 건 아닌지 의심마저 드네요."
 
 #. ALIAS: Player Default
 #. VOICE TYPE: PlayerVoiceMale01
@@ -165101,7 +165111,7 @@ msgstr "이제는 저 땅 자체가 저주받은 건 아닌지 의심스럽네�
 #. SUBTYPE: Custom
 msgctxt "01109B"
 msgid "What else can you tell me about the property?"
-msgstr "그 건물에 대해 또 아는 게 있으면 말해주시겠습니까?"
+msgstr "고아원에 대해 또 아는 게 있으면 말해주시겠습니까?"
 
 #. SCRIPT NOTES: Afraid
 #. DIALOGUE BEFORE: Player Default: What else can you tell me about the property?
@@ -165115,7 +165125,7 @@ msgstr "그 건물에 대해 또 아는 게 있으면 말해주시겠습니까?"
 #. SUBTYPE: Custom
 msgctxt "01109A"
 msgid "It was once an orphanage for young children who lost their parents."
-msgstr "한때 부모를 잃은 어린아이들을 위한 고아원이었어요."
+msgstr "한때 부모를 잃은 어린아이들을 위한 고아원이었지요."
 
 #. SCRIPT NOTES: Afraid
 #. ALIAS: Breanne
@@ -165128,7 +165138,7 @@ msgstr "한때 부모를 잃은 어린아이들을 위한 고아원이었어요.
 #. SUBTYPE: Custom
 msgctxt "011099"
 msgid "The children were raised there and eventually guided into service by the Minsitry of State."
-msgstr "아이들은 그곳에서 길러지고, 결국 국무성의 인도를 받아 군인으로 거듭나게 되었답니다."
+msgstr "고아원에서 길러진 아이들은, 성인이 되면 국무성의 인도를 받아 군인으로 복무하게 되어 있었습니다."
 
 #. SCRIPT NOTES: Afraid
 #. ALIAS: Breanne
@@ -165141,7 +165151,7 @@ msgstr "아이들은 그곳에서 길러지고, 결국 국무성의 인도를 �
 #. SUBTYPE: Custom
 msgctxt "011098"
 msgid "It was run by a handful of donors and local volunteers, like the Ueda girl, but it closed down months ago."
-msgstr "소수의 기부자와 우에다 양 같은 지역 자원봉사자들이 운영했지만, 몇 달 전에 문을 닫았어요."
+msgstr "우에다 양 같은 기부자나 지역 자원봉사자들 몇 명이 운영했지만, 몇 달 전에 문을 닫았죠."
 
 #. ALIAS: Player Default
 #. VOICE TYPE: PlayerVoiceMale01
@@ -165168,7 +165178,7 @@ msgstr "대재난이 일어났을 때 어디에 있었나요?"
 #. SUBTYPE: Custom
 msgctxt "011096"
 msgid "I was at the Halls of Healing, praying for my family."
-msgstr "전 회복의 전당에서 가족을 위해 기도하고 있었어요."
+msgstr "회복의 전당에서 가족을 위해 기도하고 있었어요."
 
 #. SCRIPT NOTES: Afraid
 #. ALIAS: Breanne
@@ -165181,7 +165191,9 @@ msgstr "전 회복의 전당에서 가족을 위해 기도하고 있었어요."
 #. SUBTYPE: Custom
 msgctxt "011095"
 msgid "The odd thing is, I did not know what I was praying for, only that I had a fear in my gut, a sharp pain of the abdomen."
-msgstr "이상한 건, 뭘 위해 기도하는지 몰랐다는 거예요. 그냥 뱃속에 두려움이 사무쳤죠. 복부에 날카로운 통증이 느껴져서요."
+msgstr ""
+"그런데 이상하게도, 제가 뭘 위해서 기도하고 있는 건지 저 자신도 모르겠더라고요. 그저 마음 깊은 곳에서, 알 수 없는 두려움과 함께 "
+"배가 콕콕 쑤시듯 아팠죠."
 
 #. SCRIPT NOTES: Relieved
 #. ALIAS: Breanne
@@ -165194,7 +165206,7 @@ msgstr "이상한 건, 뭘 위해 기도하는지 몰랐다는 거예요. 그냥
 #. SUBTYPE: Custom
 msgctxt "011094"
 msgid "Moments later, I heard the din of the crowd and rushed out, searching for my husband. My prayers were answered when I found him safe."
-msgstr "잠시 후, 소란스러운 군중 소리를 듣고 뛰쳐나가 남편을 찾았어요. 제 기도가 응답을 받았는지 남편은 무사했어요."
+msgstr "잠시 후, 사람들이 내는 시끄러운 소리를 듣고 뛰쳐나가 남편을 찾았어요. 제 기도에 응답해 주셨는지 남편은 무사했죠."
 
 #. SCRIPT NOTES: Sad
 #. ALIAS: Breanne
@@ -165207,7 +165219,7 @@ msgstr "잠시 후, 소란스러운 군중 소리를 듣고 뛰쳐나가 남편�
 #. SUBTYPE: Custom
 msgctxt "011093"
 msgid "But the same cannot be said for the orphanage. We must rid the house of this phantom!"
-msgstr "하지만 고아원은 그렇지 못했죠. 그 집에 나타나기 시작한 유령을 몰아내야 해요!"
+msgstr "하지만 고아원은 무사하지 못했죠. 고아원에 나타나기 시작한 유령을 몰아내야 해요!"
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Malibor: Our leader, Anasko Va'ruun. He has appeared like this over and over... &&& Malibor: So many of our people have been trapped in this state, these Vortex Phantoms. But usually they are hostile and lash out. Anasko is different. &&& Malibor: If only we could hear his voice, some... reassurance that all is not lost.
@@ -166581,7 +166593,7 @@ msgstr "유령이 들렸을 거라고는 꿈에도 상상하지 못했죠!"
 #. SUBTYPE: Custom
 msgctxt "002768"
 msgid "Given its history, it doesn't surprise me that a wayward soul would go back there, if they sought to be found."
-msgstr "다만 그곳의 역사를 생각하면... 누군가 찾아 주길 바라는 방황하는 영혼이 그곳에 출몰하는 것도 놀랄 일은 아니죠."
+msgstr "다만 고아원의 배경을 생각하면... 길 잃은 영혼이 누군가 찾아 주길 바라며 나타난다 해도 놀랍진 않죠."
 
 #. SCRIPT NOTES: Grateful / to Vassilis
 #. PROMPT: I took care of the phantom.
@@ -166625,7 +166637,7 @@ msgstr "하지만 도시에서 멀어질수록 위험합니다. 제대로 도와
 #. SUBTYPE: Custom
 msgctxt "002765"
 msgid "What matters is that you removed the phantom."
-msgstr "중요한 건 당신이 유령을 없앴다는 거겠죠."
+msgstr "중요한 건 당신이 유령을 없애주셨다는 거죠."
 
 #. SCRIPT NOTES: Grateful / to Vassilis
 #. PROMPT: You won't be bothered any further.
@@ -166680,7 +166692,7 @@ msgstr "완벽하게 훈련받은 전령조차도 이 현상을 해결할 능력
 #. SUBTYPE: Custom
 msgctxt "002761"
 msgid "For now, I am simply grateful the matter is resolved."
-msgstr "지금은, 이 문제가 해결돼서 그저 감사할 뿐이에요."
+msgstr "어쨌든 일이 해결돼서 정말 다행이에요."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: My knowledge and expertise are at your service. &&& ...  &&& AzadDubas: My wife and I have been studying a recent, and somewhat troubling, phenomenon.|You see, the local wildlife has been dying, and we're not sure why.|The remains show no signs of external injury or trauma, so we can rule out most of the usual causes. &&& SherineDubas: Fighting for dominance or territory, predators, hunters looking for sport. Those sorts of things. &&& AzadDubas: We began to see this phenomenon just after the accident in Dazra.|We're convinced these events are linked, but the exact nature of the connection remains a mystery.
@@ -169776,7 +169788,7 @@ msgstr "훌륭한 충심이로구나. 진심으로 고맙다. 우리가 잃은 �
 #. SUBTYPE: Custom
 msgctxt "0025C1"
 msgid "That is some ship you have there!"
-msgstr "당신이 가진 함선, 대단하군요!"
+msgstr "당신이 가진 우주선, 대단하군요!"
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. ALIAS: HVDazraDumarHasadi
@@ -169790,7 +169802,7 @@ msgstr "당신이 가진 함선, 대단하군요!"
 #. SUBTYPE: Custom
 msgctxt "0025C0"
 msgid "It has been too long since I've tinkered with a ship from the Settled Systems."
-msgstr "개척 성계에서 온 함선을 만지작거린 지 너무 오래되었네요."
+msgstr "개척 성계에서 온 우주선을 만지작거린 지 너무 오래되었네요."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: HVDazraDumarHasadi: That is some ship you have there! |It has been too long since I've tinkered with a ship from the Settled Systems.
@@ -169805,7 +169817,7 @@ msgstr "개척 성계에서 온 함선을 만지작거린 지 너무 오래되�
 #. SUBTYPE: Custom
 msgctxt "0025BF"
 msgid "I'm surprised you have experience working with ships manufactured in the Settled Systems."
-msgstr "개척 성계에서 제조된 함선 작업 경험이 있으시다니 놀랍군요."
+msgstr "개척 성계에서 제조된 우주선 작업 경험이 있으시다니 놀랍군요."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. PROMPT: Hopefully the technology isn't too complicated for you.
@@ -169822,7 +169834,7 @@ msgstr "개척 성계에서 제조된 함선 작업 경험이 있으시다니 �
 msgctxt "0025BE"
 msgid "*Pffft* Nothing is too complicated for me. I have been working with ships since I was old enough to hold a wrench."
 msgstr ""
-"*피식하는 소리* 저에게 너무 복잡한 것은 없습니다. 저는 렌치를 쥘 수 있을 만큼 나이를 먹었을 때부터 함선을 만지작거려 왔습니다."
+"*피식하는 소리* 저에게 너무 복잡한 것은 없습니다. 저는 렌치를 쥘 수 있을 만큼 나이를 먹었을 때부터 우주선을 만지작거려 왔습니다."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. PROMPT: I'm surprised you have experience working with ships manufactured in the Settled Systems. 
@@ -169838,7 +169850,7 @@ msgstr ""
 #. SUBTYPE: Custom
 msgctxt "0025BD"
 msgid "Well, I had a... privileged upbringing that allowed me to hone my skills on all sorts of different ships."
-msgstr "음, 저는... 특권적인 성장 환경 덕분에 모든 종류의 다양한 함선에서 제 기술을 연마할 수 있었습니다."
+msgstr "음, 저는... 특권적인 성장 환경 덕분에 모든 종류의 다양한 우주선에서 제 기술을 연마할 수 있었습니다."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: HVDazraDumarHasadi: That is some ship you have there! |It has been too long since I've tinkered with a ship from the Settled Systems.
@@ -169867,7 +169879,7 @@ msgstr "이 기술이 당신에게 너무 복잡하지 않았으면 좋겠네요
 #. SUBTYPE: Custom
 msgctxt "0025BB"
 msgid "So, if you need anything for your ship, just let me know."
-msgstr "그러니, 당신의 함선에 필요한 것이 있으면, 제게 알려주세요."
+msgstr "그러니, 당신의 우주선에 필요한 것이 있으면, 제게 알려주세요."
 
 #. SCRIPT NOTES: Friendly / to Player Default
 #. ALIAS: Player Default
@@ -169881,7 +169893,7 @@ msgstr "그러니, 당신의 함선에 필요한 것이 있으면, 제게 알려
 #. SUBTYPE: Custom
 msgctxt "0025BA"
 msgid "How are you so knowledgeable about ships from the Settled Systems?"
-msgstr "개척 성계의 함선에 대해 어떻게 그렇게 잘 아시나요?"
+msgstr "개척 성계의 우주선에 대해 어떻게 그렇게 잘 아시나요?"
 
 #. SCRIPT NOTES: Friendly / to Player Default
 #. ALIAS: Player Default
@@ -169950,7 +169962,7 @@ msgstr "흠, 그 점에 대해서 말인데..."
 msgctxt "0025B5"
 msgid "My father was a technician far outside of Dazra. Growing up, I would help him repair or strip all of the ships that were being delivered to him. Delivered by Zealots."
 msgstr ""
-"제 아버지는 다즈라에서 멀리 떨어진 곳에서 기술자로 일하셨습니다. 저는 자라면서, 광신도들이 보내는 함선을 모두 아버지가 수리하거나 "
+"제 아버지는 다즈라에서 멀리 떨어진 곳에서 기술자로 일하셨습니다. 저는 자라면서, 광신도들이 보내는 우주선을 모두 아버지가 수리하거나 "
 "해체하는 것을 돕곤 했습니다."
 
 #. SCRIPT NOTES: Neutral / to Player Default
@@ -169964,7 +169976,9 @@ msgstr ""
 #. SUBTYPE: Custom
 msgctxt "0025B4"
 msgid "The ships were incredible. Deimos, Stroud-Eklund, even HopeTech. It was so exciting to work on them. But, now I just feel dirty, knowing where those ships came from, what had to be done to acquire them."
-msgstr "그 함선들은 놀라웠습니다. 데이모스, 스트라우드 에클룬드, 심지어 호프테크까지. 그것들을 작업하는 것은 정말 신나는 일이었습니다. 하지만, 이제 그 함선들이 어디서 왔는지, 그것들을 얻기 위해 무슨 짓을 해야 했는지 알고 나니 그저 더럽게 느껴질 뿐입니다."
+msgstr ""
+"그 우주선들은 놀라웠습니다. 데이모스, 스트라우드 에클룬드, 심지어 호프테크까지. 그것들을 작업하는 것은 정말 신나는 일이었습니다. "
+"하지만, 이제 그 우주선들이 어디서 왔는지, 그것들을 얻기 위해 무슨 짓을 해야 했는지 알고 나니 그저 더럽게 느껴질 뿐입니다."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. ALIAS: HVDazraDumarHasadi
@@ -171255,7 +171269,7 @@ msgstr "손님이 많으신가요?"
 #. SUBTYPE: Custom
 msgctxt "002514"
 msgid "Oh, uh, Dumar is the uh, ship technician, by the way."
-msgstr "오, 어, 두마르는, 어, 함선 기술자예요."
+msgstr "오, 어, 두마르는, 어, 우주선 기술자예요."
 
 #. SCRIPT NOTES: trying to dance around the subject (they can't outright say what it is, but know that yes, it is definitely an Enhance!) / Neutral / to Player Default
 #. PROMPT: This... is just an Enhance!, isn't it?
@@ -171559,7 +171573,7 @@ msgstr "뭐 파는지 좀 봅시다."
 #. SUBTYPE: Custom
 msgctxt "0024FE"
 msgid "Here."
-msgstr "여기요."
+msgstr "여기 있다."
 
 #. SCRIPT NOTES: Serious / to Qisrani
 #. DIALOGUE BEFORE: Mujeen: This may sound radical, but if we could reunite with some of the exiled from House Ma'leen... &&& ...  &&& Tevina: Not to mention they're completely sloffing mad. &&& Tevina: What, too soon? It's only been about fifty years. &&& Qisrani: For now, let me see what I can find out regarding the missing supplies.|It's possible they were lost in the tragedy along with everything else. But I don't know for sure.|Once that is sorted, we can revisit this debate.
@@ -171655,7 +171669,7 @@ msgstr "여기 꽤 강력한 무기들이 좀 있습니다."
 #. SUBTYPE: Custom
 msgctxt "0024F7"
 msgid "I'd like to take a look at your ships."
-msgstr "보유하신 함선을 좀 보고 싶습니다."
+msgstr "보유하신 우주선을 좀 보고 싶습니다."
 
 #. ALIAS: Player Default
 #. VOICE TYPE: PlayerVoiceMale01
@@ -171937,7 +171951,7 @@ msgstr "그건 별로 설득력 없는 판매 멘트였어요."
 #. SUBTYPE: Custom
 msgctxt "0024E3"
 msgid "I do not waste people's time. If you need my goods you will buy them, if not you will leave."
-msgstr "저는 사람들 시간 낭비하지 않습니다. 제 물건이 필요하면 사시면 되고, 아니면 그냥 가시면 됩니다."
+msgstr "나는 사람들이 시간 낭비하게 놔두지 않아. 물건이 필요하면 사면 되고, 아니면 그냥 가면 돼."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: HVDazraMakolaJubav: What do you want?
@@ -171966,7 +171980,8 @@ msgstr "저한테 불만 있으신가 보군요."
 #. SUBTYPE: Custom
 msgctxt "0024E1"
 msgid "I do not know what to make of your arrival here. You may have convinced the others, but I am not entirely sure you are not a foe."
-msgstr "당신이 이곳에 온 걸 어떻게 받아들여야 할지 모르겠군요. 다른 사람들은 속였을지 몰라도, 저는 당신이 적이 아니라고 확신할 수 없습니다."
+msgstr ""
+"그쪽이 이곳에 온 걸 어떻게 받아들여야 할지 모르겠군. 다른 사람들은 속였을지 몰라도, 나는 그쪽이 적이 아니라 확신하지 못하겠거든."
 
 #. SCRIPT NOTES: Serious / to Player Default
 #. ALIAS: HVDazraMakolaJubav
@@ -171979,7 +171994,7 @@ msgstr "당신이 이곳에 온 걸 어떻게 받아들여야 할지 모르겠�
 #. SUBTYPE: Custom
 msgctxt "0024E0"
 msgid "However, your credits are worth as much as anyone else's. I will trade with you, but I have no interest in being your friend."
-msgstr "하지만, 당신 크레딧도 다른 사람들 것만큼 가치는 있겠죠. 거래는 하겠지만, 당신과 친구가 될 생각은 없습니다."
+msgstr "하지만, 그쪽 크레딧도 다른 사람들 것만큼 가치는 있겠지. 거래는 하겠지만, 그쪽과 친구가 될 생각은 없다고."
 
 #. SCRIPT NOTES: Serious / to Player Default
 #. ALIAS: HVDazraMakolaJubav
@@ -171992,7 +172007,7 @@ msgstr "하지만, 당신 크레딧도 다른 사람들 것만큼 가치는 있�
 #. SUBTYPE: Custom
 msgctxt "0024DF"
 msgid "Now, what do you want?"
-msgstr "그래서, 뭘 원하시죠?"
+msgstr "그래서, 뭘 원하시나?"
 
 #. SCRIPT NOTES:  / to Player Default
 #. PROMPT: Sounds like you have a problem with me.
@@ -172008,7 +172023,7 @@ msgstr "그래서, 뭘 원하시죠?"
 #. SUBTYPE: Custom
 msgctxt "0024DE"
 msgid "No problem, I just do not trust you."
-msgstr "문제 없습니다. 단지 당신을 믿지 않을 뿐이에요."
+msgstr "문제는 없다. 단지 그쪽을 믿지 않을 뿐이야."
 
 #. SCRIPT NOTES: Serious / to HVDazraMakolaJubav
 #. ALIAS: Player Default
@@ -172036,7 +172051,7 @@ msgstr "지금 일어나는 모든 일 때문에 사업이 걱정되시나요?"
 #. SUBTYPE: Custom
 msgctxt "0024DC"
 msgid "I've no reason to be concerned. The Great Serpent is testing our faith, and my devotion has always been resolute."
-msgstr "걱정할 이유가 없습니다. 위대한 뱀께서 우리의 믿음을 시험하고 계시고, 제 헌신은 언제나 확고했으니까요."
+msgstr "걱정할 필요는 없겠지. 위대한 뱀께서 우리의 믿음을 시험하고 계신 거고, 내 헌신은 언제나 확고했으니까."
 
 #. SCRIPT NOTES: Serious / to Player Default
 #. ALIAS: HVDazraMakolaJubav
@@ -172049,7 +172064,7 @@ msgstr "걱정할 이유가 없습니다. 위대한 뱀께서 우리의 믿음�
 #. SUBTYPE: Custom
 msgctxt "0024DB"
 msgid "Myself and my business shall both be stronger at the end of this, as a product of our loyalty to the Great Serpent."
-msgstr "저와 제 사업은 이 모든 일이 끝난 후에는, 위대한 뱀에 대한 우리의 충성의 결과로, 더 강해져 있을 겁니다."
+msgstr "이 모든 일이 끝난 뒤에 내 사업은, 위대한 뱀 님에 대한 믿음의 결과로, 더 강해져 있을 거다."
 
 #. SCRIPT NOTES: Irritated / to Player Default
 #. DIALOGUE BEFORE: Player Default: You think the Great Serpent destroyed homes and families as a test of faith? Doesn't that seem cruel?
@@ -172063,7 +172078,7 @@ msgstr "저와 제 사업은 이 모든 일이 끝난 후에는, 위대한 뱀�
 #. SUBTYPE: Custom
 msgctxt "0024DA"
 msgid "I will not dignify that nonsense with an answer."
-msgstr "그런 말도 안 되는 소리에는 대답할 가치도 없습니다."
+msgstr "그런 말도 안 되는 소리에 일일히 대답해야 하나."
 
 #. SCRIPT NOTES: Serious / to HVDazraMakolaJubav
 #. ALIAS: Player Default
@@ -173446,7 +173461,7 @@ msgstr "알아! 나도 마찬가지야!"
 #. SUBTYPE: Custom
 msgctxt "00245F"
 msgid "Have you ever seen a ship like that? It is truly something."
-msgstr "저런 함선 본 적 있어? 정말 대단해."
+msgstr "저런 우주선 본 적 있어? 정말 대단해."
 
 #. SCRIPT NOTES:  / to Dumar
 #. DIALOGUE BEFORE: SpaceportWorker: Have you ever seen a ship like that? It is truly something. 
@@ -173460,7 +173475,7 @@ msgstr "저런 함선 본 적 있어? 정말 대단해."
 #. SUBTYPE: Custom
 msgctxt "00245E"
 msgid "Ha, every ship is amazing, in its own way."
-msgstr "하, 모든 함선은, 각자의 방식으로 놀랍지."
+msgstr "하, 모든 우주선은, 각자의 방식으로 놀랍지."
 
 #. SCRIPT NOTES:  / to Healer01
 #. ALIAS: Healer02
@@ -174567,7 +174582,7 @@ msgstr "그냥 하루하루 버티고 있어요."
 #. SUBTYPE: Hello
 msgctxt "0023F6"
 msgid "You have great taste in ships, my friend."
-msgstr "함선을 보는 안목이 뛰어나시군요, 친구."
+msgstr "우주선을 보는 안목이 뛰어나시군요, 친구."
 
 #. VOICE TYPE: SFBGS001_NPCMDumarHasadi
 #. FACE: Neutral
@@ -174676,7 +174691,7 @@ msgstr "뭐라고 하셨소?"
 #. SUBTYPE: Hello
 msgctxt "0023ED"
 msgid "Buying? Selling?"
-msgstr "구매? 판매?"
+msgstr "구매야? 판매야?"
 
 #. VOICE TYPE: SFBGS001_NPCMMakolaJubav
 #. FACE: Neutral
@@ -174699,7 +174714,7 @@ msgstr "나도 먹고 살아야지. 내 입으로."
 #. SUBTYPE: Hello
 msgctxt "0023EB"
 msgid "No loitering."
-msgstr "어슬렁거리지 마시오."
+msgstr "어슬렁거리지 마셔."
 
 #. VOICE TYPE: SFBGS001_NPCFMarlanaVolav
 #. FACE: Neutral
@@ -178512,7 +178527,7 @@ msgstr "저는 무언가에 헌신하는 것은 도저히 쉽게 못하겠더라
 #. SUBTYPE: Custom
 msgctxt "002248"
 msgid "Yeah, listen, I hope you're not talking about me, because that is not the way this works."
-msgstr "어, 있지. 내 얘기 하는 건 아니길 바라. 우리 사이는 전혀 그렇지 않으니까."
+msgstr "어, 있지. 내 얘기 하는 건 아니었으면 좋겠어. 우리 사이는 전혀 그렇지 않으니까."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: VijunAhkmav: A willful sort, are you? |It's rare to hear such defiance, especially in one who is no longer a child.|However, the need for obedience is a lesson that can take some time to sink in.|I myself was rebellious well past my youth. Oh, the tales I could tell... &&& companion: Surely that must be some poor attempt at humor.|You could not possibly be referring to me.
@@ -185570,7 +185585,7 @@ msgstr "내가 하는 일은 다즈라와 개척 성계 사이를 왔다 갔다 
 #. SUBTYPE: Custom
 msgctxt "001FA9"
 msgid "Just so happens, I got a lot of time on my hands since Dazra went to hell and I lost my ship."
-msgstr "공교롭게도, 다즈라가 작살나고 내 함선도 사라지는 바람에 남는 시간이 많아졌지."
+msgstr "공교롭게도, 다즈라가 작살나고 내 우주선도 사라지는 바람에 남는 시간이 많아졌지."
 
 #. SCRIPT NOTES: Depressed / to Player Default
 #. PROMPT: How'd you end up here?
@@ -186590,7 +186605,7 @@ msgstr "이제 전력망을 설정할 테니 잠시 기다리게."
 #. SUBTYPE: Custom
 msgctxt "001F5A"
 msgid "You're welcome, and safe travels."
-msgstr "고마워요. 안전하게 다니세요."
+msgstr "고마워요. 안전하게 여행하세요."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Mila: You found me!|Wow, you're a lot better than me at this game.  &&& Mila: Thanks for helping me put a smile on my friends' faces. 
@@ -194397,7 +194412,7 @@ msgstr ""
 #. SUBTYPE: Custom
 msgctxt "001C16"
 msgid "Ship departure records that match the date supplies went missing, as well as employment records for individuals working the spaceport."
-msgstr "물자가 사라진 날짜와 일치하는 함선 출발 기록과 우주항에서 일하는 사람들의 고용 기록이 있습니다."
+msgstr "물자가 사라진 날짜와 일치하는 우주선 출발 기록과 우주항에서 일하는 사람들의 고용 기록이 있습니다."
 
 #. SCRIPT NOTES: Smug / to Player Default
 #. PROMPT: What sort of information do you have on your terminal?
@@ -198028,7 +198043,7 @@ msgstr "쥐처럼 굴지만, 우리는 호랑이의 송곳니를 보고 있다. 
 #. SUBTYPE: Custom
 msgctxt "001AC4"
 msgid "Will you be needing my services again?"
-msgstr "제 도움이 또 필요하신가요?"
+msgstr "또 도와드려야 할 일이 있나요?"
 
 #. SCRIPT NOTES: Confident
 #. DIALOGUE BEFORE: Player Default: Will you be needing my services again?
@@ -198055,7 +198070,7 @@ msgstr "아, 이미 충분히 도와주셨으니 더 이상 시간을 내달라�
 #. SUBTYPE: Custom
 msgctxt "001AC2"
 msgid "Part of being a good delegate is spreading out the work! We are all working as a team."
-msgstr "좋은 대표가 되려면 일을 분산시켜야죠! 우리는 모두 한 팀으로 일하고 있습니다."
+msgstr "좋은 대리인이 되려면 업무를 적절히 분배할 줄도 알아야겠죠! 우리는 다 같이 한 팀으로 일하는 거니까요."
 
 #. SCRIPT NOTES: Concerned
 #. VOICE TYPE: SFBGS001_NPCFBreanneIbaka
@@ -198067,7 +198082,7 @@ msgstr "좋은 대표가 되려면 일을 분산시켜야죠! 우리는 모두 �
 #. SUBTYPE: BlockingHello
 msgctxt "001AC1"
 msgid "Once things get settled, I am going to look into constructing a new orphanage. One on far tamer land."
-msgstr "일단 상황이 안정되면, 새 고아원을 지을 생각입니다. 훨씬 더 안전한 땅에다가요."
+msgstr "일단 상황이 안정되면, 새 고아원을 지을 생각이에요. 훨씬 더 안전한 땅에 지으려고요."
 
 #. VOICE TYPE: SFBGS001_NPCFBreanneIbaka
 #. FACE: Neutral
@@ -198078,7 +198093,7 @@ msgstr "일단 상황이 안정되면, 새 고아원을 지을 생각입니다. 
 #. SUBTYPE: BlockingHello
 msgctxt "001AC0"
 msgid "Thank you again for removing that phantom. I know now the Serpent brought you here for a reason."
-msgstr "그 유령을 없애 주셔서 다시 한번 감사드립니다. 이제 뱀께서 당신을 이곳으로 보내신 이유를 알겠습니다."
+msgstr "유령을 없애 주셔서 다시 한번 감사드립니다. 이제 위대한 뱀께서 왜 당신을 이곳으로 보내셨는지 알 것 같습니다."
 
 #. SCRIPT NOTES: Neutral
 #. VOICE TYPE: SFBGS001_NPCFBreanneIbaka
@@ -198090,7 +198105,7 @@ msgstr "그 유령을 없애 주셔서 다시 한번 감사드립니다. 이제 
 #. SUBTYPE: BlockingHello
 msgctxt "001ABF"
 msgid "Whoever caused these vortex phantoms to occur, bad things should happen to them. Very bad things."
-msgstr "누가 이 볼텍스 유령들의 원흉인지 모르겠지만, 그 사람에겐 나쁜 일이 일어나야 해요. 아주 나쁜 일이요."
+msgstr "누가 볼텍스 유령들을 만들어낸 원흉인진 모르겠지만, 천벌을 받아 마땅해요. 아주 끔찍한 천벌요."
 
 #. SCRIPT NOTES: Concerned
 #. VOICE TYPE: SFBGS001_NPCFBreanneIbaka
@@ -198103,8 +198118,8 @@ msgstr "누가 이 볼텍스 유령들의 원흉인지 모르겠지만, 그 사�
 msgctxt "001ABE"
 msgid "I feel a weight off my shoulders, but there is still much work to do. For one, I need to tell Vassilis' mother her son is not a Herald. Just an apprentice! How shameful."
 msgstr ""
-"마음이 한결 가벼워졌지만, 아직 할 일이 많습니다. 우선, 바실리스의 어머니에게 아들은 전령이 아니라 그저 연습생일 뿐이라고 "
-"말해야겠네요! 정말 부끄러운 일입니다."
+"마음이 한결 가벼워졌지만, 아직 할 일이 많네요. 우선, 바실리스의 어머니에게 아들 분은 전령이 아니라 그저 연습생일 뿐이라고 "
+"말해드려야겠어요. 정말 부끄러운 일이네요."
 
 #. SCRIPT NOTES: Irritated / to Viktor
 #. DIALOGUE BEFORE: Vitoria: Your inability to provide a legitimate excuse for denying them will only last so long. &&& Luther: Vitoria is right. I know you're angry, but you can't let personal matters interfere with what may be best for everyone. &&& Viktor: Personal matters? This is a Ministry of State matter, and I will handle it as I see fit.|He is a traitor. He turned his back, not only on his family, but on our people's entire belief system.|The fact that he still breathes is a stain upon the House Veth'aal name.
@@ -200183,7 +200198,8 @@ msgstr "유령에 대해 알려주시겠습니까?"
 #. SUBTYPE: Custom
 msgctxt "001A28"
 msgid "They are haunting the old orphanage. Until recently it was a refuge for lost children, but had closed down due to a lack of volunteers."
-msgstr "유령들은 오래된 고아원에 출몰하고 있어요. 최근까지 부모를 잃은 아이들을 위한 피난처였지만, 자원봉사자가 부족해서 문을 닫았죠."
+msgstr ""
+"유령들은 오래된 고아원에 나타난다고 합니다. 최근까지도 부모를 잃은 아이들을 위한 피난처로 쓰였지만, 자원봉사자가 부족해서 문을 닫았죠."
 
 #. SCRIPT NOTES: Shocked
 #. DIALOGUE BEFORE: Player Default: What can you tell me about this phantom? &&& Vassilis: They are haunting the old orphanage. Until recently it was a refuge for lost children, but had closed down due to a lack of volunteers.|In the past few weeks there have been rumors of people squatting there, and using the building as housing.|Given its history, it doesn't surprise me that a wayward soul would go back there, if they sought to be found.
@@ -200197,7 +200213,7 @@ msgstr "유령들은 오래된 고아원에 출몰하고 있어요. 최근까지
 #. SUBTYPE: Custom
 msgctxt "001A27"
 msgid "A wayward soul? Surely we should not give such merciful terms to this... thing!"
-msgstr "떠도는 영혼이라고요? 그런... 괴물을 그런 자비로운 말로 불러서는 안 되는 거잖아요!"
+msgstr "길 잃은 영혼이라고요? 그런... 끔찍한 걸 그렇게 자비로운 표현을 붙여서 불러서는 안 돼요!"
 
 #. SCRIPT NOTES: Afraid
 #. ALIAS: Breanne
@@ -200210,7 +200226,7 @@ msgstr "떠도는 영혼이라고요? 그런... 괴물을 그런 자비로운 �
 #. SUBTYPE: Custom
 msgctxt "001A26"
 msgid "It haunts the orphanage and is a clear danger to anyone who may have been inside!"
-msgstr "고아원에 출몰하면서 그 안에 있을지 모를 사람들을 위협하는 게 분명하다고요!"
+msgstr "유령이 고아원에 나타나고 있어요! 고아원 안에 사람들이 있는지는 모르겠지만 분명 위험하다고요!"
 
 #. SCRIPT NOTES: Afraid
 #. VOICE TYPE: SFBGS001_NPCFBreanneIbaka
@@ -200222,7 +200238,7 @@ msgstr "고아원에 출몰하면서 그 안에 있을지 모를 사람들을 �
 #. SUBTYPE: Hello
 msgctxt "001A25"
 msgid "I came to the hospital in hopes the Herald's prayer could exorcise this thing."
-msgstr "제가 병원에 온 이유는 그 괴물을 퇴마해 달라고 전령님의 기도를 요청하러 온 거예요."
+msgstr "제가 병원에 온 건 전령님의 기도로 그 끔찍한 걸 퇴마할 수 있을까 싶어서예요."
 
 #. SCRIPT NOTES: Worried
 #. VOICE TYPE: SFBGS001_NPCFBreanneIbaka
@@ -200234,7 +200250,7 @@ msgstr "제가 병원에 온 이유는 그 괴물을 퇴마해 달라고 전령�
 #. SUBTYPE: Hello
 msgctxt "001A24"
 msgid "I worry about the damage this phantom could cause."
-msgstr "그 유령이 피해를 일으킬까 봐 걱정이 된다고요."
+msgstr "유령이 피해를 일으킬까 봐 걱정돼요."
 
 #. ALIAS: Player Default
 #. VOICE TYPE: PlayerVoiceMale01
@@ -200261,7 +200277,7 @@ msgstr "왜 전령이 되고 싶으셨나요?"
 #. SUBTYPE: Custom
 msgctxt "001A0D"
 msgid "Maybe. I knew this trial would force me to grow as a healer, but I didn't anticipate the WAY it would."
-msgstr "그럴지도 모르죠. 이 시험이 저를 치료사로서 성장하게 할 줄은 알았지만, 이런 식일 줄은 예상하지 못했습니다."
+msgstr "아마도요. 이 시련이 저를 치료사로 성장시켜 줄 거라 생각하긴 했지만, 설마 이런 식일 줄은 예상하지 못했습니다."
 
 #. SCRIPT NOTES: Concerned
 #. ALIAS: Z03_Vassilis
@@ -200275,7 +200291,8 @@ msgstr "그럴지도 모르죠. 이 시험이 저를 치료사로서 성장하�
 #. SUBTYPE: Custom
 msgctxt "001A0C"
 msgid "I haven't changed at all in terms of my healing skill, or knowledge of prayer, but that isn't the only way to heal people!"
-msgstr "제 치료 기술이나 기도에 대한 지식은 전혀 변하지 않았지만, 그게 사람들을 치료하는 유일한 방법은 아닙니다!"
+msgstr ""
+"치료 기술이나 기도 전례 관련 지식이 늘거나 하진 않았지만, 신민들을 치료하는 방법이 꼭 그런 것만 있는 게 아니라는 걸 알았죠!"
 
 #. SCRIPT NOTES: Surprised / to Player Default
 #. ALIAS: Z03_Reigen
@@ -200315,7 +200332,7 @@ msgstr "그럼 아직 애가 살아 있다는 뜻이니?"
 #. SUBTYPE: Custom
 msgctxt "001A09"
 msgid "Do you feel you've done enough to become a Herald?"
-msgstr "전령이 되기 위해 충분히 노력했다고 생각하시나요?"
+msgstr "전령이 될 만큼 충분히 노력했다고 생각하시나요?"
 
 #. SCRIPT NOTES: Concerned / to Player Default
 #. PROMPT: Yes, she's still alive.
@@ -200477,8 +200494,8 @@ msgstr "저는 다른 종류의 기적을 행하고 싶었습니다. 하지만 �
 msgctxt "0019FE"
 msgid "You showed me I can heal others by connecting people, not just through medicine. So, in that sense, yes, I feel I have learned much."
 msgstr ""
-"당신 덕분에 저는 사람들을 연결해 줌으로써 다른 이들을 치료할 수 있다는 것을 깨달았습니다. 단지 약을 통해서만이 아니라요. 그런 "
-"의미에서, 많은 것을 배웠다고 생각합니다."
+"당신 덕분에 신민들을 이어주는 것도 훌륭한 치료 방법이 될 수 있다는 걸 깨달았습니다. 의술만 치료가 가능한 게 아닌 거죠. 그런 "
+"의미에서, 정말 많은 걸 배운 것 같습니다."
 
 #. SCRIPT NOTES: Puzzled / to Player Default
 #. PROMPT: She's a vortex phantom, caught between realities.
@@ -200593,7 +200610,7 @@ msgstr "함께해 줘서 고맙구나. 손님이 오니 더 청소하고 싶은 
 #. SUBTYPE: Goodbye
 msgctxt "0019F3"
 msgid "Best of luck to you. To all of us."
-msgstr "행운을 빕니다. 우리 모두에게요."
+msgstr "행운을 빕니다. 우리 모두의 행운을요."
 
 #. SCRIPT NOTES: Neutral
 #. VOICE TYPE: SFBGS001_NPCMVassilisVoyiatzi
@@ -200605,7 +200622,7 @@ msgstr "행운을 빕니다. 우리 모두에게요."
 #. SUBTYPE: Goodbye
 msgctxt "0019F2"
 msgid "Let me know if there's anything I can help you with."
-msgstr "제가 도와드릴 일이 있으면 말씀하세요."
+msgstr "도움이 필요한 부분이 있으시면 언제든지 말씀해 주세요."
 
 #. SCRIPT NOTES: Neutral
 #. VOICE TYPE: SFBGS001_NPCMVassilisVoyiatzi
@@ -200617,7 +200634,7 @@ msgstr "제가 도와드릴 일이 있으면 말씀하세요."
 #. SUBTYPE: Goodbye
 msgctxt "0019F1"
 msgid "Serpent be with you."
-msgstr "뱀께서 함께 하시길."
+msgstr "위대한 뱀께서 함께 하시길."
 
 #. SCRIPT NOTES: Neutral
 #. VOICE TYPE: SFBGS001_NPCMVassilisVoyiatzi
@@ -200629,7 +200646,7 @@ msgstr "뱀께서 함께 하시길."
 #. SUBTYPE: Goodbye
 msgctxt "0019F0"
 msgid "Jinan guide your steps."
-msgstr "지난께서 당신의 발걸음을 인도하시길."
+msgstr "지난께서 그대의 발걸음을 인도하시길."
 
 #. SCRIPT NOTES: Grateful
 #. VOICE TYPE: SFBGS001_NPCMReigenUeda
@@ -200677,7 +200694,7 @@ msgstr "도와주고 싶지만, 지금은 내 머리가 온전치 못하구나."
 #. SUBTYPE: Hello
 msgctxt "0019EC"
 msgid "Thank you again for helping me with Reigen."
-msgstr "레이겐 씨에 대한 일을 도와주셔서 다시 한번 감사합니다."
+msgstr "레이겐 씨 일을 도와주셔서 다시 한번 감사드립니다."
 
 #. SCRIPT NOTES: Grateful
 #. VOICE TYPE: SFBGS001_NPCMVassilisVoyiatzi
@@ -200689,7 +200706,7 @@ msgstr "레이겐 씨에 대한 일을 도와주셔서 다시 한번 감사합�
 #. SUBTYPE: Hello
 msgctxt "0019EB"
 msgid "Your assistance with the phantom was much appreciated. I thank Jinan for being blessed with your acquaintance."
-msgstr "유령 건으로 도와주셔서 정말 감사했습니다. 당신을 알게 된 축복을 지난께 감사드립니다."
+msgstr "유령 일을 도와주셔서 정말 고맙습니다. 당신을 만나게 해주신 지난님의 은총에 감사드립니다."
 
 #. SCRIPT NOTES: Concerned
 #. VOICE TYPE: SFBGS001_NPCMVassilisVoyiatzi
@@ -200701,7 +200718,7 @@ msgstr "유령 건으로 도와주셔서 정말 감사했습니다. 당신을 �
 #. SUBTYPE: Hello
 msgctxt "0019EA"
 msgid "I feel so overwhelmed, but I can't afford to be. Now is not the time."
-msgstr "너무 힘겹지만, 지칠 여유조차 없습니다. 지금은 때가 아니에요."
+msgstr "너무 힘겹지만, 지쳐할 여유도 없어요. 지금은 쉴 때가 아니니까요."
 
 #. SCRIPT NOTES: Concerned
 #. VOICE TYPE: SFBGS001_NPCMVassilisVoyiatzi
@@ -200713,7 +200730,7 @@ msgstr "너무 힘겹지만, 지칠 여유조차 없습니다. 지금은 때가 
 #. SUBTYPE: Hello
 msgctxt "0019E9"
 msgid "Many thanks for your assistance. We need every spare hand, spare brain, spare foot!"
-msgstr "도와주셔서 정말 감사합니다. 우리는 일손, 머리, 발 하나하나가 모두 필요합니다!"
+msgstr "도와주셔서 정말 감사합니다. 지금 저희한테는 일손, 일머리, 발품을 팔아주실 분들이 필요합니다!"
 
 #. SCRIPT NOTES: Neutral
 #. VOICE TYPE: SFBGS001_NPCMVassilisVoyiatzi
@@ -200725,7 +200742,7 @@ msgstr "도와주셔서 정말 감사합니다. 우리는 일손, 머리, 발 �
 #. SUBTYPE: Hello
 msgctxt "0019E8"
 msgid "I can be a bit talkative. Manic, even. Apologies in advance!"
-msgstr "제가 말이 좀 많을 수도 있습니다. 심지어 조증처럼요. 미리 사과드립니다!"
+msgstr "제가 말이 좀 많을 수도 있습니다. 가끔은 정신없을 정도로요. 미리 사과드릴게요!"
 
 #. SCRIPT NOTES: Neutral
 #. VOICE TYPE: SFBGS001_NPCMVassilisVoyiatzi
@@ -200737,7 +200754,7 @@ msgstr "제가 말이 좀 많을 수도 있습니다. 심지어 조증처럼요.
 #. SUBTYPE: Hello
 msgctxt "0019E7"
 msgid "There's a lot that needs to be done. So much sometimes it can be paralyzing."
-msgstr "해야 할 일이 많습니다. 너무 많아서 때로는 아무것도 할 수 없을 지경이죠."
+msgstr "해야 할 일이 너무 많습니다. 너무 많아서 어떨 때는 아무것도 할 수 없을 지경입니다."
 
 #. SCRIPT NOTES: Irritated
 #. VOICE TYPE: SFBGS001_NPCMVassilisVoyiatzi
@@ -201691,7 +201708,8 @@ msgstr ""
 #. SUBTYPE: Custom
 msgctxt "001992"
 msgid "That is understandable, given the cataclysm. We can rebuild the orphanage elsewhere, but that is a problem of stone and mortar."
-msgstr "대재난이 터졌던 걸 고려하면 그럴 만하죠. 고아원은 다른 곳에 지을 수 있지만 그건 다른 문제고요."
+msgstr ""
+"대재난을 겪었으니 그럴 만도 하죠. 고아원 건물은 다른 곳에 새로 세우면 그만이에요. 벽돌이나 시멘트만 있으면 해결되는 문제니까요."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Vassilis: Anything new to report? Were you able to remove the phantom? &&& Breanne: Oh please, I hope you bring good news!
@@ -201706,7 +201724,7 @@ msgstr "대재난이 터졌던 걸 고려하면 그럴 만하죠. 고아원은 �
 #. SUBTYPE: Custom
 msgctxt "001991"
 msgid "The phantom has been removed, but the orphanage is in pretty bad shape."
-msgstr "유령은 없어졌지만 고아원의 상태가 많이 안 좋습니다."
+msgstr "유령은 없어졌지만, 고아원의 상태가 많이 안 좋습니다."
 
 #. SCRIPT NOTES:  / to Player Default
 #. PROMPT: I took care of the phantom.
@@ -201722,7 +201740,7 @@ msgstr "유령은 없어졌지만 고아원의 상태가 많이 안 좋습니다
 #. SUBTYPE: Custom
 msgctxt "001990"
 msgid "I'm grateful you were able to handle this situation. With the city in turmoil, I'm more or less anchored to this spot."
-msgstr "문제를 해결하실 수 있었다니 참 다행입니다. 도시가 어려움을 겪고 있어서 저는 여기 묶여 있는 실정이거든요."
+msgstr "문제를 해결하셨다니 참 다행입니다. 도시가 곤란한 상황이라 저는 여기 묶여 있다시피 하거든요."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. PROMPT: You won't be bothered any further.
@@ -201738,7 +201756,7 @@ msgstr "문제를 해결하실 수 있었다니 참 다행입니다. 도시가 �
 #. SUBTYPE: Custom
 msgctxt "00198F"
 msgid "All the credit goes to them. I merely pointed the way."
-msgstr "다 저분들 덕분이죠. 저는 갈 길을 알려 줬을 뿐이고요."
+msgstr "다 저분 덕분이죠. 저는 고아원 위치를 알려 줬을 뿐이고요."
 
 #. SCRIPT NOTES: Apologetic / to Player Default
 #. PROMPT: The phantom has been removed, but the orphanage is in pretty bad shape.
@@ -201754,7 +201772,7 @@ msgstr "다 저분들 덕분이죠. 저는 갈 길을 알려 줬을 뿐이고요
 #. SUBTYPE: Custom
 msgctxt "00198E"
 msgid "Indeed. The city will be rebuilt in time. We are committed to this as a people."
-msgstr "그렇습니다. 도시는 머지 않아 재건될 거예요. 그건 신민들 모두 확신하고 있죠."
+msgstr "그렇습니다. 도시는 머지않아 재건될 거예요. 신민들 모두가 재건에 온 힘을 쏟고 있으니까요."
 
 #. SCRIPT NOTES: Grateful
 #. DIALOGUE BEFORE: Vassilis: Here. In appreciation for your assistance.
@@ -201768,7 +201786,7 @@ msgstr "그렇습니다. 도시는 머지 않아 재건될 거예요. 그건 신
 #. SUBTYPE: Custom
 msgctxt "00198D"
 msgid "There's still much to do, but I feel confident with volunteers like yourself, we are trending in the right direction."
-msgstr "아직 할 일이 많지만, 당신과 같은 봉사자들 덕분에 우리가 올바른 방향으로 가고 있다고 여겨지네요."
+msgstr "아직 갈 길이 멀기는 하지만, 당신처럼 도와주시는 분이 계시니 참 든든합니다. 앞으로 일이 다 잘 풀릴 것 같습니다."
 
 #. SCRIPT NOTES: Suspicious / to Vassilis
 #. PROMPT: The phantom has been removed, but the orphanage is in pretty bad shape.
@@ -201783,7 +201801,7 @@ msgstr "아직 할 일이 많지만, 당신과 같은 봉사자들 덕분에 우
 #. SUBTYPE: Custom
 msgctxt "00198C"
 msgid "You could show a little more commitment, Vassilis, but that is a conversation for me and your mother."
-msgstr "좀 더 적극적인 모습을 보여줄 수도 있을 텐데요. 바실리스. 그쪽 어머니와 대화라도 나눠야겠네요."
+msgstr "좀 더 성의를 보여줘도 될 텐데요. 바실리스. 뭐, 그런 식의 대화는 저나 당신 어머니가 주로 하는 거긴 하지만요."
 
 #. SCRIPT NOTES: Afraid / to Vassilis
 #. ALIAS: Breanne
@@ -201856,7 +201874,7 @@ msgstr "유령은 전에도 처리해 봤습니다. 제가 해결할 수 있을 
 #. SUBTYPE: Custom
 msgctxt "001986"
 msgid "Strange, that sounds an awful lot like an excuse."
-msgstr "이상하군요. 마치 변명하는 것처럼 들리는데요."
+msgstr "이상하네요. 꼭 변명하는 것처럼 들리는데요."
 
 #. SCRIPT NOTES: Suspicious / to Vassilis
 #. PROMPT: You won't be bothered any further.
@@ -201871,7 +201889,7 @@ msgstr "이상하군요. 마치 변명하는 것처럼 들리는데요."
 #. SUBTYPE: Custom
 msgctxt "001985"
 msgid "Oh don't worry, Vassilis, I'm well aware who did the lion's share of the work."
-msgstr "아, 걱정 마시죠. 바실리스. 누가 제일 큰 공을 세웠는지는 잘 알고 있으니까요."
+msgstr "아, 걱정 마세요. 바실리스. 누가 제일 큰 공을 세웠는지는 잘 알고 있으니까요."
 
 #. SCRIPT NOTES: Question
 #. DIALOGUE BEFORE: Breanne: You must send someone out there! This apparition must be dealt with! &&& Vassilis: It is my top priority, I assure you. |But it is dangerous the further you step away from the city. We will need someone qualified to assist.
@@ -201989,7 +202007,7 @@ msgstr "아, 마침 딱 맞춰 오셨군요! 문제가 좀 생겼습니다."
 #. SUBTYPE: Custom
 msgctxt "00197B"
 msgid "Is that a voice? I feel it... present. Here."
-msgstr "목소리인가? 느껴져... 여기 있어."
+msgstr "목소리인가? 느껴져... 여기에 있어."
 
 #. SCRIPT NOTES:  / to VoiceSource01, VoiceSource02
 #. DIALOGUE BEFORE: Iris: Huh? &&& Iris: I... that song... &&& Iris: I know it... &&& Iris: I hear... music. So... lost...  where? Where am I?
@@ -202004,7 +202022,7 @@ msgstr "목소리인가? 느껴져... 여기 있어."
 #. SUBTYPE: Custom
 msgctxt "00197A"
 msgid "I'm a friend."
-msgstr "나는 친구다."
+msgstr "나는 너의 친구야."
 
 #. SCRIPT NOTES:  / to VoiceSource01, VoiceSource02
 #. DIALOGUE BEFORE: Iris: Huh? &&& Iris: I... that song... &&& Iris: I know it... &&& Iris: I hear... music. So... lost...  where? Where am I?
@@ -202019,7 +202037,7 @@ msgstr "나는 친구다."
 #. SUBTYPE: Custom
 msgctxt "001979"
 msgid "I'm here to remove you from this place."
-msgstr "난 너를 이곳에서 없애러 왔다."
+msgstr "너를 고아원에서 없애러 왔다."
 
 #. SCRIPT NOTES:  / to VoiceSource01, VoiceSource02
 #. PROMPT: I'm a friend.
@@ -202035,7 +202053,7 @@ msgstr "난 너를 이곳에서 없애러 왔다."
 #. SUBTYPE: Custom
 msgctxt "001978"
 msgid "I was lost... now, here."
-msgstr "난 길을 잃었고... 이제 여기 있어."
+msgstr "길을 잃었는데... 지금은, 여기 있어."
 
 #. SCRIPT NOTES: Friendly
 #. DIALOGUE BEFORE: Player Default: [Andreja] Yes, but something about this feels strange. The phantoms we encountered were dangerous. Hostile. &&& companion: Yes, but something about this feels strange. The phantoms we encountered were dangerous. Hostile. &&& Breanne: Then the stars speak true. Serpent bless you both!|Vassilis, you can learn a thing from these two.
@@ -202176,7 +202194,7 @@ msgstr "긴급 사안이에요. 어떤 원혼이 옛날에 고아원이었던 �
 #. SUBTYPE: Custom
 msgctxt "00196F"
 msgid "Where am I? What is happening?"
-msgstr "여기가 어디지? 무슨 일이 벌어지는 거야?"
+msgstr "여기가 어디지? 무슨 일이 벌어진 거지?"
 
 #. SCRIPT NOTES: Pleading / to Player Default
 #. DIALOGUE BEFORE: Breanne: It's an urgent matter. There's a spirit haunting the old orphanage! &&& Vassilis: A vortex phantom, to be clear, but be that as it may, we now have a headwind for your case.|From what I've heard, my friend here is quite famous for dealing with exactly your type of problem.
@@ -202220,7 +202238,7 @@ msgstr "죄송하지만, 지금은 도와드릴 수 없습니다."
 #. SUBTYPE: Custom
 msgctxt "00196B"
 msgid "Was wandering... the road... swerving under my feet.."
-msgstr "떠돌고 있었어... 내 발밑에서... 움직이던 길을..."
+msgstr "떠돌고 있었어... 길을... 내 발밑에서 길이 움직였는데..."
 
 #. SCRIPT NOTES:  / to Player
 #. ALIAS: Iris
@@ -202233,7 +202251,7 @@ msgstr "떠돌고 있었어... 내 발밑에서... 움직이던 길을..."
 #. SUBTYPE: Custom
 msgctxt "00196A"
 msgid "I hear a song... I thought, I know it..."
-msgstr "노랫소리가 들렸어... 기억이 나는 것 같았는데..."
+msgstr "노랫소리가 들렸어... 아는 노래인 거 같았는데..."
 
 #. SCRIPT NOTES:  / to Player
 #. ALIAS: Iris
@@ -202247,7 +202265,7 @@ msgstr "노랫소리가 들렸어... 기억이 나는 것 같았는데..."
 #. SUBTYPE: Custom
 msgctxt "001969"
 msgid "Melody faint... followed... chased it. Brought me here."
-msgstr "희미한 멜로디... 따라갔어... 쫓아갔어. 이곳에 도착했어."
+msgstr "희미한 멜로디... 따라갔어... 쫓아갔어... 이곳에 도착했어."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: You're trapped between realities. &&& Iris: Is that a voice? I feel it... present. Here. &&& Iris: Was wandering... the road... swerving under my feet.. |I hear a song... I thought, I know it... |Melody faint... followed... chased it. Brought me here.
@@ -202262,7 +202280,7 @@ msgstr "희미한 멜로디... 따라갔어... 쫓아갔어. 이곳에 도착했
 #. SUBTYPE: Custom
 msgctxt "001968"
 msgid "I'm not sure how I can help you in this state."
-msgstr "지금 상태로는, 당신을 어떻게 도와줘야 할지 모르겠군."
+msgstr "지금 상태만 봐서는, 어떻게 도와줘야 할지 모르겠네."
 
 #. SCRIPT NOTES: Friendly / to Player Default
 #. PROMPT: I'm not sure how I can help you in this state.
@@ -202278,7 +202296,7 @@ msgstr "지금 상태로는, 당신을 어떻게 도와줘야 할지 모르겠�
 #. SUBTYPE: Custom
 msgctxt "001966"
 msgid "Home... I can find it..."
-msgstr "집... 내가 찾을 수 있어..."
+msgstr "집... 찾아 갈 수 있을 거야..."
 
 #. SCRIPT NOTES: Puzzled / to VoiceSource01, VoiceSource02
 #. PROMPT: How did you end up here?
@@ -202293,7 +202311,7 @@ msgstr "집... 내가 찾을 수 있어..."
 #. SUBTYPE: Custom
 msgctxt "001965"
 msgid "Is that a voice? So bright... a flash of light..."
-msgstr "목소리인가? 정말 밝은... 빛이 번쩍였고..."
+msgstr "목소리였나? 정말 밝은... 빛이 번쩍였고..."
 
 #. SCRIPT NOTES:  / to VoiceSource01, VoiceSource02
 #. PROMPT: How did you end up here?
@@ -202308,7 +202326,7 @@ msgstr "목소리인가? 정말 밝은... 빛이 번쩍였고..."
 #. SUBTYPE: Custom
 msgctxt "001964"
 msgid "And now... here."
-msgstr "이제... 여기 있어."
+msgstr "지금은... 여기 있어."
 
 #. SCRIPT NOTES: Question / to VoiceSource01, VoiceSource02
 #. DIALOGUE BEFORE: Iris: I know it...
@@ -202323,7 +202341,7 @@ msgstr "이제... 여기 있어."
 #. SUBTYPE: Custom
 msgctxt "001963"
 msgid "I hear... music. So... lost...  where? Where am I?"
-msgstr "노랫소리가... 들려. 대체... 여긴 어디인 거지? 이곳은 어디지?"
+msgstr "노랫소리가... 들려. 대체... 여긴 어디지? 내가 어디 있는 거지?"
 
 #. SCRIPT NOTES: Irritated / to Player Default
 #. PROMPT: Sorry, I can't help you right now.
@@ -202353,7 +202371,7 @@ msgstr "믿을 수가 없네요. 여기서 자기 직무를 다하려는 사람�
 #. SUBTYPE: Custom
 msgctxt "001960"
 msgid "Oh please, I hope you bring good news!"
-msgstr "아, 부디 좋은 소식을 가져 왔길 바랄게요!"
+msgstr "아, 제발요! 제발 좋은 소식을 가져오셨기를 바랄게요!"
 
 #. SCRIPT NOTES:  / to Player Default
 #. PROMPT: [Attack] It brought you to your executioner. Me.
@@ -202369,7 +202387,7 @@ msgstr "아, 부디 좋은 소식을 가져 왔길 바랄게요!"
 #. SUBTYPE: Custom
 msgctxt "00195F"
 msgid "I feel something... Anger... Must fight..."
-msgstr "뭔가 느껴져... 분노... 싸워야 해..."
+msgstr "뭔가 느껴져... 화가 나... 싸워야 해..."
 
 #. SCRIPT NOTES: Question
 #. ALIAS: Vassilis
@@ -202383,7 +202401,7 @@ msgstr "뭔가 느껴져... 분노... 싸워야 해..."
 #. SUBTYPE: Custom
 msgctxt "00195E"
 msgid "Anything new to report? Were you able to remove the phantom?"
-msgstr "새로 보고할 게 있나요? 유령을 없애는 데 성공했나요?"
+msgstr "새로 알려줄 소식이라도 있나요? 그 유령은 어떻게 처리하셨나요?"
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: You're trapped between realities. &&& Iris: Is that a voice? I feel it... present. Here. &&& Iris: Was wandering... the road... swerving under my feet.. |I hear a song... I thought, I know it... |Melody faint... followed... chased it. Brought me here.
@@ -202398,7 +202416,7 @@ msgstr "새로 보고할 게 있나요? 유령을 없애는 데 성공했나요?
 #. SUBTYPE: Custom
 msgctxt "00195D"
 msgid "[Attack] It brought you to your executioner. Me."
-msgstr "[공격] 그렇게 내 앞에 도착한 거로군. 이제 널 없애 주마."
+msgstr "[공격] 멜로디가 사형집행인 앞으로 오게 만들었군. 내가 사형집행인이야."
 
 #. SCRIPT NOTES: Grateful
 #. DIALOGUE BEFORE: Vassilis: Yes, as am I. In fact, I think you deserve a reward for your efforts.
@@ -202413,7 +202431,7 @@ msgstr "[공격] 그렇게 내 앞에 도착한 거로군. 이제 널 없애 주
 #. SUBTYPE: Custom
 msgctxt "00195C"
 msgid "Here. In appreciation for your assistance."
-msgstr "여기요. 도와주셔서 감사합니다."
+msgstr "여기 있습니다. 도와주셔서 감사합니다."
 
 #. SCRIPT NOTES:  / to VoiceSource01, VoiceSource02
 #. DIALOGUE BEFORE: Iris: Huh? &&& Iris: I... that song... &&& Iris: I know it... &&& Iris: I hear... music. So... lost...  where? Where am I?
@@ -202428,7 +202446,7 @@ msgstr "여기요. 도와주셔서 감사합니다."
 #. SUBTYPE: Custom
 msgctxt "00195B"
 msgid "How did you end up here?"
-msgstr "어쩌다가 이곳에 다다랐지?"
+msgstr "어쩌다가 이런 곳에 오게 된 거지?"
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: You're trapped between realities. &&& Iris: Is that a voice? I feel it... present. Here. &&& Iris: Was wandering... the road... swerving under my feet.. |I hear a song... I thought, I know it... |Melody faint... followed... chased it. Brought me here.
@@ -202443,7 +202461,7 @@ msgstr "어쩌다가 이곳에 다다랐지?"
 #. SUBTYPE: Custom
 msgctxt "00195A"
 msgid "I found the music box at your grandfather's."
-msgstr "당신의 할아버지 댁에서 뮤직 박스를 찾았어."
+msgstr "당신 할아버지 댁에서 뮤직 박스를 찾았어."
 
 #. SCRIPT NOTES:  / to Reigen
 #. DIALOGUE BEFORE: Iris: Home... I can go home.
@@ -202457,7 +202475,7 @@ msgstr "당신의 할아버지 댁에서 뮤직 박스를 찾았어."
 #. SUBTYPE: Custom
 msgctxt "001959"
 msgid "I can see it now... the way back."
-msgstr "이제 보여... 돌아갈 길."
+msgstr "이제 보여... 돌아가는 길이네."
 
 #. SCRIPT NOTES:  / to VoiceSource01, VoiceSource02
 #. DIALOGUE BEFORE: Iris: Huh? &&& Iris: I... that song... &&& Iris: I know it... &&& Iris: I hear... music. So... lost...  where? Where am I?
@@ -202488,7 +202506,7 @@ msgstr "여러 현실 사이에 갇혀 있는 상태로군."
 #. SUBTYPE: Custom
 msgctxt "001957"
 msgid "Home... I can go home."
-msgstr "집... 집에 갈 수 있어."
+msgstr "집... 집에 갈 수 있을 거야."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Vassilis: Anything new to report? Were you able to remove the phantom? &&& Breanne: Oh please, I hope you bring good news!
@@ -202503,7 +202521,7 @@ msgstr "집... 집에 갈 수 있어."
 #. SUBTYPE: Custom
 msgctxt "001956"
 msgid "I took care of the phantom."
-msgstr "그 유령을 처리했습니다."
+msgstr "유령을 처리했습니다."
 
 #. SCRIPT NOTES: Smirk / to Player Default
 #. PROMPT: I took care of the phantom.
@@ -202519,7 +202537,7 @@ msgstr "그 유령을 처리했습니다."
 #. SUBTYPE: Custom
 msgctxt "001955"
 msgid "You did? Serpent's tail, bless you!"
-msgstr "그랬나요? 뱀의 꼬리시여! 축복을 빕니다!"
+msgstr "해내셨나요? 뱀의 꼬리시여! 축복이 깃들길 빕니다!"
 
 #. SCRIPT NOTES: Grateful / to Player Default
 #. PROMPT: You won't be bothered any further.
@@ -202535,7 +202553,7 @@ msgstr "그랬나요? 뱀의 꼬리시여! 축복을 빕니다!"
 #. SUBTYPE: Custom
 msgctxt "001954"
 msgid "Thank you! By the Serpent's fang, thank you and Vassilis!"
-msgstr "감사합니다! 뱀이시여, 고마워요. 바실리스도요!"
+msgstr "감사해요! 위대한 뱀이시여. 고마워요. 바실리스도요!"
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Vassilis: Anything new to report? Were you able to remove the phantom? &&& Breanne: Oh please, I hope you bring good news!
@@ -202550,7 +202568,7 @@ msgstr "감사합니다! 뱀이시여, 고마워요. 바실리스도요!"
 #. SUBTYPE: Custom
 msgctxt "001953"
 msgid "You won't be bothered any further."
-msgstr "더 이상 그 일로 걱정할 일은 없을 겁니다."
+msgstr "더 이상 유령 때문에 걱정할 일은 없을 겁니다."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Vassilis: I'm grateful you were able to handle this situation. With the city in turmoil, I'm more or less anchored to this spot. &&& Breanne: Strange, that sounds an awful lot like an excuse. |But no matter! Your friend is a person of action and for that I am grateful.
@@ -202565,7 +202583,7 @@ msgstr "더 이상 그 일로 걱정할 일은 없을 겁니다."
 #. SUBTYPE: Custom
 msgctxt "001952"
 msgid "Yes, as am I. In fact, I think you deserve a reward for your efforts."
-msgstr "네, 그렇습니다. 노력해 주신 것으로 이 정도 보상은 받으셔야 한다고 생각해요."
+msgstr "맞습니다. 저도 같은 마음입니다. 참, 이번 일에 힘써 주셨으니 보상을 받으셔야겠죠."
 
 #. SCRIPT NOTES: Afraid
 #. VOICE TYPE: SFBGS001_NPCFBreanneIbaka
@@ -202577,7 +202595,7 @@ msgstr "네, 그렇습니다. 노력해 주신 것으로 이 정도 보상은 �
 #. SUBTYPE: Hello
 msgctxt "001951"
 msgid "Please, you must clear the phantom. It refuses to leave!"
-msgstr "제발 그 유령을 없애 주세요. 물러나려고 하질 않아요!"
+msgstr "제발 그 유령을 없애 주세요. 고아원에서 떠나려 하질 않아요!"
 
 #. DIALOGUE BEFORE: HailingShip: I'm afraid it is not courage but survival that guides us.
 #. ALIAS: HailingShip
@@ -209168,7 +209186,7 @@ msgstr "와주셔서 감사합니다. 좋은 소식을 가지고 오셨길 기�
 #. SUBTYPE: Custom
 msgctxt "0016EF"
 msgid "The Mourning was the ship that introduced the Settled Systems to House Va'ruun a hundred years ago."
-msgstr "모어닝 호는 백 년 전에 개척 성계에 바룬 가문의 존재를 처음 알린 함선이지."
+msgstr "모어닝 호는 백 년 전에 개척 성계에 바룬 가문의 존재를 처음 알린 우주선이지."
 
 #. SCRIPT NOTES:  / to MaaliyaHajtal
 #. ALIAS: companion
@@ -210469,7 +210487,7 @@ msgstr "핵융합 설비요. 선박 발전소의 효율을 높여 더 많은 에
 #. SUBTYPE: Custom
 msgctxt "001664"
 msgid "Payloads. I can optimize your ship's carrying capacity and allow you to carry more cargo."
-msgstr "화물 적재요. 함선의 적재공간을 최적화해서 더 많은 화물을 싣도록 해 주죠."
+msgstr "화물 적재요. 우주선의 적재공간을 최적화해서 더 많은 화물을 싣도록 해 주죠."
 
 #. SCRIPT NOTES: Confident / to Player Default
 #. PROMPT: What's your area of expertise?
@@ -210485,7 +210503,7 @@ msgstr "화물 적재요. 함선의 적재공간을 최적화해서 더 많은 �
 #. SUBTYPE: Custom
 msgctxt "001663"
 msgid "If your ship is equipped with an electromagnetic weapon, I can use it to destroy enemy systems."
-msgstr "만약 당신의 함선에 전자기 무장이 장착되어 있다면, 제가 그것을 사용해 적의 시스템을 파괴할 수 있습니다."
+msgstr "만약 당신의 우주선에 전자기 무장이 장착되어 있다면, 제가 그것을 사용해 적의 시스템을 파괴할 수 있습니다."
 
 #. SCRIPT NOTES: Confident / to Player Default
 #. PROMPT: What's your area of expertise?
@@ -210501,7 +210519,7 @@ msgstr "만약 당신의 함선에 전자기 무장이 장착되어 있다면, �
 #. SUBTYPE: Custom
 msgctxt "001662"
 msgid "Put me in charge of your ship's energy weapon and your targets will rue the day they made an enemy of House Va'ruun."
-msgstr "함선의 에너지 무장을 제게 맡겨 주신다면, 바룬 가문을 적으로 돌린 것을 후회하게 만들어 드리겠습니다."
+msgstr "우주선의 에너지 무장을 제게 맡겨 주신다면, 바룬 가문을 적으로 돌린 것을 후회하게 만들어 드리겠습니다."
 
 #. SCRIPT NOTES: Confident / to Player Default
 #. PROMPT: What's your area of expertise?
@@ -210517,7 +210535,7 @@ msgstr "함선의 에너지 무장을 제게 맡겨 주신다면, 바룬 가문�
 #. SUBTYPE: Custom
 msgctxt "001661"
 msgid "Particle beam weapons is my specialty. If you have one aboard your ship, I can use it to reduce your enemy to atoms."
-msgstr "제 특기는 입자 빔 무장입니다. 당신의 함선에 입자 빔 무장이 있다면, 제가 그것을 사용해 적을 원자로 분해해 드리겠습니다."
+msgstr "제 특기는 입자 빔 무장입니다. 당신의 우주선에 입자 빔 무장이 있다면, 제가 그것을 사용해 적을 원자로 분해해 드리겠습니다."
 
 #. SCRIPT NOTES: Confident / to Player Default
 #. PROMPT: What's your area of expertise?
@@ -210624,7 +210642,7 @@ msgstr "분부대로 하겠습니다. 선장님."
 #. SUBTYPE: Custom
 msgctxt "00163D"
 msgid "Then I will make my way to your ship."
-msgstr "그럼 당신의 함선으로 가겠습니다."
+msgstr "그럼 당신의 우주선으로 가겠습니다."
 
 #. SCRIPT NOTES: Friendly / to Player Default
 #. DIALOGUE BEFORE: CrewMember_ForcedPrimary: 
@@ -213147,7 +213165,7 @@ msgstr "밀폐 상태 양호, 이상 없습니다."
 #. SUBTYPE: SpaceShipCrewDockingComplete
 msgctxt "001569"
 msgid "Ship's locked on, docking complete."
-msgstr "함선 고정, 도킹 완료."
+msgstr "우주선 고정, 도킹 완료."
 
 #. SCRIPT NOTES: Confident
 #. VOICE TYPE: SFBGS001_VaruunGenericMale02
@@ -213843,7 +213861,7 @@ msgstr "이륙했습니다."
 #. SUBTYPE: SpaceShipCrewTakeOffInitiated
 msgctxt "00152F"
 msgid "Lifting off now. Ship systems stable."
-msgstr "지금 이륙 중. 함선 시스템 안정적."
+msgstr "지금 이륙 중. 우주선 시스템 안정적."
 
 #. SCRIPT NOTES: Confident
 #. VOICE TYPE: SFBGS001_VaruunGenericMale02
@@ -214576,7 +214594,7 @@ msgstr "이 그로트는 꼭 필요한 가족에게 갈 거야. 약속하지. �
 #. SUBTYPE: Custom
 msgctxt "0014F0"
 msgid "[Attack] Oh, I'll take your credits. Off your corpse."
-msgstr "[공격] 아, 네 돈을 가져가지. 네 시체에서."
+msgstr "[공격] 아, 크레딧은 가져갈게. 네 시체에서."
 
 #. SCRIPT NOTES: Shocked, was not expecting this / Shocked / to Player Default
 #. PROMPT: [Attack] Oh, I'll take your credits. Off your corpse. 
@@ -214620,7 +214638,7 @@ msgstr "진전이 있나?"
 #. SUBTYPE: Custom
 msgctxt "0014ED"
 msgid "I found one of your groats at the seaweed farm. I let the thief go, but he won't be bothering you again."
-msgstr "해조류 양식장에서 그로트 한 마리를 찾았어. 도둑은 풀어줬지만, 다시는 널 괴롭히지 않을 거야."
+msgstr "해조류 양식장에서 그로트 한 마리를 찾았습니다. 도둑은 풀어줬지만, 다시는 말릭 씨를 괴롭히지 않을 겁니다."
 
 #. SCRIPT NOTES: Angry / to Player Default
 #. PROMPT: I found one of your groats at the seaweed farm. I let the thief go, but he won't be bothering you again. 
@@ -214650,7 +214668,7 @@ msgstr "풀어줘? 그럼 그동안 저지른 일에 대한 대가는? 그 녀�
 msgctxt "0014EB"
 msgid "*Sigh* I must control myself. While the outcome is unfortunate it could have been worse. I do thank you for finding my groat, I do not wish to appear ungrateful."
 msgstr ""
-"*한숨* 자제해야지. 결과는 아쉽지만 더 나빠질 수도 있었어. 내 그로트를 찾아줘서 고맙네. 감사할 줄 모르는 사람으로 보이고 싶진 않아."
+"*한숨* 자제해야지. 결과는 아쉽지만 더 나빠질 수도 있었네. 내 그로트를 찾아줘서 고맙네. 감사할 줄 모르는 사람으로 보이고 싶진 않네."
 
 #. SCRIPT NOTES: Irritated / to Player Default
 #. PROMPT: I found one of your groats at the seaweed farm. I let the thief go, but he won't be bothering you again. 
@@ -214680,7 +214698,7 @@ msgstr "넌 내가 못한 일을 해냈지만, 그래도 그 악당을 그냥 �
 #. SUBTYPE: Custom
 msgctxt "0014E9"
 msgid "It wasn't worth the trouble. I let the thief leave with your groat."
-msgstr "소란 피울 가치도 없었어. 그 도둑놈한테 네 그로트 가지고 떠나라고 했지."
+msgstr "소란 피울 가치도 없었습니다. 그 도둑놈한테 말릭 씨 그로트 가지고 떠나라고 했죠."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: MalikVosh: Any progress? 
@@ -214695,7 +214713,7 @@ msgstr "소란 피울 가치도 없었어. 그 도둑놈한테 네 그로트 가
 #. SUBTYPE: Custom
 msgctxt "0014E7"
 msgid "One of your groats is safe and sound at the seaweed farm. I've killed the thief responsible."
-msgstr "네 그로트 한 마리가 해조류 양식장에 무사히 있어. 그 녀석을 죽였지."
+msgstr "당신 그로트 한 마리가 해조류 양식장에 무사히 있더군요. 도둑놈은 죽였습니다."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. PROMPT: One of your groats is safe and sound at the seaweed farm. I've killed the thief responsible. 
@@ -214725,7 +214743,7 @@ msgstr "흠... 안타깝군."
 msgctxt "0014E5"
 msgid "Serves them right, I suppose, but there is already so much death around us. Yes... an unfortunate situation, one that could have been easily avoided. But some people can only learn lessons the hard way."
 msgstr ""
-"그 녀석, 그래 마땅한 최후를 맞았지만, 이미 우리 주변엔 죽음이 너무 많아. 그래... 안타까운 일이야. 쉽게 피할 수 있었던 일인데. "
+"그 녀석, 그래 마땅한 최후를 맞았지만, 이미 우리 주변엔 죽음이 너무 많네. 그래... 안타까운 일이지. 쉽게 피할 수 있었던 일인데. "
 "하지만 어떤 사람들은 고통스러운 방법으로만 교훈을 얻지."
 
 #. SCRIPT NOTES: Neutral / to Player Default
@@ -214740,7 +214758,9 @@ msgstr ""
 #. SUBTYPE: Custom
 msgctxt "0014E4"
 msgid "Bah, enough of my musings. I won't be wasting any tears over this. Here, your payment. Thank you very much for helping me, my groats and I are quite grateful."
-msgstr "하, 내 푸념은 이쯤 하지. 이 일로 눈물 낭비하고 싶진 않아. 여기, 네 보수다. 정말 고맙네. 내 그로트와 나는 정말 감사하고 있어."
+msgstr ""
+"하, 내 푸념은 이쯤 하지. 이 일로 눈물 낭비하고 싶진 않네. 여기, 자네 보수네. 정말 고맙군. 나와 내 그로트가 정말 감사하고 "
+"있다네."
 
 #. SCRIPT NOTES: Angry / to Player Default
 #. PROMPT: It wasn't worth the trouble. I let the thief leave with your groat.
@@ -214785,7 +214805,7 @@ msgstr "말해 보라고!"
 #. SUBTYPE: Custom
 msgctxt "0014E1"
 msgid "[Lie] One of your groats is safe at the seaweed farm, but I couldn't find any sign of the thief."
-msgstr "[거짓말하는] 해조류 양식장에 그로트 한 마리가 무사히 있었어. 하지만 도둑의 흔적은 찾을 수 없었어."
+msgstr "[거짓말] 해조류 양식장에 그로트 한 마리가 무사히 있더군요. 하지만 도둑의 흔적은 찾을 수 없었습니다."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: I found one of your groats at the seaweed farm. I let the thief go, but he won't be bothering you again.  &&& MalikVosh: Let them go? So there is to be no justice for what was done? What's stopping them from doing this to someone else? |*Sigh* I must control myself. While the outcome is unfortunate it could have been worse. I do thank you for finding my groat, I do not wish to appear ungrateful. |You've succeeded where I've failed, but I just wish you didn't let the scoundrel leave. 
@@ -214800,7 +214820,7 @@ msgstr "[거짓말하는] 해조류 양식장에 그로트 한 마리가 무사�
 #. SUBTYPE: Custom
 msgctxt "0014E0"
 msgid "[Give 1000 Credits] He gave me some credits, but you can have them."
-msgstr "[1000 크레딧 주기] 그 녀석이 돈을 좀 줬는데, 네가 가져."
+msgstr "[1000 크레딧 주기] 그 녀석이 돈을 좀 줬는데, 받으세요."
 
 #. SCRIPT NOTES: Concerned / to Player Default
 #. PROMPT: [Lie] One of your groats is safe at the seaweed farm, but I couldn't find any sign of the thief. 
@@ -214829,7 +214849,7 @@ msgstr "아, 그럼 그 짓을 벌인 녀석이 계속 그럴 수 있다는 거�
 #. SUBTYPE: Custom
 msgctxt "0014DE"
 msgid "I am relieved to hear of my groat's wellbeing, of course. I just fear that this cycle may continue."
-msgstr "그로트가 무사하다니 다행이긴 하네. 그저 이 상황이 계속 반복될까 봐 두려워."
+msgstr "그로트가 무사하다니 다행이군. 그저 이런 상황이 계속 반복될까 봐 두렵네."
 
 #. SCRIPT NOTES:  / to Player Default
 #. PROMPT: [Lie] One of your groats is safe at the seaweed farm, but I couldn't find any sign of the thief. 
@@ -214860,8 +214880,8 @@ msgstr "에휴, 그건 나중에 걱정하도록 하지. 내 그로트를 찾아
 msgctxt "0014DC"
 msgid "*Sigh* That isn't necessary. I can see that you mean well. I've just been so frustrated with what has been happening that the thought of the thief going free was hard to swallow."
 msgstr ""
-"*한숨* 그럴 필요 없어. 네 호의는 잘 보여. 그저 그동안 벌어진 일 때문에 너무 답답해서 도둑이 풀려났다는 생각을 하니 견디기 "
-"힘들었을 뿐이야."
+"*한숨* 그럴 필요 없네. 자네 호의는 잘 알겠네. 그저 그동안 벌어진 일 때문에 너무 답답해서 도둑이 풀려났다는 생각을 하니 견디기 "
+"힘들었을 뿐이네."
 
 #. SCRIPT NOTES: Grateful / to Player Default
 #. PROMPT: [Give 1000 Credits] He gave me some credits, but you can have them. 
@@ -214875,7 +214895,7 @@ msgstr ""
 #. SUBTYPE: Custom
 msgctxt "0014DB"
 msgid "You seem to be more merciful than I am. Here, take your credits. I appreciate what you've done for me, even if I disagree with your methods."
-msgstr "자넨 나보다 자비로운 것 같군. 여기, 네 돈 받아. 네 방식에 동의하진 않지만, 날 위해 해준 일은 고맙게 생각해."
+msgstr "자넨 나보다 자비로운 것 같군. 여기, 크레딧 받게. 자네 방식에 동의하진 않지만, 날 위해 일을 해준 건 고맙네."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. PROMPT: [Give 1000 Credits] He gave me some credits, but you can have them. 
@@ -214890,7 +214910,7 @@ msgstr "자넨 나보다 자비로운 것 같군. 여기, 네 돈 받아. 네 �
 #. SUBTYPE: Custom
 msgctxt "0014DA"
 msgid "Now, if you'll excuse me, I have my groats to tend to."
-msgstr "그럼, 이만 가볼게. 돌봐야 할 그로트가 있어서."
+msgstr "그럼, 이만 가보겠네. 돌봐야 할 그로트가 있어서."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: It wasn't worth the trouble. I let the thief leave with your groat. &&& MalikVosh: You fool! You absolute fool! Why would you do something like that? Why? |Well? Answer me!
@@ -214905,7 +214925,7 @@ msgstr "그럼, 이만 가볼게. 돌봐야 할 그로트가 있어서."
 #. SUBTYPE: Custom
 msgctxt "0014D9"
 msgid "I didn't feel like murdering someone over a stupid animal."
-msgstr "바보 같은 동물 때문에 살인하고 싶진 않았어."
+msgstr "바보 같은 동물 때문에 사람을 죽이고 싶진 않았습니다."
 
 #. SCRIPT NOTES: Irritated / to Player Default
 #. PROMPT: I didn't feel like murdering someone over a stupid animal. 
@@ -214920,7 +214940,7 @@ msgstr "바보 같은 동물 때문에 살인하고 싶진 않았어."
 #. SUBTYPE: Custom
 msgctxt "0014D8"
 msgid "I never expected you to. But I also didn't expect you to just give them a slap on the wrist."
-msgstr "누가 살인을 하랬나. 하지만 그렇다고 그 녀석을 그냥 가볍게 봐주라는 것도 아니었어."
+msgstr "누가 사람 죽여 달랬나. 하지만 그렇다고 그 녀석을 그냥 가볍게 봐주라는 것도 아니었네."
 
 #. SCRIPT NOTES: Irritated / to Player Default
 #. PROMPT: I didn't feel like murdering someone over a stupid animal. 
@@ -214935,7 +214955,7 @@ msgstr "누가 살인을 하랬나. 하지만 그렇다고 그 녀석을 그냥 
 #. SUBTYPE: Custom
 msgctxt "0014D7"
 msgid "I do not wish to get in an argument with you. What's done is done. I thank you for finding my groat, but it is time for you to take your credits and move on."
-msgstr "자네와 말다툼하고 싶진 않아. 이미 벌어진 일이야. 내 그로트를 찾아준 건 고맙지만, 이제 자넨 돈 받고 그만 가보게."
+msgstr "자네와 말다툼하고 싶진 않네. 이미 벌어진 일일세. 내 그로트를 찾아준 건 고맙지만, 이제 크레딧 받고 그만 가보시게."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: [Lie] One of your groats is safe at the seaweed farm, but I couldn't find any sign of the thief.  &&& MalikVosh: Ah, so whoever is doing this is free to continue. Damn. |I am relieved to hear of my groat's wellbeing, of course. I just fear that this cycle may continue. |Eh, I suppose I will have to worry about it later. I do thank you for finding my groat. Here, some credits for your trouble.  
@@ -214950,7 +214970,7 @@ msgstr "자네와 말다툼하고 싶진 않아. 이미 벌어진 일이야. 내
 #. SUBTYPE: Custom
 msgctxt "0014D6"
 msgid "Sorry, I did the best I could."
-msgstr "미안해, 최선을 다했어."
+msgstr "미안합니다. 최선을 다했지만 부족했습니다."
 
 #. SCRIPT NOTES: Irritated / to Player Default
 #. PROMPT: Sorry, I did the best I could. 
@@ -214979,7 +214999,7 @@ msgstr "그래, 그래, 그랬겠지. 이 일로 말다툼하고 싶진 않네."
 #. SUBTYPE: Custom
 msgctxt "0014D4"
 msgid "We can't change what is done, so let us just move on. Here, your payment."
-msgstr "이미 벌어진 일을 바꿀 순 없으니, 그냥 넘어가도록 하지. 여기, 네 보수야."
+msgstr "이미 벌어진 일을 바꿀 순 없으니, 그냥 넘어가도록 하지. 여기, 자네 보수일세."
 
 #. SCRIPT NOTES: Irritated / to Player Default
 #. PROMPT: Sorry, I did the best I could. 
@@ -215009,7 +215029,7 @@ msgstr "그럼 이만 가보겠네. 그로트를 찾으러 가야 해서."
 #. SUBTYPE: Custom
 msgctxt "0014D2"
 msgid "[Lie] I'm sorry. I couldn't find any sign of a thief, or your missing groats."
-msgstr "[거짓말하는] 미안해. 도둑의 흔적도, 네가 잃어버린 그로트도 찾을 수 없었어."
+msgstr "[거짓말] 미안합니다. 도둑의 흔적도, 잃어버린 그로트도 찾을 수 없었습니다."
 
 #. SCRIPT NOTES: Concerned / to Player Default
 #. PROMPT: [Lie] I'm sorry. I couldn't find any sign of a thief, or your missing groats. 
@@ -215024,7 +215044,7 @@ msgstr "[거짓말하는] 미안해. 도둑의 흔적도, 네가 잃어버린 �
 #. SUBTYPE: Custom
 msgctxt "0014D1"
 msgid "That is very, very disappointing. I suppose at this point I can only continue to pray to the Great Serpent, and hope for the best."
-msgstr "정말, 정말 실망스럽군. 이 시점에선 그저 위대한 뱀께 기도하며 최선을 바라는 수밖에 없겠어."
+msgstr "정말, 정말 실망스럽구먼. 이 시점에선 그저 위대한 뱀께 기도하며 최선을 바라는 수밖에 없겠네."
 
 #. SCRIPT NOTES: Concerned / to Player Default
 #. PROMPT: [Lie] I'm sorry. I couldn't find any sign of a thief, or your missing groats. 
@@ -215052,7 +215072,7 @@ msgstr "도와줘서 고맙지만, 내 골칫거리가 아직 끝나지 않은 �
 #. SUBTYPE: Custom
 msgctxt "0014CF"
 msgid "Although you found nothing, I understand that you took time to try and help me. Here are a few credits for your trouble."
-msgstr "아무것도 찾지 못했지만, 날 도우려고 시간 내준 건 알아. 여기 네 수고에 대한 보답으로 약간의 크레딧이야."
+msgstr "아무것도 찾지 못했지만, 날 도우려고 시간을 내준 건 아네. 여기 자네 수고에 대한 보답으로 약간의 크레딧을 마련했네."
 
 #. SCRIPT NOTES: Concerned / to Player Default
 #. PROMPT: [Lie] I'm sorry. I couldn't find any sign of a thief, or your missing groats. 
@@ -215082,7 +215102,7 @@ msgstr "그럼 이제 남은 내 농장으로 돌아가는 게 좋겠군. 이만
 #. SUBTYPE: Custom
 msgctxt "0014CD"
 msgid "To be honest, I don't know. I guess I wasn't thinking."
-msgstr "솔직히 모르겠어. 그냥 아무 생각도 없었던 것 같아."
+msgstr "솔직히 모르겠습니다. 그냥 아무 생각도 없었던 것 같습니다."
 
 #. SCRIPT NOTES: Angry / to Player Default
 #. PROMPT: To be honest, I don't know. I guess I wasn't thinking. 
@@ -215097,7 +215117,7 @@ msgstr "솔직히 모르겠어. 그냥 아무 생각도 없었던 것 같아."
 #. SUBTYPE: Custom
 msgctxt "0014CC"
 msgid "Yes, I suppose not. In fact, I find it hard to believe that you ever think at all."
-msgstr "그래, 아무 생각도 없었겠지. 사실, 네가 한 번이라도 생각이라는 걸 하는지 의문이야."
+msgstr "그래, 아무 생각도 없었겠지. 사실, 자네가 한 번이라도 생각이라는 걸 하고 사는지 의문이구먼."
 
 #. SCRIPT NOTES: Angry / to Player Default
 #. PROMPT: To be honest, I don't know. I guess I wasn't thinking. 
@@ -215111,7 +215131,7 @@ msgstr "그래, 아무 생각도 없었겠지. 사실, 네가 한 번이라도 �
 #. SUBTYPE: Custom
 msgctxt "0014CB"
 msgid "We're done talking. This was a complete waste of time. I'm not giving you a single credit."
-msgstr "우린 할 말 다 했어. 완전히 시간 낭비였군. 단 한 푼도 주지 않을 거야."
+msgstr "할 말 다 했네. 완전히 시간 낭비했군. 단 한 푼도 주지 않을 걸세."
 
 #. SCRIPT NOTES: Angry / to Player Default
 #. PROMPT: To be honest, I don't know. I guess I wasn't thinking. 
@@ -215140,7 +215160,7 @@ msgstr "비켜."
 #. SUBTYPE: Custom
 msgctxt "0014C9"
 msgid "[Give 1000 Credits] Calm down, he gave me some money. You can keep it."
-msgstr "[1000 크레딧 주기] 진정해, 그 녀석이 돈을 좀 줬어. 네가 가져."
+msgstr "[1000 크레딧 주기] 진정하세요. 그 녀석이 돈을 좀 줬습니다. 받으세요."
 
 #. SCRIPT NOTES: Afraid / to Player Default
 #. PROMPT: [Give 1000 Credits] Calm down, he gave me some money. You can keep it. 
@@ -215155,7 +215175,9 @@ msgstr "[1000 크레딧 주기] 진정해, 그 녀석이 돈을 좀 줬어. 네�
 #. SUBTYPE: Custom
 msgctxt "0014C8"
 msgid "You had the means to stop a thief, and instead you take his money and let him leave? Keep your damn money. As if that would fix any of this."
-msgstr "도둑을 막을 수 있었으면서, 그 녀석 돈을 받고 그냥 보냈다고? 네 망할 돈은 네가 가져. 그게 이 사태를 해결하기라도 할 것처럼 말이야."
+msgstr ""
+"도둑을 막을 수 있었으면서, 그 녀석 돈을 받고 그냥 보냈다고? 망할 돈은 자네가 가지게. 그게 이 사태를 해결해 줄 거라 착각하며 "
+"살라고."
 
 #. SCRIPT NOTES: Afraid / to Player Default
 #. PROMPT: [Give 1000 Credits] Calm down, he gave me some money. You can keep it. 
@@ -215169,7 +215191,7 @@ msgstr "도둑을 막을 수 있었으면서, 그 녀석 돈을 받고 그냥 �
 #. SUBTYPE: Custom
 msgctxt "0014C7"
 msgid "I can't stand to talk to you right now. I'm leaving to tend to what's left of my farm, and I'm not giving you a single credit."
-msgstr "지금 너랑 얘기하고 싶지 않아. 남은 내 농장이나 돌보러 갈 거고, 너한텐 단 한 푼도 안 줄 거야."
+msgstr "지금 자네랑 얘기하고 싶지 않네. 남은 내 농장이나 돌보러 갈 거고, 자네한텐 단 한 푼도 안 줄 걸세."
 
 #. SCRIPT NOTES: Angry / to Player Default
 #. PROMPT: [Give 1000 Credits] Calm down, he gave me some money. You can keep it. 
@@ -215198,7 +215220,7 @@ msgstr "저리 떨어져."
 #. SUBTYPE: Custom
 msgctxt "0014C5"
 msgid "Would you rather have had me kill someone over a groat?"
-msgstr "그로트 한 마리 때문에 사람을 죽이길 바랐던 거야?"
+msgstr "그로트 한 마리 때문에 사람을 죽이길 바란 겁니까?"
 
 #. SCRIPT NOTES: Angry / to Player Default
 #. PROMPT: Would you rather have had me kill someone over a groat? 
@@ -215227,7 +215249,7 @@ msgstr "그래!"
 #. SUBTYPE: Custom
 msgctxt "0014C3"
 msgid "*Sigh* I'm done talking with you, and I'm not giving you a single credit. Get out of my way."
-msgstr "*한숨* 너랑은 할 말 다 했고, 너한텐 단 한 푼도 안 줄 거야. 길 좀 비켜."
+msgstr "*한숨* 자네와 할 말은 다 했고, 자네에게 단 한 푼도 안 줄 걸세. 길이나 좀 비켜."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: MalikVosh
@@ -215240,7 +215262,7 @@ msgstr "*한숨* 너랑은 할 말 다 했고, 너한텐 단 한 푼도 안 줄 
 #. SUBTYPE: Custom
 msgctxt "00149D"
 msgid "Ah, it's you. The one Anasko spoke to."
-msgstr "아, 너였군. 아나스코가 말했던."
+msgstr "아, 자네였군. 아나스코 님과 대화했던 녀석."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: MalikVosh
@@ -215253,7 +215275,7 @@ msgstr "아, 너였군. 아나스코가 말했던."
 #. SUBTYPE: Custom
 msgctxt "00149C"
 msgid "While I am pleased that you wish to make my acquaintance, I'm preoccupied with a problem that demands my attention."
-msgstr "네가 날 알다니 기쁘지만, 지금 난 급한 문제에 정신이 팔려 있어."
+msgstr "날 알아주다니 기쁘지만, 지금 급히 해결해야 하는 문제 때문에 정신이 없네."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: MalikVosh
@@ -215267,7 +215289,7 @@ msgstr "네가 날 알다니 기쁘지만, 지금 난 급한 문제에 정신이
 #. SUBTYPE: Custom
 msgctxt "00149B"
 msgid "Apologies, but I must continue on."
-msgstr "미안하지만, 난 가봐야겠어."
+msgstr "미안하지만, 가봐야겠네."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: MalikVosh: Ah, it's you. The one Anasko spoke to.|While I am pleased that you wish to make my acquaintance, I'm preoccupied with a problem that demands my attention. |Apologies, but I must continue on. 
@@ -215282,7 +215304,7 @@ msgstr "미안하지만, 난 가봐야겠어."
 #. SUBTYPE: Custom
 msgctxt "00149A"
 msgid "Wait a second, maybe I can help you."
-msgstr "잠깐, 어쩌면 내가 도와줄 수 있을지도 몰라."
+msgstr "잠깐만요. 어쩌면 제가 도와줄 수 있을지도 모릅니다."
 
 #. SCRIPT NOTES:  / to Player Default
 #. PROMPT: Wait a second, maybe I can help you. 
@@ -215297,7 +215319,7 @@ msgstr "잠깐, 어쩌면 내가 도와줄 수 있을지도 몰라."
 #. SUBTYPE: Custom
 msgctxt "001499"
 msgid "Eh, perhaps."
-msgstr "에, 그럴지도."
+msgstr "어, 그러겠나."
 
 #. SCRIPT NOTES:  / to Player Default
 #. PROMPT: Wait a second, maybe I can help you. 
@@ -215312,7 +215334,7 @@ msgstr "에, 그럴지도."
 #. SUBTYPE: Custom
 msgctxt "001498"
 msgid "I'm old. And very tired. I suppose I could use the assistance."
-msgstr "난 늙었어. 그리고 아주 지쳤지. 어쩌면 도움이 필요할지도 모르겠군."
+msgstr "난 늙었네. 그리고 아주 지쳤지. 어쩌면 도움이 필요할지도 모르겠군."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. PROMPT: I'll help you out.
@@ -215327,7 +215349,7 @@ msgstr "난 늙었어. 그리고 아주 지쳤지. 어쩌면 도움이 필요할
 #. SUBTYPE: Custom
 msgctxt "001497"
 msgid "Thank you very much."
-msgstr "정말 고마워."
+msgstr "정말 고맙네."
 
 #. SCRIPT NOTES:  / to Player Default
 #. PROMPT: I'll help you out.
@@ -215341,7 +215363,7 @@ msgstr "정말 고마워."
 #. SUBTYPE: Custom
 msgctxt "001496"
 msgid "Please, go to my farm, see if you can find anything I have missed. I will continue to inquire around the city."
-msgstr "내 농장에 가서 내가 놓친 게 있는지 살펴봐 줘. 난 계속 도시를 돌아다니며 알아보지."
+msgstr "내 농장에 가서 내가 놓친 게 있는지 살펴봐 주게. 난 계속 도시를 돌아다니며 알아보겠네."
 
 #. SCRIPT NOTES:  / to Player Default
 #. PROMPT: I'll help you out.
@@ -215355,7 +215377,7 @@ msgstr "내 농장에 가서 내가 놓친 게 있는지 살펴봐 줘. 난 계�
 #. SUBTYPE: Custom
 msgctxt "001495"
 msgid "Good luck. Let us hope that you can get to the bottom of this."
-msgstr "행운을 빌지. 이 일의 진상을 밝힐 수 있길 바라."
+msgstr "행운을 빌겠네. 대체 어떻게 된 건지 밝힐 수 있었으면 좋겠네."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: MalikVosh: Ah, it's you. The one Anasko spoke to.|While I am pleased that you wish to make my acquaintance, I'm preoccupied with a problem that demands my attention. |Apologies, but I must continue on. 
@@ -215370,7 +215392,7 @@ msgstr "행운을 빌지. 이 일의 진상을 밝힐 수 있길 바라."
 #. SUBTYPE: Custom
 msgctxt "001494"
 msgid "What's the problem?"
-msgstr "무슨 일이야?"
+msgstr "무슨 일이시죠?"
 
 #. DIALOGUE BEFORE: MalikVosh: Eh, perhaps. |I'm old. And very tired. I suppose I could use the assistance. 
 #. ALIAS: MalikVosh
@@ -215383,7 +215405,7 @@ msgstr "무슨 일이야?"
 #. SUBTYPE: Custom
 msgctxt "001493"
 msgid "For weeks now, my groats have been going missing. The first time I did not think much of it. Groats are crafty, and sometimes they escape."
-msgstr "몇 주 전부터, 내 그로트가 사라지고 있어. 처음엔 대수롭지 않게 생각했지. 그로트는 교활해서, 가끔 도망치거든."
+msgstr "몇 주 전부터, 내 그로트가 사라지고 있네. 처음엔 대수롭지 않게 생각했지. 그로트는 교활해서, 가끔 도망치거든."
 
 #. ALIAS: MalikVosh
 #. VOICE TYPE: SFBGS001_NPCMMalikVosh
@@ -215395,7 +215417,7 @@ msgstr "몇 주 전부터, 내 그로트가 사라지고 있어. 처음엔 대�
 #. SUBTYPE: Custom
 msgctxt "001492"
 msgid "But I am down too many groats now for this to be mere coincidence. They are being stolen."
-msgstr "하지만 이젠 우연이라고 하기엔 너무 많이 사라졌어. 누가 훔쳐 가고 있는 거야."
+msgstr "하지만 이젠 우연이라고 하기엔 너무 많이 사라졌네. 누가 훔쳐 가고 있는 거지."
 
 #. ALIAS: MalikVosh
 #. VOICE TYPE: SFBGS001_NPCMMalikVosh
@@ -215407,7 +215429,9 @@ msgstr "하지만 이젠 우연이라고 하기엔 너무 많이 사라졌어. �
 #. SUBTYPE: Custom
 msgctxt "001491"
 msgid "This cannot continue. I cannot keep purchasing new groats only for them to go missing a few days later.  And without my groats, I cannot supply milk or meat to the city."
-msgstr "이대로는 안 돼. 며칠 뒤에 사라질 그로트를 계속 사들일 수도 없고. 그리고 그로트가 없으면, 도시에 우유나 고기를 공급할 수 없어."
+msgstr ""
+"이대로는 안 되겠네. 며칠 뒤에 사라질 텐데 그로트를 계속 사들일 수도 없잖나. 그리고 그로트가 없으면, 도시에 우유나 고기를 공급할 "
+"수가 없네."
 
 #. SCRIPT NOTES: Neutral
 #. ALIAS: MalikVosh
@@ -215421,7 +215445,7 @@ msgstr "이대로는 안 돼. 며칠 뒤에 사라질 그로트를 계속 사들
 #. SUBTYPE: Custom
 msgctxt "001490"
 msgid "I understand that this may seem a minor problem compared to others in Dazra, but I would appreciate your assistance."
-msgstr "다즈라의 다른 문제들에 비하면 사소해 보일 수 있지만, 도와주면 고맙겠어."
+msgstr "다즈라의 다른 문제들에 비하면 사소해 보일 수 있지만, 도와주면 고맙겠구먼."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: Wait a second, maybe I can help you.  &&& MalikVosh: Eh, perhaps. |I'm old. And very tired. I suppose I could use the assistance.  &&& MalikVosh: For weeks now, my groats have been going missing. The first time I did not think much of it. Groats are crafty, and sometimes they escape. |But I am down too many groats now for this to be mere coincidence. They are being stolen. |This cannot continue. I cannot keep purchasing new groats only for them to go missing a few days later.  And without my groats, I cannot supply milk or meat to the city. |I understand that this may seem a minor problem compared to others in Dazra, but I would appreciate your assistance.
@@ -215436,7 +215460,7 @@ msgstr "다즈라의 다른 문제들에 비하면 사소해 보일 수 있지�
 #. SUBTYPE: Custom
 msgctxt "00148F"
 msgid "I'll help you out."
-msgstr "도와줄게."
+msgstr "도와드리겠습니다."
 
 #. SCRIPT NOTES:  / to Player Default
 #. PROMPT: What's the problem? 
@@ -215451,7 +215475,7 @@ msgstr "도와줄게."
 #. SUBTYPE: Custom
 msgctxt "00148E"
 msgid "A problem of stolen property. I run a groat farm nearby."
-msgstr "장물과 관련된 문제야. 근처에서 그로트 농장을 운영하고 있어."
+msgstr "장물과 관련된 문제일세. 근처에서 그로트 농장을 운영하고 있네."
 
 #. SCRIPT NOTES: Irritated / to Player Default
 #. PROMPT: What's the problem? 
@@ -215466,7 +215490,7 @@ msgstr "장물과 관련된 문제야. 근처에서 그로트 농장을 운영�
 #. SUBTYPE: Custom
 msgctxt "00148D"
 msgid "Look, I really must be going. This is a pressing matter."
-msgstr "이봐, 난 정말 가봐야겠어. 급한 일이라서."
+msgstr "이보게, 난 이만 가봐야겠네. 급한 일이 있어서 말일세."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. ALIAS: AndrahDubib
@@ -215526,7 +215550,7 @@ msgstr "농장에 있는 내 친구? 사람 잘못 본 것 같은데. 게다가,
 #. SUBTYPE: Custom
 msgctxt "001489"
 msgid "That groat belongs to Malik Vosh. Your friend at his farm told me all about you, Andrah."
-msgstr "그 그로트는 말릭 보쉬 거야. 그 농장에 있는 네 친구가 너에 대해 다 말해줬어, 앤드라."
+msgstr "그 그로트는 말릭 보쉬 씨 거야. 그 농장에 있는 네 친구가 너에 대해 다 말해줬어. 앤드라."
 
 #. SCRIPT NOTES: Nervous / to Player Default
 #. PROMPT: I've got bad news, Andrah. I'm taking back that groat, whether you like it or not.
@@ -215619,7 +215643,7 @@ msgstr "[공격] 훔친 걸 인정하지 않겠다면, 무력으로 그 그로�
 #. SUBTYPE: Custom
 msgctxt "00147D"
 msgid "Just admit it. You're the reason Malik's groats have been disappearing."
-msgstr "그냥 인정해. 네가 말릭의 그로트가 사라진 원흉이잖아."
+msgstr "그냥 인정해. 네가 말릭 씨의 그로트가 사라지게 만든 원흉이잖아."
 
 #. SCRIPT NOTES: Neutral
 #. DIALOGUE BEFORE: AndrahDubib: *Sigh* Look, really, I do not know what you want from me. Please just leave me alone.
@@ -216539,7 +216563,7 @@ msgstr "몸조심하시오."
 #. SUBTYPE: Goodbye
 msgctxt "0013CC"
 msgid "Serpent be with you."
-msgstr "뱀께서 함께 하시길."
+msgstr "위대한 뱀께서 함께 하시길."
 
 #. VOICE TYPE: SFBGS001_VaruunGenericFemale01
 #. FACE: Neutral
@@ -216785,7 +216809,7 @@ msgstr "당신의 도움은 필요 없었다. 그들은 한심하고 약했다."
 #. SUBTYPE: SharedInfo
 msgctxt "0013B7"
 msgid "We handled their inferior ships without your aid."
-msgstr "우리는 당신의 도움 없이 그들의 열등한 함선을 처리했다."
+msgstr "우리는 당신의 도움 없이 그들의 열등한 우주선을 처리했다."
 
 #. SCRIPT NOTES: Ship dialogue no cubic needed
 #. VOICE TYPE: SFBGS001_VaruunGenericMale02
@@ -216821,7 +216845,7 @@ msgstr "당신의 도움은 환영받았다. 그들의 한심한 함대는 우�
 #. SUBTYPE: SharedInfo
 msgctxt "0013B4"
 msgid "Their inferior ships were nothing compared to our collective might."
-msgstr "그들의 열등한 함선은 우리의 집단적인 위력에 비하면 아무것도 아니었다."
+msgstr "그들의 열등한 우주선은 우리의 집단적인 위력에 비하면 아무것도 아니었다."
 
 #. SCRIPT NOTES: Ship dialogue no cubic needed
 #. VOICE TYPE: SFBGS001_VaruunGenericMale02
@@ -217060,7 +217084,7 @@ msgstr "우리는 뱀의 성전의 이름으로 당신과 대화하기를 원한
 #. SUBTYPE: SharedInfo
 msgctxt "0013A2"
 msgid "Hailing vessel in the name of the Serpent's Crusade. Acknowledge."
-msgstr "뱀의 성전의 이름으로 함선에 교신을 요청한다. 응답하라."
+msgstr "뱀의 성전의 이름으로 우주선에 교신을 요청한다. 응답하라."
 
 #. SCRIPT NOTES: Ship dialogue no cubic needed
 #. VOICE TYPE: SFBGS001_VaruunGenericMale02
@@ -217661,7 +217685,7 @@ msgstr "게다가 그분이 우리랑 프로젝트까지 버리고 떠난 것뿐
 #. SUBTYPE: Custom
 msgctxt "001332"
 msgid "But I do hope that wherever he is, he's okay."
-msgstr "하지만 어디에 있으시든지간에, 부디 잘 지내고 계시길 바라."
+msgstr "하지만 어디에 있으시든지간에, 부디 잘 지내고 계셨으면 좋겠어."
 
 #. ALIAS: Player Default
 #. VOICE TYPE: PlayerVoiceMale01
@@ -217987,7 +218011,7 @@ msgstr "해고라고? 네 위치를 잊은 모양이군."
 #. SUBTYPE: Custom
 msgctxt "001316"
 msgid "I will depart because I am needed at my ship, not because you deem me unnecessary."
-msgstr "내가 떠나는 건 내 함선에서 날 필요로 하기 때문이지, 네가 날 불필요하다고 여겨서가 아니다."
+msgstr "내가 떠나는 건 내 우주선에서 날 필요로 하기 때문이지, 네가 날 불필요하다고 여겨서가 아니다."
 
 #. SCRIPT NOTES: Angry / to Player Default
 #. PROMPT: You're dismissed, Mujeen.
@@ -222445,7 +222469,7 @@ msgstr "어서 오시지요. 선구자."
 msgctxt "00114F"
 msgid "Now... Above us, in the grand ship Mourning, jewel of the Va'ruun fleet, the High Council awaits your arrival. Serve them. Serve the Great Serpent."
 msgstr ""
-"이제... 우리 위에 있는 대함선, 바룬 함대의 보석인 모어닝 호에서 대의회가 그대를 기다리고 있다. 대의회를 섬겨라. 위대한 뱀을 "
+"이제... 우리 위에 있는 대우주선, 바룬 함대의 보석인 모어닝 호에서 대의회가 그대를 기다리고 있다. 대의회를 섬겨라. 위대한 뱀을 "
 "섬겨라."
 
 #. SCRIPT NOTES:  / to Player Default
@@ -223871,7 +223895,7 @@ msgstr "여기 전체를 무력화시킬 바이러스를 실행하려면 원격 
 #. SUBTYPE: Custom
 msgctxt "0010ED"
 msgid "Think of it as a failsafe to guarantee our safety. The Zealots would never risk this base or their ships."
-msgstr "우리 안전을 위한 조치라고 생각하세요. 광신도들은 이 기지나 함선을 절대 포기 못 할 거예요."
+msgstr "우리 안전을 위한 조치라고 생각하세요. 광신도들은 이 기지나 우주선을 절대 포기 못 할 거예요."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: No way, I'm not letting you out of my sight.  &&& ...  &&& companion: Believe me, us heretics have often wondered ourselves.  &&& Sahima: Something to look forward to then! &&& Sahima: But back to the matter at hand. Again. I'll be fine. |I've had enough time to know my plan has at least an 87% success rate.
@@ -224477,7 +224501,7 @@ msgstr "네. 이 양반의 하루를 망쳐줄 시간이에요."
 #. SUBTYPE: Custom
 msgctxt "0010C3"
 msgid "It's true, Mihael. And if you don't leave now, peacefully, I'll make sure your ships and Shadow Station Epsilon are made dust."
-msgstr "사실이야, 미해일. 그리고 당장 조용히 떠나지 않으면, 네 함선들이랑 비밀 기지 엡실론을 흙먼지로 만들어 버리겠어."
+msgstr "사실이야, 미해일. 그리고 당장 조용히 떠나지 않으면, 네 우주선들이랑 비밀 기지 엡실론을 흙먼지로 만들어 버리겠어."
 
 #. SCRIPT NOTES: Grateful / to Player Default
 #. DIALOGUE BEFORE: Sahima: You did it! It's true what they say. The air really does smell fresher.
@@ -235432,7 +235456,7 @@ msgstr "하지만 나는 함께 일해야만 가족이 번창할 수 있다고 �
 #. SUBTYPE: Custom
 msgctxt "000B2F"
 msgid "Hope you were invited."
-msgstr "초대받았길 바라."
+msgstr "초대받았으면 좋겠어."
 
 #. VOICE TYPE: SFBGS001_NPCMTaneSalavea
 #. FACE: Serious
@@ -235504,7 +235528,7 @@ msgstr "환영식 인원은 어디에 있지? 콘페티 뿌려 주면서 맞이�
 #. SUBTYPE: Custom
 msgctxt "000B29"
 msgid "Hope you're ready if there's a fight. I'm counting on you to do all the work."
-msgstr "전투가 벌어지면 준비되어 있길 바라. 자네가 힘든 일을 다 해 줘야 해."
+msgstr "전투가 벌어지면 준비되어 있었으면 좋겠어. 자네가 힘든 일을 다 해 줘야 해."
 
 #. VOICE TYPE: SFBGS001_NPCMTaneSalavea
 #. FACE: Serious
@@ -235540,7 +235564,7 @@ msgstr "이 배에는 어디 앉을 데 없나?"
 #. SUBTYPE: Custom
 msgctxt "000B26"
 msgid "We should take things slow. Don't know what's on this ship. And besides, it's the only gear I got."
-msgstr "천천히 진행하자고. 함선 내에 뭐가 있는지 모르고, 난 여분 장비도 없어."
+msgstr "천천히 진행하자고. 우주선 내에 뭐가 있는지 모르고, 난 여분 장비도 없어."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: You should meet your nephew. &&& Smuggler: I don't do that. 
@@ -235833,7 +235857,7 @@ msgstr "좋은 대화였어."
 #. SUBTYPE: Custom
 msgctxt "000B0E"
 msgid "Anyway, seeing as I don't have a ship, I'm kind of out of a job."
-msgstr "어쨌든, 내가 함선이 없는 걸 보면 알겠지만 할 일이 없어."
+msgstr "어쨌든, 내가 우주선이 없는 걸 보면 알겠지만 할 일이 없어."
 
 #. SCRIPT NOTES: Puzzled / to Player Default
 #. ALIAS: Smuggler
@@ -240670,7 +240694,7 @@ msgstr "그리고 컵 받침까지. 둘 다 꼭 써야 하는 거라고!"
 #. SUBTYPE: Custom
 msgctxt "0009C1"
 msgid "Thank you! I can't wait to start tinkering with your ship. We'll have to measure the progress in femtometres!"
-msgstr "고마워! 얼른 네 함선부터 손 보고 싶네. 펨토미터 단위로 진행 상황을 측정해야 할 거라고!"
+msgstr "고마워! 얼른 네 우주선부터 손 보고 싶네. 펨토미터 단위로 진행 상황을 측정해야 할 거라고!"
 
 #. SCRIPT NOTES: Confused / to Player Default
 #. PROMPT: You've convinced me. You're hired.
@@ -241362,7 +241386,7 @@ msgstr "히임 II."
 #. SUBTYPE: Custom
 msgctxt "00098C"
 msgid "Class B ship. Fairly state of the art, and may be connected to the missing weapons crate."
-msgstr "B급 함선입니다. 상당히 최신식이고, 누락된 무기 상자와 관련이 있을 수 있습니다."
+msgstr "B급 우주선입니다. 상당히 최신식이고, 누락된 무기 상자와 관련이 있을 수 있습니다."
 
 #. SCRIPT NOTES: Question / to Player Default
 #. PROMPT: The Hymn II.
@@ -241377,7 +241401,7 @@ msgstr "B급 함선입니다. 상당히 최신식이고, 누락된 무기 상자
 #. SUBTYPE: Custom
 msgctxt "00098B"
 msgid "Except that doesn't explain all the other supplies that went missing. Unless they used different ships?"
-msgstr "하지만 그것만으로는 없어진 다른 물자를 전부 설명할 수 없습니다. 다른 함선을 사용한 게 아니라면 말이죠."
+msgstr "하지만 그것만으로는 없어진 다른 물자를 전부 설명할 수 없습니다. 다른 우주선을 사용한 게 아니라면 말이죠."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: I want to discuss the ship departures. &&& Tevina:  &&& Tevina: It's a doozy. Notice anything suspicious about any of the ships?
@@ -241408,7 +241432,7 @@ msgstr "눈에 띄는 게 없습니다."
 #. SUBTYPE: Custom
 msgctxt "000989"
 msgid "Nothing? No ship name that repeats on that list? Maybe I misread it, but I thought there was."
-msgstr "없다고요? 그 목록에 반복되는 함선 이름이 없나요? 제가 잘못 읽은 것 같은데, 있다고 생각했습니다."
+msgstr "없다고요? 그 목록에 반복되는 우주선 이름이 없나요? 제가 잘못 읽은 것 같은데, 있다고 생각했습니다."
 
 #. DIALOGUE BEFORE: Tevina: Exactly! That ship's departure dates match the dates the supplies were lost.|I'm not saying our suspect owns that ship, but they certainly tick all the boxes.
 #. ALIAS: Tevina
@@ -241421,7 +241445,9 @@ msgstr "없다고요? 그 목록에 반복되는 함선 이름이 없나요? 제
 #. SUBTYPE: Custom
 msgctxt "000988"
 msgid "Still, I know better than to take anything you say lightly. I'll have my people find the crew manifest for it."
-msgstr "하지만, 당신이 하는 말은 허투루 들어서는 안 된다는 걸 잘 알고 있습니다. 제 사람들에게 그 함선의 승무원 목록을 찾아보라고 하겠습니다."
+msgstr ""
+"하지만, 당신이 하는 말은 허투루 들어서는 안 된다는 걸 잘 알고 있습니다. 제 사람들에게 그 우주선의 승무원 목록을 찾아보라고 "
+"하겠습니다."
 
 #. SCRIPT NOTES: Seeing the player through a window approaching
 #. ALIAS: Ukaru
@@ -241479,7 +241505,7 @@ msgstr "괜찮습니다. 비상 대책이 있습니다."
 #. SUBTYPE: Custom
 msgctxt "000984"
 msgid "It seems a specific ship, the Cortege, left the spaceport on the same day the supplies were stolen."
-msgstr "코테지라는 특정 함선이 물자가 도난당한 날 우주항을 떠난 것 같습니다."
+msgstr "코테지라는 특정 우주선이 물자가 도난당한 날 우주항을 떠난 것 같습니다."
 
 #. SCRIPT NOTES:  / to Player Default
 #. PROMPT: I can't crack this cipher. There's got to be another way to find the location of this cave.
@@ -241508,7 +241534,7 @@ msgstr "해킹을... 음, 죄송합니다, 우주항 비행 기록에 접속해�
 #. SUBTYPE: Custom
 msgctxt "000982"
 msgid "I guarantee there will be records of where that ship went on those dates."
-msgstr "그 함선이 그 날짜에 어디로 갔는지에 대한 기록이 있을 거라고 장담합니다."
+msgstr "그 우주선이 그 날짜에 어디로 갔는지에 대한 기록이 있을 거라고 장담합니다."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: 4034. &&& ...  &&& Tevina: Looks like an all-expenses paid journey to Jandar's Rest! Lucky you! &&& Tevina: Okay, scanning the coordinates, those point further north, hidden in Badlands. Clever, clever. &&& Tevina: You'll have to crack the encryption first, I'm afraid.
@@ -241550,7 +241576,8 @@ msgstr "필요한 걸 찾았습니다. 감사합니다."
 #. SUBTYPE: Custom
 msgctxt "00097F"
 msgid "You might recognize the dates from Ukaru's list of missing supplies. I cross-referenced it with a list of ships leaving the spaceport after hours."
-msgstr "우카루의 누락된 물자 목록에서 그 날짜를 알아볼 수도 있겠군요. 저는 그것을 시간 외에 우주항을 떠난 함선 목록과 대조했습니다."
+msgstr ""
+"우카루의 누락된 물자 목록에서 그 날짜를 알아볼 수도 있겠군요. 저는 그것을 시간 외에 우주항을 떠난 우주선 목록과 대조했습니다."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: 4034. &&& ...  &&& Tevina: Looks like an all-expenses paid journey to Jandar's Rest! Lucky you! &&& Tevina: Okay, scanning the coordinates, those point further north, hidden in Badlands. Clever, clever. &&& Tevina: You'll have to crack the encryption first, I'm afraid.
@@ -243620,7 +243647,7 @@ msgstr "괜찮습니다. 일정이 정리되면 얘기하죠."
 #. SUBTYPE: Custom
 msgctxt "0008D2"
 msgid "Next, a cross-referenced list of the lost supplies and ship departures."
-msgstr "다음은, 분실된 물자와 함선 출발을 대조한 목록입니다."
+msgstr "다음은, 분실된 물자와 우주선 출발을 대조한 목록입니다."
 
 #. SCRIPT NOTES: Confident
 #. DIALOGUE BEFORE: Tevina: Next, a cross-referenced list of the lost supplies and ship departures.
@@ -243878,7 +243905,7 @@ msgstr "오킴은 카딕 가문 일원에게 입양되었는데, 누구인지는
 #. SUBTYPE: Custom
 msgctxt "0008BF"
 msgid "It's a doozy. Notice anything suspicious about any of the ships?"
-msgstr "대단하군요. 함선들에 대해 의심스러운 점을 발견하셨습니까?"
+msgstr "대단하군요. 우주선들에 대해 의심스러운 점을 발견하셨습니까?"
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: I want to discuss the ship departures. &&& Tevina:  &&& Tevina: It's a doozy. Notice anything suspicious about any of the ships?
@@ -243908,7 +243935,7 @@ msgstr "코테지."
 #. SUBTYPE: Custom
 msgctxt "0008BD"
 msgid "Exactly! That ship's departure dates match the dates the supplies were lost."
-msgstr "바로 그겁니다! 그 함선의 출발 날짜가 물자의 분실 날짜와 일치합니다."
+msgstr "바로 그겁니다! 그 우주선의 출발 날짜가 물자의 분실 날짜와 일치합니다."
 
 #. SCRIPT NOTES: Confident / to Player Default
 #. PROMPT: The Cortege.
@@ -243923,7 +243950,7 @@ msgstr "바로 그겁니다! 그 함선의 출발 날짜가 물자의 분실 날
 #. SUBTYPE: Custom
 msgctxt "0008BC"
 msgid "I'm not saying our suspect owns that ship, but they certainly tick all the boxes."
-msgstr "용의자가 그 함선을 소유하고 있다고 말하는 것은 아니지만, 모든 조건에 부합하는 것은 확실합니다."
+msgstr "용의자가 그 우주선을 소유하고 있다고 말하는 것은 아니지만, 모든 조건에 부합하는 것은 확실합니다."
 
 #. SCRIPT NOTES: Apologetic / to Tevina
 #. DIALOGUE BEFORE: Mujeen: If we are to stand on equal footing with the outsiders, we must rebuild Dazra to its former glory. &&& Tevina: Except we can't build without construction materials and resources. &&& Tevina: What about this talk of missing supplies? I would think the conversation starts there, hm?
@@ -243950,7 +243977,7 @@ msgstr "죄송합니다만, 대재난 때문에 조사가 좀 더디게 진행�
 #. SUBTYPE: Custom
 msgctxt "0008BA"
 msgid "I want to discuss the ship departures."
-msgstr "함선 출발에 대해 논의하고 싶습니다."
+msgstr "우주선 출발에 대해 논의하고 싶습니다."
 
 #. SCRIPT NOTES: Nervous
 #. VOICE TYPE: SFBGS001_NPCFSahimaKadic
@@ -244415,7 +244442,7 @@ msgstr "이단자가 쳐들어왔다!"
 #. SUBTYPE: NormalToCombat
 msgctxt "000895"
 msgid "An accursed is attacking the ship!"
-msgstr "저주받은 자가 함선을 공격하고 있다!"
+msgstr "저주받은 자가 우주선을 공격하고 있다!"
 
 #. SCRIPT NOTES: Angry
 #. VOICE TYPE: SFBGS001_VaruunZealotFemale03
@@ -244427,7 +244454,7 @@ msgstr "저주받은 자가 함선을 공격하고 있다!"
 #. SUBTYPE: NormalToCombat
 msgctxt "000894"
 msgid "We will not allow this ship to be taken!"
-msgstr "이 함선을 빼앗기게 둘 순 없다!"
+msgstr "이 우주선을 빼앗기게 둘 순 없다!"
 
 #. SCRIPT NOTES: Angry
 #. VOICE TYPE: SFBGS001_VaruunZealotFemale03
@@ -248914,7 +248941,7 @@ msgstr "하지만 알고 보니 미술품을 원했던 것뿐이었어. 말 그�
 #. SUBTYPE: Custom
 msgctxt "00063D"
 msgid "So there was this one time I was asked to smuggle some stolen ship tech."
-msgstr "어느 날, 어떤 도난당한 함선 기술을 밀수해 달라는 요청을 받았었지."
+msgstr "어느 날, 어떤 도난당한 우주선 기술을 밀수해 달라는 요청을 받았었지."
 
 #. SCRIPT NOTES: Serious
 #. ALIAS: Smuggler
@@ -250572,7 +250599,7 @@ msgstr "합류하게 된 걸 환영해."
 #. SUBTYPE: Custom
 msgctxt "0005BF"
 msgid "Well, even before I lost my ship, I've been looking to branch out. Being a smuggler is fine, but there's not a whole lot of job security."
-msgstr "음, 사실 난 내 함선을 잃기 전에 이미 다른 일을 해 볼 생각이었어. 밀수업자 노릇이야 괜찮지만 직업 안정성은 형편 없거든."
+msgstr "음, 사실 난 내 우주선을 잃기 전에 이미 다른 일을 해 볼 생각이었어. 밀수업자 노릇이야 괜찮지만 직업 안정성은 형편 없거든."
 
 #. SCRIPT NOTES: Thinking / to Player Default
 #. PROMPT: What about your job as a smuggler?
@@ -252078,7 +252105,7 @@ msgstr "그야말로 최고의 취미지. 망할 긴장이 싹 풀린다고."
 #. SUBTYPE: Custom
 msgctxt "000539"
 msgid "If I got down time in the ship, I'll usually spend it painting those little guys until they're totally custom."
-msgstr "보통 함선에서 짬 나면 미니어처 피규어 몇 개 가져다가 나만의 버전으로 도색하는 거지."
+msgstr "보통 우주선에서 짬 나면 미니어처 피규어 몇 개 가져다가 나만의 버전으로 도색하는 거지."
 
 #. SCRIPT NOTES: Irritated / to Player Default
 #. PROMPT: You're deflecting. I can tell talking about family makes you uncomfortable.
@@ -255322,7 +255349,7 @@ msgstr "아마 지금쯤이면 이 얼굴 보기 지겹겠지. 나도 그래."
 #. SUBTYPE: Hello
 msgctxt "000429"
 msgid "We should booby-trap the cargo on your ship. I don't trust any of your crew not to steal it."
-msgstr "네 함선의 화물에다가 부비트랩을 설치해야 돼. 네 승무원이 손대지 않을 거라 장담할 수 없어."
+msgstr "네 우주선의 화물에다가 부비트랩을 설치해야 돼. 네 승무원이 손대지 않을 거라 장담할 수 없어."
 
 #. SCRIPT NOTES: Smug
 #. VOICE TYPE: SFBGS001_NPCMTaneSalavea
@@ -255800,7 +255827,7 @@ msgstr "이 도시는 주변 경관과 거의 딱 들어 맞네. 마치 사람�
 #. SUBTYPE: Custom
 msgctxt "000401"
 msgid "Do we hitch our ship to the Hitching Post?"
-msgstr "우리 함선은 히칭 포스트라는 곳에 맡겨야 하나?"
+msgstr "우리 우주선은 히칭 포스트라는 곳에 맡겨야 하나?"
 
 #. VOICE TYPE: SFBGS001_NPCFSahimaKadic
 #. FACE: Neutral

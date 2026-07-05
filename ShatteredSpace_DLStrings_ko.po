@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-06-22 11:37+0000\n"
+"PO-Revision-Date: 2026-07-06 09:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -4505,7 +4505,7 @@ msgstr "말릭 보쉬에게 돌아가기"
 # EDID: SFBGS001_DazraZ01, REC: QUST:NNAM
 msgctxt "001437"
 msgid "Confront Andrah"
-msgstr "앤드라 대면하기"
+msgstr "앤드라와 대면하기"
 
 # EDID: SFBGS001_DazraZ01, REC: QUST:NNAM
 msgctxt "001438"
@@ -5306,7 +5306,7 @@ msgstr "고아원 조사하기"
 # EDID: SFBGS001_VkaiZ03b, REC: QUST:NNAM
 msgctxt "001997"
 msgid "Ask Vassilis for more work"
-msgstr "바실리스에게 추가로 할 일이 있는지 묻기"
+msgstr "바실리스에게 다른 일거리가 있는지 묻기"
 
 # EDID: SFBGS001_VkaiZ03b, REC: QUST:FULL
 msgctxt "001998"

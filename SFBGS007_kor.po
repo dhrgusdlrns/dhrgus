@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-27 00:51+0900\n"
-"PO-Revision-Date: 2026-06-25 10:28+0000\n"
+"PO-Revision-Date: 2026-07-07 13:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -32,7 +32,7 @@ msgstr "전투시 사망 위험률"
 # List: 0, EDID: PEO_ShipDamageOutput_Player_Perk, REC: PERK:FULL
 msgctxt "000011"
 msgid "PEO Player Ship Damage Perk"
-msgstr "PEO 플레이어 함선 피해 특성"
+msgstr "PEO 플레이어 우주선 피해 특성"
 
 # List: 0, EDID: SQ_PEO_SleepHealing, REC: QUST:FULL
 msgctxt "000012"
@@ -67,7 +67,7 @@ msgstr "전투시 사망 위험률 능력"
 # List: 0, EDID: PEO_abAddPerk_ShipDamageOutput, REC: SPEL:FULL
 msgctxt "000018"
 msgid "Ship Damage Output Ability"
-msgstr "함선 피해 결과값 능력"
+msgstr "우주선 피해 결과값 능력"
 
 # List: 0, EDID: PEO_abAddPerk_XP_Mult, REC: SPEL:FULL
 msgctxt "000019"
@@ -97,7 +97,7 @@ msgstr "전투시 사망 위험률 효과"
 # List: 0, EDID: PEO_abAddPerk_ShipDamageOutput_Effect, REC: MGEF:FULL
 msgctxt "00001E"
 msgid "Ship Damage Output Effect"
-msgstr "함선 피해 결과값 효과"
+msgstr "우주선 피해 결과값 효과"
 
 # List: 0, EDID: PEO_abAddPerk_XP_Mult_Effect, REC: MGEF:FULL
 msgctxt "00001F"
@@ -395,7 +395,7 @@ msgstr ""
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:NNAM
 msgctxt "00004A"
 msgid "Player Ship Damage"
-msgstr "플레이어 함선이 가하는 피해 정도"
+msgstr "플레이어 우주선이 가하는 피해 정도"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage, REC: GPOF:RESN
 msgctxt "00004B"
@@ -575,7 +575,7 @@ msgstr "제한된 장소에서 휴식시"
 msgctxt "000064"
 msgid ""
 "{0}: Restored while waiting or sleeping in a ship, outpost, or settlement."
-msgstr "{0}: 함선, 전초기지, 정착지에서 대기, 수면시 회복."
+msgstr "{0}: 우주선, 전초기지, 정착지에서 대기, 수면시 회복."
 
 # List: 0, EDID: PEO_GPO_EnvironmentalDamageClearing, REC: GPOF:RESN
 msgctxt "000065"
@@ -699,7 +699,7 @@ msgstr "제한된 장소에서 수면시"
 # List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:VOVS
 msgctxt "000076"
 msgid "{0}: Sleeping restores health in ships, outposts, and settlements."
-msgstr "{0}: 함선, 전초기지, 정착지에서 수면시 체력 회복."
+msgstr "{0}: 우주선, 전초기지, 정착지에서 수면시 체력 회복."
 
 # List: 0, EDID: PEO_GPO_SleepHealing, REC: GPOF:RESN
 msgctxt "000077"
@@ -1088,12 +1088,12 @@ msgstr "운반 중량"
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:RESN
 msgctxt "0000BB"
 msgid "INSIDE SHIP"
-msgstr "함선 안에서만"
+msgstr "우주선 안에서만"
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:VOVS
 msgctxt "0000BC"
 msgid "{0}: Access your ship's cargo only while inside the ship."
-msgstr "{0}: 함선 안에 있을 때만 함선 화물칸에 적재 가능."
+msgstr "{0}: 우주선 안에 있을 때만 우주선 화물칸에 적재 가능."
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:RESN
 msgctxt "0000BD"
@@ -1103,7 +1103,7 @@ msgstr "보통"
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:VOVS
 msgctxt "0000BE"
 msgid "{0}: Access your ship's cargo only while near the ship."
-msgstr "{0}: 함선 근처에 있을 때만 함선 화물칸에 적재 가능."
+msgstr "{0}: 우주선 근처에 있을 때만 우주선 화물칸에 적재 가능."
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:RESN
 msgctxt "0000BF"
@@ -1113,7 +1113,7 @@ msgstr "제한된 장소에서만"
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:VOVS
 msgctxt "0000C0"
 msgid "{0}: Access your ship's cargo while in outposts or settlements."
-msgstr "{0}: 전초기지, 정착지 안에 있을 때만 함선 화물칸에 적재 가능."
+msgstr "{0}: 전초기지, 정착지 안에 있을 때만 우주선 화물칸에 적재 가능."
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:RESN
 msgctxt "0000C1"
@@ -1123,7 +1123,7 @@ msgstr "어디서든"
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:VOVS
 msgctxt "0000C2"
 msgid "{0}: Access your ship's cargo from any distance."
-msgstr "{0}: 지표면 어디서든 함선 화물칸에 적재 가능."
+msgstr "{0}: 지표면 어디서든 우주선 화물칸에 적재 가능."
 
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:DNAM
 msgctxt "0000C3"
@@ -1138,7 +1138,7 @@ msgid ""
 "\n"
 "{3}"
 msgstr ""
-"개인 인벤토리 창에 있는 아이템을 함선 화물칸에 적재할 수 있는 거리를 설정합니다.\n"
+"개인 인벤토리 창에 있는 아이템을 우주선 화물칸에 적재할 수 있는 거리를 설정합니다.\n"
 "\n"
 "{0}\n"
 "\n"
@@ -1151,7 +1151,7 @@ msgstr ""
 # List: 0, EDID: PEO_GPO_CargoAccessDistance, REC: GPOF:NNAM
 msgctxt "0000C4"
 msgid "Cargo Access Distance"
-msgstr "함선 화물칸 적재 거리"
+msgstr "우주선 화물칸 적재 거리"
 
 # List: 0, EDID: PEO_GPO_AimAssistance, REC: GPOF:RESN
 msgctxt "0000C5"

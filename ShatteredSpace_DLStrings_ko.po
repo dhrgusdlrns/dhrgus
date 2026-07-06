@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-07-06 09:49+0000\n"
+"PO-Revision-Date: 2026-07-07 13:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -2335,7 +2335,7 @@ msgstr "데이터 검증 요청서"
 # EDID: SFBGS001_MS01_TevinaStateEvidence02, REC: BOOK:FULL
 msgctxt "000B91"
 msgid "Ship Departure Records"
-msgstr "함선 이륙 기록"
+msgstr "우주선 이륙 기록"
 
 # EDID: SFBGS001_MS01_AudioLog02Slate_TrackingDevice, REC: BOOK:ENAM
 msgctxt "000B92"
@@ -2568,7 +2568,7 @@ msgstr "잔다르의 안식처에 잠입하기"
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "000CF9"
 msgid "(Optional) Examine the Ship Departure Requests"
-msgstr "함선 이륙 요청 목록을 조사하기"
+msgstr "우주선 이륙 요청 목록을 조사하기"
 
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "000CFA"
@@ -2603,7 +2603,7 @@ msgstr "키스라니에게 증거를 가져다 주기"
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "000D00"
 msgid "(Optional) Find the ship departure records"
-msgstr "(선택) 함선 이륙 기록을 찾기"
+msgstr "(선택) 우주선 이륙 기록을 찾기"
 
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "000D01"
@@ -3165,7 +3165,7 @@ msgstr ""
 "\n"
 "개요:\n"
 "중력 구동기와 엔진을 정기 점검한 뒤 아무 이상이 없음을 확인. 구조 무결성 정상. 보호막 시스템에 동력 상실이 확인되었으나 노후된 "
-"비질급 함선이라면 예상되는 수치 이내임."
+"비질급 우주선이라면 예상되는 수치 이내임."
 
 # EDID: SFBGS001_MS01_FlightTerminal01, REC: TMLM:ITXT
 msgctxt "000D9A"
@@ -3184,7 +3184,7 @@ msgid "Filter by ship: The Cortege\nDepartment: Ministry of Conjunction \n\n05.1
 "04.25.2330: Cleared for takeoff\n"
 "04.04.2330: Cleared for takeoff"
 msgstr ""
-"함선으로 맞춤 검색: 코테지\n"
+"우주선으로 맞춤 검색: 코테지\n"
 "소속 성: 결합성\n"
 "\n"
 "05.11.2330: 이륙 허가\n"
@@ -3210,7 +3210,7 @@ msgid "Filter by ship: The Cortege\nDepartment: Ministry of Conjunction \n\n05.1
 "04.25.2330: Landed\n"
 "04.04.2330: Landed"
 msgstr ""
-"함선으로 맞춤 검색: 코테지\n"
+"우주선으로 맞춤 검색: 코테지\n"
 "소속 성: 결합성\n"
 "\n"
 "05.11.2330: 착륙\n"
@@ -3235,7 +3235,7 @@ msgid "Ship: Cortege\nAutopilot: Disabled\n\nSpeed = 1525 mph (Planned: 1568 mph
 "Distance = 7,243 kilometers\n"
 "Direction = NW"
 msgstr ""
-"함선으로 맞춤 검색: 코테지\n"
+"우주선으로 맞춤 검색: 코테지\n"
 "자동 조종: 비활성화\n"
 "\n"
 "속도 = 시속 2454 킬로미터 (계획된 속도: 시속 2523 킬로미터)\n"
@@ -3282,7 +3282,7 @@ msgstr ""
 "개요:\n"
 "점검 팀이 비행 제어판으로 인해 추력 기동 중 제동 실패로 이어질 수 있는 문제를 발견함.\n"
 "\n"
-"수리를 위해 함선을 이송했음. 새 제어판으로 교체하고 실험 비행 중 모든 연결부가 제대로 작동하도록 정비할 것을 권고."
+"수리를 위해 우주선을 이송했음. 새 제어판으로 교체하고 실험 비행 중 모든 연결부가 제대로 작동하도록 정비할 것을 권고."
 
 # EDID: SFBGS001_MS01_FlightTerminal02, REC: TMLM:ITXT
 msgctxt "000DA3"
@@ -3301,7 +3301,7 @@ msgid "Filter by ship: Watcher's Hymn\nDepartment: Ministry of State \n\n05.17.2
 "01.06.2330: Cleared for takeoff\n"
 "12.22.2329: Cleared for takeoff"
 msgstr ""
-"함선으로 맞춤 검색: 워쳐스 히임\n"
+"우주선으로 맞춤 검색: 워쳐스 히임\n"
 "소속 성: 국무성\n"
 "\n"
 "05.17.2330: 이륙 허가\n"
@@ -3327,7 +3327,7 @@ msgid "Filter by ship: Watcher's Hymn\nDepartment: Ministry of State\n\n05.22.23
 "01.10.2330: Landed\n"
 "12.29.2329: Landed"
 msgstr ""
-"함선으로 맞춤 검색: 워쳐스 히임\n"
+"우주선으로 맞춤 검색: 워쳐스 히임\n"
 "소속 성: 국무성\n"
 "\n"
 "05.22.2330: 착륙\n"
@@ -3369,7 +3369,7 @@ msgstr ""
 "- A 및 B 유형 점검\n"
 "\n"
 "개요:\n"
-"이 기체는 갖은 고생을 했기 때문에 장기 유지보수 검사를 수행했다. 게다가 이 함선의 이름도 맘에 든다. 꽃의 이름이라고 하는데, 수련 "
+"이 기체는 갖은 고생을 했기 때문에 장기 유지보수 검사를 수행했다. 게다가 이 우주선의 이름도 맘에 든다. 꽃의 이름이라고 하는데, 수련 "
 "위에 있는 개구리 한 마리와 그외 수련 위의 다른 개구리 떼가 열심히 귀를 기울이는 모습이 상상된다."
 
 # EDID: SFBGS001_MS01_FlightTerminal03, REC: TMLM:ITXT
@@ -3389,7 +3389,7 @@ msgid "Filter by ship: The Frog's Pulpit\nDepartment: Ministry of Conjunction \n
 "01.15.2330: Cleared for takeoff\n"
 "12.31.2329: Cleared for takeoff"
 msgstr ""
-"함선으로 맞춤 검색: 프로그 펄핏\n"
+"우주선으로 맞춤 검색: 프로그 펄핏\n"
 "소속 성: 결합성\n"
 "\n"
 "05.25.2330: 이륙 허가\n"
@@ -3415,7 +3415,7 @@ msgid "Filter by ship: The Frog's Pulpit\nDepartment: Ministry of Conjunction \n
 "01.25.2330: Landed\n"
 "01.01.2330: Landed"
 msgstr ""
-"함선으로 맞춤 검색: 프로그 펄핏\n"
+"우주선으로 맞춤 검색: 프로그 펄핏\n"
 "소속 성: 결합성\n"
 "\n"
 "05.28.2330: 착륙\n"
@@ -4234,7 +4234,7 @@ msgstr "바룬 성소"
 # EDID: SFBGS001LC50MapMarker, REC: REFR:FULL
 msgctxt "00135A"
 msgid "Tane's Crashed Ship"
-msgstr "테인의 함선 추락 현장"
+msgstr "테인의 우주선 추락 현장"
 
 # EDID: SFBGS001LC08MapMarker, REC: REFR:FULL
 msgctxt "00135C"
@@ -5251,7 +5251,7 @@ msgstr "모래 언덕"
 # EDID: SFBGS001_SE_RefugeeShipName, REC: MESG:FULL
 msgctxt "001910"
 msgid "Va'ruun Refugee Ship"
-msgstr "바룬 난민 함선"
+msgstr "바룬 난민 우주선"
 
 # EDID: SFBGS001_VkaiZ03_IrisPhantomName, REC: MESG:FULL
 msgctxt "001911"
@@ -5583,7 +5583,7 @@ msgstr "[해독됨] 광신도 슬레이트 #2032 사본"
 # EDID: SFBGS001_MS01_TevinaDesktop, REC: TMLM:ITXT
 msgctxt "001AE7"
 msgid "Ship Departure Records"
-msgstr "함선 이륙 기록"
+msgstr "우주선 이륙 기록"
 
 # EDID: SFBGS001_MS01_TevinaDesktop, REC: TMLM:UNAM
 msgctxt "001AE8"
@@ -6171,7 +6171,7 @@ msgstr ""
 # EDID: SFBGS001_MS01_FlightTerminalBase, REC: TMLM:FULL
 msgctxt "001D50"
 msgid "Ship Departure Records"
-msgstr "함선 이륙 기록"
+msgstr "우주선 이륙 기록"
 
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 #, fuzzy
@@ -7718,7 +7718,7 @@ msgstr "바룬 조각상"
 # EDID: SFBGS001_MS01_Vendor_ShipServicesContainer, REC: CONT:FULL
 msgctxt "01103B"
 msgid "Ship Services Vendor Storage"
-msgstr "함선 정비 상인 보관함"
+msgstr "우주선 정비 상인 보관함"
 
 # EDID: SFBGS001_MS01_ApprovalSlate, REC: BOOK:FNAM
 msgctxt "01103C"
@@ -9177,7 +9177,7 @@ msgstr "Shared OLD Lines for NEW Zealot Voicetypes"
 # EDID: SFBGS001LC42ShipKey, REC: KEYM:FULL
 msgctxt "011855"
 msgid "Crashed Ship Key"
-msgstr "추락한 함선 열쇠"
+msgstr "추락한 우주선 열쇠"
 
 # EDID: SFBGS001_VkaiZ03_PickUpTrigger, REC: ACTI:ATTX
 msgctxt "011856"
@@ -9269,7 +9269,7 @@ msgid "House Va'ruun Contract\nA known Zealot ship has been reported in the <Ali
 "A known Zealot ship has been reported in the <Alias=TargetSystemLocation> system. Locate the <Alias=PrimaryRef> and destroy it."
 msgstr ""
 "바룬 가문 계약 \n"
-"<Alias=TargetSystemLocation> 항성계에서 악명 높은 광신도 함선을 목격했다는 보고가 있었음. "
+"<Alias=TargetSystemLocation> 항성계에서 악명 높은 광신도 우주선을 목격했다는 보고가 있었음. "
 "<Alias=PrimaryRef>의 위치를 확인하고 이를 파괴할 것."
 
 # EDID: SFBGS001_MB_BountySpace02Far, REC: QUST:NNAM
@@ -9432,7 +9432,7 @@ msgid "House Va'ruun Contract\nA known Zealot ship has been reported in the <Ali
 "A known Zealot ship has been reported in the <Alias=TargetSystemLocation> system. Locate the <Alias=PrimaryRef> and destroy it."
 msgstr ""
 "바룬 가문 계약 \n"
-"<Alias=TargetSystemLocation> 항성계에서 악명 높은 광신도 함선을 목격했다는 보고가 있었음. "
+"<Alias=TargetSystemLocation> 항성계에서 악명 높은 광신도 우주선을 목격했다는 보고가 있었음. "
 "<Alias=PrimaryRef>의 위치를 확인하고 이를 파괴할 것."
 
 # EDID: SFBGS001_MB_BountySpace01Far, REC: QUST:NNAM
@@ -11277,7 +11277,7 @@ msgstr "뼈 기둥"
 # EDID: SFBGS001OE17Location, REC: LCTN:FULL
 msgctxt "012483"
 msgid "Crashed Ship"
-msgstr "함선 추락 현장"
+msgstr "우주선 추락 현장"
 
 # EDID: SFBGS001_MQ05, REC: QUST:NNAM
 msgctxt "0124F0"
@@ -11524,7 +11524,7 @@ msgstr "가스 추출장"
 # EDID: SFBGS001OE19Location, REC: LCTN:FULL
 msgctxt "012562"
 msgid "Crashed Ship"
-msgstr "함선 추락 현장"
+msgstr "우주선 추락 현장"
 
 # EDID: SFBGS001OE03World, REC: WRLD:FULL
 msgctxt "01258C"
@@ -11549,7 +11549,7 @@ msgid "Judging by the entries, we should be looking to track smaller class ships
 "\n"
 "Finding this evidence will be a boon to my household. With a baby on the way, I pray to the Great Serpent my service will be rewarded."
 msgstr ""
-"여러 사항들을 살펴 보니 우린 이곳에 있는 것들처럼 작은 급의 함선들을 추적해야겠다. 베타알의 교정관이라면 분명 이 기록들을 꼭 읽고 "
+"여러 사항들을 살펴 보니 우린 이곳에 있는 것들처럼 작은 급의 우주선들을 추적해야겠다. 베타알의 교정관이라면 분명 이 기록들을 꼭 읽고 "
 "싶어 하겠지.\n"
 "\n"
 "이 증거를 찾는 건 나의 가족에게 큰 기쁨이 될 것이다. 곧 아이가 태어날 예정이니, 부디 내가 섬긴 만큼 후한 보상을 받을 수 있기를 "
@@ -11576,15 +11576,15 @@ msgstr ""
 "\n"
 "진창에 발자국을 남기는 것과 별반 다르지 않다. 잔다르의 안식처가 숨겨져 있으려면 우린 이러한 계략을 써야 하는 것이다.\n"
 "\n"
-"그래서 우리가 커다란 크기의 화물선 급 함선들을 쓰지 않는 것이다. 저들이 우리의 함선들을 보고 순찰 중인 전투용 함선들이라고 속일 수 "
-"있을 것이다. 물자를 실어 나르는 배달원들로는 전혀 보이지 않겠지.\n"
+"그래서 우리가 커다란 크기의 화물선 급 우주선들을 쓰지 않는 것이다. 저들이 우리의 우주선들을 보고 순찰 중인 전투용 우주선들이라고 속일 "
+"수 있을 것이다. 물자를 실어 나르는 배달원들로는 전혀 보이지 않겠지.\n"
 "\n"
 "-- 수도사 오나마이드"
 
 # EDID: SFBGS001LC20_CockpitTerminalMenu, REC: TMLM:ITXT
 msgctxt "012594"
 msgid "The Use of Combat Class A Ships"
-msgstr "A 클래스 전투용 함선들을 쓰는 이유"
+msgstr "A 클래스 전투용 우주선들을 쓰는 이유"
 
 # EDID: SFBGS001_MS01_JandarRestCitizen06, REC: MESG:FULL
 msgctxt "0125AA"
@@ -11599,7 +11599,7 @@ msgstr "바텐더"
 # EDID: SFBGS001OE18Location, REC: LCTN:FULL
 msgctxt "0125AC"
 msgid "Crashed Ship"
-msgstr "함선 추락 현장"
+msgstr "우주선 추락 현장"
 
 # EDID: SFBGS001_MS05, REC: QUST:NNAM
 msgctxt "01262A"
@@ -12277,7 +12277,7 @@ msgstr "가스 추출장"
 # EDID: SFBGS001OE20Location, REC: LCTN:FULL
 msgctxt "0128B8"
 msgid "Crashed Ship"
-msgstr "함선 추락 현장"
+msgstr "우주선 추락 현장"
 
 # EDID: SFBGS001_SE_Player_MQ03, REC: QUST:FULL
 msgctxt "0128CF"
@@ -16554,8 +16554,8 @@ msgstr ""
 "다시는 다즈라로 돌아가지 않을 거라고 내심 말해 왔는데, 이제 다른 누군가의 목숨이 달려 있단 걸 알게 되니 다신 내 친구와 가족들을 "
 "만나지 못할지도 모른다는 현실에 괴로워지기 시작했다.\n"
 "\n"
-"안타깝게도 테인마저 함선을 잃어 버려 날 바룬카이 바깥으로 데려다 줄 수 없다고 한다. 적어도 지금 당장은... 다만 이런 목가적인 삶이 "
-"즐거워지기 시작했고, 아버지께서 날 찾는 일이 끝난단 걸 알았으니 이제 여기서 제대로 살아갈 기회를 얻은 것일지 모른다."
+"안타깝게도 테인마저 우주선을 잃어 버려 날 바룬카이 바깥으로 데려다 줄 수 없다고 한다. 적어도 지금 당장은... 다만 이런 목가적인 "
+"삶이 즐거워지기 시작했고, 아버지께서 날 찾는 일이 끝난단 걸 알았으니 이제 여기서 제대로 살아갈 기회를 얻은 것일지 모른다."
 
 # EDID: SFBGS001_MQ04_VaericTerminalDesktop, REC: TMLM:ITXT
 msgctxt "014954"
@@ -17218,9 +17218,9 @@ msgid "Great Serpent,\n\nI found my way into the network the Zealots are using t
 msgstr ""
 "위대한 뱀이시여,\n"
 "\n"
-"저는 광신도들이 휘하 함선에 데이터 전송과 업데이트 용도로 쓰고 있는 네트워크에 침투했습니다. 그 후 며칠만에 바이러스를 만들어 엡실론의 "
-"모든 주요 시스템과 이에 연결되어 있는 함선들에 심어 놓는 데 성공했고 지금 이 바이러스들은 이미 잠복 중입니다. 이제 우리가 탈출을 "
-"시도할 시 광신도들을 막을 수단이 생긴 것 같지만 대속자에 관한 것은 여전히 오리무중입니다.\n"
+"저는 광신도들이 휘하 우주선에 데이터 전송과 업데이트 용도로 쓰고 있는 네트워크에 침투했습니다. 그 후 며칠만에 바이러스를 만들어 "
+"엡실론의 모든 주요 시스템과 이에 연결되어 있는 우주선들에 심어 놓는 데 성공했고 지금 이 바이러스들은 이미 잠복 중입니다. 이제 우리가 "
+"탈출을 시도할 시 광신도들을 막을 수단이 생긴 것 같지만 대속자에 관한 것은 여전히 오리무중입니다.\n"
 "\n"
 "전 여전히 우리가 소모품 따위가 아니고, 곧 누군가 우릴 구하러 와줄 것으로 믿고 있습니다. 협상이 이루어진다는 말을 들었는데, 어쩌면 "
 "생각보다 자유가 더 가까이에 있는 걸지도 모릅니다."
@@ -21319,8 +21319,8 @@ msgid "History of House Va'ruun - Sol Date 2230\nA familiar, yet outdated, trans
 "A familiar, yet outdated, transponder signal is detected in the Volii system. What was once the Archimedes announces itself as Mourning, the flagship of House Va'ruun."
 msgstr ""
 "바룬 가문의 역사 - 태양력 2230년\n"
-"볼라이 항성계에서, 익숙하지만 오래된 송수신기 신호가 감지됐습니다. 한때 아르키메데스라는 이름이 붙었던 함선에 탑승한 승무원들은 함선 "
-"이름이 모어닝 호이며, 이 함선은 바룬 가문의 기함이라고 알렸습니다."
+"볼라이 항성계에서, 익숙하지만 오래된 송수신기 신호가 감지됐습니다. 한때 아르키메데스라는 이름이 붙었던 우주선에 탑승한 승무원들은 우주선 "
+"이름이 모어닝 호이며, 이 우주선은 바룬 가문의 기함이라고 알렸습니다."
 
 # EDID: SFBGS001_LS_History03, REC: LSCR:DESC
 msgctxt "014C99"
@@ -21432,7 +21432,7 @@ msgid "History of House Va'ruun - Sol Date 2191\nThe colony ship \"Archimedes\" 
 "The colony ship \"Archimedes\" grav jumps into the Kavnyk system, 6 months after departing New Atlantis. On board, Jinan Va'ruun begins screaming."
 msgstr ""
 "바룬 가문의 역사 - 태양력 2191년\n"
-"뉴아틀란티스를 떠난 지 6개월 후, 개척선 '아르키메데스'는 카브닉 항성계를 향해 중력 도약했습니다. 함선 안에서, 지난 바룬이 비명을 "
+"뉴아틀란티스를 떠난 지 6개월 후, 개척선 '아르키메데스'는 카브닉 항성계를 향해 중력 도약했습니다. 우주선 안에서, 지난 바룬이 비명을 "
 "지르기 시작했습니다."
 
 # EDID: SFBGS001_LS_OffWorldGoods01, REC: LSCR:DESC
@@ -23004,7 +23004,7 @@ msgstr "변조기 파괴하기"
 # EDID: SFBGS001_Vendor_ShipServicesContainer, REC: CONT:FULL
 msgctxt "014DFF"
 msgid "Ship Services Vendor Storage"
-msgstr "함선 정비 상인 보관함"
+msgstr "우주선 정비 상인 보관함"
 
 # EDID: SFBGS001_DazraShipServices_Vendor_Faction, REC: FACT:FULL
 msgctxt "014E00"

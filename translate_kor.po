@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2026-07-06 11:49+0000\n"
+"PO-Revision-Date: 2026-07-07 13:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -236,7 +236,7 @@ msgid "$AssignmentCategoryCurrentOutpost"
 msgstr "현재 전초기지"
 
 msgid "$AssignmentCategoryCurrentShip"
-msgstr "현재 함선"
+msgstr "현재 우주선"
 
 msgid "$AssignmentCategoryMisc"
 msgstr "기타"
@@ -251,10 +251,10 @@ msgid "$AssignmentCategoryOutpostDescription"
 msgstr "배치할 전초기지를 선택하세요"
 
 msgid "$AssignmentCategoryShip"
-msgstr "함선"
+msgstr "우주선"
 
 msgid "$AssignmentCategoryShipDescription"
-msgstr "배치할 함선을 선택하세요"
+msgstr "배치할 우주선을 선택하세요"
 
 msgid "$Asteroid Belt"
 msgstr "소행성대"
@@ -470,7 +470,7 @@ msgid "$BOUNDARYREACHED_HEADER"
 msgstr "경계 도달"
 
 msgid "$BOUNDARYREACHED_MESSAGE"
-msgstr "지도를 열어 다른 지역을 탐색하거나, 함선으로 돌아가십시오."
+msgstr "지도를 열어 다른 지역을 탐색하거나, 우주선으로 돌아가십시오."
 
 msgid "$BOUNTY"
 msgstr "현상금"
@@ -578,7 +578,7 @@ msgid "$BUY BACK"
 msgstr "판매한 것 재구매"
 
 msgid "$BUY SHIPS"
-msgstr "함선 구매"
+msgstr "우주선 구매"
 
 msgid "$CAMERA"
 msgstr "카메라"
@@ -617,10 +617,10 @@ msgid "$CannotHackLockDifficulty"
 msgstr "{1}의 잠금을 해제하기엔 스킬이 너무 낮습니다."
 
 msgid "$CannotRemoveHomeShip"
-msgstr "거점 함선은 제거할 수 없습니다."
+msgstr "거점 우주선은 제거할 수 없습니다."
 
 msgid "$CannotSellHomeShip"
-msgstr "거점 함선은 판매할 수 없습니다."
+msgstr "거점 우주선은 판매할 수 없습니다."
 
 msgid "$CannotTravelToAnUnknownBody"
 msgstr "미확인 위치로 이동할 수 없습니다"
@@ -644,7 +644,7 @@ msgid "$CantOpenMap"
 msgstr "지금은 지도를 열 수 없습니다."
 
 msgid "$CantPlotShipTravelBlocked"
-msgstr "여기서는 함선으로 빠른 이동할 수 없습니다."
+msgstr "여기서는 우주선으로 빠른 이동할 수 없습니다."
 
 msgid "$CantSaveNow"
 msgstr "지금은 게임을 저장할 수 없습니다."
@@ -1076,13 +1076,15 @@ msgid "$ConfirmModification"
 msgstr "개조할까요?"
 
 msgid "$ConfirmModificationWithWarnings"
-msgstr "비행 점검 결과 함선에 경고가 있습니다. 그래도 개조할까요?"
+msgstr "비행 점검 결과 우주선에 경고가 있습니다. 그래도 개조할까요?"
 
 msgid "$ConfirmNew"
 msgstr "게임을 새로 시작할까요?"
 
 msgid "$ConfirmNewHomeShipInSpace"
-msgstr "{1} 함선을 거점 함선으로 지정하시겠습니까? {2} 함선은 보관되고 나중에 사용할 수 있습니다. 모든 화물과 승무원이 거점 함선으로 이동됩니다."
+msgstr ""
+"{1} 우주선을 거점 우주선으로 지정하시겠습니까? {2} 우주선은 보관되고 나중에 사용할 수 있습니다. 모든 화물과 승무원이 거점 "
+"우주선으로 이동됩니다."
 
 msgid "$ConfirmNew_HC"
 msgstr "게임을 생존 모드로 새로 시작할까요?"
@@ -1100,10 +1102,10 @@ msgid "$ConfirmPerkSelect"
 msgstr "선택을 확정하시겠습니까?"
 
 msgid "$ConfirmSellShip"
-msgstr "이 함선을 {1} 크레딧에 판매하시겠습니까?"
+msgstr "이 우주선을 {1} 크레딧에 판매하시겠습니까?"
 
 msgid "$ConfirmSellShipInsufficientFunds"
-msgstr "이 상인은 크레딧을 충분히 가지고 있지 않습니다. 이 함선을 {1} 크레딧에 판매하시겠습니까?"
+msgstr "이 상인은 크레딧을 충분히 가지고 있지 않습니다. 이 우주선을 {1} 크레딧에 판매하시겠습니까?"
 
 msgid "$ConfirmStarborn"
 msgstr "게임을 스타본인 상태로 새로 시작할까요?"
@@ -2151,7 +2153,7 @@ msgid "$Exit Monocle"
 msgstr "스캐너 종료"
 
 msgid "$EXIT SHIP"
-msgstr "함선 나가기"
+msgstr "우주선 나가기"
 
 msgid "$Exit Targeting"
 msgstr "조준 모드 종료"
@@ -2280,13 +2282,13 @@ msgid "$FAST"
 msgstr "빠름"
 
 msgid "$FAST TRAVEL SHIP"
-msgstr "함선으로 빠른 이동"
+msgstr "우주선으로 빠른 이동"
 
 msgid "$FastTravel"
 msgstr "빠른 이동"
 
 msgid "$FastTravelContraband"
-msgstr "함선에 밀수품이 실려 있으므로 이 장소로 빠른 이동 할 수 없습니다."
+msgstr "우주선에 밀수품이 실려 있으므로 이 장소로 빠른 이동 할 수 없습니다."
 
 msgid "$FastTravelInsufficientFuel"
 msgstr "연료가 충분하지 않기 때문에 그 장소로 빠른 이동을 할 수 없습니다."
@@ -2943,7 +2945,7 @@ msgid "$InsufficientFundsHeader"
 msgstr "자금 부족"
 
 msgid "$InsufficientPilotSkillForDesiredHomeShip"
-msgstr "이 함선을 조종하기에는 조종술 스킬이 낮습니다."
+msgstr "이 우주선을 조종하기에는 조종술 스킬이 낮습니다."
 
 msgid "$InsufficientPlayerFunds"
 msgstr "거래할 크레딧이 부족합니다."
@@ -3147,7 +3149,7 @@ msgid "$Invert_Flight_X_Desc"
 msgstr "우주선 조종 중 X축 방향의 시점 조작을 반전시킵니다."
 
 msgid "$Invert_Flight_Y_Desc"
-msgstr "함선 조종 중 Y축 방향의 시점 조작을 반전시킵니다."
+msgstr "우주선 조종 중 Y축 방향의 시점 조작을 반전시킵니다."
 
 msgid "$Invert_Pitch_Flycam_Desc"
 msgstr "전초기지 조감 시점 중 수직방향 카메라 축을 뒤집습니다."
@@ -3300,7 +3302,7 @@ msgid "$LANDING NOT CLEARED"
 msgstr "착륙 불허됨"
 
 msgid "$LANDING OUT OF RANGE"
-msgstr "함선이 착륙 범위 내에 없음"
+msgstr "우주선이 착륙 범위 내에 없음"
 
 msgid "$LANDING RECORDED"
 msgstr "착륙 기록됨"
@@ -3390,7 +3392,7 @@ msgid "$LEVEL UP"
 msgstr "레벨 업"
 
 msgid "$Level {0} Ship"
-msgstr "레벨 {0} 함선"
+msgstr "레벨 {0} 우주선"
 
 msgid "$LEVELUP"
 msgstr "레벨 업"
@@ -3780,7 +3782,7 @@ msgid "$MainGameplay_Quicksave"
 msgstr "빠른 저장"
 
 msgid "$MainGameplay_QuickShip"
-msgstr "빠른 함선"
+msgstr "빠른 우주선"
 
 msgid "$MainGameplay_QuickSkills"
 msgstr "빠른 스킬"
@@ -3840,7 +3842,7 @@ msgid "$MAKE"
 msgstr "제작"
 
 msgid "$MAKE_HOME_SHIP"
-msgstr "거점 함선으로 지정"
+msgstr "거점 우주선으로 지정"
 
 msgid "$MALE"
 msgstr "남성"
@@ -3870,7 +3872,7 @@ msgid "$MapMarkerGenericTypeLifeSigns"
 msgstr "생체 신호"
 
 msgid "$MapMarkerGenericTypeShip"
-msgstr "함선"
+msgstr "우주선"
 
 msgid "$MapMarkerGenericTypeSpaceLandmark"
 msgstr "이상 현상"
@@ -4236,16 +4238,16 @@ msgid "$My Library"
 msgstr "내 라이브러리"
 
 msgid "$My Home Ship"
-msgstr "거점 함선"
+msgstr "거점 우주선"
 
 msgid "$My Perks"
 msgstr "내 특성"
 
 msgid "$MY SHIP"
-msgstr "내 함선"
+msgstr "내 우주선"
 
 msgid "$MY SHIPS"
-msgstr "내 함선 ({0}/{1})"
+msgstr "내 우주선 ({0}/{1})"
 
 msgid "$NAME"
 msgstr "이름"
@@ -4326,7 +4328,7 @@ msgid "$No content found."
 msgstr "콘텐츠 찾지 못함."
 
 msgid "$NO CONTRABAND"
-msgstr "함선에 밀수품 없음"
+msgstr "우주선에 밀수품 없음"
 
 msgid "$NO CREATIONS INSTALLED"
 msgstr "설치된 크리에이션 모드가 없습니다."
@@ -4377,7 +4379,7 @@ msgid "$Nose"
 msgstr "코"
 
 msgid "$NOSHIPSAVAILABLE"
-msgstr "이용할 수 없는 함선 없음"
+msgstr "이용할 수 없는 우주선 없음"
 
 msgid "$Nostrils"
 msgstr "작은 코"
@@ -4428,7 +4430,7 @@ msgid "$Open Keyboard"
 msgstr "키보드 열기"
 
 msgid "$OPEN_BUILDER"
-msgstr "함선 제작기"
+msgstr "우주선 제작기"
 
 msgid "$OPEN_PLANET_MAP"
 msgstr "행성 지도 열기"
@@ -4776,7 +4778,7 @@ msgid "$Player"
 msgstr "플레이어"
 
 msgid "$PLAYER SHIP"
-msgstr "플레이어 함선"
+msgstr "플레이어 우주선"
 
 msgid "$Player Voice"
 msgstr "플레이어 음성"
@@ -4938,13 +4940,13 @@ msgid "$Purchased"
 msgstr "구매 완료"
 
 msgid "$PURCHASE SHIP"
-msgstr "함선 구매"
+msgstr "우주선 구매"
 
 msgid "$PURCHASE SHIP CANNOT PILOT PROMPT"
-msgstr "조종술 스킬이 낮아 이 함급의 함선을 조종할 수 없습니다. 그래도 {1} 크레딧에 함선을 구매하시겠습니까?"
+msgstr "조종술 스킬이 낮아 이 함급의 우주선을 조종할 수 없습니다. 그래도 {1} 크레딧에 우주선을 구매하시겠습니까?"
 
 msgid "$PURCHASE SHIP PROMPT"
-msgstr "{1} 크레딧에 함선을 구매하시겠습니까?"
+msgstr "{1} 크레딧에 우주선을 구매하시겠습니까?"
 
 msgid "$QUANTITY"
 msgstr "수량"
@@ -5052,7 +5054,7 @@ msgid "$QuicksavingMsg"
 msgstr "빠른 저장 중..."
 
 msgid "$QuickShip"
-msgstr "빠른 함선"
+msgstr "빠른 우주선"
 
 msgid "$QuickStats"
 msgstr "빠른 능력치"
@@ -5184,7 +5186,7 @@ msgid "$Refuel Hold"
 msgstr "길게 눌러 연료 충전"
 
 msgid "$Refuel Ship"
-msgstr "함선 연료 충전"
+msgstr "우주선 연료 충전"
 
 msgid "$Refuels"
 msgstr "연료 충전"
@@ -5193,7 +5195,7 @@ msgid "$REGISTERED"
 msgstr "등록됨"
 
 msgid "$REGISTER_CONFIRM"
-msgstr "{1} 크레딧을 내고 함선을 등록하시겠습니까?"
+msgstr "{1} 크레딧을 내고 우주선을 등록하시겠습니까?"
 
 msgid "$REGISTER_SHIP"
 msgstr "등록"
@@ -5271,7 +5273,7 @@ msgid "$RemovePlanetDestination"
 msgstr "이미 목적지로 설정한 행성 또는 위성입니다. 제거할까요?"
 
 msgid "$RemoveShipPrompt"
-msgstr "소유 함선 목록에서 이 함선을 제거하시겠습니까?"
+msgstr "소유 우주선 목록에서 이 우주선을 제거하시겠습니까?"
 
 msgid "$REMOVE_ALL"
 msgstr "모두 제거"
@@ -5286,7 +5288,7 @@ msgid "$RENAME"
 msgstr "이름 변경"
 
 msgid "$RENAME SHIP"
-msgstr "함선 이름 변경"
+msgstr "우주선 이름 변경"
 
 msgid "$Reorder"
 msgstr "순서 변경"
@@ -5740,16 +5742,16 @@ msgid "$SB_ALL_SYSTEMS_NOMINAL"
 msgstr "모든 시스템 정상"
 
 msgid "$SB_ERRORBODY_COST"
-msgstr "함선 가격이 보유 크레딧을 초과합니다."
+msgstr "우주선 가격이 보유 크레딧을 초과합니다."
 
 msgid "$SB_ERRORBODY_COUNT"
-msgstr "함선에 모듈이 너무 많습니다."
+msgstr "우주선에 모듈이 너무 많습니다."
 
 msgid "$SB_ERRORBODY_DOCKER_CANNOT_REACH_COCKPIT"
 msgstr "도킹 장치는 조종실과 내부적으로 연결되어야 합니다."
 
 msgid "$SB_ERRORBODY_DOCKER_INVALID_POSITION"
-msgstr "도킹 장치는 다른 모듈보다 함선 가장 바깥쪽에 부착되어야 합니다."
+msgstr "도킹 장치는 다른 모듈보다 우주선 가장 바깥쪽에 부착되어야 합니다."
 
 msgid "$SB_ERRORBODY_DUPLICATION_EXCEEDED"
 msgstr "복제하려고 선택한 모듈이 너무 많습니다. 모듈을 선택 해제하고 다시 시도하세요."
@@ -5767,19 +5769,19 @@ msgid "$SB_ERRORBODY_MODULE_BELOW_LANDINGBAY"
 msgstr "다른 모든 모듈이 착륙 출입구보다 위에 위치해야 합니다."
 
 msgid "$SB_ERRORBODY_NOT_ATTACHED"
-msgstr "함선에 부착되지 않은 모듈이 있습니다."
+msgstr "우주선에 부착되지 않은 모듈이 있습니다."
 
 msgid "$SB_ERRORBODY_REACTOR_CLASS"
-msgstr "함선에 반응로 등급을 초과하는 모듈이 포함되어 있습니다."
+msgstr "우주선에 반응로 등급을 초과하는 모듈이 포함되어 있습니다."
 
 msgid "$SB_ERRORBODY_SHIP_TOO_HEAVY_TO_GRAVJUMP"
-msgstr "함선이 너무 무거워 중력 도약을 할 수 없습니다. 질량을 줄이거나 중력 도약 추력을 높이세요."
+msgstr "우주선이 너무 무거워 중력 도약을 할 수 없습니다. 질량을 줄이거나 중력 도약 추력을 높이세요."
 
 msgid "$SB_ERRORBODY_SIZE"
-msgstr "함선이 제한 길이 또는 너비 또는 높이를 초과합니다."
+msgstr "우주선이 제한 길이 또는 너비 또는 높이를 초과합니다."
 
 msgid "$SB_ERRORHEADER_COST"
-msgstr "함선 비용"
+msgstr "우주선 비용"
 
 msgid "$SB_ERRORHEADER_COUNT"
 msgstr "우주선 모듈 개수"
@@ -5809,13 +5811,13 @@ msgid "$SB_ERRORHEADER_SHIP_TOO_HEAVY_TO_GRAVJUMP"
 msgstr "더 많은 중력 도약 추력 필요"
 
 msgid "$SB_ERRORHEADER_SIZE"
-msgstr "함선 크기 초과"
+msgstr "우주선 크기 초과"
 
 msgid "$SB_LIMITBODY_EXCESS_POWER_ENGINE"
-msgstr "함선 엔진이 동력을 너무 많이 사용합니다. 엔진 수를 줄이세요."
+msgstr "우주선 엔진이 동력을 너무 많이 사용합니다. 엔진 수를 줄이세요."
 
 msgid "$SB_LIMITBODY_EXCESS_POWER_WEAPON"
-msgstr "함선 무기가 동력을 너무 많이 사용합니다. 무기 수를 줄이세요."
+msgstr "우주선 무기가 동력을 너무 많이 사용합니다. 무기 수를 줄이세요."
 
 msgid "$SB_LIMITBODY_MAX_COCKPIT"
 msgstr "조종실은 하나만 부착할 수 있습니다."
@@ -5839,37 +5841,37 @@ msgid "$SB_LIMITBODY_MAX_VEHICLE"
 msgstr "차량 모듈은 하나만 부착할 수 있습니다."
 
 msgid "$SB_LIMITBODY_MAX_WEAPONS"
-msgstr "함선에 무기가 너무 많습니다."
+msgstr "우주선에 무기가 너무 많습니다."
 
 msgid "$SB_LIMITBODY_MAX_WEAPONS_TYPES"
-msgstr "함선에 세 종류를 초과하는 무기가 부착되었습니다."
+msgstr "우주선에 세 종류를 초과하는 무기가 부착되었습니다."
 
 msgid "$SB_LIMITBODY_MIN_ENGINE"
-msgstr "함선에 엔진이 너무 적습니다."
+msgstr "우주선에 엔진이 너무 적습니다."
 
 msgid "$SB_LIMITBODY_MIN_FUEL_TANK"
-msgstr "함선에 연료 탱크가 하나 이상 있어야 합니다."
+msgstr "우주선에 연료 탱크가 하나 이상 있어야 합니다."
 
 msgid "$SB_LIMITBODY_MIN_LANDING_GEAR"
-msgstr "함선에 착륙 장치가 부족합니다."
+msgstr "우주선에 착륙 장치가 부족합니다."
 
 msgid "$SB_LIMITBODY_MISSING_COCKPIT"
-msgstr "함선에 조종실이 없습니다."
+msgstr "우주선에 조종실이 없습니다."
 
 msgid "$SB_LIMITBODY_MISSING_DOCKER"
-msgstr "함선에 도킹 장치가 없습니다."
+msgstr "우주선에 도킹 장치가 없습니다."
 
 msgid "$SB_LIMITBODY_MISSING_GRAV_DRIVE"
-msgstr "함선에 중력 구동기가 없습니다."
+msgstr "우주선에 중력 구동기가 없습니다."
 
 msgid "$SB_LIMITBODY_MISSING_LANDING_BAY"
-msgstr "함선에 착륙 출입구가 없습니다."
+msgstr "우주선에 착륙 출입구가 없습니다."
 
 msgid "$SB_LIMITBODY_MISSING_REACTOR"
-msgstr "함선에 반응로가 없습니다."
+msgstr "우주선에 반응로가 없습니다."
 
 msgid "$SB_LIMITBODY_MISSING_SHIELD"
-msgstr "함선에 보호막이 없습니다."
+msgstr "우주선에 보호막이 없습니다."
 
 msgid "$SB_LIMITBODY_NOT_ENOUGH_TURN_POWER"
 msgstr "기동성을 높이려면 질량을 줄이거나 엔진을 추가하세요."
@@ -5935,10 +5937,10 @@ msgid "$SB_LIMITHEADER_NOT_ENOUGH_TURN_POWER"
 msgstr "기동성 낮음"
 
 msgid "$SB_WEAPONBODY_MISSING_ASSIGNMENT"
-msgstr "함선에 무장을 할당하지 않았습니다."
+msgstr "우주선에 무장을 할당하지 않았습니다."
 
 msgid "$SB_WEAPONBODY_WEAPONS_MUST_BE_DIFFERENT"
-msgstr "함선에 할당된 무장 동력 그룹이 3 그룹 미만입니다."
+msgstr "우주선에 할당된 무장 동력 그룹이 3 그룹 미만입니다."
 
 msgid "$SB_WEAPONBODY_WEAPONS_UNASSIGNED"
 msgstr "우주선 무장은 반드시 무장 동력 그룹을 할당해야 합니다."
@@ -5995,7 +5997,7 @@ msgid "$SCANNING LANDED MUST ORBIT"
 msgstr "궤도로 이동하여 스캔"
 
 msgid "$SCANNING OUT OF RANGE"
-msgstr "함선이 스캔 범위 내에 있지 않음"
+msgstr "우주선이 스캔 범위 내에 있지 않음"
 
 msgid "$sCantSaveNow"
 msgstr "지금은 저장할 수 없습니다."
@@ -6136,16 +6138,16 @@ msgid "$SELL ALL"
 msgstr "모두 판매"
 
 msgid "$SELL FROM SHIP INVENTORY"
-msgstr "함선 물품 판매"
+msgstr "우주선 물품 판매"
 
 msgid "$SELL SHIP"
-msgstr "함선 판매"
+msgstr "우주선 판매"
 
 msgid "$SELL SHIPS"
-msgstr "함선 판매"
+msgstr "우주선 판매"
 
 msgid "$SELLFROM"
-msgstr "함선 물품 판매 -"
+msgstr "우주선 물품 판매 -"
 
 msgid "$SET COURSE"
 msgstr "항로 설정"
@@ -6526,46 +6528,47 @@ msgid "$SHIELDWT"
 msgstr "차폐됨"
 
 msgid "$SHIP"
-msgstr "함선"
+msgstr "우주선"
 
 msgid "$Ship"
-msgstr "함선"
+msgstr "우주선"
 
 msgid "$SHIP INFORMATION"
-msgstr "함선 정보"
+msgstr "우주선 정보"
 
 msgid "$Ship Overview"
-msgstr "함선 개관"
+msgstr "우주선 개관"
 
 msgid "$Ship Reticle Sensitivity"
-msgstr "함선 조준선 감도"
+msgstr "우주선 조준선 감도"
 
 msgid "$Ship Reticle Sensitivity Desc"
-msgstr "함선의 조준선 감도를 조절합니다."
+msgstr "우주선의 조준선 감도를 조절합니다."
 
 msgid "$SHIP SPECS"
-msgstr "함선 사양"
+msgstr "우주선 사양"
 
 msgid "$SHIP SYSTEMS"
-msgstr "함선 시스템"
+msgstr "우주선 시스템"
 
 msgid "$SHIP TANK"
-msgstr "함선 탱크"
+msgstr "우주선 탱크"
 
 msgid "$SHIP TOO LARGE"
-msgstr "함선 크기 초과"
+msgstr "우주선 크기 초과"
 
 msgid "$ShipBuilderNoWarningsEncountered"
 msgstr "경고 없음"
 
 msgid "$ShipBuilderUnresolvedErrors"
-msgstr "비행 점검 오류로 인해 함선 작업을 완료할 수 없습니다. 종료하면 모든 변경 사항이 취소됩니다. 함선 제작기를 종료하시겠습니까?"
+msgstr ""
+"비행 점검 오류로 인해 우주선 작업을 완료할 수 없습니다. 종료하면 모든 변경 사항이 취소됩니다. 우주선 제작기를 종료하시겠습니까?"
 
 msgid "$ShipBuilderUnresolvedErrorsTitle"
 msgstr "미해결 오류"
 
 msgid "$ShipBuilder_Add"
-msgstr "함선 제작기 (추가)"
+msgstr "우주선 제작기 (추가)"
 
 msgid "$ShipBuilder_Add_Change"
 msgstr "부품 변경"
@@ -6598,7 +6601,7 @@ msgid "$ShipBuilder_Add_Up"
 msgstr "위"
 
 msgid "$ShipBuilder_Color"
-msgstr "함선 제작기 (색상)"
+msgstr "우주선 제작기 (색상)"
 
 msgid "$ShipBuilder_Color_Accept"
 msgstr "승인"
@@ -6628,7 +6631,7 @@ msgid "$ShipBuilder_Color_PrevValue"
 msgstr "이전 가치"
 
 msgid "$ShipBuilder_Edit"
-msgstr "함선 제작기 (편집)"
+msgstr "우주선 제작기 (편집)"
 
 msgid "$ShipBuilder_Edit_Accept"
 msgstr "승인"
@@ -6652,7 +6655,7 @@ msgid "$ShipBuilder_Edit_Select"
 msgstr "부품 선택"
 
 msgid "$ShipBuilder_Empty"
-msgstr "함선 제작기 (비어 있음)"
+msgstr "우주선 제작기 (비어 있음)"
 
 msgid "$ShipBuilder_Empty_Add"
 msgstr "추가"
@@ -6691,7 +6694,7 @@ msgid "$ShipBuilder_Empty_Undo"
 msgstr "되돌리기"
 
 msgid "$ShipBuilder_ExitConfirm"
-msgstr "함선 제작기 (종료 확인)"
+msgstr "우주선 제작기 (종료 확인)"
 
 msgid "$ShipBuilder_ExitConfirm_Accept"
 msgstr "승인"
@@ -6703,7 +6706,7 @@ msgid "$ShipBuilder_ExitConfirm_Exit"
 msgstr "종료"
 
 msgid "$ShipBuilder_FlightCheck"
-msgstr "함선 제작기 (비행 점검)"
+msgstr "우주선 제작기 (비행 점검)"
 
 msgid "$ShipBuilder_FlightCheck_Accept"
 msgstr "승인"
@@ -6724,7 +6727,7 @@ msgid "$ShipBuilder_FlightCheck_Rename"
 msgstr "이름 변경"
 
 msgid "$ShipBuilder_Selection"
-msgstr "함선 제작기 (선택)"
+msgstr "우주선 제작기 (선택)"
 
 msgid "$ShipBuilder_Selection_Add"
 msgstr "추가"
@@ -6751,7 +6754,7 @@ msgid "$ShipBuilder_Selection_Undo"
 msgstr "되돌리기"
 
 msgid "$ShipBuilder_Upgrade"
-msgstr "함선 제작기 (업그레이드)"
+msgstr "우주선 제작기 (업그레이드)"
 
 msgid "$ShipBuilder_Upgrade_Accept"
 msgstr "승인"
@@ -6778,10 +6781,10 @@ msgid "$ShipBuilder_Upgrade_ZoomModelOut"
 msgstr "축소"
 
 msgid "$ShipCannotBeRemoved"
-msgstr "현재 이 함선은 제거할 수 없습니다."
+msgstr "현재 이 우주선은 제거할 수 없습니다."
 
 msgid "$ShipCannotBeSold"
-msgstr "현재 이 함선은 판매할 수 없습니다."
+msgstr "현재 이 우주선은 판매할 수 없습니다."
 
 msgid "$ShipCrewAssign"
 msgstr "{0}, 배정할 곳을 선택하세요."
@@ -6796,7 +6799,7 @@ msgid "$ShipCrewNoAssignments"
 msgstr "{0}, 현재 배정할 수 있는 곳이 없습니다."
 
 msgid "$ShipCrewNoAssignmentsTip"
-msgstr "어느 위치에 있는 승무원이든 착륙한 함선에 배정할 수 있습니다."
+msgstr "어느 위치에 있는 승무원이든 착륙한 우주선에 배정할 수 있습니다."
 
 msgid "$ShipCrewNoSpace"
 msgstr "{0}, 현재 승무원으로 배정할 수 없습니다."
@@ -6805,7 +6808,7 @@ msgid "$ShipCrewUnassign"
 msgstr "{0}, {1}에 배정한 것을 해제합니까?"
 
 msgid "$ShipFlightCam_FreeRot"
-msgstr "함선 카메라(도킹/착륙 중)"
+msgstr "우주선 카메라(도킹/착륙 중)"
 
 msgid "$ShipFlightCam_FreeRot_FOVZoomIn"
 msgstr "카메라 확대"
@@ -6814,13 +6817,13 @@ msgid "$ShipFlightCam_FreeRot_FOVZoomOut"
 msgstr "카메라 축소"
 
 msgid "$ShipHasDecorationsWarning"
-msgstr "함선을 개조하면 내부 장식이 제거됩니다."
+msgstr "우주선을 개조하면 내부 장식이 제거됩니다."
 
 msgid "$ShipHUD"
 msgstr "우주선(비행)"
 
 msgid "$ShipHUD_AltHold"
-msgstr "함선 시스템 대체 조작키 (키 길게 누르기)"
+msgstr "우주선 시스템 대체 조작키 (키 길게 누르기)"
 
 msgid "$ShipHUD_Boosters"
 msgstr "부스터 발진"
@@ -6874,19 +6877,19 @@ msgid "$ShipHUD_WeaponGroup3"
 msgstr "무장 2 발사"
 
 msgid "$ShipHUD_XButton"
-msgstr "함선 동작 1"
+msgstr "우주선 동작 1"
 
 msgid "$ShipInfo"
-msgstr "함선 정보"
+msgstr "우주선 정보"
 
 msgid "$ShipInfo_BuySell"
-msgstr "함선 정보(거래)"
+msgstr "우주선 정보(거래)"
 
 msgid "$ShipInfo_BuySell_Exit"
 msgstr "종료"
 
 msgid "$ShipInfo_BuySell_ShipTransaction"
-msgstr "함선 거래"
+msgstr "우주선 거래"
 
 msgid "$ShipInfo_BuySell_SwitchCategory"
 msgstr "구매/판매 전환"
@@ -6901,13 +6904,13 @@ msgid "$ShipInfo_Exit"
 msgstr "종료"
 
 msgid "$ShipInfo_HomeShip"
-msgstr "거점 함선"
+msgstr "거점 우주선"
 
 msgid "$ShipInfo_Inspect"
 msgstr "조사하기"
 
 msgid "$ShipInfo_Modify"
-msgstr "함선 정보(개조)"
+msgstr "우주선 정보(개조)"
 
 msgid "$ShipInfo_Modify_Crew"
 msgstr "승무원"
@@ -6916,19 +6919,19 @@ msgid "$ShipInfo_Modify_Exit"
 msgstr "종료"
 
 msgid "$ShipInfo_Modify_HomeShip"
-msgstr "거점 함선"
+msgstr "거점 우주선"
 
 msgid "$ShipInfo_Modify_ShipBuilder"
-msgstr "함선 제작기 열기"
+msgstr "우주선 제작기 열기"
 
 msgid "$ShipInfo_Modify_UpgradeShip"
 msgstr "우주선 부품 업그레이드"
 
 msgid "$ShipInfo_NextShip"
-msgstr "다음 함선"
+msgstr "다음 우주선"
 
 msgid "$ShipInfo_PreviousShip"
-msgstr "이전 함선"
+msgstr "이전 우주선"
 
 msgid "$ShipInfo_Remove"
 msgstr "제거"
@@ -6940,13 +6943,13 @@ msgid "$ShipInfo_Rotate"
 msgstr "회전"
 
 msgid "$ShipInfo_ShipTransaction"
-msgstr "함선 등록"
+msgstr "우주선 등록"
 
 msgid "$ShipIsNotOwned"
-msgstr "소유하지 않은 함선입니다."
+msgstr "소유하지 않은 우주선입니다."
 
 msgid "$ShipNotAtLandingPad"
-msgstr "함선이 착륙장에 있지 않습니다."
+msgstr "우주선이 착륙장에 있지 않습니다."
 
 msgid "$ShipPower_A"
 msgstr "A"
@@ -6964,7 +6967,7 @@ msgid "$ShipRenameHeader"
 msgstr "이름"
 
 msgid "$Ship_QuickContainer"
-msgstr "함선 빠른 보관함"
+msgstr "우주선 빠른 보관함"
 
 msgid "$Ship_QuickContainer_Down"
 msgstr "스크롤 내림"
@@ -7216,13 +7219,13 @@ msgid "$SPACEBAR)"
 msgstr "스페이스바)"
 
 msgid "$SPACESHIP EDITOR"
-msgstr "함선 편집기"
+msgstr "우주선 편집기"
 
 msgid "$SpaceshipEditor"
-msgstr "함선 편집기"
+msgstr "우주선 편집기"
 
 msgid "$SpaceshipEditorSimplified"
-msgstr "함선 제작기"
+msgstr "우주선 제작기"
 
 msgid "$SpaceshipEditorSimplified_AddEdit"
 msgstr "추가/편집/확인"
@@ -7588,7 +7591,7 @@ msgid "$SurfaceMap"
 msgstr "지표면 지도"
 
 msgid "$SurfaceMap_FastTravelShip"
-msgstr "함선으로 빠른 이동"
+msgstr "우주선으로 빠른 이동"
 
 msgid "$SURVEY"
 msgstr "환경 조사"
@@ -7663,7 +7666,7 @@ msgid "$TARGET LOCK"
 msgstr "조준 대상 락온됨"
 
 msgid "$Target Ship System"
-msgstr "함선 조준 시스템"
+msgstr "우주선 조준 시스템"
 
 msgid "$Target:"
 msgstr "대상:"
@@ -7840,7 +7843,7 @@ msgid "$Tongue"
 msgstr "혀"
 
 msgid "$TooManyOwnedShips"
-msgstr "소유 함선 목록 한도에 도달했습니다. 함선을 구매하려면 다른 함선을 판매해야 합니다."
+msgstr "소유 우주선 목록 한도에 도달했습니다. 우주선을 구매하려면 다른 우주선을 판매해야 합니다."
 
 msgid "$TOP SPEED"
 msgstr "최고 속력"
@@ -8032,7 +8035,10 @@ msgid "$UNLOCK"
 msgstr "잠금 해제:"
 
 msgid "$UNLOCK VEHICLE PROMPT"
-msgstr "차량을 이용해 행성을 탐험하세요. 구매하면 차고를 이용할 수 있으며 자동으로 함선에 REV-8이 탑재됩니다.\n\n{1} 크레딧으로 구매하시겠습니까?"
+msgstr ""
+"차량을 이용해 행성을 탐험하세요. 구매하면 차고를 이용할 수 있으며 자동으로 우주선에 REV-8이 탑재됩니다.\n"
+"\n"
+"{1} 크레딧으로 구매하시겠습니까?"
 
 msgid "$UnlockedWithKey"
 msgstr "{1} 이용해 잠금 해제함."
@@ -8059,7 +8065,7 @@ msgid "$UNSELECT"
 msgstr "선택 해제"
 
 msgid "$UNSHIELDED CONTRABAND"
-msgstr "함선에 밀수품 있음"
+msgstr "우주선에 밀수품 있음"
 
 msgid "$Unsorted"
 msgstr "정렬 없음"
@@ -8092,7 +8098,7 @@ msgid "$UPDATED"
 msgstr "업데이트 완료"
 
 msgid "$UPGRADE_SHIP"
-msgstr "함선 업그레이드"
+msgstr "우주선 업그레이드"
 
 msgid "$UPLOAD SAVE"
 msgstr "저장 파일 업로드"
@@ -8180,8 +8186,8 @@ msgstr "차량"
 
 msgid "$VEHICLE UNLOCKED MESSAGE"
 msgstr ""
-"이제 차량을 이용할 수 있습니다. REV-8은 함선이 착륙하면 자동으로 함선 옆에 배치됩니다. 주요 우주항에 있는 우주선 정비 기술자를 "
-"방문하여 차량을 관리하세요."
+"이제 차량을 이용할 수 있습니다. REV-8은 우주선이 착륙하면 자동으로 우주선 옆에 배치됩니다. 주요 우주항에 있는 우주선 정비 "
+"기술자를 방문하여 차량을 관리하세요."
 
 msgid "$Vehicle_VehicleBoost"
 msgstr "부스터"
@@ -8603,11 +8609,12 @@ msgid "$Settings_Quality_VeryLow"
 msgstr "매우 낮음"
 
 msgid "$Ship Builder Enable Loose Rules"
-msgstr "함선 제작기 부품 교체 적용 판정 완화"
+msgstr "우주선 제작기 부품 교체 적용 판정 완화"
 
 msgid "$Ship Builder Enable Loose Rules Desc"
 msgstr ""
-"함선 제작기 메뉴에서 구조재 부품의 외형 교체시 부착되는 판정(Flip Merge)을 완화해 더 다양한 커스터마이징을 할 수 있게 합니다."
+"우주선 제작기 메뉴에서 구조재 부품의 외형 교체시 부착되는 판정(Flip Merge)을 완화해 더 다양한 커스터마이징을 할 수 있게 "
+"합니다."
 
 # Interface strings added from Starfield 1.16.244 template.
 msgid "$Achievement Friendly_PS"
@@ -8796,13 +8803,13 @@ msgid "$Flawless"
 msgstr "완벽함"
 
 msgid "$Flight Control Roll Dominant_Desc_PS"
-msgstr "함선 비행 시 좌우 스틱의 롤과 요 조작을 서로 바꿉니다."
+msgstr "우주선 비행 시 좌우 스틱의 롤과 요 조작을 서로 바꿉니다."
 
 msgid "$Flight Control Stick Swap_PS"
 msgstr "비행 조종간 바꾸기"
 
 msgid "$Flight Control Stick Swap_Desc_PS"
-msgstr "함선 비행 시 좌우 스틱을 서로 바꿉니다."
+msgstr "우주선 비행 시 좌우 스틱을 서로 바꿉니다."
 
 msgid "$FREESPACE"
 msgstr "자유 항로"
@@ -9102,7 +9109,7 @@ msgid "$Settings_LandingCamera"
 msgstr "착륙 카메라 항상 표시"
 
 msgid "$Settings_LandingCamera_Desc"
-msgstr "플레이어 함선이 착륙할 때 착륙 카메라를 항상 표시합니다."
+msgstr "플레이어 우주선이 착륙할 때 착륙 카메라를 항상 표시합니다."
 
 msgid "$Settings_VisualFidelity_PS5Pro Desc"
 msgstr "프레임 레이트 목표를 유지하면서 우선순위를 설정합니다.\\n\\n성능: 내부 해상도와 특수 효과, 조명, 군중의 세부 표현을 낮춰 성능을 우선합니다. 프레임 레이트 목표를 60 이상으로 선택했을 때 사용해야 합니다.\\n\\n비주얼: 높은 수준의 특수 효과, 조명, 군중 세부 표현을 유지하면서 최고 해상도를 유지해 비주얼을 우선합니다. 프레임 레이트 목표가 60 이상일 때는 권장하지 않습니다.\\n\\n강화: PS5 Pro 하드웨어를 활용해 시각적 세부 표현을 극대화하고, 특수 효과, 조명, 군중의 전체 세부 표현을 유지하면서 최고 해상도를 유지합니다. 프레임 레이트 목표가 60 이상일 때는 권장하지 않습니다."
@@ -9117,7 +9124,7 @@ msgid "$Sharpened"
 msgstr "예리함"
 
 msgid "$ShipCrewUpgradeCommandLevel"
-msgstr "더 많은 승무원을 배치하려면 함선 지휘 스킬 레벨을 올리십시오."
+msgstr "더 많은 승무원을 배치하려면 우주선 지휘 스킬 레벨을 올리십시오."
 
 msgid "$ShipHUD_Cruise"
 msgstr "순항"

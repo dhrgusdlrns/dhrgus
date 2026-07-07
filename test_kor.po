@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-26 16:17+0900\n"
-"PO-Revision-Date: 2026-05-23 17:49+0000\n"
+"PO-Revision-Date: 2026-07-07 13:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -278,7 +278,7 @@ msgstr "스콜피우스"
 # List: 0, EDID: LC132_Spacers_Ship_Template, REC: GBFM:FULL
 msgctxt "007832"
 msgid "Crimson Fleet Ship"
-msgstr "크림슨 함대 함선"
+msgstr "크림슨 함대 우주선"
 
 # List: 0, EDID: Fighter_A_Stroud_Trebuchet01_Template, REC: GBFM:FULL
 msgctxt "007845"
@@ -293,7 +293,7 @@ msgstr "인공위성"
 # List: 0, EDID: GovHurstShip01_Template, REC: GBFM:FULL
 msgctxt "00787F"
 msgid "Governor Hurst's Ship"
-msgstr "허스트 총독의 함선"
+msgstr "허스트 총독의 우주선"
 
 # List: 0, EDID: Stolen_HopeTechShip01_Template, REC: GBFM:FULL
 msgctxt "007883"
@@ -368,7 +368,7 @@ msgstr "전초기지 궤도 방어시설"
 # List: 0, EDID: UC01_SimEnemyShipModular_Template, REC: GBFM:FULL
 msgctxt "007A0D"
 msgid "Simulated Opponent"
-msgstr "가상 함선"
+msgstr "가상 우주선"
 
 # List: 0, EDID: Destroyer_B_Deimos_Phalanx02_Template, REC: GBFM:FULL
 msgctxt "007A62"
@@ -519,7 +519,7 @@ msgstr "스타본 가디언 II"
 # List: 0, EDID: DefaultBuildableShip, REC: GBFM:FULL
 msgctxt "007C54"
 msgid "Default Player Ship"
-msgstr "기본 플레이어 함선"
+msgstr "기본 플레이어 우주선"
 
 # List: 0, EDID: Combat_A_Generic_Raptor01_Template, REC: GBFM:FULL
 msgctxt "007C72"
@@ -1527,17 +1527,17 @@ msgstr "입자 포탑"
 # List: 0, EDID: CF05_LC043_PrototypeShip01_Template, REC: GBFM:FULL
 msgctxt "0326F8"
 msgid "Prototype Ship"
-msgstr "시제품 함선"
+msgstr "시제품 우주선"
 
 # List: 0, EDID: CF05_LC043_PrototypeShip02_Template, REC: GBFM:FULL
 msgctxt "0326F9"
 msgid "Prototype Ship"
-msgstr "시제품 함선"
+msgstr "시제품 우주선"
 
 # List: 0, EDID: CF05_LC043_PrototypeShip03_Template, REC: GBFM:FULL
 msgctxt "0326FA"
 msgid "Prototype Ship"
-msgstr "시제품 함선"
+msgstr "시제품 우주선"
 
 # List: 0, EDID: Asp_Cargo_A_Generic_MULE_Marathon_Template, REC: GBFM:FULL
 msgctxt "032823"

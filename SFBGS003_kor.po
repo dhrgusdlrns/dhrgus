@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2026-06-22 13:11+0000\n"
+"PO-Revision-Date: 2026-07-07 13:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -83,7 +83,7 @@ msgstr "재고"
 #. REC = TMLM:ITXT
 msgctxt "000003"
 msgid "Ship Logs"
-msgstr "함선 기록"
+msgstr "우주선 기록"
 
 #. EDID = SFBGS003_ChopShop_ShipComputer_Menu
 #. REC = TMLM:FULL
@@ -145,7 +145,7 @@ msgid "              -----------------------------------------------------------
 msgstr ""
 "-----------------------------------------------------------------------------"
 "-\n"
-"주의: 이 메뉴는 ::B급:: 함선 기술자 이상만 사용할 수 있습니다.\n"
+"주의: 이 메뉴는 ::B급:: 우주선 기술자 이상만 사용할 수 있습니다.\n"
 "\n"
 "이 메뉴에 접속한 기록이 저장되었으며, 우주선 보증서가 무효화되었습니다.\n"
 "-----------------------------------------------------------------------------"
@@ -244,7 +244,7 @@ msgstr ""
 "\n"
 "도처에 널려 있다고 생각했던 물건을 구하기가 이렇게 힘들었을 줄이야!\n"
 "\n"
-"다행히도 인근 함선이 우리의 통신을 수신했고 안드로마스 근처 우주정거장으로 예인해주겠다고 했다.\n"
+"다행히도 인근 우주선이 우리의 통신을 수신했고 안드로마스 근처 우주정거장으로 예인해주겠다고 했다.\n"
 "\n"
 "영영 고립될 것이라 우려했지만, 역시 좋은 일을 하면 복이 온다는 말이 맞는 것 같다."
 
@@ -276,7 +276,7 @@ msgstr "SOS"
 #. REC = TMLM:FULL
 msgctxt "000018"
 msgid "Ship Logs"
-msgstr "함선 기록"
+msgstr "우주선 기록"
 
 #. EDID = SFBGS003_ChopShop_ShipComputer_SubMenu_Weapons
 #. REC = TMLM:ITXT
@@ -532,9 +532,12 @@ msgstr ""
 "\n"
 "- 디크\n"
 "\n"
-"-------------------------------------------------------------------------------------------------\n"
+"-----------------------------------------------------------------------------"
+"--------------------\n"
 "\n"
-"A 격납고에서 누가 청크를 먹었는지는 모르겠지만, 샨티가 돌핀의 개방 구획 칸 안쪽에서 치즈 스테이크와 카베르네 청키뇽 조각이 붙어 있는 걸 발견했다. 무장 시스템에 단락이 발생할 수도 있었다. 함선을 발사하기 전에 청소를 안 했으면 우리 모두 끝장날뻔했다고! 지난번 사고 사진을 꺼내 보이게 만들지 마라.\n"
+"A 격납고에서 누가 청크를 먹었는지는 모르겠지만, 샨티가 돌핀의 개방 구획 칸 안쪽에서 치즈 스테이크와 카베르네 청키뇽 조각이 붙어 있는 "
+"걸 발견했다. 무장 시스템에 단락이 발생할 수도 있었다. 우주선을 발사하기 전에 청소를 안 했으면 우리 모두 끝장날뻔했다고! 지난번 사고 "
+"사진을 꺼내 보이게 만들지 마라.\n"
 "\n"
 "- 한니발"
 
@@ -572,7 +575,7 @@ msgstr "개인 통신문"
 #. REC = OMOD:FULL
 msgctxt "000034"
 msgid "ShipBreaker Skin"
-msgstr "함선분쇄 스킨"
+msgstr "우주선분쇄 스킨"
 
 #. EDID = mod_AVM_MagStorm_SFBGS003_MantisVariant
 #. REC = OMOD:FULL
@@ -949,7 +952,7 @@ msgstr "추적자 동맹 본부"
 #. REC = TERM:FULL
 msgctxt "00047A"
 msgid "Ship Computer"
-msgstr "함선 컴퓨터"
+msgstr "우주선 컴퓨터"
 
 #. EDID = SFTA00_JunkerShipKey
 #. REC = KEYM:FULL
@@ -961,7 +964,7 @@ msgstr "고물 워치독 열쇠"
 #. REC = KEYM:FULL
 msgctxt "00047C"
 msgid "Sunsail Ship Key"
-msgstr "선세일 함선 열쇠"
+msgstr "선세일 우주선 열쇠"
 
 #. EDID = SFTA00_Deke
 #. REC = NPC_:SHRT
@@ -1157,7 +1160,10 @@ msgstr ""
 "완료: 개조 및 업그레이드 완료됨\n"
 "\n"
 "참고 사항:\n"
-"구매자가 되게 급해서 급히 처리하는 추가 비용을 지불했어. 매우 신중하더라. 이런 함선은 처음 봤어. 지금까지 우리 작업장 같은 곳 여러 군데를 거치다 왔겠지. 솔직히 말해서, 긴급 주문인 게 다행이었어. 구매자들이 좀 무섭더라고. 뭔가 레이저리프에 견줄 만한 우주선을 원한다고 하더라. 그게 뭐가 되든 말이야. 일단 그게 뭔지는 몰라도 할 수 있다고 했어. 돈은 문제없이 준다고 했으니까, 그냥 원하는 대로 다 해줬어. 그랬더니 구매자들이 만족한 것 같더라."
+"구매자가 되게 급해서 급히 처리하는 추가 비용을 지불했어. 매우 신중하더라. 이런 우주선은 처음 봤어. 지금까지 우리 작업장 같은 곳 "
+"여러 군데를 거치다 왔겠지. 솔직히 말해서, 긴급 주문인 게 다행이었어. 구매자들이 좀 무섭더라고. 뭔가 레이저리프에 견줄 만한 우주선을 "
+"원한다고 하더라. 그게 뭐가 되든 말이야. 일단 그게 뭔지는 몰라도 할 수 있다고 했어. 돈은 문제없이 준다고 했으니까, 그냥 원하는 "
+"대로 다 해줬어. 그랬더니 구매자들이 만족한 것 같더라."
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs
 #. REC = TMLM:ITXT
@@ -1223,9 +1229,14 @@ msgstr ""
 "진행 중: 격납고 B에서 분해 준비 중\n"
 "\n"
 "참고 사항:\n"
-"안톤이 미사일 포드에서 문제를 발견했어. 전원을 차단한 후에도 자기 클램프 해제가 안 된대. 니클라스 말로는 배선을 다시 연결하면 해결할 수 있을 거 같다는데, 그래도 폭발할 경우를 대비해서 포드를 상부 운송용 수직 통로로 옮기는 게 좋겠어. 이렇게 하면 (훨씬 덜 저렴하게) 찹샵 측면에 구멍을 뚫는 대신 (훨씬 저렴하게 수리할 수 있게) 상단 적재 구획에만 구멍을 뚫을 수 있어. 니클라스는 잘될 거 같다고 했지만, 시간이 좀 더 필요하대. 나는 밖에서 하는 게 나을 거라고 제안했는데, 이미 엔진 분해를 시작했고, 견인 장치도 고장 나서 함선이 격납고에 있어야 한다고 했어.\n"
+"안톤이 미사일 포드에서 문제를 발견했어. 전원을 차단한 후에도 자기 클램프 해제가 안 된대. 니클라스 말로는 배선을 다시 연결하면 해결할 "
+"수 있을 거 같다는데, 그래도 폭발할 경우를 대비해서 포드를 상부 운송용 수직 통로로 옮기는 게 좋겠어. 이렇게 하면 (훨씬 덜 저렴하게)"
+" 찹샵 측면에 구멍을 뚫는 대신 (훨씬 저렴하게 수리할 수 있게) 상단 적재 구획에만 구멍을 뚫을 수 있어. 니클라스는 잘될 거 같다고 "
+"했지만, 시간이 좀 더 필요하대. 나는 밖에서 하는 게 나을 거라고 제안했는데, 이미 엔진 분해를 시작했고, 견인 장치도 고장 나서 "
+"우주선이 격납고에 있어야 한다고 했어.\n"
 "\n"
-"그때까지, 니클라스는 누구도 미사일을 실수로 발사 못 하게 함선을 잠가둘 거래. 열쇠는 '안전한 곳'에 보관할 거야. 안전한 곳이라고 해 봤자, 아마 니클라스의 사물함에 있겠지만."
+"그때까지, 니클라스는 누구도 미사일을 실수로 발사 못 하게 우주선을 잠가둘 거래. 열쇠는 '안전한 곳'에 보관할 거야. 안전한 곳이라고 "
+"해 봤자, 아마 니클라스의 사물함에 있겠지만."
 
 #. EDID = SFBGS003_ChopShop_ControlRoomComputer_SubMenu_Logs
 #. REC = TMLM:ITXT
@@ -1925,13 +1936,13 @@ msgstr "대행인 1호에게 돌아가기"
 #. REC = QUST:NNAM
 msgctxt "0008A6"
 msgid "Claim the Junker Watchdog Ship"
-msgstr "고물 워치독 함선 획득하기"
+msgstr "고물 워치독 우주선 획득하기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008A7"
 msgid "(Optional) Take the Shipbreaker Cutter"
-msgstr "(선택) 함선분쇄 절단기 가져가기"
+msgstr "(선택) 우주선분쇄 절단기 가져가기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
@@ -1961,13 +1972,13 @@ msgstr "미사일 포드 발사하기"
 #. REC = QUST:NNAM
 msgctxt "0008AC"
 msgid "Find the Sunsail Ship Key"
-msgstr "선세일 함선 열쇠 찾기"
+msgstr "선세일 우주선 열쇠 찾기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008AD"
 msgid "Find Information on Accessing the Sunsail Ship"
-msgstr "선세일 함선에 접속하는 방법에 대한 정보 찾기"
+msgstr "선세일 우주선에 접속하는 방법에 대한 정보 찾기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
@@ -2015,13 +2026,13 @@ msgstr "찹샵을 찾아서 접근하기"
 #. REC = QUST:NNAM
 msgctxt "0008B5"
 msgid "Take the Decoy Ship to the Chop Shop"
-msgstr "위장용 함선을 타고 찹샵으로 이동하기"
+msgstr "위장용 우주선을 타고 찹샵으로 이동하기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
 msgctxt "0008B6"
 msgid "Board the Decoy Ship"
-msgstr "위장용 함선에 탑승하기"
+msgstr "위장용 우주선에 탑승하기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
@@ -2122,14 +2133,18 @@ msgid "Don't worry. I already found us a buyer. Some stupid shopkeeper in Cydoni
 "\n"
 "-Hannibal"
 msgstr ""
-"걱정 마. 이미 구매자를 찾았어. 시도니아의 어느 멍청한 상점 주인이 우리 수중에 있는 그 매물을 사기 위해 평생 모은 돈을 다 쏟아부었거든. 완전히 기뻐했고 별다른 질문도 안 했어. 심지어 내 이름도 묻지 않더라. 그러니 적어도 우리에게는 문제없을 거 같아. 분명히 누군가 저 함선을 찾으러 올 거야. 함선 찾아오는 사람은 걱정할 필요 없어서 다행이야.\n"
+"걱정 마. 이미 구매자를 찾았어. 시도니아의 어느 멍청한 상점 주인이 우리 수중에 있는 그 매물을 사기 위해 평생 모은 돈을 다 "
+"쏟아부었거든. 완전히 기뻐했고 별다른 질문도 안 했어. 심지어 내 이름도 묻지 않더라. 그러니 적어도 우리에게는 문제없을 거 같아. "
+"분명히 누군가 저 우주선을 찾으러 올 거야. 우주선 찾아오는 사람은 걱정할 필요 없어서 다행이야.\n"
 "\n"
 "\n"
 "- 디크\n"
 "\n"
 "-------------------------------------------------------------------------\n"
 "\n"
-"어떤 놈이 자기가 성계 방위군에게 발각됐을지도 모른다고 했어. 우리가 저 이상한 맞춤 개조 화물선을 훔쳤을 때 말이야. 그리고 이거 너무 커서 격납고에 넣기 힘들어. 그래서 연마도색 작업에는 제약이 있을 거야. 손해를 줄이고 빨리 처분하는 게 최선이야. 가격은 신경 안 쓸게. 그냥 얼른 치워버려.\n"
+"어떤 놈이 자기가 성계 방위군에게 발각됐을지도 모른다고 했어. 우리가 저 이상한 맞춤 개조 화물선을 훔쳤을 때 말이야. 그리고 이거 너무 "
+"커서 격납고에 넣기 힘들어. 그래서 연마도색 작업에는 제약이 있을 거야. 손해를 줄이고 빨리 처분하는 게 최선이야. 가격은 신경 안 "
+"쓸게. 그냥 얼른 치워버려.\n"
 "\n"
 "- 한니발"
 
@@ -2449,7 +2464,7 @@ msgstr "극한 온도 진입용"
 #. REC = MESG:FULL
 msgctxt "000927"
 msgid "Shipbreaker's Cutter"
-msgstr "함선분쇄 절단기"
+msgstr "우주선분쇄 절단기"
 
 #. EDID = SFTA00
 #. REC = QUST:NNAM
@@ -8885,7 +8900,7 @@ msgstr "센서 탐지 대상"
 #. REC = REFR:FULL
 msgctxt "00F56C"
 msgid "Governor Hurst's Ship"
-msgstr "허스트 총독의 함선"
+msgstr "허스트 총독의 우주선"
 
 #. EDID = CydoniaCity
 #. REC = WRLD:FULL
@@ -9237,7 +9252,7 @@ msgstr "아쉬타 투기장 운영"
 #. REC = MESG:DESC
 msgctxt "00006E"
 msgid "Selling fake \"used ship\" warranties"
-msgstr "가짜 '중고 함선' 보증 판매"
+msgstr "가짜 '중고 우주선' 보증 판매"
 
 #. EDID = SFBGS003_BountyCrime_74
 #. REC = MESG:DESC
@@ -9555,7 +9570,7 @@ msgstr "전초기지에 외계 폐기물을 감자로 속여 판매"
 #. REC = MESG:DESC
 msgctxt "0000A7"
 msgid "Soliciting ships with fraudulent \"extended warranty\" offers"
-msgstr "사기성 '보증 연장'을 제안하며 함선을 판매"
+msgstr "사기성 '보증 연장'을 제안하며 우주선을 판매"
 
 #. EDID = SFBGS003_BountyCrime_43
 #. REC = MESG:DESC
@@ -9752,7 +9767,7 @@ msgstr ""
 "버사 몬두\n"
 "스페이서들의 잦은 공격이 버사의 농가를 괴롭혔고, 버사는 이를 방어하며 유명해졌다. 버사가 외부 세계 전초기지에서 물자를 모으고 있던 "
 "어느 날 스페이서들이 버사의 일가족을 몰살했다. 버사는 복수를 이루고 관련자들을 법의 심판대에 세운 후, 다른 도주범과 범죄자들에게 "
-"시선을 돌렸다. 버사는 팔콘이라 불리는 큰 함선을 훔쳐 추적자 동맹의 첫 번째 이동 기지를 구축했다.\n"
+"시선을 돌렸다. 버사는 팔콘이라 불리는 큰 우주선을 훔쳐 추적자 동맹의 첫 번째 이동 기지를 구축했다.\n"
 "\n"
 "노봉차\n"
 "고용주가 보수를 주지 않고 봉차를 잡아 제거하려 하기 전까지 봉차는 지금은 해체된 아우토미카 회사의 암살자였다. 봉차는 상황을 뒤집고, "
@@ -9948,25 +9963,30 @@ msgstr "나는 한니발을 잡는 데에 실패했다. 로치가 나를 보증�
 #. REC = QUST:CNAM
 msgctxt "0008C0"
 msgid "We have a ship that technically works, but barely. We'll have to report back to Agent No. 1 at the Trackers Alliance HQ and tell them we failed to catch our target."
-msgstr "기술적으로는 작동하지만, 간신히 동작만 하는 함선이 있다. 추적자 동맹 본부의 대행인 1호에게 보고해서 수배범을 잡지 못했다고 말해야겠다."
+msgstr ""
+"기술적으로는 작동하지만, 간신히 동작만 하는 우주선이 있다. 추적자 동맹 본부의 대행인 1호에게 보고해서 수배범을 잡지 못했다고 "
+"말해야겠다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
 msgctxt "0008C1"
 msgid "I got the key to the junker ship, and the other things Hannibal left behind for me. Time to claim the ship and get out of here."
-msgstr "고물선과 한니발이 남긴 다른 물건들을 찾았다. 이제 함선을 되찾아서 여길 떠날 시간이다."
+msgstr "고물선과 한니발이 남긴 다른 물건들을 찾았다. 이제 우주선을 되찾아서 여길 떠날 시간이다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
 msgctxt "0008C2"
 msgid "Hannibal got away with our ship. He was Adrastos the whole time. At least he left us a junker ship so we won't be stranded, along with some other toys. We should grab those and get out of here."
-msgstr "한니발이 우리 함선을 훔쳐서 도망쳤다. 아드라스토스가 한니발이었다. 그래도 한니발은 다른 장난감들과 함께 좌초되지 않도록 고물선을 남겨뒀다. 그 고물선을 챙겨서 여기서 나가야겠다."
+msgstr ""
+"한니발이 우리 우주선을 훔쳐서 도망쳤다. 아드라스토스가 한니발이었다. 그래도 한니발은 다른 장난감들과 함께 좌초되지 않도록 고물선을 "
+"남겨뒀다. 그 고물선을 챙겨서 여기서 나가야겠다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
 msgctxt "0008C3"
 msgid "That wasn't Hannibal after all. It was his underling, Deke, pretending to be Hannibal. The real Hannibal was Adrastos all along, and he got away with our ship!"
-msgstr "그 녀석은 한니발이 아니었다. 한니발의 부하 디크가 한니발인 척한 거였다. 아드라스토스가 진짜 한니발이였고, 우리 함선을 훔쳐 도망쳤다!"
+msgstr ""
+"그 녀석은 한니발이 아니었다. 한니발의 부하 디크가 한니발인 척한 거였다. 아드라스토스가 진짜 한니발이였고, 우리 우주선을 훔쳐 도망쳤다!"
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -9978,31 +9998,37 @@ msgstr "한니발을 찾았고, 한니발은 즉시 항복했다. 한니발과 �
 #. REC = QUST:CNAM
 msgctxt "0008C5"
 msgid "We were able to get inside the Sunsail ship in Hangar B and fired the detached missile pod wired up to it. It blew a hole that will allow us to access the loading bay."
-msgstr "B 격납고에 있는 선세일 함선 안으로 들어가서 미사일 포드를 분리해서 발사했다. 적재 구획에 접근할 수 있는 구멍이 생겼다."
+msgstr "B 격납고에 있는 선세일 우주선 안으로 들어가서 미사일 포드를 분리해서 발사했다. 적재 구획에 접근할 수 있는 구멍이 생겼다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
 msgctxt "0008C6"
 msgid "I've got the key to the Sunsail ship in Hangar B. We can use it to get on board and fire the missile pod that will hopefully give us another way into the loading bay."
-msgstr "B 격납고에 있는 선세일 함선의 열쇠를 찾았다. 이 열쇠로 선세일 함선에 탑승해서 미사일 포드를 발사하면 적재 구획으로 들어갈 수 있을 것이다."
+msgstr ""
+"B 격납고에 있는 선세일 우주선의 열쇠를 찾았다. 이 열쇠로 선세일 우주선에 탑승해서 미사일 포드를 발사하면 적재 구획으로 들어갈 수 "
+"있을 것이다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
 msgctxt "0008C7"
 msgid "We found out that there's a key to the Sunsail ship in Hangar B. We can find the key in the living quarters that will let us get inside."
-msgstr "B 격납고에 선세일 함선의 열쇠가 있다는 걸 알아냈다. 거주 구역에서 함선 열쇠를 찾으면 함선 안으로 들어갈 수 있을 것이다."
+msgstr ""
+"B 격납고에 선세일 우주선의 열쇠가 있다는 걸 알아냈다. 거주 구역에서 우주선 열쇠를 찾으면 우주선 안으로 들어갈 수 있을 것이다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
 msgctxt "0008C8"
 msgid "The ship connected to the missile pod is locked up. We'll need to find a key. Roach thinks we may find some information about it in the control room."
-msgstr "미사일 포드가 연결돼 있는 함선이 잠겨 있다. 함선 열쇠를 찾아야 한다. 로치가 제어실에서 정보를 찾을 수 있을 거라고 했다."
+msgstr ""
+"미사일 포드가 연결돼 있는 우주선이 잠겨 있다. 우주선 열쇠를 찾아야 한다. 로치가 제어실에서 정보를 찾을 수 있을 거라고 했다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
 msgctxt "0008C9"
 msgid "It looks like there's a detached missile pod that's still connected to its ship. If we can enter the ship, we might be able to use it to blow a hole in the wall and get to Hannibal."
-msgstr "미사일 포드가 분리된 채 함선에 연결되어 있는 것 같다. 함선에 들어갈 수 있다면 그걸 이용해 벽에 구멍을 뚫고 한니발에게 갈 수 있을 것이다."
+msgstr ""
+"미사일 포드가 분리된 채 우주선에 연결되어 있는 것 같다. 우주선에 들어갈 수 있다면 그걸 이용해 벽에 구멍을 뚫고 한니발에게 갈 수 "
+"있을 것이다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10028,13 +10054,15 @@ msgstr "로치와 나는 찹샵에 승선했다. 찹샵은 중력이 차단된 �
 #. REC = QUST:CNAM
 msgctxt "0008CD"
 msgid "We're docked with the chop shop. Adrastos is going to remain bound on board our ship while Roach and I head into the Chop Shop to find Hannibal."
-msgstr "찹샵에 도킹했다. 로치와 나는 함선에 아드라스토스를 묶어 두고 한니발을 찾기 위해 찹샵으로 향할 것이다."
+msgstr "찹샵에 도킹했다. 로치와 나는 우주선에 아드라스토스를 묶어 두고 한니발을 찾기 위해 찹샵으로 향할 것이다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
 msgctxt "0008CE"
 msgid "Lucky for us, the Chop Shop seems to have been expecting Adrastos, and has granted us clearance to dock with the station. We should waste no time docking with it."
-msgstr "운 좋게도, 찹샵 쪽에서는 함선에 아드라스토스가 탑승한 것으로 착각해서, 정거장에 도킹할 수 있게 허가해 줬다. 도킹하는 데 시간을 낭비하지 말자."
+msgstr ""
+"운 좋게도, 찹샵 쪽에서는 우주선에 아드라스토스가 탑승한 것으로 착각해서, 정거장에 도킹할 수 있게 허가해 줬다. 도킹하는 데 시간을 "
+"낭비하지 말자."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -10052,7 +10080,9 @@ msgstr "한니발의 찹샵에 잠입할 우주선을 찾았다. 안드로마스
 #. REC = QUST:CNAM
 msgctxt "0008D1"
 msgid "Roach has updated his plan with the information we gathered from Adrastos. We're going to use a ship Roach acquired to approach the Chop Shop, and Adrastos is going to help us get aboard."
-msgstr "로치가 아드라스토스를 통해 수집한 정보를 바탕으로 계획을 수정했다. 로치가 확보한 함선을 이용해 찹샵에 접근하면, 아드라스토스가 탑승하는 걸 도와주기로 했다."
+msgstr ""
+"로치가 아드라스토스를 통해 수집한 정보를 바탕으로 계획을 수정했다. 로치가 확보한 우주선을 이용해 찹샵에 접근하면, 아드라스토스가 "
+"탑승하는 걸 도와주기로 했다."
 
 #. EDID = SFTA00
 #. REC = QUST:CNAM
@@ -13039,7 +13069,7 @@ msgstr "이대로 우리가 우주 밖으로 빨려 나갈 확률도 약간 있�
 #. REC = INFO:NAM1
 msgctxt "0001EF"
 msgid "This thing's still hooked up to the ship it came from. I bet if we can get on board, we can fire it and punch a hole through to the other side."
-msgstr "이 물건은 아직 그 함선과 연결되어 있을 거야. 함선 안에 들어가서 발사하기만 하면, 반대편으로 통하는 길을 뚫어 주겠지."
+msgstr "이 물건은 아직 그 우주선과 연결되어 있을 거야. 우주선 안에 들어가서 발사하기만 하면, 반대편으로 통하는 길을 뚫어 주겠지."
 
 #. SCRIPT NOTES: Disbelief / to Player Default
 #. ALIAS: Roach
@@ -13429,7 +13459,7 @@ msgstr "알겠어. 좋아. 디크. 넌 우리와 함께 간다."
 #. REC = INFO:NAM1
 msgctxt "000216"
 msgid "Take him back to our ship. We'll let the authorities sort this out."
-msgstr "녀석을 우리 함선으로 끌고 가자. 어떻게 할지는 당국이 결정하겠지."
+msgstr "녀석을 우리 우주선으로 끌고 가자. 어떻게 할지는 당국이 결정하겠지."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Roach
@@ -13469,7 +13499,7 @@ msgstr "정말? 창문 바깥 좀 봐 봐. 아까 보니까 한니발이 수갑�
 #. REC = INFO:NAM1
 msgctxt "00021A"
 msgid "No problem. Adrastos... er... Hannibal is already on our ship in handcuffs."
-msgstr "그럼 문제없네. 아드라스토스... 아니... 한니발에게 수갑을 채워서 우리 함선 안에 가둬뒀거든."
+msgstr "그럼 문제없네. 아드라스토스... 아니... 한니발에게 수갑을 채워서 우리 우주선 안에 가둬뒀거든."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Deke
@@ -13669,7 +13699,7 @@ msgstr "찹샵이 바로 이 근처에 있을 거야. 녀석들이 먼저 교신
 #. REC = INFO:NAM1
 msgctxt "00022E"
 msgid "The ship's parked at the spaceport. You'll be the one in the pilot's seat so I can keep an eye on our good buddy Adrastos. Let's wrap this one up nice and quick."
-msgstr "함선은 우주항에 착륙해 있어. 네가 조종석에 앉아. 나는 우리 친구 아드라스토스를 지켜볼 테니. 일을 깔끔하게 해결해 보자고."
+msgstr "우주선은 우주항에 착륙해 있어. 네가 조종석에 앉아. 나는 우리 친구 아드라스토스를 지켜볼 테니. 일을 깔끔하게 해결해 보자고."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Roach
@@ -13739,7 +13769,8 @@ msgstr "지나치게 일이 쉬워진 것 같지만, 우리한테 다른 선택�
 #. REC = INFO:NAM1
 msgctxt "000235"
 msgid "See, the last guy I took in wound up dead and unknowingly donated his ship. It's a nice ride, and the parts are valuable."
-msgstr "그게, 내가 마지막으로 잡았던 놈이 결국 죽어서 얼떨결에 나한테 함선을 기증하게 됐거든. 꽤 좋은 배야. 비싼 부품들이 달려있더라고."
+msgstr ""
+"그게, 내가 마지막으로 잡았던 놈이 결국 죽어서 얼떨결에 나한테 우주선을 기증하게 됐거든. 꽤 좋은 배야. 비싼 부품들이 달려있더라고."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Roach
@@ -13759,7 +13790,7 @@ msgstr "게다가 나한테 더 좋은 배가 있어."
 #. REC = INFO:NAM1
 msgctxt "000237"
 msgid "Settle down. I have no intention of risking your ship when you're not even a full Tracker yet."
-msgstr "진정해. 아직 정식 추적자가 되지도 않았는데 네 함선을 위험한 곳에 끌고 가라고 하진 않을 거니까."
+msgstr "진정해. 아직 정식 추적자가 되지도 않았는데 네 우주선을 위험한 곳에 끌고 가라고 하진 않을 거니까."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Roach
@@ -13769,7 +13800,7 @@ msgstr "진정해. 아직 정식 추적자가 되지도 않았는데 네 함선�
 #. REC = INFO:NAM1
 msgctxt "000238"
 msgid "I hope you're not suggesting we use my ship."
-msgstr "설마 지금 내 함선을 타고 가자는 뜻은 아니겠지?"
+msgstr "설마 지금 내 우주선을 타고 가자는 뜻은 아니겠지?"
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Roach
@@ -13789,7 +13820,9 @@ msgstr "이 계획이 맘에 들어?"
 #. REC = INFO:NAM1
 msgctxt "00023A"
 msgid "Now, if we show up in my ship, we'll lose the element of surprise. I'd rather keep our cards close to our chest. Gives Hannibal less chance to escape."
-msgstr "자, 그냥 내 함선을 타고 가면 기습적 우위를 잃게 될 거야. 우리 패를 녀석들이 훤히 들여다보게 만드는 건 피해야지. 그래야 한니발의 탈출 가능성도 작아질 테고."
+msgstr ""
+"자, 그냥 내 우주선을 타고 가면 기습적 우위를 잃게 될 거야. 우리 패를 녀석들이 훤히 들여다보게 만드는 건 피해야지. 그래야 한니발의 "
+"탈출 가능성도 작아질 테고."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Hannibal
@@ -15022,7 +15055,7 @@ msgstr "우리의 새 신참 아니신가."
 #. REC = INFO:NAM1
 msgctxt "0002B6"
 msgid "Good work out there, but don't let it go to your head or you'll end up like me."
-msgstr "행운이 있길 바라. 그리고 그 행운 때문에 멋모르고 나서다 나처럼 되지 말고."
+msgstr "행운이 있었으면 좋겠어. 그리고 그 행운 때문에 멋모르고 나서다 나처럼 되지 말고."
 
 #. SCRIPT NOTES: Smug
 #. ALIAS: 
@@ -17032,7 +17065,7 @@ msgstr "그 정도는 받아들일 수 있어."
 #. REC = INFO:NAM1
 msgctxt "00037F"
 msgid "I will not acknowledge that with a response. I hope you take any further conversation more seriously."
-msgstr "그건 대답으로 인정하지 않겠어. 앞으로 대화를 좀 더 진지하게 하길 바라."
+msgstr "그건 대답으로 인정하지 않겠어. 앞으로 대화를 좀 더 진지하게 했으면 좋겠어."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Yama
@@ -18534,7 +18567,7 @@ msgstr "난 대행인 1호다. 아니면 '아무것도 아닌 자’라고 불�
 #. REC = INFO:NAM1
 msgctxt "000413"
 msgid "They have the ships and equipment required to ensure successful handoff to the appropriate authority."
-msgstr "그 추적자들은 수배범을 해당 당국에 성공적으로 인계하기 위해 필요한 함선과 장비를 가지고 있지."
+msgstr "그 추적자들은 수배범을 해당 당국에 성공적으로 인계하기 위해 필요한 우주선과 장비를 가지고 있지."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: AgentNo1
@@ -19030,7 +19063,7 @@ msgstr "내가 할 말을 듣는 게 당신에게도 가장 큰 이익이 될 �
 #. REC = INFO:NAM1
 msgctxt "000443"
 msgid "Hey, I hope you don't expect me to give up and go home. One way or another, we're going to talk."
-msgstr "어이, 내가 그냥 포기하고 집에 돌아가길 바라는 건 아니길 바라. 어떻게든 대화 좀 해야겠으니까."
+msgstr "어이, 내가 그냥 포기하고 집에 돌아가길 바라는 건 아니었으면 좋겠어. 어떻게든 대화 좀 해야겠으니까."
 
 #. SCRIPT NOTES: The player neglected to speak with her the first time they encountered her. Now she's shown up somewhere different. / to Player Default
 #. ALIAS: Inevitable
@@ -21112,7 +21145,7 @@ msgstr "그리고 이봐. 폭발로 인한 압력감소도 없으니, 잘됐네!
 #. REC = INFO:NAM1
 msgctxt "00056F"
 msgid "What was that? That seemed... risky. I hope that we didn't break anything important."
-msgstr "그게 뭐였지? 위험해 보이던데... 중요한 걸 망가뜨리진 않았길 바라."
+msgstr "그게 뭐였지? 위험해 보이던데... 중요한 걸 망가뜨리진 않았으면 좋겠어."
 
 #. SCRIPT NOTES: Draw out "Well..."  / Thinking / to Player Default
 #. ALIAS: Roach
@@ -22666,7 +22699,7 @@ msgstr "어디 보자... 우주선 절도, 불법 침입, 사기... 현상수배
 #. REC = INFO:NAM1
 msgctxt "000606"
 msgid "\"Hot\" ships? What are you talking about? Is this some sort of fetish thing?"
-msgstr "‘화끈한’ 함선? 무슨 소리야? 이거 뭔가 페티쉬 같은 거야?"
+msgstr "‘화끈한’ 우주선? 무슨 소리야? 이거 뭔가 페티쉬 같은 거야?"
 
 #. SCRIPT NOTES:  / to Hannibal
 #. ALIAS: Player Default
@@ -22676,7 +22709,7 @@ msgstr "‘화끈한’ 함선? 무슨 소리야? 이거 뭔가 페티쉬 같은
 #. REC = INFO:NAM1
 msgctxt "000607"
 msgid "I heard you know where we can buy a ship. Something \"hot,\" if you know what I mean?"
-msgstr "네가 함선을 살 수 있는 곳을 안다고 들었어. 뭔가 ‘화끈한 거’ 있나? 무슨 말인지 알지?"
+msgstr "네가 우주선을 살 수 있는 곳을 안다고 들었어. 뭔가 ‘화끈한 거’ 있나? 무슨 말인지 알지?"
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Hannibal
@@ -22892,7 +22925,7 @@ msgstr "그렇다면, 완벽하겠네. 녀석 때문에 내 신기록 수립이 
 #. REC = INFO:NAM1
 msgctxt "00061C"
 msgid "Uhh... I thought we were supposed to be using that decoy ship of yours?"
-msgstr "어... 그 위장용 함선을 사용하기로 한 거 아니었어?"
+msgstr "어... 그 위장용 우주선을 사용하기로 한 거 아니었어?"
 
 #. SCRIPT NOTES:  / to Roach
 #. ALIAS: Player Default
@@ -24866,7 +24899,7 @@ msgstr "좋아. 그럼 내가 너를 뭐라고 부르면 되는지 다시 말해
 #, fuzzy
 msgctxt "0006E8"
 msgid "Now I ain't the fun police, but I hope I've made myself abundantly clear."
-msgstr "난 재미 경찰은 아니지만, 내 말을 충분히 명확하게 했길 바라."
+msgstr "난 재미 경찰은 아니지만, 내 말을 충분히 명확하게 했으면 좋겠어."
 
 #. SCRIPT NOTES: Stern, but again, calm and not terribly upset.  / Stern / to Player Default
 #. ALIAS: Bloodhound
@@ -25476,7 +25509,7 @@ msgstr "수배범을 절대 생포하지 않는다는 거야?"
 #, fuzzy
 msgctxt "000724"
 msgid "I hope those are not just words. I strongly insist that you consider heeding my advice."
-msgstr "그게 그냥 말뿐이 아니길 바라. 내 조언을 꼭 고려해보라고 강력히 권해."
+msgstr "그게 그냥 말뿐이 아니었으면 좋겠어. 내 조언을 꼭 고려해보라고 강력히 권해."
 
 #. SCRIPT NOTES: 
 #. ALIAS: Yama

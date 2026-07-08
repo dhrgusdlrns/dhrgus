@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2026-07-07 13:49+0000\n"
+"PO-Revision-Date: 2026-07-08 15:22+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -9196,34 +9196,34 @@ msgid "$UPGRADE_POWER"
 msgstr "동력 업그레이드"
 
 msgid "$UPGRADE_QUALITY_TO_TIER_1"
-msgstr "다음 품질 등급으로 업그레이드(보정)"
+msgstr "다음 품질 등급으로 업그레이드(\"조정\")"
 
 msgid "$UPGRADE_QUALITY_TO_TIER_2"
-msgstr "다음 품질 등급으로 업그레이드(정제)"
+msgstr "다음 품질 등급으로 업그레이드(\"보강\")"
 
 msgid "$UPGRADE_QUALITY_TO_TIER_3"
-msgstr "다음 품질 등급으로 업그레이드(고급)"
+msgstr "다음 품질 등급으로 업그레이드(\"발전\")"
 
 msgid "$UPGRADE_QUALITY_TO_TIER_4"
-msgstr "다음 품질 등급으로 업그레이드(우수)"
+msgstr "다음 품질 등급으로 업그레이드(\"우월\")"
 
 msgid "$UPGRADE_QUALITY_TO_TIER_5"
-msgstr "다음 품질 등급으로 업그레이드(최상급)"
+msgstr "다음 품질 등급으로 업그레이드(\"초월\")"
 
 msgid "$UPGRADE_QUALITY_TO_MELEE_TIER_1"
-msgstr "다음 품질 등급으로 업그레이드(예리함)"
+msgstr "다음 품질 등급으로 업그레이드(\"절삭\")"
 
 msgid "$UPGRADE_QUALITY_TO_MELEE_TIER_2"
-msgstr "다음 품질 등급으로 업그레이드(연마됨)"
+msgstr "다음 품질 등급으로 업그레이드(\"연마\")"
 
 msgid "$UPGRADE_QUALITY_TO_MELEE_TIER_3"
-msgstr "다음 품질 등급으로 업그레이드(양자날)"
+msgstr "다음 품질 등급으로 업그레이드(\"양자날\")"
 
 msgid "$UPGRADE_QUALITY_TO_MELEE_TIER_4"
-msgstr "다음 품질 등급으로 업그레이드(완벽함)"
+msgstr "다음 품질 등급으로 업그레이드(\"완벽\")"
 
 msgid "$UPGRADE_QUALITY_TO_MELEE_TIER_5"
-msgstr "다음 품질 등급으로 업그레이드(명품)"
+msgstr "다음 품질 등급으로 업그레이드(\"명품\")"
 
 msgid "$UPGRADE_UNAVAILABLE"
 msgstr "업그레이드 불가"

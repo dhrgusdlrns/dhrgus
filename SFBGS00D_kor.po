@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-07-08 15:22+0000\n"
+"PO-Revision-Date: 2026-07-10 16:42+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -210,7 +210,7 @@ msgstr "탐험가의 피난처"
 #. REC: LCTN:FULL
 msgctxt "00001C"
 msgid "Galx-E Trailer Communes"
-msgstr "Galx-E 트레일러 공동체"
+msgstr "Galx-E 트레일러 유랑민"
 
 #. List: 0
 #. EDID: SFBGS00DDR001Location
@@ -364,7 +364,7 @@ msgstr "빅 아이언 근접 교전 훈련 센터"
 #. REC: WRLD:FULL
 msgctxt "000035"
 msgid "Galx-E Trailer Communes"
-msgstr "Galx-E 트레일러 공동체"
+msgstr "Galx-E 트레일러 유랑민"
 
 #. List: 0
 #. EDID: SFBGS00DDR002World
@@ -3524,7 +3524,7 @@ msgstr "자동회복효과"
 #. REC: OMOD:FULL
 msgctxt "0009C5"
 msgid "Accuracy Upgrade"
-msgstr "명중률 업그레이드"
+msgstr "명중률 업그레이드 모듈"
 
 #. List: 0
 #. EDID: mod_Legendary_Modifier_Martyr
@@ -4049,7 +4049,7 @@ msgstr "Quick Test Cell"
 #. REC: GBFM:FULL
 msgctxt "000DF6"
 msgid "Repair System Overdrive"
-msgstr "수리 시스템 초과구동기"
+msgstr "수리 시스템 과부하 가동기"
 
 #. List: 0
 #. EDID: SFFLDR028AsteroidMine
@@ -4371,7 +4371,7 @@ msgstr "설계도 - 확장 통신 배열기"
 #. REC: MISC:FULL
 msgctxt "000E25"
 msgid "Schematic - Repair System Overdrive"
-msgstr "설계도 - 수리 시스템 초과구동기"
+msgstr "설계도 - 수리 시스템 과부하 가동기"
 
 #. List: 0
 #. EDID: EquipmentSchematics_ShieldRefractorUnit
@@ -4392,14 +4392,14 @@ msgstr "액션 피규어: 프랑수아 \"베이 빅티스\" 사논 함대 제독
 #. REC: MISC:FULL
 msgctxt "000E28"
 msgid "Action Figure: Sealed Captain Myeong"
-msgstr "액션 피규어: 밀봉된 명 함장"
+msgstr "액션 피규어(미개봉): 명 함장"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_PercivalWalker_Sealed
 #. REC: MISC:FULL
 msgctxt "000E29"
 msgid "Action Figure: Sealed Doctor Percival Walker"
-msgstr "액션 피규어: 밀봉된 퍼시벌 워커 박사"
+msgstr "액션 피규어(미개봉): 퍼시벌 워커 박사"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_LouSaavedra
@@ -4427,14 +4427,14 @@ msgstr "액션 피규어: 마르코 그라치아니 병장"
 #. REC: MISC:FULL
 msgctxt "000E2D"
 msgid "Action Figure: Sealed Sergeant Marco Graziani"
-msgstr "액션 피규어: 밀봉된 마르코 그라치아니 병장"
+msgstr "액션 피규어(미개봉): 마르코 그라치아니 병장"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_Damage_melee
 #. REC: MISC:FULL
 msgctxt "000E2E"
 msgid "Damage Upgrade (Melee)"
-msgstr "피해 업그레이드 (근접)"
+msgstr "피해 업그레이드 모듈 (근접)"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointZ02_Parts
@@ -4588,7 +4588,7 @@ msgstr "물 주기"
 #. REC: ACTI:FULL
 msgctxt "000E4F"
 msgid "Plant"
-msgstr "심기"
+msgstr "식물"
 
 #. List: 0
 #. EDID: SFFL_SE01_FoodActivator
@@ -7808,14 +7808,14 @@ msgstr "X-테크"
 #. REC: OMOD:FULL
 msgctxt "000FC9"
 msgid "Reload Speed Upgrade"
-msgstr "재장전 속도 업그레이드"
+msgstr "재장전 속도 업그레이드 모듈"
 
 #. List: 0
 #. EDID: mod_wep_melee_statUpgrade_Damage_new
 #. REC: OMOD:FULL
 msgctxt "000FCB"
 msgid "Damage Upgrade"
-msgstr "피해 업그레이드"
+msgstr "피해 업그레이드 모듈"
 
 #. List: 0
 #. EDID: mod_Legendary_Modifier_Tank
@@ -7829,14 +7829,14 @@ msgstr "탱크효과"
 #. REC: OMOD:FULL
 msgctxt "000FCF"
 msgid "Range Upgrade"
-msgstr "사거리 업그레이드"
+msgstr "사거리 업그레이드 모듈"
 
 #. List: 0
 #. EDID: mod_wep_ranged_statUpgrade_MagSize_new
 #. REC: OMOD:FULL
 msgctxt "000FD0"
 msgid "Ammo Capacity Upgrade"
-msgstr "탄창 용량 업그레이드"
+msgstr "탄창 용량 업그레이드 모듈"
 
 #. List: 0
 #. EDID: mod_Legendary_Modifier_Quick
@@ -7850,14 +7850,14 @@ msgstr "고속사격효과"
 #. REC: OMOD:FULL
 msgctxt "000FD3"
 msgid "EM Resistance Upgrade"
-msgstr "전자기 저항 업그레이드"
+msgstr "전자기 저항 업그레이드 모듈"
 
 #. List: 0
 #. EDID: mod_wep_ranged_statUpgrade_AimSpeed_new
 #. REC: OMOD:FULL
 msgctxt "000FD5"
 msgid "Aim Speed Upgrade"
-msgstr "정조준 속도 업그레이드"
+msgstr "정조준 속도 업그레이드 모듈"
 
 #. List: 0
 #. EDID: mod_Legendary_Armor_4_AerialAdvantage
@@ -7906,7 +7906,7 @@ msgstr "네온 스킨"
 #. REC: OMOD:FULL
 msgctxt "000FE2"
 msgid "Recoil Upgrade"
-msgstr "반동 업그레이드"
+msgstr "반동 업그레이드 모듈"
 
 #. List: 0
 #. EDID: mod_Legendary_Wep_4_Kismet
@@ -9516,7 +9516,7 @@ msgstr "액션 피규어: 크릿 추격꾼 혹등 전갈"
 #. REC: MISC:FULL
 msgctxt "001444"
 msgid "Action Figure: Sealed Unit 99"
-msgstr "액션 피규어: 밀봉된 99호"
+msgstr "액션 피규어(미개봉): 99호"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_Kaiser
@@ -9530,28 +9530,28 @@ msgstr "액션 피규어: 카이저"
 #. REC: MISC:FULL
 msgctxt "001446"
 msgid "Action Figure: Sealed UC Marine"
-msgstr "액션 피규어: 밀봉된 식민지 연합 해병대원"
+msgstr "액션 피규어(미개봉): 식민지 연합 해병대원"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_IndiraRastogi_Sealed
 #. REC: MISC:FULL
 msgctxt "001447"
 msgid "Action Figure: Sealed General Indira Rastogi"
-msgstr "액션 피규어: 밀봉된 인디라 라스토기 장군"
+msgstr "액션 피규어(미개봉): 인디라 라스토기 장군"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_KibweIkande_Sealed
 #. REC: MISC:FULL
 msgctxt "001448"
 msgid "Action Figure: Sealed Lieutenant Kibwe Ikande"
-msgstr "액션 피규어: 밀봉된 키브웨 이칸데 대위"
+msgstr "액션 피규어(미개봉): 키브웨 이칸데 대위"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_VaeVictis_Sealed
 #. REC: MISC:FULL
 msgctxt "001449"
 msgid "Action Figure: Sealed Fleet Admiral François \"Vae Victis\" Sanon"
-msgstr "액션 피규어: 밀봉된 프랑수아 \"베이 빅티스\" 사논 함대 제독"
+msgstr "액션 피규어(미개봉): 프랑수아 \"베이 빅티스\" 사논 함대 제독"
 
 #. List: 0
 #. EDID: SFFL_AnchorpointZ02_Parts_Damaged
@@ -9586,7 +9586,7 @@ msgstr "액션 피규어: 마야 크루즈 병장"
 #. REC: MISC:FULL
 msgctxt "00144E"
 msgid "Action Figure: Sealed General Tolliver Royce"
-msgstr "액션 피규어: 밀봉된 톨리버 로이스 장군"
+msgstr "액션 피규어(미개봉): 톨리버 로이스 장군"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaMedic
@@ -9600,35 +9600,35 @@ msgstr "액션 피규어: 자유항성 민병대 의무병"
 #. REC: MISC:FULL
 msgctxt "001450"
 msgid "Aim Speed Upgrade (Ranged)"
-msgstr "정조준 속도 업그레이드 (원거리)"
+msgstr "정조준 속도 업그레이드 모듈 (원거리)"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_ReloadSpeed_ranged
 #. REC: MISC:FULL
 msgctxt "001451"
 msgid "Reload Speed Upgrade (Ranged)"
-msgstr "재장전 속도 업그레이드 (원거리)"
+msgstr "재장전 속도 업그레이드 모듈 (원거리)"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_MagSize_ranged
 #. REC: MISC:FULL
 msgctxt "001452"
 msgid "Ammo Capacity Upgrade (Ranged)"
-msgstr "탄창 용량 업그레이드 (원거리)"
+msgstr "탄창 용량 업그레이드 모듈 (원거리)"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_FireRate_ranged
 #. REC: MISC:FULL
 msgctxt "001453"
 msgid "Fire Rate Upgrade (Ranged)"
-msgstr "연사력 업그레이드 (원거리)"
+msgstr "연사력 업그레이드 모듈 (원거리)"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_Eng_armor
 #. REC: MISC:FULL
 msgctxt "001454"
 msgid "Energy Resistance Upgrade"
-msgstr "에너지 저항 업그레이드"
+msgstr "에너지 저항 업그레이드 모듈"
 
 #. List: 0
 #. EDID: SFFL_R02_ProofofDeathID
@@ -9670,7 +9670,7 @@ msgstr "설계도 - 고급 우주선 수집기"
 #. REC: MISC:FULL
 msgctxt "00145A"
 msgid "Action Figure: Sealed Jasper Kryx"
-msgstr "액션 피규어: 밀봉된 재스퍼 크릭스"
+msgstr "액션 피규어(미개봉): 재스퍼 크릭스"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_HadrianSanon
@@ -9684,7 +9684,7 @@ msgstr "액션 피규어: 헤이드리안 사논 소령"
 #. REC: MISC:FULL
 msgctxt "00145C"
 msgid "Action Figure: Sealed Terrormorph"
-msgstr "액션 피규어: 밀봉된 테러모프"
+msgstr "액션 피규어(미개봉): 테러모프"
 
 #. List: 0
 #. EDID: SFFL_VendorKillianBriceContainer
@@ -9797,7 +9797,7 @@ msgstr "물 주기"
 #. REC: ACTI:FULL
 msgctxt "001472"
 msgid "Plant"
-msgstr "심기"
+msgstr "식물"
 
 #. List: 0
 #. EDID: LegendaryModifier_Martyr_Spell
@@ -10706,14 +10706,14 @@ msgstr "긴 타원형 탁자"
 #. REC: MISC:FULL
 msgctxt "001928"
 msgid "Accuracy Upgrade (Ranged)"
-msgstr "명중률 업그레이드 (원거리)"
+msgstr "명중률 업그레이드 모듈 (원거리)"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_Range_ranged
 #. REC: MISC:FULL
 msgctxt "001929"
 msgid "Range Upgrade (Ranged)"
-msgstr "사거리 업그레이드 (원거리)"
+msgstr "사거리 업그레이드 모듈 (원거리)"
 
 #. List: 0
 #. EDID: EquipmentSchematics_MicroReactor
@@ -10748,14 +10748,14 @@ msgstr "유독성 화합물"
 #. REC: MISC:FULL
 msgctxt "00192E"
 msgid "Action Figure: Sealed Admiral Ode Balewa"
-msgstr "액션 피규어: 밀봉된 오데 발레와 제독"
+msgstr "액션 피규어(미개봉): 오데 발레와 제독"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_MayaCruz_Sealed
 #. REC: MISC:FULL
 msgctxt "00192F"
 msgid "Action Figure: Sealed Sergeant Maya Cruz"
-msgstr "액션 피규어: 밀봉된 마야 크루즈 병장"
+msgstr "액션 피규어(미개봉): 마야 크루즈 병장"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_UCNavalOfficer
@@ -10783,21 +10783,21 @@ msgstr "액션 피규어: 다니엘 블레이크 대령"
 #. REC: MISC:FULL
 msgctxt "001933"
 msgid "Action Figure: Sealed Freestar Militia Heavy Gunner"
-msgstr "액션 피규어: 밀봉된 자유항성 민병대 중화기병"
+msgstr "액션 피규어(미개봉): 자유항성 민병대 중화기병"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaMedic_Sealed
 #. REC: MISC:FULL
 msgctxt "001934"
 msgid "Action Figure: Sealed Freestar Militia Medic"
-msgstr "액션 피규어: 밀봉된 자유항성 민병대 의무병"
+msgstr "액션 피규어(미개봉): 자유항성 민병대 의무병"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaSoldier_Sealed
 #. REC: MISC:FULL
 msgctxt "001935"
 msgid "Action Figure: Sealed Freestar Militia Soldier"
-msgstr "액션 피규어: 밀봉된 자유항성 민병대 병사"
+msgstr "액션 피규어(미개봉): 자유항성 민병대 병사"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_FreestarMilitiaSoldier
@@ -10811,14 +10811,14 @@ msgstr "액션 피규어: 자유항성 민병대 병사"
 #. REC: MISC:FULL
 msgctxt "001937"
 msgid "Action Figure: Sealed Kaiser"
-msgstr "액션 피규어: 밀봉된 카이저"
+msgstr "액션 피규어(미개봉): 카이저"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_LouSaavedra_Sealed
 #. REC: MISC:FULL
 msgctxt "001938"
 msgid "Action Figure: Sealed Sergeant Lou Saavedra"
-msgstr "액션 피규어: 밀봉된 루 사베드라 병장"
+msgstr "액션 피규어(미개봉): 루 사베드라 병장"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_UCArmySoldier
@@ -10832,7 +10832,7 @@ msgstr "액션 피규어: 식민지 연합 병사"
 #. REC: MISC:FULL
 msgctxt "00193A"
 msgid "Action Figure: Sealed Freestar Mech Pilot"
-msgstr "액션 피규어: 밀봉된 자유항성 메크 조종사"
+msgstr "액션 피규어(미개봉): 자유항성 메크 조종사"
 
 #. List: 0
 #. EDID: SFBGS00D_GravityAirlock_Main_DoorA01_Fast
@@ -11987,14 +11987,14 @@ msgstr "묘기효과"
 #. REC: OMOD:FULL
 msgctxt "0019DE"
 msgid "Damage Upgrade"
-msgstr "피해 업그레이드"
+msgstr "피해 업그레이드 모듈"
 
 #. List: 0
 #. EDID: mod_wep_ranged_statUpgrade_FireRate_new
 #. REC: OMOD:FULL
 msgctxt "0019E0"
 msgid "Fire Rate Upgrade"
-msgstr "연사력 업그레이드"
+msgstr "연사력 업그레이드 모듈"
 
 #. List: 0
 #. EDID: mod_AVM_InflictorPistol_c_SFBGS045_Varuun
@@ -12134,7 +12134,7 @@ msgstr "밀리 먹이주기 특성"
 #. REC: PERK:FULL
 msgctxt "001A02"
 msgid "Repair System Overdrive"
-msgstr "수리 시스템 초과구동기"
+msgstr "수리 시스템 과부하 가동기"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_VaeVictis_Perk
@@ -12968,7 +12968,7 @@ msgstr "닥스 버로스"
 #. REC: MISC:FULL
 msgctxt "001EA4"
 msgid "Damage Upgrade (Ranged)"
-msgstr "피해 업그레이드 (원거리)"
+msgstr "피해 업그레이드 모듈 (원거리)"
 
 #. List: 0
 #. EDID: SFFL_SE_EC03_PrincessScratch_Plushie
@@ -12982,14 +12982,14 @@ msgstr "스크래치 공주"
 #. REC: MISC:FULL
 msgctxt "001EA6"
 msgid "Action Figure: Sealed Captain Daniel Blake"
-msgstr "액션 피규어: 밀봉된 다니엘 블레이크 대령"
+msgstr "액션 피규어(미개봉): 다니엘 블레이크 대령"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_KreetStalker_Sealed
 #. REC: MISC:FULL
 msgctxt "001EA8"
 msgid "Action Figure: Sealed Kreet Stalker"
-msgstr "액션 피규어: 밀봉된 크릿 추격꾼 혹등 전갈"
+msgstr "액션 피규어(미개봉): 크릿 추격꾼 혹등 전갈"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_Unit99
@@ -13003,7 +13003,7 @@ msgstr "액션 피규어: 99호"
 #. REC: MISC:FULL
 msgctxt "001EAA"
 msgid "Action Figure: Sealed UC Army Soldier"
-msgstr "액션 피규어: 밀봉된 식민지 연합 병사"
+msgstr "액션 피규어(미개봉): 식민지 연합 병사"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_SarahMorgan
@@ -13038,7 +13038,7 @@ msgstr "물뿌리개"
 #. REC: MISC:FULL
 msgctxt "001EAF"
 msgid "Action Figure: Sealed Major Hadrian Sanon"
-msgstr "액션 피규어: 밀봉된 헤이드리안 사논 소령"
+msgstr "액션 피규어(미개봉): 헤이드리안 사논 소령"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_UCMarine
@@ -13052,7 +13052,7 @@ msgstr "액션 피규어: 식민지 연합 해병대원"
 #. REC: MISC:FULL
 msgctxt "001EB1"
 msgid "Action Figure: Sealed United Colonies Naval Officer"
-msgstr "액션 피규어: 밀봉된 식민지 연합 해군 장교"
+msgstr "액션 피규어(미개봉): 식민지 연합 해군 장교"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_KibweIkande
@@ -13073,7 +13073,7 @@ msgstr "액션 피규어: 명 함장"
 #. REC: MISC:FULL
 msgctxt "001EB4"
 msgid "Action Figure: Sealed Commander Vincent Woodard"
-msgstr "액션 피규어: 밀봉된 빈센트 우다드 사령관"
+msgstr "액션 피규어(미개봉): 빈센트 우다드 사령관"
 
 #. List: 0
 #. EDID: SFFL_R01_ContrabandCache
@@ -13561,7 +13561,7 @@ msgstr "챈 황과 대화하기"
 #. REC: QUST:FULL
 msgctxt "0021A4"
 msgid "No Idle Threat"
-msgstr "빈말이 아닌 위협"
+msgstr "엄포가 아닌 위협"
 
 #. List: 0
 #. EDID: SFFL_SE_KT02_SailingHighSeas
@@ -13981,7 +13981,7 @@ msgstr "에어락"
 #. REC: MISC:FULL
 msgctxt "002357"
 msgid "Action Figure: Sealed Major Paxton Hull"
-msgstr "액션 피규어: 밀봉된 팩스턴 헐 소령"
+msgstr "액션 피규어(미개봉): 팩스턴 헐 소령"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_PaxtonHull
@@ -14002,7 +14002,7 @@ msgstr "액션 피규어: 빈센트 우다드 사령관"
 #. REC: MISC:FULL
 msgctxt "00235B"
 msgid "Recoil Upgrade (Ranged)"
-msgstr "반동 업그레이드 (원거리)"
+msgstr "반동 업그레이드 모듈 (원거리)"
 
 #. List: 0
 #. EDID: SFFL_MS03_Food
@@ -14016,28 +14016,28 @@ msgstr "밀리고래 사료"
 #. REC: MISC:FULL
 msgctxt "00235D"
 msgid "Physical Resistance Upgrade"
-msgstr "물리 저항 업그레이드"
+msgstr "물리 저항 업그레이드 모듈"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_AttackSpeed_melee
 #. REC: MISC:FULL
 msgctxt "00235E"
 msgid "Attack Speed Upgrade (Melee)"
-msgstr "공격 속도 업그레이드 (근접)"
+msgstr "공격 속도 업그레이드 모듈 (근접)"
 
 #. List: 0
 #. EDID: Y2_miscMod_statUpgrade_EM_armor
 #. REC: MISC:FULL
 msgctxt "00235F"
 msgid "EM Resistance Upgrade"
-msgstr "전자기 저항 업그레이드"
+msgstr "전자기 저항 업그레이드 모듈"
 
 #. List: 0
 #. EDID: SFBGS00D_CWAH_SarahMorgan_Sealed
 #. REC: MISC:FULL
 msgctxt "002360"
 msgid "Action Figure: Sealed Commander Sarah Morgan"
-msgstr "액션 피규어: 밀봉된 사라 모건 지휘관"
+msgstr "액션 피규어(미개봉): 사라 모건 지휘관"
 
 #. List: 0
 #. EDID: SFBGS00D_Spaceport_Hangar_Door01
@@ -14177,7 +14177,7 @@ msgstr "물 주기"
 #. REC: ACTI:FULL
 msgctxt "002378"
 msgid "Plant"
-msgstr "심기"
+msgstr "식물"
 
 #. List: 0
 #. EDID: SFFL_MS03_PlantActivator02
@@ -14191,7 +14191,7 @@ msgstr "물 주기"
 #. REC: ACTI:FULL
 msgctxt "00237A"
 msgid "Plant"
-msgstr "심기"
+msgstr "식물"
 
 #. List: 0
 #. EDID: ab_Legendary_Suit_Speedster_Spell
@@ -19049,13 +19049,15 @@ msgstr ""
 "스타필드의 아이템이나 구조물에는 희귀도 등급과 품질 등급이 존재합니다. 이 도움말에서는 희귀도 등급에 대해 설명합니다. 품질 등급에 "
 "대해서는 품질 등급 (장비 업그레이드) 도움말을 참고하십시오.\n"
 "\n"
-"자원과 제조 부품의 희귀도는 다음의 5가지 등급으로 나뉩니다.\n"
 "\n"
-"\"커먼\" (Common)\n"
-"\"언커먼\" (Uncommon)\n"
-"\"레어\" (Rare)\n"
-"\"엑조틱\" (Exotic)\n"
-"\"유니크\" (Unique)\n"
+"자원과 제조 부품의 희귀도는 다음의 5가지 등급으로 나뉩니다. (자원과 제조 부품 희귀도 등급 명칭에는 에픽과 레전더리가 없습니다.)\n"
+"\n"
+"1. \"커먼\" (Common)\n"
+"2. \"언커먼\" (Uncommon)\n"
+"3. \"레어\" (Rare)\n"
+"4. \"엑조틱\" (Exotic)\n"
+"5. \"유니크\" (Unique)\n"
+"\n"
 "\n"
 "무기, 우주복, 헬멧, 부스트 팩의 희귀도 등급은 통칭 전설 등급으로 불립니다. 전설 등급에 따라 장비를 강화시킬 수 있는 특별한 전설 "
 "보너스 효과가 부여됩니다. 전설 등급에는 4가지 등급이 존재하며, 높은 전설 등급인 경우 더 많은 전설 효과가 붙습니다.\n"
@@ -19071,7 +19073,10 @@ msgstr ""
 "전설 효과가 3개 부여된 장비에는 4번째 전설 효과인 \"엑조틱\" 효과를 부여할 수 있습니다. \"엑조틱\" 효과는 스타필드 세계에서 "
 "아이템 획득을 통해서는 얻을 수 없으며, 직접 제작으로만 부여할 수 있습니다.\n"
 "\n"
-"전설 효과를 부여하거나 재부여하려면 X-테크와 크레딧이 필요합니다. "
+"전설 효과를 부여하거나 재부여하려면 X-테크와 크레딧이 필요합니다. \n"
+"\n"
+"\n"
+"희귀도 등급 명칭은 업데이트를 통해 변경 및 추가될 수 있습니다. "
 
 #. List: 1
 #. EDID: HelpQuality
@@ -19113,7 +19118,7 @@ msgstr ""
 "\n"
 "\n"
 "무기, 우주복, 헬멧 , 부스트 팩에는 개조를 통해 부착물(mod)을 부착할 수 있습니다. 장비 부착물 품질 등급의 경우 각 장비에 "
-"대응하는 작업대에서 올릴 수 있습니다. 품질 등급이 높은 장비 부착물은 관련 기술을 올려야 사용할 수 있습니다.\n"
+"대응하는 작업대에서 올릴 수 있습니다. 품질 등급이 높은 장비 부착물은 관련 기술을 올리거나 연구를 완료해야 사용할 수 있습니다.\n"
 "\n"
 "무기 부착물에는 3단계의 품질 등급이 있습니다.\n"
 "\n"
@@ -19129,8 +19134,8 @@ msgstr ""
 "4. \"명품\" 등급 (master-level)\n"
 "\n"
 "\n"
-"우주선 모듈, 전초기지 모듈, 의약품에도 품질 등급이 존재합니다. 품질 등급이 높은 모듈이나 의약품은 관련 기술을 올려야 사용할 수 "
-"있습니다.\n"
+"우주선 모듈, 전초기지 모듈, 의약품에도 품질 등급이 존재합니다. 품질 등급이 높은 모듈이나 의약품은 관련 기술을 올리거나 연구를 "
+"완료해야 사용할 수 있습니다.\n"
 "\n"
 "우주선 모듈에는 4단계의 품질 등급이 있습니다.\n"
 "\n"
@@ -19143,7 +19148,20 @@ msgstr ""
 "\n"
 "1. \"개량\" 등급 (improved)\n"
 "2. \"첨단\" 등급 (cutting-edge)\n"
-"3. \"우월\" 등급 (superior)"
+"3. \"우월\" 등급 (superior)\n"
+"\n"
+"\n"
+"음식에도 품질 등급이 존재합니다. 품질 등급이 높은 음식은 관련 기술을 올리거나 연구를 완료해야 사용할 수 있습니다.\n"
+"\n"
+"음식에는 4단계의 품질 등급이 있습니다.\n"
+"\n"
+"1. \"델리커시\" 등급 (delicacy)\n"
+"2. \"고메\" 등급 (gourmet)\n"
+"3. \"스페셜티\" 등급 (specialty)\n"
+"4. \"엑조틱\" 등급 (exotic)\n"
+"\n"
+"\n"
+"품질 등급 명칭은 업데이트를 통해 변경 및 추가될 수 있습니다."
 
 #. List: 1
 #. EDID: SFBGS00D_ShipOptimization_ShieldEnergyDisp_MSG
@@ -20297,7 +20315,7 @@ msgstr "우주선 제작기에서 소형 반응로 모듈을 사용할 수 있�
 #. REC: MESG:DESC
 msgctxt "001083"
 msgid "Repair System Overdrive Module Available in Ship Builder."
-msgstr "우주선 제작기에서 수리 시스템 초과구동기 모듈을 사용할 수 있습니다."
+msgstr "우주선 제작기에서 수리 시스템 과부하 가동기 모듈을 사용할 수 있습니다."
 
 #. List: 1
 #. EDID: SFFL_AnchorpointZ04
@@ -20821,7 +20839,7 @@ msgstr ""
 msgctxt "0019F1"
 msgid "\"Citizens of Akila joined together with the pleasure city of Neon in mutual defense to form the Freestar Collective.\"\n\nSemi-Automatic weapons deal 5% more damage."
 msgstr ""
-"\"자유항성 공동체는 2188년, 아킬라의 시민과 향락 도시 네온의 시민 간 상호 방위 조약을 맺기 위해 설립되었습니다.\"\n"
+"\"자유항성 공동체는 2188년, 아킬라의 시민과 향락의 도시 네온의 시민 간 상호 방위 조약을 맺기 위해 설립되었습니다.\"\n"
 "\n"
 "반자동 무기 피해가 5% 증가한다."
 
@@ -61679,7 +61697,7 @@ msgstr "스페이서들이 출입 못하게 막으면, 비유적으로 말해서
 #. REC: INFO:NAM1
 msgctxt "000C97"
 msgid "I wish I could spare someone to help you, but I just can't risk it."
-msgstr "도울 인원을 한 명이라도 내줄 수 있으면 좋겠지만, 위험을 감수할 수가 없거든."
+msgstr "도울 사람을 붙여줄 수 있으면 좋겠지만, 지금은 위험을 감수할 수가 없어."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ01
@@ -61696,7 +61714,7 @@ msgstr "도울 인원을 한 명이라도 내줄 수 있으면 좋겠지만, 위
 #. REC: INFO:NAM1
 msgctxt "000C98"
 msgid "Believe me, I don't want to see that happen."
-msgstr "믿어줘. 나도 그런 일이 일어나는 건 보고 싶지 않아."
+msgstr "한번 믿어보겠어. 나도 그런 일이 일어나는 건 보고 싶지 않다고."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ01
@@ -61713,7 +61731,7 @@ msgstr "믿어줘. 나도 그런 일이 일어나는 건 보고 싶지 않아."
 #. REC: INFO:NAM1
 msgctxt "000C99"
 msgid "Leave it to me. I won't let Spacers harm innocent people."
-msgstr "나한테 맡겨. 스페이서가 무고한 사람들을 해치게 두지 않겠어."
+msgstr "나한테 맡겨. 스페이서가 무고한 사람들을 해치게 놔두진 않겠어."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ01
@@ -61746,7 +61764,7 @@ msgstr "젠장, 제때 와줘서 정말 다행이네."
 #. REC: INFO:NAM1
 msgctxt "000C9B"
 msgid "Sounds like you've got experience with this kind of thing."
-msgstr "이런 일에 경험이 좀 있는 것 같군."
+msgstr "이런 일에 경험이 좀 있나 보군."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ01
@@ -61830,7 +61848,7 @@ msgstr "녀석 친구들이 복수를 하러 돌아올 거라고 으름장을 �
 #. REC: INFO:NAM1
 msgctxt "000CA0"
 msgid "One of them threatened to shoot a patron, so I locked him up."
-msgstr "그중 한 녀석이 고객을 쏘겠다고 협박해서 가둬 놨고."
+msgstr "녀석들 중 한 녀석이 고객을 쏘겠다고 협박해서 가둬 놨어."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ01
@@ -61846,7 +61864,7 @@ msgstr "그중 한 녀석이 고객을 쏘겠다고 협박해서 가둬 놨고."
 #. REC: INFO:NAM1
 msgctxt "000CA1"
 msgid "Ever since, they've been a lot worse."
-msgstr "그 이후로 훨씬 더 심해졌지."
+msgstr "그 이후로, 녀석들 하는 짓거리가 훨씬 더 심해졌지."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ01
@@ -61862,7 +61880,7 @@ msgstr "그 이후로 훨씬 더 심해졌지."
 #. REC: INFO:NAM1
 msgctxt "000CA2"
 msgid "Word is, they've got a new leader who's violent and bloodthirsty in the extreme."
-msgstr "소문에 따르면, 녀석들의 새 두목은 극도로 폭력적이고 피에 굶주렸다더군."
+msgstr "소문에 따르면, 새 두목이 권력을 잡았는데, 극도로 폭력적이고 피에 굶주린 놈이라더군."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ01
@@ -63740,7 +63758,7 @@ msgstr "잘 가."
 #. REC: INFO:NAM1
 msgctxt "000D1B"
 msgid "Good luck out there."
-msgstr "밖에서 행운을 빌어."
+msgstr "행운을 빌겠네."
 
 #. List: 2
 #. QuestName = SFFL_R01
@@ -65839,7 +65857,7 @@ msgstr "우주선을 거래하고 싶다. 파는 게 있나?"
 #. REC: INFO:NAM1
 msgctxt "000DAD"
 msgid "I'd like to view and modify my ships."
-msgstr "우주선을 살펴보거나 개조하고 싶다."
+msgstr "내 우주선을 살펴보거나 개조하고 싶다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -75386,7 +75404,7 @@ msgstr "어디든 안전한 곳으로 떠나는 게 좋을 거 같은데."
 #. REC: INFO:NAM1
 msgctxt "0012FD"
 msgid "Spacers are pushovers. I've got this."
-msgstr "스페이서들은 만만해. 내가 처리할게."
+msgstr "스페이서야 만만하지. 내가 처리할게."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ01
@@ -75403,7 +75421,7 @@ msgstr "스페이서들은 만만해. 내가 처리할게."
 #. REC: INFO:NAM1
 msgctxt "0012FE"
 msgid "If he stays, we stay."
-msgstr "그가 남으면, 우리도 남아."
+msgstr "세인트 씨가 남는다면, 우리도 남을 거야."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ01
@@ -75419,7 +75437,7 @@ msgstr "그가 남으면, 우리도 남아."
 #. REC: INFO:NAM1
 msgctxt "0012FF"
 msgid "Mister Saint owns this place, and we have a contract."
-msgstr "세인트 씨가 이곳의 소유자고, 맺은 계약이 있어."
+msgstr "이곳의 주인은 세인트 씨고, 우리는 세인트 씨와 맺은 계약이 있어."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ01
@@ -75436,7 +75454,7 @@ msgstr "세인트 씨가 이곳의 소유자고, 맺은 계약이 있어."
 #. REC: INFO:NAM1
 msgctxt "001300"
 msgid "I don't disagree with you, but that's not my call."
-msgstr "동의하지 않는 건 아니지만, 내가 결정할 일은 아니야."
+msgstr "그 말에 반대하는 건 아니지만, 그건 내가 결정할 문제가 아니야."
 
 #. List: 2
 #. QuestName = SFFL_Z01_SE1
@@ -90633,7 +90651,7 @@ msgstr "세인트 씨가 수고비로 크레딧을 좀 얹어줄 거야."
 #. REC: INFO:NAM1
 msgctxt "001777"
 msgid "Once you've set out, I'll talk to Mister Saint."
-msgstr "당신이 출발하면, 세인트 씨에게 얘기해 두겠어."
+msgstr "처리하러 출발하면, 세인트 씨에게 얘기해 두도록 하지."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ01
@@ -108562,7 +108580,7 @@ msgstr "여기. 세인트 씨가 준 거야."
 #. REC: INFO:NAM1
 msgctxt "001D6A"
 msgid "Good luck out there."
-msgstr "밖에서도 행운을 빌어."
+msgstr "행운을 빌어."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ01
@@ -108577,7 +108595,7 @@ msgstr "밖에서도 행운을 빌어."
 #. REC: INFO:NAM1
 msgctxt "001D6B"
 msgid "Take out the leader, and they'll get the message."
-msgstr "우두머리를 처리하면 메시지는 확실히 전해질 거야."
+msgstr "두목만 처리하면, 밑에 있는 놈들은 아마 말을 알아들을 거야."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ01
@@ -108593,7 +108611,7 @@ msgstr "우두머리를 처리하면 메시지는 확실히 전해질 거야."
 #. REC: INFO:NAM1
 msgctxt "001D6C"
 msgid "Now listen, there's no need for excessive bloodshed here."
-msgstr "자, 잘 들어. 여기서 필요 이상으로 피를 볼 필요는 없어."
+msgstr "자, 잘 들어. 처리할 때 필요 이상으로 피를 볼 필요는 없어."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ01
@@ -122750,7 +122768,7 @@ msgstr "[<Global=SFFL_MS01_CrimeGold_Amount> Credits] 돈이 없어."
 #. REC: INFO:NAM1
 msgctxt "002197"
 msgid "[<Global=SFFL_MS01_CrimeGold_Amount> Credits, stolen items confiscated] I'll pay the fine."
-msgstr "[<Global=SFFL_MS01_CrimeGold_Amount> 크레딧 주기, 장물 몰수] 벌금을 내겠다."
+msgstr "[<Global=SFFL_MS01_CrimeGold_Amount> 크레딧 주기, 훔친 물건 몰수] 벌금을 내겠다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ01
@@ -122816,7 +122834,7 @@ msgstr "그게 사실이라면, 정거장을 포기하는 게 좋을지도 몰�
 #. REC: INFO:NAM1
 msgctxt "00219B"
 msgid "I can't guarantee your safety."
-msgstr "당신의 안전을 보장할 수가 없어."
+msgstr "그쪽의 안전은 보장해 줄 수 없어."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ01
@@ -122833,7 +122851,7 @@ msgstr "당신의 안전을 보장할 수가 없어."
 #. REC: INFO:NAM1
 msgctxt "00219C"
 msgid "We'll do our best to protect you, but there's only a few of us."
-msgstr "최선을 다해 지키겠지만, 우린 몇 명 안 돼."
+msgstr "최선을 다해 보호해 주겠지만, 보다시피 우리 쪽 머릿수가 부족해."
 
 #. List: 2
 #. QuestName = SFFL_Z01_SE1
@@ -124747,7 +124765,7 @@ msgstr "마음대로 해."
 #. REC: INFO:NAM1
 msgctxt "00221E"
 msgid "Good luck out there."
-msgstr "밖에서 행운을 빌어."
+msgstr "행운을 빌어."
 
 #. List: 2
 #. QuestName = SFFL_R01

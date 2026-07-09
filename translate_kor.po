@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2026-07-08 15:22+0000\n"
+"PO-Revision-Date: 2026-07-10 16:42+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -8884,7 +8884,7 @@ msgid "$Legendary"
 msgstr "\"레전더리\""
 
 msgid "$LegendaryTier#"
-msgstr "레전더리 단계 {0}"
+msgstr "전설 단계 {0}"
 
 msgid "$LEGENDARY_MOD_BEHEMOTH"
 msgstr "베히모스"
@@ -8959,7 +8959,7 @@ msgid "$LEGENDARY_MOD_TRICKY_DESC"
 msgstr "피해 회피 확률"
 
 msgid "$LEGENDARY MODS"
-msgstr "레전더리 개조"
+msgstr "전설 개조"
 
 msgid "$LOCATIONCOUNTHEADER"
 msgstr "발견한 행성과 위성"
@@ -9079,19 +9079,19 @@ msgid "$REQUIRED RESEARCH:"
 msgstr "필요 연구:"
 
 msgid "$REROLL LEGENDARY MOD"
-msgstr "레전더리 개조 재추첨"
+msgstr "전설 개조 재부여"
 
 msgid "$REROLLS #"
-msgstr "재추첨:{0}"
+msgstr "남은 재부여 횟수:{0}"
 
 msgid "$ResearchLab"
-msgstr "연구 연구소"
+msgstr "연구 설비"
 
 msgid "$ROLL LEGENDARY MOD"
-msgstr "레전더리 개조 추첨"
+msgstr "전설 개조 부여"
 
 msgid "$ROLLS #"
-msgstr "추첨:{0}"
+msgstr "남은 부여 횟수:{0}"
 
 msgid "$SaveUploadNotAllowed"
 msgstr "저장 업로드 불가"
@@ -9139,7 +9139,7 @@ msgid "$ShipHUD_RepairShip"
 msgstr "수리"
 
 msgid "$SHOW LEGENDARY DETAILS"
-msgstr "레전더리 상세 정보 표시"
+msgstr "전설 상세 정보 표시"
 
 msgid "$SHOWBODYLIST"
 msgstr "위치 표시"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-18 03:10+0900\n"
-"PO-Revision-Date: 2026-07-06 15:49+0000\n"
+"PO-Revision-Date: 2026-07-10 16:42+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -5477,7 +5477,7 @@ msgstr "X-테크 추출기"
 #. FormID: 0202FCE1
 msgctxt "001107"
 msgid "Hyper Padded Spacesuit"
-msgstr "하이퍼 패딩 우주복"
+msgstr "초고밀도 완충재 우주복"
 
 #. List: 0
 #. EDID: SFBGS050_Spacesuit_HyperPadded_Backpack
@@ -5493,7 +5493,7 @@ msgstr "항목"
 #. FormID: 0202FCE2
 msgctxt "001109"
 msgid "Hyper Padded"
-msgstr "하이퍼 패딩"
+msgstr "초고밀도 완충재"
 
 #. List: 0
 #. EDID: SFBGS050_Spacesuit_HyperPadded_Helmet
@@ -5501,7 +5501,7 @@ msgstr "하이퍼 패딩"
 #. FormID: 0202FCE3
 msgctxt "00110A"
 msgid "Hyper Padded Space Helmet"
-msgstr "하이퍼 패딩 우주 헬멧"
+msgstr "초고밀도 완충재 우주 헬멧"
 
 #. List: 0
 #. EDID: SFBGS050_MGPBallisticRifle
@@ -71032,7 +71032,7 @@ msgstr "[계속 말하게 둔다]"
 #: 02039699:020396BE
 msgctxt "001424"
 msgid "Good luck out there."
-msgstr "밖에서 행운을 빌어."
+msgstr "행운을 빌어."
 
 #. List: 2
 #. REC: INFO:NAM1

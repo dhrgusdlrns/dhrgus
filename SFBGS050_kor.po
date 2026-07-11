@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-18 03:10+0900\n"
-"PO-Revision-Date: 2026-07-10 16:42+0000\n"
+"PO-Revision-Date: 2026-07-12 20:30+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -2714,7 +2714,7 @@ msgstr "테란 순찰선을 격파하기"
 #. FormID: 020174A6
 msgctxt "0009AC"
 msgid "Take out the Terran Scouts"
-msgstr "테란 정찰대 처치하기"
+msgstr "테란 정찰대 처리하기"
 
 #. List: 0
 #. EDID: SFTER_INC_MIN_ScoutingParty01
@@ -6076,7 +6076,7 @@ msgstr "유니파이어 전투"
 #. FormID: 0200F9F3
 msgctxt "0012C6"
 msgid "Kill the Homesteaders"
-msgstr "이주민들 처치하기"
+msgstr "이주민들 처리하기"
 
 #. List: 0
 #. EDID: SFTERDropPod011World
@@ -8518,7 +8518,7 @@ msgstr "데이터 슬레이트를 요원 예모자에게 전달하기"
 #. FormID: 02043828
 msgctxt "002014"
 msgid "Retrieve Voss's Slate"
-msgstr "보스의 슬레이트 입수하기"
+msgstr "보스의 슬레이트 회수하기"
 
 #. List: 0
 #. EDID: SFTER_MS02
@@ -24482,7 +24482,7 @@ msgstr "우주선 화물 모듈은 우주선의 화물칸(인벤토리)을 늘�
 #. FormID: 0208333A
 msgctxt "002472"
 msgid "Spaceship Cargo Modules increase your ship's inventory space."
-msgstr "우주선 화물 모듈은 우주선의 인벤토리 공간을 늘려 줍니다."
+msgstr "우주선 화물 모듈은 우주선의 화물칸(인벤토리)을 늘려줍니다."
 
 #. List: 1
 #. EDID: SFBGS034_co_Outpost_Crafting_CrimsonFleet_WorkbenchResearch
@@ -55926,7 +55926,7 @@ msgstr "알림: 델타 기체와 보조자의 위력 수준 비교 분석 실행
 #: 0200FA18:02029BA9
 msgctxt "000D4F"
 msgid "Some items in inventory marked, \"irrelevant\". Recommending disposal to decrease carry weight."
-msgstr "인벤토리 내 일부 물품이 \"관련 없음\"으로 표시됨. 소지 중량 감소를 위해 폐기를 권장합니다."
+msgstr "소지품 내 일부 물품이 \"관련 없음\"으로 표시됨. 소지 중량 감소를 위해 폐기를 권장합니다."
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -67842,7 +67842,7 @@ msgstr "위험 물질은 나에게 이전할 것을 권장합니다, 선장."
 #: 0200FA1C:0203407C
 msgctxt "0012BF"
 msgid "Requesting monetary compensation if Perishable requires items in my inventory."
-msgstr "부패성 개체가 내 인벤토리의 아이템을 요구할 경우 금전 보상을 요청함."
+msgstr "부패성 개체가 내 소지품에 담긴 물품을 요구할 경우 금전 보상을 요청함."
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -96869,7 +96869,7 @@ msgstr "이 모든 훈련은 이전 주인들에게도 소용없었고, 지금 �
 #: 02045733:0204573B
 msgctxt "001D32"
 msgid "I see a training course, I want to run it. Still got that watch, Dusty? Time it!"
-msgstr "훈련 과정이 보이면 뛰어보고 싶어진단 말이지. 아직 그 시계 갖고 있어, 더스티? 시간 재!"
+msgstr "훈련 과정이 보이면 뛰어보고 싶어진단 말이지. 아직 그 시계 갖고 있어? 두더지? 시간 재!"
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -102249,7 +102249,7 @@ msgstr "우리는 지금까지 너무나도 잘못된 길을 걸어왔다."
 #: 0202C2D4/02300/SFTER_INC_SCP01_SoldierIntroMainScene:020518D7
 msgctxt "001EE6"
 msgid "[Lie] We've lost the fight. It's time to make a new life. Start over."
-msgstr "[Lie] 우리는 싸움에서 졌어. 새 삶을 시작할 때야. 다시 시작하는 거지."
+msgstr "[거짓말] 우리는 싸움에서 졌어. 새 삶을 시작할 때야. 다시 시작하는 거지."
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -102263,7 +102263,7 @@ msgstr "[Lie] 우리는 싸움에서 졌어. 새 삶을 시작할 때야. 다시
 #: 0202C2D4/02300/SFTER_INC_SCP01_SoldierIntroMainScene:020518D6
 msgctxt "001EE7"
 msgid "[Lie] The Armada's been defeated. Lay low. Start a new life."
-msgstr "[Lie] 아르마다는 패배했어. 몸을 숨기고 새 삶을 시작해."
+msgstr "[거짓말] 아르마다는 패배했어. 몸을 숨기고 새 삶을 시작해."
 
 #. List: 2
 #. REC: INFO:NAM1

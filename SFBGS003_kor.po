@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2026-07-07 13:49+0000\n"
+"PO-Revision-Date: 2026-07-12 20:30+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -713,13 +713,13 @@ msgstr "대상 스캔"
 #. REC = FLST:FULL
 msgctxt "0000C8"
 msgid "Rare Crimes"
-msgstr "\"레어\" 등급 범죄"
+msgstr "\"레어\"등급 범죄"
 
 #. EDID = SFBGS003_BountyCrimes_Common
 #. REC = FLST:FULL
 msgctxt "0000C9"
 msgid "Basic Crimes"
-msgstr "\"베이직\" 등급 범죄"
+msgstr "\"베이직\"등급 범죄"
 
 #. EDID = SFBGS003_HandScannerTemperamentFormlist
 #. REC = FLST:FULL
@@ -731,7 +731,7 @@ msgstr "현상범 기질"
 #. REC = FLST:FULL
 msgctxt "0000CB"
 msgid "Uncommon Crimes"
-msgstr "\"언커먼\" 등급 범죄"
+msgstr "\"언커먼\"등급 범죄"
 
 #. EDID = LS_SFBGS003_TrackersHQ01
 #. REC = LSCR:DESC
@@ -19195,7 +19195,7 @@ msgstr "대행인 1호가 우리가 더 공개적으로 존재감을 드러내�
 #, fuzzy
 msgctxt "000450"
 msgid "There's a reason for that. It used to be on a remote planet in a remote part of the galaxy."
-msgstr "이유가 있어. 예전엔 은하계의 외딴 곳에 있는 외딴 행성에 있었거든."
+msgstr "이유가 있어. 예전엔 은하계의 외진 곳에 있는 외딴 행성에 있었거든."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Inevitable
@@ -19332,7 +19332,8 @@ msgstr "대행인 1호는 누구야?"
 #, fuzzy
 msgctxt "000471"
 msgid "The kind of missions I wish I was doing rather than being stationed here on this ol' dusty rock tryin' to get freelancers to use the mission board."
-msgstr "내가 하고 싶은 종류의 임무지. 이 오래된 먼지 투성이 바위에 배치돼서 프리랜서들한테 임무 단말기 쓰라고 설득하는 것보다 훨씬 나아."
+msgstr ""
+"내가 하고 싶은 종류의 임무지. 이 오래된 먼지투성이 바위에 배치돼서 프리랜서들한테 임무 단말기 쓰라고 설득하는 것보다 훨씬 나아."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: TrackersAllianceAgentCydonia

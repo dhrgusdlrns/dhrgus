@@ -140,7 +140,7 @@ msgid "$ADJUST_ZOOM"
 msgstr "카메라 확대/축소"
 
 msgid "$Advanced"
-msgstr "고급"
+msgstr "발전"
 
 msgid "$AGILITY"
 msgstr "민첩성"
@@ -8693,7 +8693,7 @@ msgid "$ByWhom:"
 msgstr "제작자: "
 
 msgid "$Calibrated"
-msgstr "보정"
+msgstr "조정"
 
 msgid "$CARGO LINKS"
 msgstr "화물 링크"
@@ -8788,7 +8788,7 @@ msgid "$Every # Seconds"
 msgstr "{0}초마다"
 
 msgid "$Exceptional"
-msgstr "최상급"
+msgstr "초월"
 
 msgid "$ExploredPOIs"
 msgstr "탐험한 관심 지점"
@@ -8800,7 +8800,7 @@ msgid "$FAVORITECOUNTHEADER"
 msgstr "즐겨찾기 총계"
 
 msgid "$Flawless"
-msgstr "완벽함"
+msgstr "완벽"
 
 msgid "$Flight Control Roll Dominant_Desc_PS"
 msgstr "우주선 비행 시 좌우 스틱의 롤과 요 조작을 서로 바꿉니다."
@@ -8824,7 +8824,7 @@ msgid "$HOLD_TO_UPGRADE"
 msgstr "길게 눌러 업그레이드"
 
 msgid "$Honed"
-msgstr "연마됨"
+msgstr "연마"
 
 msgid "$IncludedCreations:"
 msgstr "포함된 크리에이션:"
@@ -9064,7 +9064,7 @@ msgid "$RAPID DECELERATION BURN"
 msgstr "급속 감속 점화"
 
 msgid "$Refined"
-msgstr "정제"
+msgstr "보강"
 
 msgid "$Remap_BindingRequiredHint_PS"
 msgstr "* 표시는 반드시 지정해야 하는 동작입니다."
@@ -9121,7 +9121,7 @@ msgid "$Settled"
 msgstr "정착지"
 
 msgid "$Sharpened"
-msgstr "예리함"
+msgstr "절삭"
 
 msgid "$ShipCrewUpgradeCommandLevel"
 msgstr "더 많은 승무원을 배치하려면 우주선 지휘 스킬 레벨을 올리십시오."
@@ -9148,7 +9148,7 @@ msgid "$Sorted by:"
 msgstr "정렬 기준: "
 
 msgid "$Standard"
-msgstr "표준"
+msgstr "기본"
 
 msgid "$StarMap_FavoriteBody"
 msgstr "즐겨찾기"
@@ -9157,7 +9157,7 @@ msgid "$STORED RESOURCES"
 msgstr "저장된 자원"
 
 msgid "$Superior"
-msgstr "우수"
+msgstr "우월"
 
 msgid "$TerranArmada"
 msgstr "테란 아르마다"

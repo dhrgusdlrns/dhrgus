@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-07-07 13:49+0000\n"
+"PO-Revision-Date: 2026-07-12 20:30+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -1925,7 +1925,7 @@ msgstr "시락의 말을 듣기"
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "000798"
 msgid "Kill Basira"
-msgstr "바시라를 처치하기"
+msgstr "바시라를 처리하기"
 
 # EDID: SFBGS001_MQ01, REC: QUST:NNAM
 msgctxt "000799"
@@ -2608,7 +2608,7 @@ msgstr "(선택) 우주선 이륙 기록을 찾기"
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "000D01"
 msgid "Retrieve the Encrypted Slate mentioned in the audio log"
-msgstr "오디오 기록에서 언급된 암호화된 슬레이트 입수하기"
+msgstr "오디오 기록에서 언급된 암호화된 슬레이트 회수하기"
 
 # EDID: SFBGS001_MS01, REC: QUST:NNAM
 msgctxt "000D02"
@@ -4926,17 +4926,17 @@ msgstr "말리야 하즈탈과 대화하기"
 # EDID: SFBGS001_MS05, REC: QUST:NNAM
 msgctxt "001723"
 msgid "Retrieve the Broken Fang's Heirloom Rifle"
-msgstr "송곳니의 고장난 가보 소총 입수하기"
+msgstr "송곳니의 고장난 가보 소총 회수하기"
 
 # EDID: SFBGS001_MS05, REC: QUST:NNAM
 msgctxt "001724"
 msgid "Retrieve the Broken Fang's Heirloom Boost Pack"
-msgstr "송곳니의 고장난 가보 부스터 팩 입수하기"
+msgstr "송곳니의 고장난 가보 부스터 팩 회수하기"
 
 # EDID: SFBGS001_MS05, REC: QUST:NNAM
 msgctxt "001725"
 msgid "Retrieve the Broken Fang's Heirloom Spacesuit"
-msgstr "송곳니의 고장난 가보 우주복 입수하기"
+msgstr "송곳니의 고장난 가보 우주복 회수하기"
 
 # EDID: SFBGS001_MS05, REC: QUST:NNAM
 msgctxt "001726"
@@ -5356,7 +5356,7 @@ msgstr "유령에 대해 자세히 알아보기"
 # EDID: SFBGS001_MQ05, REC: QUST:NNAM
 msgctxt "0019DE"
 msgid "Defeat the Phantom"
-msgstr "유령 처치하기"
+msgstr "유령 처리하기"
 
 # EDID: SFBGS001_MQ05, REC: QUST:NNAM
 msgctxt "0019DF"
@@ -12530,7 +12530,7 @@ msgstr ""
 "느껴졌다. 아버지와 엔지니어링 기술이 나한테 왜 필요하냐고 말다툼했었는데, 이렇게 쓰일 줄이야...\n"
 "\n"
 "다즈라가 정상화된다는 소식이 들리면 테인에게 연락을 취해 봐야겠다. 위대한 뱀이니, 가문 사이의 정치적 다툼이니 그런 것과 멀리 동떨어진 "
-"삶... 내가 진정으로 원하는 것이다. 하지만 지금은 외딴 곳에 홀로 있는 그로트 농부만으로도 족하다."
+"삶... 내가 진정으로 원하는 것이다. 하지만 지금은 외진 곳에 홀로 있는 그로트 농부만으로도 족하다."
 
 # EDID: SFBGS001_MQ04_VaericTerminalDesktop, REC: TMLM:ITXT
 msgctxt "012B25"

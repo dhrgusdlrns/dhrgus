@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2026-07-10 16:42+0000\n"
+"PO-Revision-Date: 2026-07-12 20:30+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -2258,13 +2258,13 @@ msgid "$FACTIONS"
 msgstr "세력"
 
 msgid "$Fanfare_Epic"
-msgstr "\"에픽\" 등급 아이템 획득함"
+msgstr "\"에픽\"등급 아이템 획득함"
 
 msgid "$Fanfare_Legendary"
-msgstr "\"레전더리\" 등급 아이템 획득함"
+msgstr "\"레전더리\"등급 아이템 획득함"
 
 msgid "$Fanfare_Rare"
-msgstr "\"레어\" 등급 아이템 획득함"
+msgstr "\"레어\"등급 아이템 획득함"
 
 msgid "$Fanfare_SkillBook"
 msgstr "스킬 보너스 획득"
@@ -8717,7 +8717,7 @@ msgid "$CreationsVisitStore_Sony"
 msgstr "PlayStation Store 방문"
 
 msgid "$CRUISE"
-msgstr "순항"
+msgstr "순항 모드"
 
 msgid "$CRUISE MODE"
 msgstr "순항 모드"
@@ -8746,7 +8746,7 @@ msgid "$CRUISESTAGE3"
 msgstr "질량 임계"
 
 msgid "$CRUISESTAGE4"
-msgstr "순항"
+msgstr "순항 모드"
 
 msgid "$DataMenu_OpenAlmanac_KBM"
 msgstr "데이터베이스 열기"
@@ -8794,7 +8794,7 @@ msgid "$ExploredPOIs"
 msgstr "탐험한 관심 지점"
 
 msgid "$Fanfare_Exotic"
-msgstr "\"엑조틱\" 등급 아이템 획득함"
+msgstr "\"엑조틱\"등급 아이템 획득함"
 
 msgid "$FAVORITECOUNTHEADER"
 msgstr "즐겨찾기 총계"
@@ -9127,7 +9127,7 @@ msgid "$ShipCrewUpgradeCommandLevel"
 msgstr "더 많은 승무원을 배치하려면 우주선 지휘 스킬 레벨을 올리십시오."
 
 msgid "$ShipHUD_Cruise"
-msgstr "순항"
+msgstr "순항 모드"
 
 msgid "$ShipHUD_CruiseMode"
 msgstr "우주선(순항 모드)"

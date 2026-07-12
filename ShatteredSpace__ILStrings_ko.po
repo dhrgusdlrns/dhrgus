@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-07-07 13:49+0000\n"
+"PO-Revision-Date: 2026-07-12 20:30+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -13148,7 +13148,7 @@ msgstr "그나마 저들은 이곳의 지형지물을 이용해 보려고 하긴
 #. SUBTYPE: Custom
 msgctxt "0146FF"
 msgid "Remote setups like this are rarely used for official, authorized business. I have seen my fair share."
-msgstr "이런 외딴 곳의 장소는 공식적으로 승인된 업무엔 거의 쓰이지 않아. 나도 잘 알고 있지."
+msgstr "이런 외진 곳의 장소는 공식적으로 승인된 업무엔 거의 쓰이지 않아. 나도 잘 알고 있지."
 
 #. SCRIPT NOTES: Thinking
 #. VOICE TYPE: NPCFAndreja
@@ -88274,7 +88274,7 @@ msgstr "이봐, 애 일기장만 보고 온 가족을 처분할 순 없잖아."
 #. SUBTYPE: Custom
 msgctxt "012DD6"
 msgid "These people are harmless and so remote that House Veth'aal never has to catch wind of this."
-msgstr "이 사람들은 나쁜 뜻도 없고, 외딴 곳에 사니까 베타알 가문도 절대 눈치 못 챌 거라고."
+msgstr "이 사람들은 나쁜 뜻도 없고, 외진 곳에 사니까 베타알 가문도 절대 눈치 못 챌 거라고."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: You'll be rewarded when you're made Penitent. &&& ...  &&& Tane: Come on, you can't take out this whole family based on a kids journal. |These people are harmless and so remote that House Veth'aal never has to catch wind of this. &&& companion: They are here on orders from the Ministry of State. Duty demands they follow through. &&& Tane: Okay, thank you for clarifying, but not helpful.

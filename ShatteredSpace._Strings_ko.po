@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2026-07-07 13:49+0000\n"
+"PO-Revision-Date: 2026-07-12 20:30+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -6049,7 +6049,7 @@ msgid "I teamed up with Orahim to take down Khaslav and his Zealot cohorts. Mayb
 "I teamed up with Orahim to take down Khaslav and his Zealot cohorts. Maybe "
 "now Orahim will find acceptance in Dazra, and be able to start his new life."
 msgstr ""
-"오라힘과 힘을 합쳐 카슬라프와 광신도 패거리를 처치하기로 했다. 이제 오라힘은 다즈라에서 인정받고 새로운 삶을 시작할 수 있을 것이다."
+"오라힘과 힘을 합쳐 카슬라프와 광신도 패거리를 처리하기로 했다. 이제 오라힘은 다즈라에서 인정받고 새로운 삶을 시작할 수 있을 것이다."
 
 # EDID: SFBGS001_MS02, REC: QUST:CNAM
 msgctxt "01187C"

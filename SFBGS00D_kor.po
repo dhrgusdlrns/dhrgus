@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-07-12 20:30+0000\n"
+"PO-Revision-Date: 2026-07-16 15:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -46173,7 +46173,7 @@ msgstr "도움이 필요해, 선생."
 #. REC: INFO:NAM1
 msgctxt "0007A1"
 msgid "[Pay <Global=SFFL_MS01_SQ_Doctors_Price_Everything> Credits] Take care of it all."
-msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Everything> 크레딧 지불] 전부 치료해 줘."
+msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Everything> 크레딧 주기] 전부 치료해 줘."
 
 #. List: 2
 #. QuestName = SFFL_MS01_DoctorDialogue
@@ -46190,7 +46190,7 @@ msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Everything> 크레딧 지불] 전부
 #. REC: INFO:NAM1
 msgctxt "0007A2"
 msgid "[Pay <Global=SFFL_MS01_SQ_Doctors_Price_Everything> Credits] Take care of it all."
-msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Everything> 크레딧 지불] 전부 치료해 줘."
+msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Everything> 크레딧 주기] 전부 치료해 줘."
 
 #. List: 2
 #. QuestName = SFFL_MS01_DoctorDialogue
@@ -46207,7 +46207,7 @@ msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Everything> 크레딧 지불] 전부
 #. REC: INFO:NAM1
 msgctxt "0007A3"
 msgid "[Pay <Global=SFFL_MS01_SQ_Doctors_Price_Addictions> Credits] Cure my addictions."
-msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Addictions> 크레딧 지불] 내 중독을 치료해 줘."
+msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Addictions> 크레딧 주기] 내 중독을 치료해 줘."
 
 #. List: 2
 #. QuestName = SFFL_MS01_DoctorDialogue
@@ -46224,7 +46224,7 @@ msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Addictions> 크레딧 지불] 내 �
 #. REC: INFO:NAM1
 msgctxt "0007A4"
 msgid "[Pay <Global=SFFL_MS01_SQ_Doctors_Price_Addictions> Credits] Cure my addictions."
-msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Addictions> 크레딧 지불] 내 중독을 치료해 줘."
+msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Addictions> 크레딧 주기] 내 중독을 치료해 줘."
 
 #. List: 2
 #. QuestName = SFFL_MS01_DoctorDialogue
@@ -46241,7 +46241,8 @@ msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Addictions> 크레딧 지불] 내 �
 #. REC: INFO:NAM1
 msgctxt "0007A5"
 msgid "[Pay <Global=SFFL_MS01_SQ_Doctors_Price_Afflictions> Credits] Cure my afflictions."
-msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Afflictions> 크레딧 지불] 내 상태 이상을 치료해 줘."
+msgstr ""
+"[<Global=SFFL_MS01_SQ_Doctors_Price_Afflictions> 크레딧 주기] 내 상태 이상을 치료해 줘."
 
 #. List: 2
 #. QuestName = SFFL_MS01_DoctorDialogue
@@ -46258,7 +46259,8 @@ msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Afflictions> 크레딧 지불] 내 �
 #. REC: INFO:NAM1
 msgctxt "0007A6"
 msgid "[Pay <Global=SFFL_MS01_SQ_Doctors_Price_Afflictions> Credits] Cure my afflictions."
-msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Afflictions> 크레딧 지불] 내 상태 이상을 치료해 줘."
+msgstr ""
+"[<Global=SFFL_MS01_SQ_Doctors_Price_Afflictions> 크레딧 주기] 내 상태 이상을 치료해 줘."
 
 #. List: 2
 #. QuestName = SFFL_MS01_DoctorDialogue
@@ -46274,7 +46276,7 @@ msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Afflictions> 크레딧 지불] 내 �
 #. REC: INFO:NAM1
 msgctxt "0007A7"
 msgid "[Pay <Global=SFFL_MS01_SQ_Doctors_Price_Wounds> Credits] Heal my wounds."
-msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Wounds> 크레딧 지불] 내 부상을 치료해 줘."
+msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Wounds> 크레딧 주기] 내 부상을 치료해 줘."
 
 #. List: 2
 #. QuestName = SFFL_MS01_DoctorDialogue
@@ -46290,7 +46292,7 @@ msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Wounds> 크레딧 지불] 내 부상
 #. REC: INFO:NAM1
 msgctxt "0007A8"
 msgid "[Pay <Global=SFFL_MS01_SQ_Doctors_Price_Wounds> Credits] Heal my wounds."
-msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Wounds> 크레딧 지불] 내 부상을 치료해 줘."
+msgstr "[<Global=SFFL_MS01_SQ_Doctors_Price_Wounds> 크레딧 주기] 내 부상을 치료해 줘."
 
 #. List: 2
 #. QuestName = SFFL_MS01_DoctorDialogue
@@ -59618,7 +59620,7 @@ msgstr "좋아, 크레딧을 가지고 돌아올게."
 #. REC: INFO:NAM1
 msgctxt "000C18"
 msgid "[Pay <Global=SFFL_MS03_RansomCredits>] Here's your credits."
-msgstr "[Pay <Global=SFFL_MS03_RansomCredits>] 여기 크레딧이야."
+msgstr "[<Global=SFFL_MS03_RansomCredits> 크레딧 주기] 여기 크레딧이야."
 
 #. List: 2
 #. QuestName = SFFL_MS03
@@ -73557,7 +73559,7 @@ msgstr "[거짓말] 정말 그냥 산책이었어. 밀리는 괜찮아."
 #. REC: INFO:NAM1
 msgctxt "00128C"
 msgid "[Pay <Global=SFFL_MS03_RansomCredits>] Here's your credits."
-msgstr "[지불 <Global=SFFL_MS03_RansomCredits>] 여기 크레딧이야."
+msgstr "[<Global=SFFL_MS03_RansomCredits> 크레딧 주기] 여기 크레딧이야."
 
 #. List: 2
 #. QuestName = SFFL_MS03

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-07-12 20:30+0000\n"
+"PO-Revision-Date: 2026-07-20 18:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -106113,7 +106113,7 @@ msgstr "모두가 섬겨야 한다."
 #. SUBTYPE: Goodbye
 msgctxt "01280C"
 msgid "Take care."
-msgstr "조심해."
+msgstr "몸조심해."
 
 #. SCRIPT NOTES: Friendly
 #. VOICE TYPE: SFBGS001_NPCMVorisNerun

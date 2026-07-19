@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-18 03:10+0900\n"
-"PO-Revision-Date: 2026-07-19 16:49+0000\n"
+"PO-Revision-Date: 2026-07-20 18:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -71061,7 +71061,7 @@ msgstr "몸조심해."
 #: 02039699:020396BC
 msgctxt "001426"
 msgid "Take care."
-msgstr "잘 지내."
+msgstr "몸조심해."
 
 #. List: 2
 #. REC: INFO:NAM1

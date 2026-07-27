@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-07-27 12:50+0000\n"
+"PO-Revision-Date: 2026-07-28 15:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -2763,7 +2763,7 @@ msgstr "0"
 msgctxt "000969"
 msgid "Chance to avoid damage.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"일정 확률로 피해를 회피한다.\n"
+"적이 일정 확률로 피해를 회피한다.\n"
 "\n"
 "이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
 
@@ -2822,7 +2822,7 @@ msgstr "0"
 msgctxt "000971"
 msgid "Vastly increased damage.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"피해가 대폭 증가한다.\n"
+"적이 주는 피해가 대폭 증가한다.\n"
 "\n"
 "이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
 
@@ -2881,7 +2881,7 @@ msgstr "0"
 msgctxt "000979"
 msgid "Increased damage and speed.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"피해와 속도가 증가한다.\n"
+"적이 주는 피해와 적의 속도가 증가한다.\n"
 "\n"
 "이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
 
@@ -3580,28 +3580,28 @@ msgstr "자유항성 민병대 중화기병"
 #. REC: MESG:NNAM
 msgctxt "0009D9"
 msgid "Legendary Crafting"
-msgstr "희귀도 등급 (전설 제작)"
+msgstr "아이템 희귀도 등급 (전설 제작)"
 
 #. List: 0
 #. EDID: HelpLegendaryCrafting
 #. REC: MESG:FULL
 msgctxt "0009DA"
 msgid "Legendary Crafting"
-msgstr "희귀도 등급 (전설 제작)"
+msgstr "아이템 희귀도 등급 (전설 제작)"
 
 #. List: 0
 #. EDID: HelpQuality
 #. REC: MESG:NNAM
 msgctxt "0009DC"
 msgid "Quality Upgrades"
-msgstr "품질 등급 (장비 업그레이드)"
+msgstr "아이템 품질 등급 (장비 업그레이드)"
 
 #. List: 0
 #. EDID: HelpQuality
 #. REC: MESG:FULL
 msgctxt "0009DD"
 msgid "Equipment Quality Upgrades"
-msgstr "품질 등급 (장비 업그레이드)"
+msgstr "아이템 품질 등급 (장비 업그레이드)"
 
 #. List: 0
 #. EDID: StarbornContainerSlateMsg
@@ -4890,7 +4890,7 @@ msgstr "0"
 msgctxt "000E7B"
 msgid "Increased health.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"체력이 증가한다.\n"
+"적의 체력이 증가한다.\n"
 "\n"
 "이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
 
@@ -4949,7 +4949,7 @@ msgstr "0"
 msgctxt "000E83"
 msgid "Clouds your vision and heals self.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"적의 시야가 흐려지게 만들고 체력를 흡수해 자신을 회복한다.\n"
+"적이 상대의 시야가 흐려지게 만들고 체력를 흡수해 자신을 회복한다.\n"
 "\n"
 "이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
 
@@ -5008,7 +5008,7 @@ msgstr "0"
 msgctxt "000E8B"
 msgid "Very resistant to damage.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"피해에 대해 매우 높은 저항을 지닌다.\n"
+"적이 피해에 대해 매우 높은 저항을 지닌다.\n"
 "\n"
 "이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
 
@@ -5067,7 +5067,7 @@ msgstr "0"
 msgctxt "000E93"
 msgid "Faster.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"더 빨라진다.\n"
+"적이 더 빨라진다.\n"
 "\n"
 "이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
 
@@ -5126,7 +5126,7 @@ msgstr "0"
 msgctxt "000E9B"
 msgid "Heals nearby allies.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"근처 아군을 회복시킨다.\n"
+"적이 근처 아군을 회복시킨다.\n"
 "\n"
 "이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
 
@@ -5185,7 +5185,7 @@ msgstr "0"
 msgctxt "000EA3"
 msgid "Nearby enemies take less damage.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"근처 적이 받는 피해가 감소한다.\n"
+"적 근처 다른 적들이 받는 피해가 감소한다.\n"
 "\n"
 "이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
 
@@ -5244,7 +5244,7 @@ msgstr "0"
 msgctxt "000EAB"
 msgid "Vastly increased health, slower.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"체력이 대폭 증가하나, 속도가 느려진다.\n"
+"적의 체력이 대폭 증가하나, 속도가 느려진다.\n"
 "\n"
 "이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
 
@@ -9972,7 +9972,7 @@ msgstr "0"
 msgctxt "00148B"
 msgid "Throws incendiary grenades.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"소이 수류탄을 투척한다.\n"
+"적이 소이 수류탄을 투척한다.\n"
 "\n"
 "이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
 
@@ -11263,7 +11263,7 @@ msgstr "0"
 msgctxt "001981"
 msgid "Dying puts nearby allies into a rage.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"사망 시 근처 아군이 분노한다.\n"
+"적 사망 시 근처 적군이 분노한다.\n"
 "\n"
 "이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
 
@@ -19045,8 +19045,8 @@ msgstr ""
 msgctxt "0009DB"
 msgid "Legendary Effects are unique bonuses that enhance equipment. They are divided into four categories:\n\n- 1 Star - Rare\n- 2 Stars - Epic\n- 3 Stars - Legendary\n- 4 Stars - Exotic\n\nYou can reroll and add legendary effects onto your equipment at their appropriate workbenches. There are a limited number of times that you can reroll an effect on your equipment before being able to craft a specific one. \n\nEquipment with three legendary effects can have a fourth legendary effect crafted onto it. Exotic effects can not be found in the world and can only be crafted.\n\nRerolling and crafting legendary effects requires X-Tech and Credits. "
 msgstr ""
-"스타필드의 아이템이나 구조물에는 희귀도 등급과 품질 등급이 존재합니다. 이 도움말에서는 희귀도 등급에 대해 설명합니다. 품질 등급에 "
-"대해서는 품질 등급 (장비 업그레이드) 도움말을 참고하십시오.\n"
+"스타필드의 아이템이나 구조물에는 희귀도 등급과 품질 등급이 존재합니다. 이 도움말에서는 아이템 희귀도 등급에 대해 설명합니다. 아이템 "
+"품질 등급에 대해서는 아이템 품질 등급 (장비 업그레이드) 도움말을 참고하십시오.\n"
 "\n"
 "\n"
 "자원과 제조 부품의 희귀도는 다음의 5가지 등급으로 나뉩니다. (자원과 제조 부품 희귀도 등급 명칭에는 에픽과 레전더리가 없습니다.)\n"
@@ -19083,8 +19083,8 @@ msgstr ""
 msgctxt "0009DE"
 msgid "You can improve the quality of your equipment at their appropriate workbenches. Each quality level costs more to upgrade than the last.\n\nRanged weapons have six quality levels:\n\n1. Standard\n2. Calibrated\n3. Refined\n4. Advanced\n5. Superior\n6. Exceptional\n\nMelee weapons have six quality levels:\n\n1. Standard\n2. Sharpened\n3. Honed\n4. Quantum-Edged\n5. Flawless\n6. Masterwork\n\nArmor has five quality levels:\n\n1. Standard\n2. Calibrated\n3. Refined\n4. Advanced\n5. Superior"
 msgstr ""
-"스타필드의 아이템이나 구조물에는 희귀도 등급과 품질 등급이 존재합니다. 이 도움말에서는 품질 등급에 대해 설명합니다. 희귀도 등급에 "
-"대해서는 희귀도 등급 (전설 제작) 도움말을 참고하십시오.\n"
+"스타필드의 아이템이나 구조물에는 희귀도 등급과 품질 등급이 존재합니다. 이 도움말에서는 아이템 품질 등급에 대해 설명합니다. 아이템 "
+"희귀도 등급에 대해서는 희귀도 등급 (전설 제작) 도움말을 참고하십시오.\n"
 "\n"
 "\n"
 "장비 품질 등급의 경우 각 장비에 대응하는 작업대에서 올릴 수 있습니다. 품질 등급이 높아질수록 업그레이드 비용도 증가합니다.\n"
@@ -19855,7 +19855,7 @@ msgctxt "001028"
 msgid "LEGENDARY ENEMY MODIFIERS\nThis option lets you control at what level enemy modifiers can appear."
 msgstr ""
 "전설 적 보정\n"
-"이 설정을 바꾸면 보정된 적이 나타나기 시작하는 레벨을 설정할 수 있습니다."
+"이 설정에서는 보정 효과를 받는 적이 나타나기 시작하는 레벨을 설정할 수 있습니다."
 
 #. List: 1
 #. EDID: HelpStatUpgrades
@@ -24990,7 +24990,7 @@ msgstr "내 말이 의심스럽다면, 직접 정착지에 가서 확인해 봐.
 #. REC: INFO:NAM1
 msgctxt "0001E2"
 msgid "I'm sorry you feel that way. But I'm going."
-msgstr "그렇게 생각한다니 유감이네요. 하지만 절 할 거예요."
+msgstr "그렇게 생각한다니 유감이네요. 하지만 전 할 거예요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_MiscDialogue
@@ -54355,7 +54355,7 @@ msgstr "메시지 받았어, 다르시."
 #. REC: INFO:NAM1
 msgctxt "000ABD"
 msgid "I might be forced to make a difficult choice."
-msgstr "어려운 선택을 해야 할지도 모릅니다."
+msgstr "어려운 선택을 해야 할지도 몰라."
 
 #. List: 2
 #. QuestName = SFFL_Anchorpoint_RandConv06_ChanKillian
@@ -54370,7 +54370,7 @@ msgstr "어려운 선택을 해야 할지도 모릅니다."
 #. REC: INFO:NAM1
 msgctxt "000ABE"
 msgid "Should there be an incident, we might not be able to protect everyone. "
-msgstr "사고가 생기면 모두를 지키지 못할 수도 있습니다. "
+msgstr "사고가 생기면 모두를 지키지 못할 수도 있다고. "
 
 #. List: 2
 #. QuestName = SFFL_Anchorpoint_RandConv06_ChanKillian
@@ -54386,7 +54386,7 @@ msgstr "사고가 생기면 모두를 지키지 못할 수도 있습니다. "
 #. REC: INFO:NAM1
 msgctxt "000ABF"
 msgid "Fine, but you should consider your priorities."
-msgstr "좋습니다. 하지만 우선순위를 생각해 보시죠."
+msgstr "좋아. 하지만 우선순위를 생각해 보라고."
 
 #. List: 2
 #. QuestName = SFFL_Anchorpoint_RandConv08_ChanRishi
@@ -77128,7 +77128,7 @@ msgstr "엄격하지만 공정하게. 우리가 이곳을 운영하는 방식이
 #. REC: INFO:NAM1
 msgctxt "001369"
 msgid "Sure, this place ain't fancy, but if you need to lay low, you can do a lot worse."
-msgstr "그래, 이곳은 화려하진 않지만, 몸을 숨길 곳이 필요하다면 이보다 훨씬 나쁜 곳도 많아."
+msgstr "그래, 이곳은 화려하진 않지만, 이 정도면 숨어 지내기엔 괜찮지. 이보다 훨씬 나쁜 곳도 많으니까."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -93080,7 +93080,7 @@ msgstr "오랜만에 아버지와 다시 이야기하는 게 조금 어색하긴
 #. REC: INFO:NAM1
 msgctxt "001814"
 msgid "If I never see another Spacer in here again, that'll be just fine with me."
-msgstr "여기서 다시는 스페이서를 보지 않게 된다면 그걸로 아주 좋겠어."
+msgstr "여기서 다시는 스페이서를 보지 않았으면 좋겠어."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint

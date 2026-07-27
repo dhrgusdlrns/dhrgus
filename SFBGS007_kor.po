@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-27 00:51+0900\n"
-"PO-Revision-Date: 2026-07-07 13:49+0000\n"
+"PO-Revision-Date: 2026-07-28 15:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -299,7 +299,7 @@ msgstr ""
 # List: 0, EDID: PEO_GPO_Diff_EnemyDamage, REC: GPOF:NNAM
 msgctxt "00003C"
 msgid "Enemy Combat Damage"
-msgstr "전투시 적이 가하는 피해"
+msgstr "전투시 적이 가하는 피해 정도"
 
 # List: 0, EDID: PEO_GPO_Diff_PlayerDamage_Ship, REC: GPOF:RESN
 msgctxt "00003D"

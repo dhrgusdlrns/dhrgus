@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-07-20 18:49+0000\n"
+"PO-Revision-Date: 2026-07-31 16:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -257036,7 +257036,7 @@ msgstr "바로 붙어서 갈게."
 #. SUBTYPE: Custom
 msgctxt "000335"
 msgid "I'll watch your six."
-msgstr "네 후방은 맡겨 둬."
+msgstr "네 6시 방향은 맡겨 둬."
 
 #. DIALOGUE BEFORE: Player Default: I'd like you to follow me for a while.
 #. ALIAS: Sahima

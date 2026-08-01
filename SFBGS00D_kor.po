@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-07-31 17:49+0000\n"
+"PO-Revision-Date: 2026-08-02 07:11+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -57805,7 +57805,7 @@ msgstr "그녀가 네 아버지에게 메시지를 보냈고, 그가 나를 보�
 #. REC: INFO:NAM1
 msgctxt "000BA1"
 msgid "Again, thank you."
-msgstr "다시 한 번 고마워."
+msgstr "다시 한 번 고맙습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57820,7 +57820,7 @@ msgstr "다시 한 번 고마워."
 #. REC: INFO:NAM1
 msgctxt "000BA2"
 msgid "I wish I had more, but that's the best I could do."
-msgstr "더 많이 있었으면 좋았겠지만, 이게 내가 할 수 있는 최선이었어."
+msgstr "더 많이 드릴 수 있으면 좋겠지만, 제가 최대한 드릴 수 있는 건 이게 다입니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57835,7 +57835,7 @@ msgstr "더 많이 있었으면 좋았겠지만, 이게 내가 할 수 있는 �
 #. REC: INFO:NAM1
 msgctxt "000BA3"
 msgid "Here you go."
-msgstr "여기 있어."
+msgstr "여기 있습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57851,7 +57851,7 @@ msgstr "여기 있어."
 #. REC: INFO:NAM1
 msgctxt "000BA4"
 msgid "I said I'd get some credits together for you."
-msgstr "너를 위해 크레딧을 좀 모아 보겠다고 했잖아."
+msgstr "당신에게 드릴 크레딧은 좀 모아 보겠다고 이미 말씀드렸을 텐데요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -64064,7 +64064,7 @@ msgstr "*한숨* 큰돈을 벌 기회를 날려버렸어."
 #. REC: INFO:NAM1
 msgctxt "000D39"
 msgid "I can't tell you how much I appreciate what you did."
-msgstr "네가 해준 일을 내가 얼마나 고맙게 생각하는지 말로 다 못 해."
+msgstr "당신이 해주신 일에 대해 얼마나 고맙게 생각하는지 말로 다 표현 못 하겠습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -64203,7 +64203,7 @@ msgstr "이곳이 아직도 멀쩡하다니 놀랍네."
 #. REC: INFO:NAM1
 msgctxt "000D43"
 msgid "It's out there, all around us... space... deadly space..."
-msgstr "저 밖에 있어, 우리 주위 사방에... 우주... 치명적인 우주가..."
+msgstr "저 밖에 있어. 우리 주위에... 우주가... 치명적인 우주가..."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -64217,7 +64217,7 @@ msgstr "저 밖에 있어, 우리 주위 사방에... 우주... 치명적인 우
 #. REC: INFO:NAM1
 msgctxt "000D44"
 msgid "I can treat your injuries, but don't expect sympathy."
-msgstr "부상은 치료해 줄 수 있지만, 동정은 기대하지 마."
+msgstr "부상은 치료해 줄 수 있지만, 동정이라도 해줄 거라 기대하지 마시죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65059,7 +65059,7 @@ msgstr "뭘 가지고 있는지 보자."
 #. REC: INFO:NAM1
 msgctxt "000D7B"
 msgid "So, how can I help you?"
-msgstr "그래, 뭘 도와줄까?"
+msgstr "그래서, 내게 볼일이 있나?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65075,7 +65075,7 @@ msgstr "그래, 뭘 도와줄까?"
 #. REC: INFO:NAM1
 msgctxt "000D7C"
 msgid "In any case, you made the perilous journey to our little speck of light in the abyss. "
-msgstr "어쨌든, 너는 심연 속 우리의 작은 빛 한 점까지 위험한 여정을 해왔어."
+msgstr "어쨌든, 이 심연 같은 우주에서 고작 빛나는 점을 따라 용케 위험한 고비를 넘기면서 여기까지 왔네. "
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65093,7 +65093,7 @@ msgstr "어쨌든, 너는 심연 속 우리의 작은 빛 한 점까지 위험�
 #. REC: INFO:NAM1
 msgctxt "000D7D"
 msgid "You seem nervous. Is everything okay?"
-msgstr "긴장한 것 같네. 괜찮아?"
+msgstr "긴장한 것 같은데? 괜찮아?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65111,7 +65111,7 @@ msgstr "긴장한 것 같네. 괜찮아?"
 #. REC: INFO:NAM1
 msgctxt "000D7E"
 msgid "Space travel has risks, but it's nothing I can't handle."
-msgstr "우주 여행엔 위험이 따르지만, 내가 감당 못 할 건 아니야."
+msgstr "우주 여행에 위험이 따르긴 하지만, 감당 못 할 수준은 아니야."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65126,7 +65126,7 @@ msgstr "우주 여행엔 위험이 따르지만, 내가 감당 못 할 건 아�
 #. REC: INFO:NAM1
 msgctxt "000D7F"
 msgid "That way, I'll never have to look up at the night sky and be reminded of the terrors of space."
-msgstr "그렇게 하면 밤하늘을 올려다보며 우주의 공포를 떠올릴 일도 없겠지."
+msgstr "그러면 더 이상 밤하늘을 올려다볼 필요도, 우주의 그 끔찍한 공포를 다시 떠올릴 일도 없겠지."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65141,7 +65141,7 @@ msgstr "그렇게 하면 밤하늘을 올려다보며 우주의 공포를 떠올
 #. REC: INFO:NAM1
 msgctxt "000D80"
 msgid "Hopefully I can find a settlement on a planet where it's always day time."
-msgstr "항상 낮인 행성의 정착지를 찾을 수 있으면 좋겠어."
+msgstr "언제나 낮인 그런 행성의 정착지를 찾을 수 있다면 참 좋을 텐데."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65156,7 +65156,7 @@ msgstr "항상 낮인 행성의 정착지를 찾을 수 있으면 좋겠어."
 #. REC: INFO:NAM1
 msgctxt "000D81"
 msgid "I do not want to be conscious for any space travel, no way."
-msgstr "우주 여행 중에 깨어 있고 싶지 않아. 절대로."
+msgstr "우주 여행 중엔 깨어 있고 싶지 않아. 절대로."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65171,7 +65171,7 @@ msgstr "우주 여행 중에 깨어 있고 싶지 않아. 절대로."
 #. REC: INFO:NAM1
 msgctxt "000D82"
 msgid "Of course, I'll probably have to take something to knock myself out."
-msgstr "물론 기절하듯 잠들려면 뭔가를 먹어야 할지도 모르지."
+msgstr "물론 수면제라도 먹고 정신줄 놓은 채로 가야 하겠지만 말이야."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65187,7 +65187,7 @@ msgstr "물론 기절하듯 잠들려면 뭔가를 먹어야 할지도 모르지
 #. REC: INFO:NAM1
 msgctxt "000D83"
 msgid "Oh, sure! Once I've saved up enough money, I'm going to book passage on a ship."
-msgstr "아, 물론이지! 돈을 충분히 모으면 우주선 표를 예약할 거야."
+msgstr "아, 물론이지! 충분히 돈을 모으면 우주선 탑승권을 살 거야."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -77239,7 +77239,7 @@ msgstr "선택지를 곰곰이 따져보고 있는 거겠지?"
 #. REC: INFO:NAM1
 msgctxt "001371"
 msgid "And just like that, with no warning, the customer entered a trance."
-msgstr "그리고 바로 그렇게, 아무 예고도 없이 손님은 무아지경에 빠졌습니다."
+msgstr "갑자기, 예고도 없이, 눈앞의 손님이 그만 정신을 잃고 말았습니다. 그런 상황인 건가?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -77253,7 +77253,7 @@ msgstr "그리고 바로 그렇게, 아무 예고도 없이 손님은 무아지�
 #. REC: INFO:NAM1
 msgctxt "001372"
 msgid "I get lost in my thoughts, too. A lot."
-msgstr "저도 생각에 빠지곤 합니다. 자주요."
+msgstr "나도 생각에 빠지곤 해. 자주."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -77900,7 +77900,7 @@ msgstr "이 먼 곳까지는 무슨 일로 오셨죠?"
 #. REC: INFO:NAM1
 msgctxt "00139C"
 msgid "Why are you surprised I'm safe? Is this area dangerous?"
-msgstr "내가 무사한 게 왜 놀라운데? 이 동네가 그렇게 위험해?"
+msgstr "내가 무사한 게 왜 놀라운데? 이 구역이 그렇게 위험해?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -77916,7 +77916,7 @@ msgstr "내가 무사한 게 왜 놀라운데? 이 동네가 그렇게 위험해
 #. REC: INFO:NAM1
 msgctxt "00139D"
 msgid "Okay."
-msgstr "알겠어요."
+msgstr "알겠어."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -87239,7 +87239,7 @@ msgstr "손상된 부품을 가져왔어? 이런 걸 제값 다 줄 순 없어."
 #. REC: INFO:NAM1
 msgctxt "0016A6"
 msgid "Shiny and new, I see. Glad you got them in good shape."
-msgstr "반짝반짝 새거구나. 멀쩡한 상태로 가져와서 다행이야."
+msgstr "반짝반짝한 신품이구나. 멀쩡한 상태로 가져와서 다행이야."
 
 #. List: 2
 #. QuestName = SFFL_MS03
@@ -93357,7 +93357,7 @@ msgstr "난 서두를 거 없어."
 #. REC: INFO:NAM1
 msgctxt "001828"
 msgid "Need a little quiet time?"
-msgstr "조용한 시간이 좀 필요해?"
+msgstr "조용히 있고 싶어?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -93455,7 +93455,7 @@ msgstr "그래, 어차피 나도 너랑 할 얘기 더 없어."
 #. REC: INFO:NAM1
 msgctxt "00182F"
 msgid "All done? Well, you know where I'll be."
-msgstr "다 끝났어? 뭐, 내가 어디 있는지는 알잖아."
+msgstr "다 끝났어? 뭐, 다음에 어떻게 찾아와야 하는지는 알지?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94274,7 +94274,7 @@ msgstr "지나치게 위험을 부풀린 거 같은데. "
 #. REC: INFO:NAM1
 msgctxt "001865"
 msgid "Space travel is very safe. People do it all the time."
-msgstr "우주 여행은 매우 안전해. 다른 사람들도 늘 하잖아."
+msgstr "우주 여행은 매우 안전해. 다른 사람들도 계속 여행 다니잖아."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94291,7 +94291,7 @@ msgstr "우주 여행은 매우 안전해. 다른 사람들도 늘 하잖아."
 #. REC: INFO:NAM1
 msgctxt "001866"
 msgid "Safety was not foremost on anyone's mind."
-msgstr "그 누구도 안전을 최우선으로 생각하지 않았습니다."
+msgstr "그 누구도 안전을 최우선으로 생각하지 않더라."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94307,7 +94307,7 @@ msgstr "그 누구도 안전을 최우선으로 생각하지 않았습니다."
 #. REC: INFO:NAM1
 msgctxt "001867"
 msgid "I should know, I grew up on Neon and fell in with a gang."
-msgstr "제가 잘 압니다. 저는 네온에서 자랐고 갱단과 어울렸으니까요."
+msgstr "미친 짓은 내가 또 잘 알지. 네온에서 자랐고 갱단과 어울리기도 했으니까."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94324,7 +94324,7 @@ msgstr "제가 잘 압니다. 저는 네온에서 자랐고 갱단과 어울렸�
 #. REC: INFO:NAM1
 msgctxt "001868"
 msgid "People do a lot of crazy things. That doesn't make them safe."
-msgstr "사람들은 별의별 미친 짓을 합니다. 그렇다고 그게 안전해지는 건 아닙니다."
+msgstr "인간들이야 별의별 미친 짓을 다 저지르잖아. 그런 짓을 저지른다고 안전해지는 것도 아니고."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94341,7 +94341,7 @@ msgstr "사람들은 별의별 미친 짓을 합니다. 그렇다고 그게 안�
 #. REC: INFO:NAM1
 msgctxt "001869"
 msgid "Space travel is incredibly dangerous. Anyone who arrives safely is lucky."
-msgstr "우주 여행은 대단히 위험합니다. 무사히 도착한 사람은 운이 좋은 겁니다."
+msgstr "우주 여행은 대단히 위험해. 무사히 도착한 사람은 그냥 운이 좋은 거야."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94357,7 +94357,7 @@ msgstr "우주 여행은 대단히 위험합니다. 무사히 도착한 사람�
 #. REC: INFO:NAM1
 msgctxt "00186A"
 msgid "But that's not what I mean."
-msgstr "하지만 제가 말하는 건 그게 아닙니다."
+msgstr "근데 내가 말하는 위험은 그런 게 아니야."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94373,7 +94373,7 @@ msgstr "하지만 제가 말하는 건 그게 아닙니다."
 #. REC: INFO:NAM1
 msgctxt "00186B"
 msgid "It's pretty remote out here. There's no United Colonies or Freestar Collective patrol ships."
-msgstr "이곳은 꽤 외진 곳입니다. 식민지 연합이나 자유항성 공동체 순찰선도 없죠."
+msgstr "이곳은 꽤 외진 곳이야. 식민지 연합이나 자유항성 공동체 순찰선도 없긴 해."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94390,7 +94390,7 @@ msgstr "이곳은 꽤 외진 곳입니다. 식민지 연합이나 자유항성 �
 #. REC: INFO:NAM1
 msgctxt "00186C"
 msgid "This area? Well, if you mean the Algorab system then maybe. "
-msgstr "이 지역이요? 알고라브 성계를 말하는 거라면, 글쎄요."
+msgstr "이 구역? 알고라브 항성계를 말하는 거라면, 글쎄. "
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94408,7 +94408,7 @@ msgstr "이 지역이요? 알고라브 성계를 말하는 거라면, 글쎄요.
 #. REC: INFO:NAM1
 msgctxt "00186D"
 msgid "Well maybe you just haven't stopped to consider the hazards of space."
-msgstr "어쩌면 당신이 우주의 환경 위험을 생각해 본 적이 없을 뿐일지도 모르죠."
+msgstr "글쎄, 그냥 위험한 우주 환경에 대해 생각해 본 적도 없는 거 아닌가."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94424,7 +94424,7 @@ msgstr "어쩌면 당신이 우주의 환경 위험을 생각해 본 적이 없�
 #. REC: INFO:NAM1
 msgctxt "00186E"
 msgid "You must be relieved to have made it here safe and sound."
-msgstr "여기까지 무사히 도착해서 안심이 되시겠군요."
+msgstr "여기까지 용케 살아서 도착했네. 한시름 놓았겠네."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94439,7 +94439,7 @@ msgstr "여기까지 무사히 도착해서 안심이 되시겠군요."
 #. REC: INFO:NAM1
 msgctxt "00186F"
 msgid "The ship that just docked, that was you, right?"
-msgstr "방금 도킹한 우주선, 당신이죠?"
+msgstr "방금 도킹한 우주선, 당신이 몰고 온 거지?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94455,7 +94455,7 @@ msgstr "방금 도킹한 우주선, 당신이죠?"
 #. REC: INFO:NAM1
 msgctxt "001870"
 msgid "How do you cope with a constant fear of space while living on a star station?"
-msgstr "이런 우주정거장에 살면서 시도 때도 없이 밀려드는 우주 공포증을 어떻게 견디는 거지?"
+msgstr "계속 우주 공포증에 시달리는 주제에, 도대체 우주정거장 생활은 어떻게 견디는 거지?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94487,7 +94487,7 @@ msgstr "분명 쓸 만한 걸 찾을 수 있을 거야."
 #. REC: INFO:NAM1
 msgctxt "001872"
 msgid "Okay."
-msgstr "좋아요."
+msgstr "좋아."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94503,7 +94503,7 @@ msgstr "좋아요."
 #. REC: INFO:NAM1
 msgctxt "001873"
 msgid "I'd like to see what you have in stock."
-msgstr "가진 물건을 보고 싶군."
+msgstr "상품 목록을 보고 싶어."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -110835,7 +110835,7 @@ msgstr "우리를 우주의 진공 속 끔찍한 죽음과 갈라놓는 건 금�
 #. REC: INFO:NAM1
 msgctxt "001E08"
 msgid "Nothing I said is a lie. All those dangers are very, very real."
-msgstr "내가 한 말 중 거짓은 없어. 그 모든 위험은 아주, 아주 현실적이야."
+msgstr "틀린 말은 하나도 안 했어. 방금 말한 위험들은 전부 진짜, 진짜로 일어나는 일들이라고."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111008,7 +111008,7 @@ msgstr "커티는 만났어? 우리 의사야."
 #. REC: INFO:NAM1
 msgctxt "001E13"
 msgid "That's a very fatalistic outlook."
-msgstr "꽤 숙명론적인 관점이군."
+msgstr "꽤 결정론적인 시각이네."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111074,7 +111074,7 @@ msgstr "듣기로는 아주 희귀한 바이러스래. 어디서 왔는지도 �
 #. REC: INFO:NAM1
 msgctxt "001E17"
 msgid "Do you ever think about leaving? Maybe starting over somewhere not in space?"
-msgstr "떠나는 걸 생각해 본 적 있어? 우주가 아닌 곳에서 새 출발을 한다든가?"
+msgstr "여길 떠나고 싶다고 생각해 본 적 있어? 우주가 아닌 곳에서 새 출발하고 싶다 생각한 적은 없어?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111106,7 +111106,7 @@ msgstr "알겠어."
 #. REC: INFO:NAM1
 msgctxt "001E19"
 msgid "You've got it."
-msgstr "알겠습니다."
+msgstr "알겠어."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111680,7 +111680,7 @@ msgstr "전혀 없어. 기분 엄청 잡쳤네."
 #. REC: INFO:NAM1
 msgctxt "001E3C"
 msgid "I wish! Darn things are getting to be scarce."
-msgstr "그랬으면 좋겠네! 빌어먹을 것들이 점점 귀해지고 있어."
+msgstr "그랬으면 좋겠네! 빌어먹을 정보가 점점 적게 들어오고 있어."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -125120,7 +125120,7 @@ msgstr "그럼 잘 가."
 #. REC: INFO:NAM1
 msgctxt "002234"
 msgid "Oh, my time's up? Okay."
-msgstr "아, 내 시간 다 됐어? 알았어."
+msgstr "아, 벌써 시간이 다 됐어? 알겠어."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126240,7 +126240,7 @@ msgstr "매디를 만나 봤어? 이곳을 계속 굴러가게 만드는 사람�
 #. REC: INFO:NAM1
 msgctxt "00227B"
 msgid "And what are you thinking in those seconds? Maybe I should have just stayed on terra firma."
-msgstr "그 몇 초 동안 무슨 생각을 하게 될까? 그냥 땅 위에 있을 걸 그랬나, 하는 생각이지."
+msgstr "그 몇 초 동안 무슨 생각을 하게 될까? 그냥 얌전하게 지구 땅바닥이나 밟고 살 걸 후회나 하겠지."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126256,7 +126256,7 @@ msgstr "그 몇 초 동안 무슨 생각을 하게 될까? 그냥 땅 위에 있
 #. REC: INFO:NAM1
 msgctxt "00227C"
 msgid "Now you're plunging like a meteor toward the surface of some moon, only seconds to live."
-msgstr "이제 넌 유성처럼 어느 달의 표면을 향해 추락하고 있고, 살 수 있는 시간은 몇 초뿐이야."
+msgstr "이제 유성처럼 어느 위성의 표면을 향해 꼬라박게 되고, 몇 초 뒤에는 뒈지겠지."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126272,7 +126272,7 @@ msgstr "이제 넌 유성처럼 어느 달의 표면을 향해 추락하고 있�
 #. REC: INFO:NAM1
 msgctxt "00227D"
 msgid "Then one day, boom, your landing thrusters fail."
-msgstr "그러다 어느 날, 쾅, 착륙 추력기가 고장 나는 거야."
+msgstr "그러다 어느 날, 펑! 착륙용 역추진 로켓이 고장 나는 거지."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126289,7 +126289,7 @@ msgstr "그러다 어느 날, 쾅, 착륙 추력기가 고장 나는 거야."
 #. REC: INFO:NAM1
 msgctxt "00227E"
 msgid "When you do a dangerous thing over and over and keep getting away with it, you get complacent."
-msgstr "위험한 일을 반복하면서 계속 무사히 넘어가다 보면 방심하게 돼."
+msgstr "위험천만한 짓을 계속 반복하면서 매번 무사히 넘어가다가, 결국 안전불감증에 빠지게 되는 거야."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126305,7 +126305,7 @@ msgstr "위험한 일을 반복하면서 계속 무사히 넘어가다 보면 �
 #. REC: INFO:NAM1
 msgctxt "00227F"
 msgid "That's all it takes."
-msgstr "그거면 충분해."
+msgstr "그러면 끝장나는 거지."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126320,7 +126320,7 @@ msgstr "그거면 충분해."
 #. REC: INFO:NAM1
 msgctxt "002280"
 msgid "You think your ship will protect you, but one loose bolt in your hull, one faulty circuit in life support..."
-msgstr "우주선이 널 지켜 줄 거라고 생각하지만, 선체의 볼트 하나가 헐겁거나 생명 유지 장치 회로 하나가 고장 나면..."
+msgstr "우주선이 널 지켜 줄 거라 생각하겠지만, 선체의 볼트가 헐겁거나 생명 유지 장치 회로가 고장 나면..."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126335,7 +126335,7 @@ msgstr "우주선이 널 지켜 줄 거라고 생각하지만, 선체의 볼트 
 #. REC: INFO:NAM1
 msgctxt "002281"
 msgid "Not to mention micrometeorite storms, cosmic rays, and the icy vacuum of space itself."
-msgstr "미소운석 폭풍, 우주 방사선, 그리고 차디찬 우주의 진공은 말할 것도 없고."
+msgstr "미세 운석 폭풍, 우주 방사선, 차디찬 우주의 진공은 말할 것도 없고."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126351,7 +126351,7 @@ msgstr "미소운석 폭풍, 우주 방사선, 그리고 차디찬 우주의 진
 #. REC: INFO:NAM1
 msgctxt "002282"
 msgid "Think about it. There's pirates and Spacers out there who'd love nothing more than to blast you into atoms."
-msgstr "생각해 봐. 널 원자 단위로 날려 버리고 싶어 안달 난 해적들과 스페이서들이 저 밖에 있어."
+msgstr "생각해 봐. 널 원자 단위로 날려 버리고 싶어 안달 난 해적들과 스페이서들이 저 밖에 있다고."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126368,7 +126368,7 @@ msgstr "생각해 봐. 널 원자 단위로 날려 버리고 싶어 안달 난 �
 #. REC: INFO:NAM1
 msgctxt "002283"
 msgid "A rickety old star station on the fringes of explored space... what's there to be nervous about? *Nervous laugh*"
-msgstr "탐사된 우주의 변두리에 있는 낡고 삐걱대는 우주정거장... 긴장할 게 뭐가 있겠어? *긴장한 웃음*"
+msgstr "인류가 탐사한 우주 영역의 변방에 있는 낡고 삐걱대는 우주정거장... 긴장할 거 참 없겠다 그치? *긴장한 웃음*"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126384,7 +126384,7 @@ msgstr "탐사된 우주의 변두리에 있는 낡고 삐걱대는 우주정거
 #. REC: INFO:NAM1
 msgctxt "002284"
 msgid "I just can't stop thinking about the dangers all around us."
-msgstr "우리 주변의 위험들을 생각하지 않을 수가 없어."
+msgstr "사방에 도사리고 있는 위험요소 때문에 자꾸만 신경이 쓰여."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126436,7 +126436,7 @@ msgstr "그래야지! 발사 버튼을 누를 때마다 주사위를 굴리는 �
 #. REC: INFO:NAM1
 msgctxt "002287"
 msgid "Yep, happy to have made it here safely."
-msgstr "그래, 무사히 여기 도착해서 다행이야."
+msgstr "그래, 무사히 도착해서 한시름 놓았지."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126451,7 +126451,7 @@ msgstr "그래, 무사히 여기 도착해서 다행이야."
 #. REC: INFO:NAM1
 msgctxt "002288"
 msgid "I guess after a while, fear becomes a kind of companion."
-msgstr "시간이 지나면 두려움도 일종의 동료가 되는 것 같아."
+msgstr "근데 시간이 지나면, 두려움도 동료처럼 되는 것 같아."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126466,7 +126466,7 @@ msgstr "시간이 지나면 두려움도 일종의 동료가 되는 것 같아."
 #. REC: INFO:NAM1
 msgctxt "002289"
 msgid "At any moment, I was afraid that gravity could fail and I would plunge down into the sky."
-msgstr "언제든 중력이 사라져 내가 하늘 속으로 추락할까 봐 두려웠어."
+msgstr "언제든 중력이 사라져서 저 하늘 속으로 추락하지 않을까 두려웠어."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126497,7 +126497,7 @@ msgstr "나한텐 그게 위를 올려다보는 느낌이 아니었어. 무서�
 #. REC: INFO:NAM1
 msgctxt "00228B"
 msgid "Do you ever lay on your back and look up at the stars? I used to do that to test myself."
-msgstr "등을 대고 누워 별을 올려다본 적 있어? 난 스스로를 시험하려고 그러곤 했어."
+msgstr "누워서 별을 올려다본 적 있어? 난 스스로를 시험하려고 올려다보곤 했어."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127582,7 +127582,7 @@ msgstr "물론 있지!"
 #. REC: INFO:NAM1
 msgctxt "0022CE"
 msgid "Got any leads on more of those prototype robot parts?"
-msgstr "그 로봇 부품 시제품에 대한 단서가 더 있어?"
+msgstr "로봇 부품 시제품 정보 더 들어온 게 있어?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint

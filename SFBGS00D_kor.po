@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-08-02 07:11+0000\n"
+"PO-Revision-Date: 2026-08-07 14:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -2763,9 +2763,9 @@ msgstr "0"
 msgctxt "000969"
 msgid "Chance to avoid damage.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"적이 일정 확률로 피해를 회피한다.\n"
+"적이 일정 확률로 피해를 회피합니다.\n"
 "\n"
-"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
+"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정합니다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tricky
@@ -2822,9 +2822,9 @@ msgstr "0"
 msgctxt "000971"
 msgid "Vastly increased damage.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"적이 주는 피해가 대폭 증가한다.\n"
+"적이 주는 피해가 대폭 증가합니다.\n"
 "\n"
-"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
+"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정합니다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Dangerous
@@ -2881,9 +2881,9 @@ msgstr "0"
 msgctxt "000979"
 msgid "Increased damage and speed.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"적이 주는 피해와 적의 속도가 증가한다.\n"
+"적이 주는 피해와 적의 속도가 증가합니다.\n"
 "\n"
-"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
+"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정합니다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Berserker
@@ -4890,9 +4890,9 @@ msgstr "0"
 msgctxt "000E7B"
 msgid "Increased health.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"적의 체력이 증가한다.\n"
+"적의 체력이 증가합니다.\n"
 "\n"
-"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
+"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정합니다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Tank
@@ -4949,9 +4949,9 @@ msgstr "0"
 msgctxt "000E83"
 msgid "Clouds your vision and heals self.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"적이 상대의 시야가 흐려지게 만들고 체력를 흡수해 자신을 회복한다.\n"
+"적이 상대의 시야를 흐려지게 만들고 상대의 체력를 흡수해 자신을 회복합니다.\n"
 "\n"
-"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
+"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정합니다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Specialist
@@ -5008,9 +5008,9 @@ msgstr "0"
 msgctxt "000E8B"
 msgid "Very resistant to damage.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"적이 피해에 대해 매우 높은 저항을 지닌다.\n"
+"적이 피해에 대해 매우 높은 저항을 지닙니다.\n"
 "\n"
-"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
+"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정합니다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Shielded
@@ -5067,9 +5067,9 @@ msgstr "0"
 msgctxt "000E93"
 msgid "Faster.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"적이 더 빨라진다.\n"
+"적이 더 빨라집니다.\n"
 "\n"
-"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
+"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정합니다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Quick
@@ -5126,9 +5126,9 @@ msgstr "0"
 msgctxt "000E9B"
 msgid "Heals nearby allies.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"적이 근처 아군을 회복시킨다.\n"
+"적이 근처 아군을 회복시킵니다.\n"
 "\n"
-"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
+"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정합니다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Medic
@@ -5185,9 +5185,9 @@ msgstr "0"
 msgctxt "000EA3"
 msgid "Nearby enemies take less damage.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"적 근처 다른 적들이 받는 피해가 감소한다.\n"
+"적 근처 다른 적들이 받는 피해가 감소합니다.\n"
 "\n"
-"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
+"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정합니다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Leader
@@ -5244,9 +5244,9 @@ msgstr "0"
 msgctxt "000EAB"
 msgid "Vastly increased health, slower.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"적의 체력이 대폭 증가하나, 속도가 느려진다.\n"
+"적의 체력이 대폭 증가하나, 속도가 느려집니다.\n"
 "\n"
-"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
+"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정합니다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Behemoth
@@ -9972,9 +9972,9 @@ msgstr "0"
 msgctxt "00148B"
 msgid "Throws incendiary grenades.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"적이 소이 수류탄을 투척한다.\n"
+"적이 소이 수류탄을 투척합니다.\n"
 "\n"
-"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
+"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정합니다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Pyro
@@ -11263,9 +11263,9 @@ msgstr "0"
 msgctxt "001981"
 msgid "Dying puts nearby allies into a rage.\n\nSets the level that this Legendary Enemy Modifier appears."
 msgstr ""
-"적 사망 시 근처 적군이 분노한다.\n"
+"적 사망 시 근처 적군이 분노합니다.\n"
 "\n"
-"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정한다."
+"이 전설 효과를 지닌 적이 등장하기 시작하는 레벨을 설정합니다."
 
 #. List: 0
 #. EDID: SFBGS00D_GPO_Modifier_Martyr
@@ -64217,7 +64217,7 @@ msgstr "저 밖에 있어. 우리 주위에... 우주가... 치명적인 우주�
 #. REC: INFO:NAM1
 msgctxt "000D44"
 msgid "I can treat your injuries, but don't expect sympathy."
-msgstr "부상은 치료해 줄 수 있지만, 동정이라도 해줄 거라 기대하지 마시죠."
+msgstr "부상은 치료해 줄 수 있지만, 동정이라도 해줄 거란 기대는 하지 마시길."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65492,7 +65492,7 @@ msgstr "네가 그렇게 해주겠다고? 정말?"
 #. REC: INFO:NAM1
 msgctxt "000D96"
 msgid "Never mind. Forget I asked."
-msgstr "아니야. 내가 물어본 건 잊어."
+msgstr "아닙니다. 방금 물어본 건 잊어주시길."
 
 #. List: 2
 #. EDID: [0104048C]
@@ -65516,7 +65516,7 @@ msgstr "텍스트"
 #. REC: INFO:NAM1
 msgctxt "000D98"
 msgid "*Sigh* Maybe... maybe you're right."
-msgstr "*한숨* 어쩌면... 어쩌면 네 말이 맞을지도 몰라."
+msgstr "*한숨* 어쩌면... 어쩌면 당신 말이 맞을지도 모르겠군요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65533,7 +65533,7 @@ msgstr "*한숨* 어쩌면... 어쩌면 네 말이 맞을지도 몰라."
 #. REC: INFO:NAM1
 msgctxt "000D99"
 msgid "What are you, a psychiatrist?"
-msgstr "너 뭐야, 정신과 의사야?"
+msgstr "뭡니까? 정신과 의사라도 되십니까?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65550,7 +65550,7 @@ msgstr "너 뭐야, 정신과 의사야?"
 #. REC: INFO:NAM1
 msgctxt "000D9A"
 msgid "Talking about a problem is the first step in solving it."
-msgstr "문제에 대해 이야기하는 것이 해결의 첫걸음이야."
+msgstr "문제를 털어놓는 것부터 시작해야 문제를 해결을 할 수 있습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78133,7 +78133,7 @@ msgstr "봐요, 여기 크레딧이 넘쳐나는 상황은 아니거든요."
 #. REC: INFO:NAM1
 msgctxt "0013AA"
 msgid "I shouldn't be taking it out on you."
-msgstr "당신한테 화풀이할 일은 아니었어요."
+msgstr "당신한테 화풀이하려던 건 아니었어요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78150,7 +78150,7 @@ msgstr "당신한테 화풀이할 일은 아니었어요."
 #. REC: INFO:NAM1
 msgctxt "0013AB"
 msgid "*Sigh* Yeah, I guess you're right."
-msgstr "*한숨* 그래, 네 말이 맞는 것 같아."
+msgstr "*한숨* 예, 당신 말이 맞는 것 같습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78168,7 +78168,7 @@ msgstr "*한숨* 그래, 네 말이 맞는 것 같아."
 #. REC: INFO:NAM1
 msgctxt "0013AC"
 msgid "Sorry, no offense intended."
-msgstr "미안해, 기분 나쁘게 하려던 건 아니었어."
+msgstr "미안해요. 기분 나쁘게 하려던 건 아니었어요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78186,7 +78186,7 @@ msgstr "미안해, 기분 나쁘게 하려던 건 아니었어."
 #. REC: INFO:NAM1
 msgctxt "0013AD"
 msgid "*Sigh* No, don't be. It's not you."
-msgstr "*한숨* 아니, 그러지 마. 당신 때문이 아니야."
+msgstr "*한숨* 아닙니다. 사과하지 마세요. 당신이 잘못한 것도 아니지 않습니까."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78202,7 +78202,7 @@ msgstr "*한숨* 아니, 그러지 마. 당신 때문이 아니야."
 #. REC: INFO:NAM1
 msgctxt "0013AE"
 msgid "What the hell do you care?"
-msgstr "대체 네가 무슨 상관이야?"
+msgstr "근데 그게 당신과 무슨 상관이죠?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78218,7 +78218,7 @@ msgstr "대체 네가 무슨 상관이야?"
 #. REC: INFO:NAM1
 msgctxt "0013AF"
 msgid "Yeah? Well I just got some bad news."
-msgstr "그래? 방금 안 좋은 소식을 들었거든."
+msgstr "그래요? 예... 방금 안 좋은 소식을 들었거든요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94518,7 +94518,7 @@ msgstr "상품 목록을 보고 싶어."
 #. REC: INFO:NAM1
 msgctxt "001874"
 msgid "So yeah, this place needs a doctor."
-msgstr "그러니까, 이곳엔 의사가 필요합니다."
+msgstr "그래서, 예, 이곳엔 의사가 필요합니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94533,7 +94533,7 @@ msgstr "그러니까, 이곳엔 의사가 필요합니다."
 #. REC: INFO:NAM1
 msgctxt "001875"
 msgid "Get a few drinks in them, and the violence always follows."
-msgstr "술이 몇 잔 들어가면 폭력은 늘 따라옵니다."
+msgstr "그 인간들 위장에 술이 들어가면, 항상 폭력사태가 벌어지죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94548,7 +94548,7 @@ msgstr "술이 몇 잔 들어가면 폭력은 늘 따라옵니다."
 #. REC: INFO:NAM1
 msgctxt "001876"
 msgid "Spacers, pirates, outlaws, smugglers... they're all welcome here."
-msgstr "스페이서, 해적, 무법자, 밀수업자... 모두 여기서는 환영받습니다."
+msgstr "스페이서, 해적, 무법자, 밀수업자... 그래도 모두 여기서는 환영받죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94563,7 +94563,7 @@ msgstr "스페이서, 해적, 무법자, 밀수업자... 모두 여기서는 환
 #. REC: INFO:NAM1
 msgctxt "001877"
 msgid "See, we get all kinds in this place."
-msgstr "보시다시피 이곳엔 온갖 부류가 옵니다."
+msgstr "보시다시피 이곳엔 온갖 부류의 인간들이 옵니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94579,7 +94579,7 @@ msgstr "보시다시피 이곳엔 온갖 부류가 옵니다."
 #. REC: INFO:NAM1
 msgctxt "001878"
 msgid "You're either new around here, or just real lucky."
-msgstr "당신은 여기 처음이거나, 아니면 정말 운이 좋은 겁니다."
+msgstr "당신은 여기 처음 오셨거나, 아니면 정말 운이 좋은 분이신가 보군요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94732,7 +94732,7 @@ msgstr "어떤 개조를 말하는 거지?"
 #. REC: INFO:NAM1
 msgctxt "001881"
 msgid "Are you okay? You seem to be in a bad mood."
-msgstr "괜찮아? 기분이 안 좋아 보이는데."
+msgstr "괜찮으세요? 기분이 안 좋아 보이시네요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -94750,7 +94750,7 @@ msgstr "괜찮아? 기분이 안 좋아 보이는데."
 #. REC: INFO:NAM1
 msgctxt "001882"
 msgid "Why would someone kidnap your son?"
-msgstr "누가 왜 당신 아들을 납치하겠어?"
+msgstr "누가 무슨 이유로 아드님을 납치했을까요?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111122,7 +111122,7 @@ msgstr "알겠어."
 #. REC: INFO:NAM1
 msgctxt "001E1A"
 msgid "Does this place really need a doctor?"
-msgstr "이곳에 정말 의사가 필요해?"
+msgstr "이곳에 의사가 필요하긴 한가요?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111240,7 +111240,7 @@ msgstr "심부름? 들어나 볼까."
 #. REC: INFO:NAM1
 msgctxt "001E21"
 msgid "I just don't know who to turn to."
-msgstr "누구에게 도움을 청해야 할지 모르겠어요."
+msgstr "누구에게 도움을 청해야 할지 모르겠습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111255,7 +111255,8 @@ msgstr "누구에게 도움을 청해야 할지 모르겠어요."
 #. REC: INFO:NAM1
 msgctxt "001E22"
 msgid "His co-pilot Lucia managed to escape from the Spacer hideout. She sent me a message begging for help."
-msgstr "그의 부조종사 루시아가 스페이서 은신처에서 가까스로 탈출했어요. 제게 도움을 청하는 메시지를 보냈죠."
+msgstr ""
+"아들놈의 부조종사로 같이 일했던 루시아란 여자가 가까스로 스페이서 은신처에서 탈출했습니다. 그리곤 제게 도와달라고 메시지를 보냈죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111270,7 +111271,7 @@ msgstr "그의 부조종사 루시아가 스페이서 은신처에서 가까스�
 #. REC: INFO:NAM1
 msgctxt "001E23"
 msgid "He got ambushed by Spacers. They seized the ship and took him as a hostage."
-msgstr "그는 스페이서들의 매복을 당했어요. 그들이 우주선을 장악하고 그를 인질로 잡았죠."
+msgstr "아들놈이 스페이서들의 매복에 당했습니다. 스페이서들이 우주선을 장악하고 아들을 인질로 삼았죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111286,7 +111287,7 @@ msgstr "그는 스페이서들의 매복을 당했어요. 그들이 우주선을
 #. REC: INFO:NAM1
 msgctxt "001E24"
 msgid "It's my son Miles. He's a cargo pilot. Makes some dangerous runs."
-msgstr "제 아들 마일즈예요. 화물 조종사죠. 위험한 운송도 좀 맡고요."
+msgstr "제 아들 마일즈 때문에 그렇습니다. 화물 조종사로 일하거든요. 다소 위험한 운송도 하곤 해서요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126891,7 +126892,7 @@ msgstr "좋았어."
 #. REC: INFO:NAM1
 msgctxt "0022A4"
 msgid "All I know is, he's in serious danger."
-msgstr "내가 아는 건 그가 심각한 위험에 처해 있다는 것뿐이야."
+msgstr "제가 지금 아는 건, 아들 녀석이 큰 위험에 빠졌다는 것뿐입니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126907,7 +126908,7 @@ msgstr "내가 아는 건 그가 심각한 위험에 처해 있다는 것뿐이�
 #. REC: INFO:NAM1
 msgctxt "0022A5"
 msgid "You hear stories about forced labor, blood sports, torture for no reason."
-msgstr "강제노동, 유혈 스포츠, 이유 없는 고문 같은 이야기를 듣게 돼."
+msgstr "강제노동, 잔혹한 유혈 스포츠, 이유 없는 고문 같은 이야기가 생각나서요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126924,7 +126925,7 @@ msgstr "강제노동, 유혈 스포츠, 이유 없는 고문 같은 이야기를
 #. REC: INFO:NAM1
 msgctxt "0022A6"
 msgid "All kinds of reasons, I guess, and every one is awful."
-msgstr "이유야 온갖 게 있겠지만, 하나같이 끔찍하지."
+msgstr "이유를 찾자면 끝도 없겠지요. 하지만 동기가 어떻든, 전부 끔찍할 거 같군요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127046,7 +127047,7 @@ msgstr "네 아들을 되찾아 오겠어."
 #. REC: INFO:NAM1
 msgctxt "0022AD"
 msgid "Already forgotten."
-msgstr "이미 잊었어."
+msgstr "이미 잊었습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127064,7 +127065,7 @@ msgstr "이미 잊었어."
 #. REC: INFO:NAM1
 msgctxt "0022AE"
 msgid "There's no need to be defensive."
-msgstr "방어적으로 나올 필요 없어."
+msgstr "그렇게 경계하지 않으셔도 될 거 같은데요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint

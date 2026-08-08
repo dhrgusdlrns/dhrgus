@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-08-07 14:49+0000\n"
+"PO-Revision-Date: 2026-08-09 18:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -21699,8 +21699,8 @@ msgstr ""
 msgctxt "0023BE"
 msgid "At Anchorpoint, I met a physician named Cutty whose son Miles was recently abducted by Spacers. I was able to rescue Miles."
 msgstr ""
-"앵커포인트에서 커티라는 이름의 내과 의사를 만났다. 커티는 최근 스페이서들에게 아들 마일즈를 납치당했다고 했다. 어떻게 마일즈를 구출할 "
-"수 있었다."
+"앵커포인트에서 커티라는 이름의 내과 의사를 만났다. 커티는 최근 스페이서들에게 아들 마일즈를 납치당했다고 했다.스페이서들로부터 마일즈를 "
+"구출했다."
 
 #. List: 1
 #. EDID: SFFL_AnchorpointZ03
@@ -21709,7 +21709,7 @@ msgctxt "0023BF"
 msgid "At Anchorpoint, I met a physician named Cutty whose son Miles was recently abducted by Spacers. I rescued Miles from the Spacers and was able to persuade him to contact his father, with whom he'd had a falling out."
 msgstr ""
 "앵커포인트에서 커티라는 이름의 내과 의사를 만났다. 커티는 최근 스페이서들에게 아들 마일즈를 납치당했다고 했다. 스페이서들로부터 마일즈를 "
-"구출했고, 마일즈에게 사이가 틀어진 아버지에게 연락하라고 설득했다."
+"구출했고, 사이가 틀어진 아버지에게 연락하라고 설득했다."
 
 #. List: 1
 #. EDID: SFFL_AnchorpointZ03
@@ -57697,7 +57697,7 @@ msgstr "음, 이제 끝인 것 같네."
 #. REC: INFO:NAM1
 msgctxt "000B9A"
 msgid "Thank you for offering to help. I only hope there's still time."
-msgstr "도와주겠다고 해 줘서 고마워요. 아직 시간이 남아 있기를 바랄 뿐이에요."
+msgstr "도와주신다니 정말 감사합니다. 부디 아직 시간이 남아있었으면 좋겠습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57711,7 +57711,7 @@ msgstr "도와주겠다고 해 줘서 고마워요. 아직 시간이 남아 있�
 #. REC: INFO:NAM1
 msgctxt "000B9B"
 msgid "I can't thank you enough."
-msgstr "뭐라 고맙다고 해야 할지 모르겠어."
+msgstr "뭐라 고맙다고 말해야 할지 모르겠습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57725,7 +57725,7 @@ msgstr "뭐라 고맙다고 해야 할지 모르겠어."
 #. REC: INFO:NAM1
 msgctxt "000B9C"
 msgid "Heading out?"
-msgstr "나가려고?"
+msgstr "나가시려고요?"
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57790,7 +57790,7 @@ msgstr "좋아. 그래도 네가 와 줘서 정말 다행이야."
 #. REC: INFO:NAM1
 msgctxt "000BA0"
 msgid "She sent a message to your father, and he sent me."
-msgstr "그녀가 네 아버지에게 메시지를 보냈고, 그가 나를 보냈어."
+msgstr "루시아가 당신 아버지에게 메시지를 보냈고, 아버지가 날 보냈어."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57851,7 +57851,7 @@ msgstr "여기 있습니다."
 #. REC: INFO:NAM1
 msgctxt "000BA4"
 msgid "I said I'd get some credits together for you."
-msgstr "당신에게 드릴 크레딧은 좀 모아 보겠다고 이미 말씀드렸을 텐데요."
+msgstr "당신에게 드릴 크레딧은 마련해 두겠다고 했었죠."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57868,7 +57868,7 @@ msgstr "당신에게 드릴 크레딧은 좀 모아 보겠다고 이미 말씀�
 #. REC: INFO:NAM1
 msgctxt "000BA5"
 msgid "I did, yes."
-msgstr "응, 그랬어."
+msgstr "네, 그랬습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -64217,7 +64217,7 @@ msgstr "저 밖에 있어. 우리 주위에... 우주가... 치명적인 우주�
 #. REC: INFO:NAM1
 msgctxt "000D44"
 msgid "I can treat your injuries, but don't expect sympathy."
-msgstr "부상은 치료해 줄 수 있지만, 동정이라도 해줄 거란 기대는 하지 마시길."
+msgstr "부상은 치료해 줄 수 있지만, 동정이라도 해줄 거란 기대는 하지 마시길 바랍니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -64231,7 +64231,7 @@ msgstr "부상은 치료해 줄 수 있지만, 동정이라도 해줄 거란 기
 #. REC: INFO:NAM1
 msgctxt "000D45"
 msgid "You lost? Or just too drunk to realize this isn't the bar?"
-msgstr "길 잃었어? 아니면 너무 취해서 여기가 바가 아니라는 것도 모르는 거야?"
+msgstr "길을 잃으신 겁니까? 아니면 여기가 술집이 아니라는 걸 깨닫지 못할 정도로 취하신 겁니까?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -64245,7 +64245,7 @@ msgstr "길 잃었어? 아니면 너무 취해서 여기가 바가 아니라는 
 #. REC: INFO:NAM1
 msgctxt "000D46"
 msgid "I hope you're not here to waste my time."
-msgstr "내 시간을 낭비하러 온 게 아니었으면 좋겠어."
+msgstr "제 시간을 낭비하러 온 게 아니었으면 좋겠군요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65219,7 +65219,7 @@ msgstr "좋아."
 #. REC: INFO:NAM1
 msgctxt "000D85"
 msgid "Here. Make it quick."
-msgstr "여기. 빨리 해."
+msgstr "여기 있습니다. 얼른 끝내시죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65378,7 +65378,7 @@ msgstr "그리고 그 로봇 부품 시제품을 내가 구해 와야 한다는 
 #. REC: INFO:NAM1
 msgctxt "000D8F"
 msgid "Anyway, just thought you should know."
-msgstr "어쨌든, 그냥 알아둬야 할 것 같아서."
+msgstr "어쨌든, 알고는 계셔야 할 것 같아서 말씀드렸습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65393,7 +65393,7 @@ msgstr "어쨌든, 그냥 알아둬야 할 것 같아서."
 #. REC: INFO:NAM1
 msgctxt "000D90"
 msgid "If you mention me, I'm not sure how he'll react. It might be better not to."
-msgstr "내 얘기를 꺼내면 그가 어떻게 반응할지 모르겠어. 안 하는 편이 나을지도 몰라."
+msgstr "제 얘기를 하면 그 아이가 어떻게 반응할지 저도 잘 모르겠습니다. 차라리 언급하지 않는 편이 좋을 것 같습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65408,7 +65408,7 @@ msgstr "내 얘기를 꺼내면 그가 어떻게 반응할지 모르겠어. 안 
 #. REC: INFO:NAM1
 msgctxt "000D91"
 msgid "My son and I had a falling out. We haven't spoken in years."
-msgstr "내 아들과 난 사이가 틀어졌어. 몇 년째 말도 안 했지."
+msgstr "아들과 사이가 틀어졌습니다. 몇 년째 연락도 안 했죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65424,7 +65424,7 @@ msgstr "내 아들과 난 사이가 틀어졌어. 몇 년째 말도 안 했지."
 #. REC: INFO:NAM1
 msgctxt "000D92"
 msgid "There's one more thing."
-msgstr "한 가지 더 있어."
+msgstr "한 가지 더 말할 게 있습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65441,7 +65441,7 @@ msgstr "한 가지 더 있어."
 #. REC: INFO:NAM1
 msgctxt "000D93"
 msgid "But thank you. Sincerely."
-msgstr "그래도 고마워. 진심으로."
+msgstr "어쨌든 고맙습니다. 정말 감사합니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65457,7 +65457,7 @@ msgstr "그래도 고마워. 진심으로."
 #. REC: INFO:NAM1
 msgctxt "000D94"
 msgid "Sorry if I seem a little in shock. Most people around here don't stick their neck out for others."
-msgstr "내가 조금 충격받은 것처럼 보인다면 미안해. 여기 사람들 대부분은 남을 위해 위험을 무릅쓰지 않거든."
+msgstr "조금 얼떨떨해 보인다면 실례했습니다. 여기 인간들은 보통 남을 위해 위험을 무릅쓰지 않거든요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65474,7 +65474,7 @@ msgstr "내가 조금 충격받은 것처럼 보인다면 미안해. 여기 사�
 #. REC: INFO:NAM1
 msgctxt "000D95"
 msgid "You would do that? Really?"
-msgstr "네가 그렇게 해주겠다고? 정말?"
+msgstr "정말 그래 주실 수 있습니까? 진짜로요?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -65989,7 +65989,7 @@ msgstr "예"
 #. REC: INFO:NAM1
 msgctxt "000DB5"
 msgid "Now please hurry. My son's life is in your hands."
-msgstr "이제 제발 서둘러 줘. 내 아들의 목숨이 네 손에 달렸어."
+msgstr "이제 제발 서둘러 주세요. 제 아들의 목숨이 당신에게 달려 있습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -66007,7 +66007,7 @@ msgstr "이제 제발 서둘러 줘. 내 아들의 목숨이 네 손에 달렸�
 #. REC: INFO:NAM1
 msgctxt "000DB6"
 msgid "You're right, of course, but maybe they can be the first small steps down a long road."
-msgstr "물론 네 말이 맞아. 하지만 긴 여정의 첫 작은 발걸음이 될 수도 있겠지."
+msgstr "물론 그 말이 맞습니다. 하지만 긴 여정의 첫 작은 발걸음이 될 수도 있겠죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -66023,7 +66023,7 @@ msgstr "물론 네 말이 맞아. 하지만 긴 여정의 첫 작은 발걸음�
 #. REC: INFO:NAM1
 msgctxt "000DB7"
 msgid "You look different."
-msgstr "달라 보이네."
+msgstr "뭔가 달라 보이는군요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -66039,7 +66039,7 @@ msgstr "달라 보이네."
 #. REC: INFO:NAM1
 msgctxt "000DB8"
 msgid "So, uh... how have you been otherwise? Does this place keep you busy?"
-msgstr "그래, 어... 그 밖에는 어떻게 지냈어? 이곳 일이 널 바쁘게 해?"
+msgstr "그나저나, 어…… 아버지는 그동안 어떻게 지내셨어요? 여기 일 때문에 바쁘세요?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -66085,7 +66085,7 @@ msgstr "그리고 앵커포인트를 포기하라고요? 절대 안 됩니다!"
 #. REC: INFO:NAM1
 msgctxt "000DBB"
 msgid "Got a few things here."
-msgstr "여기 몇 가지 있어."
+msgstr "여기 몇 가지 용품이 있습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -66099,7 +66099,7 @@ msgstr "여기 몇 가지 있어."
 #. REC: INFO:NAM1
 msgctxt "000DBC"
 msgid "That's all. Now get out of here."
-msgstr "그게 다야. 이제 여기서 나가."
+msgstr "그게 다입니다. 이제 이만 가주시죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -66113,7 +66113,7 @@ msgstr "그게 다야. 이제 여기서 나가."
 #. REC: INFO:NAM1
 msgctxt "000DBD"
 msgid "You haven't got the money. Stop wasting my time."
-msgstr "돈이 없잖아. 내 시간 낭비하지 마."
+msgstr "돈이 없잖습니까. 시간 낭비하게 만들지 마시죠."
 
 #. List: 2
 #. QuestName = SFFL_MS01_MiscDialogue
@@ -71855,7 +71855,7 @@ msgstr "다친 건 아니지?"
 #. REC: INFO:NAM1
 msgctxt "001217"
 msgid "No, I wasn't specific about who sent me."
-msgstr "아니요, 누가 보냈는지는 구체적으로 말하지 않았어요."
+msgstr "아니요, 구체적으로 누가 보냈는지는 말하지 않았어요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -71872,7 +71872,7 @@ msgstr "아니요, 누가 보냈는지는 구체적으로 말하지 않았어요
 #. REC: INFO:NAM1
 msgctxt "001218"
 msgid "I suppose it's just as well. No need to re-open old wounds."
-msgstr "차라리 잘됐군요. 오래된 상처를 다시 열 필요는 없죠."
+msgstr "차라리 잘됐군요. 굳이 옛 상처를 다시 건드릴 필요는 없죠."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -71889,7 +71889,7 @@ msgstr "차라리 잘됐군요. 오래된 상처를 다시 열 필요는 없죠.
 #. REC: INFO:NAM1
 msgctxt "001219"
 msgid "I see."
-msgstr "그렇군요."
+msgstr "알겠습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -71906,7 +71906,7 @@ msgstr "그렇군요."
 #. REC: INFO:NAM1
 msgctxt "00121A"
 msgid "In any case, what matters is that Miles is out of danger."
-msgstr "어쨌든 중요한 건 마일스가 위험에서 벗어났다는 겁니다."
+msgstr "아무튼, 마일즈 녀석이 무사하다면 그걸로 됐습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -77281,7 +77281,7 @@ msgstr "정확히 술을 몇 잔이나 마신 겁니까?"
 #. REC: INFO:NAM1
 msgctxt "001374"
 msgid "Well?"
-msgstr "그래서요?"
+msgstr "저기요?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78083,7 +78083,7 @@ msgstr "그리고 그 로봇 부품 시제품을 내가 구해 와야 한다는 
 #. REC: INFO:NAM1
 msgctxt "0013A7"
 msgid "By the time you get back, I'll have your money."
-msgstr "당신이 돌아올 때쯤엔 돈을 마련해 두죠."
+msgstr "당신이 돌아오기 전까지, 돈을 마련해 두겠습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78099,7 +78099,7 @@ msgstr "당신이 돌아올 때쯤엔 돈을 마련해 두죠."
 #. REC: INFO:NAM1
 msgctxt "0013A8"
 msgid "But I give you my word I'll pay you fairly."
-msgstr "하지만 공정하게 보수는 지급하겠다고 약속하죠."
+msgstr "하지만 공정하게 보수를 지급겠다고 약속드리겠습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78116,7 +78116,7 @@ msgstr "하지만 공정하게 보수는 지급하겠다고 약속하죠."
 #. REC: INFO:NAM1
 msgctxt "0013A9"
 msgid "Look, I'm not exactly swimming in credits here."
-msgstr "봐요, 여기 크레딧이 넘쳐나는 상황은 아니거든요."
+msgstr "저기요. 지금 크레딧 사정이 그리 넉넉지 않습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78721,7 +78721,7 @@ msgstr "이번엔 사양할게."
 #. REC: INFO:NAM1
 msgctxt "0013CE"
 msgid "Now, was there something else you needed?"
-msgstr "그럼, 더 필요한 게 있었나요?"
+msgstr "그럼, 더 필요한 게 있나요?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78737,7 +78737,7 @@ msgstr "그럼, 더 필요한 게 있었나요?"
 #. REC: INFO:NAM1
 msgctxt "0013CF"
 msgid "I don't know what the future holds. I can only take things one day at a time, and try to be a better man."
-msgstr "미래가 어떻게 될지는 모르겠습니다. 하루하루 살아가면서 더 나은 사람이 되려고 할 뿐이죠."
+msgstr "미래가 어떻게 될지는 모르겠습니다. 하루하루 살아가면서 더 나은 사람이 되려고 노력해야겠죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78754,7 +78754,7 @@ msgstr "미래가 어떻게 될지는 모르겠습니다. 하루하루 살아가
 #. REC: INFO:NAM1
 msgctxt "0013D0"
 msgid "Especially if it involved the greatest regret of your life."
-msgstr "특히 그게 인생 최대의 후회와 관련된 일이라면요."
+msgstr "특히 인생에서 가장 뼈아프게 후회했던 일이라면, 더 드러내고 싶지 않으시겠죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78770,7 +78770,7 @@ msgstr "특히 그게 인생 최대의 후회와 관련된 일이라면요."
 #. REC: INFO:NAM1
 msgctxt "0013D1"
 msgid "I'm sure you'd want your privacy respected if our roles were reversed."
-msgstr "입장이 바뀌었다면 당신도 사생활을 존중받고 싶을 거라고 생각합니다."
+msgstr "입장을 바꿔놓고 생각해 보면, 당신도 사생활을 지키고 싶으시지 않나요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78787,7 +78787,7 @@ msgstr "입장이 바뀌었다면 당신도 사생활을 존중받고 싶을 거
 #. REC: INFO:NAM1
 msgctxt "0013D2"
 msgid "Look, I don't know you, and that's a sensitive subject."
-msgstr "봐요, 난 당신을 모르고, 그건 민감한 주제예요."
+msgstr "저기요, 전 당신을 잘 모릅니다. 그래서 그 이야기는 꺼내기 좀 곤란하군요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78846,7 +78846,7 @@ msgstr "물론이죠. 또 뭐가 필요하신가요?"
 #. REC: INFO:NAM1
 msgctxt "0013D6"
 msgid "I suppose we're done, then."
-msgstr "그럼 이걸로 끝인 것 같군요."
+msgstr "그럼 이걸로 다 된 것 같군요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78860,7 +78860,7 @@ msgstr "그럼 이걸로 끝인 것 같군요."
 #. REC: INFO:NAM1
 msgctxt "0013D7"
 msgid "Fine."
-msgstr "좋아요."
+msgstr "좋습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78874,7 +78874,7 @@ msgstr "좋아요."
 #. REC: INFO:NAM1
 msgctxt "0013D8"
 msgid "What have we got here..."
-msgstr "어디 보자..."
+msgstr "어디 봅시다..."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -78888,7 +78888,7 @@ msgstr "어디 보자..."
 #. REC: INFO:NAM1
 msgctxt "0013D9"
 msgid "Yeah, all right."
-msgstr "응, 알았어."
+msgstr "예, 알겠습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -93039,7 +93039,7 @@ msgstr "젠장, 정말이야? 무슨 일이 있었어?"
 #. REC: INFO:NAM1
 msgctxt "001811"
 msgid "For the first time in a long while, I feel hope for better days."
-msgstr "오랜만에 처음으로 더 나은 날에 대한 희망이 느껴집니다."
+msgstr "실로 오랜만에, 앞으로 삶이 더 나아질 거 같은 희망이 느껴집니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -93053,7 +93053,7 @@ msgstr "오랜만에 처음으로 더 나은 날에 대한 희망이 느껴집�
 #. REC: INFO:NAM1
 msgctxt "001812"
 msgid "Thanks to you, my son and I are talking again."
-msgstr "당신 덕분에 아들과 다시 대화하게 됐어요."
+msgstr "당신 덕분에 아들과 다시 대화하게 됐습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -93149,7 +93149,7 @@ msgstr "난 전혀 지루하지 않아. 그럴 시간이 없거든."
 #. REC: INFO:NAM1
 msgctxt "001819"
 msgid "The reek of this place permeates everything."
-msgstr "이곳의 악취는 모든 것에 배어 있어."
+msgstr "이곳에는 사방에 악취가 배어 있죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -93385,7 +93385,7 @@ msgstr "나만 느꼈나? 방금 복도에서 엄청나게 어색한 침묵이 �
 #. REC: INFO:NAM1
 msgctxt "00182A"
 msgid "I'll wait."
-msgstr "기다릴게."
+msgstr "기다리는 중입니다만."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -93399,7 +93399,7 @@ msgstr "기다릴게."
 #. REC: INFO:NAM1
 msgctxt "00182B"
 msgid "Stop wasting my time and get on with it."
-msgstr "내 시간 그만 낭비하고 본론으로 들어가."
+msgstr "시간 그만 낭비하고 본론으로 들어가시죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -93483,7 +93483,7 @@ msgstr "또 봐!"
 #. REC: INFO:NAM1
 msgctxt "001831"
 msgid "Take care."
-msgstr "몸조심해."
+msgstr "몸조심해요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -93497,7 +93497,7 @@ msgstr "몸조심해."
 #. REC: INFO:NAM1
 msgctxt "001832"
 msgid "Whatever. Just go."
-msgstr "됐어. 그냥 가."
+msgstr "됐습니다. 그냥 가시죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95380,7 +95380,7 @@ msgstr "알겠어. 다음 기회로 미루자고."
 #. REC: INFO:NAM1
 msgctxt "0018A8"
 msgid "Most of the injuries I treat result from drunken brawls."
-msgstr "제가 치료하는 부상 대부분은 술 취한 난투에서 비롯됩니다."
+msgstr "내가 치료하는 부상자들 대부분은 술판에서 벌어진 패싸움 때문에 온단다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95395,7 +95395,7 @@ msgstr "제가 치료하는 부상 대부분은 술 취한 난투에서 비롯�
 #. REC: INFO:NAM1
 msgctxt "0018A9"
 msgid "We get our share of colorful characters through here, and more than a few are prone to violence."
-msgstr "이곳엔 개성 강한 사람들이 꽤 드나들고, 폭력 성향이 있는 사람도 적지 않습니다."
+msgstr "여기는 별의별 특이한 인간들이 다 거쳐 가는데, 그중엔 폭력적인 놈들도 수두룩하거든."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95411,7 +95411,7 @@ msgstr "이곳엔 개성 강한 사람들이 꽤 드나들고, 폭력 성향이 
 #. REC: INFO:NAM1
 msgctxt "0018AA"
 msgid "Reasonably so, yes."
-msgstr "합리적인 정도로는, 그렇습니다."
+msgstr "적당히 바쁘긴 하지. 그래. 바쁘단다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95428,7 +95428,7 @@ msgstr "합리적인 정도로는, 그렇습니다."
 #. REC: INFO:NAM1
 msgctxt "0018AB"
 msgid "For that, I am in your debt."
-msgstr "그 일에 대해서는 제가 당신께 빚을 졌습니다."
+msgstr "마일즈 일로 제가 당신께 빚을 졌습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95444,7 +95444,7 @@ msgstr "그 일에 대해서는 제가 당신께 빚을 졌습니다."
 #. REC: INFO:NAM1
 msgctxt "0018AC"
 msgid "It's a start, and more than I could have dared to hope for."
-msgstr "시작으로는 충분하고, 제가 감히 바라던 것보다도 큽니다."
+msgstr "이제 시작이네요. 감히 희망을 품을 엄두조차 내지 못했던 일인데 말이지요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95460,7 +95460,7 @@ msgstr "시작으로는 충분하고, 제가 감히 바라던 것보다도 큽�
 #. REC: INFO:NAM1
 msgctxt "0018AD"
 msgid "I would describe our relationship as cordial, at least for now."
-msgstr "적어도 지금은, 우리의 관계를 우호적이라고 표현하겠습니다."
+msgstr "저와 마일즈의 관계는 원만하다고 할 수 있을 거 같습니다. 적어도 지금은요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95477,7 +95477,7 @@ msgstr "적어도 지금은, 우리의 관계를 우호적이라고 표현하겠
 #. REC: INFO:NAM1
 msgctxt "0018AE"
 msgid "He sent me a letter, and then came to visit."
-msgstr "그가 편지를 보낸 뒤 직접 찾아왔습니다."
+msgstr "마일즈가 편지를 보냈고, 직접 찾아왔습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95508,7 +95508,7 @@ msgstr "스페이서 본거지를 정면으로 공격하란 말입니까? 그런
 #. REC: INFO:NAM1
 msgctxt "0018B0"
 msgid "In that case, you can see yourself out."
-msgstr "그렇다면 알아서 나가."
+msgstr "볼일 끝나셨으면, 이만 가셔도 좋습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95522,7 +95522,7 @@ msgstr "그렇다면 알아서 나가."
 #. REC: INFO:NAM1
 msgctxt "0018B1"
 msgid "This shouldn't take long."
-msgstr "오래 걸리진 않을 거야."
+msgstr "오래 걸리진 않을 겁니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95536,7 +95536,7 @@ msgstr "오래 걸리진 않을 거야."
 #. REC: INFO:NAM1
 msgctxt "0018B2"
 msgid "Hold still for a minute."
-msgstr "잠깐 가만히 있어."
+msgstr "잠깐 가만히 계세요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95550,7 +95550,7 @@ msgstr "잠깐 가만히 있어."
 #. REC: INFO:NAM1
 msgctxt "0018B3"
 msgid "Not like I've got anything better to do. Now hold still so I can have a look..."
-msgstr "딱히 더 나은 할 일도 없으니까. 이제 가만히 있어, 좀 보게..."
+msgstr "마침 다른 급한 일도 없었으니 봐드리죠. 이제 가만히 계세요. 진찰해야 하니까요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95564,7 +95564,7 @@ msgstr "딱히 더 나은 할 일도 없으니까. 이제 가만히 있어, 좀 
 #. REC: INFO:NAM1
 msgctxt "0018B4"
 msgid "Come on, there's nothing wrong with you."
-msgstr "이봐, 너한테 아무 문제 없어."
+msgstr "저기요. 아무 문제 없는데요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95578,7 +95578,7 @@ msgstr "이봐, 너한테 아무 문제 없어."
 #. REC: INFO:NAM1
 msgctxt "0018B5"
 msgid "You're fine. Not a scratch on you."
-msgstr "괜찮아. 긁힌 데 하나 없네."
+msgstr "괜찮군요. 긁힌 데 하나 없습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95592,7 +95592,7 @@ msgstr "괜찮아. 긁힌 데 하나 없네."
 #. REC: INFO:NAM1
 msgctxt "0018B6"
 msgid "Look at this mess. What the hell kind of trouble have you been getting into?"
-msgstr "이 꼴 좀 봐. 대체 무슨 문제에 휘말리고 다닌 거야?"
+msgstr "꼴이 이게 뭡니까? 대체 무슨 고생을 하고 다니셨던 겁니까?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95606,7 +95606,7 @@ msgstr "이 꼴 좀 봐. 대체 무슨 문제에 휘말리고 다닌 거야?"
 #. REC: INFO:NAM1
 msgctxt "0018B7"
 msgid "Damn. You're a mess."
-msgstr "젠장. 엉망이네."
+msgstr "젠장. 심각하군요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95620,7 +95620,7 @@ msgstr "젠장. 엉망이네."
 #. REC: INFO:NAM1
 msgctxt "0018B8"
 msgid "Might want to bite down on something."
-msgstr "뭔가 꽉 물고 있는 게 좋을 거야."
+msgstr "뭔가 꽉 물고 있는 게 좋을 겁니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95634,7 +95634,7 @@ msgstr "뭔가 꽉 물고 있는 게 좋을 거야."
 #. REC: INFO:NAM1
 msgctxt "0018B9"
 msgid "You're good to go."
-msgstr "이제 가도 돼."
+msgstr "이제 가셔도 됩니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95648,7 +95648,7 @@ msgstr "이제 가도 돼."
 #. REC: INFO:NAM1
 msgctxt "0018BA"
 msgid "How about you come back when you've got the the money."
-msgstr "돈 생기면 다시 오는 게 어때."
+msgstr "돈이 생기면 다시 오시는 게 어떻겠습니까."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -95662,7 +95662,7 @@ msgstr "돈 생기면 다시 오는 게 어때."
 #. REC: INFO:NAM1
 msgctxt "0018BB"
 msgid "Can't afford to treat you for free."
-msgstr "공짜로 치료해 줄 여유는 없어."
+msgstr "공짜로 치료해 줄 형편이 안됩니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_MiscDialogue
@@ -105011,7 +105011,7 @@ msgstr "나한테 잘해 줬으니까 주는 거야. 별건 아니지만 받아 
 #. REC: INFO:NAM1
 msgctxt "001C66"
 msgid "I hope Miles is okay."
-msgstr "마일스가 괜찮았으면 좋겠어."
+msgstr "마일스가 괜찮았으면 좋겠습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -105161,7 +105161,7 @@ msgstr "네가 여기 있다는 건 루시아가 빠져나왔다는 뜻이겠군
 #. REC: INFO:NAM1
 msgctxt "001C70"
 msgid "I hadn't dared to hope."
-msgstr "감히 희망조차 품지 못했어요."
+msgstr "감히 안전하길 바라지도 못하고 있었습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -109985,7 +109985,7 @@ msgstr "밀수 좀 하는 건 겁나지 않아. 나도 할게."
 #. REC: INFO:NAM1
 msgctxt "001DCB"
 msgid "Thank you again."
-msgstr "다시 고마워."
+msgstr "다시 감사의 인사를 드리고 싶습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -110208,7 +110208,7 @@ msgstr "있잖아, 나도 예전에 이런 우주선이 있었는데... 아, 미
 #. REC: INFO:NAM1
 msgctxt "001DDB"
 msgid "It's alright. There's no hurry."
-msgstr "괜찮아. 서두를 필요 없어."
+msgstr "괜찮습니다. 서두를 필요 없습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -110222,7 +110222,7 @@ msgstr "괜찮아. 서두를 필요 없어."
 #. REC: INFO:NAM1
 msgctxt "001DDC"
 msgid "Feeling lost? I can relate."
-msgstr "길을 잃은 기분이야? 나도 알아."
+msgstr "뭔가 까먹은 것 같나요? 저도 그 기분 압니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -110306,7 +110306,7 @@ msgstr "좋아."
 #. REC: INFO:NAM1
 msgctxt "001DE2"
 msgid "Good to see you."
-msgstr "만나서 반가워."
+msgstr "만나서 반갑습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111782,7 +111782,7 @@ msgstr "좋아. 돌아올 때 여기서 기다리고 있을게."
 #. REC: INFO:NAM1
 msgctxt "001E42"
 msgid "Of course. Enjoy yourself. And... it was good to see you."
-msgstr "물론이죠. 즐기세요. 그리고... 만나서 반가웠어요."
+msgstr "그래, 가봐. 재밌게 놀고. 참... 오랜만에 보니까 좋구나."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111799,7 +111799,7 @@ msgstr "물론이죠. 즐기세요. 그리고... 만나서 반가웠어요."
 #. REC: INFO:NAM1
 msgctxt "001E43"
 msgid "I understand."
-msgstr "잘 알겠어."
+msgstr "이해합니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111817,7 +111817,7 @@ msgstr "잘 알겠어."
 #. REC: INFO:NAM1
 msgctxt "001E44"
 msgid "How are things with you and Miles?"
-msgstr "너와 마일즈 사이는 어때?"
+msgstr "당신과 마일즈 사이는 어떤가요?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111834,7 +111834,7 @@ msgstr "너와 마일즈 사이는 어때?"
 #. REC: INFO:NAM1
 msgctxt "001E45"
 msgid "Nobody can change overnight. Patience will be necessary."
-msgstr "아무도 하룻밤 사이에 변할 수는 없어. 인내심이 필요할 거야."
+msgstr "아무도 하룻밤 사이에 변할 수는 없습니다. 인내심이 필요할 겁니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111851,7 +111851,7 @@ msgstr "아무도 하룻밤 사이에 변할 수는 없어. 인내심이 필요�
 #. REC: INFO:NAM1
 msgctxt "001E46"
 msgid "I've tried to set small goals and reasonable expectations for myself."
-msgstr "나 자신을 위해 작은 목표와 합리적인 기대치를 세워 보려고 했어."
+msgstr "이제부터라도 작은 목표부터 시작해서 욕심부리지 않고 차근차근 해보려고 합니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111869,7 +111869,7 @@ msgstr "나 자신을 위해 작은 목표와 합리적인 기대치를 세워 �
 #. REC: INFO:NAM1
 msgctxt "001E47"
 msgid "Thank you. Hopefully I can develop a little faith in myself, as well."
-msgstr "고마워요. 저도 저 자신에 대한 믿음을 조금 키울 수 있으면 좋겠군요."
+msgstr "고맙습니다. 저도 이제부턴 제 자신을 조금 더 믿어볼 수 있으면 좋겠군요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111885,7 +111885,7 @@ msgstr "고마워요. 저도 저 자신에 대한 믿음을 조금 키울 수 �
 #. REC: INFO:NAM1
 msgctxt "001E48"
 msgid "Now it's time to turn the page, if I can. I have to try, right?"
-msgstr "이제 가능하다면 새 장을 넘길 때야. 시도는 해봐야겠지?"
+msgstr "어떻게든 새 출발을 해봐야겠죠. 시도라도 해봐야 하지 않겠습니까? 그렇죠?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111900,7 +111900,7 @@ msgstr "이제 가능하다면 새 장을 넘길 때야. 시도는 해봐야겠�
 #. REC: INFO:NAM1
 msgctxt "001E49"
 msgid "I let so many things go. Things I shouldn't have. I made a companion of misery."
-msgstr "난 너무 많은 걸 그냥 놓아버렸어. 그러면 안 되는 것들까지. 불행을 친구로 삼았지."
+msgstr "그냥 방치해 둔 게 너무 많았습니다. 잘 처리했어야 했는데 말이죠. 스스로 불행을 자초하며 살아온 셈이죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111916,7 +111916,7 @@ msgstr "난 너무 많은 걸 그냥 놓아버렸어. 그러면 안 되는 것�
 #. REC: INFO:NAM1
 msgctxt "001E4A"
 msgid "A long-overdue change."
-msgstr "너무 오래 미뤄온 변화야."
+msgstr "진작에 바꿨어야 했는데 말이죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111946,7 +111946,7 @@ msgstr "대피해야 합니다. 스페이서들이 이미 오고 있을 수도 �
 #. REC: INFO:NAM1
 msgctxt "001E4C"
 msgid "Would you make up your mind, please?"
-msgstr "제발 마음 좀 정해 줄래?"
+msgstr "이제 결정을 좀 내려주시겠습니까?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111960,7 +111960,7 @@ msgstr "제발 마음 좀 정해 줄래?"
 #. REC: INFO:NAM1
 msgctxt "001E4D"
 msgid "I won't lie, this is going to hurt a little."
-msgstr "거짓말은 안 할게. 조금 아플 거야."
+msgstr "거짓말은 안 하겠습니다. 조금 아플 겁니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111974,7 +111974,7 @@ msgstr "거짓말은 안 할게. 조금 아플 거야."
 #. REC: INFO:NAM1
 msgctxt "001E4E"
 msgid "This won't be pleasant."
-msgstr "유쾌하진 않을 거야."
+msgstr "썩 유쾌하진 않을 겁니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -111988,7 +111988,7 @@ msgstr "유쾌하진 않을 거야."
 #. REC: INFO:NAM1
 msgctxt "001E4F"
 msgid "I'm not seeing anything too serious."
-msgstr "그렇게 심각한 건 안 보이네."
+msgstr "상태를 보니 그리 심각해 보이는 부분은 없군요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -112002,7 +112002,7 @@ msgstr "그렇게 심각한 건 안 보이네."
 #. REC: INFO:NAM1
 msgctxt "001E50"
 msgid "This is nothing."
-msgstr "이건 아무것도 아니야."
+msgstr "이건 아무것도 아닙니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -112016,7 +112016,7 @@ msgstr "이건 아무것도 아니야."
 #. REC: INFO:NAM1
 msgctxt "001E51"
 msgid "Just know I don't stock as much as some places."
-msgstr "다른 곳만큼 많이 갖춰 두진 않는다는 건 알아 둬."
+msgstr "다른 곳만큼 재고를 넉넉하게 쌓아두고 팔지는 않는다는 건 알아두세요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -112030,7 +112030,7 @@ msgstr "다른 곳만큼 많이 갖춰 두진 않는다는 건 알아 둬."
 #. REC: INFO:NAM1
 msgctxt "001E52"
 msgid "That's it. All finished."
-msgstr "됐어. 전부 끝났어."
+msgstr "됐습니다. 전부 끝났습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -112044,7 +112044,7 @@ msgstr "됐어. 전부 끝났어."
 #. REC: INFO:NAM1
 msgctxt "001E53"
 msgid "You're done."
-msgstr "끝났어."
+msgstr "끝났습니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_MiscDialogue
@@ -118298,7 +118298,7 @@ msgstr "절대 잊지 않을게."
 #. REC: INFO:NAM1
 msgctxt "00207C"
 msgid "Damn Spacers. Bloodthirsty savages, the lot of them."
-msgstr "빌어먹을 스페이서들. 하나같이 피에 굶주린 야만인들이야."
+msgstr "빌어먹을 스페이서들. 죄다 피에 굶주린 야만인 새끼들 같으니."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -125135,7 +125135,7 @@ msgstr "아, 벌써 시간이 다 됐어? 알겠어."
 #. REC: INFO:NAM1
 msgctxt "002235"
 msgid "Goodbye now."
-msgstr "이제 잘 가."
+msgstr "안녕히 가세요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -125149,7 +125149,7 @@ msgstr "이제 잘 가."
 #. REC: INFO:NAM1
 msgctxt "002236"
 msgid "Fine."
-msgstr "좋아."
+msgstr "좋습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126548,7 +126548,7 @@ msgstr "재고품을 보고 싶어."
 #. REC: INFO:NAM1
 msgctxt "00228E"
 msgid "I'd like to see your selection of medical supplies."
-msgstr "판매 중인 의료 용품을 보고 싶어."
+msgstr "판매 중인 의료 용품을 보고 싶습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126587,7 +126587,7 @@ msgstr "좋아."
 #. REC: INFO:NAM1
 msgctxt "002291"
 msgid "No haggling. The prices are the prices."
-msgstr "흥정은 없어. 가격은 정해진 가격이야."
+msgstr "흥정은 안 됩니다. 정가대로만 받습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126942,7 +126942,7 @@ msgstr "이유를 찾자면 끝도 없겠지요. 하지만 동기가 어떻든, 
 #. REC: INFO:NAM1
 msgctxt "0022A7"
 msgid "Right now, all I've got is hope."
-msgstr "지금 나한테 있는 건 희망뿐이야."
+msgstr "지금 당장은, 희망에 매달리는 것 말고는 방법이 없습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126959,7 +126959,7 @@ msgstr "지금 나한테 있는 건 희망뿐이야."
 #. REC: INFO:NAM1
 msgctxt "0022A8"
 msgid "I can't, but Lucia said they had some kind of plan for the captured crew."
-msgstr "난 모르지만, 루시아 말로는 그들이 붙잡힌 선원들에 대해 어떤 계획이 있었다고 했어."
+msgstr "확신할 순 없지만, 루시아 말로는 스페이서 녀석들이 붙잡힌 선원들을 두고 무슨 계획에 쓸 거라고 했다고 합니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126977,7 +126977,7 @@ msgstr "난 모르지만, 루시아 말로는 그들이 붙잡힌 선원들에 �
 #. REC: INFO:NAM1
 msgctxt "0022A9"
 msgid "How can you be sure he's still alive?"
-msgstr "그가 아직 살아 있다는 걸 어떻게 확신해?"
+msgstr "아들분이 아직 살아 있다고 어떻게 확신하시죠?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -126995,7 +126995,7 @@ msgstr "그가 아직 살아 있다는 걸 어떻게 확신해?"
 #. REC: INFO:NAM1
 msgctxt "0022AA"
 msgid "I'm available for hire, if you can put up the credits."
-msgstr "크레딧을 낼 수 있다면 고용해도 돼."
+msgstr "절 고용하시죠. 크레딧을 내실 수 있다면요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127012,7 +127012,7 @@ msgstr "크레딧을 낼 수 있다면 고용해도 돼."
 #. REC: INFO:NAM1
 msgctxt "0022AB"
 msgid "I'll get your son back."
-msgstr "네 아들을 되찾아 오겠어."
+msgstr "당신 아들은 제가 구해 오겠습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127029,7 +127029,7 @@ msgstr "네 아들을 되찾아 오겠어."
 #. REC: INFO:NAM1
 msgctxt "0022AC"
 msgid "I'll get your son back."
-msgstr "네 아들을 되찾아 오겠어."
+msgstr "당신 아들은 제가 구해 오겠습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127651,7 +127651,7 @@ msgstr "내던져진 선적물 관련 단서가 더 있어?"
 #. REC: INFO:NAM1
 msgctxt "0022D2"
 msgid "Then forget I said it. Just, please, get my son out of danger."
-msgstr "그럼 내가 한 말은 잊어버려. 그저, 제발 내 아들을 위험에서 구해 줘."
+msgstr "그럼 제 말은 못 들은 걸로 해주시길 바랍니다. 그저, 제발 제 아들을 구해주세요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127669,7 +127669,7 @@ msgstr "그럼 내가 한 말은 잊어버려. 그저, 제발 내 아들을 위�
 #. REC: INFO:NAM1
 msgctxt "0022D3"
 msgid "What happened between you and your son?"
-msgstr "당신과 아들 사이에 무슨 일이 있었어?"
+msgstr "당신과 아들 사이에 무슨 일이 있었나요?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127687,7 +127687,7 @@ msgstr "당신과 아들 사이에 무슨 일이 있었어?"
 #. REC: INFO:NAM1
 msgctxt "0022D4"
 msgid "I appreciate that."
-msgstr "고마워."
+msgstr "고맙습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127705,7 +127705,7 @@ msgstr "고마워."
 #. REC: INFO:NAM1
 msgctxt "0022D5"
 msgid "I'm not looking to get dragged into any family drama."
-msgstr "집안 싸움에 휘말리고 싶진 않아."
+msgstr "집안 싸움에 휘말리고 싶진 않군요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127721,7 +127721,7 @@ msgstr "집안 싸움에 휘말리고 싶진 않아."
 #. REC: INFO:NAM1
 msgctxt "0022D6"
 msgid "Miles, there's so much I want to say. No, I need to say."
-msgstr "마일즈, 하고 싶은 말이 정말 많아. 아니, 꼭 해야 할 말이 있어."
+msgstr "마일즈, 하고 싶은 말이 정말 많구나. 아니, 꼭 해야 할 말이 있단다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127737,7 +127737,7 @@ msgstr "마일즈, 하고 싶은 말이 정말 많아. 아니, 꼭 해야 할 �
 #. REC: INFO:NAM1
 msgctxt "0022D7"
 msgid "You always were the one to look for the silver lining."
-msgstr "넌 늘 좋은 면을 보려는 아이였지."
+msgstr "그래, 넌 언제나 최악의 상황에서도 좋은 면만 보려던 애였지."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127753,7 +127753,7 @@ msgstr "넌 늘 좋은 면을 보려는 아이였지."
 #. REC: INFO:NAM1
 msgctxt "0022D8"
 msgid "In fact, if you don't mind, I'm going to go check out the bar."
-msgstr "사실 괜찮다면 난 바에 좀 가 볼게."
+msgstr "실은, 아버지만 괜찮으시다면 저기 술집이나 좀 가볼까 해요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127769,7 +127769,7 @@ msgstr "사실 괜찮다면 난 바에 좀 가 볼게."
 #. REC: INFO:NAM1
 msgctxt "0022D9"
 msgid "One thing at a time. Let this be a first step. We'll get around to the rest."
-msgstr "하나씩 해 나가자. 이걸 첫걸음으로 삼는 거야. 나머지는 차차 해 나가면 돼."
+msgstr "한 번에 하나씩 처리하죠. 이걸 첫 단계로 삼자고요. 나머지는 차차 해 나가면 돼요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127786,7 +127786,7 @@ msgstr "하나씩 해 나가자. 이걸 첫걸음으로 삼는 거야. 나머지
 #. REC: INFO:NAM1
 msgctxt "0022DA"
 msgid "Hey, at least it's not boring, right?"
-msgstr "이봐, 그래도 지루하진 않잖아?"
+msgstr "에이, 그래도 적어도 지루하진 않겠네요? 그렇죠?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127804,7 +127804,7 @@ msgstr "이봐, 그래도 지루하진 않잖아?"
 #. REC: INFO:NAM1
 msgctxt "0022DB"
 msgid "A shave and new clothes can't change who you really are."
-msgstr "면도하고 새 옷을 입는다고 네 본모습이 바뀌진 않아."
+msgstr "면도하고 새 옷을 입는다고 본모습이 바뀌진 않습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127822,7 +127822,7 @@ msgstr "면도하고 새 옷을 입는다고 네 본모습이 바뀌진 않아."
 #. REC: INFO:NAM1
 msgctxt "0022DC"
 msgid "It won't be fast or easy. Be prepared for a challenge."
-msgstr "빠르지도 쉽지도 않을 거야. 각오해 둬."
+msgstr "빠르게 쉽게 끝나지 않을 겁니다. 각오하셔야 할 겁니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127839,7 +127839,7 @@ msgstr "빠르지도 쉽지도 않을 거야. 각오해 둬."
 #. REC: INFO:NAM1
 msgctxt "0022DD"
 msgid "You can do this. I have faith in you."
-msgstr "넌 할 수 있어. 난 널 믿어."
+msgstr "당신은 할 수 있습니다. 전 믿습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127853,7 +127853,7 @@ msgstr "넌 할 수 있어. 난 널 믿어."
 #. REC: INFO:NAM1
 msgctxt "0022DE"
 msgid "All right."
-msgstr "좋아."
+msgstr "좋습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127867,7 +127867,7 @@ msgstr "좋아."
 #. REC: INFO:NAM1
 msgctxt "0022DF"
 msgid "All right, I'll take a look."
-msgstr "좋아, 한번 살펴볼게."
+msgstr "좋습니다. 한번 살펴볼게요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127881,7 +127881,7 @@ msgstr "좋아, 한번 살펴볼게."
 #. REC: INFO:NAM1
 msgctxt "0022E0"
 msgid "Let's get this over with."
-msgstr "빨리 끝내자."
+msgstr "빨리 끝내죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127895,7 +127895,7 @@ msgstr "빨리 끝내자."
 #. REC: INFO:NAM1
 msgctxt "0022E1"
 msgid "This isn't serious at all."
-msgstr "전혀 심각하지 않아."
+msgstr "전혀 심각하지 않군요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127909,7 +127909,7 @@ msgstr "전혀 심각하지 않아."
 #. REC: INFO:NAM1
 msgctxt "0022E2"
 msgid "I've seen worse, but not a lot worse."
-msgstr "더 심한 것도 봤지만, 훨씬 심한 건 아니야."
+msgstr "이것보다 더한 경우도 보긴 했습니다만, 사실 이 정도로 심한 경우는 흔치 않죠."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127923,7 +127923,7 @@ msgstr "더 심한 것도 봤지만, 훨씬 심한 건 아니야."
 #. REC: INFO:NAM1
 msgctxt "0022E3"
 msgid "You're going to need more credits first."
-msgstr "먼저 크레딧이 더 필요하겠어."
+msgstr "먼저 크레딧이 더 필요할 것 같군요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127937,7 +127937,7 @@ msgstr "먼저 크레딧이 더 필요하겠어."
 #. REC: INFO:NAM1
 msgctxt "0022E4"
 msgid "Come back when you can afford this."
-msgstr "이걸 감당할 수 있을 때 다시 와."
+msgstr "치료비 마련하시면 다시 오세요."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127951,7 +127951,7 @@ msgstr "이걸 감당할 수 있을 때 다시 와."
 #. REC: INFO:NAM1
 msgctxt "0022E5"
 msgid "You kidding me? You think I'll do this for nothing?"
-msgstr "농담해? 내가 공짜로 이걸 해 줄 거라고 생각해?"
+msgstr "농담하시는 거죠? 제가 아무 대가도 없이 해드릴 것 같습니까?"
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127965,7 +127965,7 @@ msgstr "농담해? 내가 공짜로 이걸 해 줄 거라고 생각해?"
 #. REC: INFO:NAM1
 msgctxt "0022E6"
 msgid "All done."
-msgstr "다 됐어."
+msgstr "다 됐습니다."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -127979,7 +127979,7 @@ msgstr "다 됐어."
 #. REC: INFO:NAM1
 msgctxt "0022E7"
 msgid "I'm through with you. "
-msgstr "네 도움은 필요 없어."
+msgstr "치료 끝났으니 이제 그만 가보세요. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_MiscDialogue

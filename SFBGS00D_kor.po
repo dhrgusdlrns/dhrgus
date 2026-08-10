@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-08-09 18:49+0000\n"
+"PO-Revision-Date: 2026-08-11 17:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -57773,7 +57773,7 @@ msgstr "이 사람들이 나를 어떻게 하려 했는지는 모르겠지만, �
 #. REC: INFO:NAM1
 msgctxt "000B9F"
 msgid "Fair enough. I'm still damn glad you came."
-msgstr "좋아. 그래도 네가 와 줘서 정말 다행이야."
+msgstr "그렇군요. 어쨌든 당신이 와주셔서 정말이지 너무 다행입니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57790,7 +57790,7 @@ msgstr "좋아. 그래도 네가 와 줘서 정말 다행이야."
 #. REC: INFO:NAM1
 msgctxt "000BA0"
 msgid "She sent a message to your father, and he sent me."
-msgstr "루시아가 당신 아버지에게 메시지를 보냈고, 아버지가 날 보냈어."
+msgstr "루시아가 당신 아버지에게 메시지를 보냈고, 아버지가 절 보냈습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57883,7 +57883,7 @@ msgstr "네, 그랬습니다."
 #. REC: INFO:NAM1
 msgctxt "000BA6"
 msgid "If that's true, why hasn't he done something?"
-msgstr "그게 사실이라면, 왜 그는 아무것도 하지 않았지?"
+msgstr "그게 사실이라면, 왜 아버지는 아무것도 하지 않았죠?"
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57898,7 +57898,7 @@ msgstr "그게 사실이라면, 왜 그는 아무것도 하지 않았지?"
 #. REC: INFO:NAM1
 msgctxt "000BA7"
 msgid "I wasn't sure, but at least it's good to know."
-msgstr "확신은 없었지만, 그래도 알게 되어 다행이야."
+msgstr "확신은 없었지만, 그래도 알게 되어 다행입니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57913,7 +57913,7 @@ msgstr "확신은 없었지만, 그래도 알게 되어 다행이야."
 #. REC: INFO:NAM1
 msgctxt "000BA8"
 msgid "He's living the life he chose. Nobody forced it on him."
-msgstr "그는 자신이 선택한 삶을 살고 있어. 아무도 강요하지 않았어."
+msgstr "지가 좋아서 그렇게 사는 건데요, 뭐. 누가 억지로 밀어 넣은 것도 아니고 말입니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57928,7 +57928,7 @@ msgstr "그는 자신이 선택한 삶을 살고 있어. 아무도 강요하지 
 #. REC: INFO:NAM1
 msgctxt "000BA9"
 msgid "You have to take the first step. Nobody else can do it for you."
-msgstr "첫걸음은 네가 내디뎌야 해. 다른 누구도 대신해 줄 수 없어."
+msgstr "첫걸음은 당신이 내디뎌야 합니다. 다른 누구도 대신해 줄 수 없습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57943,7 +57943,7 @@ msgstr "첫걸음은 네가 내디뎌야 해. 다른 누구도 대신해 줄 수
 #. REC: INFO:NAM1
 msgctxt "000BAA"
 msgid "I'll be the one to decide what's best for myself."
-msgstr "내게 가장 좋은 게 뭔지는 내가 결정할 거야."
+msgstr "나한테 뭐가 가장 좋은 선택인지는 제가 알아서 판단할 겁니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57958,7 +57958,7 @@ msgstr "내게 가장 좋은 게 뭔지는 내가 결정할 거야."
 #. REC: INFO:NAM1
 msgctxt "000BAB"
 msgid "The bonds of family are more important than anything."
-msgstr "가족의 유대는 그 무엇보다 중요해."
+msgstr "가족의 유대는 그 무엇보다도 소중한 법이니까요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57973,7 +57973,7 @@ msgstr "가족의 유대는 그 무엇보다 중요해."
 #. REC: INFO:NAM1
 msgctxt "000BAC"
 msgid "We're both suffering, but I didn't cause this."
-msgstr "우리 둘 다 고통받고 있지만, 이건 내가 일으킨 일이 아니야."
+msgstr "저나 아버지나 괴로운 건 매한가지겠지요. 하지만 그게 제 잘못은 아니지 않습니까."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -57988,7 +57988,7 @@ msgstr "우리 둘 다 고통받고 있지만, 이건 내가 일으킨 일이 �
 #. REC: INFO:NAM1
 msgctxt "000BAD"
 msgid "You're right. As much as I wish I could just forget all of this, I can't."
-msgstr "네 말이 맞아. 이 모든 걸 그냥 잊을 수 있으면 좋겠지만, 그럴 수는 없어."
+msgstr "당신 말이 맞아요. 그냥 모두 다 잊어버리고 싶지만, 그게 마음대로 안 되네요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -58003,7 +58003,7 @@ msgstr "네 말이 맞아. 이 모든 걸 그냥 잊을 수 있으면 좋겠지�
 #. REC: INFO:NAM1
 msgctxt "000BAE"
 msgid "This rift is hurting you both every day."
-msgstr "이 균열이 매일 두 사람 모두를 아프게 하고 있어."
+msgstr "갈등 때문에 두 분 다 매일 상처받고 계시잖아요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -58018,7 +58018,7 @@ msgstr "이 균열이 매일 두 사람 모두를 아프게 하고 있어."
 #. REC: INFO:NAM1
 msgctxt "000BAF"
 msgid "You should be telling him that."
-msgstr "그 말은 그에게 해야지."
+msgstr "그 말은 아버지에게 하셔야죠."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -58033,7 +58033,7 @@ msgstr "그 말은 그에게 해야지."
 #. REC: INFO:NAM1
 msgctxt "000BB0"
 msgid "You're right. So much time has already been lost."
-msgstr "네 말이 맞아. 이미 너무 많은 시간이 사라졌어."
+msgstr "당신 말이 맞아요. 이미 시간을 너무 많이 허비해 버렸네요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -58050,7 +58050,7 @@ msgstr "네 말이 맞아. 이미 너무 많은 시간이 사라졌어."
 #. REC: INFO:NAM1
 msgctxt "000BB1"
 msgid "It's not hard to understand how such a tragedy could tear a family apart."
-msgstr "그런 비극이 어떻게 가족을 갈라놓을 수 있는지 이해하기 어렵지 않아."
+msgstr "그 정도의 비극이라면 가정이 그렇게 무너져버린 것도 무리는 아니지."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -58068,7 +58068,7 @@ msgstr "그런 비극이 어떻게 가족을 갈라놓을 수 있는지 이해�
 #. REC: INFO:NAM1
 msgctxt "000BB2"
 msgid "You're right. Just know that it's not a happy tale."
-msgstr "네 말이 맞아. 다만 행복한 이야기는 아니라는 것만 알아 둬."
+msgstr "맞는 말씀입니다. 하지만 그게 그리 행복한 이야기는 아니라서요."
 
 #. List: 2
 #. QuestName = SFFL_R03
@@ -71970,7 +71970,7 @@ msgstr "당신 아들은 안전합니다."
 #. REC: INFO:NAM1
 msgctxt "00121E"
 msgid "I just don't know."
-msgstr "그냥 모르겠어."
+msgstr "정말이지 잘 모르겠네요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -71985,7 +71985,7 @@ msgstr "그냥 모르겠어."
 #. REC: INFO:NAM1
 msgctxt "00121F"
 msgid "Maybe my doubts were unfounded."
-msgstr "어쩌면 내 의심은 근거가 없었을지도 모르지."
+msgstr "어쩌면 제 의심은 모두 헛된 걱정이었을지도 모르죠."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -72000,7 +72000,7 @@ msgstr "어쩌면 내 의심은 근거가 없었을지도 모르지."
 #. REC: INFO:NAM1
 msgctxt "001220"
 msgid "Thanks for the self-help lesson, but I'm really not interested."
-msgstr "자기계발 강의는 고맙지만, 난 정말 관심 없어."
+msgstr "훈수는 고맙지만, 전 정말 관심 없습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -72015,7 +72015,7 @@ msgstr "자기계발 강의는 고맙지만, 난 정말 관심 없어."
 #. REC: INFO:NAM1
 msgctxt "001221"
 msgid "I admit, I think about that myself sometimes."
-msgstr "인정할게. 나도 가끔 그 생각을 해."
+msgstr "솔직히 말씀드리면, 사실 저도 가끔 혼자 그런 생각을 하곤 하거든요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -72045,7 +72045,7 @@ msgstr "당신 아버지는 죄책감 때문에 연락하지 못할 겁니다. �
 #. REC: INFO:NAM1
 msgctxt "001223"
 msgid "I'm the victim here. I'm the one who's owed an apology."
-msgstr "피해자는 나야. 사과를 받아야 하는 쪽도 나라고."
+msgstr "피해자는 접니다. 사과를 받아야 하는 쪽도 저라고요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -72060,7 +72060,7 @@ msgstr "피해자는 나야. 사과를 받아야 하는 쪽도 나라고."
 #. REC: INFO:NAM1
 msgctxt "001224"
 msgid "That goes both ways."
-msgstr "그건 서로 마찬가지야."
+msgstr "그건 서로 마찬가지입니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -72075,7 +72075,7 @@ msgstr "그건 서로 마찬가지야."
 #. REC: INFO:NAM1
 msgctxt "001225"
 msgid "The fact we're family just makes everything harder."
-msgstr "우리가 가족이라는 사실이 모든 걸 더 어렵게 만들 뿐이야."
+msgstr "핏줄로 얽혀 있어서, 진짜 모든 걸 더 어렵게 만드네요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -72090,7 +72090,7 @@ msgstr "우리가 가족이라는 사실이 모든 걸 더 어렵게 만들 뿐�
 #. REC: INFO:NAM1
 msgctxt "001226"
 msgid "Believe it or not, I do have some good family memories. They just got buried."
-msgstr "믿기 어렵겠지만, 나도 가족과의 좋은 추억이 있어. 그냥 묻혀버렸을 뿐이지."
+msgstr "믿기지 않으시겠지만, 저에게도 행복했던 가족의 추억이 있긴 해요. 그저... 깊이 파묻혀 있었을 뿐이죠."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -72105,7 +72105,7 @@ msgstr "믿기 어렵겠지만, 나도 가족과의 좋은 추억이 있어. 그
 #. REC: INFO:NAM1
 msgctxt "001227"
 msgid "Do it for yourself. To prove that you can."
-msgstr "네 자신을 위해 해. 네가 할 수 있다는 걸 증명하려고."
+msgstr "당신을 위해서라도 해보세요. 마주하고 이겨낼 힘이 있다는 걸 증명해 보자고요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -72157,7 +72157,7 @@ msgstr "네가 무슨 말을 하려는지는 알아. 하지만 그게 아무것�
 #. REC: INFO:NAM1
 msgctxt "00122A"
 msgid "What happened? I'm involved now, so I have a right to know."
-msgstr "무슨 일이 있었죠? 이제 저도 관련됐으니 알 권리가 있습니다."
+msgstr "무슨 일이 있었던 거죠? 이제 저도 관련자가 됐으니 알 권리가 있다 생각합니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -72173,7 +72173,7 @@ msgstr "무슨 일이 있었죠? 이제 저도 관련됐으니 알 권리가 있
 #. REC: INFO:NAM1
 msgctxt "00122B"
 msgid "He left the very next day, and cut off all contact. "
-msgstr "아버지는 바로 다음 날 떠났고, 모든 연락을 끊었어. "
+msgstr "아버지는 바로 다음 날 떠나버리셨고, 모든 연락을 끊었습니다. "
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -72188,7 +72188,7 @@ msgstr "아버지는 바로 다음 날 떠났고, 모든 연락을 끊었어. "
 #. REC: INFO:NAM1
 msgctxt "00122C"
 msgid "His hubris cost both of their lives."
-msgstr "아버지의 오만 때문에 두 사람이 목숨을 잃었지."
+msgstr "아버지의 오만 때문에 둘은 목숨을 잃었습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -72203,7 +72203,7 @@ msgstr "아버지의 오만 때문에 두 사람이 목숨을 잃었지."
 #. REC: INFO:NAM1
 msgctxt "00122D"
 msgid "He demanded to do the surgery, but it wasn't his area of expertise."
-msgstr "아버지는 자기가 수술하겠다고 고집했지만, 산부인과는 아버지의 전문 분야가 아니었어."
+msgstr "아버지는 자기가 수술하겠다고 고집했지만, 산부인과는 아버지의 전문 분야가 아니었습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -72218,7 +72218,7 @@ msgstr "아버지는 자기가 수술하겠다고 고집했지만, 산부인과�
 #. REC: INFO:NAM1
 msgctxt "00122E"
 msgid "My wife was about to give birth and there were complications. The life-threatening kind."
-msgstr "아내가 출산을 앞두고 있었을 때, 합병증이 생겼어. 생명이 위험했지."
+msgstr "제 아내가 출산을 앞두고 있었을 때, 합병증이 생겼습니다. 생명이 위독했죠."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -72234,7 +72234,7 @@ msgstr "아내가 출산을 앞두고 있었을 때, 합병증이 생겼어. 생
 #. REC: INFO:NAM1
 msgctxt "00122F"
 msgid "He was a doctor, well-respected but arrogant."
-msgstr "아버지는 의사였어. 존경받았지만, 오만했지."
+msgstr "아버지는 의사셨습니다. 실력으로는 널리 존경받으셨지만, 무척이나 오만하셨지요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -72250,7 +72250,7 @@ msgstr "아버지는 의사였어. 존경받았지만, 오만했지."
 #. REC: INFO:NAM1
 msgctxt "001230"
 msgid "I understand not getting along with your old man, but that's... yeah."
-msgstr "아버지와 사이가 좋지 않은 건 이해하지만, 그건... 그래."
+msgstr "부모 자식 간에 불화야 있을 순 있지만, 이건... 너무 그렇군요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -72266,7 +72266,7 @@ msgstr "아버지와 사이가 좋지 않은 건 이해하지만, 그건... 그�
 #. REC: INFO:NAM1
 msgctxt "001231"
 msgid "Damn. Can't imagine how hard that must have been."
-msgstr "젠장. 얼마나 힘들었을지 상상도 안 돼."
+msgstr "젠장. 그동안 얼마나 힘들었을지 상상조차 안 되네요."
 
 #. List: 2
 #. QuestName = SFFL_R03
@@ -85832,7 +85832,7 @@ msgstr "아직 곁에 있지?"
 #. REC: INFO:NAM1
 msgctxt "00164F"
 msgid "If that job is rescuing me, I'm not going to complain."
-msgstr "날 구하려고 그러는 거라면, 불평 안 할게."
+msgstr "그 일이란 게 저를 구하는 거였다면, 저야 마다할 이유가 없죠."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -85849,7 +85849,7 @@ msgstr "날 구하려고 그러는 거라면, 불평 안 할게."
 #. REC: INFO:NAM1
 msgctxt "001650"
 msgid "He's at Anchorpoint. You should reach out, try to heal the rift."
-msgstr "그는 앵커포인트에 있어요. 연락해 보세요. 관계를 회복해 보세요."
+msgstr "당신 아버지는 앵커포인트에 있어요. 한 번 연락이라도 해보세요. 갈등을 치유할 기회일지도 모릅니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -85883,7 +85883,7 @@ msgstr "하지만 내가 살아 있길 바라는 것과, 아버지의 인생에 
 #. REC: INFO:NAM1
 msgctxt "001652"
 msgid "I guess so."
-msgstr "그런 것 같아."
+msgstr "그렇겠지요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -85901,7 +85901,7 @@ msgstr "그런 것 같아."
 #. REC: INFO:NAM1
 msgctxt "001653"
 msgid "Believe me, I know that better than anyone."
-msgstr "믿어줘. 그건 내가 누구보다 잘 알아."
+msgstr "장담하는데, 제가 세상에서 그 복잡한 관계를 제일 잘 알 겁니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -85953,7 +85953,7 @@ msgstr "잠깐, 진짜야? 그 이야기들이 사실이었다고요?"
 #. REC: INFO:NAM1
 msgctxt "001656"
 msgid "Just here to do a job."
-msgstr "그냥 일하러 온 겁니다."
+msgstr "그저 할 일을 하러 온 것뿐입니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -85971,7 +85971,7 @@ msgstr "그냥 일하러 온 겁니다."
 #. REC: INFO:NAM1
 msgctxt "001657"
 msgid "You have no idea how happy I am to hear those words."
-msgstr "그 말을 듣게 되어 얼마나 기쁜지 넌 짐작도 못할 거야."
+msgstr "그렇게 말씀해 주시니 정말 너무 기쁘네요. 감사해요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -86140,7 +86140,7 @@ msgstr "어렵겠지만, 네 말이 맞을지도 몰라."
 #. REC: INFO:NAM1
 msgctxt "001662"
 msgid "That's truly awful. I'm so sorry."
-msgstr "정말 끔찍하네요. 유감입니다."
+msgstr "정말 너무 끔찍한 일이네요. 깊은 위로의 말씀을 전합니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -86157,7 +86157,7 @@ msgstr "정말 끔찍하네요. 유감입니다."
 #. REC: INFO:NAM1
 msgctxt "001663"
 msgid "That is truly heartbreaking. "
-msgstr "정말 가슴 아픈 일이네요."
+msgstr "정말이지 듣기만 해도 가슴이 너무 아프네요. "
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -86265,7 +86265,7 @@ msgstr "나에게 가족은 언제나 중요했어."
 #. REC: INFO:NAM1
 msgctxt "00166A"
 msgid "You're right. I think it's time to mend some old wounds."
-msgstr "네 말이 맞아. 오래된 상처를 치유할 때인 것 같아."
+msgstr "당신 말이 맞아요. 이제 오래된 상처를 아물게 해야 할 때인 것 같습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -86283,7 +86283,7 @@ msgstr "네 말이 맞아. 오래된 상처를 치유할 때인 것 같아."
 #. REC: INFO:NAM1
 msgctxt "00166B"
 msgid "Right. Well, um, Mantis, thanks for coming to my rescue."
-msgstr "그래. 어, 맨티스, 구하러 와 줘서 고마워."
+msgstr "그렇군요. 음, 어, 맨티스, 구하러 와 줘서 고마워요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -86301,7 +86301,7 @@ msgstr "그래. 어, 맨티스, 구하러 와 줘서 고마워."
 #. REC: INFO:NAM1
 msgctxt "00166C"
 msgid "Yeah. You risked a lot coming out here, so it's the least I can do."
-msgstr "그래. 여기까지 오는 데 큰 위험을 감수했으니, 이 정도는 해야지."
+msgstr "예. 여기까지 큰 위험을 감수하며 오셨으니, 이 정도야 말해드려야겠죠."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -86319,7 +86319,7 @@ msgstr "그래. 여기까지 오는 데 큰 위험을 감수했으니, 이 정�
 #. REC: INFO:NAM1
 msgctxt "00166D"
 msgid "[Lie] I'm the famed galactic superhero called... The Mantis!"
-msgstr "[거짓말] 나는... 맨티스라고 불리는 유명한 은하계 슈퍼히어로다!"
+msgstr "[거짓말] 저는 유명한 은하계 슈퍼히어로입니다. 이름하여... 맨티스라고 불리죠!"
 
 #. List: 2
 #. QuestName = SFFL_R03
@@ -105057,7 +105057,7 @@ msgstr "네가 해 준 일 고마워. 진심이야."
 #. REC: INFO:NAM1
 msgctxt "001C69"
 msgid "I don't know. It's been a real long time. I'm not even sure how much he cares anymore."
-msgstr "모르겠어. 정말 오래됐거든. 아직도 그가 얼마나 신경 쓰는지도 잘 모르겠어."
+msgstr "글쎄요... 세월이 너무 많이 지나버려서, 이제 와서 아버지가 절 신경이나 쓰실지 잘 모르겠어요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -105075,7 +105075,7 @@ msgstr "모르겠어. 정말 오래됐거든. 아직도 그가 얼마나 신경 
 #. REC: INFO:NAM1
 msgctxt "001C6A"
 msgid "It doesn't really matter. The point is, I'm here."
-msgstr "그건 별로 중요하지 않아. 중요한 건 내가 여기 있다는 거야."
+msgstr "그건 중요한 문제가 아닙니다. 중요한 건 제가 여기 있다는 거죠."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -105109,7 +105109,7 @@ msgstr "뉴아틀란티스의 새벽의 안식처에서 최고급 저녁을 대�
 #. REC: INFO:NAM1
 msgctxt "001C6C"
 msgid "Best damn co-pilot a guy could ask for."
-msgstr "남자가 바랄 수 있는 최고의 부조종사지."
+msgstr "이보다 더 끝내주는 부조종사는 없을 겁니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -105127,7 +105127,7 @@ msgstr "남자가 바랄 수 있는 최고의 부조종사지."
 #. REC: INFO:NAM1
 msgctxt "001C6D"
 msgid "Relationships between fathers and sons can be complicated."
-msgstr "아버지와 아들의 관계는 복잡할 수 있죠."
+msgstr "아버지와 아들의 관계라는 게... 참 복잡할 때가 많지요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -105144,7 +105144,7 @@ msgstr "아버지와 아들의 관계는 복잡할 수 있죠."
 #. REC: INFO:NAM1
 msgctxt "001C6E"
 msgid "If you're here, that must mean Lucia made it out. Thank goodness."
-msgstr "네가 여기 있다는 건 루시아가 빠져나왔다는 뜻이겠군. 다행이야."
+msgstr "당신이 여기 온 걸 보니 루시아도 잘 도망친 모양이군요. 신이시여, 감사합니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -105176,7 +105176,7 @@ msgstr "감히 안전하길 바라지도 못하고 있었습니다."
 #. REC: INFO:NAM1
 msgctxt "001C71"
 msgid "It's obvious he's suffering. You can put a stop to that."
-msgstr "그가 고통받고 있는 건 분명해. 네가 그걸 끝낼 수 있어."
+msgstr "아버지가 힘들어하실게 불 보듯 뻔하잖아요. 가서 마음 편하게 해드리세요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -118312,7 +118312,7 @@ msgstr "빌어먹을 스페이서들. 죄다 피에 굶주린 야만인 새끼�
 #. REC: INFO:NAM1
 msgctxt "00207D"
 msgid "I thought that was the end for me."
-msgstr "이걸로 끝이라고 생각했어."
+msgstr "진짜 끝장나는 줄 알았어요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -118326,7 +118326,7 @@ msgstr "이걸로 끝이라고 생각했어."
 #. REC: INFO:NAM1
 msgctxt "00207E"
 msgid "You really saved me."
-msgstr "정말 날 구해 줬어."
+msgstr "덕분에 살았네요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -118340,7 +118340,7 @@ msgstr "정말 날 구해 줬어."
 #. REC: INFO:NAM1
 msgctxt "00207F"
 msgid "Those bastards took my ship."
-msgstr "그 자식들이 내 우주선을 빼앗아 갔어."
+msgstr "그 개자식들이 제 우주선을 빼앗아 갔어요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -118354,7 +118354,7 @@ msgstr "그 자식들이 내 우주선을 빼앗아 갔어."
 #. REC: INFO:NAM1
 msgctxt "002080"
 msgid "Get me out of here, I'm begging you."
-msgstr "제발, 날 여기서 꺼내 줘."
+msgstr "여기서 좀 나가게 해주세요. 제발 부탁이에요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -118369,7 +118369,7 @@ msgstr "제발, 날 여기서 꺼내 줘."
 #. REC: INFO:NAM1
 msgctxt "002081"
 msgid "I'm afraid I've got nothing to offer you but gratitude. They took everything else."
-msgstr "감사 말고는 줄 게 없어서 미안하군. 다른 건 전부 그들이 가져갔어."
+msgstr "죄송하지만 지금 드릴 수 있는 건 고맙다는 말뿐이네요. 녀석들이 다른 건 모조리 빼앗아 갔거든요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -118385,7 +118385,7 @@ msgstr "감사 말고는 줄 게 없어서 미안하군. 다른 건 전부 그�
 #. REC: INFO:NAM1
 msgctxt "002082"
 msgid "I'm going to rest here a little bit, and then use their transmitter to call Lucia for a lift."
-msgstr "여기서 조금 쉰 다음, 그들의 송신기로 루시아에게 연락해서 태워 달라고 할게."
+msgstr "여기서 잠깐 쉬었다가, 스페이서들의 송신기로 루시아한테 연락해서 데리러 오라고 할게요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -118403,7 +118403,7 @@ msgstr "여기서 조금 쉰 다음, 그들의 송신기로 루시아에게 연�
 #. REC: INFO:NAM1
 msgctxt "002083"
 msgid "You have every right to want him out of your life."
-msgstr "네 인생에서 아버지를 지우고 싶겠네."
+msgstr "당신이 아버지를 인생에서 지워버리고 싶다고 말해도, 누구도 당신을 탓할 순 없을 겁니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -118421,7 +118421,7 @@ msgstr "네 인생에서 아버지를 지우고 싶겠네."
 #. REC: INFO:NAM1
 msgctxt "002084"
 msgid "[Lie] That's right. She's the one who hired me."
-msgstr "[거짓말] 맞아. 날 고용한 건 그녀야."
+msgstr "[거짓말] 맞습니다. 루시아가 절 고용했습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -118455,7 +118455,7 @@ msgstr "그녀가 널 보낸 거겠지."
 #. REC: INFO:NAM1
 msgctxt "002086"
 msgid "Truth is, after all this time, I'm starting to feel the same way."
-msgstr "사실 이렇게 시간이 지나고 보니 나도 같은 생각이 들기 시작했어."
+msgstr "사실은, 너무 시간이 흘러서 그런지, 저도... 생각하지 않게 되는 것 같습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -118471,7 +118471,7 @@ msgstr "사실 이렇게 시간이 지나고 보니 나도 같은 생각이 들�
 #. REC: INFO:NAM1
 msgctxt "002087"
 msgid "I really didn't think he wanted me in his life anymore."
-msgstr "그가 더는 자기 삶에 나를 원하지 않는다고 생각했어."
+msgstr "아버지가 더는 저를 자식으로 생각하지 않으시는 줄 알았습니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -118487,7 +118487,7 @@ msgstr "그가 더는 자기 삶에 나를 원하지 않는다고 생각했어."
 #. REC: INFO:NAM1
 msgctxt "002088"
 msgid "I haven't seen or heard from him in so long."
-msgstr "너무 오래 아버지를 보지도, 소식도 듣지도 못했거든."
+msgstr "아버지를 안 본 지도, 소식을 못 들은 지도 정말 오래됐거든요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -118504,7 +118504,7 @@ msgstr "너무 오래 아버지를 보지도, 소식도 듣지도 못했거든."
 #. REC: INFO:NAM1
 msgctxt "002089"
 msgid "I'm sorry, did you say my father?"
-msgstr "미안한데, 내 아버지라고 했어?"
+msgstr "죄송한데, 지금 아버지가 보냈다고 하셨나요?"
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -118538,7 +118538,7 @@ msgstr "나는 은하계의 유명한 슈퍼히어로... 맨티스다!"
 #. REC: INFO:NAM1
 msgctxt "00208B"
 msgid "Who are you? You're not one of them."
-msgstr "누구지? 내가 아는 사람은 아닌 거 같은데."
+msgstr "근데 누구시죠? 스페이서는 아니신 거 같은데요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -118703,7 +118703,7 @@ msgstr "결국 내 책임이라는 거군? 그래, 그런 것 같아."
 #. REC: INFO:NAM1
 msgctxt "002096"
 msgid "You're his own flesh and blood. I promise, he wants to hear from you."
-msgstr "넌 그의 혈육이야. 장담하는데, 그는 네 소식을 듣고 싶어 해."
+msgstr "당신은 친자식이잖아요. 장담하는데, 아버지도 당신 소식을 간절히 기다리고 계실 겁니다."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -118808,7 +118808,7 @@ msgstr "맞아. 아직도 생각하면 아파."
 #. REC: INFO:NAM1
 msgctxt "00209D"
 msgid "You should reach out now. Nobody knows how much time we have."
-msgstr "지금 연락해 봐. 우리에게 시간이 얼마나 남았는지는 아무도 몰라."
+msgstr "지금 연락해 보세요. 우리에게 시간이 얼마나 남아있을지는 아무도 모르는 법이니까요."
 
 #. List: 2
 #. QuestName = SFFL_AnchorpointZ03
@@ -118825,7 +118825,7 @@ msgstr "지금 연락해 봐. 우리에게 시간이 얼마나 남았는지는 �
 #. REC: INFO:NAM1
 msgctxt "00209E"
 msgid "If you want to talk about it, I'm listening."
-msgstr "그 얘기를 하고 싶다면 들어줄게."
+msgstr "이야기하고 싶으시다면 편하게 말해주세요. 들을게요."
 
 #. List: 2
 #. QuestName = SFFL_R03

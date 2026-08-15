@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-13 16:21+0900\n"
-"PO-Revision-Date: 2026-07-19 15:49+0000\n"
+"PO-Revision-Date: 2026-08-16 13:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -8613,7 +8613,7 @@ msgstr "우주선 제작기 부품 교체 적용 판정 완화"
 
 msgid "$Ship Builder Enable Loose Rules Desc"
 msgstr ""
-"우주선 제작기 메뉴에서 구조재 부품의 외형 교체시 부착되는 판정(Flip Merge)을 완화해 더 다양한 커스터마이징을 할 수 있게 "
+"우주선 제작기 메뉴에서 구조물 부품의 외형 교체시 부착되는 판정(Flip Merge)을 완화해 더 다양한 커스터마이징을 할 수 있게 "
 "합니다."
 
 # Interface strings added from Starfield 1.16.244 template.

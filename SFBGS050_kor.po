@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-18 03:10+0900\n"
-"PO-Revision-Date: 2026-07-28 15:49+0000\n"
+"PO-Revision-Date: 2026-08-16 13:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -19573,7 +19573,7 @@ msgstr "강습선"
 #. FormID: 020AEAFB
 msgctxt "002854"
 msgid "Structure Station"
-msgstr "구조물 스테이션"
+msgstr "구조물 기지"
 
 #. List: 0
 #. EDID: scSFTERMS02RelayNodeStation

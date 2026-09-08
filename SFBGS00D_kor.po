@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-09-07 17:49+0000\n"
+"PO-Revision-Date: 2026-09-09 16:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -1318,7 +1318,7 @@ msgctxt "0001BA"
 msgid "Personal Logs:\nSimon Buendia, Founder and Mayor of Shinar"
 msgstr ""
 "개인 일지:\n"
-"사이먼 부엔디아, 시날의 창설자 겸 시장"
+"사이먼 부엔디아, 시날의 창설자 겸 촌장"
 
 #. List: 0
 #. EDID: SFFL_MS01_Shinar01_TMLM
@@ -25322,7 +25322,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0001F9"
 msgid "He was a real bear of a man. Soft spoken, but forceful. What few words he used, he didn't mince."
-msgstr "곰같이 덩치 큰 놈이었어. 목소리는 부드지만, 말에 묵직한 힘이 있었지. 말수는 적은 편이었고, 에둘러 표현하는 법이 없었어."
+msgstr "곰같이 덩치 큰 놈이었어. 목소리는 부드럽지만, 말에 묵직한 힘이 있었지. 말수는 적은 편이었고, 에둘러 표현하는 법이 없었어."
 
 #. List: 2
 #. QuestName = SFFL_MS01_MiscDialogue
@@ -28645,7 +28645,7 @@ msgstr "어떻게 생각해? 그가 한 짓일까?"
 #. REC: INFO:NAM1
 msgctxt "0002D6"
 msgid "That's when I dropped a box of mason jars."
-msgstr "그때 내가 메이슨자 병 한 상자를 떨어뜨렸어."
+msgstr "그때 내가 유리병이 담긴 상자를 떨어뜨렸어요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33591,7 +33591,7 @@ msgstr "그럼 쓸데없는 잡담으로 더 시간을 낭비하지 말아야겠
 #. REC: INFO:NAM1
 msgctxt "000407"
 msgid "I think you have the wrong man. I'm just a farmer."
-msgstr "사람 잘못 본 것 같아. 난 그저 농부야."
+msgstr "사람 잘못 찾아온 것 같은데. 난 일개 농부라고."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33941,7 +33941,7 @@ msgstr "오만 속의 위대한 사람, 살인자들과 맞서며."
 #. REC: INFO:NAM1
 msgctxt "00041B"
 msgid "We have business to discuss."
-msgstr "논의할 일이 있어."
+msgstr "너와 나눌 이야기가 좀 있거든."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33976,7 +33976,7 @@ msgstr "모든 것이 무너진다. 중심은 버티지 못한다!"
 #. REC: INFO:NAM1
 msgctxt "00041D"
 msgid "I'm here regarding your past."
-msgstr "당신의 과거와 관련해 왔어."
+msgstr "네가 과거에 저지른 일 때문에 왔지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34028,7 +34028,7 @@ msgstr "더 낫다고? 내 생각엔 \"더 느리다\"는 뜻 같은데."
 #. REC: INFO:NAM1
 msgctxt "000420"
 msgid "I was told you're the one who can help me with my extended warranty."
-msgstr "제 연장 보증을 도와줄 사람이 당신이라고 들었습니다."
+msgstr "그쪽이 내 우주선 보증보험 기간을 연장해 줄 수 있다고 들었거든."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34046,7 +34046,7 @@ msgstr "제 연장 보증을 도와줄 사람이 당신이라고 들었습니다
 #. REC: INFO:NAM1
 msgctxt "000421"
 msgid "You don't. But given your crimes, you're about to."
-msgstr "넌 모른다. 하지만 네 죄를 생각하면 곧 알게 될 거야."
+msgstr "넌 나를 모르겠지. 하지만 네가 저지른 범죄를 따져보면, 이제 알게 될 거다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37907,7 +37907,7 @@ msgstr "그럼 계속해. 말해 봐."
 #. REC: INFO:NAM1
 msgctxt "000511"
 msgid "You're a known criminal. I'm guessing there's probably a bounty on your head too."
-msgstr "너는 알려진 범죄자야. 네 목에 현상금도 걸려 있을 것 같은데."
+msgstr "이름난 범죄자면서 잡아떼지 마. 네 목에 현상금도 걸려 있을 것 같은데."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37924,7 +37924,7 @@ msgstr "너는 알려진 범죄자야. 네 목에 현상금도 걸려 있을 것
 #. REC: INFO:NAM1
 msgctxt "000512"
 msgid "*Sigh*, or I can check the freaking valve."
-msgstr "*한숨* 아니면 내가 그 빌어먹을 밸브를 확인하든가."
+msgstr "*한숨* 아니면 그 빌어먹을 밸브를 확인해야 겠죠."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37978,7 +37978,7 @@ msgstr "어쩌면. 하지만 사실은, 난 널 기다리고 있었어."
 msgctxt "000515"
 msgid "[Bernhard's Description] I was told he was a big bear of a man. Soft spoken, but didn't mince words."
 msgstr ""
-"[버나드가 해준 설명을 말한다] 덩치가 곰만한 남자가 있다고 들었습니다만. 말투는 부드럽지만, 할 말은 돌려 말하지 않는다던데요."
+"[버나드가 설명해 준 내용 말하기] 덩치가 곰만한 남자가 있다고 들었습니다만. 목소리는 부드럽지만, 에둘러 표현하는 법이 없다던데요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38108,7 +38108,7 @@ msgstr "시날 전초기지 사람들은 다르게 말할 거야."
 #. REC: INFO:NAM1
 msgctxt "00051D"
 msgid "Do I know you, friend?"
-msgstr "내가 자네를 아는가, 친구?"
+msgstr "우리가 아는 사이인가? 친구?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38126,7 +38126,7 @@ msgstr "내가 자네를 아는가, 친구?"
 #. REC: INFO:NAM1
 msgctxt "00051E"
 msgid "Well, the only newcomer I know of would be Big Hal. Our soon to be mayor-elect."
-msgstr "글쎄, 제가 알기론 새로 온 주민은 빅 할 뿐입니다. 곧 선출될 시장님 말이죠."
+msgstr "글쎄, 제가 알기론 새로 온 주민은 빅 할 뿐입니다. 곧 여기 촌장을 맡게 될 거 같습니다만."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38158,7 +38158,7 @@ msgstr "아니면 압력 밸브를 확인해도 되고."
 #. REC: INFO:NAM1
 msgctxt "000520"
 msgid "Easy. If the filters are fine, then what's the next step?"
-msgstr "좋아. 필터가 멀쩡하다면 다음 단계는 뭐지?"
+msgstr "진정해. 필터가 멀쩡하다면 다음에는 뭘 확인해야 하지?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38175,7 +38175,7 @@ msgstr "좋아. 필터가 멀쩡하다면 다음 단계는 뭐지?"
 #. REC: INFO:NAM1
 msgctxt "000521"
 msgid "*Grumble*, they look fine. Ugh, this thing is so stupid!"
-msgstr "*투덜* 멀쩡해 보이잖아. 으, 이거 진짜 멍청한 기계야!"
+msgstr "*투덜거림* 멀쩡해 보이는데요. 으, 이 한심한 펌프 같으니!"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38190,7 +38190,7 @@ msgstr "*투덜* 멀쩡해 보이잖아. 으, 이거 진짜 멍청한 기계야!
 #. REC: INFO:NAM1
 msgctxt "000522"
 msgid "Check the intake filters."
-msgstr "흡입 필터를 확인해."
+msgstr "유입구 필터를 확인해."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38223,7 +38223,7 @@ msgstr "나를 풀어 주고 내 믿음을 되찾아 준 사람이 너였어. �
 #. REC: INFO:NAM1
 msgctxt "000524"
 msgid "Good. Take a break to cool off, and then get your tools."
-msgstr "좋아. 잠깐 쉬면서 진정하고, 그다음 도구를 챙겨."
+msgstr "좋아. 열 좀 식히면서 쉬었다가, 장비 정리해."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38240,7 +38240,7 @@ msgstr "좋아. 잠깐 쉬면서 진정하고, 그다음 도구를 챙겨."
 #. REC: INFO:NAM1
 msgctxt "000525"
 msgid "I... I think you're right. I didn't install it properly. That explains why the pump's malfunctioning."
-msgstr "나... 네 말이 맞는 것 같아. 제대로 설치하지 않았어. 그래서 펌프가 오작동하는 거였구나."
+msgstr "어... 짐작하신 부분이 맞는 것 같아요. 제대로 설치돼 있지 않네요. 그래서 펌프가 오작동하는 거였군요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38258,7 +38258,7 @@ msgstr "나... 네 말이 맞는 것 같아. 제대로 설치하지 않았어. �
 #. REC: INFO:NAM1
 msgctxt "000526"
 msgid "Then maybe think a little harder, or turn around."
-msgstr "그러면 조금 더 열심히 기억을 떠올려 보시거나, 돌아가십쇼."
+msgstr "그러면 어떻게 할지 잘 생각해 보시거나, 돌아가십쇼."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38275,7 +38275,7 @@ msgstr "그러면 조금 더 열심히 기억을 떠올려 보시거나, 돌아�
 #. REC: INFO:NAM1
 msgctxt "000527"
 msgid "The next step is we blow up this machine and strip it for parts!"
-msgstr "다음 단계는 이 기계를 폭파하고 부품을 뜯어내는 거야!"
+msgstr "그다음은 이 기계를 터트리고 부품을 뜯어내야 겠죠!"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38293,7 +38293,7 @@ msgstr "다음 단계는 이 기계를 폭파하고 부품을 뜯어내는 거�
 #. REC: INFO:NAM1
 msgctxt "000528"
 msgid "I'm sorry, I don't."
-msgstr "미안하지만, 기억이 안납니다."
+msgstr "미안하지만, 자세히 밝힐 순 없습니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38395,7 +38395,7 @@ msgstr "빅 할 말입니까? "
 #. REC: INFO:NAM1
 msgctxt "00052E"
 msgid "Hold up stranger. This outpost belongs to the citizens of New Babylon. State your business, or kindly leave."
-msgstr "멈추시죠. 외지인 분. 이 전초기지는 뉴바빌론 주민들의 것입니다. 용건을 밝히거나, 정중히 떠나주십쇼."
+msgstr "멈추시죠. 외지인 분. 이 전초기지는 뉴바빌론 주민들의 정착지입니다. 용건을 밝히시거나, 정중히 떠나주십쇼."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38466,7 +38466,7 @@ msgstr "흠, 둘이 직접 만나서 문제를 정리하는 게 좋을 거 같�
 #. REC: INFO:NAM1
 msgctxt "000532"
 msgid "My business is none of yours, okay?"
-msgstr "내가 뭘 하든 네가 뭔 상관이야? 신경 꺼, 알겠어?"
+msgstr "내가 뭘 하든 뭔 상관이야? 신경 꺼. 알겠어?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38484,7 +38484,7 @@ msgstr "내가 뭘 하든 네가 뭔 상관이야? 신경 꺼, 알겠어?"
 #. REC: INFO:NAM1
 msgctxt "000533"
 msgid "Yeah? Got a description of the perp?"
-msgstr "예? 그 범인이 어떻게 생겼는지 말해주시겠습니까?"
+msgstr "예? 그 범인이 어떻게 생겼는지 말씀해 주시겠습니까?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38553,7 +38553,8 @@ msgstr "일면식도 없는 사람이라면 두말할 것도 없고 말입니다
 #. REC: INFO:NAM1
 msgctxt "000537"
 msgid "That's all fine and dandy if you're a local. But anyone outside of this hundred meter zip code is trespassing."
-msgstr "여기 주민이시라면 아무 문제 없겠죠. 하지만 이곳에서 반경 100미터 구역 외부에서 온 사람은 누구든 무단 침입자로 간주됩니다."
+msgstr ""
+"여기 주민이라면 아무 문제 없겠죠. 하지만 이곳에서 반경 100미터 구역 외부에서 온 사람은 누구든 무단 침입자로 간주하고 있습니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38606,7 +38607,8 @@ msgstr "우주의 성소에서 설교했던 사람으로서 말하는데, 내 �
 #. REC: INFO:NAM1
 msgctxt "00053A"
 msgid "Head on through. You'll find him in the back, helping out with the water pump. Can't miss him. He's the one with the grimace."
-msgstr "안으로 들어가십쇼. 뒤쪽에서 물 펌프 일을 돕고 있을 겁니다. 못 알아볼 수가 없을 겁니다. 잔뜩 찡그리고 있을 테니 말입니다."
+msgstr ""
+"안으로 들어가십쇼. 뒤쪽에서 물 펌프 수리 일을 돕고 있을 겁니다. 못 알아볼 수가 없을 겁니다. 잔뜩 찡그리고 있을 테니 말입니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -47594,7 +47596,7 @@ msgstr "오래 머무실 계획이신가요? 저희는 언제나 새로운 주�
 #. REC: INFO:NAM1
 msgctxt "0007FC"
 msgid "It's always nice to have visitors to New Babylon. My name is Zena. I'm what amounts to a mayor around these parts."
-msgstr "뉴바빌론에 오시는 손님은 언제나 환영합니다. 제 이름은 제나예요. 이래 봬도 이 동네에선 시장 노릇을 하고 있죠."
+msgstr "뉴바빌론에 오시는 손님은 언제나 환영합니다. 제 이름은 제나예요. 이래 봬도 이 동네에선 촌장 노릇을 하고 있죠."
 
 #. List: 2
 #. QuestName = SFFL_MS01_MiscDialogue
@@ -51712,7 +51714,7 @@ msgstr "이제 할이 왜 나를 다시 불렀는지 알겠어. 그는 이 날�
 #. REC: INFO:NAM1
 msgctxt "000959"
 msgid "We don't get too many survey teams out here. You'll probably want to talk to Hal, he does most of the scouting for us."
-msgstr "여기까지 오는 조사팀은 많지 않습니다만. 할과 얘기해 보시는 게 좋겠습니다. 정찰 일은 대부분을 할이 맡고 있으니 말입니다."
+msgstr "여기에 오는 조사팀은 많지 않습니다만. 일단 할과 얘기해 보시는 게 좋겠습니다. 순찰은 대부분을 할이 하고 있으니 말입니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest

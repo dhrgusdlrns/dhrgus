@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-09-09 16:49+0000\n"
+"PO-Revision-Date: 2026-09-14 17:19+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -31550,7 +31550,7 @@ msgstr "스스로 베였다고 했잖아. 네 피가 공격자에게 묻었을 �
 #. REC: INFO:NAM1
 msgctxt "000388"
 msgid "No story. I am a killer, no doubt. But this isn't just about me."
-msgstr "이야기랄 건 없어. 내가 살인자인 건 분명해. 하지만 이건 나 하나만의 문제가 아니야."
+msgstr "사연 따윈 없어. 내가 살인자인 건 분명하니까. 하지만 이건 나만의 문제가 아냐."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -31584,7 +31584,7 @@ msgstr "절도에 대해 알고 있는 걸 말해줘."
 #. REC: INFO:NAM1
 msgctxt "00038A"
 msgid "There's always a sob story with you criminals. I'm not buying it."
-msgstr "너희 범죄자들은 늘 눈물겨운 사연이 있지. 난 안 믿어."
+msgstr "너 같은 범죄자 새끼들은 맨날 구구절절한 사연을 늘어놓더라. 안 속아."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -36853,7 +36853,7 @@ msgstr "그의 텐트로 들어가서 확인해 봐."
 #. REC: INFO:NAM1
 msgctxt "0004D3"
 msgid "Then we have a problem. My body is not free to take."
-msgstr "그렇다면 문제가 있군. 내 몸은 마음대로 가져갈 수 있는 것이 아니야."
+msgstr "그거 곤란한데. 내 몸도 그리 쉽게 내어줄 수 있는 게 아니라서 말이지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37284,7 +37284,7 @@ msgstr "사람들이 그렇게 선택한다면 따르겠다."
 #. REC: INFO:NAM1
 msgctxt "0004ED"
 msgid "In due time. But not yet."
-msgstr "때가 되면. 하지만 아직은 아니야."
+msgstr "때가 되면 그럴 거다. 하지만 아직은 아니야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37424,7 +37424,7 @@ msgstr "안타깝군. 하지만 순순히 가진 않겠다!"
 #. REC: INFO:NAM1
 msgctxt "0004F5"
 msgid "They do. But it'll have to wait."
-msgstr "그래. 하지만 그건 기다려야 해."
+msgstr "그래. 하지만 그건 좀 더 기다려야 할 거 같군."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37442,7 +37442,7 @@ msgstr "그래. 하지만 그건 기다려야 해."
 #. REC: INFO:NAM1
 msgctxt "0004F6"
 msgid "Regardless, the people of Shinar Outpost deserve justice."
-msgstr "어쨌든 시날 전초기지 사람들은 정의를 받을 자격이 있어."
+msgstr "어쨌든 시날 전초기지 주민을 위해서라도 정의는 실현되어야 해."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37478,7 +37478,7 @@ msgstr "[공격] 부족해. 넌 여기서 죽는다."
 #. REC: INFO:NAM1
 msgctxt "0004F8"
 msgid "If I can't take your life, then I'll take your empty husk."
-msgstr "네 목숨을 가져갈 수 없다면, 빈 껍데기라도 가져가겠다."
+msgstr "네 목숨을 빼앗을 수 없다면, 빈 허물이라도 가져가야겠는데."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37512,7 +37512,7 @@ msgstr "그 일이 끝나면 자수하거나 내 목숨을 끊겠다. 사람들�
 #. REC: INFO:NAM1
 msgctxt "0004FA"
 msgid "The truth is, I've been waiting for you."
-msgstr "사실, 난 널 기다리고 있었어."
+msgstr "사실은, 너 같은 사람이 올 때를 기다리고 있었다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37582,7 +37582,7 @@ msgstr "네가 떠나면 전초기지는 어떻게 되지?"
 #. REC: INFO:NAM1
 msgctxt "0004FE"
 msgid "If you wish to repent, you should turn yourself into the authorities."
-msgstr "회개하고 싶다면 당국에 자수해야지."
+msgstr "뉘우치고 싶으면 당국에 자수하라고."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37636,7 +37636,7 @@ msgstr "그럼 싸움이다. 그렇게 하지!"
 #. REC: INFO:NAM1
 msgctxt "000501"
 msgid "Or I can just kill you and be done with it. How's that sound?"
-msgstr "아니면 그냥 널 죽이고 끝내도 되지. 그건 어때?"
+msgstr "아니면 그냥 널 죽이고 끝내버려도 되겠지. 그건 어때?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37653,7 +37653,7 @@ msgstr "아니면 그냥 널 죽이고 끝내도 되지. 그건 어때?"
 #. REC: INFO:NAM1
 msgctxt "000502"
 msgid "All of that's to say, my crimes are many. I don't ask for absolution. Only time."
-msgstr "그러니까, 내 죄는 많다는 말이야. 사죄를 구하는 게 아니야. 시간만 바랄 뿐이지."
+msgstr "결론만 말하면, 내가 지은 죄는 헤아릴 수 없이 많다. 면죄부를 바라는 게 아냐. 그저 시간이 필요하다는 거지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37669,7 +37669,7 @@ msgstr "그러니까, 내 죄는 많다는 말이야. 사죄를 구하는 게 �
 #. REC: INFO:NAM1
 msgctxt "000503"
 msgid "And before that, I was one of the Promised. A servant of House Va'ruun."
-msgstr "그리고 그 전에는 약속받은 자 중 하나였어. 바룬 가문의 하인이었지."
+msgstr "그리고 그전에는 약속받은 자였어. 바룬 가문의 하수인이었지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37686,7 +37686,7 @@ msgstr "그리고 그 전에는 약속받은 자 중 하나였어. 바룬 가문
 #. REC: INFO:NAM1
 msgctxt "000504"
 msgid "You may know about Shinar. But before that, I spent time with the Crimson Fleet."
-msgstr "시날에 대해서는 알고 있을지도 모르지. 하지만 그 전에는 크림슨 함대와 함께했어."
+msgstr "시날에서 무슨 일이 있었는지는 알고 있는 거 같군. 그전에는 크림슨 함대에 몸을 담고 있었지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37702,7 +37702,7 @@ msgstr "시날에 대해서는 알고 있을지도 모르지. 하지만 그 전�
 #. REC: INFO:NAM1
 msgctxt "000505"
 msgid "For them, my absence will be an expensive purchase. And for their sake, I will not yield."
-msgstr "그들에게 내 부재는 큰 대가가 될 거야. 그리고 그들을 위해서라도 난 물러서지 않겠다."
+msgstr "내가 사라지면 주민들이 큰 대가를 치러야 해. 주민들을 위해서라도, 절대 순순히 물러설 수 없어."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37718,7 +37718,7 @@ msgstr "그들에게 내 부재는 큰 대가가 될 거야. 그리고 그들을
 #. REC: INFO:NAM1
 msgctxt "000506"
 msgid "The others in this outpost, they depend on me."
-msgstr "이 전초기지의 다른 사람들은 나에게 의지하고 있어."
+msgstr "이 전초기지 주민들은 나에게 의지하고 있어."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37750,7 +37750,7 @@ msgstr "안으로 들어가십쇼. 할은 뒤쪽에 있을 겁니다. 못 알아
 #. REC: INFO:NAM1
 msgctxt "000508"
 msgid "If you seek my life, then you'll be disappointed. There is no life left to take."
-msgstr "내 목숨을 노리는 거라면 실망할 거야. 가져갈 목숨은 남아 있지 않아."
+msgstr "내 목숨을 빼앗으러 온 거라면 실망하게 될 거다. 이미 죽은 목숨이거든."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37766,7 +37766,7 @@ msgstr "내 목숨을 노리는 거라면 실망할 거야. 가져갈 목숨은 
 #. REC: INFO:NAM1
 msgctxt "000509"
 msgid "But I don't fear death, hunter. My blood is rancid, my bones rotten. "
-msgstr "하지만 난 죽음을 두려워하지 않는다, 사냥꾼. 내 피는 썩었고, 뼈도 썩었어. "
+msgstr "죽음 따윈 두렵지 않다. 현상금 사냥꾼. 내 피는 이미 썩었고, 뼈도 삭아 문드러졌을 테니까. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37802,7 +37802,7 @@ msgstr "그럴지도 모르지. 하지만 네가 왔다는 건 다른 이들도 
 #. REC: INFO:NAM1
 msgctxt "00050B"
 msgid "You do that, and you'll have to answer to the whole outpost. Best to let me speak."
-msgstr "그렇게 하면 전초기지 전체에 대답해야 할 거야. 내 말을 듣는 게 좋다."
+msgstr "그러면 전초기지 주민들을 상대해야 할 거다. 내가 말하게 놔두는 게 제일 나을걸."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37837,7 +37837,7 @@ msgstr "[공격] 너 없이도 다들 괜찮을 것 같은데."
 #. REC: INFO:NAM1
 msgctxt "00050D"
 msgid "Wait. Not here. Not in front of the boy."
-msgstr "기다려. 여기서는 안 돼. 아이 앞에서는 안 돼."
+msgstr "잠깐만. 여기서는 말하지 마. 저 애가 들으면 안 돼."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37855,7 +37855,7 @@ msgstr "기다려. 여기서는 안 돼. 아이 앞에서는 안 돼."
 #. REC: INFO:NAM1
 msgctxt "00050E"
 msgid "I think you misunderstand my intentions."
-msgstr "내 의도를 오해한 것 같군."
+msgstr "뭔가 내가 해를 끼칠 거라 오해한 것 같은데."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37873,7 +37873,7 @@ msgstr "내 의도를 오해한 것 같군."
 #. REC: INFO:NAM1
 msgctxt "00050F"
 msgid "What crimes have you committed, exactly?"
-msgstr "정확히 어떤 죄를 저질렀지?"
+msgstr "네가 지은 죄가 정확히 뭐가 있는지 말해줄 수 있나?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37890,7 +37890,7 @@ msgstr "정확히 어떤 죄를 저질렀지?"
 #. REC: INFO:NAM1
 msgctxt "000510"
 msgid "Go on then. Speak it."
-msgstr "그럼 계속해. 말해 봐."
+msgstr "계속해. 말해 봐."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37907,7 +37907,7 @@ msgstr "그럼 계속해. 말해 봐."
 #. REC: INFO:NAM1
 msgctxt "000511"
 msgid "You're a known criminal. I'm guessing there's probably a bounty on your head too."
-msgstr "이름난 범죄자면서 잡아떼지 마. 네 목에 현상금도 걸려 있을 것 같은데."
+msgstr "유명한 범죄자 주제에 잡아떼지 마. 네 목에 현상금도 걸려 있던 것 같은데."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37942,7 +37942,7 @@ msgstr "*한숨* 아니면 그 빌어먹을 밸브를 확인해야 겠죠."
 #. REC: INFO:NAM1
 msgctxt "000513"
 msgid "From one criminal to another, I just wanted to say I'm a huge fan of your work."
-msgstr "범죄자끼리 하는 말인데, 네 일의 엄청난 팬이라고 말하고 싶었어."
+msgstr "같은 범죄자끼리니까 하는 말인데, 네가 저지른 일을 듣고 나서 완전히 팬이 됐어."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37960,7 +37960,7 @@ msgstr "범죄자끼리 하는 말인데, 네 일의 엄청난 팬이라고 말�
 #. REC: INFO:NAM1
 msgctxt "000514"
 msgid "Maybe. But the truth is, I've been waiting for you."
-msgstr "어쩌면. 하지만 사실은, 난 널 기다리고 있었어."
+msgstr "그럴지도. 하지만 사실은, 너 같은 사람이 올 때를 기다리고 있었다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37996,7 +37996,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "000516"
 msgid "I was at the Outpost you left. Saw the mass graves."
-msgstr "네가 떠난 그 전초기지에 갔었어. 집단 무덤을 봤지."
+msgstr "네가 떠났던 그 전초기지에 갔었어. 집단 매장된 무덤도 봤고."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38027,7 +38027,7 @@ msgstr "따라와."
 #. REC: INFO:NAM1
 msgctxt "000518"
 msgid "Yes, I am the one who left Shinar to die. My crimes are many, and without redemption."
-msgstr "그래, 시날을 죽게 내버려 둔 사람이 바로 나다. 내 죄는 많고, 구원받을 수 없어."
+msgstr "그래, 내가 바로 시날 주민들을 죽음으로 내몬 장본인이다. 내 죄는 너무도 무거워, 구원받을 수조차 없지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38044,7 +38044,7 @@ msgstr "그래, 시날을 죽게 내버려 둔 사람이 바로 나다. 내 죄�
 #. REC: INFO:NAM1
 msgctxt "000519"
 msgid "But before you take me in, I just want to say my piece."
-msgstr "하지만 날 데려가기 전에, 내 할 말만은 하고 싶어."
+msgstr "그렇지만 잡혀가기 전에, 할 말은 하고 싶네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38059,7 +38059,7 @@ msgstr "하지만 날 데려가기 전에, 내 할 말만은 하고 싶어."
 #. REC: INFO:NAM1
 msgctxt "00051A"
 msgid "If you're here for a confession, I won't deny what I've done."
-msgstr "자백을 들으러 온 거라면, 내가 한 일을 부정하지 않겠다."
+msgstr "자백을 들으러 온 거라면, 내가 저지른 짓을 부정하진 않겠어."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38074,7 +38074,7 @@ msgstr "자백을 들으러 온 거라면, 내가 한 일을 부정하지 않겠
 #. REC: INFO:NAM1
 msgctxt "00051B"
 msgid "You mentioned Shinar. I regret what happened there."
-msgstr "시날을 언급했지. 그곳에서 일어난 일을 후회하고 있어."
+msgstr "시날 전초기지라 했나. 그곳에서 저질렀던 짓에 대해선 후회하고 있네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38092,7 +38092,7 @@ msgstr "시날을 언급했지. 그곳에서 일어난 일을 후회하고 있�
 #. REC: INFO:NAM1
 msgctxt "00051C"
 msgid "The people of Shinar Outpost would say otherwise."
-msgstr "시날 전초기지 사람들은 다르게 말할 거야."
+msgstr "시날 전초기지 사람들은 이 사람 맞다고 말할 거 같은데."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39922,7 +39922,7 @@ msgstr "할도 이번 일에 한몫을 해줬으니 고마워해야겠군요. �
 #. REC: INFO:NAM1
 msgctxt "0005B0"
 msgid "Now, let's get one thing straight. I'm not here to fight you, hunter."
-msgstr "자, 한 가지는 확실히 하자. 난 너와 싸우러 온 게 아니야, 사냥꾼."
+msgstr "자, 한 가지는 확실히 해두자고. 난 너와 싸우고 싶지 않아. 현상금 사냥꾼."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -41453,7 +41453,7 @@ msgstr "좋아. 다른 사람 할 말 있나?"
 #. REC: INFO:NAM1
 msgctxt "000649"
 msgid "We meet again, Hunter. And it seems my time has come."
-msgstr "또 만났군, 사냥꾼. 그리고 내 때가 온 것 같아."
+msgstr "또 만났군. 현상금 사냥꾼. 때가 다 된 것 같아."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -42801,7 +42801,7 @@ msgstr "나도 정말 그러고 싶지만, 할이 하지 말라고 했어. 내�
 #. REC: INFO:NAM1
 msgctxt "00069B"
 msgid "Your feelings about me are not my concern."
-msgstr "네가 나를 어떻게 느끼는지는 내 관심사가 아니야."
+msgstr "네가 날 어떻게 생각하든, 내가 뭐라 할 순 없겠지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -42819,7 +42819,7 @@ msgstr "네가 나를 어떻게 느끼는지는 내 관심사가 아니야."
 #. REC: INFO:NAM1
 msgctxt "00069C"
 msgid "Save the speech for someone who cares."
-msgstr "그 연설은 신경 쓰는 사람에게나 해."
+msgstr "그런 말은 널 걱정해 주는 인간한테나 해."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -48677,7 +48677,7 @@ msgstr "영광으로 알겠습니다."
 #. REC: INFO:NAM1
 msgctxt "000843"
 msgid "Tell me hunter, will it always?"
-msgstr "말해 보세요, 사냥꾼. 언제까지나 그럴까요?"
+msgstr "어떻게 생각하나? 현상금 사냥꾼. 앞으로도 계속 이럴까?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -51617,7 +51617,7 @@ msgstr "캐스피언, 그만! 이미 힘든 일을 더 어렵게 만들지 마."
 #. REC: INFO:NAM1
 msgctxt "000908"
 msgid "Up ahead is the Community Center. We should have privacy there."
-msgstr "앞쪽에 주민 센터가 있어. 거기라면 사적인 얘기를 할 수 있을 거야."
+msgstr "앞쪽에 주민 센터가 있어. 거기라면 둘이서 조용히 얘기를 나눌 수 있을 거야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_MiscDialogue
@@ -66721,7 +66721,7 @@ msgstr "어쩌면 네 동료가 더 자세히 설명하고 싶어 할지도 모�
 #. REC: INFO:NAM1
 msgctxt "000DE4"
 msgid "And while we're not looking to start anything, we will if we have to."
-msgstr "그리고 우린 문제를 일으키려는 건 아니지만, 필요하다면 그렇게 할 거야."
+msgstr "문제를 일으키려는 건 아니지만, 필요하다면 문제라도 일으킬 거야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -66738,7 +66738,7 @@ msgstr "그리고 우린 문제를 일으키려는 건 아니지만, 필요하�
 #. REC: INFO:NAM1
 msgctxt "000DE5"
 msgid "And this is what we call the \"find out\" stage of things."
-msgstr "그리고 이게 바로 소위 \"대가를 치르는\" 단계지."
+msgstr "그리고 지금 같은 상황을 소위 '업보 청산' 단계라고 부르는 거겠지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -79134,7 +79134,7 @@ msgstr "제가 보기엔 꽤 빈틈없는 계획이네요."
 #. REC: INFO:NAM1
 msgctxt "0013E8"
 msgid "But I'd rather not have this conversation in front of the others. Not yet."
-msgstr "하지만 이 얘기는 다른 사람들 앞에서는 하고 싶지 않아요. 아직은요."
+msgstr "하지만 그 얘기를 다른 사람들 앞에서 하고 싶진 않아. 아직은."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -79305,7 +79305,7 @@ msgstr "지금으로선 그 정도만 바랄 수 있죠."
 #. REC: INFO:NAM1
 msgctxt "0013F2"
 msgid "And surely you know what comes next."
-msgstr "그리고 다음에 무슨 일이 오는지는 당연히 알고 있겠죠."
+msgstr "다음에 무슨 일이 일어날지는 이미 알고 있겠지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -79422,7 +79422,7 @@ msgstr "*Exhales* 해야 할 일을 한 거예요. 하지만 일이 이렇게 �
 #. REC: INFO:NAM1
 msgctxt "0013F9"
 msgid "This outpost has been through a lot, from even before I came here. But as you can see, it's starting to thrive."
-msgstr "이 전초기지는 제가 오기 전부터 많은 일을 겪었습니다. 하지만 보시다시피 이제 번창하기 시작했죠."
+msgstr "이 개척지는 내가 오기 전에 정말 다사다난한 일을 겪었어. 하지만 보다시피, 이젠 번창하기 시작했지."
 
 #. List: 2
 #. QuestName = SFBGS038_CREW_EliteCrew_Muria
@@ -128629,7 +128629,7 @@ msgstr "약속은 못 하지만, 한번 보자고."
 #. REC: INFO:NAM1
 msgctxt "002310"
 msgid "Suffice to say you have a lot to answer for."
-msgstr "간단히 말해, 너는 해명해야 할 일이 아주 많아."
+msgstr "긴 말 필요 없고, 저지른 짓에 대해 아주 길게 해명해야 할 거야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-07-12 20:30+0000\n"
+"PO-Revision-Date: 2026-09-14 17:19+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -22338,7 +22338,7 @@ msgstr "실탄 상자"
 # EDID: SFBGS001_Craft_VortexGrenades_Achievement_New, REC: CHAL:FULL
 msgctxt "014D5F"
 msgid "Five of a Kind"
-msgstr "파이브 카드"
+msgstr "5장의 카드"
 
 # EDID: SFBGS001_AidVaruunPeople_Achievement, REC: CHAL:FULL
 msgctxt "014D61"

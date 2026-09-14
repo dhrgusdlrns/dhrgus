@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 03:20+0900\n"
-"PO-Revision-Date: 2026-07-12 20:30+0000\n"
+"PO-Revision-Date: 2026-09-09 16:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -9240,7 +9240,7 @@ msgstr "부정청탁"
 #. REC = MESG:DESC
 msgctxt "00006C"
 msgid "Distributing fraudulent corporate propaganda"
-msgstr "사기성 기업 선전물 배포"
+msgstr "허위 기업 선전물을 배포하며 사기 행각을 벌임"
 
 #. EDID = SFBGS003_BountyCrime_84
 #. REC = MESG:DESC
@@ -9570,7 +9570,7 @@ msgstr "전초기지에 외계 폐기물을 감자로 속여 판매"
 #. REC = MESG:DESC
 msgctxt "0000A7"
 msgid "Soliciting ships with fraudulent \"extended warranty\" offers"
-msgstr "사기성 '보증 연장'을 제안하며 우주선을 판매"
+msgstr "'우주선 보증보험 연장'을 제안하며 우주선 판매 사기 행각을 벌임"
 
 #. EDID = SFBGS003_BountyCrime_43
 #. REC = MESG:DESC
@@ -9624,7 +9624,7 @@ msgstr "계획적인 집단 토막살인"
 #. REC = MESG:DESC
 msgctxt "0000B1"
 msgid "Biomedical fraud resulting in patient death"
-msgstr "생물의학 사기 행각으로 환자의 사망을 초래"
+msgstr "환자의 사망을 초래한 생물의학 사기 행각을 벌임"
 
 #. EDID = SFBGS003_BountyCrime_70
 #. REC = MESG:DESC

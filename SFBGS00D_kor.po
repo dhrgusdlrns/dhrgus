@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-09-14 17:19+0000\n"
+"PO-Revision-Date: 2026-10-01 13:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -36817,7 +36817,7 @@ msgstr "자백서야... 할이 쓴 거야."
 #. REC: INFO:NAM1
 msgctxt "0004D1"
 msgid "What do you mean, let the people decide?"
-msgstr "사람들이 결정하게 하자는 게 무슨 뜻이야?"
+msgstr "무슨 속셈이지? 주들이 처분하는 대로 따르겠다니?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37047,7 +37047,7 @@ msgstr "신상에 좋으려면 그 일은 그냥 놔둬."
 #. REC: INFO:NAM1
 msgctxt "0004DE"
 msgid "I do."
-msgstr "그래."
+msgstr "그렇다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37354,7 +37354,7 @@ msgstr "그 점에는 이견 없어. 하지만 다른 사람들이 뭐라고 할
 #. REC: INFO:NAM1
 msgctxt "0004F1"
 msgid "I trust you have a proposition, then."
-msgstr "그렇다면 제안이 있는 거겠지."
+msgstr "뭔가 제안할 게 있는 거 같은데."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37388,7 +37388,7 @@ msgstr "이 일이 끝나면 네 목숨은 끝이다. "
 #. REC: INFO:NAM1
 msgctxt "0004F3"
 msgid "My terms are as follows. In exchange for my submission, I would like you to help me resolve some pressing issues here."
-msgstr "내 조건은 이렇다. 내가 항복하는 대가로, 여기의 시급한 문제 몇 가지를 해결하는 걸 도와줬으면 해."
+msgstr "내 조건을 말하겠다. 항복하는 대가로, 여기 전초기지의 시급한 문제를 해결할 수 있게 도와줬으면 한다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37494,7 +37494,7 @@ msgstr "네 목숨을 빼앗을 수 없다면, 빈 허물이라도 가져가야�
 #. REC: INFO:NAM1
 msgctxt "0004F9"
 msgid "When that work is done, I will turn myself in, or end my life. Whatever the people decide."
-msgstr "그 일이 끝나면 자수하거나 내 목숨을 끊겠다. 사람들이 무엇을 결정하든."
+msgstr "문제 해결이 끝나면, 자수하든, 목숨을 끊든 하겠다. 주민들이 처분하는 대로 따르겠다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37529,7 +37529,7 @@ msgstr "사실은, 너 같은 사람이 올 때를 기다리고 있었다."
 #. REC: INFO:NAM1
 msgctxt "0004FB"
 msgid "I had hoped to correct them, but your arrival has changed the timeline."
-msgstr "그 문제들을 바로잡고 싶었지만, 네 도착으로 일정이 달라졌어."
+msgstr "그런 문제들을 해결해두고 싶었지만, 네가 여기 오는 바람에 계획해둔 일정대로 처리할 순 없게 됐군."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37546,7 +37546,7 @@ msgstr "그 문제들을 바로잡고 싶었지만, 네 도착으로 일정이 �
 #. REC: INFO:NAM1
 msgctxt "0004FC"
 msgid "I can solve the short term problems. But there are long term issues at play."
-msgstr "단기적인 문제는 해결할 수 있어. 하지만 장기적인 문제가 얽혀 있지."
+msgstr "당장의 문제라면 내가 해결해둘 수 있어. 하지만 시간이 걸리는 복잡한 문제들은 해결할 수 없지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37600,7 +37600,7 @@ msgstr "뉘우치고 싶으면 당국에 자수하라고."
 #. REC: INFO:NAM1
 msgctxt "0004FF"
 msgid "That's fine. I never intended to kill you."
-msgstr "좋아. 애초에 널 죽일 생각은 없었어."
+msgstr "좋아. 애초에 널 죽이고 싶지도 않았어."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37618,7 +37618,7 @@ msgstr "좋아. 애초에 널 죽일 생각은 없었어."
 #. REC: INFO:NAM1
 msgctxt "000500"
 msgid "Then it's a fight. So be it!"
-msgstr "그럼 싸움이다. 그렇게 하지!"
+msgstr "싸우자는 건가. 원하는 대로!"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37784,7 +37784,7 @@ msgstr "죽음 따윈 두렵지 않다. 현상금 사냥꾼. 내 피는 이미 �
 #. REC: INFO:NAM1
 msgctxt "00050A"
 msgid "That may be, but your coming means there will be others. So I wish to make a deal."
-msgstr "그럴지도 모르지. 하지만 네가 왔다는 건 다른 이들도 올 거란 뜻이야. 그래서 거래를 하고 싶어."
+msgstr "그랬나. 하지만 네가 왔으니 앞으로 다른 녀석들도 몰려오겠지. 그래서 거래를 제안하고자 한다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -37820,7 +37820,7 @@ msgstr "그러면 전초기지 주민들을 상대해야 할 거다. 내가 말�
 #. REC: INFO:NAM1
 msgctxt "00050C"
 msgid "[Attack] I think they'll be just fine without you."
-msgstr "[공격] 너 없이도 다들 괜찮을 것 같은데."
+msgstr "[공격] 너 따위 없어도 다들 잘 살 것 같은데."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest

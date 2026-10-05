@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-07-31 16:49+0000\n"
+"PO-Revision-Date: 2026-10-06 14:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -229437,7 +229437,7 @@ msgstr "다음에 봐요."
 #. SUBTYPE: Goodbye
 msgctxt "000EE1"
 msgid "We'll talk more later."
-msgstr "나중에 더 이야기하지."
+msgstr "얘기는 나중에 더 하도록 하지."
 
 #. SCRIPT NOTES: Friendly
 #. PROMPT: Enjoy the drink. I'll see you around.
@@ -229488,7 +229488,7 @@ msgstr "행운을 비네."
 #. SUBTYPE: Goodbye
 msgctxt "000EDD"
 msgid "We'll talk more later."
-msgstr "나중에 더 이야기하지."
+msgstr "얘기는 나중에 더 하도록 하지."
 
 #. SCRIPT NOTES: Confident
 #. VOICE TYPE: SFBGS001_NPCFTevinaVethaal

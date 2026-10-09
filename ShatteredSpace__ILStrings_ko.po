@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-10-06 14:49+0000\n"
+"PO-Revision-Date: 2026-10-10 17:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -2217,7 +2217,7 @@ msgstr "거기서 나와!"
 #. SUBTYPE: LostToCombat
 msgctxt "027165"
 msgid "I have direct sensor contact with the enemy."
-msgstr "센서가 적 신호를 탐지했습니다."
+msgstr "센서에 적 신호가 탐지됐습니다."
 
 #. VOICE TYPE: SFBGS001_NPCMTaneSalavea
 #. FACE: Serious
@@ -4174,7 +4174,7 @@ msgstr " "
 #. SUBTYPE: NormalToCombat
 msgctxt "01FE48"
 msgid "Heretics identified. I am opening fire."
-msgstr "이단자를 식별했습니다. 총격을 개시합니다."
+msgstr "이단자를 식별했습니다. 발포합니다."
 
 #. VOICE TYPE: SFBGS001_NPCMTaneSalavea
 #. FACE: Serious

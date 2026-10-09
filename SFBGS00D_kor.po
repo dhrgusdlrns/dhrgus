@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-10-07 16:49+0000\n"
+"PO-Revision-Date: 2026-10-10 17:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -1378,7 +1378,7 @@ msgstr "다용도 로봇 투입"
 msgctxt "0001C2"
 msgid "Utility Robot Maintenance\n\nControl Interface version 1.07c\nCopyright Starware Inc. 2285"
 msgstr ""
-"다용도 로봇 유지보수\n"
+"다용도 로봇 유지보수 프로그램\n"
 "\n"
 "제어 인터페이스 버전 1.07c\n"
 "Copyright Starware Inc. 2285"
@@ -2433,7 +2433,7 @@ msgstr "카루소와 대화하기"
 #. REC: QUST:NNAM
 msgctxt "000928"
 msgid "(OPTIONAL) Use the Magnet to Permanently Disable the Robot"
-msgstr "(선택) 자석으로 로봇을 영구적으로 비활성화하기"
+msgstr "(선택) 전자석으로 로봇을 영구적으로 못쓰게 만들기"
 
 #. List: 0
 #. EDID: SFFL_MS01_Quest
@@ -26439,7 +26439,7 @@ msgstr "지금은 나아졌지만, 아직 해야 할 일이 남아 있어."
 #. REC: INFO:NAM1
 msgctxt "000245"
 msgid "Get out of here!"
-msgstr "여기서 꺼져!"
+msgstr "당장 꺼져!"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -26456,7 +26456,7 @@ msgstr "여기서 꺼져!"
 #. REC: INFO:NAM1
 msgctxt "000246"
 msgid "Odjebi! And what am I supposed to do for work then?"
-msgstr "꺼져(Odjebi)! 그럼 난 대체 무슨 일을 하라는 건데?"
+msgstr "꺼져(Odjebi)! 그럼 앞으로 난 뭘 해 먹고 살라는 건데?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -26474,7 +26474,7 @@ msgstr "꺼져(Odjebi)! 그럼 난 대체 무슨 일을 하라는 건데?"
 #. REC: INFO:NAM1
 msgctxt "000247"
 msgid "*Groan*. You know it's unethical to look through someone's personal logs, right?"
-msgstr "*신음*. 남의 개인 기록을 뒤지는 건 비윤리적이라는 거 알지?"
+msgstr "*짜증내는 소리* 남의 개인 기록을 뒤지는 건 비윤리적이라는 거 알지?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -26880,7 +26880,7 @@ msgstr "거래하지 않았나. 외지인. 거래는 지키는 게 좋을 거야
 #. REC: INFO:NAM1
 msgctxt "000265"
 msgid "You said you were gonna scrap that robot. So why is it walking around like it owns the place?"
-msgstr "그 로봇을 폐기하겠다고 했잖아. 그런데 왜 제 집인 양 돌아다니고 있는 거지?"
+msgstr "로봇을 폐기처분하겠다고 했잖아. 그런데 왜 아직도 지 세상인 양 돌아다니고 있는 거지?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -30171,7 +30171,7 @@ msgstr "당신은 해야 할 일을 한 거야."
 #. REC: INFO:NAM1
 msgctxt "000331"
 msgid "We can use it to blast through the rock, and get the ore behind it."
-msgstr "그걸로 암석을 뚫고, 그 뒤에 있는 광석을 얻을 수 있어."
+msgstr "채굴 기계가 있으면 암석을 뚫고, 밑에 있는 광석을 얻을 수 있겠지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -30188,7 +30188,7 @@ msgstr "그걸로 암석을 뚫고, 그 뒤에 있는 광석을 얻을 수 있�
 #. REC: INFO:NAM1
 msgctxt "000333"
 msgid "It's got a blown PCM. With a few tweaks, the parts from that Model A can fix it."
-msgstr "PCM이 나갔어. 약간 손보면 그 모델 A의 부품으로 고칠 수 있지."
+msgstr "PCM이 나갔어. 조금 변경해야 하긴 하지만, 모델 A의 부품으로 고칠 수 있지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -30264,7 +30264,7 @@ msgstr "로봇을 작동시켰지만, 그 뒤 손상됐어."
 #. REC: INFO:NAM1
 msgctxt "000338"
 msgid "Ivica and I decided to scrap the robot. He says he can fix the mining machine."
-msgstr "이비차와 나는 로봇을 폐기하기로 했어. 이비차가 채굴 기계를 고칠 수 있다고 해."
+msgstr "이비차와 나는 로봇을 폐기처분하기로 했어. 이비차가 채굴 기계를 고칠 수 있다고 했거든."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34490,7 +34490,7 @@ msgstr "그래, 러스티. 로봇이야."
 #. REC: INFO:NAM1
 msgctxt "00043D"
 msgid "I think I'll just find a cell to power the robot, thank you."
-msgstr "난 그냥 로봇에 전원을 넣을 셀을 찾을게, 고마워."
+msgstr "그냥 로봇용 파워 셀이나 찾아볼게. 고마워."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34642,7 +34642,7 @@ msgstr "러스티?"
 #. REC: INFO:NAM1
 msgctxt "000447"
 msgid "You'll need a power cell to turn it on. Here, this should do the trick."
-msgstr "전원을 켜려면 파워 셀이 필요해. 자, 이거면 될 거야."
+msgstr "전자석을 켜려면 파워 셀이 필요해. 자, 이걸 넣으면 작동할 거야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34794,7 +34794,7 @@ msgstr "흠, 맞는 말이야. 하지만 네가 해주면 내가 보상할게. �
 #. REC: INFO:NAM1
 msgctxt "000450"
 msgid "I like my eggs scrambled."
-msgstr "난 스크램블 에그가 좋아."
+msgstr "나도 스크램블 에그가 좋더라."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34812,7 +34812,7 @@ msgstr "난 스크램블 에그가 좋아."
 #. REC: INFO:NAM1
 msgctxt "000451"
 msgid "Nah, I'll find another way to power the robot."
-msgstr "아니, 로봇에 전원을 넣을 다른 방법을 찾을게."
+msgstr "아 됐어. 로봇에 전원을 넣을 다른 방법이 있나 찾아보겠어."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34829,7 +34829,9 @@ msgstr "아니, 로봇에 전원을 넣을 다른 방법을 찾을게."
 #. REC: INFO:NAM1
 msgctxt "000452"
 msgid "Caruso will be pissed, but he's all about making lemonade from lemons. Once he sees the power upgrade, he'll accept it. Begrudgingly."
-msgstr "카루소는 화내겠지만, 그는 시련을 기회로 만드는 사람이잖아. 전력 업그레이드를 보면 받아들일 거야. 마지못해서라도."
+msgstr ""
+"카루소는 화내겠지만, 그 녀석은 위기를 기회로 바꾸는 인간이라고. 출력이 업그레이드된 걸 보면, 결국 받아들일 거야. 툴툴거리기는 "
+"하겠지만."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34846,7 +34848,7 @@ msgstr "카루소는 화내겠지만, 그는 시련을 기회로 만드는 사�
 #. REC: INFO:NAM1
 msgctxt "000453"
 msgid "Bah, machines around here are always breaking down. At worst, it'll look like a well-meaning accident."
-msgstr "쳇, 여기 기계들은 늘 고장 나. 최악의 경우에도 선의의 사고처럼 보일 거야."
+msgstr "쳇, 여기 기계들은 맨날 고장 나는데 뭐. 최악의 상황이 닥치더라도, 그냥 운 나쁘게 벌어진 사고처럼 보일 거야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34986,7 +34988,7 @@ msgstr "여기서 무슨 일을 해?"
 #. REC: INFO:NAM1
 msgctxt "00045C"
 msgid "Yes, so do I."
-msgstr "응, 나도 그래."
+msgstr "어, 나도 좋더라."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35078,7 +35080,7 @@ msgstr "[로봇 부품] 네가 요청한 부품을 가져왔어."
 #. REC: INFO:NAM1
 msgctxt "000464"
 msgid "Come back to me when it's done, and we'll upgrade the generator."
-msgstr "끝나면 내게 돌아와. 발전기를 업그레이드하자."
+msgstr "끝나면 다시 와. 같이 발전기 업그레이드 작업이나 하자고."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35114,7 +35116,7 @@ msgstr "다른 주민들이 눈치채지 않을까?"
 #. REC: INFO:NAM1
 msgctxt "000466"
 msgid "I'll be happy to scrap it for you."
-msgstr "기꺼이 폐기해줄게."
+msgstr "기꺼이 로봇을 폐기처분해 줄게."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35131,7 +35133,7 @@ msgstr "기꺼이 폐기해줄게."
 #. REC: INFO:NAM1
 msgctxt "000467"
 msgid "[Lie] I can do that. Just tell me how."
-msgstr "[거짓말] 할 수 있어. 방법만 알려줘."
+msgstr "[거짓말] 내가 해줄게. 방법만 알려줘."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35208,7 +35210,7 @@ msgstr "굳건한 도덕적 중심은 모든 정착지의 중추야. 종교적 �
 #. REC: INFO:NAM1
 msgctxt "00046C"
 msgid "If you turn on the magnet while it's searching, it'll scramble its egg. "
-msgstr "탐색 중일 때 자석을 켜면, 그놈 머리를 휘저어 놓을 수 있어."
+msgstr "녀석이 수색하고 있을 때 전자석을 켜 버리면, 하드를 스크램블 에그처럼 만들 수 있을 거야. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35223,7 +35225,7 @@ msgstr "탐색 중일 때 자석을 켜면, 그놈 머리를 휘저어 놓을 �
 #. REC: INFO:NAM1
 msgctxt "00046D"
 msgid "One word: Magnets. The robot likes to go to the junkyard, and dig for spare parts."
-msgstr "한 단어로 말하자면, 자석. 로봇은 고철 처리장에 가서 예비 부품을 파내는 걸 좋아해."
+msgstr "간단히 말하지. 전자석을 써. 그 로봇은 고철 처리장에 가서 예비 부품을 찾는 걸 좋아하거든."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35977,7 +35979,7 @@ msgstr "로봇을 도구로 쓰는 건 괜찮아. 하지만 인간을 대체하�
 #. REC: INFO:NAM1
 msgctxt "00049B"
 msgid "Human labor is superior. If anything, the robot should be scrapped."
-msgstr "인간 노동이 더 우월해. 오히려 그 로봇은 폐기해야 해."
+msgstr "인간 노동이 더 우월해. 오히려 그 로봇은 폐기처분해야 해."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -48798,7 +48800,7 @@ msgstr "요즘은 설교를 별로 안 해. 대부분 그냥 울어. 아기처�
 #. REC: INFO:NAM1
 msgctxt "00084A"
 msgid "Good. Blasted machines are bad for business."
-msgstr "좋아. 망할 기계들은 장사에 방해만 돼."
+msgstr "좋아. 빌어먹을 기계들은 작업에 방해만 되지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -79154,7 +79156,7 @@ msgstr "하지만 그 얘기를 다른 사람들 앞에서 하고 싶진 않아.
 #. REC: INFO:NAM1
 msgctxt "0013E9"
 msgid "The magnet will destroy the hard drive. But I only need the components. It'll be fine."
-msgstr "자석이 하드 드라이브를 망가뜨릴 거예요. 하지만 필요한 건 부품뿐이니 괜찮을 겁니다."
+msgstr "전자석 때문에 로봇의 하드 드라이브가 망가지겠지. 하지만 다른 부품만 필요하거든. 다른 건 안 망가지니까 괜찮아."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -96019,7 +96021,7 @@ msgstr "좋아! 해! 그 벽을 부숴!"
 #. REC: INFO:NAM1
 msgctxt "0018D1"
 msgid "If the magnet damages the parts, how are they still of use?"
-msgstr "자석이 부품을 손상시킨다면, 어떻게 아직 쓸 수 있는 거죠?"
+msgstr "전자석 때문에 로봇 부품이 손상될 수도 있는 거 아냐? 그럼 헛수고인 거잖아?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -112258,7 +112260,7 @@ msgstr "이 결과가 걱정돼."
 #. REC: INFO:NAM1
 msgctxt "001E5F"
 msgid "But Caruso keeps insisting the robot is better, and Zena won't overrule him."
-msgstr "하지만 카루소는 계속 로봇이 더 낫다고 우기고, 제나 씨는 그를 거스르지 않을 거야."
+msgstr "하지만 카루소는 계속 로봇에서 부품을 떼지 않는 게 더 낫다고 우기고, 제나 씨는 그 의견에 반대하지 않을 거야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest

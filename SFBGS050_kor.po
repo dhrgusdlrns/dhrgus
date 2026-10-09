@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-18 03:10+0900\n"
-"PO-Revision-Date: 2026-09-04 16:49+0000\n"
+"PO-Revision-Date: 2026-10-10 17:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -8122,7 +8122,7 @@ msgstr "순항 모드로 테란 강습 기체 요격하기"
 #. FormID: 0202808F
 msgctxt "001F66"
 msgid "Speak to Agent Yemoja"
-msgstr "요원 예모자와 대화하기"
+msgstr "예모자 요원과 대화하기"
 
 #. List: 0
 #. EDID: SFTER_MQ01
@@ -8202,7 +8202,7 @@ msgstr "우주선에서 생존자 수색하기"
 #. FormID: 0202808F
 msgctxt "001F70"
 msgid "Dock with and board the damaged starliner"
-msgstr "손상된 스타라이너에 도킹하고 승선하기"
+msgstr "손상된 성간여객선에 도킹하고 승선하기"
 
 #. List: 0
 #. EDID: SFTER_MQ01
@@ -18088,7 +18088,7 @@ msgstr "(선택) 정보를 얻기 위해 \"스위트\" 보안 기록 확인하�
 #. FormID: 0202808F
 msgctxt "002751"
 msgid "Explore the storms for signs of the missing starliner"
-msgstr "실종된 스타라이너의 흔적을 찾아 폭풍 속 탐사하기"
+msgstr "실종된 성간여객선의 흔적을 찾아 폭풍 속 탐사하기"
 
 #. List: 0
 #. EDID: SFTER_MQ02B

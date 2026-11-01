@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-10-10 17:49+0000\n"
+"PO-Revision-Date: 2026-11-02 15:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -26972,7 +26972,7 @@ msgstr "네가 여기 온 걸 보니 내 운명도 끝인가 보네. 마치 사�
 #. REC: INFO:NAM1
 msgctxt "00026C"
 msgid "I'll make my daily rounds. I trust you can keep our discussion private."
-msgstr "난 일일 순찰을 돌겠네. 우리 대화는 비밀로 해줄 거라 믿어."
+msgstr "난 일일 순찰을 돌러 가보지. 우리가 나눈 대화는 비밀로 해줄 거라 믿겠네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -28533,7 +28533,7 @@ msgstr "맞아, 왜 수상해 보이는지는 알겠어."
 #. REC: INFO:NAM1
 msgctxt "0002CF"
 msgid "[Grace's Computer] You admitted to the theft on your computer. Time to fess up."
-msgstr "[그레이스의 컴퓨터] 당신 컴퓨터에서 절도를 인정했잖아. 이제 자백할 시간이야."
+msgstr "[그레이스의 컴퓨터] 당신 컴퓨터를 봤는데 도둑질한 거 맞잖아. 이제 그만 자백하라고."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -28732,7 +28732,7 @@ msgstr "당신이 물자 도둑이야."
 #. REC: INFO:NAM1
 msgctxt "0002DB"
 msgid "Theft, most likely. Yeats may have stolen it from my lab to fulfill his chem habit."
-msgstr "대부분은 절도겠지. 예이츠가 약물 습관을 채우려고 내 연구실에서 훔쳤을 수도 있어."
+msgstr "도둑맞은 게 확실해. 예이츠 그 인간이 약에 찌들어 살더니, 결국 내 연구실까지 손을 댄 게 분명해."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -30055,7 +30055,7 @@ msgstr "스스로 목숨을 끊은 사람들을 위한 집단 무덤이 있었�
 #. REC: INFO:NAM1
 msgctxt "00032A"
 msgid "Good. I know Ivica thinks it'll replace him, but there's plenty of other work to be done for a man of his skillset."
-msgstr "좋아. 이비차는 그게 자신을 대체할 거라고 생각하지만, 그의 능력이라면 할 일은 얼마든지 있어."
+msgstr "좋아. 이비차는 로봇이 자신을 대체할 거라고 생각하지만, 이비차가 가진 기술이라면 얼마든지 다른 일을 할 수 있어."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -30071,7 +30071,7 @@ msgstr "좋아. 이비차는 그게 자신을 대체할 거라고 생각하지�
 #. REC: INFO:NAM1
 msgctxt "00032B"
 msgid "*Sigh* If it can't be repaired, see if Ivica can make use of the parts. Maybe some good will come out of this."
-msgstr "*한숨* 수리할 수 없다면 이비차가 부품을 활용할 수 있는지 봐. 이 일에서라도 좋은 결과가 나오면 좋겠군."
+msgstr "*한숨* 수리할 수 없다면, 이비차가 부품을 써먹을 수 있을지 확인해 줘. 이렇게라도 결과가 좋게 나오면 좋겠군."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -30102,7 +30102,7 @@ msgstr "하지만 광석은 쓸모가 있을 거야. 채굴하면 도움이 되�
 #. REC: INFO:NAM1
 msgctxt "00032D"
 msgid "*Sigh* Ivica says a lot of things, not all of them true."
-msgstr "*한숨* 이비차는 많은 말을 하지만, 전부 사실은 아니야."
+msgstr "*한숨* 이비차는 온갖 말을 하고 다니지만, 그게 다 사실은 아니야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -30234,7 +30234,7 @@ msgstr "투표 전에 시날에 대해 이야기하고 싶어."
 #. REC: INFO:NAM1
 msgctxt "000336"
 msgid "The robot's back up and running."
-msgstr "로봇이 다시 작동하고 있어."
+msgstr "로봇을 다시 작동시켰어."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -30249,7 +30249,7 @@ msgstr "로봇이 다시 작동하고 있어."
 #. REC: INFO:NAM1
 msgctxt "000337"
 msgid "I got the robot working, but then it got damaged."
-msgstr "로봇을 작동시켰지만, 그 뒤 손상됐어."
+msgstr "로봇을 작동시키긴 했는데, 그다음에 손상됐어."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -30264,7 +30264,7 @@ msgstr "로봇을 작동시켰지만, 그 뒤 손상됐어."
 #. REC: INFO:NAM1
 msgctxt "000338"
 msgid "Ivica and I decided to scrap the robot. He says he can fix the mining machine."
-msgstr "이비차와 나는 로봇을 폐기처분하기로 했어. 이비차가 채굴 기계를 고칠 수 있다고 했거든."
+msgstr "이비차와 상의해서 로봇을 폐기처분하기로 했어. 이비차가 채굴 기계를 고칠 수 있다고 했거든."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -31183,7 +31183,7 @@ msgstr "[주사기] 쓰레기통에서 이걸 찾았어. 캐스피언을 진정�
 #. REC: INFO:NAM1
 msgctxt "000371"
 msgid "Who should I talk to about helping Yeats?"
-msgstr "예이츠를 돕는 일은 누구와 이야기해야 하지?"
+msgstr "예이츠를 도우려면 누구와 얘기해야 하지?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -31373,7 +31373,8 @@ msgstr "아 맞아, 동물용 진정제 같은 거!"
 #. REC: INFO:NAM1
 msgctxt "00037D"
 msgid "When you're done, find Caspian. He was there during the theft, and has information I'd like you to investigate."
-msgstr "끝나면 캐스피언을 찾아. 그가 절도 당시 거기 있었고, 네가 조사해 봤으면 하는 정보를 가지고 있어."
+msgstr ""
+"두 사람을 만나고 나서, 캐스피언도 만나봐. 도둑질이 일어날 때 거기에 있었기도 하고, 그쪽이 조사해 봤으면 하는 정보도 가지고 있거든."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -31388,7 +31389,7 @@ msgstr "끝나면 캐스피언을 찾아. 그가 절도 당시 거기 있었고,
 #. REC: INFO:NAM1
 msgctxt "00037E"
 msgid "I'd start with Yeats himself, and Sasha, his jailer."
-msgstr "예이츠 본인과 그의 간수인 사샤부터 시작하겠어."
+msgstr "나라면 먼저 예이츠와 감옥을 지키고 있는 사샤하고 얘기해 볼 거야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -31516,7 +31517,7 @@ msgstr "새로 왔지만, 제 몫은 해냈어."
 #. REC: INFO:NAM1
 msgctxt "000386"
 msgid "And then out of nowhere, I feel this sharp, jabbing pain in my neck. I start to turn around, and then boom! I pass out."
-msgstr "그런데 갑자기 목에 날카롭게 찌르는 통증이 느껴졌어. 돌아보려는 순간, 쾅! 그대로 뻗었지."
+msgstr "그런데 갑자기 목에 날카롭게 찌르는 통증이 느껴졌어요. 돌아보려는 순간, 쾅! 그대로 나가떨어졌죠."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32257,7 +32258,7 @@ msgstr "난 아무것도 믿지 않아."
 #. REC: INFO:NAM1
 msgctxt "0003B5"
 msgid "I am not a thief, but a victim of theft. What has been stolen from me is my faith in justice and goodwill."
-msgstr "나는 도둑이 아니라 도둑질의 피해자야. 내게서 도둑맞은 것은 정의와 선의에 대한 믿음이지."
+msgstr "나는 도둑이 아니라 도둑질의 피해자야. 정의와 선의에 대한 믿음을 도둑맞았거든."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32272,7 +32273,7 @@ msgstr "나는 도둑이 아니라 도둑질의 피해자야. 내게서 도둑�
 #. REC: INFO:NAM1
 msgctxt "0003B6"
 msgid "I am accused of stealing supplies. But I contest that notion."
-msgstr "나는 물자를 훔쳤다는 혐의를 받고 있어. 하지만 그 주장에는 이의를 제기하지."
+msgstr "물자를 훔쳤다는 혐의를 받고 있지. 하지만 난 그 주장에 동의할 수 없네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32302,7 +32303,7 @@ msgstr "제나 씨가 당신 사건을 조사해 보라고 했어."
 #. REC: INFO:NAM1
 msgctxt "0003B8"
 msgid "Caruso asked me to help you get out of jail."
-msgstr "카루소가 당신이 감옥에서 나오도록 도와달라고 했어."
+msgstr "카루소가 당신이 감옥에서 나올 수 있게 도와주라고 했어요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32559,7 +32560,7 @@ msgstr "끝이 먼지라는 걸 알기에 우리는 삶을 소중히 여기는 �
 #. REC: INFO:NAM1
 msgctxt "0003C7"
 msgid "Indeed. Sasha tells me Hal Caruso is dead, by your hand. But I am not taking confessions."
-msgstr "그렇군. 사샤가 말하길 할 카루소가 자네 손에 죽었다더군. 하지만 나는 고해를 듣는 중이 아니야."
+msgstr "그래. 사샤가 그러더군. 그쪽이 할 카루소를 죽였다고. 그렇다고 여기서 그쪽 고해나 듣고 싶진 않네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32574,7 +32575,7 @@ msgstr "그렇군. 사샤가 말하길 할 카루소가 자네 손에 죽었다�
 #. REC: INFO:NAM1
 msgctxt "0003C8"
 msgid "What are you in here for?"
-msgstr "무슨 일로 여기 들어왔죠?"
+msgstr "왜 감옥에 갇힌 거죠?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32882,7 +32883,7 @@ msgstr "창조자에 대한 믿음 밖에서 자립을 가르치고 공동체를
 #. REC: INFO:NAM1
 msgctxt "0003DA"
 msgid "If that's your way of asking me to shut my bloody mouth, then well played. The floor is yours."
-msgstr "내 빌어먹을 입을 다물라는 식의 질문이라면, 잘했군. 무대는 그대의 것이야."
+msgstr "내 빌어먹을 입 좀 다물라는 뜻으로 그리 말한 거라면, 참 잘했군. 무대를 그쪽에 넘기도록 하지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33420,7 +33421,7 @@ msgstr "그래서 다음으로 계몽회의 집을 시도했어. 하지만 그�
 #. REC: INFO:NAM1
 msgctxt "0003FC"
 msgid "Well, I'm not here to lie to you."
-msgstr "글쎄, 난 너에게 거짓말하러 온 게 아니야."
+msgstr "글쎄요. 전 거짓말이나 하려고 여기 온 건 아닙니다만."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33491,7 +33492,7 @@ msgstr "우리는 고난을 견뎌. 그것이 우리 믿음의 시험이기 때�
 #. REC: INFO:NAM1
 msgctxt "000400"
 msgid "Indeed. Then I shall cease with the monologues and cede the podium to you."
-msgstr "그렇군. 그렇다면 독백을 멈추고 연단을 그대에게 넘기겠네."
+msgstr "그런가. 그럼 독백은 이쯤 해두고, 무대를 그쪽에 넘기도록 하지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33506,7 +33507,7 @@ msgstr "그렇군. 그렇다면 독백을 멈추고 연단을 그대에게 넘�
 #. REC: INFO:NAM1
 msgctxt "000401"
 msgid "What brings you, stranger, to this humble priest?"
-msgstr "무엇이 그대를 이 초라한 사제에게 데려왔나, 외지인이여?"
+msgstr "이방인이여, 어찌하여 나 같은 보잘것없는 사제를 찾아왔는가?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33523,7 +33524,7 @@ msgstr "무엇이 그대를 이 초라한 사제에게 데려왔나, 외지인�
 #. REC: INFO:NAM1
 msgctxt "000402"
 msgid "Said the liar to the fool. But I will happily play my part."
-msgstr "거짓말쟁이가 바보에게 한 말이라. 하지만 기꺼이 내 역할을 맡겠네."
+msgstr "거짓말쟁이가 바보에게 할 법한 말이군. 뭐, 그 바보 역할 기꺼이 맡아주지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33576,7 +33577,7 @@ msgstr "엉망인 게 아니라 반영이야. 내 마음 상태를 비추는 거
 #. REC: INFO:NAM1
 msgctxt "000406"
 msgid "Then we shouldn't waste any more time with idle chitchat."
-msgstr "그럼 쓸데없는 잡담으로 더 시간을 낭비하지 말아야겠군."
+msgstr "그럼 계속 한가하게 잡담하면서 시간 낭비하는 건 그만둬야겠군요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33611,7 +33612,7 @@ msgstr "사람 잘못 찾아온 것 같은데. 난 일개 농부라고."
 #. REC: INFO:NAM1
 msgctxt "000408"
 msgid "Enough small talk. I didn't come here to debate with you."
-msgstr "잡담은 충분해. 너와 논쟁하러 온 게 아니야."
+msgstr "잡담은 이쯤 하죠. 당신과 논쟁이나 하러 온 게 아니거든요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33629,7 +33630,7 @@ msgstr "잡담은 충분해. 너와 논쟁하러 온 게 아니야."
 #. REC: INFO:NAM1
 msgctxt "000409"
 msgid "Listening to you, I bet the people here find you insufferable."
-msgstr "네 말을 듣고 있자니, 여기 사람들이 널 참을 수 없어 할 것 같군."
+msgstr "당신 시를 들어보니, 여기 사람들이 왜 당신 꼴도 보기 싫어하는지 딱 알겠네요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33646,7 +33647,7 @@ msgstr "네 말을 듣고 있자니, 여기 사람들이 널 참을 수 없어 �
 #. REC: INFO:NAM1
 msgctxt "00040A"
 msgid "Casts derision upon, Supersession of breath."
-msgstr "조롱을 드리우네, 숨결의 대체 위에."
+msgstr "내쉬는 숨결마다, 내뱉어지는 조롱."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33663,7 +33664,7 @@ msgstr "조롱을 드리우네, 숨결의 대체 위에."
 #. REC: INFO:NAM1
 msgctxt "00040B"
 msgid "Many times he died, Many times rose again."
-msgstr "여러 번 그는 죽었고, 여러 번 다시 일어났네."
+msgstr "몇 번이고 인간은 죽고, 몇 번이고 다시 일어선다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33681,7 +33682,7 @@ msgstr "여러 번 그는 죽었고, 여러 번 다시 일어났네."
 #. REC: INFO:NAM1
 msgctxt "00040C"
 msgid "I hardly know them myself. They aren't my words, who's to say they're any good."
-msgstr "나도 그 말들을 잘 몰라. 내 말도 아닌데, 좋은지 누가 알겠어."
+msgstr "나도 무슨 뜻인지 잘 몰라. 내 말도 아닌데, 좋은 말인지 누가 알겠어."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33699,7 +33700,7 @@ msgstr "나도 그 말들을 잘 몰라. 내 말도 아닌데, 좋은지 누가 
 #. REC: INFO:NAM1
 msgctxt "00040D"
 msgid "Is it? They're not even my words. Who's to say what's \"well\" about it?"
-msgstr "그래? 내 말도 아닌데, 뭐가 \"잘\" 된 건지 누가 알겠어?"
+msgstr "그런가? 내 말도 아닌데, 뭐가 \"좋은\" 말인지 누가 알겠어?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33714,7 +33715,7 @@ msgstr "그래? 내 말도 아닌데, 뭐가 \"잘\" 된 건지 누가 알겠어
 #. REC: INFO:NAM1
 msgctxt "00040E"
 msgid "Words are the cheapest currency, after all. And so easily counterfeited."
-msgstr "결국 말이란 가장 값싼 화폐지. 너무도 쉽게 위조되고."
+msgstr "결국 말이란 가장 값싼 화폐에 불과하지. 너무도 쉽게 위조되고 말이야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33729,7 +33730,7 @@ msgstr "결국 말이란 가장 값싼 화폐지. 너무도 쉽게 위조되고.
 #. REC: INFO:NAM1
 msgctxt "00040F"
 msgid "In fact, I find myself struggling to find value in anything written, or spoken. "
-msgstr "사실 나는 쓰인 것이든, 말해진 것이든 그 어떤 것에서도 가치를 찾는 데 애를 먹고 있어."
+msgstr "사실 말이야, 난 요즘 글이든 말이든 그 어떤 것에서도 아무런 의미를 찾지 못하겠어. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33747,7 +33748,7 @@ msgstr "사실 나는 쓰인 것이든, 말해진 것이든 그 어떤 것에서
 #. REC: INFO:NAM1
 msgctxt "000410"
 msgid "Alas, my friend, I don't even know anymore. Maybe it's me."
-msgstr "아아, 친구여, 나도 이젠 모르겠네. 어쩌면 나 자신일지도."
+msgstr "아아, 친구여. 나도 이젠 모르겠다네. 어쩌면 나 자신일지도."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33783,7 +33784,7 @@ msgstr "내 말이 그거야! 그런데 아무도 안 듣잖아."
 #. REC: INFO:NAM1
 msgctxt "000412"
 msgid "What are you quoting?"
-msgstr "뭘 인용하는 거죠?"
+msgstr "무슨 시죠?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33800,7 +33801,7 @@ msgstr "뭘 인용하는 거죠?"
 #. REC: INFO:NAM1
 msgctxt "000413"
 msgid "Nor dread nor hope attend, A dying animal; A man awaits his end, Dreading and hoping all..."
-msgstr "두려움도 희망도 따르지 않는다, 죽어가는 짐승에게는. 인간은 자신의 끝을 기다리며, 두려워하고 또 희망하네..."
+msgstr "절망도 희망도, 죽어가는 짐승에겐 오지 않는다. 인간은 자신의 최후를 기다린다. 절망하면서, 희망하면서..."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33817,7 +33818,7 @@ msgstr "두려움도 희망도 따르지 않는다, 죽어가는 짐승에게는
 #. REC: INFO:NAM1
 msgctxt "000414"
 msgid "The ceremony of innocence is drowned; The best lack all conviction..."
-msgstr "순수의 의식은 물에 잠기고, 가장 선한 자들은 아무 확신도 없네..."
+msgstr "순결한 기쁨은 물에 잠기며, 가장 선한 무리는 신념을 잃고..."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33835,7 +33836,7 @@ msgstr "순수의 의식은 물에 잠기고, 가장 선한 자들은 아무 확
 #. REC: INFO:NAM1
 msgctxt "000415"
 msgid "Well said."
-msgstr "잘 말했군."
+msgstr "좋은 시군요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33853,7 +33854,7 @@ msgstr "잘 말했군."
 #. REC: INFO:NAM1
 msgctxt "000416"
 msgid "One hundred and fifty percent. Which isn't even possible, mathematically."
-msgstr "백오십 퍼센트야. 수학적으로는 가능하지도 않지만."
+msgstr "백오십 퍼센트 그렇지. 수학적으로는 말이 안 되지만."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33889,7 +33890,7 @@ msgstr "기꺼이 일을 해야 해. 작물을 기르는 건 중요하니까."
 #. REC: INFO:NAM1
 msgctxt "000418"
 msgid "I don't know what you're saying. Please speak plain."
-msgstr "무슨 말인지 모르겠어. 쉽게 말해 줘."
+msgstr "무슨 뜻인지 모르겠는데요. 쉽게 설명 좀 해주시죠."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33907,7 +33908,7 @@ msgstr "무슨 말인지 모르겠어. 쉽게 말해 줘."
 #. REC: INFO:NAM1
 msgctxt "000419"
 msgid "He knows death to the bone -- Man has created death."
-msgstr "그는 뼛속까지 죽음을 안다. 인간이 죽음을 만들었기에."
+msgstr "인간은 뼛속까지 죽음을 안다. 인간이 죽음을 만들었기에."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33925,7 +33926,7 @@ msgstr "그는 뼛속까지 죽음을 안다. 인간이 죽음을 만들었기�
 #. REC: INFO:NAM1
 msgctxt "00041A"
 msgid "A great man in his pride, Confronting murderous men."
-msgstr "오만 속의 위대한 사람, 살인자들과 맞서며."
+msgstr "자부심 높은 위대한 인간은, 살인자들을 대면한다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33960,7 +33961,7 @@ msgstr "너와 나눌 이야기가 좀 있거든."
 #. REC: INFO:NAM1
 msgctxt "00041C"
 msgid "Things fall apart; the centre cannot hold!"
-msgstr "모든 것이 무너진다. 중심은 버티지 못한다!"
+msgstr "모든 것은 산산이 부서지고. 중심은 힘을 잃어!"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33995,7 +33996,7 @@ msgstr "네가 과거에 저지른 일 때문에 왔지."
 #. REC: INFO:NAM1
 msgctxt "00041E"
 msgid "*Sigh*, I'm too old for this shit. "
-msgstr "*한숨* 이런 짓 하기엔 제가 너무 늙었죠. "
+msgstr "*한숨* 이젠 늙어서 이런 좆같은 짓도 못 해먹겠네. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34065,7 +34066,7 @@ msgstr "넌 나를 모르겠지. 하지만 네가 저지른 범죄를 따져보�
 #. REC: INFO:NAM1
 msgctxt "000422"
 msgid "The falcon cannot hear the falconer!"
-msgstr "매는 매부리의 말을 듣지 못한다!"
+msgstr "매는 주인의 말을 들을 수 없고!"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34096,7 +34097,7 @@ msgstr "그가 싱글인지 궁금하네."
 #. REC: INFO:NAM1
 msgctxt "000424"
 msgid "Fine, have it your way. Rot in this cell for all I care!"
-msgstr "좋습니다. 마음대로 하시죠. 저 알 바 아니니 이 감방에서 썩으십쇼!"
+msgstr "좋습니다. 마음대로 하시죠. 저 알 바 아니니 이 감방에서 평생 썩으십쇼!"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34112,7 +34113,7 @@ msgstr "좋습니다. 마음대로 하시죠. 저 알 바 아니니 이 감방�
 #. REC: INFO:NAM1
 msgctxt "000425"
 msgid "Turning and turning in the widening gyre!"
-msgstr "돌고 또 돌며 넓어지는 나선 속에서!"
+msgstr "넓게 퍼져가는 소용돌이 속을 돌고 돌아!"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34128,7 +34129,7 @@ msgstr "돌고 또 돌며 넓어지는 나선 속에서!"
 #. REC: INFO:NAM1
 msgctxt "000426"
 msgid "Enough with the poetry Yeats, just tell me where you hid the supplies!"
-msgstr "시 읊는 건 그만두십쇼. 예이츠. 물자를 어디에 숨겼는지나 말하란 말입니다!"
+msgstr "그놈의 시 좀 그만 씨불거리십쇼. 예이츠. 물자를 어디에 숨겼는지나 말하란 말입니다!"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34144,7 +34145,7 @@ msgstr "시 읊는 건 그만두십쇼. 예이츠. 물자를 어디에 숨겼는
 #. REC: INFO:NAM1
 msgctxt "000427"
 msgid "While the worst... are full of passionate... intensity. *Burp*"
-msgstr "반면 최악의 자들은... 격정적인... 강렬함으로 가득하다. *트림*"
+msgstr "가장 악한 무리만이... 열정에 가득차서... 널뛰는구나. *트림*"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34161,7 +34162,7 @@ msgstr "반면 최악의 자들은... 격정적인... 강렬함으로 가득하�
 #. REC: INFO:NAM1
 msgctxt "000428"
 msgid "Mere anarchy is loosed upon the world, the blood-dimmed tide is loosed, and everywhere!"
-msgstr "순전한 무정부가 세상에 풀려나고, 피로 흐릿한 조수가 풀려나, 어디에나!"
+msgstr "그저 혼돈만이 세상에 풀어진다. 핏빛 얼룩진 조수가 풀어지고. 도처에서!"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35195,7 +35196,7 @@ msgstr "로봇은 믿을 수 없어. 인간이 직접 손으로 해야 할 일�
 #. REC: INFO:NAM1
 msgctxt "00046B"
 msgid "A strong moral center is the backbone of any settlement. Religious guidance provides it."
-msgstr "굳건한 도덕적 중심은 모든 정착지의 중추야. 종교적 가르침이 그것을 제공하지."
+msgstr "확고한 도덕적 중심이야말로 정착지를 지탱하는 버팀목이니까. 종교적 가르침이 바로 그 중심을 잡아주지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35290,7 +35291,7 @@ msgstr "[침묵한다]"
 #. REC: INFO:NAM1
 msgctxt "000471"
 msgid "Why do you care about the outpost's religion?"
-msgstr "전초기지의 종교에 왜 신경 쓰는 거죠?"
+msgstr "전초기지 종교 문제는 왜 신경 쓰는 거지?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -48037,7 +48038,7 @@ msgstr "여기서 남들이 못 하거나 안 하려는 잡일을 꽤 많이 맡
 #. REC: INFO:NAM1
 msgctxt "000819"
 msgid "Name's Caspian. Some people call me Cass for short."
-msgstr "이름은 캐스피언이야. 줄여서 캐스라고 부르는 사람도 있어."
+msgstr "제 이름은 캐스피언이에요. 줄여서 캐스라고 부르는 사람도 있죠."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -48050,7 +48051,7 @@ msgstr "이름은 캐스피언이야. 줄여서 캐스라고 부르는 사람도
 #. REC: INFO:NAM1
 msgctxt "00081A"
 msgid "I'm free. The air smells sweeter. Foul still, but sweeter. That may or not be my own breath."
-msgstr "난 자유야. 공기 냄새가 더 달콤하군. 여전히 고약하지만, 그래도 달콤해. 아니면 내 입냄새일지도 모르고."
+msgstr "자유의 몸이 됐군. 공기 냄새가 이리 달콤하다니. 여전히 고약하지만, 그래도 달콤해. 아니면 내 입냄새일지도 모르고."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -48138,7 +48139,7 @@ msgstr "설명하겠습니다."
 #. REC: INFO:NAM1
 msgctxt "000820"
 msgid "The floor is yours."
-msgstr "말씀하시죠."
+msgstr "무대를 그쪽에 넘기도록 하지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -48750,7 +48751,7 @@ msgstr "그게 다야? 내가 그자가 범죄자라고 말하니까 바로 단�
 #. REC: INFO:NAM1
 msgctxt "000847"
 msgid "I feel like the poet Neruda. A lonely house whose windows ache... for alcohol!"
-msgstr "네루다 시인이 된 기분이야. 창문이 술을 그리워하며 아파하는 외로운 집!"
+msgstr "네루다 시인이 된 기분이야. 외로운 집처럼 기다립니다... 그때까지 내 창문들은 아파합니다... 술을 그리워하며!"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -48766,7 +48767,9 @@ msgstr "네루다 시인이 된 기분이야. 창문이 술을 그리워하며 �
 #. REC: INFO:NAM1
 msgctxt "000848"
 msgid "What I wouldn't do for a drink. I'd kill a man, or three. I'm already in prison, what's the harm?"
-msgstr "술 한잔만 할 수 있다면 뭐든 하겠어. 사람 하나, 아니 셋쯤 죽일 수도 있지. 어차피 감옥인데 뭐가 문제야?"
+msgstr ""
+"술 한잔 할 수 있다면 뭐든 하겠어. 사람 한 명, 아니 세 명은 죽일 수도 있을 거 같군. 어차피 이미 감옥에 있는데, 뭐 문제 될 게 "
+"있나?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -48782,7 +48785,7 @@ msgstr "술 한잔만 할 수 있다면 뭐든 하겠어. 사람 하나, 아니 
 #. REC: INFO:NAM1
 msgctxt "000849"
 msgid "These days I don't preach much. I mostly just cry. Like a baby."
-msgstr "요즘은 설교를 별로 안 해. 대부분 그냥 울어. 아기처럼."
+msgstr "요즘은 별로 설교를 안 해. 대부분 그냥 울어. 아기처럼."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -66484,7 +66487,7 @@ msgstr "뭐, 써니는 네모난 구멍에 안 들어가는 둥근 말뚝 같은
 #. REC: INFO:NAM1
 msgctxt "000DD6"
 msgid "I have a plan, but let's handle the matter of the robot first."
-msgstr "계획은 짜뒀어. 근데 먼저 로봇 문제부터 처리해 줘."
+msgstr "계획은 짜뒀어. 일단 먼저 로봇 문제부터 처리해 줘."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest

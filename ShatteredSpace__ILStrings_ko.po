@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-10-10 17:49+0000\n"
+"PO-Revision-Date: 2026-11-02 13:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -218600,7 +218600,7 @@ msgstr "말씀드렸다시피, 우리는 이미 음성 분석을 실시했습니
 #. SUBTYPE: Custom
 msgctxt "0012D9"
 msgid "Which means you knew about the supply theft and attempted to pin the blame on House Ka'dic."
-msgstr "이 말은 당신이 물자 절도에 대해 알고 있었고 카딕 가문에게 누명을 씌우려고 했다는 뜻입니다."
+msgstr "이 말은 당신이 물자 도둑질에 대해 알고 있었고 카딕 가문에게 누명을 씌우려고 했다는 뜻입니다."
 
 #. SCRIPT NOTES: Stern / to MS01_Tevina
 #. PROMPT: I'm not even sure that's your voice, to be honest.

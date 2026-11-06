@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-11-02 15:49+0000\n"
+"PO-Revision-Date: 2026-11-07 14:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -32321,7 +32321,7 @@ msgstr "카루소가 당신이 감옥에서 나올 수 있게 도와주라고 �
 #. REC: INFO:NAM1
 msgctxt "0003B9"
 msgid "He never made that clear to me."
-msgstr "그는 내게 그걸 분명히 말한 적 없어."
+msgstr "할이 분명하게 말해주진 않았어요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32338,7 +32338,7 @@ msgstr "그는 내게 그걸 분명히 말한 적 없어."
 #. REC: INFO:NAM1
 msgctxt "0003BA"
 msgid "As for who pointed it, take your pick. They're all angled in this direction."
-msgstr "누가 손가락질했느냐고? 골라 봐. 전부 이쪽을 가리키고 있으니까."
+msgstr "누가 범인으로 지목했냐고? 골라 보시게. 전부 이 몸을 지목하고 있으니까."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32354,7 +32354,7 @@ msgstr "누가 손가락질했느냐고? 골라 봐. 전부 이쪽을 가리키�
 #. REC: INFO:NAM1
 msgctxt "0003BB"
 msgid "Rather than actually investigate the crime, Sasha believes a pointed finger is adequate evidence."
-msgstr "실제로 범죄를 수사하기보다, 사샤는 손가락질이면 충분한 증거라고 믿어."
+msgstr "사샤는 실제로 범죄를 조사하기보다는, 누군가를 범인으로 지목하기만 하면 증거로 충분하다고 믿나 보더군."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32371,7 +32371,7 @@ msgstr "실제로 범죄를 수사하기보다, 사샤는 손가락질이면 충
 #. REC: INFO:NAM1
 msgctxt "0003BC"
 msgid "There is nothing to tell. I am guilty of being a faithless drunk. "
-msgstr "할 말은 없어. 나는 믿음을 잃은 술꾼이라는 죄가 있지."
+msgstr "할 말 없네. 믿음을 잃은 술꾼이 된 게 죄겠지. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32389,7 +32389,7 @@ msgstr "할 말은 없어. 나는 믿음을 잃은 술꾼이라는 죄가 있지
 #. REC: INFO:NAM1
 msgctxt "0003BD"
 msgid "Can you tell me your side of what happened?"
-msgstr "당신 입장에서 무슨 일이 있었는지 말해줄 수 있나?"
+msgstr "무슨 일이 있었는지 말해줄 수 있나요?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32406,7 +32406,7 @@ msgstr "당신 입장에서 무슨 일이 있었는지 말해줄 수 있나?"
 #. REC: INFO:NAM1
 msgctxt "0003BE"
 msgid "Which is a false correlation. Yes, my appetite for liquor is nothing short of prodigious. But I've never touched a chem."
-msgstr "그건 잘못된 연관성이야. 그래, 내 증류주 욕심은 엄청나다고 해도 모자라지. 하지만 약물에는 손댄 적 없어."
+msgstr "잘못 연결 지은 걸세. 그래, 내가 술을 엄청나게 마셔대는 건 맞네. 하지만 약물에는 손댄 적 없다고."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32423,7 +32423,7 @@ msgstr "그건 잘못된 연관성이야. 그래, 내 증류주 욕심은 엄청
 #. REC: INFO:NAM1
 msgctxt "0003BF"
 msgid "Caelumite. A material for crafting a number of items, from suits to medical chems. It's the \"chems\" part that makes me a suspect."
-msgstr "캘루마이트. 수트부터 의료용 약물까지 여러 물건 제작에 쓰이는 재료야. 나를 용의자로 만드는 건 바로 그 \"약물\" 부분이지."
+msgstr "캘루마이트. 슈트부터 의료용 약물까지, 여러 물품 제작에 쓰이는 재료일세. '약물' 재료기 때문에 내가 용의자로 지목당한 게지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32441,7 +32441,7 @@ msgstr "캘루마이트. 수트부터 의료용 약물까지 여러 물건 제�
 #. REC: INFO:NAM1
 msgctxt "0003C0"
 msgid "What supplies were stolen?"
-msgstr "어떤 물자가 도난당했지?"
+msgstr "어떤 물자가 도난당했죠?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32459,7 +32459,7 @@ msgstr "어떤 물자가 도난당했지?"
 #. REC: INFO:NAM1
 msgctxt "0003C1"
 msgid "Valiant. But if you are so confident, then by all means, talk to the guard, perform thy miracle!"
-msgstr "용감하군. 하지만 그렇게 자신 있다면, 부디 경비와 이야기하고 그대의 기적을 행하게!"
+msgstr "용감하구먼. 그렇게 자신 있다면, 어디 경비대원과 얘기해 보시게. 한번 기적을 일으켜 보려무나!"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32477,7 +32477,7 @@ msgstr "용감하군. 하지만 그렇게 자신 있다면, 부디 경비와 이
 #. REC: INFO:NAM1
 msgctxt "0003C2"
 msgid "I make my own luck, priest."
-msgstr "내 운은 내가 만든다, 신부."
+msgstr "제 운명은 제가 만들 겁니다. 신부님."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32592,7 +32592,7 @@ msgstr "왜 감옥에 갇힌 거죠?"
 #. REC: INFO:NAM1
 msgctxt "0003C9"
 msgid "But it matters not."
-msgstr "하지만 그건 중요하지 않아."
+msgstr "하지만 그건 중요하지 않나 보더군."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32608,7 +32608,7 @@ msgstr "하지만 그건 중요하지 않아."
 #. REC: INFO:NAM1
 msgctxt "0003CA"
 msgid "I too am not an innocent man. I am, however, innocent of the crime that has me jailed."
-msgstr "나 역시 무고한 사람은 아니야. 하지만 나를 감옥에 가둔 그 죄에 대해서는 무죄지."
+msgstr "나 역시 죄 없는 인간은 아닐세. 하지만 나를 감옥에 가둔 그 혐의에 대해서는 죄가 없지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32625,7 +32625,7 @@ msgstr "나 역시 무고한 사람은 아니야. 하지만 나를 감옥에 가
 #. REC: INFO:NAM1
 msgctxt "0003CB"
 msgid "True enough! No man is swift enough to escape the devil's lasso. Not even Hal."
-msgstr "맞는 말이야! 악마의 올가미에서 벗어날 만큼 빠른 사람은 없어. 할조차도."
+msgstr "옳거니! 악마의 올가미에서 벗어날 만큼 빠른 사람은 없는 게지. 할조차도 말일세."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32677,7 +32677,7 @@ msgstr "당신이 무죄일 가능성에 반대하진 않아."
 #. REC: INFO:NAM1
 msgctxt "0003CE"
 msgid "He does."
-msgstr "그는 그래."
+msgstr "할이라면 그래주길 바라겠죠."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32742,7 +32742,7 @@ msgstr "그대가 누구인지, 무엇이 이 일을 불러왔는지 나는 전�
 #. REC: INFO:NAM1
 msgctxt "0003D2"
 msgid "Strange. Hal is a man of few words, but the intent is always clear. Regardless..."
-msgstr "이상하군. 할은 말수가 적은 사람이지만, 의도는 늘 분명했어. 어쨌든..."
+msgstr "이상하구먼. 할이 말수가 적긴 하지만, 의도는 늘 분명하게 말했는데. 어쨌거나..."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32794,7 +32794,7 @@ msgstr "지금도 그러고 있지 않나?"
 #. REC: INFO:NAM1
 msgctxt "0003D5"
 msgid "I wouldn't call him a saint."
-msgstr "그를 성인이라고 부르진 않겠어."
+msgstr "할을 성인이라고 불러주진 않을 겁니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32900,7 +32900,7 @@ msgstr "내 빌어먹을 입 좀 다물라는 뜻으로 그리 말한 거라면,
 #. REC: INFO:NAM1
 msgctxt "0003DB"
 msgid "One step at a time. Let's clear your name first."
-msgstr "한 걸음씩 가자. 먼저 네 누명부터 벗기자고."
+msgstr "차근차근히 해보죠. 먼저 당신 누명부터 벗겨볼게요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32982,7 +32982,7 @@ msgstr "무죄니 유죄니 하는 건 일시적인 문제일 뿐이야."
 #. REC: INFO:NAM1
 msgctxt "0003E0"
 msgid "Then I must disappoint him."
-msgstr "그렇다면 그를 실망시켜야겠군."
+msgstr "그렇다면 할에게 실망을 안겨주게 되겠구먼."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33027,7 +33027,7 @@ msgstr "알다시피, 나는 한때 믿음의 사람이었어. 우주의 성소�
 #. REC: INFO:NAM1
 msgctxt "0003E3"
 msgid "So if Hal wishes me to preach, then as a wise man once said, \"He's shit out of luck.\" As are you."
-msgstr "그러니 할이 내게 설교하길 바란다면, 어느 현자가 말했듯 \"그는 완전히 운이 없는 거야.\" 그대도 마찬가지고."
+msgstr "그러니 할이 내가 설교해 주길 바라고 있다면, 어느 현자가 말했듯 \"더럽게 재수가 없는 게지.\" 자네도 마찬가지고."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33042,7 +33042,7 @@ msgstr "그러니 할이 내게 설교하길 바란다면, 어느 현자가 말�
 #. REC: INFO:NAM1
 msgctxt "0003E4"
 msgid "Even if you were to find the supply thief and clear my name, I have lost it. My faith."
-msgstr "그대가 물자 도둑을 찾아 내 누명을 벗긴다 해도, 나는 그것을 잃었어. 나의 믿음을."
+msgstr "자네가 물자 도둑을 찾아 내 누명을 벗겨준다 해도, 이미 잃어버렸다네. 믿음 말일세."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33087,7 +33087,7 @@ msgstr "제나 씨는 내게 무슨 일이 일어났는지 신경 쓴 적 없어
 #. REC: INFO:NAM1
 msgctxt "0003E7"
 msgid "I take it he wants me to lead the House of Worship?"
-msgstr "그가 내가 예배당을 이끌기를 바라는 모양이군?"
+msgstr "할은 내가 예배당을 이끌기를 바라는 모양이구먼?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33101,7 +33101,7 @@ msgstr "그가 내가 예배당을 이끌기를 바라는 모양이군?"
 #. REC: INFO:NAM1
 msgctxt "0003E8"
 msgid "I would say \"angel,\" but I no longer believe in such things."
-msgstr "천사라고 말하고 싶지만, 이제 나는 그런 것을 믿지 않아."
+msgstr "'천사' 같다고 말하고 싶지만, 이제 나는 그런 걸 믿지 않네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33116,7 +33116,7 @@ msgstr "천사라고 말하고 싶지만, 이제 나는 그런 것을 믿지 않
 #. REC: INFO:NAM1
 msgctxt "0003E9"
 msgid "So Hal has not yet given up on me. A saint, that man. "
-msgstr "그러니 할은 아직 나를 포기하지 않았군. 성인 같은 사람이야."
+msgstr "그럼 할은 아직 나를 포기하지 않았나 보군. 이 어찌 성인 같은 사람이란 말인가. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest

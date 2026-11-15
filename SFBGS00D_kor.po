@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-26 03:43+0900\n"
-"PO-Revision-Date: 2026-11-08 15:49+0000\n"
+"PO-Revision-Date: 2026-11-16 15:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -18941,7 +18941,7 @@ msgstr ""
 "\"신들의 문\"이라는 의미였다.\n"
 "\n"
 "복음을 전할 곳을 고를 때, 뉴바빌론이라는 이름이 마음에 와닿았다. 정말로 신들의 문이라면, 이곳에서 그분의 말씀에 더 가까워질 수 "
-"있으리라. 외진 정착지에서 사는 것은 분명 기이하지만, 설교의 길은 원래 순탄하거나 편안한 적이 없었다.\n"
+"있으리라. 외진 정착지에서 사는 것은 분명 기이하지만, 전도의 길은 원래 순탄하거나 편안한 적이 없었다.\n"
 "\n"
 "구불구불 막연한 길에 구덩이투성이였다. 하지만 이것이 죗값을 치르는 건 아니라고 생각한다. 여기저기서 술을 한 잔씩 마신다고 불경하다 "
 "비난하는 자들도 있겠지. 뺨에 떠오른 모욕의 붉은빛을 보며 내게는 신성의 조각도 없다고 말할 거다.\n"
@@ -26232,7 +26232,7 @@ msgstr "하던 일 마저 끝냅시다."
 #. REC: INFO:NAM1
 msgctxt "000237"
 msgid "Farewell! Only God knows when we shall meet again, the secretive bastard."
-msgstr "잘 가! 우리가 언제 다시 만날지는 신만이 알겠지, 비밀 많은 자식 같으니."
+msgstr "잘 가시게! 우리가 언제 다시 만날지는 오직 신만이 알겠지. 그 비밀스러운 개자식 말이야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -26258,7 +26258,7 @@ msgstr "이별은 이렇게나 달콤한 슬픔이군."
 #. REC: INFO:NAM1
 msgctxt "000239"
 msgid "See ya dork."
-msgstr "잘 가라, 찌질아."
+msgstr "잘 가라, 짜식."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -26524,7 +26524,7 @@ msgstr "뭐? 무슨 말을 하려는 거야?"
 #. REC: INFO:NAM1
 msgctxt "00024A"
 msgid "And what would you recommend?"
-msgstr "그럼 당신은 뭘 추천하겠소?"
+msgstr "그럼 자네는 뭘 추천하겠나?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -26542,7 +26542,7 @@ msgstr "그럼 당신은 뭘 추천하겠소?"
 #. REC: INFO:NAM1
 msgctxt "00024B"
 msgid "You're right. You should choose something else."
-msgstr "네 말이 맞아. 다른 걸 선택하는 게 좋겠어."
+msgstr "그 말이 맞네요. 다른 걸 선택하는 게 낫겠어요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -26560,7 +26560,7 @@ msgstr "네 말이 맞아. 다른 걸 선택하는 게 좋겠어."
 #. REC: INFO:NAM1
 msgctxt "00024C"
 msgid "That feels even more hopeless, but a hard truth is still the truth. It must be stomached, even if the taste is sour."
-msgstr "그건 더 절망적으로 들리지만, 쓰디쓴 진실도 진실이야. 맛이 시더라도 삼켜야 해."
+msgstr "그거 참 절망적으로 들리는군. 하지만 쓰라린 진실도 여전히 진실인 법이지. 아무리 맛이 쓰더라도 삼켜내야겠지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -26576,7 +26576,7 @@ msgstr "그건 더 절망적으로 들리지만, 쓰디쓴 진실도 진실이�
 #. REC: INFO:NAM1
 msgctxt "00024D"
 msgid "I started to find company in drink and poetry, and became the lowly slug you see before you."
-msgstr "나는 술과 시에서 벗을 찾기 시작했고, 결국 네 앞에 보이는 이 비천한 민달팽이가 됐지."
+msgstr "나는 술과 시를 벗 삼아 살기 시작했고, 결국 앞에 보이는 대로 비천한 게으름뱅이가 됐지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -26591,7 +26591,9 @@ msgstr "나는 술과 시에서 벗을 찾기 시작했고, 결국 네 앞에 �
 #. REC: INFO:NAM1
 msgctxt "00024F"
 msgid "But shortly after I arrived here, there was a mass exodus. I lost the people's ear, and with it, my voice."
-msgstr "하지만 내가 이곳에 도착하고 얼마 지나지 않아 사람들이 대거 떠났어. 사람들은 내 말을 듣지 않게 됐고, 그와 함께 내 목소리도 잃었지."
+msgstr ""
+"하지만 내가 이곳에 도착하고 얼마 지나지 않아 사람들이 대거 떠났어. 사람들은 내 말을 듣지 않게 됐고, 나는 발언권도 잃다시피 하게 "
+"됐지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -26607,7 +26609,7 @@ msgstr "하지만 내가 이곳에 도착하고 얼마 지나지 않아 사람�
 #. REC: INFO:NAM1
 msgctxt "000250"
 msgid "I was a preacher for the Sanctum Universum. A pretty good one, in fact. "
-msgstr "나는 우주의 성소의 설교자였어. 사실 꽤 괜찮은 설교자였지."
+msgstr "우주의 성소의 전도사였어. 나름 꽤 괜찮은 전도사였지. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -26625,7 +26627,7 @@ msgstr "나는 우주의 성소의 설교자였어. 사실 꽤 괜찮은 설교�
 #. REC: INFO:NAM1
 msgctxt "000251"
 msgid "What did you preach before you lost your faith?"
-msgstr "믿음을 잃기 전에는 무엇을 설교했나요?"
+msgstr "믿음을 잃기 전에는 뭘 전도했나요?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -26710,7 +26712,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "000258"
 msgid "Yeats is the town preacher and drunk. Right now he's doing both in jail."
-msgstr "예이츠는 우리 마을의 목사 겸 술주정뱅이입니다. 지금 감옥에 갇혀서 설교랑 술주정을 동시에 하고 있죠."
+msgstr "예이츠는 우리 마을의 전도사 겸 술주정뱅이입니다. 지금 감옥에 갇혀서 전도랑 술주정을 동시에 하고 있죠."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -26867,7 +26869,7 @@ msgstr "로봇 건은 잘했어. 빌어먹을 기계는 성실한 노동을 대�
 #. REC: INFO:NAM1
 msgctxt "000264"
 msgid "We had a deal, stranger. I suggest you honor it."
-msgstr "거래하지 않았나. 외지인. 거래는 지키는 게 좋을 거야."
+msgstr "거래하지 않았나. 이방인. 거래는 지키는 게 좋을 거야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -27317,7 +27319,7 @@ msgstr "그녀는 그저 증거가 이끄는 곳으로 갔을 뿐이야."
 #. REC: INFO:NAM1
 msgctxt "000282"
 msgid "Dr. Kim wants you to do a blood typing test?"
-msgstr "킴 의사가 당신에게 혈액형 검사를 하라고 해?"
+msgstr "킴 의사가 혈액형 검사를 하라고 하던가?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -29488,7 +29490,7 @@ msgstr "해부라고요? 정말요, 박사님? 좀 더 창의적인 거짓말을
 #. REC: INFO:NAM1
 msgctxt "000307"
 msgid "Anyway, looks like someone got Rusty up and running already, and I didn't even have to pay them. Sucker born every minute."
-msgstr "아무튼 누가 이미 러스티를 작동시킨 모양이야. 내가 돈을 줄 필요도 없었네. 세상엔 속는 사람이 늘 있다니까."
+msgstr "아무튼 누가 이미 러스티를 작동시킨 모양이야. 내가 돈을 줄 필요도 없었네. 세상엔 늘 속는 인간이 있다니까."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -29641,7 +29643,7 @@ msgstr "좋아. 킴 의사에게 가져가. 피가 캐스피언의 것과 일치
 #. REC: INFO:NAM1
 msgctxt "000310"
 msgid "I have questions on the stolen supplies. Sasha said you witnessed Yeats at the scene of the crime?"
-msgstr "도난당한 물자에 대해 질문이 있어. 사샤 말로는 네가 범행 현장에서 예이츠를 봤다던데?"
+msgstr "도난당한 물자에 대해 물어볼 게 있어. 사샤 말로는 네가 범행 현장에서 예이츠를 봤다던데?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -29826,7 +29828,7 @@ msgstr "그렇다면 그들은 나보다 용감한 영혼들이군."
 #. REC: INFO:NAM1
 msgctxt "00031B"
 msgid "Yeah, I saw that loser. He was bugging Caspian for something. Probably casing the joint."
-msgstr "응, 그 패배자를 봤어. 캐스피언에게 뭔가 귀찮게 굴고 있었지. 아마 여기 사정을 살피던 거겠지."
+msgstr "응, 그 찌질이라면 봤지. 캐스피언에게 뭔가 귀찮게 굴고 있었어. 아마 여길 염탐하던 거겠지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -30308,7 +30310,7 @@ msgstr "네가 직접 그녀와 이야기해 봐야 할 것 같아."
 #. REC: INFO:NAM1
 msgctxt "00033B"
 msgid "So, you've come back. Have you reconsidered my offer to scramble this robot's eggs?"
-msgstr "그래, 돌아왔군. 이 로봇 머리를 휘저어 놓자는 내 제안을 다시 생각해 봤나?"
+msgstr "그래, 돌아왔나. 로봇 머리를 휘저어 놓자는 제안에 대해 다시 생각해 봤나?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -30326,7 +30328,7 @@ msgstr "그래, 돌아왔군. 이 로봇 머리를 휘저어 놓자는 내 제�
 #. REC: INFO:NAM1
 msgctxt "00033C"
 msgid "Hell yeah. First I found some Chunks in my pocket, now this. This day just keeps getting better."
-msgstr "좋았어. 먼저 주머니에서 청크를 좀 찾았고, 이제 이거라니. 오늘은 계속 좋아지기만 하네."
+msgstr "이야 쩌네. 처음엔 주머니에서 청크를 찾았고, 지금은 이런 일이 일어나다니. 오늘은 계속 좋은 일만 일어나네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -30343,7 +30345,7 @@ msgstr "좋았어. 먼저 주머니에서 청크를 좀 찾았고, 이제 이거
 #. REC: INFO:NAM1
 msgctxt "00033D"
 msgid "Already done. Hal Caruso asked me to get it working."
-msgstr "이미 끝났어. 할 카루소가 내게 작동시켜 달라고 했어."
+msgstr "그거라면 이미 명령해뒀어. 할 카루소가 내게 로봇을 작동시켜 달라고 했거든."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -30376,7 +30378,7 @@ msgstr "다시 생각해 보니, 그냥 킴 의사에게 가져가자."
 #. REC: INFO:NAM1
 msgctxt "00033F"
 msgid "But yeah, she's my sis. We look out for each other, because at the end of the day, if blood don't have your back, who does?"
-msgstr "그래도 그 애는 내 여동생이야. 우린 서로 챙겨. 결국 피붙이가 네 편을 안 들어주면 누가 들어주겠어?"
+msgstr "그래도 그레이시는 내 언니야. 우린 서로 챙겨. 결국 피붙이가 같은 편을 들어주지 않으면 누가 편을 들어주겠어?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -30392,7 +30394,9 @@ msgstr "그래도 그 애는 내 여동생이야. 우린 서로 챙겨. 결국 �
 #. REC: INFO:NAM1
 msgctxt "000340"
 msgid "Gracie? She got all the brains in the family. That's okay, I got this cool hat, so joke's on her."
-msgstr "그레이시? 그 애는 우리 가족의 머리를 다 가져갔어. 괜찮아, 난 이 멋진 모자가 있으니까 결국 내가 이긴 거지."
+msgstr ""
+"그레이시 말이야? 우리 집안에서 똑똑한 머리는 걔가 다 물려받았어. 뭐 괜찮아. 난 이 멋진 모자를 가졌으니까, 오히려 걔가 손해 본 "
+"셈이지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -30884,7 +30888,7 @@ msgstr "뭘 찾았다고 생각하는진 모르겠지만, 완전히 헛다리 �
 #. REC: INFO:NAM1
 msgctxt "00035E"
 msgid "I appreciate the effort, stranger, but that case has been solved. I'm just waiting on a confession."
-msgstr "애써준 건 고맙습니다. 외지인 분. 하지만 그 사건은 해결됐습니다. 자백하기만 기다리고 있을 뿐입니다."
+msgstr "애써준 건 고맙습니다. 이방인 분. 하지만 그 사건은 해결됐습니다. 자백하기만 기다리고 있을 뿐입니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -31341,7 +31345,7 @@ msgstr "물론 할이 나한테 이 셔츠를 빌려줬으니, 그냥 내가 보
 #. REC: INFO:NAM1
 msgctxt "00037B"
 msgid "If he is dead, then he knows what no living man is privy to."
-msgstr "할이 죽는다면, 살아 있는 인간은 알 수 없는 것도 알게 되겠지."
+msgstr "할이 죽는다면, 할은 살아 있는 인간은 알 수 없는 것도 알게 되겠지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32056,7 +32060,7 @@ msgstr "카루소에 대해 어떻게 생각해?"
 #. REC: INFO:NAM1
 msgctxt "0003A9"
 msgid "What can you tell me about Grace Kim?"
-msgstr "그레이스 킴에 대해 뭐 말해줄 수 있는 게 있나요?"
+msgstr "그레이스 킴에 대해 뭐 말해줄 수 있는 거 없어?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32088,7 +32092,7 @@ msgstr "네 여동생 써니에 대해 말해줄 수 있어?"
 #. REC: INFO:NAM1
 msgctxt "0003AB"
 msgid "You could preach for the House of the Enlightened."
-msgstr "계몽회의 집에서 설교할 수도 있어."
+msgstr "계몽회의 집의 사상을 전파할 수도 있을 텐데요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32159,7 +32163,7 @@ msgstr "어떤 물자가 사라졌죠? 제가 찾을 수 있을지도 몰라요.
 #. REC: INFO:NAM1
 msgctxt "0003AF"
 msgid "True. There is a legacy beyond life that echoes across time."
-msgstr "맞아. 삶을 넘어 시간 속에 메아리치는 유산이 있지."
+msgstr "맞네. 삶을 넘어 시간 속에서 메아리치는 유산이란 게 있지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32244,7 +32248,7 @@ msgstr "도난당한 물자에 대해 질문이 있어."
 #. REC: INFO:NAM1
 msgctxt "0003B4"
 msgid "I have no faith. In anything."
-msgstr "난 아무것도 믿지 않아."
+msgstr "난 아무것도 믿지 않네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32288,7 +32292,7 @@ msgstr "물자를 훔쳤다는 혐의를 받고 있지. 하지만 난 그 주장
 #. REC: INFO:NAM1
 msgctxt "0003B7"
 msgid "Zena wants me to look into your case."
-msgstr "제나 씨가 당신 사건을 조사해 보라고 했어."
+msgstr "제나 씨가 당신 사건을 조사해 보라고 했어요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32543,7 +32547,7 @@ msgstr "할이 이러라고 시켰습니까?"
 #. REC: INFO:NAM1
 msgctxt "0003C6"
 msgid "Knowing dust is the end makes us value life. We take hold of it and live it without fear."
-msgstr "끝이 먼지라는 걸 알기에 우리는 삶을 소중히 여기는 거야. 삶을 붙잡고 두려움 없이 사는 거지."
+msgstr "먼지로 끝난다는 걸 알기에 우리는 삶을 소중히 여기게 되는 겁니다. 삶을 붙잡고 두려움 없이 살게 되는 거죠."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32661,7 +32665,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "0003CD"
 msgid "I'm not opposed to the idea you're innocent."
-msgstr "당신이 무죄일 가능성에 반대하진 않아."
+msgstr "당신이 무고할 수도 있다는 가능성을 배제하고 싶진 않네요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32696,7 +32700,7 @@ msgstr "할이라면 그래주길 바라겠죠."
 #. REC: INFO:NAM1
 msgctxt "0003CF"
 msgid "It's a mess, among other things."
-msgstr "엉망이지. 그 밖에도 여러 가지로."
+msgstr "엉망이군요. 여러모로요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32726,7 +32730,7 @@ msgstr "*트림*"
 msgctxt "0003D1"
 msgid "I've no clue who you are or what brought this on, but as the Bard says, \"Fortune brings in some boats that are not steered.\""
 msgstr ""
-"그대가 누구인지, 어쩌다 이 사달이 난 건지 도통 모르겠지만, 음유시인이 말했듯 '운명은 조타수 없는 배도 항구로 인도하는 법'이라네."
+"그대가 누구인지, 어쩌다 이 사달이 난 건지 도통 모르겠지만, 음유시인이 말했듯 '운명은 조타수 없는 배도 항구로 인도하는 법'인 거겠지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32762,7 +32766,7 @@ msgstr "이상하구먼. 할이 말수가 적긴 하지만, 의도는 늘 분명
 #. REC: INFO:NAM1
 msgctxt "0003D3"
 msgid "That is the heart of the issue at hand."
-msgstr "그것이 지금 이 문제의 핵심이야."
+msgstr "그것이 현재 문제의 핵심이지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32814,7 +32818,7 @@ msgstr "할을 성인이라고 불러주진 않을 겁니다."
 #. REC: INFO:NAM1
 msgctxt "0003D6"
 msgid "Religion is a crutch. You need to stand up and face reality."
-msgstr "종교는 목발이야. 스스로 일어서서 현실을 마주해야 해."
+msgstr "종교는 목발 같은 겁니다. 일어서서 현실을 마주하는 건 스스로 하셔야죠."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32832,7 +32836,7 @@ msgstr "종교는 목발이야. 스스로 일어서서 현실을 마주해야 �
 #. REC: INFO:NAM1
 msgctxt "0003D7"
 msgid "Words and deeds live on forever. Preach and you will be immortal."
-msgstr "말과 행동은 영원히 남아. 설교하면 불멸이 될 거야."
+msgstr "말과 행동은 영원히 남습니다. 전도하면 불멸의 존재가 될 겁니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32850,7 +32854,7 @@ msgstr "말과 행동은 영원히 남아. 설교하면 불멸이 될 거야."
 #. REC: INFO:NAM1
 msgctxt "0003D8"
 msgid "I see. Life without death will only increase the time we waste."
-msgstr "알겠네. 죽음 없는 삶은 우리가 낭비하는 시간을 늘릴 뿐이겠군."
+msgstr "알겠네. 죽음 없는 삶은 우리가 낭비하는 시간만 늘릴 뿐이겠지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32867,7 +32871,7 @@ msgstr "알겠네. 죽음 없는 삶은 우리가 낭비하는 시간을 늘릴 
 #. REC: INFO:NAM1
 msgctxt "0003D9"
 msgid "It's about teaching self-reliance and fostering a community outside of belief in a creator."
-msgstr "창조자에 대한 믿음 밖에서 자립을 가르치고 공동체를 키우는 것이지."
+msgstr "창조자에 대한 믿음 밖에서 자립을 가르치고 공동체를 키우는 겁니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32917,7 +32921,7 @@ msgstr "차근차근히 해보죠. 먼저 당신 누명부터 벗겨볼게요."
 #. REC: INFO:NAM1
 msgctxt "0003DC"
 msgid "I don't know much about its tenets, but I do know one thing. At least it's bold."
-msgstr "그 교리는 잘 모르지만, 한 가지는 알아. 적어도 대담하긴 해."
+msgstr "그 교리는 잘 모르지만, 한 가지는 알겠더군. 적어도 대담하긴 해."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32932,7 +32936,7 @@ msgstr "그 교리는 잘 모르지만, 한 가지는 알아. 적어도 대담�
 #. REC: INFO:NAM1
 msgctxt "0003DD"
 msgid "And then there is this third entry into the ring. Caruso's so-called \"Great Serpent.\""
-msgstr "그리고 이 링에 세 번째로 들어온 것이 있지. 카루소가 말하는 이른바 \"위대한 뱀\" 말이야."
+msgstr "그리고 이 경기장에 세 번째로 들어온 것이 있지. 카루소가 말하는 이른바 \"위대한 뱀\" 말이야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32949,7 +32953,7 @@ msgstr "그리고 이 링에 세 번째로 들어온 것이 있지. 카루소가
 #. REC: INFO:NAM1
 msgctxt "0003DE"
 msgid "The larger issue is the voice I am tasked with preaching."
-msgstr "더 큰 문제는 내가 설교해야 할 목소리야."
+msgstr "더 큰 문제는 내가 전파해야 할 목소리일세."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32966,7 +32970,7 @@ msgstr "더 큰 문제는 내가 설교해야 할 목소리야."
 #. REC: INFO:NAM1
 msgctxt "0003DF"
 msgid "Innocent, guilty, these are but temporary problems."
-msgstr "무죄니 유죄니 하는 건 일시적인 문제일 뿐이야."
+msgstr "무죄니 유죄니 하는 건 일시적인 문제일 뿐이네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -32999,7 +33003,8 @@ msgstr "그렇다면 할에게 실망을 안겨주게 되겠구먼."
 #. REC: INFO:NAM1
 msgctxt "0003E1"
 msgid "I even became a preacher of the doctrine. But where was God when I needed him most? That was the first of three lies."
-msgstr "나는 그 교리의 설교자가 되기까지 했어. 하지만 내가 가장 필요로 했을 때 신은 어디에 있었나? 그것이 세 가지 거짓 중 첫째였지."
+msgstr ""
+"나는 그 교단의 전도사가 되기까지 했네. 하지만 내가 가장 필요로 했을 때 신은 어디에 있었나? 그것이 세 가지 거짓 중 첫째였지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33014,7 +33019,7 @@ msgstr "나는 그 교리의 설교자가 되기까지 했어. 하지만 내가 
 #. REC: INFO:NAM1
 msgctxt "0003E2"
 msgid "You see, I was once a man of faith. Born into the Sanctum Universum."
-msgstr "알다시피, 나는 한때 믿음의 사람이었어. 우주의 성소에서 태어났지."
+msgstr "알다시피, 나는 한때 신앙인이었네. 우주의 성소가 내 모태신앙이었지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33029,7 +33034,7 @@ msgstr "알다시피, 나는 한때 믿음의 사람이었어. 우주의 성소�
 #. REC: INFO:NAM1
 msgctxt "0003E3"
 msgid "So if Hal wishes me to preach, then as a wise man once said, \"He's shit out of luck.\" As are you."
-msgstr "그러니 할이 내가 설교해 주길 바라고 있다면, 어느 현자가 말했듯 \"더럽게 재수가 없는 게지.\" 자네도 마찬가지고."
+msgstr "그러니 할이 내가 전도해 주길 바라고 있다면, 어느 현자가 말했듯 \"더럽게 재수가 없는 게지.\" 자네도 마찬가지고."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33059,7 +33064,7 @@ msgstr "자네가 물자 도둑을 찾아 내 누명을 벗겨준다 해도, 이
 #. REC: INFO:NAM1
 msgctxt "0003E5"
 msgid "No, I suspect this is Saint Hal Caruso's doing. He always believed I was innocent."
-msgstr "아니, 이건 성 할 카루소의 짓일 거라고 생각해. 그는 항상 내가 무죄라고 믿었지."
+msgstr "아니, 이건 필시 성인군자인 할 카루소가 벌인 짓일 테지. 할은 항상 내가 무죄라고 믿었으니까."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33074,7 +33079,7 @@ msgstr "아니, 이건 성 할 카루소의 짓일 거라고 생각해. 그는 �
 #. REC: INFO:NAM1
 msgctxt "0003E6"
 msgid "Zena never cared about what happened to me. "
-msgstr "제나 씨는 내게 무슨 일이 일어났는지 신경 쓴 적 없어. "
+msgstr "제나 씨라면 내게 무슨 일이 일어났나 신경 쓰지 않았을 테니까. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33132,7 +33137,7 @@ msgstr "그럼 할은 아직 나를 포기하지 않았나 보군. 이 어찌 �
 #. REC: INFO:NAM1
 msgctxt "0003EA"
 msgid "The reality is, we are not worthy of whatever comes after."
-msgstr "현실은, 우리는 그 뒤에 오는 무엇에도 합당하지 않다는 거야."
+msgstr "현실은, 그다음에 무엇이 오든 우리는 그것을 누릴 자격이 없다는 걸세."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33147,7 +33152,7 @@ msgstr "현실은, 우리는 그 뒤에 오는 무엇에도 합당하지 않다�
 #. REC: INFO:NAM1
 msgctxt "0003EB"
 msgid "But in the end, I suppose it matters not. What I lack isn't a belief in God, it's a belief in humanity."
-msgstr "하지만 결국 그건 중요하지 않은지도 모르겠어. 내게 부족한 건 신에 대한 믿음이 아니라, 인간성에 대한 믿음이니까."
+msgstr "하지만 결국 그게 뭐가 중헌가 싶네. 내게 부족한 건 신에 대한 믿음이 아니라, 인간성에 대한 믿음이니까."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33165,7 +33170,7 @@ msgstr "하지만 결국 그건 중요하지 않은지도 모르겠어. 내게 �
 #. REC: INFO:NAM1
 msgctxt "0003EC"
 msgid "That is the heart of the issue at hand."
-msgstr "그것이 지금 이 문제의 핵심이야."
+msgstr "그것이 현재 문제의 핵심이지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33180,7 +33185,7 @@ msgstr "그것이 지금 이 문제의 핵심이야."
 #. REC: INFO:NAM1
 msgctxt "0003ED"
 msgid "That is not something I want to preach. I want a world where we are more than dust."
-msgstr "그건 내가 설교하고 싶은 것이 아니야. 나는 우리가 먼지 이상의 존재인 세상을 원해."
+msgstr "그건 내가 전파하고 싶은 것이 아니야. 나는 우리가 먼지 이상의 존재인 세상을 원하네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33194,7 +33199,7 @@ msgstr "그건 내가 설교하고 싶은 것이 아니야. 나는 우리가 먼
 #. REC: INFO:NAM1
 msgctxt "0003EE"
 msgid "Day by day he's eroded by the stream, shrinking to a pebble, and ground to gravel and dust."
-msgstr "그는 날마다 물살에 깎여 자갈이 되고, 부서져 모래와 먼지가 되지."
+msgstr "그런 바위는 날마다 물살에 깎여, 자갈이 되고, 부서져 모래와 먼지가 되겠지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33208,7 +33213,7 @@ msgstr "그는 날마다 물살에 깎여 자갈이 되고, 부서져 모래와 
 #. REC: INFO:NAM1
 msgctxt "0003EF"
 msgid "If man is without a soul, then he is but a rock, caught in time's endless river. "
-msgstr "인간에게 영혼이 없다면, 인간은 시간의 끝없는 강에 갇힌 바위일 뿐이야."
+msgstr "인간에게 영혼이 없다면, 인간은 끝없는 시간의 강에 잠긴 바위일 뿐일세. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33224,7 +33229,7 @@ msgstr "인간에게 영혼이 없다면, 인간은 시간의 끝없는 강에 �
 #. REC: INFO:NAM1
 msgctxt "0003F0"
 msgid "I find their ideology hopeless."
-msgstr "나는 그들의 이념이 절망적이라고 생각해."
+msgstr "계몽회의 이념 거 참 절망적이지 않나."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33242,7 +33247,7 @@ msgstr "나는 그들의 이념이 절망적이라고 생각해."
 #. REC: INFO:NAM1
 msgctxt "0003F1"
 msgid "If this is a place of worship, you need an actual doctrine to preach."
-msgstr "이곳이 예배 장소라면, 설교할 실제 교리가 필요해."
+msgstr "이곳이 예배 장소라면, 전도할 구체적인 교리가 필요하겠네요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33275,7 +33280,7 @@ msgstr "당신의 믿음에 대해 이야기해 주시죠."
 #. REC: INFO:NAM1
 msgctxt "0003F3"
 msgid "You are tough but fair. I think I know where the problem lies."
-msgstr "넌 엄하지만 공정해. 어디에 문제가 있는지 알 것 같아."
+msgstr "자네는 참으로 직설적이지만 객관적이구먼. 이제 문제가 어디에 있는지 알 것 같네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33293,7 +33298,7 @@ msgstr "넌 엄하지만 공정해. 어디에 문제가 있는지 알 것 같아
 #. REC: INFO:NAM1
 msgctxt "0003F4"
 msgid "It's not a mess, but a reflection. A mirror of my state of mind."
-msgstr "엉망인 게 아니라 반영이야. 내 마음 상태를 비추는 거울이지."
+msgstr "엉망인 게 아니라, 반영하는 거라네. 내 마음 상태를 비추는 거울인 게지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33310,7 +33315,7 @@ msgstr "엉망인 게 아니라 반영이야. 내 마음 상태를 비추는 거
 #. REC: INFO:NAM1
 msgctxt "0003F5"
 msgid "Agreed. I never understood them myself."
-msgstr "동의해. 나도 그들을 이해한 적은 없었어."
+msgstr "맞아요. 저도 그 인간들 사상은 도통 이해가 안 가더라고요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33325,7 +33330,7 @@ msgstr "동의해. 나도 그들을 이해한 적은 없었어."
 #. REC: INFO:NAM1
 msgctxt "0003F6"
 msgid "Zena has asked I help you get this place functioning."
-msgstr "제나 씨가 이곳이 제대로 돌아가도록 당신을 도우라고 했어."
+msgstr "제나 씨가 이곳이 제대로 돌아갈 수 있게 당신을 도우라고 했어요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33340,7 +33345,7 @@ msgstr "제나 씨가 이곳이 제대로 돌아가도록 당신을 도우라고
 #. REC: INFO:NAM1
 msgctxt "0003F7"
 msgid "Caruso has asked I help you get this place functioning."
-msgstr "카루소가 이곳이 제대로 돌아가도록 당신을 도우라고 했어."
+msgstr "카루소가 이곳이 제대로 돌아갈 수 있게 당신을 도우라고 했어요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33358,7 +33363,7 @@ msgstr "카루소가 이곳이 제대로 돌아가도록 당신을 도우라고 
 #. REC: INFO:NAM1
 msgctxt "0003F8"
 msgid "Then why not call it what it is. A glorified chat server."
-msgstr "그럼 있는 그대로 부르지 그래. 과장된 채팅 서버라고."
+msgstr "그럼 있는 그대로 부르지 그래. 미화된 채팅 서버 그 자체 아닌가."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33375,7 +33380,7 @@ msgstr "그럼 있는 그대로 부르지 그래. 과장된 채팅 서버라고.
 #. REC: INFO:NAM1
 msgctxt "0003F9"
 msgid "It's a shithole, and you're the chief defecator."
-msgstr "여긴 똥통이고, 넌 그 똥통의 최고 배설자야."
+msgstr "여긴 똥통이고, 넌 이 똥통의 최고 똥쟁이야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33390,7 +33395,7 @@ msgstr "여긴 똥통이고, 넌 그 똥통의 최고 배설자야."
 #. REC: INFO:NAM1
 msgctxt "0003FA"
 msgid "You can't really focus a religion on the absence of a creator."
-msgstr "창조자의 부재를 중심으로 종교를 세울 수는 없잖아."
+msgstr "창조자가 없는 사상을 기반으로 종교를 세울 수는 없다고."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33405,7 +33410,7 @@ msgstr "창조자의 부재를 중심으로 종교를 세울 수는 없잖아."
 #. REC: INFO:NAM1
 msgctxt "0003FB"
 msgid "So next, I tried the House of Enlightened. But I found their philosophy lacking."
-msgstr "그래서 다음으로 계몽회의 집을 시도했어. 하지만 그들의 철학도 부족하더군."
+msgstr "그래서 다음으로 계몽회의 집의 사상을 전파하려 했네. 하지만 계몽회의 철학도 뭔가 부족하더군."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33441,7 +33446,7 @@ msgstr "글쎄요. 전 거짓말이나 하려고 여기 온 건 아닙니다만.
 #. REC: INFO:NAM1
 msgctxt "0003FD"
 msgid "It's a mess, among other things."
-msgstr "엉망이지. 그 밖에도 여러 가지로."
+msgstr "엉망이군요. 여러모로요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33459,7 +33464,7 @@ msgstr "엉망이지. 그 밖에도 여러 가지로."
 #. REC: INFO:NAM1
 msgctxt "0003FE"
 msgid "A test? What are we, schoolchildren? The whole thing seems infantile, cast upon us by an insecure God."
-msgstr "시험이라고? 우리가 학생인가? 모든 게 유치해 보여. 불안한 신이 우리에게 던져 놓은 것처럼."
+msgstr "시험이라? 우리가 무슨 학생이라도 되나? 모든 게 불안정한 신이 우리에게 떠넘긴 유치한 장난처럼 보이는군."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33476,7 +33481,7 @@ msgstr "시험이라고? 우리가 학생인가? 모든 게 유치해 보여. �
 #. REC: INFO:NAM1
 msgctxt "0003FF"
 msgid "We endure hardships as it is a test of our faith."
-msgstr "우리는 고난을 견뎌. 그것이 우리 믿음의 시험이기 때문이야."
+msgstr "우리는 고난을 감내합니다. 그것이 우리의 믿음을 시험들게 하는 것이기 때문입니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33544,7 +33549,7 @@ msgstr "거짓말쟁이가 바보에게 할 법한 말이군. 뭐, 그 바보 �
 #. REC: INFO:NAM1
 msgctxt "000403"
 msgid "If this is a place of worship, you need an actual doctrine to preach."
-msgstr "이곳이 예배 장소라면, 설교할 실제 교리가 필요해."
+msgstr "이곳이 예배 장소라면, 전도할 구체적인 교리가 필요하겠군요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33562,7 +33567,7 @@ msgstr "이곳이 예배 장소라면, 설교할 실제 교리가 필요해."
 #. REC: INFO:NAM1
 msgctxt "000404"
 msgid "It's not a mess, but a reflection. A mirror of my state of mind."
-msgstr "엉망인 게 아니라 반영이야. 내 마음 상태를 비추는 거울이지."
+msgstr "엉망인 게 아니라, 반영하는 거라네. 내 마음 상태를 비추는 거울인 게지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33768,7 +33773,7 @@ msgstr "아아, 친구여. 나도 이젠 모르겠다네. 어쩌면 나 자신�
 #. REC: INFO:NAM1
 msgctxt "000411"
 msgid "That's what I'm saying! But nobody's listening."
-msgstr "내 말이 그거야! 그런데 아무도 안 듣잖아."
+msgstr "내 말이! 그런데 아무도 귓등으로 듣지도 않아."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -33874,7 +33879,7 @@ msgstr "백오십 퍼센트 그렇지. 수학적으로는 말이 안 되지만."
 #. REC: INFO:NAM1
 msgctxt "000417"
 msgid "You should be willing to do the work. Growing crops is critical."
-msgstr "기꺼이 일을 해야 해. 작물을 기르는 건 중요하니까."
+msgstr "기꺼이 일을 해야지. 농사는 중요한 일이니까."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34016,7 +34021,7 @@ msgstr "*한숨* 이젠 늙어서 이런 좆같은 짓도 못 해먹겠네. "
 #. REC: INFO:NAM1
 msgctxt "00041F"
 msgid "Better? I think you mean \"slower.\""
-msgstr "더 낫다고? 내 생각엔 \"더 느리다\"는 뜻 같은데."
+msgstr "더 잘한다고? 혹시 '더 느려터졌다'라고 말하려던 거 아냐?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34083,7 +34088,7 @@ msgstr "매는 주인의 말을 들을 수 없고!"
 #. REC: INFO:NAM1
 msgctxt "000423"
 msgid "I wonder if he's single."
-msgstr "그가 싱글인지 궁금하네."
+msgstr "솔로였으면 좋겠네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34182,7 +34187,7 @@ msgstr "그저 혼돈만이 세상에 풀어진다. 핏빛 얼룩진 조수가 �
 #. REC: INFO:NAM1
 msgctxt "000429"
 msgid "Tell that to the plants. Look at 'em. I tell them to hurry their shit up, and they just sit there. Chilling."
-msgstr "그건 식물한테 말해 봐. 저것들 좀 봐. 빨리 자라라고 해도 그냥 저기 앉아 있잖아. 얼어붙은 것처럼."
+msgstr "그 사안은 식물한테나 말해. 저것들 좀 봐. 빨리 자라라고 해도 그냥 저기 주저앉아 있잖아. 빈둥거리는 것처럼."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34197,7 +34202,7 @@ msgstr "그건 식물한테 말해 봐. 저것들 좀 봐. 빨리 자라라고 �
 #. REC: INFO:NAM1
 msgctxt "00042A"
 msgid "What favor did Caruso do for you again?"
-msgstr "카루소가 네게 해준 부탁이 뭐였더라?"
+msgstr "카루소가 너한테 어떤 호의를 베풀어 줬다고 했지?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34212,7 +34217,7 @@ msgstr "카루소가 네게 해준 부탁이 뭐였더라?"
 #. REC: INFO:NAM1
 msgctxt "00042B"
 msgid "So he's only kind of a dick."
-msgstr "그러니까 어느 정도만 재수 없는 사람이란 거네."
+msgstr "그럼 적당히 재수 없는 인간이라고 해야 하나."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34226,7 +34231,7 @@ msgstr "그러니까 어느 정도만 재수 없는 사람이란 거네."
 #. REC: INFO:NAM1
 msgctxt "00042C"
 msgid "Then again, he did fix the irrigation and brought supplies for my sister. Even if they were hand-me downs from a different outpost."
-msgstr "하긴, 그는 관개 시설을 고쳤고 내 언니에게 물자도 가져다줬어. 다른 전초기지에서 물려받은 것들이었지만."
+msgstr "그래도 뭐, 관개 시설도 고쳐줬고 언니에게 물자도 가져다줬어. 다른 전초기지에서 쓰던 물자긴 하지만 말이야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34241,7 +34246,7 @@ msgstr "하긴, 그는 관개 시설을 고쳤고 내 언니에게 물자도 가
 #. REC: INFO:NAM1
 msgctxt "00042D"
 msgid "Doesn't say much, super creepy dude. I don't trust people who don't talk a lot."
-msgstr "별말 안 하는, 엄청 음침한 사람이라는 것밖에 안 되지. 난 말을 많이 안 하는 사람은 믿지 않아."
+msgstr "말수도 거의 없고, 완전 소름 끼치는 인간이야. 난 말을 많이 안 하는 사람은 못 믿겠더라."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34255,7 +34260,7 @@ msgstr "별말 안 하는, 엄청 음침한 사람이라는 것밖에 안 되지
 #. REC: INFO:NAM1
 msgctxt "00042E"
 msgid "Don't ask me how I got it. Let's just say my fingers be hella fast. Just not while picking crops."
-msgstr "그걸 어떻게 얻었는지는 묻지 마. 내 손가락이 엄청 빠르다고만 해두자. 작물 딸 때는 아니지만."
+msgstr "어떻게 얻었는지는 묻지 마. 내 손놀림이 엄청 빠르다고만 해둘게. 수확할 때는 별로 안 빠르지만."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34270,7 +34275,7 @@ msgstr "그걸 어떻게 얻었는지는 묻지 마. 내 손가락이 엄청 빠
 #. REC: INFO:NAM1
 msgctxt "00042F"
 msgid "To get the robot juiced, you'll need a power cell from the generator. This keycard should let you gaffle 'em."
-msgstr "로봇에 전원을 넣으려면 발전기에서 파워 셀이 필요해. 이 키카드가 그걸 훔치는 데 도움이 될 거야."
+msgstr "로봇에 전원을 넣으려면 발전기에 꽂혀있는 파워 셀이 필요해. 이 키카드가 있으면 그걸 슬쩍해 올 수 있을 거야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34285,7 +34290,7 @@ msgstr "로봇에 전원을 넣으려면 발전기에서 파워 셀이 필요해
 #. REC: INFO:NAM1
 msgctxt "000430"
 msgid "Can you tell me your opinion on Caruso?"
-msgstr "카루소에 대한 네 의견을 말해줄 수 있어?"
+msgstr "카루소에 대해 어떻게 생각해?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34301,7 +34306,7 @@ msgstr "카루소에 대한 네 의견을 말해줄 수 있어?"
 #. REC: INFO:NAM1
 msgctxt "000431"
 msgid "I'm a \"farmer\", but technically my boy Rusty does all the work."
-msgstr "나는 \"농부\"지만, 엄밀히 말하면 내 친구 러스티가 일을 다 해."
+msgstr "나는 '농부'지만, 엄밀히 따지면 실제 일은 우리 러스티가 다 해."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34317,7 +34322,7 @@ msgstr "나는 \"농부\"지만, 엄밀히 말하면 내 친구 러스티가 일
 #. REC: INFO:NAM1
 msgctxt "000432"
 msgid "You head over to the junkyard, and get Rusty over there working for me."
-msgstr "고철 처리장으로 가서 러스티를 데려와 나 대신 일하게 해."
+msgstr "고철 처리장으로 가서, 러스티를 데려와 나 대신 일하게 해줘."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34335,7 +34340,7 @@ msgstr "고철 처리장으로 가서 러스티를 데려와 나 대신 일하�
 #. REC: INFO:NAM1
 msgctxt "000433"
 msgid "Good point. Why CAN'T a robot do this shit?"
-msgstr "좋은 지적이야. 왜 로봇이 이 빌어먹을 일을 못 하겠어?"
+msgstr "좋은 지적이야. 로봇이 이런 빌어먹을 일을 못 할 게 뭐가 있겠어?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34382,7 +34387,7 @@ msgstr "내가 전초기지 일을 돕는 동안 넌 뭘 할 건데?"
 #. REC: INFO:NAM1
 msgctxt "000436"
 msgid "So it's whatever that he's dead."
-msgstr "그러니까 그 사람이 죽어도 상관없다는 거네."
+msgstr "그러니 죽었든 말든 상관없어."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34396,7 +34401,7 @@ msgstr "그러니까 그 사람이 죽어도 상관없다는 거네."
 #. REC: INFO:NAM1
 msgctxt "000437"
 msgid "Like his whole sob story about his old outpost never checked out. Plague, my ass. How convenient."
-msgstr "예전 전초기지에 대한 그의 온갖 불쌍한 사연부터가 앞뒤가 안 맞았거든. 역병이라고? 웃기고 있네. 참 편리하지."
+msgstr "예전 전초기지 얘기라며 늘어놓던 그 구구절절한 신파극도 앞뒤가 맞는 게 하나도 없었잖아. 전염병은 개뿔. 말도 안 되는 핑계지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34411,7 +34416,7 @@ msgstr "예전 전초기지에 대한 그의 온갖 불쌍한 사연부터가 �
 #. REC: INFO:NAM1
 msgctxt "000438"
 msgid "I don't miss him. He did a lot for the group, but he also creeped me out. "
-msgstr "난 그가 그립지 않아. 무리를 위해 많은 일을 하긴 했지만, 나를 소름 끼치게도 했어."
+msgstr "카루소가 별로 그립지는 않아. 우리 전초기지를 위해 일을 많이 해주긴 했지만, 좀 소름 끼쳤거든. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34457,7 +34462,7 @@ msgstr "로봇에 파워 셀이 필요하다는 거 알고 있었어?"
 #. REC: INFO:NAM1
 msgctxt "00043B"
 msgid "Did you know the robot is permanently broken?"
-msgstr "그 로봇이 영구적으로 망가졌다는 거 알고 있었어?"
+msgstr "그 로봇이 완전히 망가졌다는 거 알고 있었어?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34475,7 +34480,7 @@ msgstr "그 로봇이 영구적으로 망가졌다는 거 알고 있었어?"
 #. REC: INFO:NAM1
 msgctxt "00043C"
 msgid "Yeah, Rusty. He's a robot."
-msgstr "그래, 러스티. 로봇이야."
+msgstr "그래. 러스티. 로봇이야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34511,7 +34516,7 @@ msgstr "그냥 로봇용 파워 셀이나 찾아볼게. 고마워."
 #. REC: INFO:NAM1
 msgctxt "00043E"
 msgid "I know, I'm a genius."
-msgstr "알아, 나 천재라니까."
+msgstr "알아. 난 천재니까."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34546,7 +34551,7 @@ msgstr "일리 있네."
 #. REC: INFO:NAM1
 msgctxt "000441"
 msgid "I guess it's on to Plan B."
-msgstr "그럼 계획 B로 넘어가야겠네."
+msgstr "그럼 B번 계획으로 넘어가야겠네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34563,7 +34568,7 @@ msgstr "그럼 계획 B로 넘어가야겠네."
 #. REC: INFO:NAM1
 msgctxt "000442"
 msgid "No shit. That old dog Ivica finally did it."
-msgstr "말도 안 돼. 그 늙은 이비차가 드디어 해냈네."
+msgstr "말도 안 돼. 그 늙은 여우같은 이비차가 드디어 해냈네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34579,7 +34584,7 @@ msgstr "말도 안 돼. 그 늙은 이비차가 드디어 해냈네."
 #. REC: INFO:NAM1
 msgctxt "000443"
 msgid "He's great. Works day and night, and doesn't bitch."
-msgstr "그는 훌륭해. 밤낮으로 일하고 불평도 안 해."
+msgstr "모델 A 완전 끝내주던데. 밤낮으로 굴려도 징징대지도 않고."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34595,7 +34600,7 @@ msgstr "그는 훌륭해. 밤낮으로 일하고 불평도 안 해."
 #. REC: INFO:NAM1
 msgctxt "000444"
 msgid "He's great, dork. Works day and night, and doesn't bitch."
-msgstr "그는 훌륭해, 찌질아. 밤낮으로 일하고 불평도 안 해."
+msgstr "모델 A 완전 끝내주던데. 이 짜식. 밤낮으로 굴려도 징징대지도 않고."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34610,7 +34615,7 @@ msgstr "그는 훌륭해, 찌질아. 밤낮으로 일하고 불평도 안 해."
 #. REC: INFO:NAM1
 msgctxt "000445"
 msgid "Shit on a stick, so THAT's why nothing's getting done. Guess it's time for Plan B."
-msgstr "젠장, 그래서 아무 일도 안 되고 있었던 거구나. 이제 계획 B를 쓸 때네."
+msgstr "빌어먹을, 그래서 여태 일이 하나도 안 돌아가고 있었던 건가. 이제 B번 계획으로 갈 수밖에 없겠네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34661,7 +34666,7 @@ msgstr "전자석을 켜려면 파워 셀이 필요해. 자, 이걸 넣으면 �
 #. REC: INFO:NAM1
 msgctxt "000448"
 msgid "Sit around and complain."
-msgstr "앉아서 불평이나 하지."
+msgstr "앉아서 불평이나 하는 거지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34677,7 +34682,7 @@ msgstr "앉아서 불평이나 하지."
 #. REC: INFO:NAM1
 msgctxt "000449"
 msgid "Sit around and complain, dork."
-msgstr "앉아서 불평이나 하지, 찌질아."
+msgstr "앉아서 불평이나 하는 거지 뭐. 짜식."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34692,7 +34697,7 @@ msgstr "앉아서 불평이나 하지, 찌질아."
 #. REC: INFO:NAM1
 msgctxt "00044A"
 msgid "What's Plan B?"
-msgstr "계획 B가 뭐야?"
+msgstr "B번 계획이 뭐야?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34710,7 +34715,7 @@ msgstr "계획 B가 뭐야?"
 #. REC: INFO:NAM1
 msgctxt "00044B"
 msgid "Cool, cool. "
-msgstr "좋아, 좋아."
+msgstr "좋아, 좋아. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34761,7 +34766,7 @@ msgstr "그건 살인처럼 들리는데."
 #. REC: INFO:NAM1
 msgctxt "00044E"
 msgid "I fixed up the Model A by the Junkyard. How do you like it?"
-msgstr "고철 처리장 옆의 모델 A를 고쳐 놨어. 어때?"
+msgstr "고철 처리장 옆에 있던 모델 A 로봇 고쳐 놨어. 어때, 마음에 드냐?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34779,7 +34784,7 @@ msgstr "고철 처리장 옆의 모델 A를 고쳐 놨어. 어때?"
 #. REC: INFO:NAM1
 msgctxt "00044F"
 msgid "Hm, fair point. But if you do it, I'll pay you. Credits or chems, your pick."
-msgstr "흠, 맞는 말이야. 하지만 네가 해주면 내가 보상할게. 크레딧이든 약물이든 골라."
+msgstr "음, 일리 있는 말이네. 그럼 해주면 보수를 챙겨줄게. 크레딧이든 약물이든 원하는 걸로 골라."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34869,7 +34874,7 @@ msgstr "쳇, 여기 기계들은 맨날 고장 나는데 뭐. 최악의 상황�
 #. REC: INFO:NAM1
 msgctxt "000454"
 msgid "I can take care of that for you."
-msgstr "그건 내가 처리해줄 수 있어."
+msgstr "그거라면 내가 처리할 수 있어."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34887,7 +34892,7 @@ msgstr "그건 내가 처리해줄 수 있어."
 #. REC: INFO:NAM1
 msgctxt "000455"
 msgid "I'm not your servant. You do it."
-msgstr "난 네 하인이 아니야. 네가 해."
+msgstr "내가 니 하인이냐? 니가 해."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34903,7 +34908,7 @@ msgstr "난 네 하인이 아니야. 네가 해."
 #. REC: INFO:NAM1
 msgctxt "000456"
 msgid "So here's Plan A."
-msgstr "그러니까 이게 계획 A야."
+msgstr "그러니까 이게 A번 계획이야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34919,7 +34924,7 @@ msgstr "그러니까 이게 계획 A야."
 #. REC: INFO:NAM1
 msgctxt "000457"
 msgid "So dorkapalooza, here's Plan A."
-msgstr "그러니까 도카팔루자(dorkapalooza), 이게 계획 A야."
+msgstr "그러니까 도카팔루자(dorkapalooza), 이게 A번 계획이야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34934,7 +34939,7 @@ msgstr "그러니까 도카팔루자(dorkapalooza), 이게 계획 A야."
 #. REC: INFO:NAM1
 msgctxt "000458"
 msgid "And so I got to thinking, \"This sucks. Why can't a robot do this shit?\""
-msgstr "그래서 생각했지. \"이거 짜증 나네. 왜 로봇이 이 빌어먹을 일을 못 하지?\""
+msgstr "그래서 생각했지. \"아 개 같네. 왜 로봇이 이런 빌어먹을 일도 못 하냐?\""
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -34949,7 +34954,7 @@ msgstr "그래서 생각했지. \"이거 짜증 나네. 왜 로봇이 이 빌어
 #. REC: INFO:NAM1
 msgctxt "000459"
 msgid "I'm a farmer, but I don't like it. It's boring and tedious."
-msgstr "난 농부지만 이 일이 싫어. 지루하고 따분해."
+msgstr "난 농부지만, 이 일이 싫어. 지루하고 따분해."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35007,7 +35012,7 @@ msgstr "어, 나도 좋더라."
 #. REC: INFO:NAM1
 msgctxt "00045E"
 msgid "That should be enough to satisfy Caruso. And if it isn't? Screw it. We know better."
-msgstr "그 정도면 카루소도 만족할 거야. 만족 못 한다면? 알 게 뭐야. 우리가 더 잘 아니까."
+msgstr "이 정도면 카루소도 만족할 거야. 만족 못 하면 어쩌냐고? 엿 먹으라지 뭐. 우리가 더 잘 안다고."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35022,7 +35027,8 @@ msgstr "그 정도면 카루소도 만족할 거야. 만족 못 한다면? 알 �
 #. REC: INFO:NAM1
 msgctxt "00045F"
 msgid "No more lazy workers reliant on robots. And I can use the ore to improve things around here, starting with the generators."
-msgstr "더는 로봇에 의존하는 게으른 일꾼은 없어. 그리고 광석을 이용해서 여기 상황을 개선할 수 있어. 발전기부터 시작해서."
+msgstr ""
+"로봇에 의존하기만 하는 게으른 일꾼은 이제 더는 없을 거야. 광석을 이용해서 여기 상황을 개선할 수 있을 거고. 발전기부터 시작해야겠지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35038,7 +35044,7 @@ msgstr "더는 로봇에 의존하는 게으른 일꾼은 없어. 그리고 광�
 #. REC: INFO:NAM1
 msgctxt "000460"
 msgid "Hvala puno. You've done this entire outpost a service. "
-msgstr "정말 고마워(Hvala puno). 넌 이 전초기지 전체에 큰 도움을 줬어. "
+msgstr "정말 고마워(Hvala puno). 전초기지에 정말 크게 도움이 됐어. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35053,7 +35059,7 @@ msgstr "정말 고마워(Hvala puno). 넌 이 전초기지 전체에 큰 도움�
 #. REC: INFO:NAM1
 msgctxt "000462"
 msgid "[Robot Parts] Just so you know, the robot is broken. Permanently."
-msgstr "[로봇 부품] 알아둬. 그 로봇은 망가졌어. 영구적으로."
+msgstr "[로봇 부품] 이것만 알아둬. 그 로봇은 망가졌어. 완전히."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35311,7 +35317,7 @@ msgstr "전초기지 종교 문제는 왜 신경 쓰는 거지?"
 #. REC: INFO:NAM1
 msgctxt "000472"
 msgid "You seem all right to me."
-msgstr "내가 보기엔 괜찮은 사람 같은데."
+msgstr "내가 보기엔 너 꽤 괜찮아 보이는데."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35380,7 +35386,7 @@ msgstr "이름은 써니야. 썬이가 아니고. 여기 농장을 운영하지.
 #. REC: INFO:NAM1
 msgctxt "000476"
 msgid "Sweet. There aren't enough of us in this place."
-msgstr "좋네. 이곳엔 우리 같은 사람이 부족하거든."
+msgstr "좋네. 이런 곳엔 우리 같은 인간이 부족하거든."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35412,7 +35418,7 @@ msgstr "우선 술 취한 예이츠를 깨우고, 감옥에서 꺼내야 해."
 #. REC: INFO:NAM1
 msgctxt "000478"
 msgid "Yeah? So you're a nerd, got it. Nice to meet you, nerd."
-msgstr "그래? 그럼 너 괴짜구나, 알겠어. 만나서 반가워, 괴짜."
+msgstr "그래? 넌 괴짜인가 보구나. 알겠어. 만나서 반가워. 괴짜야."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35430,7 +35436,7 @@ msgstr "그래? 그럼 너 괴짜구나, 알겠어. 만나서 반가워, 괴짜.
 #. REC: INFO:NAM1
 msgctxt "000479"
 msgid "Hello. My name is <Alias=Player>."
-msgstr "안녕하세요. 제 이름은 <Alias=Player>입니다."
+msgstr "안녕. 내 이름은 <Alias=Player>인데..."
 
 #. List: 2
 #. EDID: [0102175D]
@@ -35454,7 +35460,7 @@ msgstr "만나서 반가워. 맙소사, 너 어느 세기 사람이야?"
 #. REC: INFO:NAM1
 msgctxt "00047B"
 msgid "Ugh, again with the politeness. You some kind of dork? Well your royal dorkness, it's a displeasure to make your acquaintance."
-msgstr "으, 또 예의 차리네. 너 무슨 찌질이냐? 그럼 왕실 찌질이 전하, 만나서 불쾌합니다."
+msgstr "으, 또 예의 차리네. 이 짜식이? 그럼 나도 예의 차려야지. 왕실 짜식이 전하, 만나서 불쾌하기 짝이 없습니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35508,7 +35514,7 @@ msgstr "왜 당신 대신 나죠?"
 #. REC: INFO:NAM1
 msgctxt "00047E"
 msgid "What's up with you?"
-msgstr "너 왜 그래?"
+msgstr "넌 어떻게 지내?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35544,7 +35550,7 @@ msgstr "아니, 내가 먼저 물었잖아."
 #. REC: INFO:NAM1
 msgctxt "000480"
 msgid "Not much. How are things going?"
-msgstr "별일 없어. 상황은 어때?"
+msgstr "별일 없어. 넌 어떻게 지내?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35561,14 +35567,14 @@ msgstr "별일 없어. 상황은 어때?"
 #. REC: INFO:NAM1
 msgctxt "000481"
 msgid "Jeez, what century are you from?"
-msgstr "맙소사, 너 어느 세기 사람이야?"
+msgstr "맙소사, 너 어느 시대 인간이야?"
 
 #. List: 2
 #. EDID: [01021600]
 #. REC: INFO:NAM1
 msgctxt "000482"
 msgid "\"Hello. My name is bleagh.\""
-msgstr "안녕하세요. 제 이름은 웩."
+msgstr "\"안녕하세요. 제 이름은 우웩입니다.\""
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35586,7 +35592,7 @@ msgstr "안녕하세요. 제 이름은 웩."
 #. REC: INFO:NAM1
 msgctxt "000483"
 msgid "Yes, yes... I am picking up what you are putting down."
-msgstr "그래, 그래... 네가 무슨 말을 하는지 알겠어."
+msgstr "그래, 그래... 무슨 말을 하고 싶은지 잘 알겠어."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35603,7 +35609,7 @@ msgstr "그래, 그래... 네가 무슨 말을 하는지 알겠어."
 #. REC: INFO:NAM1
 msgctxt "000484"
 msgid "Never mind. You win. Turns out, I don't know how to play. "
-msgstr "그만둘래. 네가 이겼어. 알고 보니 난 이 게임을 할 줄 모르네."
+msgstr "그만둘래. 네가 이겼어. 알고 보니 난 이 게임을 할 줄 모르네. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35636,7 +35642,7 @@ msgstr "..."
 #. REC: INFO:NAM1
 msgctxt "000486"
 msgid "So it's the silent treatment, huh. Well, two can play that game."
-msgstr "그래서 침묵 작전이라 이거지. 좋아, 둘이서도 할 수 있는 게임이야."
+msgstr "그래, 침묵 작전이라 이거지. 좋아, 둘이서도 할 수 있는 게임이지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -35654,7 +35660,7 @@ msgstr "그래서 침묵 작전이라 이거지. 좋아, 둘이서도 할 수 �
 #. REC: INFO:NAM1
 msgctxt "000487"
 msgid "Ah, you know. Another weirdo in the camp. Lucky me."
-msgstr "아, 알잖아. 캠프에 또 괴짜 하나. 운도 좋지."
+msgstr "아, 알잖아. 캠프에 또 괴짜 하나 추가. 참 운도 좋지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38318,7 +38324,7 @@ msgstr "미안하지만, 자세히 밝힐 순 없습니다."
 #. REC: INFO:NAM1
 msgctxt "000529"
 msgid "People believe in crazier things."
-msgstr "사람들은 더 이상한 것도 믿어."
+msgstr "사람들은 더 이상한 것도 믿던데요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38402,7 +38408,7 @@ msgstr "빅 할 말입니까? "
 #. REC: INFO:NAM1
 msgctxt "00052E"
 msgid "Hold up stranger. This outpost belongs to the citizens of New Babylon. State your business, or kindly leave."
-msgstr "멈추시죠. 외지인 분. 이 전초기지는 뉴바빌론 주민들의 정착지입니다. 용건을 밝히시거나, 정중히 떠나주십쇼."
+msgstr "멈추시죠. 이방인 분. 이 전초기지는 뉴바빌론 주민들의 정착지입니다. 용건을 밝히시거나, 정중히 떠나주십쇼."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38509,7 +38515,7 @@ msgstr "예? 그 범인이 어떻게 생겼는지 말씀해 주시겠습니까?"
 #. REC: INFO:NAM1
 msgctxt "000534"
 msgid "A tenet I once preached, dutifully. But my time here has eroded my faith."
-msgstr "한때 충실히 설교했던 교리야. 하지만 이곳에서 보낸 시간이 내 믿음을 갉아먹었어."
+msgstr "한때 충실히 전도했던 교리지. 하지만 이곳에서 시간을 보내면서 내 믿음이 깎여나가 버렸다네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38597,7 +38603,7 @@ msgstr "위험한 범죄자를 찾고 있습니다."
 #. REC: INFO:NAM1
 msgctxt "000539"
 msgid "As someone who preached for the Sanctum, believe me, I know my hypocrisy is blatant. Perhaps I need to reconsider."
-msgstr "우주의 성소에서 설교했던 사람으로서 말하는데, 내 위선이 노골적이라는 건 나도 알아. 다시 생각해 봐야 할지도 모르겠군."
+msgstr "우주의 성소를 위해 전도했던 사람으로서 말하는데, 내 위선이 노골적이라는 건 나도 아네. 다시 생각해 봐야 할지도 모르겠군."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38682,7 +38688,7 @@ msgstr "그리고 이곳을 신정이나 교리에서 벗어난 주민 센터로
 #. REC: INFO:NAM1
 msgctxt "00053E"
 msgid "During my time here, I've thought a lot about what I want to preach. "
-msgstr "여기 있는 동안 내가 무엇을 설교하고 싶은지 많이 생각해 봤어. "
+msgstr "여기 있는 동안 내가 무엇을 전도하고 싶은지 많이 생각해 봤네. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38786,7 +38792,7 @@ msgstr "왜 나한테 묻는 거야?"
 #. REC: INFO:NAM1
 msgctxt "000544"
 msgid "Ah yes, you are the miracle worker, after all."
-msgstr "아, 맞아. 너는 기적을 일으킨 사람이니까."
+msgstr "아, 맞군. 자네는 기적을 일으키는 사람이었지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38836,7 +38842,7 @@ msgstr "이곳에서 그 말씀을 전하는 것이 맞을까요?"
 #. REC: INFO:NAM1
 msgctxt "000547"
 msgid "He has been there the whole time, guiding me to you."
-msgstr "그분은 내내 거기에 계시며, 나를 너에게로 인도하셨어."
+msgstr "그분은 내내 거기에 계시며, 저를 당신 앞으로 인도하셨습니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38887,7 +38893,7 @@ msgstr "지금은 말할 때가 아닌 것 같군. 먼저 작업을 끝내줘."
 #. REC: INFO:NAM1
 msgctxt "00054A"
 msgid "All things are possible with faith."
-msgstr "믿음이 있으면 모든 것이 가능하지."
+msgstr "믿음이 있으면 모든 것이 가능해요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38905,7 +38911,7 @@ msgstr "믿음이 있으면 모든 것이 가능하지."
 #. REC: INFO:NAM1
 msgctxt "00054B"
 msgid "I once believed in the plan. I'm not sure I do anymore."
-msgstr "한때는 그 계획을 믿었어. 지금도 그런지는 모르겠군."
+msgstr "나도 한때는 그 계획을 믿었네. 지금도 그런지는 모르겠네만."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38923,7 +38929,7 @@ msgstr "한때는 그 계획을 믿었어. 지금도 그런지는 모르겠군."
 #. REC: INFO:NAM1
 msgctxt "00054C"
 msgid "Put your trust in a divine creator and you will never be lost. Know that it is all part of his plan."
-msgstr "신성한 창조주를 믿으면 결코 길을 잃지 않을 거야. 모든 것이 그분의 계획 일부임을 알아 둬."
+msgstr "신성한 창조주를 믿으면 결코 길을 잃지 않을 겁니다. 모든 것이 그분의 계획의 일부임을 명심하십시오."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38940,7 +38946,7 @@ msgstr "신성한 창조주를 믿으면 결코 길을 잃지 않을 거야. 모
 #. REC: INFO:NAM1
 msgctxt "00054D"
 msgid "To teach the Serpent's Path is to bring salvation to the people."
-msgstr "뱀의 길을 가르치는 것은 사람들에게 구원을 가져오는 일이다."
+msgstr "뱀의 길을 가르치는 것이야말로 사람들에게 구원을 가져다주는 일입니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38958,7 +38964,7 @@ msgstr "뱀의 길을 가르치는 것은 사람들에게 구원을 가져오는
 #. REC: INFO:NAM1
 msgctxt "00054E"
 msgid "So it's a \"fire and brimstone\" type god. Perhaps that's what I need to get my passion back for the craft."
-msgstr "그러니까 \"불과 유황\"식의 신이군. 어쩌면 내가 설교에 대한 열정을 되찾는 데 필요한 게 그건지도 모르겠어."
+msgstr "그러니까 '지옥의 업화'같은 유형의 신이로군. 어쩌면 내가 설교에 대한 열정을 되찾는 데 필요한 게 그런 걸지도 모르겠네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38976,7 +38982,7 @@ msgstr "그러니까 \"불과 유황\"식의 신이군. 어쩌면 내가 설교�
 #. REC: INFO:NAM1
 msgctxt "00054F"
 msgid "You don't have to preach anything. Religion, atheism, or otherwise."
-msgstr "아무것도 설교하지 않아도 돼. 종교든, 무신론이든, 그 밖의 무엇이든."
+msgstr "아무것도 전도하지 않아도 됩니다. 종교든, 무신론이든, 그 밖의 무엇이든요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -38994,7 +39000,7 @@ msgstr "아무것도 설교하지 않아도 돼. 종교든, 무신론이든, 그
 #. REC: INFO:NAM1
 msgctxt "000550"
 msgid "Mark my words, you will not mock the Great Serpent when the Shrouding comes."
-msgstr "내 말을 명심해. 장막의 날이 오면 위대한 뱀을 조롱하지 못할 거야."
+msgstr "제 말을 명심하십시오. 장막의 날이 오면 감히 위대한 뱀 님을 조롱하지 못할 겁니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39012,7 +39018,7 @@ msgstr "내 말을 명심해. 장막의 날이 오면 위대한 뱀을 조롱하
 #. REC: INFO:NAM1
 msgctxt "000551"
 msgid "Why not start a new religion?"
-msgstr "새 종교를 시작해 보는 건 어때?"
+msgstr "새 종교를 창시해 보는 건 어때요?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39029,7 +39035,7 @@ msgstr "새 종교를 시작해 보는 건 어때?"
 #. REC: INFO:NAM1
 msgctxt "000552"
 msgid "Just listen to people. Hold community gatherings."
-msgstr "그냥 사람들 말을 들어. 공동체 모임을 열고."
+msgstr "그냥 사람들 말을 들어주세요. 공동체 모임을 열고요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39064,7 +39070,7 @@ msgstr "뱀 신? 설마 농담이겠지."
 #. REC: INFO:NAM1
 msgctxt "000554"
 msgid "Still, I shouldn't be quick to mock something the way others have mocked me."
-msgstr "그래도 남들이 나를 조롱했던 것처럼 나도 성급히 조롱해서는 안 되겠지."
+msgstr "그래도 남들이 나를 조롱했던 것처럼 내가 성급히 남을 조롱해서는 안 되겠지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39081,7 +39087,7 @@ msgstr "그래도 남들이 나를 조롱했던 것처럼 나도 성급히 조�
 #. REC: INFO:NAM1
 msgctxt "000555"
 msgid "Well, its worshipers certainly convey a seriousness, even if the premise is laughable. "
-msgstr "뭐, 전제는 우스꽝스럽더라도 그 신도들이 진지함을 전하는 건 분명해. "
+msgstr "뭐, 전제는 우스꽝스럽긴 해도 신도들이 진지한 태도를 보이는 것만큼은 분명한가 보군. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39099,7 +39105,7 @@ msgstr "뭐, 전제는 우스꽝스럽더라도 그 신도들이 진지함을 �
 #. REC: INFO:NAM1
 msgctxt "000556"
 msgid "I would never joke about such things."
-msgstr "그런 일로는 절대 농담하지 않아."
+msgstr "전 그런 농담은 절대 하지 않습니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39117,7 +39123,7 @@ msgstr "그런 일로는 절대 농담하지 않아."
 #. REC: INFO:NAM1
 msgctxt "000557"
 msgid "Just focus on living. It's all we have."
-msgstr "그냥 사는 데 집중해. 우리에게 있는 건 그게 전부야."
+msgstr "그저 살아가는 데만 집중하세요. 그게 우리에게 주어진 전부니까요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39151,7 +39157,8 @@ msgstr "가끔 기적은 그저 사람들이 각자 할 일을 할 때 일어나
 #. REC: INFO:NAM1
 msgctxt "000559"
 msgid "I know many multi-level marketing schemes that would say the same. But on the other hand, He did bring you to me."
-msgstr "그런 말을 하는 다단계 판매 사기는 많이 알아. 하지만 한편으로는, 그분이 너를 내게 데려오셨지."
+msgstr ""
+"똑같은 개소리를 하는 다단계 사기 수법이라면 꽤 많이 알고 있다네. 하지만 한편으로는, 그분께서 자네를 내게로 인도하신 것도 사실이군."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39168,7 +39175,7 @@ msgstr "그런 말을 하는 다단계 판매 사기는 많이 알아. 하지만
 #. REC: INFO:NAM1
 msgctxt "00055A"
 msgid "God reveals himself to those who seek Him. If you keep the faith, you have nothing to fear."
-msgstr "신은 자신을 찾는 자들에게 모습을 드러내신다. 믿음을 지키면 두려울 게 없어."
+msgstr "신께서는 자신을 찾는 이들에게 스스로를 드러내십니다. 믿음을 지킨다면, 두려워할 것은 아무것도 없습니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39186,7 +39193,7 @@ msgstr "신은 자신을 찾는 자들에게 모습을 드러내신다. 믿음�
 #. REC: INFO:NAM1
 msgctxt "00055B"
 msgid "Right, or the snake will eat us all. To be fair, it is very similar to many creation myths."
-msgstr "맞아, 아니면 뱀이 우리 모두를 잡아먹겠지. 공평하게 말하자면, 여러 창조 신화와 꽤 비슷하긴 해."
+msgstr "그런가, 아니면 뱀이 우리 모두를 잡아먹겠지. 솔직히 말해서, 그런 건 여러 창조 신화와 꽤 비슷하지 않나."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39204,7 +39211,7 @@ msgstr "맞아, 아니면 뱀이 우리 모두를 잡아먹겠지. 공평하게 
 #. REC: INFO:NAM1
 msgctxt "00055C"
 msgid "You don't have to do it alone. Make it democratic."
-msgstr "혼자 할 필요 없어. 민주적으로 해."
+msgstr "혼자서 다 감당할 필요는 없어요. 민주적으로 결정하시죠."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39222,7 +39229,7 @@ msgstr "혼자 할 필요 없어. 민주적으로 해."
 #. REC: INFO:NAM1
 msgctxt "00055D"
 msgid "House Va'ruun worships the Great Serpent."
-msgstr "바룬 가문은 위대한 뱀을 숭배해."
+msgstr "바룬 가문은 위대한 뱀을 숭배하더군요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39240,7 +39247,7 @@ msgstr "바룬 가문은 위대한 뱀을 숭배해."
 #. REC: INFO:NAM1
 msgctxt "00055E"
 msgid "That would require a messiah. And my friend, I am hardly messiah material."
-msgstr "그러려면 메시아가 필요하지. 그리고 친구여, 나는 메시아감과는 거리가 멀어."
+msgstr "그런 건 구세주나 되어야 할 수 있는 일이라네. 친구여, 나는 구세주와는 거리가 많이 멀다네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39258,7 +39265,7 @@ msgstr "그러려면 메시아가 필요하지. 그리고 친구여, 나는 메�
 #. REC: INFO:NAM1
 msgctxt "00055F"
 msgid "I see. \"It takes a village\", as they say."
-msgstr "그렇군. 흔히 말하듯, \"한 아이를 키우려면 온 마을이 필요하다\"는 거로군."
+msgstr "그렇군. '한 아이를 키우려면 온 마을이 필요하다'는 옛말도 있으니까."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39276,7 +39283,7 @@ msgstr "그렇군. 흔히 말하듯, \"한 아이를 키우려면 온 마을이 
 #. REC: INFO:NAM1
 msgctxt "000560"
 msgid "You speak true. We must learn from the mistakes of the past."
-msgstr "맞는 말이야. 우리는 과거의 실수에서 배워야 해."
+msgstr "맞는 말일세. 우리는 과거의 실수에서 배워야 하네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39310,7 +39317,7 @@ msgstr "예, 예, 예. 그러시겠죠. 예이츠, 지금 살얼음판 위에 �
 #. REC: INFO:NAM1
 msgctxt "000562"
 msgid "I don't know, I just know the religions of the Settled Systems have brought nothing good."
-msgstr "모르겠어. 개척 성계의 종교들이 좋은 걸 가져온 적이 없다는 것만 알아."
+msgstr "모르겠네요. 개척 성계의 종교들이 좋은 결과를 가져온 적이 없다는 것만 알겠어요."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39328,7 +39335,7 @@ msgstr "모르겠어. 개척 성계의 종교들이 좋은 걸 가져온 적이 
 #. REC: INFO:NAM1
 msgctxt "000563"
 msgid "And what authority do I have as a man who believes in nothing?"
-msgstr "그리고 아무것도 믿지 않는 사람인 내게 무슨 권위가 있겠어?"
+msgstr "그렇게 내가 아무것도 믿지 않는 자가 된다면 무슨 자격이 생기겠나?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39346,7 +39353,7 @@ msgstr "그리고 아무것도 믿지 않는 사람인 내게 무슨 권위가 �
 #. REC: INFO:NAM1
 msgctxt "000564"
 msgid "Fair point. \"No one is as deaf as the man who will not listen.\""
-msgstr "일리 있군. \"들으려 하지 않는 사람만큼 귀먹은 이는 없다.\""
+msgstr "일리 있군. \"들으려 하지 않는 사람만큼 귀머거리는 없다.\""
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39380,7 +39387,7 @@ msgstr "캐스피언은 워낙 덤벙대잖아요. 어쩌면 그냥 혼자 넘�
 #. REC: INFO:NAM1
 msgctxt "000566"
 msgid "I do know His message, well enough to preach it."
-msgstr "그분의 메시지는 설교할 만큼 충분히 알고 있어."
+msgstr "그분의 메시지는 전도할 만큼 충분히 알고 있다네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39416,7 +39423,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "000568"
 msgid "You could preach for the Sanctum Universum."
-msgstr "우주의 성소를 위해 설교할 수도 있어."
+msgstr "우주의 성소를 위해 전도할 수도 있겠죠."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39646,7 +39653,7 @@ msgstr "써니 킴 씨가 물자를 훔쳤고, 그레이스 씨가 물자를 찾
 #. REC: INFO:NAM1
 msgctxt "000577"
 msgid "Rare is a name that's chosen. Most of us are given names and become accustomed to their fit."
-msgstr "이름을 직접 고르는 경우는 드물지. 우리 대부분은 이름을 받고, 그 이름이 맞는 데 익숙해져."
+msgstr "이름을 직접 고르는 경우는 드물지. 우리 대부분은 남에게 이름을 받고, 그 이름에 익숙해지기 위해 노력하며 살지 않나."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39664,7 +39671,7 @@ msgstr "이름을 직접 고르는 경우는 드물지. 우리 대부분은 이�
 #. REC: INFO:NAM1
 msgctxt "000578"
 msgid "Do you even like your nickname?"
-msgstr "네 별명이 마음에 들긴 해?"
+msgstr "당신 별명이 마음에 드시나요?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39682,7 +39689,7 @@ msgstr "네 별명이 마음에 들긴 해?"
 #. REC: INFO:NAM1
 msgctxt "000579"
 msgid "I'd like to know it regardless."
-msgstr "그래도 알고 싶어."
+msgstr "그래도 알고 싶습니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39699,7 +39706,7 @@ msgstr "그래도 알고 싶어."
 #. REC: INFO:NAM1
 msgctxt "00057A"
 msgid "So would I. But I seem to have misplaced it. I'm \"Yeats\" now."
-msgstr "나도 그래. 하지만 어디다 잃어버린 것 같군. 지금은 \"예이츠\"야."
+msgstr "나도 알고 싶네. 하지만 어디선가 잃어버린 것 같군. 지금은 그냥 '예이츠'일 뿐이네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39827,7 +39834,7 @@ msgstr "알겠다. 작업 목록을 준비해 뒀다."
 #. REC: INFO:NAM1
 msgctxt "0005AA"
 msgid "And what would you recommend? I owe you my life, and my faith, so it's only right that you choose."
-msgstr "그럼 너는 뭘 추천하겠어? 내 목숨과 믿음을 네게 빚졌으니, 네가 선택하는 게 맞겠지."
+msgstr "그럼 자네는 뭘 추천하겠나? 내 목숨과 믿음을 자네에게 빚졌으니, 자네가 선택하는 게 좋을 거 같네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39845,7 +39852,7 @@ msgstr "그럼 너는 뭘 추천하겠어? 내 목숨과 믿음을 네게 빚졌
 #. REC: INFO:NAM1
 msgctxt "0005AB"
 msgid "No, I think you should preach something else."
-msgstr "아니, 다른 걸 설교해야 한다고 생각해."
+msgstr "아뇨, 다른 걸 전도해야 한다고 생각합니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -39861,7 +39868,7 @@ msgstr "아니, 다른 걸 설교해야 한다고 생각해."
 #. REC: INFO:NAM1
 msgctxt "0005AC"
 msgid "Hm. I will ruminate on this discussion. You have given me much to ponder."
-msgstr "흠. 이 대화를 곱씹어 보겠어. 생각할 거리를 많이 주었군."
+msgstr "흠. 이 대화를 곱씹어 보겠네. 생각할 거리를 참 많이 주었구먼."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -40062,7 +40069,7 @@ msgstr "네가 본 사건의 경위만으로 충분해."
 #. REC: INFO:NAM1
 msgctxt "0005B9"
 msgid "Good work. With Yeats free and preaching again, that just leaves the robot. Let me know when you're finished with that."
-msgstr "수고했어. 예이츠도 풀려났고 설교도 다시 시작되었으니, 이제 로봇 일만 남았군. 그 일까지 다 끝나면 나에게 알려줘."
+msgstr "수고했어. 예이츠도 풀려났고 전도도 다시 시작되었으니, 이제 로봇 일만 남았군. 그 일까지 다 끝나면 나에게 알려줘."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -40452,7 +40459,7 @@ msgstr "알겠다."
 #. REC: INFO:NAM1
 msgctxt "00060A"
 msgid "*Scoffs* Outsiders will not know the pain that man has caused. "
-msgstr "*코웃음* 외지인들은 그 남자가 일으킨 고통을 모를 거야. "
+msgstr "*코웃음* 외부인들은 그 남자가 일으킨 고통을 모를 거야. "
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -40770,7 +40777,7 @@ msgstr "전초기지 주민들이 제나 씨의 후임으로 나를 뽑았어. �
 #. REC: INFO:NAM1
 msgctxt "000620"
 msgid "But where was \"He\" when I was made to suffer for a crime I didn't commit?"
-msgstr "하지만 내가 저지르지도 않은 죄로 고통받아야 했을 때 \"그분\"은 어디 계셨지?"
+msgstr "내가 저지르지도 않은 죄로 고통받아야 했을 때 '그분'은 어디에 계셨지?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -42455,7 +42462,7 @@ msgstr "당연하지. 할은 우리 중 한 명이고, 난 그가 자유인이�
 #. REC: INFO:NAM1
 msgctxt "000683"
 msgid "Oh come on, are we really going to let this outsider tell us how to vote?"
-msgstr "아, 제발. 정말 이 외지인이 우리에게 어떻게 투표하라고 하게 둘 거야?"
+msgstr "아, 제발. 정말 이 외부인이 우리에게 어떻게 투표하라고 하게 둘 거야?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -44404,7 +44411,7 @@ msgstr "이곳에 정착한 뒤로 힘든 시기도 있었지만, 이런 일은 
 #. REC: INFO:NAM1
 msgctxt "0006FD"
 msgid "You're right. I didn't realize it at the time, but this must be why Hal wanted Yeats to preach again."
-msgstr "네 말이 맞아. 당시엔 몰랐지만, 할이 예이츠에게 다시 설교해 달라고 한 이유가 바로 이거였겠지."
+msgstr "네 말이 맞아. 당시엔 몰랐지만, 할이 예이츠에게 다시 전도해 달라고 한 이유가 바로 이거였겠지."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -45782,7 +45789,7 @@ msgstr "나를 지루해 죽이려는 거야?"
 #. REC: INFO:NAM1
 msgctxt "000751"
 msgid "You trying to bore me to death, dork?"
-msgstr "나를 지루해 죽이려는 거야, 멍청아?"
+msgstr "시시해서 죽고 싶게 만들려는 거냐? 짜식아?"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -46924,7 +46931,9 @@ msgstr "돌아온 걸 환영해."
 #. REC: INFO:NAM1
 msgctxt "0007D0"
 msgid "Bertrand Russell had it right. There are two kinds of morality. The one we preach but seldom practice, and the one we practice but seldom preach."
-msgstr "버트런드 러셀의 말이 맞았다. 도덕에는 두 종류가 있다. 우리가 설교하지만 좀처럼 실천하지 않는 도덕, 그리고 우리가 실천하지만 좀처럼 설교하지 않는 도덕."
+msgstr ""
+"버트런드 러셀의 말이 맞았다. 도덕에는 두 종류가 있다. 우리가 전파하지만 좀처럼 실천하지 않는 도덕, 그리고 우리가 실천하지만 좀처럼 "
+"전파하지 않는 도덕."
 
 #. List: 2
 #. QuestName = SFFL_MS01_MiscDialogue
@@ -48788,7 +48797,7 @@ msgstr ""
 #. REC: INFO:NAM1
 msgctxt "000849"
 msgid "These days I don't preach much. I mostly just cry. Like a baby."
-msgstr "요즘은 별로 설교를 안 해. 대부분 그냥 울어. 아기처럼."
+msgstr "요즘은 별로 전도를 안 한다네. 대부분 그냥 울고 자빠졌다네. 애새끼처럼."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -50724,7 +50733,7 @@ msgstr "할에게 축하 인사를 하거나 천막으로 돌아가도 됩니다
 #. REC: INFO:NAM1
 msgctxt "0008D2"
 msgid "It is the oath I took as a preacher."
-msgstr "그것이 제가 설교자로서 한 맹세입니다."
+msgstr "그것이 제가 전도사로서 한 맹세입니다."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -59030,7 +59039,7 @@ msgstr "유라는 돈도 없을 텐데 왜 사람을 보냈을까?"
 #. REC: INFO:NAM1
 msgctxt "000BF2"
 msgid "All right, plan B I guess. You want Milli? Do me a favor, and she's all yours."
-msgstr "좋아, 그럼 플랜 B인가 보네. 밀리를 원해? 부탁 하나만 들어주면, 밀리를 줄게."
+msgstr "좋아, 그럼 B번 계획인가 보네. 밀리를 원해? 부탁 하나만 들어주면, 밀리를 줄게."
 
 #. List: 2
 #. QuestName = SFFL_MS03
@@ -73831,7 +73840,7 @@ msgstr "내가 밀리를 넘기면... 넌 유라에게 내 얘기를 좋게 해�
 #. REC: INFO:NAM1
 msgctxt "00129A"
 msgid "[Attack] Plan C. I'm taking Milli."
-msgstr "[공격] 플랜 C. 밀리는 내가 데려간다."
+msgstr "[공격] C번 계획. 밀리는 내가 데려간다."
 
 #. List: 2
 #. QuestName = SFFL_MS03
@@ -73998,7 +74007,7 @@ msgstr "이건 네 잘못이 아니야. 내 잘못이지."
 #. REC: INFO:NAM1
 msgctxt "0012A4"
 msgid "But now I've lost that chance. So, plan B. I give you Milli, you put in a good word for me with Yura."
-msgstr "하지만 이제 그 기회를 놓쳤어. 그래서 플랜 B로 갈 거야. 내가 밀리를 주면, 넌 유라에게 좋게 내 얘기를 해줘."
+msgstr "하지만 이제 그 기회를 놓쳤어. 그래서 B번 계획으로 갈 거야. 내가 밀리를 주면, 넌 유라에게 좋게 내 얘기를 해줘."
 
 #. List: 2
 #. QuestName = SFFL_MS03
@@ -79128,7 +79137,7 @@ msgstr "도움이 될진 모르겠지만, 저도 동의해요. 당신에게는 �
 #. REC: INFO:NAM1
 msgctxt "0013E7"
 msgid "Pretty foolproof plan if you ask me."
-msgstr "제가 보기엔 꽤 빈틈없는 계획이네요."
+msgstr "꽤 빈틈없는 계획이네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -79267,7 +79276,7 @@ msgstr "처형."
 #. REC: INFO:NAM1
 msgctxt "0013EF"
 msgid "Nah, I think I just like being one. Cool thought though."
-msgstr "아니, 그냥 내가 그런 존재인 게 좋은 것 같아. 멋진 생각이긴 하네."
+msgstr "아니, 난 그냥 이렇게 사는 게 즐거운 것뿐이야. 그래도 나름 멋진 해석이긴 하네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -88487,7 +88496,7 @@ msgstr "알았어, 알았어. 생판 모르는 사람한테 이런 걸 떠넘기
 #. REC: INFO:NAM1
 msgctxt "0016EF"
 msgid "How about plan B? No more credits, just a simple favor, and Milli is all yours."
-msgstr "플랜 B는 어때? 크레딧은 더 없고, 간단한 부탁 하나만 들어주면 밀리는 네가 데려가도 돼."
+msgstr "B번 계획은 어때? 크레딧은 더 없고, 간단한 부탁 하나만 들어주면 밀리는 네가 데려가도 돼."
 
 #. List: 2
 #. QuestName = SFFL_MS03
@@ -96009,7 +96018,7 @@ msgstr "신성한 기분이야."
 #. REC: INFO:NAM1
 msgctxt "0018D0"
 msgid "Yes! Do it! Break down that wall!"
-msgstr "좋아! 해! 그 벽을 부숴!"
+msgstr "좋아! 저질러! 벽을 부숴버려!"
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -96218,7 +96227,7 @@ msgstr "말해 주지 않을 거야. 기다려 봐."
 #. REC: INFO:NAM1
 msgctxt "0018DC"
 msgid "I'm sure it's how you cope."
-msgstr "그게 네가 견디는 방식이겠지."
+msgstr "그게 네가 삶을 견디는 방식인가 보네."
 
 #. List: 2
 #. QuestName = SFFL_MS01_Quest
@@ -106961,7 +106970,7 @@ msgstr "유라가 날 임시 집사로 고용했어. 유라는 납치에 대해 
 #. REC: INFO:NAM1
 msgctxt "001CE3"
 msgid "[Attack] Plan C. I'll put you out of your misery."
-msgstr "[공격] 플랜 C다. 내가 널 고통에서 해방해 주지."
+msgstr "[공격] C번 계획이다. 내가 널 고통에서 해방해 주지."
 
 #. List: 2
 #. QuestName = SFFL_MS03
@@ -129556,7 +129565,7 @@ msgstr "[사막]"
 #. REC: INFO:NAM1
 msgctxt "0025CA"
 msgid "I'd like to know more about your job."
-msgstr "네 일에 대해 더 알고 싶어."
+msgstr "네가 하는 일에 대해 더 알고 싶어."
 
 #. List: 2
 #. QuestName = SFFL_DialogueAnchorpoint
@@ -131637,7 +131646,7 @@ msgstr "지구. 강령술사의 꿈 같은 곳이지."
 #. REC: INFO:NAM1
 msgctxt "01B77C"
 msgid "There's a community center here with some real preachy types. They say the sermons are free but they cost your sanity."
-msgstr "여기 주민 센터에 사사건건 설교하려 드는 인간이 있어요. 설교는 공짜라는데, 듣다 보면 정신이 나가버릴 지경이죠."
+msgstr "여기 주민 센터에 사사건건 전도하려 드는 인간이 있어요. 설교는 공짜라는데, 듣다 보면 정신이 나가버릴 지경이죠."
 
 #. List: 2
 #. QuestName = SFBGS038_CREW_EliteCrew_Muria

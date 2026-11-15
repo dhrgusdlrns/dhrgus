@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-11-02 13:49+0000\n"
+"PO-Revision-Date: 2026-11-16 12:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -9639,7 +9639,7 @@ msgstr "난 결국 다들 상황에 맞게 대처할 것이라고 믿어."
 #. SUBTYPE: Custom
 msgctxt "014802"
 msgid "Joking aside, It was quite admirable how you were able to go from a virtual stranger to the council's most trusted confidant in such a short time."
-msgstr "농담은 제쳐두고, 네가 사실상 외부인이었는데 그렇게 단기간에 대의회의 가장 신뢰받는 심복이 되다니 정말 대단해."
+msgstr "농담은 제쳐두고, 사실상 이방인이었던 네가 그렇게 단기간에 대의회의 가장 신뢰받는 심복이 되다니 정말 대단해."
 
 #. SCRIPT NOTES: Disbelief
 #. VOICE TYPE: NPCFAndreja
@@ -11036,7 +11036,7 @@ msgstr "그들은 약속받은 자로서의 내 판단에 흔들림이 없다는
 #. SUBTYPE: Custom
 msgctxt "01479A"
 msgid "Be that as it may, you were still began your journey as an outsider."
-msgstr "그렇다고는 해도, 넌 이방인으로서 여정의 길에 올랐잖아."
+msgstr "그렇다고는 해도, 넌 외부인으로서 여정의 길에 올랐잖아."
 
 #. PROMPT: As one of the Promised, they knew my judgment was uncompromised.
 #. ALIAS: Player Default
@@ -12159,7 +12159,9 @@ msgstr "전략적 움직임으로는 통하지만, 우리는 바룬 가문과 �
 #. SUBTYPE: Custom
 msgctxt "01474E"
 msgid "Still, given their intentions, I understand why you made that decision. I only hope it doesn't sow even more bitterness toward outsiders."
-msgstr "그럼에도 불구하고 그들의 의도를 고려할 때, 네가 왜 그런 결정을 내렸는지 이해해. 그저 이방인에 대한 더 큰 반감을 불러일으키지 않기를 바랄 뿐이야."
+msgstr ""
+"그럼에도 불구하고 그들의 의도를 고려할 때, 네가 왜 그런 결정을 내렸는지 이해해. 그저 외부인에 대한 더 큰 반감을 불러일으키지 않기를 "
+"바랄 뿐이야."
 
 #. SCRIPT NOTES: Player
 #. DIALOGUE BEFORE: SarahMorgan: I want to say thank you for everything you did in Dazra.|As members of Constellation, it's our job to explore distant worlds, but it's sometimes unclear what responsibilities we hold beyond that.|You saw a city in need, and made the difficult decision to intercede, rather than observe. For that... you should be commended.
@@ -20179,7 +20181,7 @@ msgstr "카딕 가문에 대해 어떻게 생각해?"
 #. SUBTYPE: Custom
 msgctxt "01443E"
 msgid "Hey, after what you did, they should be rolling out the red carpet for any and all outsiders."
-msgstr "이봐, 네가 한 짓을 생각하면, 그들이 모든 이방인들에게 레드 카펫을 깔아 줘야 마땅하지."
+msgstr "이봐, 네가 한 짓을 생각하면, 그들이 모든 외부인들에게 레드 카펫을 깔아 줘야 마땅하지."
 
 #. PROMPT: House Ka'dic's openness with outsiders will benefit Dazra.
 #. ALIAS: Player Default
@@ -20427,7 +20429,7 @@ msgstr "상처가 진정으로 치유되려면 훨씬 더 오랜 시간이 걸�
 #. SUBTYPE: Custom
 msgctxt "01442B"
 msgid "I'm an outsider. The fact they even gave me a vote is ridiculous."
-msgstr "난 이방인이야. 그들이 나에게 투표권을 줬다는 사실조차 우스워."
+msgstr "난 외부인이야. 그들이 나에게 투표권을 줬다는 사실조차 우스워."
 
 #. SCRIPT NOTES: Thinking / to Player Default
 #. PROMPT: I'm an outsider. The fact they even gave me a vote is ridiculous.
@@ -20443,7 +20445,7 @@ msgstr "난 이방인이야. 그들이 나에게 투표권을 줬다는 사실�
 #. SUBTYPE: Custom
 msgctxt "01442A"
 msgid "You've got a point. But when people are vying for a throne, sometimes an outsider's the only person who can be objective."
-msgstr "일리가 있네. 하지만 사람들이 왕좌를 놓고 경쟁할 때는, 때로는 이방인만이 객관적일 수 있는 유일한 사람이지."
+msgstr "일리가 있네. 하지만 사람들이 왕좌를 놓고 경쟁할 때는, 때로는 외부인만이 객관적일 수 있는 유일한 사람이지."
 
 #. DIALOGUE BEFORE: Barrett: Does the structure you're talking about include a barred door and no key?|Because that's what House Veth'aal likes to do.
 #. ALIAS: Barrett
@@ -25399,7 +25401,7 @@ msgstr "고향이 그립네."
 #. SUBTYPE: SharedInfo
 msgctxt "014257"
 msgid "Mind your business, off-worlder."
-msgstr "상관하지 마, 외부 세계인."
+msgstr "상관하지 마. 외지인."
 
 #. SCRIPT NOTES: Nervous
 #. VOICE TYPE: VaruunZealotMale02
@@ -43066,7 +43068,7 @@ msgstr "정말 안타깝군요."
 #. SUBTYPE: Custom
 msgctxt "013CCB"
 msgid "Thank you. Sympathy from a stranger is a rare gift among the people of House Va'ruun."
-msgstr "고맙네. 바룬 가문의 신민들 사이에서 이방인의 동정을 받는 건 흔치 않은 선물이니까."
+msgstr "고맙네. 바룬 가문의 신민들로 가득한 곳에서 이방인의 동정을 받는 건 흔치 않은 선물이니까."
 
 #. SCRIPT NOTES:  / to Player Default
 #. PROMPT: I'm truly sorry.
@@ -43561,7 +43563,7 @@ msgstr "만약 사람들이 떠난다면, 그들은 사회 구조를 위협하�
 #. SUBTYPE: BlockingHello
 msgctxt "013CA7"
 msgid "An outsider? Here?"
-msgstr "이방인이? 여기에?"
+msgstr "외부인이? 여기에?"
 
 #. SCRIPT NOTES: Surprised to see an outsider. A little taken aback.
 #. VOICE TYPE: SFBGS001_NPCMLucjanVolkar
@@ -50866,7 +50868,7 @@ msgstr "이럴 수는 없어!"
 #. SUBTYPE: BlockingHello
 msgctxt "013A43"
 msgid "An outsider? Here?"
-msgstr "이방인이? 여기에?"
+msgstr "외부인이? 여기에?"
 
 #. SCRIPT NOTES: Nodding with sympathy, friendly / Friendly / to Player Default
 #. PROMPT: There are days I feel lost, yes, but today I'm here with a package for you.
@@ -51085,7 +51087,7 @@ msgstr "베타알 가문이 권력을 잡게 된 것에 대해 어떻게 생각�
 #. SUBTYPE: Custom
 msgctxt "013A22"
 msgid "We do not need any more outsiders flooding our city, so I shudder to think of an end to our isolation."
-msgstr "더 이상 이방인들이 우리 도시에 몰려드는 건 필요 없으니, 고립이 끝난다는 건 생각만 해도 몸서리쳐지는군."
+msgstr "더 이상 외부인들이 우리 도시에 몰려드는 건 필요 없으니, 고립이 끝난다는 건 생각만 해도 몸서리쳐지는군."
 
 #. SCRIPT NOTES: Serious / to Player Default
 #. ALIAS: HVDazraMakolaJubav
@@ -54592,7 +54594,7 @@ msgstr "불복종은 용납할 수 없다."
 #. SUBTYPE: Hello
 msgctxt "013921"
 msgid "We will have to be vigilant if we are to open Dazra to outsiders."
-msgstr "다즈라를 이방인에게 개방하려면 우리 모두 경계해야 할 것이다."
+msgstr "다즈라를 외부인에게 개방하려면 우리 모두 경계해야 할 것이다."
 
 #. VOICE TYPE: SFBGS001_VaruunGuardMale02
 #. FACE: Neutral
@@ -55584,7 +55586,7 @@ msgstr "둘케프 가문이 영도력을 발휘하게 된 이후로 사업이 �
 #. SUBTYPE: Hello
 msgctxt "0138C8"
 msgid "I pray that House Kad'ic does not open our gates to outsiders."
-msgstr "카딕 가문이 이방인들에게 문을 열지 않기를 기도합니다."
+msgstr "카딕 가문이 외부인들에게 문을 열지 않기를 기도합니다."
 
 #. VOICE TYPE: SFBGS001_VaruunGenericMale02
 #. FACE: Neutral
@@ -55628,7 +55630,7 @@ msgstr "광신을 다즈라에서 환영해야 하는가?"
 #. SUBTYPE: Hello
 msgctxt "0138C4"
 msgid "What will Dazra look like a hundred years from now, if we open our gates to outsiders?"
-msgstr "우리가 이방인들에게 문을 연다면, 100년 후 다즈라는 어떤 모습일까?"
+msgstr "우리가 외부인들에게 문을 연다면, 100년 후 다즈라는 어떤 모습일까?"
 
 #. VOICE TYPE: SFBGS001_VaruunGenericMale02
 #. FACE: Neutral
@@ -55705,7 +55707,7 @@ msgstr "카딕 가문이 통치하면 다즈라는 예전과 같지 않을지도
 #. SUBTYPE: Hello
 msgctxt "0138BD"
 msgid "Softening the outsider policy could revitalize the city."
-msgstr "이방인 정책을 완화하면 도시가 활기를 되찾을 수 있어."
+msgstr "외부인 정책을 완화하면 도시가 활기를 되찾을 수 있어."
 
 #. VOICE TYPE: SFBGS001_VaruunGenericMale02
 #. FACE: Neutral
@@ -57542,7 +57544,7 @@ msgstr "뱀께서 그대를 인도하시길."
 #. SUBTYPE: Hello
 msgctxt "01381B"
 msgid "The outsiders will come to accept His embrace, just as you did."
-msgstr "이방인들도 그분의 포옹을 받아들일 겁니다. 당신이 그랬듯이."
+msgstr "외부인들도 그분의 포옹을 받아들일 겁니다. 당신이 그랬듯이."
 
 #. SCRIPT NOTES: Generic House Veth'aal greeting. Solemn, reverent. / Confident
 #. VOICE TYPE: SFBGS001_VaruunGenericMale01
@@ -62216,7 +62218,7 @@ msgstr "만약 당신이 우리에게 보내진 거라면, 도움을 주셨으�
 #. SUBTYPE: BlockingHello
 msgctxt "0136B1"
 msgid "An outsider here in Dazra. These really are strange days."
-msgstr "다즈라에 이방인이 오다니. 요즘 정말 이상한 날만 계속되네."
+msgstr "다즈라에 외부인이 오다니. 요즘 정말 이상한 날만 계속되네."
 
 #. SCRIPT NOTES: Thinking
 #. VOICE TYPE: SFBGS001_VaruunGenericMale05
@@ -65054,7 +65056,7 @@ msgstr "아니. 난 조부님께 접촉의 순간에 대한 이야기를 들었�
 msgctxt "0135B0"
 msgid "I have reached out so many times... to hear nothing but echoes. Yet you, an outsider, hear me plain. And for the first time, I hear you."
 msgstr ""
-"몇 번이고 손을 뻗어 보았지만... 메아리만 들릴 뿐이었지. 그런데 너, 이방인이 내 말을 들어주다니. 그리고 나도 처음으로 목소리가 "
+"몇 번이고 손을 뻗어 보았지만... 메아리만 들릴 뿐이었지. 그런데 너, 외부인이 내 말을 들어주다니. 그리고 나도 처음으로 목소리가 "
 "들린다."
 
 #. SCRIPT NOTES: Grateful
@@ -72339,7 +72341,7 @@ msgstr "으..."
 #. SUBTYPE: BlockingHello
 msgctxt "013387"
 msgid "Your presence offends, outsider."
-msgstr "네 존재가 불쾌하구나, 이방인."
+msgstr "네 존재가 불쾌하구나, 외부인."
 
 #. SCRIPT NOTES: Player is not yet accepted in society. / Stern
 #. VOICE TYPE: SFBGS001_NPCMViktorVethaal
@@ -72399,7 +72401,7 @@ msgstr "여긴 네가 있을 곳이 아니다."
 #. SUBTYPE: BlockingHello
 msgctxt "013382"
 msgid "Take your heresy elsewhere, outsider."
-msgstr "네 이단은 다른 곳에나 갖다 놔라, 이방인."
+msgstr "네 이단은 다른 곳에나 갖다 놔라, 외부인."
 
 #. SCRIPT NOTES: Player is not yet accepted in society. / Concerned
 #. VOICE TYPE: SFBGS001_NPCMLutherVethaal
@@ -72411,7 +72413,7 @@ msgstr "네 이단은 다른 곳에나 갖다 놔라, 이방인."
 #. SUBTYPE: BlockingHello
 msgctxt "013381"
 msgid "An outsider..."
-msgstr "이방인..."
+msgstr "외부인..."
 
 #. SCRIPT NOTES: Player is not yet accepted in society. / Stern
 #. VOICE TYPE: SFBGS001_NPCMLutherVethaal
@@ -72474,7 +72476,7 @@ msgstr "날 내버려 둬."
 #. SUBTYPE: BlockingHello
 msgctxt "01337C"
 msgid "This is no place for an outsider."
-msgstr "여긴 이방인이 있을 곳이 아니야."
+msgstr "여긴 외부인이 있을 곳이 아니야."
 
 #. SCRIPT NOTES: Player is idle and not responding. / Irritated
 #. VOICE TYPE: SFBGS001_NPCMViktorVethaal
@@ -77038,7 +77040,7 @@ msgstr "음, 우리는 지난 님과 아나스코 님의 뜻에 따라 개척 �
 #. SUBTYPE: Custom
 msgctxt "0131E0"
 msgid "Well, like Jarek before us, we've decided not to resume hostilities against the outsiders."
-msgstr "음, 우리는 전에 자렉 님께서 하셨던 것처럼 이방인에 대한 적대 행위를 멈추기로 했었지."
+msgstr "음, 우리는 전에 자렉 님께서 하셨던 것처럼 외부인에 대한 적대 행위를 멈추기로 했었지."
 
 #. SCRIPT NOTES:  / to Speaker
 #. DIALOGUE BEFORE: Speaker:  &&& Speaker: 
@@ -80559,7 +80561,7 @@ msgstr "그래도 둘케프 가문 인원에 변동이 생긴 게 도움이 된 
 #. SUBTYPE: Custom
 msgctxt "013074"
 msgid "But the talk of integrating outsiders and heretics, surely this must worry you as a dealer of weapons."
-msgstr "그런데 이방인이나 이단자와 협력 관계를 맺는다는 얘기가 있더군. 무기 중개상인 자네에겐 분명 걱정거리일 텐데."
+msgstr "그런데 외부인이나 이단자와 협력 관계를 맺는다는 얘기가 있더군. 무기 중개상인 자네에겐 분명 걱정거리일 텐데."
 
 #. SCRIPT NOTES:  / to Makola
 #. DIALOGUE BEFORE: Citizen01: So how has the new House affected business? &&& Makola: Business is as the Great Serpent wills.
@@ -82666,7 +82668,7 @@ msgstr "베타알 가문이 통행금지령을 시행할 거라고 하더군. �
 #. SUBTYPE: Custom
 msgctxt "012F8B"
 msgid "They say House Ka'dic intends to open our walls. Perhaps more outsiders will be entering the city."
-msgstr "카딕 가문이 성문을 열려고 한대. 아마 더 많은 이방인이 도시에 들어올 거야."
+msgstr "카딕 가문이 성문을 열려고 한대. 아마 더 많은 외부인이 도시에 들어올 거야."
 
 #. SCRIPT NOTES: Concerned / to Citizen02
 #. DIALOGUE BEFORE: Citizen01:  &&& Citizen02: 
@@ -92538,7 +92540,7 @@ msgstr "최악에서 첫 번째는 아무도 살아남지 못하는 거고."
 #. SUBTYPE: Custom
 msgctxt "012CB4"
 msgid "Nice to see a fellow outsider around here."
-msgstr "같은 이방인을 만나서 반갑군요."
+msgstr "같은 외부인을 만나서 반갑군요."
 
 #. SCRIPT NOTES: Impressed / to Player Default
 #. PROMPT: Nice to see a fellow outsider around here.
@@ -96570,7 +96572,7 @@ msgstr "위대한 뱀께서 살펴 주시길."
 #. SUBTYPE: Hello
 msgctxt "012B92"
 msgid "Fair journey, outsiders."
-msgstr "안전하게 여행하세요. 이방인 여러분."
+msgstr "안전하게 여행하세요. 외부인 여러분."
 
 #. SCRIPT NOTES: Confident
 #. VOICE TYPE: SFBGS001_NPCFMilaMazur
@@ -97359,7 +97361,7 @@ msgstr "댁한테 할 말 없어요."
 #. SUBTYPE: BlockingHello
 msgctxt "012B4C"
 msgid "Away, outsider."
-msgstr "저리 가요, 이방인."
+msgstr "저리 가요, 외부인."
 
 #. SCRIPT NOTES: Player is not yet accepted in society.  / Concerned
 #. VOICE TYPE: SFBGS001_NPCMLutherVethaal
@@ -97407,7 +97409,7 @@ msgstr "가셔야 할 것 같은데요."
 #. SUBTYPE: Hello
 msgctxt "012B48"
 msgid "Outsider."
-msgstr "이방인이시군요."
+msgstr "외부인이시군요."
 
 #. SCRIPT NOTES: Friendly
 #. VOICE TYPE: SFBGS001_NPCFIrinaMazur
@@ -97502,7 +97504,7 @@ msgstr "위대한 뱀의 축복이 함께하길."
 #. SUBTYPE: Hello
 msgctxt "012B40"
 msgid "Greetings, outsider."
-msgstr "안녕하세요, 이방인씨."
+msgstr "안녕하세요, 외부인씨."
 
 #. SCRIPT NOTES: Friendly
 #. VOICE TYPE: SFBGS001_NPCFIrinaMazur
@@ -98205,7 +98207,7 @@ msgstr ""
 msgctxt "012B03"
 msgid "Oh, no, not in Dazra, at least. From time to time, our connections are able to deliver an outsider ship. They are very rare though, and the times I get to work on one are very few and far between."
 msgstr ""
-"아, 아니요, 적어도 다즈라에서는 아니에요. 가끔, 우리 연줄로 이방인의 우주선을 받을 수 있어요. 아주 드물긴 하지만, 내가 그런 "
+"아, 아니요, 적어도 다즈라에서는 아니에요. 가끔, 우리 연줄로 외부인의 우주선을 받을 수 있어요. 아주 드물긴 하지만, 내가 그런 "
 "우주선을 작업할 기회는 정말 손에 꼽을 정도죠."
 
 #. SCRIPT NOTES:  / to Player Default
@@ -98683,7 +98685,7 @@ msgstr "문제가 될 만한 말을 하고 있군요. 왜 다른 사람들처럼
 #. SUBTYPE: Custom
 msgctxt "012AE2"
 msgid "No, you will always be an outsider to me. Always."
-msgstr "아니, 넌 나에게 항상 이방인일 뿐이야. 항상."
+msgstr "아니, 넌 나에게 항상 외부인일 뿐이야. 항상."
 
 #. SCRIPT NOTES: Serious / to Player Default
 #. ALIAS: HVDazraMakolaJubav
@@ -98696,7 +98698,8 @@ msgstr "아니, 넌 나에게 항상 이방인일 뿐이야. 항상."
 #. SUBTYPE: Custom
 msgctxt "012AE1"
 msgid "The last thing the city needs is to open the gates and let outsiders flood in. Outsiders with weapons, crew, ulterior motives."
-msgstr "문을 열고 이방인들이 몰려들게 하는 건 이 도시에 절대 해서는 안 될 일이야. 무기와 동료, 숨겨진 동기를 가진 이방인들 말이지."
+msgstr ""
+"문을 열고 외부인들이 몰려들게 하는 건 이 도시에 절대 해서는 안 될 일이야. 무기와 동료, 숨겨진 동기를 가진 외부인들 말이지."
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. ALIAS: HVDazraMakolaJubav
@@ -105823,7 +105826,7 @@ msgstr "하나 더!"
 #. SUBTYPE: BlockingHello
 msgctxt "012824"
 msgid "You have no right to be here, outsider."
-msgstr "당신은 여기 있을 자격이 없어요. 이방인."
+msgstr "당신은 여기 있을 자격이 없어요. 외부인."
 
 #. SCRIPT NOTES: Disgust
 #. VOICE TYPE: SFBGS001_NPCFTevinaVethaal
@@ -105835,7 +105838,7 @@ msgstr "당신은 여기 있을 자격이 없어요. 이방인."
 #. SUBTYPE: BlockingHello
 msgctxt "012823"
 msgid "I do not speak with outsiders."
-msgstr "저는 이방인과는 말 안 섞습니다."
+msgstr "저는 외부인과는 말 안 섞습니다."
 
 #. SCRIPT NOTES: Disgust
 #. VOICE TYPE: SFBGS001_NPCFTevinaVethaal
@@ -105859,7 +105862,7 @@ msgstr "여긴 당신이 있을 곳이 아닙니다."
 #. SUBTYPE: BlockingHello
 msgctxt "012821"
 msgid "Leave this place, outsider."
-msgstr "이곳을 떠나세요. 이방인."
+msgstr "이곳을 떠나세요. 외부인."
 
 #. SCRIPT NOTES: Disgust
 #. VOICE TYPE: SFBGS001_NPCFTevinaVethaal
@@ -105895,7 +105898,7 @@ msgstr "저리 가시죠."
 #. SUBTYPE: BlockingHello
 msgctxt "01281E"
 msgid "You should not be here, outsider."
-msgstr "여긴 당신이 있어선 안 될 곳입니다. 이방인."
+msgstr "여긴 당신이 있어선 안 될 곳입니다. 외부인."
 
 #. SCRIPT NOTES: Puzzled
 #. VOICE TYPE: SFBGS001_NPCFTevinaVethaal
@@ -105943,7 +105946,7 @@ msgstr "저를 내버려 두시죠. 당장."
 #. SUBTYPE: BlockingHello
 msgctxt "01281A"
 msgid "An outsider."
-msgstr "이방인."
+msgstr "외부인."
 
 #. SCRIPT NOTES: Disgust
 #. VOICE TYPE: SFBGS001_NPCFTevinaVethaal
@@ -106847,7 +106850,7 @@ msgstr "'이게' 다즈라의 구원자라고?"
 #. SUBTYPE: WaitingForPlayerInput
 msgctxt "0127CE"
 msgid "Outsiders, pfft. So dull."
-msgstr "이방인이라. *피식하는 소리* 따분하네."
+msgstr "외부인이라. *피식하는 소리* 따분하네."
 
 #. SCRIPT NOTES: mocking
 #. VOICE TYPE: SFBGS001_NPCMMakolaJubav
@@ -106870,7 +106873,7 @@ msgstr "이거... 떠들려니 점점 피곤해지는데."
 #. SUBTYPE: WaitingForPlayerInput
 msgctxt "0127CC"
 msgid "Are off-worlders always this boring?"
-msgstr "외부 세계인들은 항상 이렇게 지루한가요?"
+msgstr "외지인들은 항상 이렇게 지루한가요?"
 
 #. VOICE TYPE: SFBGS001_NPCFMarlanaVolav
 #. FACE: Neutral
@@ -107101,7 +107104,7 @@ msgstr "네 돈도 다른 사람들 돈이랑 가치가 같겠지."
 #. SUBTYPE: Hello
 msgctxt "0127B8"
 msgid "One wrong move, and I call the guards, outsider."
-msgstr "한 번만 더 까불면 경비대를 부르겠어. 이방인."
+msgstr "한 번만 더 까불면 경비대를 부르겠어. 외부인."
 
 #. SCRIPT NOTES: gruff, suspicious  / Serious
 #. VOICE TYPE: SFBGS001_NPCMMakolaJubav
@@ -107388,7 +107391,7 @@ msgstr "내 신뢰를 그렇게 쉽게 얻을 순 없어."
 #. SUBTYPE: Hello
 msgctxt "0127A0"
 msgid "Malibor may trust you, but to me, you are still an outsider."
-msgstr "말리보어는 널 신뢰할지 몰라도, 내겐 넌 여전히 이방인이야."
+msgstr "말리보어는 널 신뢰할지 몰라도, 내겐 넌 여전히 외부인이야."
 
 #. SCRIPT NOTES: Neutral
 #. VOICE TYPE: SFBGS001_NPCMVorisNerun
@@ -108297,7 +108300,7 @@ msgstr "모두가 섬겨야 한다!"
 #. SUBTYPE: Custom
 msgctxt "012716"
 msgid "Yes, I understand, and I agree with you. The first outsider in generations and they are welcomed with open arms?"
-msgstr "네, 이해하고, 저도 동의합니다. 수 세대 만의 첫 이방인인데, 그들을 두 팔 벌려 환영한다고요?"
+msgstr "네, 이해하고, 저도 동의합니다. 수 세대 만의 첫 외부인인데, 그들을 두 팔 벌려 환영한다고요?"
 
 #. SCRIPT NOTES: Serious / to Citizen01
 #. ALIAS: Citizen01
@@ -108311,7 +108314,7 @@ msgstr "네, 이해하고, 저도 동의합니다. 수 세대 만의 첫 이방�
 #. SUBTYPE: Custom
 msgctxt "012715"
 msgid "How are we so sure they are not an off-worlder spy?"
-msgstr "그들이 외부 세계의 첩자가 아니라고 어떻게 확신할 수 있겠어요?"
+msgstr "그들이 외지인 첩자가 아니라고 어떻게 확신할 수 있겠어요?"
 
 #. SCRIPT NOTES: Serious / to Citizen01
 #. DIALOGUE BEFORE: Citizen02: All I am saying is that I am not pleased with the recent outsider influence.|I am sure you know what I am referring to. &&& Citizen01: Yes, I understand, and I agree with you. The first outsider in generations and they are welcomed with open arms? |How are we so sure they are not an off-worlder spy? 
@@ -108369,7 +108372,7 @@ msgstr "모두가 섬겨야 한다."
 #. SUBTYPE: Custom
 msgctxt "012711"
 msgid "All I am saying is that I am not pleased with the recent outsider influence."
-msgstr "제가 하고 싶은 말은, 최근의 이방인의 영향력이 마음에 들지 않는다는 겁니다."
+msgstr "제가 하고 싶은 말은, 최근의 외부인의 영향력이 마음에 들지 않는다는 겁니다."
 
 #. SCRIPT NOTES: Serious / to Citizen01
 #. ALIAS: Citizen02
@@ -117886,7 +117889,7 @@ msgstr "움직이지 마!"
 #. SUBTYPE: BlockingHello
 msgctxt "01230C"
 msgid "I have no patience for outsiders."
-msgstr "난 이방인에게는 자비가 없어."
+msgstr "난 외부인에게는 자비가 없어."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Play Audio At Player(Voice Note)
@@ -119694,7 +119697,7 @@ msgstr "꼭 그랬으면 좋겠군."
 #. SUBTYPE: Taunt
 msgctxt "01223D"
 msgid "Death to the outsider!"
-msgstr "이방인에게 죽음을!"
+msgstr "외부인에게 죽음을!"
 
 #. SCRIPT NOTES: Taunt in combat with the player. / Angry
 #. VOICE TYPE: SFBGS001_NPCMMihaelDziri
@@ -122519,7 +122522,7 @@ msgstr "별로 어려운 설득은 아니었네."
 #. SUBTYPE: Custom
 msgctxt "0120DF"
 msgid "Watch your tone. You may be Promised, but you're still an outsider."
-msgstr "말 조심해. 약속받은 자가 됐다 해도 넌 여전히 이방인이니까."
+msgstr "말 조심해. 약속받은 자가 됐다 해도 넌 여전히 외부인이니까."
 
 #. SCRIPT NOTES: InPain
 #. VOICE TYPE: SFBGS001_NPCFSahimaKadic
@@ -126027,7 +126030,7 @@ msgstr "우리 위대한 뱀의 진정한 아이들만이 보여줄 수 있는 �
 #. SUBTYPE: Custom
 msgctxt "011FE2"
 msgid "You speak with a false enthusiasm, outsider."
-msgstr "거짓 열정으로 지껄이는구나, 이방인."
+msgstr "거짓 열정으로 지껄이는구나, 외부인."
 
 #. SCRIPT NOTES: Speech Challenge fail response: Scoffing at the player / Confident
 #. ALIAS: Mihael
@@ -126055,7 +126058,7 @@ msgstr "위대한 뱀께서 너 같은 놈을 선택하셨을 거라 믿을 줄 
 #. SUBTYPE: Custom
 msgctxt "011FE0"
 msgid "You know nothing of the Great Serpent, outsider."
-msgstr "네놈은 위대한 뱀을 전혀 몰라, 이방인."
+msgstr "네놈은 위대한 뱀을 전혀 몰라, 외부인."
 
 #. SCRIPT NOTES:  / to Mihael
 #. ALIAS: Player Default
@@ -128238,7 +128241,7 @@ msgstr "우위를 점했다는 걸 알기만 해도 만족스러운데, 내가 �
 #. SUBTYPE: Custom
 msgctxt "011F4C"
 msgid "I trust my brethren more than I trust any outsider, Promised or not."
-msgstr "나는 우리 교우들을 어떤 이방인보다도 신뢰한다. 네놈이 약속받은 자인지는 상관없어."
+msgstr "나는 우리 교우들을 어떤 외부인보다도 신뢰한다. 네놈이 약속받은 자인지는 상관없어."
 
 #. SCRIPT NOTES: Defiant / to Razma
 #. DIALOGUE BEFORE: Mihael: You'll regret this betrayal. All of you. 
@@ -139772,7 +139775,7 @@ msgstr "자네에겐 그게 아무 문제가 아닐지 몰라도, 우리 하즈�
 #. SUBTYPE: Custom
 msgctxt "011B08"
 msgid "How dare you, a newcomer who knows nothing of my family and our legacy, offer such an insult."
-msgstr "우리 가문과 유산에 대해 아무것도 모르는 이방인 주제에 감히 그따위 모욕적인 말을 하다니."
+msgstr "우리 가문과 유산에 대해 아무것도 모르는 신출내기 주제에 감히 그따위 모욕적인 말을 하다니."
 
 #. SCRIPT NOTES: A stern rebuke, a warning / Stern / to Player Default
 #. PROMPT: She risked her life to protect your family legacy, and you call it a failure? You're a terrible father.
@@ -145388,7 +145391,7 @@ msgstr "저를 만나길 바라고 계셨다고요?"
 #. SUBTYPE: Custom
 msgctxt "011927"
 msgid "It's rare that an off-worlder finds their way to Dazra."
-msgstr "외부 세계인이 다즈라까지 오는 건 드문 일입니다."
+msgstr "외지인이 다즈라까지 오는 건 드문 일입니다."
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Nalada
@@ -145401,7 +145404,7 @@ msgstr "외부 세계인이 다즈라까지 오는 건 드문 일입니다."
 #. SUBTYPE: Custom
 msgctxt "011926"
 msgid "But not just any off-worlder, one that's able to speak with Anasko Va'ruun himself."
-msgstr "하지만 평범한 외부 세계인이 아니라, 아나스코 바룬과 직접 대화할 수 있는 분이시죠."
+msgstr "하지만 평범한 외지인이 아니라, 아나스코 바룬과 직접 대화할 수 있는 분이시죠."
 
 #. SCRIPT NOTES: Suspicious / to Player Default
 #. ALIAS: Nalada
@@ -150333,7 +150336,7 @@ msgstr "나도 같은 약속받은 자야."
 #. SUBTYPE: Custom
 msgctxt "011632"
 msgid "Oh, you're the outsider everyone's been talking about."
-msgstr "아, 소문이 자자하던 그 이방인이 바로 너구나."
+msgstr "아, 소문이 자자하던 그 외부인이 바로 너구나."
 
 #. SCRIPT NOTES: Impressed / to Player Default
 #. PROMPT: I'm Harbinger <Alias=MQ03Player>.
@@ -152003,7 +152006,7 @@ msgstr "광신도들이 그렇게까지 극단적인 결정을 내릴 거라 생
 #. SUBTYPE: Custom
 msgctxt "01154D"
 msgid "I can't help but feel that way. I've always felt like an outsider, and what they did almost ensured I always would be."
-msgstr "어쩔 수 없이 그렇게 느껴지더라고. 난 항상 외부자처럼 느껴졌고, 그자들이 한 짓을 보니 내가 어떻게 될지 알 것 같았어."
+msgstr "어쩔 수 없이 그렇게 느껴지더라고. 난 항상 외부인처럼 느껴졌고, 그자들이 한 짓을 보니 내가 어떻게 될지 알 것 같았어."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: Do you mind if I ask you some personal questions? &&& Sahima: 
@@ -152760,7 +152763,7 @@ msgstr "미안해. 손님 접대하는 상황인 줄 몰랐네."
 #. SUBTYPE: Custom
 msgctxt "01150B"
 msgid "You must be the outsider I heard of who shares our beliefs."
-msgstr "넌 분명 우리 믿음을 공유한다는 그 이방인이겠지."
+msgstr "넌 분명 우리 믿음을 공유한다는 그 외부인이겠지."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Mirek: Once again...
@@ -154313,7 +154316,7 @@ msgstr "상황이 심각합니다. 그대를 포함해 가능한 모든 도움�
 #. SUBTYPE: Hello
 msgctxt "01147C"
 msgid "House Va'ruun needs your assistance, outsider."
-msgstr "바룬 가문은 그대의 도움이 필요합니다. 이방인이여."
+msgstr "바룬 가문은 그대의 도움이 필요합니다. 외부인이여."
 
 #. VOICE TYPE: SFBGS001_NPCMMaliborDulkehf
 #. FACE: Neutral
@@ -154324,7 +154327,7 @@ msgstr "바룬 가문은 그대의 도움이 필요합니다. 이방인이여."
 #. SUBTYPE: Hello
 msgctxt "01147B"
 msgid "We wish no harm upon you, outsider."
-msgstr "그대가 해를 입지 않기를 바랍니다. 이방인."
+msgstr "그대가 해를 입지 않기를 바랍니다. 외부인."
 
 #. VOICE TYPE: SFBGS001_NPCMMaliborDulkehf
 #. FACE: Neutral
@@ -156083,7 +156086,7 @@ msgstr "하지만 이거 하나는 말해두지요. 서로 손가락질하는 �
 #. SUBTYPE: Custom
 msgctxt "0113F6"
 msgid "You can't tell me to go anywhere, or do anything. At the end of the day, for all your fame, you're still an outsider."
-msgstr "당신은 저한테 어디 가라, 뭐 해라 이럴 수 없어요. 결국, 그 잘난 명성에도, 당신은 여전히 이방인이니까요."
+msgstr "당신은 저한테 어디 가라, 뭐 해라 이럴 수 없어요. 결국, 그 잘난 명성에도, 당신은 여전히 외부인이니까요."
 
 #. SCRIPT NOTES: SinisterSmile / to Player Default
 #. PROMPT: You're going to confess and surrender to the authorities.
@@ -158931,7 +158934,7 @@ msgstr "흠... 오빠가 명문 가문 사람들은 누구도 믿지 말라 했�
 #. SUBTYPE: Custom
 msgctxt "011326"
 msgid "But you are still an outsider? How can I know if you are a friend?"
-msgstr "하지만 그래도 이방인이시잖아요. 어떻게 당신이 친구일 거라고 믿을 수 있죠?"
+msgstr "하지만 그래도 외부인이시잖아요. 어떻게 당신이 친구일 거라고 믿을 수 있죠?"
 
 #. ALIAS: Player Default
 #. VOICE TYPE: PlayerVoiceMale01
@@ -163324,7 +163327,7 @@ msgstr "접힌 우주의 와류도 마찬가지야. 우리가 이해하는 부�
 #. SUBTYPE: Custom
 msgctxt "011191"
 msgid "I would ask that until you have become Promised, you avoid the citizens of Dazra. They are not used to outsiders."
-msgstr "그대가 약속받은 자가 되기 전까지는 다즈라 시민들을 피해주시길 부탁드립니다. 시민들은 이방인에 익숙하지 않으니까요."
+msgstr "그대가 약속받은 자가 되기 전까지는 다즈라 시민들을 피해주시길 부탁드립니다. 시민들은 외부인에 익숙하지 않으니까요."
 
 #. SCRIPT NOTES: Thinking / to Player Default
 #. DIALOGUE BEFORE: Malibor: I apologize for the interruption.
@@ -164038,7 +164041,7 @@ msgstr "문제라도 있습니까? 마콜라?"
 #. SUBTYPE: Custom
 msgctxt "01110B"
 msgid "The city is in shambles, the Speaker is missing, and here you are leading some outsider through our sacred space."
-msgstr "도시가 무너지고 대변자님이 실종되셨는데, 의원님은 이방인이 우리의 신성한 장소에 들어오게 놔두셨잖습니까."
+msgstr "도시가 무너지고 대변자님이 실종되셨는데, 의원님은 외부인이 우리의 신성한 장소에 들어오게 놔두셨잖습니까."
 
 #. SCRIPT NOTES: Disgust / to Player Default
 #. DIALOGUE BEFORE: Makola: The city is in shambles, the Speaker is missing, and here you are leading some outsider through our sacred space.
@@ -164068,7 +164071,7 @@ msgstr "왜 그 허물이 우리 도시를 더럽히게 하십니까? 지금 상
 #. SUBTYPE: Custom
 msgctxt "011109"
 msgid "Have faith. I believe this outsider was guided here by the Great Serpent Himself."
-msgstr "믿음을 가지세요. 이 이방인은 위대한 뱀의 인도를 받고 온 겁니다."
+msgstr "믿음을 가지세요. 이 외부인은 위대한 뱀의 인도를 받고 온 겁니다."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Malibor: Have faith. I believe this outsider was guided here by the Great Serpent Himself.
@@ -164941,7 +164944,7 @@ msgstr "어디 있느냐? 자렉의 자식아?"
 #. SUBTYPE: SharedInfo
 msgctxt "0110AA"
 msgid "We will find you, outsider, and turn you to dust."
-msgstr "이방인이여, 너를 찾아내 가루로 만들어 주겠다."
+msgstr "외부인이여, 너를 찾아내 가루로 만들어 주겠다."
 
 #. SCRIPT NOTES: Angry
 #. VOICE TYPE: VaruunZealotMale01
@@ -165388,7 +165391,7 @@ msgstr "정말로 아나스코 님의 말씀을 들은 거군요. 그대는 선�
 #. SUBTYPE: Custom
 msgctxt "011072"
 msgid "No outsider would know our creed. It is never uttered beyond this city."
-msgstr "우리의 신조를 아는 이방인은 없지요. 이 도시 밖에선 절대 입 밖에 내지 않으니까요."
+msgstr "우리의 신조를 아는 외부인은 없지요. 이 도시 밖에선 절대 입 밖에 내지 않으니까요."
 
 #. SCRIPT NOTES:  / to companion
 #. DIALOGUE BEFORE: Malibor: By the Serpent... &&& companion: He said that? I heard nothing... Given the gravity of the situation, surely there is no way you would joke about such a thing...
@@ -169907,7 +169910,7 @@ msgstr "개척 성계의 우주선에 대해 어떻게 그렇게 잘 아시나�
 #. SUBTYPE: Custom
 msgctxt "0025B9"
 msgid "When was the last time an outsider stepped foot in Dazra?"
-msgstr "마지막으로 이방인이 다즈라에 발을 디딘 게 언제였나요?"
+msgstr "마지막으로 외부인이 다즈라에 발을 디딘 게 언제였나요?"
 
 #. SCRIPT NOTES: Neutral / to Player Default
 #. DIALOGUE BEFORE: Player Default: When was the last time an outsider stepped foot in Dazra?
@@ -180421,7 +180424,7 @@ msgstr "아, 이거 문제가 되겠군. 형은 전통을 무엇보다 중시하
 #. SUBTYPE: Custom
 msgctxt "002159"
 msgid "Then it is settled. Outsider, you will work alongside Danika to prepare for the duel."
-msgstr "그럼 정해졌군. 이방인이여, 다니카와 함께 협의하며 결투를 준비해 주게나."
+msgstr "그럼 정해졌군. 외부인이여, 다니카와 함께 협의하며 결투를 준비해 주게나."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: Times are tough, I guess. &&& ...  &&& Danika: Borhal, are... are you sure? |There is already so much death in the city. What good would this do? There has to be another way. &&& Amila: Too late, Danika. He has issued his challenge.|I accept. I, in fact, look forward to it.  &&& Amila: You. You shall be my second. 
@@ -181534,7 +181537,7 @@ msgstr "딱 이렇게 될 것 같더라니."
 #. SUBTYPE: Custom
 msgctxt "0020F3"
 msgid "I will not speak of her with an outsider, Promised or not."
-msgstr "이방인에겐 말하지 않겠다. 약속받은 자라도 상관없어."
+msgstr "외부인에겐 말하지 않겠다. 약속받은 자라도 상관없어."
 
 #. SCRIPT NOTES: Stern / to Player Default
 #. PROMPT: Who's Vashti?
@@ -185540,7 +185543,7 @@ msgstr "너의 믿음에 찬사를 보내지."
 #. SUBTYPE: Custom
 msgctxt "001FAC"
 msgid "A sad day indeed when an outsider is more devout than my own son."
-msgstr "이방인이 내 아들보다 더 독실하다니, 참으로 슬픈 날이로군."
+msgstr "외부인이 내 아들보다 더 독실하다니, 참으로 슬픈 날이로군."
 
 #. SCRIPT NOTES: Friendly / to Player Default
 #. PROMPT: I prefer not to talk about it.
@@ -191003,7 +191006,7 @@ msgstr "전혀요. 여긴 잔해밖에 없네요."
 #. SUBTYPE: Custom
 msgctxt "001D73"
 msgid "That's far enough, strangers."
-msgstr "가까이 오지 마세요. 이방인 분들."
+msgstr "가까이 오지 마세요. 이방인."
 
 #. SCRIPT NOTES: Suspicious / to Player Default
 #. ALIAS: Irina
@@ -192527,7 +192530,7 @@ msgstr "어쩌다 여기까지 온 거죠?"
 #. SUBTYPE: Custom
 msgctxt "001CA7"
 msgid "I'm an outsider myself. It's hard to get into the whole giant snake thing."
-msgstr "나도 이방인이야. 커다란 뱀 이야기는 죄다 이해하기 어렵더라고."
+msgstr "나도 외부인이야. 커다란 뱀 이야기는 죄다 이해하기 어렵더라고."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: Only I understand Anasko Va'ruun. I'm certain it's the Great Serpent's intervention. &&& Tane: So I've heard. You've got something about you, that's for sure.  &&& Tane: Anyway, enough about that. What can I do you for?
@@ -193079,7 +193082,7 @@ msgstr "그러니 너그러운 마음이 든다면 서로 도와줄 수도 있�
 #. SUBTYPE: Custom
 msgctxt "001C81"
 msgid "Hey, outsider. Over here."
-msgstr "이봐, 이방인. 이쪽이야."
+msgstr "이봐, 외부인. 이쪽이야."
 
 #. SCRIPT NOTES: Calling out the first half. Second half is to self. / Confident / to Player Default
 #. ALIAS: Tane
@@ -193118,7 +193121,7 @@ msgstr "여, 맨티스! 이쪽이야!"
 #. SUBTYPE: Custom
 msgctxt "001C7E"
 msgid "It really is you. The outsider made Promised."
-msgstr "정말 자네였군. 약속받은 자가 된 이방인이라지."
+msgstr "정말 자네였군. 약속받은 자가 된 외부인이라지."
 
 #. SCRIPT NOTES: Impressed / to Player Default
 #. ALIAS: Tane
@@ -197343,7 +197346,7 @@ msgstr "진심이야? 간단한 부탁 하나가 그렇게 어려울진 몰랐�
 #. SUBTYPE: Custom
 msgctxt "001B1F"
 msgid "Hey, aren't you that \"outsider\" made Promised that showed up here recently?"
-msgstr "이봐. 자네 혹시 얼마 전에 여기 와서 약속받은 자가 됐다던 그 '이방인'인가?"
+msgstr "이봐. 자네 혹시 얼마 전에 여기 와서 약속받은 자가 됐다던 그 '외부인'인가?"
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Reigen: This song... I... I can't... &&& Reigen: I remember now. This song... it's the one my granddaughter used to sing.|She used to help me around the house, doing chores, tidying up. |And then the accident happened, and I haven't seen her since.
@@ -198299,7 +198302,7 @@ msgstr "새로 기름 부음 받았다는 약속받은 자 얘기였지."
 #. SUBTYPE: Custom
 msgctxt "001AB0"
 msgid "And we do not need help. Especially from an outsider."
-msgstr "우린 도움이 필요 없고 말이야. 특히 이방인의 도움은 더 그렇지."
+msgstr "우린 도움이 필요 없고 말이야. 특히 외부인의 도움은 더 그렇지."
 
 #. SCRIPT NOTES: Concerned / to Viktor
 #. DIALOGUE BEFORE: Player Default: Serpent guide you. I am Harbinger <Alias=MQ04Player>, here to assist however I can. &&& ...  &&& Vitoria: Forgive my brother. He has been forgetting his manners of late.  &&& Vitoria: Viktor. This is Anasko's chosen. You recall Lovek sent word. &&& Viktor: I recall he spoke of a newly anointed Promised. |And we do not need help. Especially from an outsider.
@@ -198387,7 +198390,7 @@ msgstr "이 상황이 어떻게 연관된다는 건지 잘 모르겠군요."
 #. SUBTYPE: Custom
 msgctxt "001AAA"
 msgid "These are hardly matters for the ears of an outsider!"
-msgstr "이방인 귀에 들어갈 얘기가 아니잖아!"
+msgstr "외부인 귀에 들어갈 얘기가 아니잖아!"
 
 #. SCRIPT NOTES: Disgust / to Player Default
 #. PROMPT: I don't see how these situations are connected.
@@ -198449,7 +198452,7 @@ msgstr "자기가 무슨 말을 지껄이는지 전혀 모르는군."
 #. SUBTYPE: Custom
 msgctxt "001AA6"
 msgid "You are an outsider. You have no understanding of our House."
-msgstr "너는 이방인이다. 우리 가문을 전혀 이해하지 못할 테지."
+msgstr "너는 외부인이다. 우리 가문을 전혀 이해하지 못할 테지."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: I don't see how these situations are connected. &&& Viktor: Of course not. &&& Viktor: You are an outsider. You have no understanding of our House.
@@ -205184,7 +205187,7 @@ msgstr "우리 모두 무언의 합의라는 걸 잘 이해하고 있지."
 #. SUBTYPE: Custom
 msgctxt "001878"
 msgid "I know so, and wouldn't expect an outsider, Promised or not, to understand."
-msgstr "나도 이방인이 이해할 거라고 기대하진 않았어. 약속받은 자가 됐든 아니든 말이야."
+msgstr "나도 외부인이 이해할 거라고 기대하진 않았어. 약속받은 자가 됐든 아니든 말이야."
 
 #. SCRIPT NOTES: Confident / to Player Default
 #. PROMPT: I'll return once I've learned the location.
@@ -205675,7 +205678,7 @@ msgstr "내가 함대에 겁먹을 것 같냐?"
 #. SUBTYPE: Custom
 msgctxt "001858"
 msgid "House Ka'dic dealing with outsiders?"
-msgstr "카딕 가문이 이방인과 놀아난다고?"
+msgstr "카딕 가문이 외부인과 놀아난다고?"
 
 #. SCRIPT NOTES: Amused / to Player Default
 #. PROMPT: I'm a UC Captain.
@@ -221165,7 +221168,7 @@ msgstr "지금 이 상황은 결합성이 처리해야 할 문제니까."
 #. SUBTYPE: Custom
 msgctxt "0011EA"
 msgid "As much as I'd welcome the expertise, the Zealots would never allow an outsider to participate."
-msgstr "전문가가 나서준다면 나야 환영이지만, 광신도들은 이방인이 끼어드는 걸 절대 용납 못 할 걸."
+msgstr "전문가가 나서준다면 나야 환영이지만, 광신도들은 외부인이 끼어드는 걸 절대 용납 못 할 걸."
 
 #. SCRIPT NOTES: Confident / to Player Default
 #. PROMPT: Negotiations are my speciality.
@@ -224561,7 +224564,7 @@ msgstr "사히마와 다른 인질들은 무사해요."
 #. SUBTYPE: Custom
 msgctxt "0010BF"
 msgid "Over? You'd risk everything after the whispers of a stranger? I demand to know who this is."
-msgstr "끝이라고? 외부인의 속삭임에 모든 걸 걸겠다는 건가? 이놈이 누군지 알아야겠어."
+msgstr "끝이라고? 이방인의 속삭임에 모든 걸 걸겠다는 건가? 이놈이 누군지 알아야겠어."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Razma: Is your intent to be unreasonable the whole time? |I thought this was a negotiation. &&& Mihael: We're having a friendly chat, aren't we? |It's not my fault you don't find my offers acceptable. &&& Razma: So, Mihael, will you turn a blind eye to the Great Serpent's plan?
@@ -227388,7 +227391,7 @@ msgstr "오킴이 죄를 뒤집어쓰고, 나는 방해받지 않고 내 작전�
 #. SUBTYPE: SharedInfo
 msgctxt "000FC9"
 msgid "You are not welcome here, outsider."
-msgstr "여긴 네가 있을 곳이 아니다, 이방인이여."
+msgstr "여긴 네가 있을 곳이 아니다, 외부인이여."
 
 #. SCRIPT NOTES:  / to Player Default
 #. PROMPT: <Alias=Player>.
@@ -228109,7 +228112,7 @@ msgstr "아, 선구자가 됐다고 우리 일원인 줄 안다는 이단자가 
 #. SUBTYPE: Custom
 msgctxt "000F62"
 msgid "Oh, so you're the strange outsider who shares our beliefs."
-msgstr "아, 우리 믿음을 공유한다는 그 이상한 이방인이구나."
+msgstr "아, 우리 믿음을 공유한다는 그 이상한 외부인이구나."
 
 #. SCRIPT NOTES: Smug / to Player Default
 #. DIALOGUE BEFORE: Mirek: Well, I am one of the few to garner any amount of trust with the Zealots, so she should be. 
@@ -228184,7 +228187,7 @@ msgstr "그렇게 하려고 아주 많은 노력을 기울였겠어."
 #. SUBTYPE: Custom
 msgctxt "000F5D"
 msgid "Hm. You make a good point, for an outsider."
-msgstr "흠. 이방인 치고는 좋은 지적을 하는군."
+msgstr "흠. 외부인 치고는 좋은 지적을 하는군."
 
 #. SCRIPT NOTES: Thinking / to Player Default
 #. PROMPT: You can't say that with absolute certainty. You're risking lives and House Ka'dic's integrity.
@@ -228942,7 +228945,7 @@ msgstr "일이 끝나면 보상을 받게 될 겁니다."
 #. SUBTYPE: Custom
 msgctxt "000F20"
 msgid "I wouldn't have suspected an outsider to be made Promised, but who am I to argue with the Great Serpent's choice."
-msgstr "이방인이 약속받은 자가 될 거라고 생각하진 않았지만, 내가 뭐라고 위대한 뱀께서 선택하신 일에 따질 수 있겠어."
+msgstr "외부인이 약속받은 자가 될 거라고 생각하진 않았지만, 내가 뭐라고 위대한 뱀께서 선택하신 일에 따질 수 있겠어."
 
 #. SCRIPT NOTES: Irritated / to Razma
 #. ALIAS: Djimal
@@ -230364,7 +230367,7 @@ msgstr "아주 중요한 문제입니다. 뭐라도 기억해 내야 한다고�
 #. SUBTYPE: Custom
 msgctxt "000E60"
 msgid "This outsider has been chosen as the most unlikely vessel for the Great Serpent's divine provenance, and he will help save us all!"
-msgstr "뜻밖에도 이 이방인이 위대한 뱀의 신성한 기원을 담을 그릇으로 선택되었으나, 결국 우리를 도와 모두를 구원할 것입니다!"
+msgstr "뜻밖에도 이 외부인이 위대한 뱀의 신성한 기원을 담을 그릇으로 선택되었으나, 결국 우리를 도와 모두를 구원할 것입니다!"
 
 #. SCRIPT NOTES:  / to Guard, Malik
 #. DIALOGUE BEFORE: Malibor: We have asked the Great Serpent for deliverance from our calamity, and He has answered us!
@@ -230378,7 +230381,7 @@ msgstr "뜻밖에도 이 이방인이 위대한 뱀의 신성한 기원을 담�
 #. SUBTYPE: Custom
 msgctxt "000E5F"
 msgid "This outsider has been chosen as the most unlikely vessel for the Great Serpent's divine provenance, and she will help save us all!"
-msgstr "뜻밖에도 이 이방인이 위대한 뱀의 신성한 기원을 담을 그릇으로 선택되었으나, 결국 우리를 도와 모두를 구원할 것입니다!"
+msgstr "뜻밖에도 이 외부인이 위대한 뱀의 신성한 기원을 담을 그릇으로 선택되었으나, 결국 우리를 도와 모두를 구원할 것입니다!"
 
 #. SCRIPT NOTES:  / to Guard, Malik
 #. DIALOGUE BEFORE: Malibor: We have asked the Great Serpent for deliverance from our calamity, and He has answered us!
@@ -230392,7 +230395,7 @@ msgstr "뜻밖에도 이 이방인이 위대한 뱀의 신성한 기원을 담�
 #. SUBTYPE: Custom
 msgctxt "000E5E"
 msgid "This outsider has been chosen as the most unlikely vessel for the Great Serpent's divine provenance, and they will help save us all!"
-msgstr "뜻밖에도 이 이방인이 위대한 뱀의 신성한 기원을 담을 그릇으로 선택되었으나, 결국 우리를 도와 모두를 구원할 것입니다!"
+msgstr "뜻밖에도 이 외부인이 위대한 뱀의 신성한 기원을 담을 그릇으로 선택되었으나, 결국 우리를 도와 모두를 구원할 것입니다!"
 
 #. SCRIPT NOTES:  / to Player Default
 #. ALIAS: Malibor
@@ -230420,7 +230423,7 @@ msgstr "결정을 기다리고 있습니다. 약속받은 자들의 일원이 �
 #. SUBTYPE: Custom
 msgctxt "000E5B"
 msgid "Outsider, please. There is no denying you have been sent here as a sign. You must help us."
-msgstr "이방인이여. 간청드립니다. 그대가 여기 온 것은 분명 계시입니다. 우릴 도와주셔야 합니다."
+msgstr "외부인이여. 간청드립니다. 그대가 여기 온 것은 분명 계시입니다. 우릴 도와주셔야 합니다."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Malibor: But there are... There are precepts that must be followed, principles that must be obeyed.
@@ -230635,7 +230638,7 @@ msgstr "약속받았다니, 그게 무슨 뜻이죠?"
 msgctxt "000E4C"
 msgid "Mere hours ago, I could never have imagined offering redemption to an outsider. And yet here we both stand now."
 msgstr ""
-"겨우 몇 시간 전만 해도 이방인에게 구원을 제공한다는 생각은 해보지도 않았습니다. 그런데 지금 우리 둘 다 이런 상황에 처해 있지 "
+"겨우 몇 시간 전만 해도 외부인에게 구원을 제공한다는 생각은 해보지도 않았습니다. 그런데 지금 우리 둘 다 이런 상황에 처해 있지 "
 "않습니까."
 
 #. SCRIPT NOTES:  / to Player Default
@@ -232813,7 +232816,7 @@ msgstr "좋아요. 비밀을 지키세요. 저도 그렇게 할 테니까."
 #. SUBTYPE: Custom
 msgctxt "000CCF"
 msgid "Choose your words carefully. Convert or not, you're still an outsider."
-msgstr "말조심해라. 개종자든 아니든, 넌 여전히 이방인이다."
+msgstr "말조심해라. 개종자든 아니든, 넌 여전히 외부인이다."
 
 #. SCRIPT NOTES: Defiant / to Player Default
 #. PROMPT: I've been very busy. In fact, I'm on my way to have you arrested.
@@ -237769,7 +237772,7 @@ msgstr "괜찮아! 네 거북이 이론이 아직 진행 중인 것으로 남겨
 #. SUBTYPE: Custom
 msgctxt "000A87"
 msgid "But I do realize it's a popular answer among outsiders."
-msgstr "하지만 그게 이방인들 사이에선 유명한 답이란 건 알고 있어."
+msgstr "하지만 그게 외부인들 사이에선 유명한 답이란 건 알고 있어."
 
 #. SCRIPT NOTES: Confused / to Player Default
 #. PROMPT: God.
@@ -244585,7 +244588,7 @@ msgstr "글쎄요, 만약 당신이 이곳 실무관이 아니라면, 먼저 용
 #. SUBTYPE: Custom
 msgctxt "00088B"
 msgid "*Sigh* You must be the newcomer we've heard so much about. Only an outsider would be so brazen."
-msgstr "*한숨* 당신이 소문이 자자한 그 새로 온 사람인가 보군요. 이방인만이 이렇게 뻔뻔하게 굴 수 있을 테니까요."
+msgstr "*한숨* 당신이 소문이 자자한 그 새로 온 사람인가 보군요. 외부인만이 이렇게 뻔뻔하게 굴 수 있을 테니까요."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: CommerceOfficial: I'm sorry, but this wing of the hospital is under investigation. You'll have to leave.
@@ -245736,7 +245739,7 @@ msgstr "뭐에 관해 대화하고 있었습니까?"
 #. SUBTYPE: Custom
 msgctxt "00083A"
 msgid "If we are to stand on equal footing with the outsiders, we must rebuild Dazra to its former glory."
-msgstr "우리가 이방인들과 대등하게 맞서려면, 예전의 영광스러웠던 다즈라를 다시 재건해야 한다고."
+msgstr "우리가 외부인들과 대등하게 맞서려면, 예전의 영광스러웠던 다즈라를 다시 재건해야 한다고."
 
 #. SCRIPT NOTES:  / to Player Default
 #. DIALOGUE BEFORE: Player Default: Doing so would be treason. &&& Qisrani: Yes. But given the seriousness of the accusation, the proof must be irrefutable. &&& Qisrani: So I told my cousin to return with more evidence, and when I didn't hear back, I assumed that was the end of it. |But this morning I received a slate from a courier. It's from Ukaru. It was worrying to say the least.
@@ -253695,7 +253698,7 @@ msgstr "크레딧 좀 꽤 벌었겠는데."
 #. SUBTYPE: Custom
 msgctxt "0004BA"
 msgid "Nah, nothing like that. Just a man from a place off the map."
-msgstr "외계인은 아니고. 그저 은하계 너머의 이방인."
+msgstr "아니, 외계인은 아니고. 그냥 은하계 너머의 외지인이지."
 
 #. SCRIPT NOTES: Confident / to Player Default
 #. PROMPT: Must've been a lot of creds.

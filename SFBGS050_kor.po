@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-18 03:10+0900\n"
-"PO-Revision-Date: 2026-10-10 17:49+0000\n"
+"PO-Revision-Date: 2026-11-16 12:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -56670,7 +56670,7 @@ msgstr "병렬 화학 경험 시뮬레이션 중..."
 #: 0200FAA2:02029B3A
 msgctxt "000D95"
 msgid "Foreign chemicals detected."
-msgstr "외래 화학 물질 감지."
+msgstr "외부 화학 물질 감지."
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -63436,7 +63436,7 @@ msgstr "기록: 인간은 기본 기능을 저해함."
 #: 0200FAA2:0202C278
 msgctxt "0010CC"
 msgid "Foreign chemical detected. Temporarily adjusting variables..."
-msgstr "외부 화학물질 감지. 일시적으로 변수를 조정 중..."
+msgstr "외부 화학 물질 감지. 일시적으로 변수를 조정 중..."
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -69891,7 +69891,7 @@ msgstr "어쨌든 무고한 이들이 교전에 휘말릴 수 있었으니, 로�
 #: 02038DA7/00000/SFTER_COM_Andreja_QEvent_TerranArmada:02038E44
 msgctxt "001380"
 msgid "I could not help but see the parallels with my own life as an outsider."
-msgstr "이방인으로 살아온 내 삶과의 유사점을 보지 않을 수 없었다."
+msgstr "외부인으로 살아온 내 삶과의 유사점을 보지 않을 수 없었다."
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -72843,7 +72843,7 @@ msgstr "뭐? 현대의 경이와 대화할 기회를 놓치라고?"
 #: 0203AD0D/00000/SFTER_CREW_EliteCrew_Delta_Convo_Barrett00_01:0203AD15
 msgctxt "0014DF"
 msgid "Correct. Dr. Bourreau used foreign substance in unit creation."
-msgstr "정확함. 부로 박사는 기체 제작에 외부 물질을 사용했다."
+msgstr "정확함. 부로 박사는 기체 제작에 외래 물질을 사용했다."
 
 #. List: 2
 #. REC: INFO:NAM1

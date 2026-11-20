@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-18 03:10+0900\n"
-"PO-Revision-Date: 2026-11-16 12:49+0000\n"
+"PO-Revision-Date: 2026-11-21 15:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -74330,7 +74330,7 @@ msgstr "시간이 된다면, 테란 로봇들을 주인에게 맞서게 하지 �
 #: 0203AD75/00000/SFTER_COM_Sarah_QEvent_TerranArmada:0203AD7E
 msgctxt "001568"
 msgid "Hopefully those civilians will be grateful for what we did."
-msgstr "그 민간인들이 우리가 한 일에 고마워하길 바랍니다."
+msgstr "저 민간인들이 우리가 한 일에 고마워했으면 좋겠네."
 
 #. List: 2
 #. REC: INFO:NAM1
@@ -74344,7 +74344,7 @@ msgstr "그 민간인들이 우리가 한 일에 고마워하길 바랍니다."
 #: 0203AD74/00000/SFTER_COM_Sarah_QEvent_TerranArmada:0203AD7F
 msgctxt "00156A"
 msgid "I'm not sure they'll ever know. But that's not why we did what we did."
-msgstr "그들이 알게 될지는 모르겠습니다. 하지만 그래서 우리가 그런 일을 한 건 아니죠."
+msgstr "저 사람들이 알기나 할지 모르겠네. 하지만 우리가 알아달라고 그런 일을 한 건 아니니까."
 
 #. List: 2
 #. REC: INFO:NAM1

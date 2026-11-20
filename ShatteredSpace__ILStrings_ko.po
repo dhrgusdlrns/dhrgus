@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-11-16 12:49+0000\n"
+"PO-Revision-Date: 2026-11-21 15:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -74726,7 +74726,7 @@ msgstr "모든 주민들은 현재 위급 상황에 평정을 유지하시길 �
 #. SUBTYPE: Hello
 msgctxt "0132C3"
 msgid "We urge everyone to remain composed during this crisis."
-msgstr "여러분 모두 이 재난 상황에 침착을 유지하길 바랍니다."
+msgstr "여러분, 모두 이 재난 상황에 침착을 유지하시길 바랍니다."
 
 #. VOICE TYPE: RobotModelAGeneric
 #. FACE: Neutral

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:36+0900\n"
-"PO-Revision-Date: 2026-11-16 12:49+0000\n"
+"PO-Revision-Date: 2026-11-23 15:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -4486,7 +4486,7 @@ msgid "I took a job as a research assistant helping a pair of scientists who are
 "different kinds of animal corpses that have no external injuries."
 msgstr ""
 "나는 정체를 알 수 없는 질병을 조사하고 있는 어느 과학자 한 쌍의 연구 보조원으로 함께 일하게 됐다. 질병이 다즈라 인근의 생물들에게 "
-"영향을 미치기 시작했다고 한다. 다즈라 시티 주변의 지역을 탐색하면서 외상 흔적이 없는 여러 종류의 동물 사체 샘플을 수집해야 한다."
+"영향을 미치기 시작했다고 한다. 다즈라 시티 주변의 지역을 탐색하면서 외상 흔적이 없는 여러 종류의 동물 사체 표본을 수집해야 한다."
 
 # EDID: SFBGS001_MS04, REC: QUST:CNAM
 msgctxt "012FCB"
@@ -4499,7 +4499,7 @@ msgid "I'm working with a pair of scientists who are investigating a mysterious 
 msgstr ""
 "나는 정체를 알 수 없는 질병을 조사하고 있는 어느 과학자 한 쌍과 함께 일하게 됐다. 질병이 다즈라 인근의 생물들에게 영향을 미치기 "
 "시작했다고 한다. 지역에서 수집한 식물에서 특이한 돌연변이가 발생했음을 보고했고, 도시 주변 지역 5곳 중 최소 3곳에서 이 특이한 "
-"식물의 샘플을 수집하라는 지시를 받았다."
+"식물의 표본을 수집하라는 지시를 받았다."
 
 # EDID: SFBGS001_MS04, REC: QUST:CNAM
 msgctxt "012FCA"

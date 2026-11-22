@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-01 20:37+0900\n"
-"PO-Revision-Date: 2026-11-16 11:49+0000\n"
+"PO-Revision-Date: 2026-11-23 15:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -4540,7 +4540,7 @@ msgstr "승무원"
 # EDID: SFBGS001_MS04_BiosampleCollector01, REC: MISC:FULL
 msgctxt "001476"
 msgid "Biosample Collector"
-msgstr "생체 샘플 채집기"
+msgstr "생체 표본 채집기"
 
 # EDID: MP_Test_DeleteThis, REC: ACTI:FULL
 msgctxt "001477"
@@ -5411,32 +5411,32 @@ msgstr "셰린 두바스"
 # EDID: SFBGS001_MS04_AnimalSampleA, REC: MISC:FULL
 msgctxt "001A17"
 msgid "Animal A Tissue Sample"
-msgstr "동물 A 조직 샘플"
+msgstr "동물 A 조직 표본"
 
 # EDID: SFBGS001_MS04_AnimalSampleB, REC: MISC:FULL
 msgctxt "001A18"
 msgid "Animal B Tissue Sample"
-msgstr "동물 B 조직 샘플"
+msgstr "동물 B 조직 표본"
 
 # EDID: SFBGS001_MS04_AnimalSampleC, REC: MISC:FULL
 msgctxt "001A19"
 msgid "Animal C Tissue Sample"
-msgstr "동물 C 조직 샘플"
+msgstr "동물 C 조직 표본"
 
 # EDID: SFBGS001_MS04_PlantSampleA, REC: MISC:FULL
 msgctxt "001A1A"
 msgid "Plant A Tissue Sample"
-msgstr "식물 A 조직 샘플"
+msgstr "식물 A 조직 표본"
 
 # EDID: SFBGS001_MS04_PlantSampleB, REC: MISC:FULL
 msgctxt "001A1B"
 msgid "Plant B Tissue Sample"
-msgstr "식물 B 조직 샘플"
+msgstr "식물 B 조직 표본"
 
 # EDID: SFBGS001_MS04_PlantSampleC, REC: MISC:FULL
 msgctxt "001A1C"
 msgid "Plant C Tissue Sample"
-msgstr "식물 C 조직 샘플"
+msgstr "식물 C 조직 표본"
 
 # EDID: SFBGS001_MS04_Chemical, REC: MISC:FULL
 msgctxt "001A1D"
@@ -5517,7 +5517,7 @@ msgstr "밀라 매저"
 # EDID: SFBGS001_MS04_CarcassActivatorB, REC: ACTI:ATTX
 msgctxt "001AD8"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 채취하기"
+msgstr "조직 표본 채취하기"
 
 # EDID: SFBGS001_MS04_CarcassActivatorB, REC: ACTI:FULL
 msgctxt "001AD9"
@@ -5527,7 +5527,7 @@ msgstr "동물 시체 B"
 # EDID: SFBGS001_MS04_CarcassActivatorC, REC: ACTI:ATTX
 msgctxt "001ADA"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 채취하기"
+msgstr "조직 표본 채취하기"
 
 # EDID: SFBGS001_MS04_CarcassActivatorC, REC: ACTI:FULL
 msgctxt "001ADB"
@@ -5537,7 +5537,7 @@ msgstr "동물 시체 A"
 # EDID: SFBGS001_MS04_CarcassActivatorA, REC: ACTI:ATTX
 msgctxt "001ADC"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 채취하기"
+msgstr "조직 표본 채취하기"
 
 # EDID: SFBGS001_MS04_CarcassActivatorA, REC: ACTI:FULL
 msgctxt "001ADD"
@@ -5547,17 +5547,17 @@ msgstr "동물 시체 A"
 # EDID: SFBGS001_MS04_PlantActivatorA, REC: ACTI:ATTX
 msgctxt "001ADE"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 채취하기"
+msgstr "조직 표본 채취하기"
 
 # EDID: SFBGS001_MS04_PlantActivatorB, REC: ACTI:ATTX
 msgctxt "001AE0"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 채취하기"
+msgstr "조직 표본 채취하기"
 
 # EDID: SFBGS001_MS04_PlantActivatorC, REC: ACTI:ATTX
 msgctxt "001AE2"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 채취하기"
+msgstr "조직 표본 채취하기"
 
 # EDID: SFBGS001_MS01_TevinaDesktop, REC: TMLM:UNAM
 msgctxt "001AE4"
@@ -6421,7 +6421,7 @@ msgid "Collect samples from altered plants in 3 regions (<Global=SFBGS001_MS04_P
 "Collect samples from altered plants in 3 regions "
 "(<Global=SFBGS001_MS04_PlantSamplesCollected>/<Global=SFBGS001_MS04_PlantSamplesTotal>)"
 msgstr ""
-"지역 3곳의 변종 식물에서 샘플 채취하기 (<Global=SFBGS001_MS04_PlantSamplesCollected>/<Global="
+"지역 3곳의 변종 식물에서 표본 채취하기 (<Global=SFBGS001_MS04_PlantSamplesCollected>/<Global="
 "SFBGS001_MS04_PlantSamplesTotal>)"
 
 # EDID: SFBGS001_MS04, REC: QUST:NNAM
@@ -6437,17 +6437,17 @@ msgstr "아자드 두바스와 대화하기"
 # EDID: SFBGS001_MS04, REC: QUST:NNAM
 msgctxt "001EDB"
 msgid "Collect a tissue sample from a dead bladed back"
-msgstr "죽은 칼날등줄기에서 조직 샘플 채취하기"
+msgstr "죽은 칼날등줄기에서 조직 표본 채취하기"
 
 # EDID: SFBGS001_MS04, REC: QUST:NNAM
 msgctxt "001EDC"
 msgid "Collect a tissue sample from a dead nautilus"
-msgstr "죽은 조개앵무에서 조직 샘플 채취하기"
+msgstr "죽은 조개앵무에서 조직 표본 채취하기"
 
 # EDID: SFBGS001_MS04, REC: QUST:NNAM
 msgctxt "001EDD"
 msgid "Collect a tissue sample from a dead groat"
-msgstr "죽은 그로트에서 조직 샘플 채취하기"
+msgstr "죽은 그로트에서 조직 표본 채취하기"
 
 # EDID: SFBGS001_MS04, REC: QUST:NNAM
 msgctxt "001EDE"
@@ -12716,7 +12716,7 @@ msgstr "Standard"
 # EDID: SFBGS001_MS04_SetStageTrigger, REC: ACTI:ATTX
 msgctxt "01305E"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 채취하기"
+msgstr "조직 표본 채취하기"
 
 # EDID: SFBGS001_MS04_SetStageTrigger, REC: ACTI:FULL
 msgctxt "01305F"
@@ -13076,7 +13076,7 @@ msgstr "추모"
 # EDID: SFBGS001_MS04_PlantSetStageTrigger, REC: ACTI:ATTX
 msgctxt "0131DC"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 채취하기"
+msgstr "조직 표본 채취하기"
 
 # EDID: SFBGS001_MS04_PlantSetStageTrigger, REC: ACTI:FULL
 msgctxt "0131DD"
@@ -20111,7 +20111,7 @@ msgstr ""
 "다즈라 시티 주변 지역에서 수집한 변형/비정상 식물 표본.\n"
 "\n"
 "방법: \n"
-"기준 샘플과 구별되는 다른 특성을 식별하기 위한 표준 분류학, 형태학 및 식물 화학 분석. 독성 증거를 판독하도록 색소체 및 핵 DNA "
+"기준 표본과 구별되는 다른 특성을 식별하기 위한 표준 분류학, 형태학 및 식물 화학 분석. 독성 증거를 판독하도록 색소체 및 핵 DNA "
 "마커를 확인하기 위한 DNA 바코딩 테스트.\n"
 "\n"
 "결과: \n"
@@ -20123,7 +20123,7 @@ msgstr ""
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Research, REC: TMLM:ITXT
 msgctxt "014BED"
 msgid "Plant tissue sample analysis"
-msgstr "식물 조직 샘플 분석"
+msgstr "식물 조직 표본 분석"
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Research, REC: TMLM:UNAM
 msgctxt "014BEE"
@@ -20141,13 +20141,13 @@ msgid "DATA: \nAnimal tissue samples have been obtained. Samples include those f
 "Consumption of toxic substance likely. Secondary poisoning also a possibility."
 msgstr ""
 "데이터: \n"
-"동물 조직 샘플을 채집함. 샘플에는 세 가지 일반적인 지역 종인 칼날등줄기, 그로트, 조개앵무에서 채취한 샘플이 포함되어 있음.\n"
+"동물 조직 표본을 채집함. 표본에는 세 가지 일반적인 지역 종인 칼날등줄기, 그로트, 조개앵무에서 채취한 표본이 포함되어 있음.\n"
 "\n"
 "방법: \n"
-"각 샘플에 대한 포괄적인 독성학 및 조직병리학 패널 시험을 건강한 표본의 알려진 기준 값과 비교.\n"
+"각 표본에 대한 포괄적인 독성학 및 조직병리학 패널 시험을 건강한 표본의 알려진 기준 값과 비교.\n"
 "\n"
 "결과: \n"
-"모든 샘플에서 빈혈과 점상 출혈 징후를 확인함.\n"
+"모든 표본에서 빈혈과 점상 출혈 징후를 확인함.\n"
 "\n"
 "결론: \n"
 "독성 물질 섭취 가능성. 2차 중독 가능성도 있음."
@@ -20155,7 +20155,7 @@ msgstr ""
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Research, REC: TMLM:ITXT
 msgctxt "014BEF"
 msgid "Animal tissue sample analysis"
-msgstr "동물 조직 샘플 분석"
+msgstr "동물 조직 표본 분석"
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Research, REC: TMLM:UNAM
 msgctxt "014BF0"
@@ -20180,8 +20180,8 @@ msgstr ""
 "최근에 발생한 재난이 바로 이러한 사망 속출의 근본 원인이다. \n"
 "\n"
 "방법: \n"
-"기이하거나 알려지지 않은 원인으로 사망한 여러 동물들의 조직 샘플부터 시작하여 데이터를 수집한다. 포식자에 의한 절단과 같은 명백한 사망 "
-"징후는 배제한다. 셰린과 나는 주변 지역 전체를 돌아다닐 나이가 아니기 때문에, 이러한 샘플을 수집하기 위해 연구 보조원을 고용해야 "
+"기이하거나 알려지지 않은 원인으로 사망한 여러 동물들의 조직 표본부터 시작하여 데이터를 수집한다. 포식자에 의한 절단과 같은 명백한 사망 "
+"징후는 배제한다. 셰린과 나는 주변 지역 전체를 돌아다닐 나이가 아니기 때문에, 이러한 표본을 수집하기 위해 연구 보조원을 고용해야 "
 "한다. 게다가 이 근처는 돌아다니는 것도 매우 위험해졌다.\n"
 "\n"
 "계획: \n"
@@ -20343,7 +20343,7 @@ msgstr "외투 있는 카딕 가문 정장"
 # EDID: SFBGS001_MS04_BladedBackTrigger, REC: ACTI:ATTX
 msgctxt "014C09"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 채취하기"
+msgstr "조직 표본 채취하기"
 
 # EDID: SFBGS001_MS04_BladedBackTrigger, REC: ACTI:FULL
 msgctxt "014C0A"
@@ -20353,7 +20353,7 @@ msgstr "칼날등줄기 시쳬"
 # EDID: SFBGS001_MS04_GroatTrigger, REC: ACTI:ATTX
 msgctxt "014C0B"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 채취하기"
+msgstr "조직 표본 채취하기"
 
 # EDID: SFBGS001_MS04_GroatTrigger, REC: ACTI:FULL
 msgctxt "014C0C"
@@ -20363,7 +20363,7 @@ msgstr "그로트 시체"
 # EDID: SFBGS001_MS04_NautilusTrigger, REC: ACTI:ATTX
 msgctxt "014C0D"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 채취하기"
+msgstr "조직 표본 채취하기"
 
 # EDID: SFBGS001_MS04_NautilusTrigger, REC: ACTI:FULL
 msgctxt "014C0E"
@@ -20686,7 +20686,7 @@ msgid "Blessed Serpent, the early results have surpassed my expectations.\n\nAft
 msgstr ""
 "위대한 뱀이시여, 초기 결과는 내 기대를 뛰어넘는 수준이다.\n"
 "\n"
-"독성 변종 표본 분석 중에 수집한 데이터를 고려해서 영양 화합물의 공식을 조정하기 위해 노력하고 나니, 예비 시험 중에 모든 샘플에서 "
+"독성 변종 표본 분석 중에 수집한 데이터를 고려해서 영양 화합물의 공식을 조정하기 위해 노력하고 나니, 예비 시험 중에 모든 표본에서 "
 "독소 생성 효소가 최소 80% 이상 감소했다는 사실을 보고하게 되어 참으로 기쁜 마음이다.\n"
 "\n"
 "나는 이 새로운 변종 생물을 섭취해서 죽었을지도 모르는 동물들의 생명을 구할 수 있게 됐을 뿐만 아니라 독성 식물 자체를 파괴하지 않아도 "
@@ -20716,7 +20716,7 @@ msgstr ""
 "하지만 위대한 뱀께서 자비를 베푸셔서, 위험에 굴하지 않고 내 영양 화합물 시제품을 회수할 수 있는 용감하고 유능한 연구 보조원을 "
 "우리에게 보내주셨다.\n"
 "\n"
-"도시에서 벌어진 사고 이후 나타난 독성 변종 표본들로부터 샘플까지 구했으니, 나는 이제 예전 프로젝트를 다시 궤도에 올리는 데 필요한 "
+"도시에서 벌어진 사고 이후 나타난 독성 변종 표본들로부터 표본까지 구했으니, 나는 이제 예전 프로젝트를 다시 궤도에 올리는 데 필요한 "
 "모든 것을 가졌다고 확신할 수 있게 됐다."
 
 # EDID: SFBGS001_LC27_TerminalSubmenu_MS04Compound, REC: TMLM:ITXT
@@ -20797,7 +20797,7 @@ msgstr "입구 및 전리품 목록"
 # EDID: SFBGS001_MS04_LC48BreadcrumbTrigger, REC: ACTI:ATTX
 msgctxt "014C4A"
 msgid "Collect Tissue Sample"
-msgstr "조직 샘플 채취하기"
+msgstr "조직 표본 채취하기"
 
 # EDID: SFBGS001_DazraPlayerHouseKey, REC: KEYM:FULL
 msgctxt "014C4B"

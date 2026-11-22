@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-18 03:10+0900\n"
-"PO-Revision-Date: 2026-11-21 15:49+0000\n"
+"PO-Revision-Date: 2026-11-23 15:49+0000\n"
 "Last-Translator: singularity <eldergmg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kor\n"
@@ -55458,7 +55458,7 @@ msgstr "기상 스캔 서브루틴 실행 중. 낙뢰 위치 도표화..."
 #: 0200FA17:02029B6C
 msgctxt "000D29"
 msgid "Reminder: Collect Aurora samples for analysis..."
-msgstr "알림: 분석용 오로라 샘플 수집..."
+msgstr "알림: 분석용 오로라 표본 수집..."
 
 #. List: 2
 #. REC: INFO:NAM1
